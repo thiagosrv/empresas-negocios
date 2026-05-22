@@ -1,87 +1,92 @@
 (function () {
   'use strict';
 
-  const BASE      = window.location.pathname.includes('/pages/') ? '../' : './';
-  const DATA_URL  = BASE + 'data/vagas.json';
-  const WA_GERAL  = 'https://wa.me/5519999115496';
-  const WA_PORTARIA = 'https://wa.me/5519978210246';
+  const BASE     = window.location.pathname.includes('/pages/') ? '../' : './';
+  const DATA_URL = BASE + 'data/vagas.json';
 
   const CATEGORY_META = {
-    'Portaria':   { color: '#c0392b', icon: '🏢', label: 'Portaria' },
-    'Facilities': { color: '#c0392b', icon: '🏢', label: 'Facilities' },
-    'Indústria':  { color: '#e67e22', icon: '🏭', label: 'Indústria' },
-    'Tecnologia': { color: '#2980b9', icon: '💻', label: 'TI' },
-    'Saúde':      { color: '#8e44ad', icon: '🏥', label: 'Saúde' },
-    'Logística':  { color: '#16a085', icon: '🚚', label: 'Logística' },
-    'Geral':      { color: '#7f8c8d', icon: '💼', label: 'Geral' },
+    'Portaria':   { color: '#c0392b', colorDark: '#922b21', icon: '🏢', label: 'Portaria'   },
+    'Facilities': { color: '#d35400', colorDark: '#a04000', icon: '🛠️',  label: 'Facilities' },
+    'Indústria':  { color: '#d97706', colorDark: '#b45309', icon: '🏭', label: 'Indústria'  },
+    'Tecnologia': { color: '#2563eb', colorDark: '#1d4ed8', icon: '💻', label: 'TI'         },
+    'Saúde':      { color: '#7c3aed', colorDark: '#6d28d9', icon: '🏥', label: 'Saúde'      },
+    'Logística':  { color: '#059669', colorDark: '#047857', icon: '🚚', label: 'Logística'  },
+    'Geral':      { color: '#4b5563', colorDark: '#374151', icon: '💼', label: 'Geral'      },
   };
 
-  function getCategoryMeta(cat) {
+  function getMeta(cat) {
     return CATEGORY_META[cat] || CATEGORY_META['Geral'];
   }
 
-  function isFacilities(cat) {
-    return cat === 'Portaria' || cat === 'Facilities';
-  }
-
-  function buildAvatar(company, category) {
-    const meta   = getCategoryMeta(category);
-    const letter = (company || 'E').charAt(0).toUpperCase();
-    return `<div class="job-avatar" style="background:${meta.color}">${letter}</div>`;
-  }
-
-  function buildBadge(text, cls) {
-    return `<span class="job-badge ${cls || ''}">${text}</span>`;
-  }
-
-  function buildCard(job, isFeatured) {
-    const meta    = getCategoryMeta(job.category);
-    const wa      = isFacilities(job.category) ? WA_PORTARIA : WA_GERAL;
-    const ctaHref = isFeatured ? job.link : job.link;
-    const ctaText = isFeatured ? '💬 Candidatar-se' : 'Ver vaga →';
-    const ctaRel  = isFeatured ? 'noopener' : 'noopener noreferrer';
-    const ctaTarget = '_blank';
-
-    const featuredBadge = isFeatured
-      ? '<span style="display:inline-flex;align-items:center;gap:4px;background:#fff3cd;color:#856404;font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;margin-bottom:8px;">⭐ DESTAQUE</span>'
-      : '';
+  // ─── FEATURED CARD (Proteção Talentos) ────────────────────────────────────
+  function buildFeaturedCard(job) {
+    const meta   = getMeta(job.category);
+    const letter = (job.company || 'P').charAt(0).toUpperCase();
 
     return `
-<article class="job-card" data-city="${job.city}" data-category="${job.category}">
-  ${buildAvatar(job.company, job.category)}
+<article class="pt-card">
+  <div class="pt-star-badge">⭐ DESTAQUE</div>
+  <div class="pt-card-header">
+    <div class="pt-avatar" style="background:linear-gradient(135deg,${meta.color},${meta.colorDark})">
+      ${letter}
+    </div>
+    <div class="pt-card-titles">
+      <div class="pt-job-title">${job.title}</div>
+      <div class="pt-job-company">${job.company}</div>
+    </div>
+  </div>
+  ${job.snippet ? `<p class="pt-snippet">${job.snippet}</p>` : ''}
+  <div class="pt-chips">
+    ${job.salary ? `<span class="pt-chip salary">💰 ${job.salary}</span>` : ''}
+    ${job.type   ? `<span class="pt-chip type">📋 ${job.type}</span>`     : ''}
+    <span class="pt-chip location">📍 ${job.city}</span>
+  </div>
+  <a href="${job.link}" target="_blank" rel="noopener" class="pt-cta">
+    Ver oportunidade <span>→</span>
+  </a>
+</article>`;
+  }
+
+  // ─── INDEED JOB CARD ──────────────────────────────────────────────────────
+  function buildJobCard(job) {
+    const meta   = getMeta(job.category);
+    const letter = (job.company || 'E').charAt(0).toUpperCase();
+
+    return `
+<article class="job-card" data-city="${job.city}" data-category="${job.category}" style="--cat-color:${meta.color}">
+  <div class="job-avatar" style="background:${meta.color}">${letter}</div>
   <div class="job-info">
-    ${featuredBadge}
     <div class="job-title">${job.title}</div>
     <div class="job-company">${job.company}</div>
     ${job.snippet ? `<p class="job-snippet">${job.snippet}</p>` : ''}
     <div class="job-meta">
-      ${buildBadge(meta.icon + ' ' + job.category, '')}
-      ${buildBadge('📍 ' + job.city, 'location')}
-      ${job.type   ? buildBadge(job.type, 'full-time') : ''}
-      ${job.salary ? buildBadge(job.salary, 'salary') : ''}
-      ${job.dateRel ? buildBadge(job.dateRel, '') : ''}
+      <span class="job-badge cat">${meta.icon} ${job.category}</span>
+      <span class="job-badge location">📍 ${job.city}</span>
+      ${job.type   ? `<span class="job-badge type">${job.type}</span>`          : ''}
+      ${job.salary ? `<span class="job-badge salary">💰 ${job.salary}</span>`  : ''}
+      ${job.dateRel? `<span class="job-badge date">🕐 ${job.dateRel}</span>`   : ''}
     </div>
   </div>
-  <a href="${ctaHref}" target="${ctaTarget}" rel="${ctaRel}" class="job-cta">${ctaText}</a>
+  <a href="${job.link}" target="_blank" rel="noopener noreferrer" class="job-cta">Ver vaga →</a>
 </article>`;
   }
 
-  // ─── FILTRO ───────────────────────────────────────────────────────────────
-  let allJobs     = [];
+  // ─── FILTER STATE ─────────────────────────────────────────────────────────
+  let allJobs      = [];
   let activeFilter = 'all';
   let activeCity   = '';
   let searchTerm   = '';
   let visibleCount = 12;
 
   function applyFilters() {
-    searchTerm   = (document.getElementById('searchInput')?.value || '').toLowerCase();
-    activeCity   = document.getElementById('cityFilter')?.value || '';
+    searchTerm = (document.getElementById('searchInput')?.value || '').toLowerCase();
+    activeCity = document.getElementById('cityFilter')?.value || '';
 
     const filtered = allJobs.filter(j => {
       const catMatch  = activeFilter === 'all' || j.category === activeFilter;
-      const cityMatch = !activeCity || j.city === activeCity;
-      const textMatch = !searchTerm ||
-        j.title.toLowerCase().includes(searchTerm) ||
+      const cityMatch = !activeCity  || j.city === activeCity;
+      const textMatch = !searchTerm  ||
+        j.title.toLowerCase().includes(searchTerm)   ||
         j.company.toLowerCase().includes(searchTerm) ||
         (j.snippet || '').toLowerCase().includes(searchTerm);
       return catMatch && cityMatch && textMatch;
@@ -96,27 +101,28 @@
     const container = document.getElementById('vagas-container');
     if (!container) return;
 
-    const count = document.getElementById('jobCount');
-    if (count) count.textContent = list.length;
+    const countEl = document.getElementById('jobCount');
+    if (countEl) countEl.textContent = list.length;
 
     const shown = list.slice(0, visibleCount);
 
     if (!shown.length) {
       container.innerHTML = `
-        <div style="text-align:center;padding:48px 24px;color:var(--gray);">
-          <div style="font-size:40px;margin-bottom:12px;">🔍</div>
-          <p style="font-size:16px;font-weight:600;margin-bottom:6px;">Nenhuma vaga encontrada</p>
-          <p style="font-size:13px;">Tente outros filtros ou <a href="https://wa.me/5519999115496" style="color:var(--accent);font-weight:700;">fale conosco</a> para mais vagas.</p>
+        <div class="empty-state">
+          <div class="empty-icon">🔍</div>
+          <p class="empty-title">Nenhuma vaga encontrada</p>
+          <p class="empty-sub">Tente outros filtros ou <a href="https://protecaotalentos.online" target="_blank" rel="noopener">acesse a Proteção Talentos</a> para mais oportunidades.</p>
         </div>`;
+      const loadMore = document.getElementById('loadMoreBtn');
+      if (loadMore) loadMore.style.display = 'none';
       return;
     }
 
-    container.innerHTML = shown.map(j => buildCard(j, false)).join('');
+    container.innerHTML = shown.map(j => buildJobCard(j)).join('');
 
-    // Botão "carregar mais"
     const loadMore = document.getElementById('loadMoreBtn');
     if (loadMore) {
-      loadMore.style.display = list.length > visibleCount ? 'block' : 'none';
+      loadMore.style.display = list.length > visibleCount ? 'flex' : 'none';
       loadMore.onclick = function () {
         visibleCount += 12;
         renderJobs(list);
@@ -124,47 +130,53 @@
     }
   }
 
-  // ─── FILTRO POR CATEGORIA (pills) ─────────────────────────────────────────
+  // ─── FILTER PILLS ─────────────────────────────────────────────────────────
   function setupFilterBtns() {
     document.querySelectorAll('.filter-btn[data-filter]').forEach(btn => {
       btn.addEventListener('click', function () {
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
         this.classList.add('active');
-        activeFilter  = this.dataset.filter;
-        visibleCount  = 12;
+        activeFilter = this.dataset.filter;
+        visibleCount = 12;
         applyFilters();
       });
     });
   }
 
-  // ─── RENDERIZAR FEATURED ──────────────────────────────────────────────────
+  // ─── RENDER FEATURED (Proteção Talentos) ──────────────────────────────────
   function renderFeatured(featured) {
     const container = document.getElementById('featured-container');
     if (!container || !featured.length) return;
-    container.innerHTML = featured.map(j => buildCard(j, true)).join('');
+    container.innerHTML = featured.map(j => buildFeaturedCard(j)).join('');
   }
 
-  // ─── ATUALIZAR TIMESTAMP ──────────────────────────────────────────────────
+  // ─── TIMESTAMP ────────────────────────────────────────────────────────────
   function setUpdatedTime(iso) {
     const el = document.getElementById('updated-time');
     if (!el || !iso) return;
     try {
       const d = new Date(iso);
-      el.textContent = 'Atualizado: ' + d.toLocaleString('pt-BR', { day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit' });
+      el.textContent = 'Atualizado ' + d.toLocaleString('pt-BR', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
     } catch {}
   }
 
-  // ─── TOTAL COUNT ──────────────────────────────────────────────────────────
-  function setTotalCount(n) {
-    const el = document.getElementById('totalJobCount');
-    if (el) el.textContent = n;
+  // ─── TOTAL COUNT (animated) ───────────────────────────────────────────────
+  function animateCount(el, target) {
+    if (!el) return;
+    let current = 0;
+    const step  = Math.ceil(target / 30);
+    const timer = setInterval(() => {
+      current = Math.min(current + step, target);
+      el.textContent = current;
+      if (current >= target) clearInterval(timer);
+    }, 30);
   }
 
   // ─── INIT ─────────────────────────────────────────────────────────────────
   async function init() {
     const container = document.getElementById('vagas-container');
     if (container) {
-      container.innerHTML = '<div class="rss-loader"><div class="spinner"></div><span>Buscando vagas...</span></div>';
+      container.innerHTML = `<div class="rss-loader"><div class="spinner"></div><span>Buscando vagas da região...</span></div>`;
     }
 
     try {
@@ -176,7 +188,8 @@
       setUpdatedTime(data.updated);
 
       allJobs = data.jobs || [];
-      setTotalCount((data.featured?.length || 0) + allJobs.length);
+      const total = (data.featured?.length || 0) + allJobs.length;
+      animateCount(document.getElementById('totalJobCount'), total);
 
       setupFilterBtns();
       applyFilters();
@@ -185,9 +198,10 @@
       console.warn('[Vagas]', e.message);
       if (container) {
         container.innerHTML = `
-          <div style="text-align:center;padding:40px 24px;color:var(--gray);">
-            <p style="font-size:15px;font-weight:600;margin-bottom:8px;">⚠️ Não foi possível carregar vagas automáticas</p>
-            <p style="font-size:13px;">As vagas em destaque acima estão disponíveis. <a href="https://wa.me/5519999115496" style="color:var(--accent);font-weight:700;">Fale conosco</a> para mais oportunidades.</p>
+          <div class="empty-state">
+            <div class="empty-icon">⚠️</div>
+            <p class="empty-title">Não foi possível carregar as vagas</p>
+            <p class="empty-sub">As vagas em destaque acima estão disponíveis. <a href="https://protecaotalentos.online" target="_blank">Acesse a Proteção Talentos</a> para mais oportunidades.</p>
           </div>`;
       }
     }

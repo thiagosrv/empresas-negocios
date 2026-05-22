@@ -71,7 +71,7 @@ ul { list-style: none; }
 }
 .ticker-track {
   display: inline-block;
-  animation: ticker 40s linear infinite;
+  animation: ticker 75s linear infinite;
 }
 .ticker-track:hover { animation-play-state: paused; }
 .ticker-track span {
@@ -861,6 +861,7 @@ ul { list-style: none; }
   .header-top { padding: 10px 16px; }
   .header-top .logo img { height: 40px; }
   .logo-text { font-size: 20px; }
+  .header-actions { display: none; }
   .container { padding: 0 16px; }
   .main-layout { padding: 16px; gap: 16px; }
   .hero-grid { display: flex; flex-direction: column; }
