@@ -29,15 +29,25 @@
     return Math.max(2, Math.round((String(text || '').split(' ').length) / 40));
   }
 
+  function articleHref(article) {
+    // Link para página interna — ajusta caminho conforme localização
+    var inPages = window.location.pathname.includes('/pages/');
+    var base    = inPages ? 'artigo.html' : 'pages/artigo.html';
+    return base + '?u=' + encodeURIComponent(article.link);
+  }
+
   function buildCard(article, layout) {
     const imgSrc = article.image || FALLBACK_IMG;
     const tagCls = article.cls ? 'tag ' + article.cls : 'tag';
+    const href   = articleHref(article);
 
-    const imgTag = '<img src="' + imgSrc + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK_IMG + '\'" />';
+    const imgTag = '<a href="' + href + '">'
+      + '<img src="' + imgSrc + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK_IMG + '\'" />'
+      + '</a>';
 
     const body = '<div class="card-body">'
       + '<span class="' + tagCls + '">' + esc(article.tag) + '</span>'
-      + '<a href="' + esc(article.link) + '" class="card-title" target="_blank" rel="noopener noreferrer">' + esc(article.title) + '</a>'
+      + '<a href="' + href + '" class="card-title">' + esc(article.title) + '</a>'
       + '<p class="card-summary">' + esc(article.summary) + '</p>'
       + '<div class="meta">'
       + '<time>' + esc(article.date) + '</time>'

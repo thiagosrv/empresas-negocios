@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="meta-title">Artigo | Empresas &amp; Negócios</title>
+  <meta name="robots" content="noindex, follow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <meta name="theme-color" content="#000000" />
+  <style>
+    .artigo-wrap {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+    .artigo-source-bar {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+    .artigo-source-bar .tag { font-size: 12px; }
+    .artigo-source-bar time { font-size: 13px; color: var(--gray); }
+    .artigo-title {
+      font-size: clamp(22px, 4vw, 36px);
+      font-weight: 800;
+      line-height: 1.25;
+      color: var(--dark);
+      margin-bottom: 20px;
+    }
+    .artigo-hero {
+      width: 100%;
+      aspect-ratio: 16/9;
+      object-fit: cover;
+      border-radius: 10px;
+      margin-bottom: 28px;
+      background: var(--border);
+    }
+    .artigo-summary {
+      font-size: 18px;
+      line-height: 1.75;
+      color: #333;
+      margin-bottom: 36px;
+      padding-bottom: 28px;
+      border-bottom: 2px solid var(--border);
+    }
+    .artigo-cta-box {
+      background: var(--black);
+      border-radius: 12px;
+      padding: 32px;
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    .artigo-cta-box p {
+      color: #aaa;
+      font-size: 14px;
+      margin-bottom: 18px;
+    }
+    .artigo-cta-box strong {
+      color: #fff;
+      font-size: 16px;
+      display: block;
+      margin-bottom: 6px;
+    }
+    .btn-cta-source {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      font-weight: 700;
+      font-size: 16px;
+      padding: 14px 32px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background .2s;
+    }
+    .btn-cta-source:hover { background: var(--accent-dark); }
+    .artigo-share {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 48px;
+    }
+    .artigo-share span {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--gray);
+      display: flex;
+      align-items: center;
+    }
+    .btn-share {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      text-decoration: none;
+      color: #fff;
+      cursor: pointer;
+      border: none;
+    }
+    .btn-share.whatsapp { background: #25D366; }
+    .btn-share.twitter  { background: #000; }
+    .btn-share.copy     { background: var(--dark); color: #fff; }
+    .relacionadas-title {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--border);
+    }
+    .artigo-skeleton {
+      animation: pulse 1.4s ease-in-out infinite;
+    }
+    .sk-block {
+      background: var(--border);
+      border-radius: 6px;
+      margin-bottom: 14px;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: .4; }
+    }
+  </style>
+</head>
+<body>
+<div class="reading-progress" id="readingProgress"></div>
+<div class="ticker-bar">
+  <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
+    <span class="ticker-label">Últimas</span>
+    <div class="ticker-track" id="tickerTrack">
+      <span>Notícias de economia e negócios em tempo real</span>
+    </div>
+  </div>
+</div>
+<header class="site-header">
+  <div class="header-top">
+    <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+    <a href="../index.html" class="logo"><span class="logo-text">Empresas<span>&</span>Negócios</span></a>
+    <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
+  </div>
+  <nav class="main-nav" id="mainNav"><div class="nav-inner">
+    <a href="../index.html">Início</a><a href="novidades.html">Novidades</a><a href="startups.html">Startups</a><a href="tecnologia.html">Tecnologia</a><a href="servicos.html">Serviços</a><a href="industrias.html">Indústrias</a><a href="saude.html">Saúde</a><a href="sociedade.html">Sociedade</a><a href="cultura.html">Cultura</a><a href="brasil.html">Brasil</a><a href="mundo.html">Mundo</a><a href="campinas.html">Campinas</a><a href="esportes.html">Esportes</a>
+  </div></nav>
+</header>
+
+<div class="artigo-wrap">
+
+  <!-- Breadcrumb -->
+  <p class="breadcrumb" id="artigo-breadcrumb" style="margin-bottom:24px;">
+    <a href="../index.html">Início</a> › <a href="#" id="bc-section">Notícias</a> › <span id="bc-title">Carregando...</span>
+  </p>
+
+  <!-- Skeleton enquanto carrega -->
+  <div id="artigo-skeleton" class="artigo-skeleton">
+    <div class="sk-block" style="height:24px;width:120px;"></div>
+    <div class="sk-block" style="height:40px;width:90%;margin-top:16px;"></div>
+    <div class="sk-block" style="height:40px;width:70%;"></div>
+    <div class="sk-block" style="height:380px;border-radius:10px;margin-top:20px;"></div>
+    <div class="sk-block" style="height:18px;width:100%;margin-top:24px;"></div>
+    <div class="sk-block" style="height:18px;width:95%;"></div>
+    <div class="sk-block" style="height:18px;width:80%;"></div>
+  </div>
+
+  <!-- Conteúdo do artigo (preenchido pelo JS) -->
+  <div id="artigo-content" style="display:none;">
+    <div class="artigo-source-bar">
+      <span class="tag" id="art-tag">Notícias</span>
+      <time id="art-date"></time>
+      <span style="font-size:13px;color:var(--gray);">· <span id="art-source"></span></span>
+    </div>
+    <h1 class="artigo-title" id="art-title"></h1>
+    <img class="artigo-hero" id="art-img" src="" alt="" loading="eager"
+         onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop'" />
+    <p class="artigo-summary" id="art-summary"></p>
+
+    <!-- CTA para ler o artigo completo -->
+    <div class="artigo-cta-box">
+      <strong>📰 Este é um resumo da notícia</strong>
+      <p>O artigo completo está disponível no site de origem. Clique para ler na íntegra.</p>
+      <a id="btn-read-full" href="#" target="_blank" rel="noopener noreferrer" class="btn-cta-source">
+        Ler artigo completo →
+      </a>
+    </div>
+
+    <!-- Compartilhar -->
+    <div class="artigo-share">
+      <span>Compartilhar:</span>
+      <a id="share-whatsapp" href="#" target="_blank" rel="noopener noreferrer" class="btn-share whatsapp">📱 WhatsApp</a>
+      <a id="share-twitter"  href="#" target="_blank" rel="noopener noreferrer" class="btn-share twitter">𝕏 Twitter</a>
+      <button class="btn-share copy" onclick="copyLink()">🔗 Copiar link</button>
+    </div>
+
+    <!-- Notícias relacionadas -->
+    <div id="relacionadas-wrap">
+      <div class="relacionadas-title">📌 Mais notícias</div>
+      <div id="relacionadas-grid" class="category-grid" data-rss-group="negocios" data-rss-max="3"></div>
+    </div>
+  </div>
+
+  <!-- Erro -->
+  <div id="artigo-error" style="display:none;text-align:center;padding:60px 0;">
+    <p style="font-size:48px;">😕</p>
+    <h2 style="margin-bottom:12px;">Artigo não encontrado</h2>
+    <p style="color:var(--gray);margin-bottom:24px;">Este artigo pode ter expirado ou o link está incorreto.</p>
+    <a href="../index.html" class="btn-cta-source">← Voltar para o início</a>
+  </div>
+
+</div>
+
+<section class="newsletter-section" id="newsletter">
+  <div class="nl-inner">
+    <h2>Fique por dentro</h2>
+    <p>As melhores notícias de negócios direto no seu e-mail, toda manhã.</p>
+    <form class="nl-form" onsubmit="handleNewsletter(event)">
+      <input type="email" placeholder="Digite seu e-mail" required />
+      <button type="submit">Inscrever grátis</button>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div class="footer-brand"><div class="logo-text">Empresas<span>&</span>Negócios</div><p>O portal de referência em notícias sobre negócios e inovação.</p></div>
+    <div class="footer-col"><h4>Editorias</h4><ul><li><a href="novidades.html">Novidades</a></li><li><a href="brasil.html">Brasil</a></li><li><a href="mundo.html">Mundo</a></li><li><a href="startups.html">Startups</a></li></ul></div>
+    <div class="footer-col"><h4>Mais</h4><ul><li><a href="tecnologia.html">Tecnologia</a></li><li><a href="sociedade.html">Sociedade</a></li></ul></div>
+    <div class="footer-col"><h4>Institucional</h4><ul><li><a href="#">Sobre nós</a></li><li><a href="#">Anuncie</a></li></ul></div>
+  </div>
+  <div class="footer-bottom"><span>© 2026 Empresas &amp; Negócios.</span></div>
+</footer>
+
+<div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Link copiado!</span></div>
+<button class="back-to-top" id="backToTop">↑</button>
+<script src="../js/main.js"></script>
+<script src="../js/news-feed.js"></script>
+<script>
+(function () {
+  const BASE = '../';
+  const DATA_URL = BASE + 'data/noticias.json';
+
+  // Pega parâmetros da URL
+  const params  = new URLSearchParams(window.location.search);
+  const origUrl = params.get('u');   // URL original do artigo
+
+  const GROUP_MAP = {
+    campinas: { label: 'Campinas', href: 'campinas.html' },
+    esportes: { label: 'Esportes', href: 'esportes.html' },
+    negocios: { label: 'Notícias', href: 'novidades.html' },
+  };
+
+  async function init() {
+    if (!origUrl) { showError(); return; }
+
+    try {
+      const res  = await fetch(DATA_URL);
+      const data = await res.json();
+
+      // Procura o artigo em todos os grupos
+      let article = null;
+      let group   = 'negocios';
+      for (const [g, articles] of Object.entries(data.feeds)) {
+        const found = articles.find(a => a.link === origUrl);
+        if (found) { article = found; group = g; break; }
+      }
+
+      if (!article) { showError(); return; }
+
+      renderArticle(article, group, data.feeds);
+    } catch (e) {
+      showError();
+    }
+  }
+
+  function renderArticle(a, group, feeds) {
+    document.getElementById('artigo-skeleton').style.display = 'none';
+    document.getElementById('artigo-content').style.display  = 'block';
+
+    // Meta
+    document.title = a.title + ' | Empresas & Negócios';
+    document.getElementById('meta-title').textContent = a.title + ' | Empresas & Negócios';
+
+    // Breadcrumb
+    const gInfo = GROUP_MAP[group] || GROUP_MAP.negocios;
+    document.getElementById('bc-section').textContent = gInfo.label;
+    document.getElementById('bc-section').href        = gInfo.href;
+    document.getElementById('bc-title').textContent   = a.title.slice(0, 60) + (a.title.length > 60 ? '…' : '');
+
+    // Conteúdo
+    const tagEl = document.getElementById('art-tag');
+    tagEl.textContent = a.tag;
+    if (a.cls) tagEl.classList.add(a.cls);
+
+    document.getElementById('art-date').textContent    = a.date;
+    document.getElementById('art-source').textContent  = a.source;
+    document.getElementById('art-title').textContent   = a.title;
+    document.getElementById('art-summary').textContent = a.summary;
+
+    const imgEl = document.getElementById('art-img');
+    imgEl.src = a.image || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop';
+    imgEl.alt = a.title;
+
+    // CTA
+    const btnFull = document.getElementById('btn-read-full');
+    btnFull.href        = a.link;
+    btnFull.textContent = 'Ler artigo completo no ' + a.source + ' →';
+
+    // Compartilhar
+    const pageUrl = window.location.href;
+    document.getElementById('share-whatsapp').href = 'https://wa.me/?text=' + encodeURIComponent(a.title + ' ' + pageUrl);
+    document.getElementById('share-twitter').href  = 'https://twitter.com/intent/tweet?text=' + encodeURIComponent(a.title) + '&url=' + encodeURIComponent(pageUrl);
+
+    // Relacionadas — carrega mesmo grupo, exclui artigo atual
+    const related = (feeds[group] || []).filter(x => x.link !== a.link).slice(0, 3);
+    const relGrid = document.getElementById('relacionadas-grid');
+    if (related.length) {
+      relGrid.className = 'category-grid';
+      relGrid.innerHTML = related.map(r => {
+        const fb = 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=500&h=280&fit=crop';
+        const rUrl = 'artigo.html?u=' + encodeURIComponent(r.link);
+        return '<article class="card">'
+          + '<img src="' + (r.image || fb) + '" alt="" loading="lazy" onerror="this.src=\'' + fb + '\'" />'
+          + '<div class="card-body">'
+          + '<span class="tag ' + (r.cls || '') + '">' + r.tag + '</span>'
+          + '<a href="' + rUrl + '" class="card-title">' + r.title + '</a>'
+          + '<div class="meta"><time>' + r.date + '</time></div>'
+          + '</div></article>';
+      }).join('');
+    } else {
+      document.getElementById('relacionadas-wrap').style.display = 'none';
+    }
+  }
+
+  function showError() {
+    document.getElementById('artigo-skeleton').style.display = 'none';
+    document.getElementById('artigo-error').style.display    = 'block';
+  }
+
+  window.copyLink = function () {
+    navigator.clipboard.writeText(window.location.href).then(function () {
+      if (window.showToast) showToast('✅', 'Link copiado!');
+    });
+  };
+
+  init();
+})();
+</script>
+</body>
+</html>
