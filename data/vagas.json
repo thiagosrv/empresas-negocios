@@ -1,0 +1,51 @@
+{
+  "updated": "2026-05-22T10:00:00Z",
+  "featured": [
+    {
+      "id": "feat-001",
+      "title": "Porteiro Especializado",
+      "company": "Empresa de Facilities — Americana",
+      "city": "Americana",
+      "category": "Portaria",
+      "salary": "R$ 1.800 – 2.200",
+      "type": "CLT",
+      "link": "https://wa.me/5519978210246?text=Olá!+Tenho+interesse+na+vaga+de+Porteiro+Especializado.",
+      "snippet": "Buscamos porteiro com experiência em controle de acesso, atendimento ao público e uso de sistemas de CFTV. Treinamento oferecido.",
+      "date": "2026-05-22",
+      "dateRel": "hoje",
+      "source": "Destaque",
+      "featured": true
+    },
+    {
+      "id": "feat-002",
+      "title": "Recepcionista Corporativa",
+      "company": "Empresa de Facilities — Americana",
+      "city": "Americana",
+      "category": "Portaria",
+      "salary": "R$ 1.600 – 2.000",
+      "type": "CLT",
+      "link": "https://wa.me/5519978210246?text=Olá!+Tenho+interesse+na+vaga+de+Recepcionista+Corporativa.",
+      "snippet": "Recepcionista para condomínio corporativo. Perfil comunicativo, apresentação impecável, domínio de rotinas de portaria e sistemas de visitantes.",
+      "date": "2026-05-22",
+      "dateRel": "hoje",
+      "source": "Destaque",
+      "featured": true
+    },
+    {
+      "id": "feat-003",
+      "title": "Auxiliar de Facilities",
+      "company": "Empresa de Facilities — Americana / Santa Bárbara",
+      "city": "Americana",
+      "category": "Facilities",
+      "salary": "R$ 1.500 – 1.900",
+      "type": "CLT",
+      "link": "https://wa.me/5519978210246?text=Olá!+Tenho+interesse+na+vaga+de+Auxiliar+de+Facilities.",
+      "snippet": "Auxiliar para apoio em rotinas de facilities: conservação, controle de materiais, suporte à portaria e recepção em períodos de folga.",
+      "date": "2026-05-22",
+      "dateRel": "hoje",
+      "source": "Destaque",
+      "featured": true
+    }
+  ],
+  "jobs": []
+}

@@ -1,0 +1,40 @@
+name: Buscar Vagas de Emprego
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 8h BRT (UTC-3) = 11h UTC, todo dia
+  workflow_dispatch:        # permite disparar manualmente
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-vagas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Buscar vagas de emprego (Indeed RSS)
+        run: node scripts/fetch-vagas.js
+
+      - name: Commitar vagas atualizadas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/vagas.json
+          git diff --staged --quiet || git commit -m "feat: vagas de emprego atualizadas [skip ci]"
+          git push

@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "fetch-rss": "node scripts/fetch-rss.js",
-    "generate-article": "node scripts/generate-article.js"
+    "generate-article": "node scripts/generate-article.js",
+    "fetch-vagas": "node scripts/fetch-vagas.js"
   },
   "dependencies": {
     "openai": "^4.52.0",

@@ -4,32 +4,266 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Vagas de Emprego em Americana, Santa Bárbara e Sumaré | Empresas &amp; Negócios</title>
-  <meta name="description" content="Vagas de emprego na região de Americana, Santa Bárbara D'Oeste e Sumaré. Portaria, facilities, indústria, tecnologia, saúde e mais." />
+  <meta name="description" content="Vagas de emprego atualizadas diariamente em Americana, Santa Bárbara D'Oeste, Sumaré e Campinas. Portaria, facilities, indústria, tecnologia, saúde e mais." />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
   <link rel="canonical" href="https://www.empresasenegocios.com.br/pages/vagas.html" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Empresas &amp; Negócios" />
   <meta property="og:title" content="Vagas de Emprego na Região | Empresas &amp; Negócios" />
-  <meta property="og:description" content="Vagas de emprego em Americana, Santa Bárbara D'Oeste e Sumaré. Encontre sua próxima oportunidade." />
+  <meta property="og:description" content="Vagas de emprego em Americana, Santa Bárbara D'Oeste, Sumaré e Campinas. Atualizadas diariamente." />
   <meta property="og:url" content="https://www.empresasenegocios.com.br/pages/vagas.html" />
   <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Vagas de Emprego na Região",
+    "description": "Vagas de emprego em Americana, Santa Bárbara D'Oeste, Sumaré e Campinas.",
+    "url": "https://www.empresasenegocios.com.br/pages/vagas.html",
+    "inLanguage": "pt-BR"
+  }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="../css/style.css" />
+  <style>
+    /* ── Vagas Hero ── */
+    .vagas-hero {
+      background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 60%, #16213e 100%);
+      padding: 48px 0 36px;
+      color: #fff;
+    }
+    .vagas-hero h1 {
+      font-size: clamp(26px, 4vw, 42px);
+      font-weight: 900;
+      line-height: 1.1;
+      margin-bottom: 8px;
+    }
+    .vagas-hero .subtitle {
+      font-size: 15px;
+      color: rgba(255,255,255,.6);
+      margin-bottom: 28px;
+    }
+    /* ── Search Bar ── */
+    .vagas-search {
+      display: flex;
+      gap: 10px;
+      background: #fff;
+      border-radius: 12px;
+      padding: 8px;
+      max-width: 720px;
+      box-shadow: 0 8px 32px rgba(0,0,0,.3);
+    }
+    .vagas-search input[type="text"] {
+      flex: 1;
+      border: none;
+      outline: none;
+      font-size: 15px;
+      padding: 8px 14px;
+      color: #111;
+      font-family: var(--font-main);
+      background: transparent;
+    }
+    .vagas-search select {
+      border: none;
+      outline: none;
+      font-size: 14px;
+      font-weight: 600;
+      color: #444;
+      background: #f5f5f5;
+      border-radius: 8px;
+      padding: 8px 12px;
+      cursor: pointer;
+      font-family: var(--font-main);
+    }
+    .vagas-search button {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 10px 24px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background .2s;
+      font-family: var(--font-main);
+    }
+    .vagas-search button:hover { background: var(--accent-dark); }
+    /* ── Stats ── */
+    .vagas-hero-stats {
+      display: flex;
+      gap: 32px;
+      margin-top: 24px;
+      flex-wrap: wrap;
+    }
+    .vhs-item { display: flex; align-items: center; gap: 10px; }
+    .vhs-num {
+      font-size: 26px;
+      font-weight: 900;
+      color: #fff;
+    }
+    .vhs-label {
+      font-size: 12px;
+      color: rgba(255,255,255,.5);
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      line-height: 1.3;
+    }
+    .vhs-divider {
+      width: 1px;
+      height: 32px;
+      background: rgba(255,255,255,.15);
+    }
+    /* ── Filter Bar ── */
+    .filter-bar {
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      padding: 12px 0;
+      position: sticky;
+      top: 74px;
+      z-index: 900;
+    }
+    .filter-bar .jobs-filter {
+      margin-bottom: 0;
+      overflow-x: auto;
+      flex-wrap: nowrap;
+      scrollbar-width: none;
+      padding-bottom: 2px;
+    }
+    .filter-bar .jobs-filter::-webkit-scrollbar { display: none; }
+    /* ── Job Avatar ── */
+    .job-avatar {
+      width: 52px; height: 52px; min-width: 52px;
+      border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px; font-weight: 900;
+      color: #fff;
+    }
+    /* ── Job Snippet ── */
+    .job-snippet {
+      font-size: 13px;
+      color: var(--gray);
+      line-height: 1.55;
+      margin: 6px 0 10px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    /* ── Featured Section ── */
+    .featured-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 12px;
+    }
+    .featured-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.08);
+      border-top: 3px solid var(--accent);
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: transform .2s, box-shadow .2s;
+    }
+    .featured-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(0,0,0,.12);
+    }
+    .fc-header { display: flex; align-items: center; gap: 12px; }
+    .fc-avatar {
+      width: 44px; height: 44px; min-width: 44px;
+      border-radius: 10px;
+      background: var(--accent);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 20px; font-weight: 900; color: #fff;
+    }
+    .fc-title { font-size: 15px; font-weight: 700; color: var(--dark); line-height: 1.3; }
+    .fc-company { font-size: 12px; color: var(--gray); margin-top: 2px; }
+    .fc-snippet { font-size: 13px; color: var(--gray); line-height: 1.55; }
+    .fc-meta { display: flex; flex-wrap: wrap; gap: 6px; }
+    .fc-badge {
+      font-size: 11px; font-weight: 600;
+      padding: 3px 10px; border-radius: 20px;
+      background: var(--gray-bg); color: var(--gray-dark);
+    }
+    .fc-badge.salary { background: #fff3e0; color: #e65100; }
+    .fc-badge.type   { background: #e8f5e9; color: #2e7d32; }
+    .fc-cta {
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      background: #25D366; color: #fff;
+      padding: 10px 16px; border-radius: 8px;
+      font-size: 13px; font-weight: 700; text-decoration: none;
+      transition: background .2s; margin-top: auto;
+    }
+    .fc-cta:hover { background: #1ebe5a; color: #fff; }
+    /* ── Section Header badge ── */
+    .badge-auto {
+      display: inline-flex; align-items: center; gap: 5px;
+      background: #e8f5e9; color: #2e7d32;
+      font-size: 11px; font-weight: 700;
+      padding: 3px 10px; border-radius: 20px;
+    }
+    .badge-auto::before { content: '●'; font-size: 8px; animation: blink 1.5s ease infinite; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.3} }
+    /* ── Updated time ── */
+    #updated-time { font-size: 11px; color: var(--gray-light); font-weight: 400; }
+    /* ── Load more ── */
+    #loadMoreBtn {
+      display: none;
+      width: 100%; margin: 24px 0;
+      background: var(--white); border: 2px solid var(--accent);
+      color: var(--accent); padding: 13px;
+      border-radius: 8px; font-size: 14px; font-weight: 700;
+      cursor: pointer; transition: background .2s, color .2s;
+      font-family: var(--font-main);
+    }
+    #loadMoreBtn:hover { background: var(--accent); color: #fff; }
+    /* ── CTA Anuncie ── */
+    .announce-cta {
+      background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%);
+      border-radius: 12px; padding: 28px 32px;
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 20px; flex-wrap: wrap; margin-top: 32px;
+    }
+    .announce-cta h3 { color: #fff; font-size: 18px; font-weight: 800; margin-bottom: 6px; }
+    .announce-cta p  { color: rgba(255,255,255,.6); font-size: 14px; }
+    .announce-cta a  {
+      background: #25D366; color: #fff; text-decoration: none;
+      padding: 12px 24px; border-radius: 8px;
+      font-size: 14px; font-weight: 700; white-space: nowrap;
+      display: inline-flex; align-items: center; gap: 8px;
+      transition: background .2s;
+    }
+    .announce-cta a:hover { background: #1ebe5a; color: #fff; }
+    /* ── Responsive ── */
+    @media (max-width: 860px) {
+      .featured-grid { grid-template-columns: 1fr; }
+      .vagas-search { flex-wrap: wrap; }
+      .vagas-search select { flex: 1; }
+    }
+    @media (max-width: 560px) {
+      .vagas-hero { padding: 32px 0 24px; }
+      .vagas-hero-stats { gap: 16px; }
+      .vhs-divider { display: none; }
+      .announce-cta { flex-direction: column; }
+    }
+  </style>
   <meta name="theme-color" content="#000000" />
 </head>
 <body>
 <div class="reading-progress" id="readingProgress"></div>
-
 <div class="ticker-bar">
   <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
     <span class="ticker-label">Vagas</span>
     <div class="ticker-track" id="tickerTrack">
-      <span>847 vagas disponíveis na região</span>
-      <span>Americana · Santa Bárbara D'Oeste · Sumaré</span>
-      <span>Envie seu currículo pelo WhatsApp</span>
-      <span>Novas vagas toda semana</span>
+      <span>Vagas atualizadas diariamente na região de Americana e Campinas</span>
+      <span>Portaria · Facilities · Indústria · Tecnologia · Saúde · Logística</span>
+      <span>Americana · Santa Bárbara D'Oeste · Sumaré · Campinas</span>
     </div>
   </div>
 </div>
@@ -37,373 +271,241 @@
 <header class="site-header">
   <div class="header-top">
     <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
-    <a href="../index.html" class="logo">
-      <span class="logo-text">Empresas<span>&</span>Negócios</span>
-    </a>
+    <a href="../index.html" class="logo"><span class="logo-text">Empresas<span>&</span>Negócios</span></a>
     <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
   </div>
-  <nav class="main-nav" id="mainNav">
-    <div class="nav-inner">
-      <a href="../index.html">Início</a>
-      <a href="novidades.html">Novidades</a>
-      <a href="startups.html">Startups</a>
-      <a href="tecnologia.html">Tecnologia</a>
-      <a href="servicos.html">Serviços</a>
-      <a href="industrias.html">Indústrias</a>
-      <a href="saude.html">Saúde</a>
-      <a href="sociedade.html">Sociedade</a>
-      <a href="cultura.html">Cultura</a>
-      <a href="brasil.html">Brasil</a>
-      <a href="mundo.html">Mundo</a>
-      <a href="campinas.html">Campinas</a>
-      <a href="esportes.html">Esportes</a>
-      <a href="vagas.html" class="active">Vagas</a>
-      <a href="tempo.html">🌤️ Tempo</a>
-      <a href="noticias-locais.html">Local</a>
-    </div>
-  </nav>
+  <nav class="main-nav" id="mainNav"><div class="nav-inner">
+    <a href="../index.html">Início</a>
+    <a href="novidades.html">Novidades</a>
+    <a href="startups.html">Startups</a>
+    <a href="tecnologia.html">Tecnologia</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="industrias.html">Indústrias</a>
+    <a href="saude.html">Saúde</a>
+    <a href="sociedade.html">Sociedade</a>
+    <a href="cultura.html">Cultura</a>
+    <a href="brasil.html">Brasil</a>
+    <a href="mundo.html">Mundo</a>
+    <a href="campinas.html">Campinas</a>
+    <a href="esportes.html">Esportes</a>
+    <a href="vagas.html" class="active">Vagas</a>
+    <a href="tempo.html">🌤️ Tempo</a>
+    <a href="noticias-locais.html">Local</a>
+  </div></nav>
 </header>
 
-<!-- Banner 728x90 -->
-<div class="ad-banner-top">
-  <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer">
-    <img src="../banner.png" alt="Proteção e Vigilância" width="728" height="90" loading="eager" />
-  </a>
-</div>
-
-<div class="page-hero" style="background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);">
+<!-- ===== HERO COM BUSCA ===== -->
+<div class="vagas-hero">
   <div class="container">
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="../index.html">Início</a>
+    <p class="breadcrumb" style="color:rgba(255,255,255,.4);margin-bottom:16px;">
+      <a href="../index.html" style="color:rgba(255,255,255,.4);">Início</a>
       <span>Vagas de Emprego</span>
-    </nav>
-    <h1 style="margin-top:10px;">Vagas de Emprego na Região</h1>
-    <p style="font-size:15px;color:rgba(255,255,255,.7);margin-top:8px;">Americana · Santa Bárbara D'Oeste · Sumaré</p>
-    <div class="vagas-stats">
-      <div class="vagas-stat">
-        <div class="vagas-stat-num">847</div>
-        <div class="vagas-stat-label">Vagas disponíveis</div>
+    </p>
+    <h1>💼 Vagas de Emprego<br>na Região</h1>
+    <p class="subtitle">Americana · Santa Bárbara D'Oeste · Sumaré · Campinas — atualizadas diariamente</p>
+
+    <div class="vagas-search">
+      <input type="text" id="searchInput" placeholder="🔍  Cargo, empresa ou palavra-chave..." onkeyup="if(event.key==='Enter')applyFilters()" />
+      <select id="cityFilter" onchange="applyFilters()">
+        <option value="">📍 Todas as cidades</option>
+        <option value="Americana">Americana</option>
+        <option value="Santa Bárbara">Santa Bárbara D'Oeste</option>
+        <option value="Sumaré">Sumaré</option>
+        <option value="Campinas">Campinas</option>
+      </select>
+      <button onclick="applyFilters()">Buscar</button>
+    </div>
+
+    <div class="vagas-hero-stats">
+      <div class="vhs-item">
+        <div>
+          <div class="vhs-num" id="totalJobCount">—</div>
+          <div class="vhs-label">vagas<br>disponíveis</div>
+        </div>
       </div>
-      <div class="vagas-stat">
-        <div class="vagas-stat-num">23</div>
-        <div class="vagas-stat-label">Empresas parceiras</div>
+      <div class="vhs-divider"></div>
+      <div class="vhs-item">
+        <div>
+          <div class="vhs-num">4</div>
+          <div class="vhs-label">cidades<br>cobertas</div>
+        </div>
       </div>
-      <div class="vagas-stat">
-        <div class="vagas-stat-num">3</div>
-        <div class="vagas-stat-label">Cidades atendidas</div>
+      <div class="vhs-divider"></div>
+      <div class="vhs-item">
+        <div>
+          <div class="vhs-num">∞</div>
+          <div class="vhs-label">atualizado<br>diariamente</div>
+        </div>
       </div>
     </div>
   </div>
 </div>
 
+<!-- ===== FILTROS ===== -->
+<div class="filter-bar">
+  <div class="container">
+    <div class="jobs-filter">
+      <button class="filter-btn active" data-filter="all">Todas</button>
+      <button class="filter-btn" data-filter="Portaria">🏢 Portaria</button>
+      <button class="filter-btn" data-filter="Facilities">🏢 Facilities</button>
+      <button class="filter-btn" data-filter="Indústria">🏭 Indústria</button>
+      <button class="filter-btn" data-filter="Tecnologia">💻 TI</button>
+      <button class="filter-btn" data-filter="Saúde">🏥 Saúde</button>
+      <button class="filter-btn" data-filter="Logística">🚚 Logística</button>
+      <button class="filter-btn" data-filter="Geral">💼 Geral</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===== CONTEÚDO PRINCIPAL ===== -->
 <div class="main-layout">
   <div class="content-col">
 
-    <!-- Filtros -->
-    <div class="jobs-filter" id="jobsFilter">
-      <button class="filter-btn active" data-filter="all">Todas</button>
-      <button class="filter-btn" data-filter="americana">Americana</button>
-      <button class="filter-btn" data-filter="santa-barbara">Santa Bárbara</button>
-      <button class="filter-btn" data-filter="sumare">Sumaré</button>
-      <button class="filter-btn" data-filter="facilities">Facilities/Portaria</button>
-      <button class="filter-btn" data-filter="industria">Indústria</button>
-      <button class="filter-btn" data-filter="tecnologia">Tecnologia</button>
-      <button class="filter-btn" data-filter="saude">Saúde</button>
-    </div>
-
-    <!-- Lista de vagas -->
-    <div class="section-header">
-      <h2>Vagas em Destaque</h2>
-      <span style="font-size:12px;color:var(--gray-light);">Atualizado hoje</span>
-    </div>
-
-    <div class="jobs-list" id="jobsList">
-
-      <!-- Portaria/Facilities 1 -->
-      <article class="job-card" data-city="americana" data-area="facilities">
-        <div class="job-icon">🏢</div>
-        <div class="job-info">
-          <div class="job-title">Porteiro Diurno / Controlador de Acesso</div>
-          <div class="job-company">Empresa de Facilities — Americana, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Americana</span>
-            <span class="job-badge salary">R$ 1.800 – 2.200</span>
-            <span class="job-badge">Facilities</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Empresa especializada em portaria e facilities busca profissional para controle de acesso, recepção de visitantes e monitoramento de câmeras. Experiência na área é desejável. Benefícios: VA, VT, plano de saúde.
-          </p>
-        </div>
-        <a href="https://wa.me/5519978210246?text=Olá!%20Vi%20a%20vaga%20de%20Porteiro%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- Portaria/Facilities 2 -->
-      <article class="job-card" data-city="santa-barbara" data-area="facilities">
-        <div class="job-icon">🔐</div>
-        <div class="job-info">
-          <div class="job-title">Recepcionista / Porteiro Noturno</div>
-          <div class="job-company">Empresa de Facilities — Santa Bárbara D'Oeste, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Santa Bárbara</span>
-            <span class="job-badge salary">R$ 1.900 – 2.300</span>
-            <span class="job-badge">Portaria</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Vaga para turno noturno em condomínio empresarial. Responsável por controle de acesso, rondas e atendimento a emergências. Experiência com sistemas de CFTV é diferencial. Escala 12x36.
-          </p>
-        </div>
-        <a href="https://wa.me/5519978210246?text=Olá!%20Vi%20a%20vaga%20de%20Porteiro%20Noturno%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- Portaria/Facilities 3 -->
-      <article class="job-card" data-city="sumare" data-area="facilities">
-        <div class="job-icon">🛡️</div>
-        <div class="job-info">
-          <div class="job-title">Supervisor de Facilities / Líder de Portaria</div>
-          <div class="job-company">Empresa de Facilities — Sumaré, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Sumaré</span>
-            <span class="job-badge salary">R$ 2.800 – 3.500</span>
-            <span class="job-badge">Liderança</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Procuramos líder de equipe para gerir times de portaria e facilities em Sumaré. Experiência mínima de 2 anos em supervisão. Diferencial: conhecimento em controle de acesso eletrônico e gestão de terceirizados.
-          </p>
-        </div>
-        <a href="https://wa.me/5519978210246?text=Olá!%20Vi%20a%20vaga%20de%20Supervisor%20de%20Facilities%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- Indústria 1 -->
-      <article class="job-card" data-city="americana" data-area="industria">
-        <div class="job-icon">⚙️</div>
-        <div class="job-info">
-          <div class="job-title">Operador de Produção Industrial</div>
-          <div class="job-company">Indústria Têxtil — Americana, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Americana</span>
-            <span class="job-badge salary">R$ 2.100 – 2.600</span>
-            <span class="job-badge">Indústria</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Indústria do setor têxtil admite operador de produção para trabalhar em linha de acabamento. Turno fixo manhã. Benefícios: VR, VT, plano de saúde Unimed. Não é necessária experiência prévia.
-          </p>
-        </div>
-        <a href="https://wa.me/5519999115496?text=Olá!%20Vi%20a%20vaga%20de%20Operador%20de%20Produção%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- Indústria 2 -->
-      <article class="job-card" data-city="sumare" data-area="industria">
-        <div class="job-icon">🔧</div>
-        <div class="job-info">
-          <div class="job-title">Técnico de Manutenção Mecânica / Eletromecânica</div>
-          <div class="job-company">Indústria Metalmecânica — Sumaré, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Sumaré</span>
-            <span class="job-badge salary">R$ 3.500 – 4.800</span>
-            <span class="job-badge">Manutenção</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Empresa do setor metalmecânico contrata técnico com formação em mecânica ou eletromecânica. Experiência com manutenção preventiva e corretiva de máquinas CNC. Pacote de benefícios completo.
-          </p>
-        </div>
-        <a href="https://wa.me/5519999115496?text=Olá!%20Vi%20a%20vaga%20de%20Técnico%20de%20Manutenção%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- TI -->
-      <article class="job-card" data-city="americana" data-area="tecnologia">
-        <div class="job-icon">💻</div>
-        <div class="job-info">
-          <div class="job-title">Analista de TI / Suporte e Infraestrutura</div>
-          <div class="job-company">Empresa de Tecnologia — Americana, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Americana</span>
-            <span class="job-badge salary">R$ 3.200 – 4.500</span>
-            <span class="job-badge">TI</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Empresa de tecnologia seleciona analista de TI para suporte a usuários, administração de redes Windows/Linux e manutenção de servidores. Experiência mínima de 2 anos. Possibilidade de home office parcial.
-          </p>
-        </div>
-        <a href="https://wa.me/5519999115496?text=Olá!%20Vi%20a%20vaga%20de%20Analista%20de%20TI%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- Saúde -->
-      <article class="job-card" data-city="santa-barbara" data-area="saude">
-        <div class="job-icon">🏥</div>
-        <div class="job-info">
-          <div class="job-title">Técnico de Enfermagem — Ambulatório Empresarial</div>
-          <div class="job-company">Clínica Saúde Corporativa — Santa Bárbara D'Oeste, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Santa Bárbara</span>
-            <span class="job-badge salary">R$ 2.400 – 3.000</span>
-            <span class="job-badge">Saúde</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Clínica de saúde corporativa busca técnico de enfermagem para atendimento em ambulatório industrial. COREN ativo obrigatório. Experiência com primeiros socorros e SIPAT é diferencial. Segunda a sexta, horário comercial.
-          </p>
-        </div>
-        <a href="https://wa.me/5519999115496?text=Olá!%20Vi%20a%20vaga%20de%20Técnico%20de%20Enfermagem%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-      <!-- Logística -->
-      <article class="job-card" data-city="sumare" data-area="industria">
-        <div class="job-icon">🚚</div>
-        <div class="job-info">
-          <div class="job-title">Auxiliar de Logística / Operador de Depósito</div>
-          <div class="job-company">Distribuidora Regional — Sumaré, SP</div>
-          <div class="job-meta">
-            <span class="job-badge full-time">CLT</span>
-            <span class="job-badge location">Sumaré</span>
-            <span class="job-badge salary">R$ 1.700 – 2.100</span>
-            <span class="job-badge">Logística</span>
-          </div>
-          <p style="font-size:13px;color:var(--gray);margin-top:10px;line-height:1.5;">
-            Distribuidora em expansão contrata auxiliar de logística para separação de pedidos, conferência de estoque e organização de depósito. Turno fixo tarde. Benefícios: VA, VT, seguro de vida.
-          </p>
-        </div>
-        <a href="https://wa.me/5519999115496?text=Olá!%20Vi%20a%20vaga%20de%20Auxiliar%20de%20Logística%20no%20site%20Empresas%20%26%20Negócios%20e%20gostaria%20de%20enviar%20meu%20currículo." target="_blank" rel="noopener noreferrer" class="job-cta">Enviar currículo</a>
-      </article>
-
-    </div><!-- /jobs-list -->
-
-    <!-- CTA empresas -->
-    <div class="vagas-cta-box">
-      <div>
-        <h3>Sua empresa quer anunciar vagas aqui?</h3>
-        <p>Alcance milhares de candidatos qualificados na região de Americana, Santa Bárbara D'Oeste e Sumaré. Entre em contato e publique suas vagas.</p>
+    <!-- VAGAS EM DESTAQUE -->
+    <section class="category-section">
+      <div class="section-header" style="justify-content:space-between;">
+        <h2>⭐ Vagas em Destaque</h2>
+        <a href="https://wa.me/5519978210246?text=Olá!+Gostaria+de+anunciar+uma+vaga+de+emprego." target="_blank" rel="noopener" style="font-size:12px;font-weight:700;color:var(--accent);">+ Anunciar vaga</a>
       </div>
-      <a href="https://wa.me/5519999115496?text=Olá!%20Gostaria%20de%20anunciar%20vagas%20no%20portal%20Empresas%20%26%20Negócios." target="_blank" rel="noopener noreferrer" class="btn-cta">
-        💬 Anunciar vagas
+      <div class="featured-grid" id="featured-container">
+        <!-- Carregado pelo vagas.js -->
+        <div style="grid-column:1/-1;" class="rss-loader"><div class="spinner"></div><span>Carregando destaques...</span></div>
+      </div>
+      <p style="font-size:12px;color:var(--gray-light);margin-top:8px;">💡 Vagas diretas de empresas de facilities e portaria da região. Candidate-se via WhatsApp.</p>
+    </section>
+
+    <!-- VAGAS AUTOMÁTICAS -->
+    <section class="category-section">
+      <div class="section-header" style="justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;">
+        <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+          <h2>Vagas da Região</h2>
+          <span class="badge-auto">Ao vivo</span>
+        </div>
+        <span id="updated-time"></span>
+      </div>
+
+      <!-- Contador de resultados -->
+      <div style="margin-bottom:16px;font-size:13px;color:var(--gray);">
+        <strong id="jobCount" style="color:var(--dark);">—</strong> vagas encontradas
+      </div>
+
+      <!-- Cards de vagas (gerado pelo JS) -->
+      <div id="vagas-container" class="jobs-list">
+        <div class="rss-loader"><div class="spinner"></div><span>Buscando vagas...</span></div>
+      </div>
+
+      <button id="loadMoreBtn">Carregar mais vagas ↓</button>
+    </section>
+
+    <!-- CTA ANUNCIE -->
+    <div class="announce-cta">
+      <div>
+        <h3>Sua empresa tem vagas abertas?</h3>
+        <p>Anuncie gratuitamente e alcance candidatos de Americana, Santa Bárbara e região.</p>
+      </div>
+      <a href="https://wa.me/5519999115496?text=Olá!+Quero+anunciar+vagas+de+emprego+no+site+Empresas+%26+Negócios." target="_blank" rel="noopener">
+        📲 Anunciar vagas grátis
       </a>
     </div>
 
-  </div><!-- /content-col -->
+  </div>
 
-  <aside class="sidebar">
-    <div class="sidebar-sticky">
+  <!-- SIDEBAR -->
+  <aside class="sidebar"><div class="sidebar-sticky">
 
-      <!-- Newsletter -->
-      <div class="sidebar-widget newsletter-widget" id="newsletter">
-        <div class="widget-header">💼 Alertas de Vagas</div>
-        <div class="widget-body">
-          <p class="nl-desc">Receba as novas vagas da região diretamente no seu e-mail. Seja o primeiro a saber.</p>
-          <form onsubmit="handleNewsletter(event)">
-            <input type="email" placeholder="Seu e-mail" required />
-            <button type="submit" class="btn-nl">Quero receber vagas</button>
-          </form>
-          <p class="nl-privacy">Sem spam. Cancele quando quiser.</p>
-        </div>
+    <!-- Newsletter -->
+    <div class="sidebar-widget newsletter-widget">
+      <div class="widget-header">📧 Alerta de Vagas</div>
+      <div class="widget-body">
+        <p class="nl-desc">Receba novas vagas da região diretamente no seu e-mail.</p>
+        <form onsubmit="handleNewsletter(event)">
+          <input type="email" placeholder="Seu e-mail" required />
+          <button type="submit" class="btn-nl">Receber alertas</button>
+        </form>
+        <p class="nl-privacy">Sem spam. Cancele quando quiser.</p>
       </div>
-
-      <!-- Banner lateral -->
-      <div class="sidebar-widget">
-        <div class="widget-header">Publicidade</div>
-        <div class="widget-body" style="padding:0;">
-          <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
-            <img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 10px 10px;" />
-          </a>
-        </div>
-      </div>
-
-      <!-- Widget cadastro de vaga -->
-      <div class="sidebar-widget">
-        <div class="widget-header">📋 Adicionar Sua Vaga</div>
-        <div class="widget-body">
-          <p style="font-size:13px;color:var(--gray);margin-bottom:14px;line-height:1.5;">
-            É recrutador ou RH de uma empresa da região? Publique suas vagas gratuitamente no portal.
-          </p>
-          <a href="https://wa.me/5519999115496?text=Olá!%20Gostaria%20de%20publicar%20uma%20vaga%20de%20emprego%20no%20portal%20Empresas%20%26%20Negócios." target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:8px;background:#25D366;color:#fff;padding:11px 16px;border-radius:var(--radius);font-size:13px;font-weight:700;text-decoration:none;justify-content:center;">
-            💬 Publicar vaga pelo WhatsApp
-          </a>
-        </div>
-      </div>
-
-      <!-- Widget links -->
-      <div class="sidebar-widget">
-        <div class="widget-header">🔗 Explore Mais</div>
-        <div class="widget-body">
-          <ul style="display:flex;flex-direction:column;gap:10px;">
-            <li><a href="noticias-locais.html" style="font-size:13px;font-weight:600;color:var(--dark);display:flex;align-items:center;gap:8px;">📍 Notícias Locais</a></li>
-            <li><a href="tempo.html" style="font-size:13px;font-weight:600;color:var(--dark);display:flex;align-items:center;gap:8px;">🌤️ Previsão do Tempo</a></li>
-            <li><a href="servicos.html" style="font-size:13px;font-weight:600;color:var(--dark);display:flex;align-items:center;gap:8px;">🏢 Portaria &amp; Facilities</a></li>
-            <li><a href="industrias.html" style="font-size:13px;font-weight:600;color:var(--dark);display:flex;align-items:center;gap:8px;">⚙️ Notícias de Indústrias</a></li>
-          </ul>
-        </div>
-      </div>
-
     </div>
-  </aside>
-</div><!-- /main-layout -->
 
-<section class="newsletter-section">
+    <!-- Anuncie sua vaga -->
+    <div class="sidebar-widget">
+      <div class="widget-header">💼 Anuncie sua Vaga</div>
+      <div class="widget-body" style="padding:16px;">
+        <p style="font-size:13px;color:var(--gray);margin-bottom:14px;line-height:1.6;">Divulgue vagas em destaque para candidatos de Americana, Santa Bárbara, Sumaré e Campinas.</p>
+        <a href="https://wa.me/5519999115496?text=Quero+anunciar+vagas+no+Empresas+%26+Negócios." target="_blank" rel="noopener"
+           style="display:flex;align-items:center;justify-content:center;gap:8px;background:#25D366;color:#fff;padding:11px;border-radius:8px;font-size:13px;font-weight:700;text-decoration:none;">
+          📲 Falar pelo WhatsApp
+        </a>
+        <p style="font-size:11px;color:var(--gray-light);text-align:center;margin-top:10px;">Vagas de facilities/portaria em destaque.</p>
+      </div>
+    </div>
+
+    <!-- Banner -->
+    <div class="sidebar-widget ad-sidebar">
+      <div class="widget-header">Publicidade</div>
+      <div class="widget-body" style="padding:0;">
+        <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
+          <img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;" />
+        </a>
+      </div>
+    </div>
+
+    <!-- Categorias de vagas -->
+    <div class="sidebar-widget">
+      <div class="widget-header">📂 Categorias</div>
+      <div class="widget-body" style="padding:12px 16px;">
+        <ul style="display:flex;flex-direction:column;gap:0;">
+          <li><button data-filter="Portaria" onclick="document.querySelector('[data-filter=Portaria]').click()" style="width:100%;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--gray-dark);padding:10px 0;border-bottom:1px solid var(--border);font-family:var(--font-main);text-align:left;"><span>🏢 Portaria / Facilities</span><span style="color:var(--accent);font-weight:700;">→</span></button></li>
+          <li><button data-filter="Indústria" onclick="document.querySelector('[data-filter=Indústria]').click()" style="width:100%;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--gray-dark);padding:10px 0;border-bottom:1px solid var(--border);font-family:var(--font-main);text-align:left;"><span>🏭 Indústria</span><span style="color:var(--accent);font-weight:700;">→</span></button></li>
+          <li><button data-filter="Tecnologia" onclick="document.querySelector('[data-filter=Tecnologia]').click()" style="width:100%;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--gray-dark);padding:10px 0;border-bottom:1px solid var(--border);font-family:var(--font-main);text-align:left;"><span>💻 Tecnologia / TI</span><span style="color:var(--accent);font-weight:700;">→</span></button></li>
+          <li><button data-filter="Saúde" onclick="document.querySelector('[data-filter=Saúde]').click()" style="width:100%;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--gray-dark);padding:10px 0;border-bottom:1px solid var(--border);font-family:var(--font-main);text-align:left;"><span>🏥 Saúde</span><span style="color:var(--accent);font-weight:700;">→</span></button></li>
+          <li><button data-filter="Logística" onclick="document.querySelector('[data-filter=Logística]').click()" style="width:100%;background:none;border:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--gray-dark);padding:10px 0;font-family:var(--font-main);text-align:left;"><span>🚚 Logística</span><span style="color:var(--accent);font-weight:700;">→</span></button></li>
+        </ul>
+      </div>
+    </div>
+
+  </div></aside>
+</div>
+
+<section class="newsletter-section" id="newsletter">
   <div class="nl-inner">
-    <h2>Alertas de Vagas Grátis</h2>
-    <p>Receba as melhores oportunidades de emprego na região de Americana e cidades vizinhas direto no seu e-mail.</p>
+    <h2>Alerta de Novas Vagas</h2>
+    <p>Receba vagas de emprego de Americana e região no seu e-mail todo dia.</p>
     <form class="nl-form" onsubmit="handleNewsletter(event)">
       <input type="email" placeholder="Digite seu e-mail" required />
-      <button type="submit">Quero receber</button>
+      <button type="submit">Receber alertas grátis</button>
     </form>
   </div>
 </section>
 
-<footer class="site-footer">
-  <div class="footer-grid">
-    <div class="footer-brand">
-      <div class="logo-text">Empresas<span>&</span>Negócios</div>
-      <p>O portal de referência em notícias sobre negócios, economia e inovação na região de Americana e Campinas.</p>
-    </div>
-    <div class="footer-col"><h4>Editorias</h4><ul>
-      <li><a href="novidades.html">Novidades</a></li>
-      <li><a href="startups.html">Startups</a></li>
-      <li><a href="campinas.html">Campinas</a></li>
-      <li><a href="esportes.html">Esportes</a></li>
-    </ul></div>
-    <div class="footer-col"><h4>Local</h4><ul>
-      <li><a href="vagas.html">Vagas de Emprego</a></li>
-      <li><a href="tempo.html">Previsão do Tempo</a></li>
-      <li><a href="noticias-locais.html">Notícias Locais</a></li>
-      <li><a href="servicos.html">Portaria &amp; Facilities</a></li>
-    </ul></div>
-    <div class="footer-col"><h4>Institucional</h4><ul>
-      <li><a href="#">Sobre nós</a></li>
-      <li><a href="#">Anuncie</a></li>
-      <li><a href="#">Contato</a></li>
-    </ul></div>
+<footer class="site-footer"><div class="footer-grid">
+  <div class="footer-brand">
+    <div class="logo-text">Empresas<span>&</span>Negócios</div>
+    <p>Portal de notícias e oportunidades de Americana, Campinas e região.</p>
   </div>
-  <div class="footer-bottom">
-    <span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span>
-  </div>
-</footer>
+  <div class="footer-col"><h4>Editorias</h4><ul>
+    <li><a href="novidades.html">Novidades</a></li>
+    <li><a href="campinas.html">Campinas</a></li>
+    <li><a href="servicos.html">Serviços</a></li>
+    <li><a href="vagas.html">Vagas</a></li>
+  </ul></div>
+  <div class="footer-col"><h4>Facilities Americana</h4><ul>
+    <li><a href="https://protecaovigilancia.com.br" target="_blank" rel="noopener">Proteção Vigilância</a></li>
+    <li><a href="https://protecaoevigilancia.com.br" target="_blank" rel="noopener">Proteção e Vigilância</a></li>
+    <li><a href="https://psprotecao.com.br" target="_blank" rel="noopener">PS Proteção</a></li>
+    <li><a href="https://protecaoamericana.com.br" target="_blank" rel="noopener">Proteção Americana</a></li>
+    <li><a href="https://ctseguranca.com.br" target="_blank" rel="noopener">CT Segurança</a></li>
+  </ul></div>
+  <div class="footer-col"><h4>Institucional</h4><ul>
+    <li><a href="#">Sobre nós</a></li>
+    <li><a href="#">Anuncie</a></li>
+    <li><a href="noticias-locais.html">Notícias Locais</a></li>
+    <li><a href="tempo.html">Previsão do Tempo</a></li>
+  </ul></div>
+</div><div class="footer-bottom"><span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span></div></footer>
 
 <div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
 <button class="back-to-top" id="backToTop">↑</button>
-
+<script src="../js/vagas.js"></script>
 <script src="../js/main.js"></script>
-<script>
-// Filter jobs
-document.getElementById('jobsFilter').addEventListener('click', function(e) {
-  if (!e.target.classList.contains('filter-btn')) return;
-  // update active btn
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  e.target.classList.add('active');
-  var filter = e.target.getAttribute('data-filter');
-  document.querySelectorAll('.job-card').forEach(function(card) {
-    if (filter === 'all') {
-      card.style.display = '';
-    } else {
-      var city = card.getAttribute('data-city');
-      var area = card.getAttribute('data-area');
-      card.style.display = (city === filter || area === filter) ? '' : 'none';
-    }
-  });
-});
-</script>
 </body>
 </html>
