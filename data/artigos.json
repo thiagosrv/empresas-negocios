@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T18:13:00.472Z",
+  "updated": "2026-05-22T20:01:43.346Z",
   "articles": [
     {
       "slug": "gestao-integrada-facilities-menos-burocracia",
@@ -72,6 +72,42 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-economia-brasileira-cresce-primeiro-trimestre-2026.html"
+    },
+    {
+      "slug": "fintechs-brasileiras-captam-recorde-2026",
+      "title": "Fintechs brasileiras captam recorde de R$ 4,3 bilhões no 1º semestre de 2026",
+      "description": "Investimento histórico impulsiona fintechs brasileiras em 2026, somando R$ 4,3 bi no semestre.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-fintechs-brasileiras-captam-recorde-2026.html"
+    },
+    {
+      "slug": "ia-transforma-manufatura-interior-sp",
+      "title": "Inteligência Artificial Transforma a Manufatura no Interior de SP",
+      "description": "Descubra como a inteligência artificial está revolucionando a indústria manufatureira em São Paulo com cases reais.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-ia-transforma-manufatura-interior-sp.html"
+    },
+    {
+      "slug": "economia-brasileira-cresce-32-no-1-trimestre-2026",
+      "title": "Economia Brasileira Cresce 3,2% no 1º Trimestre de 2026 e Supera Expectativas",
+      "description": "Economia brasileira cresce 3,2% no 1º trimestre de 2026, superando previsões e impulsionando confiança no mercado.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-economia-brasileira-cresce-32-no-1-trimestre-2026.html"
     },
     {
       "slug": "logistica-verde-startups-captam-180-milhoes",
@@ -170,6 +206,54 @@
       "url": "noticias/2026-05-21-fed-sinaliza-corte-de-juros-impactos-brasil.html"
     },
     {
+      "slug": "startups-logistica-verde-expansao-frota-eletrica",
+      "title": "Startups de logística verde captam R$ 180 mi e expandem frota elétrica",
+      "description": "Startups de logística sustentável arrecadam R$ 180 milhões e expandem operações para 12 estados do Brasil.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-startups-logistica-verde-expansao-frota-eletrica.html"
+    },
+    {
+      "slug": "healthtechs-brasileiras-crescem-45-e-atraem-2-bilhoes",
+      "title": "Healthtechs brasileiras crescem 45% e atraem R$ 2 bilhões em 2026",
+      "description": "Healthtechs no Brasil crescem 45% em 2026, atraindo R$ 2 bi em investimentos.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Saúde",
+      "tagCls": "saude",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-healthtechs-brasileiras-crescem-45-e-atraem-2-bilhoes.html"
+    },
+    {
+      "slug": "trabalho-hibrido-corporacoes-brasileiras-2026",
+      "title": "Trabalho híbrido se consolida nas grandes corporações brasileiras em 2026",
+      "description": "Em 2026, o trabalho híbrido se firma como padrão nas grandes empresas do Brasil.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Sociedade",
+      "tagCls": "sociedade",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-trabalho-hibrido-corporacoes-brasileiras-2026.html"
+    },
+    {
+      "slug": "fed-sinaliza-corte-de-juros-impacto-no-brasil",
+      "title": "Fed sinaliza corte de juros: impacto no mercado brasileiro",
+      "description": "Entenda como o corte de juros nos EUA pode afetar investidores e o mercado financeiro no Brasil.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Mundo",
+      "tagCls": "mundo",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-fed-sinaliza-corte-de-juros-impacto-no-brasil.html"
+    },
+    {
       "slug": "cloud-computing-para-pmes-interior-sp-baixo-custo",
       "title": "Cloud computing para PMEs do interior de SP: migre com baixo custo",
       "description": "Descubra como pequenas e médias empresas do interior de São Paulo podem migrar para a nuvem de forma econômica.",
@@ -266,6 +350,30 @@
       "url": "noticias/2026-05-20-empreendedorismo-feminino-cresce-38-15-milhoes-brasil.html"
     },
     {
+      "slug": "cloud-computing-para-pmes-do-interior-de-sp",
+      "title": "Cloud Computing para PMEs do Interior de SP: Migração com Baixo Custo",
+      "description": "Descubra como pequenas e médias empresas podem migrar para a nuvem com economia no interior de São Paulo.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-cloud-computing-para-pmes-do-interior-de-sp.html"
+    },
+    {
+      "slug": "china-lanca-fundo-1-trilhao-energia-limpa",
+      "title": "China investe US$ 1 trilhão em energia limpa e transforma commodities",
+      "description": "China lança fundo de US$ 1 trilhão para energia limpa, impactando o mercado global de commodities.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Mundo",
+      "tagCls": "mundo",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1462396881884-de2c07cb95ed?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-china-lanca-fundo-1-trilhao-energia-limpa.html"
+    },
+    {
       "slug": "telemedicina-em-campinas-triplicando-atendimentos",
       "title": "Telemedicina em Campinas: Triplicando Atendimentos nas Clínicas",
       "description": "Descubra como a telemedicina transformou o atendimento em Campinas, triplicando consultas.",
@@ -360,6 +468,42 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-19-selic-inflacao-cambio-economia-brasileira-2026.html"
+    },
+    {
+      "slug": "telemedicina-em-campinas-clinicas-triplicam-atendimentos",
+      "title": "Telemedicina em Campinas: Clínicas Triplicam Atendimentos",
+      "description": "Campinas adota telemedicina e triplica atendimentos. Veja como clínicas e hospitais inovam.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Saúde",
+      "tagCls": "saude",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-telemedicina-em-campinas-clinicas-triplicam-atendimentos.html"
+    },
+    {
+      "slug": "industria-automotiva-investe-r12-bi-veiculos-eletricos-2028",
+      "title": "Indústria automotiva investe R$ 12 bilhões em veículos elétricos até 2028",
+      "description": "Setor automotivo brasileiro anuncia R$ 12 bi em veículos elétricos até 2028 com apoio fiscal.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Indústrias",
+      "tagCls": "industrias",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-industria-automotiva-investe-r12-bi-veiculos-eletricos-2028.html"
+    },
+    {
+      "slug": "economia-criativa-brasil-movimenta-200-bilhoes",
+      "title": "Economia criativa no Brasil movimenta R$ 200 bi e emprega milhões",
+      "description": "A economia criativa no Brasil gera R$ 200 bilhões e cria 5 milhões de empregos formais.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Cultura",
+      "tagCls": "cultura",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-economia-criativa-brasil-movimenta-200-bilhoes.html"
     },
     {
       "slug": "campinas-maior-hub-inovacao-interior-sp-2026",
@@ -492,6 +636,78 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-18-agtech-mineira-satelites-ia-soja.html"
+    },
+    {
+      "slug": "campinas-maior-hub-inovacao-2026",
+      "title": "Campinas lidera como maior hub de inovação do interior paulista em 2026",
+      "description": "Campinas consolida-se como centro de inovação em 2026, atraindo investimento e talentos.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Campinas",
+      "tagCls": "campinas",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1568992688065-536aad8a12f6?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-campinas-maior-hub-inovacao-2026.html"
+    },
+    {
+      "slug": "polo-industrial-americana-investimentos-empregos",
+      "title": "Polo Industrial de Americana atrai R$ 800 milhões em investimentos",
+      "description": "Americana recebe R$ 800 milhões em novos investimentos, gerando 4 mil empregos diretos.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Indústrias",
+      "tagCls": "industrias",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1565793979108-a10eea5fad27?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-polo-industrial-americana-investimentos-empregos.html"
+    },
+    {
+      "slug": "mercado-imobiliario-comercial-campinas-recorde",
+      "title": "Mercado Imobiliário Comercial em Campinas Bate Recorde de Ocupação",
+      "description": "Ocupação de escritórios em Campinas atinge 92% no 1º trimestre, marcando recorde no mercado.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Campinas",
+      "tagCls": "campinas",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-mercado-imobiliario-comercial-campinas-recorde.html"
+    },
+    {
+      "slug": "como-inteligencia-artificial-ajuda-pequenas",
+      "title": "Como Inteligência Artificial Ajuda Pequenas Empresas a Competir",
+      "description": "Descubra como pequenas empresas brasileiras usam IA para competir com gigantes, gerando inovação e eficiência.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Novidades",
+      "tagCls": "",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-como-inteligencia-artificial-ajuda-pequenas.html"
+    },
+    {
+      "slug": "setor-servicos-lidera-empregos-abril-2026",
+      "title": "Setor de Serviços no Brasil Cria 320 Mil Empregos Formais em Abril de 2026",
+      "description": "Em abril de 2026, o setor de serviços liderou a geração de empregos no Brasil com 320 mil novas vagas formais.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-setor-servicos-lidera-empregos-abril-2026.html"
+    },
+    {
+      "slug": "agtech-mineira-satelites-ia-monitoramento-soja",
+      "title": "Agtech mineira inova com satélites e IA para otimizar safra de soja",
+      "description": "Startup mineira revoluciona agricultura com IA e satélites, reduzindo perdas em 30% na colheita de soja.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-agtech-mineira-satelites-ia-monitoramento-soja.html"
     },
     {
       "url": "noticias/2026-05-22-portaria-especializada-americana.html",
