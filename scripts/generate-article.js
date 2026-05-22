@@ -7,9 +7,10 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const client = new OpenAI();
 
 // ─── TÓPICOS ──────────────────────────────────────────────────────────────────
-// Rotação diária. Foco: facilities, portaria, controle de acesso, gestão de
-// serviços terceirizados. SEM vigilância armada.
+// Rotação diária cobrindo TODAS as editorias do portal.
+// Ciclo de 40 tópicos: facilities/portaria + negócios, tech, saúde, Brasil, etc.
 const TOPICS = [
+  // ── FACILITIES & PORTARIA (editoria Serviços) ──────────────────────────────
   'portaria especializada para condomínios corporativos em Americana e Campinas',
   'facilities management: como a terceirização reduz custos operacionais para PMEs no interior paulista',
   'controle de acesso moderno: tecnologias e boas práticas para empresas de Campinas',
@@ -21,15 +22,43 @@ const TOPICS = [
   'facilities e ESG: como serviços terceirizados contribuem para a sustentabilidade empresarial',
   'recepção corporativa: a primeira impressão que define a experiência do cliente',
   'polo industrial de Americana: demanda por facilities cresce com expansão das empresas locais',
-  'home office e facilities: como as empresas estão adaptando espaços no interior de SP',
   'como calcular o custo de facilities para sua empresa no interior paulista',
   'portaria e controle de acesso em hospitais, clínicas e laboratórios de Campinas',
   'terceirização de limpeza e conservação: boas práticas para indústrias de Americana',
   'gestão integrada de facilities: um contrato, múltiplos serviços, menos burocracia',
-  'como a portaria especializada melhora a experiência em condomínios comerciais',
-  'facilities em escolas e universidades de Campinas: portaria, recepção e serviços gerais',
   'controle de acesso por biometria: vantagens para empresas do interior paulista',
-  'terceirização e CLT: o que gestores precisam saber antes de contratar facilities',
+  // ── STARTUPS & INOVAÇÃO ───────────────────────────────────────────────────
+  'o ecossistema de startups de Campinas: quem são e o que estão construindo em 2026',
+  'como startups de logística estão reinventando a cadeia de distribuição no interior de SP',
+  'fintechs para PMEs: as melhores ferramentas financeiras para pequenas empresas em 2026',
+  'aceleradoras de startups no interior de São Paulo: oportunidades e como se candidatar',
+  // ── TECNOLOGIA ────────────────────────────────────────────────────────────
+  'automação industrial em Americana e Campinas: casos reais de aumento de produtividade',
+  'segurança cibernética para médias empresas: os riscos que os gestores ignoram em 2026',
+  'como a IA generativa está mudando o trabalho administrativo nas empresas brasileiras',
+  'softwares de gestão (ERP) para indústrias do interior de SP: guia de escolha',
+  // ── SAÚDE & BEM-ESTAR ─────────────────────────────────────────────────────
+  'planos de saúde corporativos em 2026: como negociar e reduzir custos sem perder cobertura',
+  'saúde mental no trabalho: como empresas de Campinas estão cuidando dos colaboradores',
+  'telemedicina para PMEs: como oferecer benefício de saúde digital com baixo custo',
+  // ── BRASIL & ECONOMIA ─────────────────────────────────────────────────────
+  'o impacto da reforma tributária nas empresas do interior paulista a partir de 2027',
+  'crédito para PMEs: o que mudou nas linhas do BNDES e Caixa em 2026',
+  'como exportar produtos industriais do interior de SP: guia prático para gestores',
+  // ── SOCIEDADE & CULTURA ───────────────────────────────────────────────────
+  'diversidade nas empresas do interior paulista: benefícios reais e como implementar',
+  'geração Z no mercado de trabalho: como as empresas de Campinas estão se adaptando',
+  'empreendedorismo no interior de SP: histórias de quem abriu negócio e cresceu',
+  // ── INDÚSTRIAS ────────────────────────────────────────────────────────────
+  'o futuro da indústria têxtil de Americana: inovação, sustentabilidade e novos mercados',
+  'logística verde no interior paulista: empresas adotam frotas elétricas e reduzem emissões',
+  'como a indústria alimentícia de Campinas está crescendo com o aumento das exportações',
+  // ── CAMPINAS & REGIÃO ─────────────────────────────────────────────────────
+  'os bairros mais valorizados para instalar uma empresa em Campinas em 2026',
+  'Campinas no ranking das melhores cidades para negócios: o que a cidade oferece',
+  'mercado imobiliário comercial em Campinas: tendências e oportunidades para investidores',
+  // ── MUNDO & MERCADOS ──────────────────────────────────────────────────────
+  'como as tarifas comerciais dos EUA afetam a indústria e o agronegócio brasileiro',
 ];
 
 // ─── IMAGENS ─────────────────────────────────────────────────────────────────

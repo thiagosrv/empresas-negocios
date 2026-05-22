@@ -1,0 +1,41 @@
+name: Gerar Artigos em Lote (20 artigos)
+
+on:
+  workflow_dispatch:   # disparo manual apenas — aba Actions > Run workflow
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  generate-batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30    # 20 artigos × ~1 min cada = ~20 min máximo
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar 20 artigos com GPT-4o
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run generate-batch
+
+      - name: Commitar e publicar artigos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias/ data/artigos.json
+          git diff --staged --quiet || git commit -m "feat: 20 artigos gerados em lote via GPT-4o [skip ci]"
+          git push
