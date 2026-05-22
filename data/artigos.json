@@ -1,4 +1,35 @@
 {
-  "updated": "2026-05-22T00:00:00Z",
-  "articles": []
+  "updated": "2026-05-22T10:00:00Z",
+  "articles": [
+    {
+      "url": "noticias/2026-05-22-portaria-especializada-americana.html",
+      "title": "Portaria Especializada em Americana: O que Avaliar Antes de Contratar",
+      "description": "Guia prático para contratar portaria especializada em Americana e Campinas. O que avaliar, quais perguntas fazer e como garantir qualidade no serviço.",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=500&h=280&fit=crop",
+      "tag": "Facilities",
+      "tagCls": "servicos",
+      "date": "22 mai. 2026",
+      "readMin": 6
+    },
+    {
+      "url": "noticias/2026-05-22-terceirizacao-facilities-reducao-custos.html",
+      "title": "Terceirização de Facilities: Como Reduzir Custos sem Perder Qualidade",
+      "description": "Descubra como a terceirização de facilities pode reduzir custos operacionais em até 30% para empresas em Campinas e Americana, mantendo qualidade e conformidade.",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=500&h=280&fit=crop",
+      "tag": "Gestão",
+      "tagCls": "",
+      "date": "22 mai. 2026",
+      "readMin": 5
+    },
+    {
+      "url": "noticias/2026-05-22-controle-acesso-empresas-campinas.html",
+      "title": "Controle de Acesso para Empresas: Tecnologias e Boas Práticas em Campinas",
+      "description": "Conheça as principais tecnologias de controle de acesso para empresas em Campinas e Americana: catracas biométricas, QR code, RFID e integração com portaria especializada.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=280&fit=crop",
+      "tag": "Tecnologia",
+      "tagCls": "startups",
+      "date": "22 mai. 2026",
+      "readMin": 5
+    }
+  ]
 }

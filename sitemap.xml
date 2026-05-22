@@ -91,4 +91,39 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Artigos editoriais -->
+  <url>
+    <loc>https://www.empresasenegocios.com.br/noticias/2026-05-22-portaria-especializada-americana.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Empresas &amp; Negócios</news:name><news:language>pt</news:language></news:publication>
+      <news:publication_date>2026-05-22</news:publication_date>
+      <news:title>Portaria Especializada em Americana: O que Avaliar Antes de Contratar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.empresasenegocios.com.br/noticias/2026-05-22-terceirizacao-facilities-reducao-custos.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Empresas &amp; Negócios</news:name><news:language>pt</news:language></news:publication>
+      <news:publication_date>2026-05-22</news:publication_date>
+      <news:title>Terceirização de Facilities: Como Reduzir Custos sem Perder Qualidade</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.empresasenegocios.com.br/noticias/2026-05-22-controle-acesso-empresas-campinas.html</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication><news:name>Empresas &amp; Negócios</news:name><news:language>pt</news:language></news:publication>
+      <news:publication_date>2026-05-22</news:publication_date>
+      <news:title>Controle de Acesso para Empresas: Tecnologias e Boas Práticas em Campinas</news:title>
+    </news:news>
+  </url>
+
 </urlset>
