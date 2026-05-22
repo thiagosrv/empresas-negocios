@@ -4,9 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch-rss": "node scripts/fetch-rss.js"
+    "fetch-rss": "node scripts/fetch-rss.js",
+    "generate-article": "node scripts/generate-article.js"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
     "fast-xml-parser": "^4.3.6"
   }
 }

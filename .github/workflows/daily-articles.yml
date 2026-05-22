@@ -1,0 +1,39 @@
+name: Gerar Artigo Diário
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 7h BRT (UTC-3) = 10h UTC, todo dia
+  workflow_dispatch:       # permite disparar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  generate-article:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar artigo com Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run generate-article
+
+      - name: Commitar e publicar artigo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias/ data/artigos.json
+          git diff --staged --quiet || git commit -m "feat: artigo diário gerado automaticamente [skip ci]"
+          git push
