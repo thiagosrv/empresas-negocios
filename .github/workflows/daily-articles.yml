@@ -25,9 +25,9 @@ jobs:
       - name: Instalar dependências
         run: npm ci
 
-      - name: Gerar artigo com Claude
+      - name: Gerar artigo com GPT-4o
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: npm run generate-article
 
       - name: Commitar e publicar artigo

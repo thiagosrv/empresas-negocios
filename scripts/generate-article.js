@@ -1,10 +1,10 @@
-import Anthropic from '@anthropic-ai/sdk';
+import OpenAI from 'openai';
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const client = new Anthropic();
+const client = new OpenAI();
 
 // ─── TÓPICOS ──────────────────────────────────────────────────────────────────
 // Rotação diária. Foco: facilities, portaria, controle de acesso, gestão de
@@ -57,7 +57,7 @@ const IMAGES = [
   'https://images.unsplash.com/photo-1568992688065-536aad8a12f6?w=800&h=450&fit=crop',
 ];
 
-// ─── GERAR ARTIGO VIA CLAUDE API ─────────────────────────────────────────────
+// ─── GERAR ARTIGO VIA OPENAI API ─────────────────────────────────────────────
 async function generateArticle(topic, imageUrl) {
   const prompt = `Você é um jornalista especializado em negócios e serviços corporativos no interior de São Paulo, escrevendo para o portal Empresas & Negócios (empresasenegocios.com.br).
 
@@ -99,13 +99,20 @@ Retorne APENAS um objeto JSON válido, sem markdown, sem texto antes ou depois. 
   ]
 }`;
 
-  const message = await client.messages.create({
-    model: 'claude-opus-4-5',
+  const response = await client.chat.completions.create({
+    model: 'gpt-4o',
     max_tokens: 3000,
-    messages: [{ role: 'user', content: prompt }],
+    temperature: 0.7,
+    messages: [
+      {
+        role: 'system',
+        content: 'Você é um jornalista especializado em negócios e serviços corporativos no interior de São Paulo. Responda SEMPRE com JSON puro e válido, sem markdown, sem texto adicional.',
+      },
+      { role: 'user', content: prompt },
+    ],
   });
 
-  const raw = message.content[0].text.trim();
+  const raw = response.choices[0].message.content.trim();
   const jsonStr = raw.replace(/^```json?\n?/, '').replace(/\n?```$/, '').trim();
   return JSON.parse(jsonStr);
 }
@@ -352,7 +359,7 @@ async function main() {
   const imageUrl = IMAGES[dayIndex % IMAGES.length];
 
   console.log(`\n📝 Tópico do dia: ${topic}`);
-  console.log('🤖 Chamando Claude API...\n');
+  console.log('🤖 Chamando OpenAI API (gpt-4o)...\n');
 
   const article  = await generateArticle(topic, imageUrl);
   const isoStr   = isoDate(today);
