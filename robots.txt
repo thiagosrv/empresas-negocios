@@ -1,0 +1,19 @@
+# robots.txt — Empresas & Negócios
+# https://www.empresasenegocios.com.br
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*?print=
+Disallow: /*?ref=
+Crawl-delay: 1
+
+# Google News Bot
+User-agent: Googlebot-News
+Allow: /
+Allow: /pages/
+
+# Sitemaps
+Sitemap: https://www.empresasenegocios.com.br/sitemap.xml
+Sitemap: https://www.empresasenegocios.com.br/sitemap-news.xml

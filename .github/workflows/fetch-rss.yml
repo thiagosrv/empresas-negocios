@@ -1,0 +1,37 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # toda hora, no minuto 0
+  workflow_dispatch:       # permite disparar manualmente pelo GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Buscar feeds RSS
+        run: npm run fetch-rss
+
+      - name: Commitar e enviar noticias.json atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/noticias.json
+          git diff --staged --quiet || git commit -m "chore: atualizar notícias RSS [skip ci]"
+          git push

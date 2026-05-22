@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ===== PREENCHER PARA CADA ARTIGO ===== -->
+  <title>[TÍTULO DO ARTIGO] | Empresas &amp; Negócios</title>
+  <meta name="description" content="[RESUMO DO ARTIGO — 150 a 160 caracteres, incluindo palavra-chave principal]" />
+  <meta name="author" content="[NOME DO AUTOR]" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="googlebot-news" content="index, follow" />
+  <link rel="canonical" href="https://www.empresasenegocios.com.br/noticias/[SLUG-DO-ARTIGO].html" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Empresas &amp; Negócios" />
+  <meta property="og:title" content="[TÍTULO DO ARTIGO]" />
+  <meta property="og:description" content="[RESUMO DO ARTIGO]" />
+  <meta property="og:url" content="https://www.empresasenegocios.com.br/noticias/[SLUG-DO-ARTIGO].html" />
+  <meta property="og:image" content="https://www.empresasenegocios.com.br/assets/noticias/[IMAGEM-OG].jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="article:published_time" content="[YYYY-MM-DDTHH:MM:SS-03:00]" />
+  <meta property="article:modified_time" content="[YYYY-MM-DDTHH:MM:SS-03:00]" />
+  <meta property="article:author" content="[NOME DO AUTOR]" />
+  <meta property="article:section" content="[CATEGORIA]" />
+  <meta property="article:tag" content="[TAG1], [TAG2], [TAG3]" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@empresasenegocios" />
+  <meta name="twitter:title" content="[TÍTULO DO ARTIGO]" />
+  <meta name="twitter:description" content="[RESUMO DO ARTIGO]" />
+  <meta name="twitter:image" content="https://www.empresasenegocios.com.br/assets/noticias/[IMAGEM-OG].jpg" />
+
+  <!-- ===== SCHEMA JSON-LD — NewsArticle ===== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "[TÍTULO DO ARTIGO — máx 110 caracteres]",
+    "description": "[RESUMO DO ARTIGO]",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://www.empresasenegocios.com.br/assets/noticias/[IMAGEM].jpg",
+      "width": 1200,
+      "height": 630
+    },
+    "datePublished": "[YYYY-MM-DDTHH:MM:SS-03:00]",
+    "dateModified": "[YYYY-MM-DDTHH:MM:SS-03:00]",
+    "author": {
+      "@type": "Person",
+      "name": "[NOME DO AUTOR]",
+      "url": "https://www.empresasenegocios.com.br/autor/[SLUG-AUTOR]"
+    },
+    "publisher": {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.empresasenegocios.com.br/#organization",
+      "name": "Empresas & Negócios",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.empresasenegocios.com.br/assets/logo.png",
+        "width": 300,
+        "height": 60
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.empresasenegocios.com.br/noticias/[SLUG-DO-ARTIGO].html"
+    },
+    "articleSection": "[CATEGORIA]",
+    "keywords": "[palavra-chave1, palavra-chave2, palavra-chave3]",
+    "inLanguage": "pt-BR",
+    "isAccessibleForFree": true,
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Início", "item": "https://www.empresasenegocios.com.br/" },
+        { "@type": "ListItem", "position": 2, "name": "[CATEGORIA]", "item": "https://www.empresasenegocios.com.br/pages/[categoria].html" },
+        { "@type": "ListItem", "position": 3, "name": "[TÍTULO CURTO]", "item": "https://www.empresasenegocios.com.br/noticias/[SLUG-DO-ARTIGO].html" }
+      ]
+    }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <link rel="stylesheet" href="../css/artigo.css" />
+  <meta name="theme-color" content="#000000" />
+</head>
+<body>
+
+<div class="reading-progress" id="readingProgress"></div>
+
+<div class="ticker-bar">
+  <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
+    <span class="ticker-label">Últimas</span>
+    <div class="ticker-track" id="tickerTrack">
+      <span>Ibovespa sobe 1,2% e supera 135 mil pontos</span>
+      <span>Governo anuncia pacote de R$ 8 bi para PMEs</span>
+      <span>Startup brasileira levanta US$ 50 mi em Série B</span>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="header-top">
+    <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+    <a href="../index.html" class="logo">
+      <span class="logo-text">Empresas<span>&</span>Negócios</span>
+    </a>
+    <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
+  </div>
+  <nav class="main-nav" id="mainNav">
+    <div class="nav-inner">
+      <a href="../index.html">Início</a>
+      <a href="../pages/novidades.html">Novidades</a>
+      <a href="../pages/startups.html">Startups</a>
+      <a href="../pages/tecnologia.html">Tecnologia</a>
+      <a href="../pages/servicos.html">Serviços</a>
+      <a href="../pages/industrias.html">Indústrias</a>
+      <a href="../pages/saude.html">Saúde</a>
+      <a href="../pages/sociedade.html">Sociedade</a>
+      <a href="../pages/cultura.html">Cultura</a>
+      <a href="../pages/brasil.html">Brasil</a>
+      <a href="../pages/mundo.html">Mundo</a>
+    </div>
+  </nav>
+</header>
+
+<main class="article-main">
+  <div class="article-layout">
+
+    <!-- ARTIGO -->
+    <article class="article-content" itemscope itemtype="https://schema.org/NewsArticle">
+
+      <!-- Breadcrumb -->
+      <nav class="article-breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="../index.html">Início</a></li>
+          <li><a href="../pages/[categoria].html">[CATEGORIA]</a></li>
+          <li aria-current="page">[TÍTULO CURTO]</li>
+        </ol>
+      </nav>
+
+      <!-- Tag e metadados -->
+      <span class="tag [classe-categoria]">[CATEGORIA]</span>
+
+      <!-- H1 — palavra-chave principal aqui -->
+      <h1 class="article-title" itemprop="headline">[TÍTULO DO ARTIGO — inclua a palavra-chave principal]</h1>
+
+      <!-- Linha de autoria e data — importante para E-E-A-T -->
+      <div class="article-meta">
+        <div class="article-author">
+          <div class="author-info">
+            <span class="author-name" itemprop="author" itemscope itemtype="https://schema.org/Person">
+              Por <strong itemprop="name"><a href="../autor/[slug-autor].html">[NOME DO AUTOR]</a></strong>
+            </span>
+            <span class="author-title">[Cargo/Especialidade do autor]</span>
+          </div>
+        </div>
+        <div class="article-date">
+          <time itemprop="datePublished" datetime="[YYYY-MM-DDTHH:MM:SS-03:00]">[Dia de mês. de Ano] — [HH:MM]</time>
+          <span class="reading-time">· [X] min de leitura</span>
+        </div>
+      </div>
+
+      <!-- Botões de compartilhamento -->
+      <div class="share-bar">
+        <span class="share-label">Compartilhar:</span>
+        <button class="share-btn share-wpp" onclick="shareWhatsApp()" aria-label="Compartilhar no WhatsApp">WhatsApp</button>
+        <button class="share-btn share-linkedin" onclick="shareLinkedIn()" aria-label="Compartilhar no LinkedIn">LinkedIn</button>
+        <button class="share-btn share-twitter" onclick="shareTwitter()" aria-label="Compartilhar no X">X (Twitter)</button>
+        <button class="share-btn share-copy" onclick="copyLink()" aria-label="Copiar link">Copiar link</button>
+      </div>
+
+      <!-- Imagem hero do artigo -->
+      <figure class="article-hero-img" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="../assets/noticias/[IMAGEM].jpg"
+             alt="[DESCRIÇÃO ALT DA IMAGEM — inclua palavra-chave]"
+             width="800" height="450"
+             loading="eager"
+             itemprop="url" />
+        <figcaption itemprop="caption">[Legenda da imagem — fonte: [Fonte]]</figcaption>
+      </figure>
+
+      <!-- CONTEÚDO DO ARTIGO -->
+      <!-- Use H2 para subtítulos principais, H3 para subtópicos -->
+      <!-- Palavra-chave principal no primeiro parágrafo -->
+      <div class="article-body" itemprop="articleBody">
+
+        <p><strong>[Lead — 2 ou 3 frases resumindo o fato mais importante. Palavra-chave principal aqui.]</strong></p>
+
+        <p>[Parágrafo de contexto e desenvolvimento da notícia...]</p>
+
+        <h2>[Subtítulo com palavra-chave secundária]</h2>
+        <p>[Desenvolvimento do subtema...]</p>
+
+        <h2>[Próximo subtítulo]</h2>
+        <p>[Mais desenvolvimento...]</p>
+
+        <!-- Use listas para facilitar Featured Snippets -->
+        <ul>
+          <li>[Ponto chave 1]</li>
+          <li>[Ponto chave 2]</li>
+          <li>[Ponto chave 3]</li>
+        </ul>
+
+        <h2>O que isso significa para o seu negócio</h2>
+        <p>[Análise de impacto prático — agrega valor ao leitor...]</p>
+
+        <!-- Citação de especialista — reforça E-E-A-T -->
+        <blockquote class="article-quote">
+          <p>"[Citação de especialista ou fonte oficial]"</p>
+          <cite>— [Nome], [Cargo], [Empresa/Instituição]</cite>
+        </blockquote>
+
+        <p>[Conclusão e perspectivas...]</p>
+
+      </div>
+
+      <!-- Tags do artigo -->
+      <div class="article-tags">
+        <span>Tags:</span>
+        <a href="#" class="tag-link">[tag1]</a>
+        <a href="#" class="tag-link">[tag2]</a>
+        <a href="#" class="tag-link">[tag3]</a>
+      </div>
+
+      <!-- Repetir share bar no final -->
+      <div class="share-bar share-bar-bottom">
+        <span class="share-label">Gostou? Compartilhe:</span>
+        <button class="share-btn share-wpp" onclick="shareWhatsApp()">WhatsApp</button>
+        <button class="share-btn share-linkedin" onclick="shareLinkedIn()">LinkedIn</button>
+        <button class="share-btn share-twitter" onclick="shareTwitter()">X (Twitter)</button>
+        <button class="share-btn share-copy" onclick="copyLink()">Copiar link</button>
+      </div>
+
+    </article>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-sticky">
+
+        <div class="sidebar-widget newsletter-widget">
+          <div class="widget-header">📧 Receba no e-mail</div>
+          <div class="widget-body">
+            <p class="nl-desc">As melhores notícias de negócios toda manhã no seu e-mail.</p>
+            <form onsubmit="handleNewsletter(event)">
+              <input type="email" placeholder="Seu e-mail" required />
+              <button type="submit" class="btn-nl">Inscrever-se</button>
+            </form>
+            <p class="nl-privacy">Sem spam. Cancele quando quiser.</p>
+          </div>
+        </div>
+
+        <div class="sidebar-widget ad-sidebar">
+          <div class="widget-header">Publicidade</div>
+          <div class="widget-body" style="padding:10px;">
+            <div class="ad-placeholder" style="height:250px;border-radius:4px;"><div class="ad-icon">📢</div><span>300×250</span></div>
+          </div>
+        </div>
+
+        <div class="sidebar-widget">
+          <div class="widget-header">📖 Leia também</div>
+          <div class="widget-body">
+            <ul class="trending-list">
+              <li class="trending-item"><span class="trending-num">1</span><a href="#" class="trending-title">[Título de artigo relacionado 1]</a></li>
+              <li class="trending-item"><span class="trending-num">2</span><a href="#" class="trending-title">[Título de artigo relacionado 2]</a></li>
+              <li class="trending-item"><span class="trending-num">3</span><a href="#" class="trending-title">[Título de artigo relacionado 3]</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="sidebar-widget ad-sidebar-sm">
+          <div class="widget-header">Publicidade</div>
+          <div class="widget-body" style="padding:10px;">
+            <div class="ad-placeholder" style="height:160px;border-radius:4px;"><div class="ad-icon">📢</div><span>300×160</span></div>
+          </div>
+        </div>
+
+      </div>
+    </aside>
+
+  </div>
+
+  <!-- ARTIGOS RELACIONADOS -->
+  <div class="container" style="padding-top:0;">
+    <section class="category-section">
+      <div class="section-header"><h2>Veja também</h2></div>
+      <div class="category-row">
+        <!-- Inserir 3 cards de artigos relacionados -->
+      </div>
+    </section>
+  </div>
+
+</main>
+
+<section class="newsletter-section" id="newsletter">
+  <div class="nl-inner">
+    <h2>Fique por dentro do que importa</h2>
+    <p>As melhores notícias de negócios direto no seu e-mail, toda manhã.</p>
+    <form class="nl-form" onsubmit="handleNewsletter(event)">
+      <input type="email" placeholder="Digite seu e-mail" required />
+      <button type="submit">Inscrever grátis</button>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <div class="logo-text">Empresas<span>&</span>Negócios</div>
+      <p>O portal de referência em notícias sobre negócios, economia e inovação.</p>
+    </div>
+    <div class="footer-col"><h4>Editorias</h4><ul>
+      <li><a href="../pages/novidades.html">Novidades</a></li>
+      <li><a href="../pages/startups.html">Startups</a></li>
+      <li><a href="../pages/tecnologia.html">Tecnologia</a></li>
+      <li><a href="../pages/servicos.html">Serviços</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Mais</h4><ul>
+      <li><a href="../pages/brasil.html">Brasil</a></li>
+      <li><a href="../pages/mundo.html">Mundo</a></li>
+      <li><a href="../pages/sociedade.html">Sociedade</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Institucional</h4><ul>
+      <li><a href="#">Sobre nós</a></li>
+      <li><a href="#">Anuncie</a></li>
+      <li><a href="#">Contato</a></li>
+      <li><a href="#">Política de Privacidade</a></li>
+    </ul></div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span>
+  </div>
+</footer>
+
+<div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
+<button class="back-to-top" id="backToTop">↑</button>
+
+<script src="../js/main.js"></script>
+<script>
+function shareWhatsApp() {
+  window.open('https://wa.me/?text=' + encodeURIComponent(document.title + ' — ' + location.href), '_blank');
+}
+function shareLinkedIn() {
+  window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(location.href), '_blank');
+}
+function shareTwitter() {
+  window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + '&url=' + encodeURIComponent(location.href), '_blank');
+}
+function copyLink() {
+  navigator.clipboard.writeText(location.href).then(() => showToast('🔗', 'Link copiado!'));
+}
+</script>
+</body>
+</html>

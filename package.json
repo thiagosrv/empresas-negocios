@@ -1,0 +1,12 @@
+{
+  "name": "empresas-negocios",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-rss": "node scripts/fetch-rss.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.6"
+  }
+}

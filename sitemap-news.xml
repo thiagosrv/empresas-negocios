@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Google News Sitemap
+  Inclua aqui APENAS artigos publicados nas últimas 48 horas.
+  Atualize este arquivo a cada nova notícia publicada.
+  Referência: https://developers.google.com/news/sitemaps
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://www.empresasenegocios.com.br/noticias/economia-cresce-3-2-primeiro-trimestre.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Empresas &amp; Negócios</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T08:00:00-03:00</news:publication_date>
+      <news:title>Economia brasileira cresce 3,2% no primeiro trimestre e supera expectativas do mercado</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.empresasenegocios.com.br/noticias/fintechs-captam-record-2026.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Empresas &amp; Negócios</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T09:30:00-03:00</news:publication_date>
+      <news:title>Fintechs brasileiras captam R$ 4,3 bilhões no primeiro semestre e batem recorde histórico</news:title>
+    </news:news>
+  </url>
+
+</urlset>
