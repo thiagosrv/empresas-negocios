@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T18:04:48.716Z",
+  "updated": "2026-05-22T18:13:00.472Z",
   "articles": [
     {
       "slug": "gestao-integrada-facilities-menos-burocracia",
@@ -50,6 +50,30 @@
       "url": "noticias/2026-05-22-economia-brasil-cresce-3-2-primeiro-trimestre-2026.html"
     },
     {
+      "slug": "inteligencia-artificial-manufatura-interior-sp",
+      "title": "Inteligência Artificial Revoluciona Manufatura no Interior de SP",
+      "description": "Descubra como a inteligência artificial está transformando a manufatura no interior de São Paulo com casos reais de sucesso.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-inteligencia-artificial-manufatura-interior-sp.html"
+    },
+    {
+      "slug": "economia-brasileira-cresce-primeiro-trimestre-2026",
+      "title": "Economia brasileira cresce 3,2% no 1º tri de 2026 e supera expectativas",
+      "description": "Crescimento de 3,2% no primeiro trimestre de 2026 surpreende o mercado brasileiro.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-economia-brasileira-cresce-primeiro-trimestre-2026.html"
+    },
+    {
       "slug": "logistica-verde-startups-captam-180-milhoes",
       "title": "Logística verde: startups captam R$ 180 milhões e expandem frota elétrica",
       "description": "Startups de logística verde captam R$ 180 milhões para expandir frota elétrica em 12 estados do Brasil.",
@@ -96,6 +120,54 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-21-fed-corte-juros-setembro-impacto-brasileiros.html"
+    },
+    {
+      "slug": "startups-logistica-verde-captam-180-milhoes",
+      "title": "Startups de logística verde captam R$ 180 milhões e expandem frota elétrica",
+      "description": "Logística verde avança no Brasil: startups captam R$ 180 milhões e expandem frota elétrica para 12 estados.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-startups-logistica-verde-captam-180-milhoes.html"
+    },
+    {
+      "slug": "healthtechs-brasileiras-crescem-45-atraem-r-2-bi-2026",
+      "title": "Healthtechs brasileiras crescem 45% e atraem R$ 2 bi em 2026",
+      "description": "Healthtechs no Brasil crescem 45%, atraindo R$ 2 bilhões em 2026. Entenda o impacto.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Saúde",
+      "tagCls": "saude",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-healthtechs-brasileiras-crescem-45-atraem-r-2-bi-2026.html"
+    },
+    {
+      "slug": "trabalho-hibrido-padrao-corporacoes-brasileiras-2026",
+      "title": "Trabalho híbrido consolida-se como padrão nas corporações brasileiras",
+      "description": "Em 2026, o modelo híbrido é adotado por 70% das grandes empresas no Brasil.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Sociedade",
+      "tagCls": "sociedade",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-trabalho-hibrido-padrao-corporacoes-brasileiras-2026.html"
+    },
+    {
+      "slug": "fed-sinaliza-corte-de-juros-impactos-brasil",
+      "title": "Fed sinaliza corte de juros: impactos para o mercado brasileiro",
+      "description": "Como a possível redução dos juros pelo Fed em setembro pode afetar investidores e o mercado financeiro no Brasil.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Mundo",
+      "tagCls": "mundo",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-fed-sinaliza-corte-de-juros-impactos-brasil.html"
     },
     {
       "slug": "cloud-computing-para-pmes-interior-sp-baixo-custo",
@@ -146,6 +218,54 @@
       "url": "noticias/2026-05-20-empreendedorismo-feminino-cresce-38-no-brasil.html"
     },
     {
+      "slug": "cloud-computing-pmes-interior-sp-baixo-custo",
+      "title": "Cloud Computing: Guia de Migração para PMEs do Interior de SP",
+      "description": "Descubra como pequenas e médias empresas do interior paulista podem migrar para a nuvem com baixo custo.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-cloud-computing-pmes-interior-sp-baixo-custo.html"
+    },
+    {
+      "slug": "reforma-tributaria-2027-como-empresas-devem-se-preparar",
+      "title": "Reforma Tributária 2027: Como Empresas Devem se Preparar Agora",
+      "description": "Entenda as mudanças da reforma tributária para 2027 e como empresas brasileiras podem se adaptar.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-reforma-tributaria-2027-como-empresas-devem-se-preparar.html"
+    },
+    {
+      "slug": "china-investe-us1-trilhao-energia-limpa",
+      "title": "China investe US$ 1 trilhão em energia limpa e revoluciona commodities",
+      "description": "China lança fundo trilionário para energia limpa, impactando o mercado global de commodities.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Mundo",
+      "tagCls": "mundo",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1462396881884-de2c07cb95ed?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-china-investe-us1-trilhao-energia-limpa.html"
+    },
+    {
+      "slug": "empreendedorismo-feminino-cresce-38-15-milhoes-brasil",
+      "title": "Empreendedorismo feminino cresce 38% e atinge 15 milhões no Brasil",
+      "description": "O empreendedorismo feminino no Brasil cresce 38% e já soma 15 milhões de mulheres à frente de negócios.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Sociedade",
+      "tagCls": "sociedade",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-empreendedorismo-feminino-cresce-38-15-milhoes-brasil.html"
+    },
+    {
       "slug": "telemedicina-em-campinas-triplicando-atendimentos",
       "title": "Telemedicina em Campinas: Triplicando Atendimentos nas Clínicas",
       "description": "Descubra como a telemedicina transformou o atendimento em Campinas, triplicando consultas.",
@@ -192,6 +312,54 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-19-selic-inflacao-cambio-economia-2026.html"
+    },
+    {
+      "slug": "telemedicina-campinas-clinicas-triplicam-atendimentos",
+      "title": "Telemedicina em Campinas: Clínicas Triplicam Atendimentos com Tecnologia",
+      "description": "Clínicas em Campinas adotam telemedicina e triplicam atendimentos. Saiba como.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Saúde",
+      "tagCls": "saude",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-telemedicina-campinas-clinicas-triplicam-atendimentos.html"
+    },
+    {
+      "slug": "industria-automotiva-investe-12-bi-eletricos-2028",
+      "title": "Indústria automotiva investe R$ 12 bi em elétricos até 2028 com incentivos",
+      "description": "Indústria automotiva brasileira investirá R$ 12 bilhões em veículos elétricos até 2028, impulsionada por incentivos fiscais.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Indústrias",
+      "tagCls": "industrias",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-industria-automotiva-investe-12-bi-eletricos-2028.html"
+    },
+    {
+      "slug": "economia-criativa-brasil-200-bilhoes-5-milhoes-empregos",
+      "title": "Economia Criativa no Brasil Movimenta R$ 200 Bi e Gera 5 Mi de Empregos",
+      "description": "Setor criativo brasileiro se destaca com R$ 200 bilhões em movimentação e 5 milhões de empregos.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Cultura",
+      "tagCls": "cultura",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-economia-criativa-brasil-200-bilhoes-5-milhoes-empregos.html"
+    },
+    {
+      "slug": "selic-inflacao-cambio-economia-brasileira-2026",
+      "title": "Selic, Inflação e Câmbio: Expectativas para o Brasil em 2026",
+      "description": "Descubra o que esperar da Selic, inflação e câmbio na economia brasileira em 2026.",
+      "date": "19 de mai. de 2026",
+      "isoDate": "2026-05-19",
+      "tag": "Novidades",
+      "tagCls": "",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-19-selic-inflacao-cambio-economia-brasileira-2026.html"
     },
     {
       "slug": "campinas-maior-hub-inovacao-interior-sp-2026",
@@ -264,6 +432,66 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-18-agtech-mineira-satelites-ia-reduz-perdas-soja.html"
+    },
+    {
+      "slug": "polo-industrial-americana-investimentos-r-800-milhoes",
+      "title": "Polo industrial de Americana atrai R$ 800 milhões e gera 4 mil empregos",
+      "description": "Investimentos de R$ 800 milhões em Americana impulsionam economia local e criam 4 mil empregos.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Indústrias",
+      "tagCls": "industrias",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1565793979108-a10eea5fad27?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-polo-industrial-americana-investimentos-r-800-milhoes.html"
+    },
+    {
+      "slug": "mercado-imobiliario-comercial-campinas-ocupacao",
+      "title": "Mercado imobiliário comercial em Campinas atinge 92% de ocupação",
+      "description": "Ocupação de escritórios em Campinas alcança 92% no 1º trimestre, batendo recordes no setor.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Campinas",
+      "tagCls": "campinas",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-mercado-imobiliario-comercial-campinas-ocupacao.html"
+    },
+    {
+      "slug": "pequenas-empresas-brasileiras-ia-competicao",
+      "title": "Como Pequenas Empresas no Brasil Usam IA para Competir com Grandes Corporações",
+      "description": "Descubra como pequenas empresas brasileiras utilizam IA para competir e inovar frente a grandes corporações.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Novidades",
+      "tagCls": "",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-pequenas-empresas-brasileiras-ia-competicao.html"
+    },
+    {
+      "slug": "setor-servicos-lidera-empregos-brasil-abril-2026",
+      "title": "Setor de Serviços Lidera Geração de Empregos no Brasil em Abril de 2026",
+      "description": "Com 320 mil novas vagas, setor de serviços impulsiona o mercado de trabalho brasileiro.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-setor-servicos-lidera-empregos-brasil-abril-2026.html"
+    },
+    {
+      "slug": "agtech-mineira-satelites-ia-soja",
+      "title": "Agtech mineira usa satélites e IA para otimizar safra de soja em 30%",
+      "description": "Startup de Minas Gerais revoluciona agricultura com tecnologia avançada, reduzindo perdas na soja.",
+      "date": "18 de mai. de 2026",
+      "isoDate": "2026-05-18",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-18-agtech-mineira-satelites-ia-soja.html"
     },
     {
       "url": "noticias/2026-05-22-portaria-especializada-americana.html",
