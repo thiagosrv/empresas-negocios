@@ -32,10 +32,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: npm run generate-batch
 
+      - name: Atualizar sitemap.xml
+        run: npm run generate-sitemap
+
       - name: Commitar e publicar artigos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add noticias/ data/artigos.json
+          git add noticias/ data/artigos.json sitemap.xml robots.txt
           git diff --staged --quiet || git commit -m "feat: 20 artigos gerados em lote via GPT-4o [skip ci]"
           git push
