@@ -75,6 +75,33 @@ document.querySelectorAll('img').forEach(img => {
   });
 });
 
+// ===== MOBILE BOTTOM NAV =====
+(function() {
+  var nav = document.createElement('nav');
+  nav.className = 'mobile-bottom-nav';
+  var base = window.location.pathname.includes('/pages/') ? '' : 'pages/';
+  var path = window.location.pathname;
+
+  var items = [
+    { href: base === '' ? 'index.html' : '../index.html', icon: '🏠', label: 'Início' },
+    { href: base + 'novidades.html', icon: '📰', label: 'Notícias' },
+    { href: base + 'vagas.html', icon: '💼', label: 'Vagas' },
+    { href: base + 'tempo.html', icon: '🌤️', label: 'Tempo' },
+    { href: base + 'noticias-locais.html', icon: '📍', label: 'Local' },
+  ];
+
+  nav.innerHTML = items.map(function(item) {
+    var isActive = path.toLowerCase().includes(item.label.toLowerCase()) ||
+      (item.label === 'Início' && (path === '/' || path.endsWith('index.html')));
+    return '<a href="' + item.href + '" class="' + (isActive ? 'active' : '') + '">' +
+      '<span class="nav-icon">' + item.icon + '</span>' +
+      '<span>' + item.label + '</span>' +
+      '</a>';
+  }).join('');
+
+  document.body.appendChild(nav);
+})();
+
 // ===== WHATSAPP FLUTUANTE =====
 (function () {
   // Páginas e palavras-chave relacionadas a facilities/portaria → número comercial especializado

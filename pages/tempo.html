@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Previsão do Tempo — Americana SP | Empresas &amp; Negócios</title>
+  <meta name="description" content="Previsão do tempo para Americana SP e região. Temperatura atual, chuva, umidade, vento e previsão para os próximos dias em Americana, Santa Bárbara D'Oeste e Sumaré." />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+  <link rel="canonical" href="https://www.empresasenegocios.com.br/pages/tempo.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Empresas &amp; Negócios" />
+  <meta property="og:title" content="Previsão do Tempo — Americana SP" />
+  <meta property="og:description" content="Tempo em Americana SP: temperatura, chuva, vento e previsão para 5 dias." />
+  <meta property="og:url" content="https://www.empresasenegocios.com.br/pages/tempo.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <meta name="theme-color" content="#000000" />
+</head>
+<body>
+<div class="reading-progress" id="readingProgress"></div>
+
+<div class="ticker-bar">
+  <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
+    <span class="ticker-label">Tempo</span>
+    <div class="ticker-track" id="tickerTrack">
+      <span>Previsão do tempo atualizada para Americana SP</span>
+      <span>Região de Campinas · Interior de São Paulo</span>
+      <span>Dados fornecidos por wttr.in</span>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="header-top">
+    <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+    <a href="../index.html" class="logo">
+      <span class="logo-text">Empresas<span>&</span>Negócios</span>
+    </a>
+    <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
+  </div>
+  <nav class="main-nav" id="mainNav">
+    <div class="nav-inner">
+      <a href="../index.html">Início</a>
+      <a href="novidades.html">Novidades</a>
+      <a href="startups.html">Startups</a>
+      <a href="tecnologia.html">Tecnologia</a>
+      <a href="servicos.html">Serviços</a>
+      <a href="industrias.html">Indústrias</a>
+      <a href="saude.html">Saúde</a>
+      <a href="sociedade.html">Sociedade</a>
+      <a href="cultura.html">Cultura</a>
+      <a href="brasil.html">Brasil</a>
+      <a href="mundo.html">Mundo</a>
+      <a href="campinas.html">Campinas</a>
+      <a href="esportes.html">Esportes</a>
+      <a href="vagas.html">Vagas</a>
+      <a href="tempo.html" class="active">🌤️ Tempo</a>
+      <a href="noticias-locais.html">Local</a>
+    </div>
+  </nav>
+</header>
+
+<!-- Banner 728x90 -->
+<div class="ad-banner-top">
+  <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer">
+    <img src="../banner.png" alt="Proteção e Vigilância" width="728" height="90" loading="eager" />
+  </a>
+</div>
+
+<div class="page-hero" style="background:linear-gradient(135deg,#1565C0 0%,#0D47A1 50%,#1a237e 100%);">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="../index.html" style="color:rgba(255,255,255,.5);">Início</a>
+      <span style="color:rgba(255,255,255,.5);">Previsão do Tempo</span>
+    </nav>
+    <h1 style="margin-top:10px;">Previsão do Tempo</h1>
+    <p style="font-size:15px;color:rgba(255,255,255,.7);margin-top:8px;">Americana SP — Interior de São Paulo</p>
+  </div>
+</div>
+
+<div class="main-layout">
+  <div class="content-col">
+
+    <div class="section-header">
+      <h2>Americana SP — Agora</h2>
+    </div>
+
+    <!-- Weather container -->
+    <div id="weather-container">
+      <div class="weather-loading">⏳ Carregando previsão do tempo...</div>
+    </div>
+
+    <!-- Previsão 5 dias -->
+    <div class="section-header" style="margin-top:28px;">
+      <h2>Previsão para 5 Dias</h2>
+    </div>
+    <div id="forecast-container" class="forecast-grid">
+      <!-- Preenchido via JS -->
+    </div>
+
+    <!-- Cidades da Região -->
+    <div class="section-header" style="margin-top:28px;">
+      <h2>Cidades da Região</h2>
+    </div>
+    <div class="weather-cities-grid">
+      <div class="weather-city-card">
+        <div class="city-icon">🏙️</div>
+        <div>
+          <div class="city-name">Santa Bárbara D'Oeste</div>
+          <div style="font-size:12px;color:var(--gray);margin-top:2px;">A 12 km de Americana</div>
+          <div class="city-link" style="margin-top:4px;">Em breve: previsão local</div>
+        </div>
+      </div>
+      <div class="weather-city-card">
+        <div class="city-icon">🏭</div>
+        <div>
+          <div class="city-name">Sumaré</div>
+          <div style="font-size:12px;color:var(--gray);margin-top:2px;">A 20 km de Americana</div>
+          <div class="city-link" style="margin-top:4px;">Em breve: previsão local</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Info box -->
+    <div style="background:var(--white);border-radius:var(--radius-lg);padding:20px;box-shadow:var(--shadow-card);margin-top:24px;">
+      <h3 style="font-size:15px;font-weight:700;margin-bottom:10px;color:var(--dark);">ℹ️ Sobre os dados</h3>
+      <p style="font-size:13px;color:var(--gray);line-height:1.6;">
+        Os dados de previsão do tempo são fornecidos pelo serviço <strong>wttr.in</strong> e atualizados periodicamente.
+        As temperaturas são em graus Celsius (°C). Para emergências climáticas, consulte sempre a
+        <a href="https://www.defesacivil.sp.gov.br" target="_blank" rel="noopener" style="color:var(--accent);">Defesa Civil SP</a>.
+      </p>
+    </div>
+
+  </div><!-- /content-col -->
+
+  <aside class="sidebar">
+    <div class="sidebar-sticky">
+
+      <!-- Newsletter -->
+      <div class="sidebar-widget newsletter-widget" id="newsletter">
+        <div class="widget-header">☀️ Alertas do Tempo</div>
+        <div class="widget-body">
+          <p class="nl-desc">Receba alertas de chuva intensa e mudanças climáticas na região pelo e-mail.</p>
+          <form onsubmit="handleNewsletter(event)">
+            <input type="email" placeholder="Seu e-mail" required />
+            <button type="submit" class="btn-nl">Ativar alertas</button>
+          </form>
+          <p class="nl-privacy">Sem spam. Cancele quando quiser.</p>
+        </div>
+      </div>
+
+      <!-- Banner lateral -->
+      <div class="sidebar-widget">
+        <div class="widget-header">Publicidade</div>
+        <div class="widget-body" style="padding:0;">
+          <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
+            <img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 10px 10px;" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Links rápidos -->
+      <div class="sidebar-widget">
+        <div class="widget-header">🔗 Explore Mais</div>
+        <div class="widget-body">
+          <ul style="display:flex;flex-direction:column;gap:10px;">
+            <li><a href="noticias-locais.html" style="font-size:13px;font-weight:600;color:var(--dark);">📍 Notícias Locais</a></li>
+            <li><a href="vagas.html" style="font-size:13px;font-weight:600;color:var(--dark);">💼 Vagas de Emprego</a></li>
+            <li><a href="campinas.html" style="font-size:13px;font-weight:600;color:var(--dark);">🌆 Campinas &amp; Região</a></li>
+            <li><a href="servicos.html" style="font-size:13px;font-weight:600;color:var(--dark);">🏢 Portaria &amp; Facilities</a></li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </aside>
+</div><!-- /main-layout -->
+
+<section class="newsletter-section">
+  <div class="nl-inner">
+    <h2>Fique por dentro da região</h2>
+    <p>Notícias locais, vagas de emprego e muito mais direto no seu e-mail.</p>
+    <form class="nl-form" onsubmit="handleNewsletter(event)">
+      <input type="email" placeholder="Digite seu e-mail" required />
+      <button type="submit">Inscrever grátis</button>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <div class="logo-text">Empresas<span>&</span>Negócios</div>
+      <p>O portal de referência em notícias sobre negócios, economia e inovação na região de Americana e Campinas.</p>
+    </div>
+    <div class="footer-col"><h4>Editorias</h4><ul>
+      <li><a href="novidades.html">Novidades</a></li>
+      <li><a href="startups.html">Startups</a></li>
+      <li><a href="campinas.html">Campinas</a></li>
+      <li><a href="esportes.html">Esportes</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Local</h4><ul>
+      <li><a href="vagas.html">Vagas de Emprego</a></li>
+      <li><a href="tempo.html">Previsão do Tempo</a></li>
+      <li><a href="noticias-locais.html">Notícias Locais</a></li>
+      <li><a href="servicos.html">Portaria &amp; Facilities</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Institucional</h4><ul>
+      <li><a href="#">Sobre nós</a></li>
+      <li><a href="#">Anuncie</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul></div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span>
+  </div>
+</footer>
+
+<div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
+<button class="back-to-top" id="backToTop">↑</button>
+
+<script src="../js/main.js"></script>
+<script>
+// ===== WEATHER PAGE SCRIPT =====
+
+var FALLBACK = {
+  temp: 24, feels: 22, desc: 'Parcialmente nublado',
+  humidity: 72, wind: 14, visibility: 10,
+  forecast: [
+    { day: 'Hoje', icon: '⛅', max: 28, min: 19 },
+    { day: 'Sáb',  icon: '☀️', max: 30, min: 20 },
+    { day: 'Dom',  icon: '🌧️', max: 25, min: 18 },
+    { day: 'Seg',  icon: '⛅', max: 27, min: 19 },
+    { day: 'Ter',  icon: '☀️', max: 31, min: 21 },
+  ]
+};
+
+function conditionToEmoji(desc) {
+  desc = (desc || '').toLowerCase();
+  if (desc.includes('sunny') || desc.includes('clear')) return '☀️';
+  if (desc.includes('thunder') || desc.includes('storm')) return '⛈️';
+  if (desc.includes('drizzle') || desc.includes('light rain')) return '🌦️';
+  if (desc.includes('rain') || desc.includes('shower')) return '🌧️';
+  if (desc.includes('overcast')) return '☁️';
+  if (desc.includes('cloudy')) return '☁️';
+  if (desc.includes('partly')) return '⛅';
+  if (desc.includes('fog') || desc.includes('mist') || desc.includes('haze')) return '🌫️';
+  if (desc.includes('snow') || desc.includes('blizzard')) return '❄️';
+  return '🌡️';
+}
+
+function translateDesc(desc) {
+  desc = (desc || '').toLowerCase();
+  if (desc.includes('sunny')) return 'Ensolarado';
+  if (desc.includes('clear')) return 'Céu limpo';
+  if (desc.includes('thunder')) return 'Tempestade';
+  if (desc.includes('drizzle')) return 'Garoa';
+  if (desc.includes('light rain')) return 'Chuva fraca';
+  if (desc.includes('rain')) return 'Chuva';
+  if (desc.includes('shower')) return 'Chuva passageira';
+  if (desc.includes('overcast')) return 'Nublado';
+  if (desc.includes('partly cloudy') || desc.includes('partly')) return 'Parcialmente nublado';
+  if (desc.includes('cloudy')) return 'Nublado';
+  if (desc.includes('fog')) return 'Névoa';
+  if (desc.includes('mist')) return 'Neblina';
+  if (desc.includes('snow')) return 'Neve';
+  return desc;
+}
+
+function getDayName(offset) {
+  var days = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+  var d = new Date();
+  d.setDate(d.getDate() + offset);
+  if (offset === 0) return 'Hoje';
+  if (offset === 1) return 'Amanhã';
+  return days[d.getDay()];
+}
+
+function renderWeather(data) {
+  var container = document.getElementById('weather-container');
+  container.innerHTML = '<div class="weather-hero">' +
+    '<div class="weather-city">📍 Americana, SP — Brasil</div>' +
+    '<div class="weather-temp">' + data.temp + '°C</div>' +
+    '<div class="weather-desc">' + conditionToEmoji(data.rawDesc) + ' ' + data.desc + '</div>' +
+    '<div class="weather-details">' +
+      '<div class="weather-detail"><strong>' + data.feels + '°C</strong>Sensação</div>' +
+      '<div class="weather-detail"><strong>' + data.humidity + '%</strong>Umidade</div>' +
+      '<div class="weather-detail"><strong>' + data.wind + ' km/h</strong>Vento</div>' +
+      '<div class="weather-detail"><strong>' + data.visibility + ' km</strong>Visibilidade</div>' +
+    '</div>' +
+  '</div>';
+
+  var fc = document.getElementById('forecast-container');
+  fc.innerHTML = data.forecast.map(function(d) {
+    return '<div class="forecast-card">' +
+      '<div class="forecast-day">' + d.day + '</div>' +
+      '<div class="forecast-icon">' + d.icon + '</div>' +
+      '<div class="forecast-max">' + d.max + '°</div>' +
+      '<div class="forecast-min">' + d.min + '°</div>' +
+    '</div>';
+  }).join('');
+}
+
+function renderFallback() {
+  var d = FALLBACK;
+  d.rawDesc = d.desc;
+  renderWeather(d);
+}
+
+// Fetch from wttr.in
+fetch('https://wttr.in/Americana+SP,Brazil?format=j1', { signal: AbortSignal.timeout ? AbortSignal.timeout(6000) : undefined })
+  .then(function(r) { return r.json(); })
+  .then(function(json) {
+    try {
+      var current = json.current_condition[0];
+      var rawDesc = current.weatherDesc[0].value;
+      var data = {
+        temp: parseInt(current.temp_C),
+        feels: parseInt(current.FeelsLikeC),
+        desc: translateDesc(rawDesc),
+        rawDesc: rawDesc,
+        humidity: parseInt(current.humidity),
+        wind: parseInt(current.windspeedKmph),
+        visibility: parseInt(current.visibility),
+        forecast: []
+      };
+      // Build forecast (up to 5 days from weather array)
+      var weatherDays = json.weather || [];
+      for (var i = 0; i < Math.min(5, weatherDays.length); i++) {
+        var wd = weatherDays[i];
+        var desc0 = wd.hourly && wd.hourly[4] ? wd.hourly[4].weatherDesc[0].value : '';
+        data.forecast.push({
+          day: getDayName(i),
+          icon: conditionToEmoji(desc0),
+          max: parseInt(wd.maxtempC),
+          min: parseInt(wd.mintempC)
+        });
+      }
+      // Pad to 5 if fewer days returned
+      while (data.forecast.length < 5) {
+        var idx = data.forecast.length;
+        data.forecast.push({
+          day: getDayName(idx),
+          icon: '⛅',
+          max: 27,
+          min: 18
+        });
+      }
+      renderWeather(data);
+    } catch(e) {
+      renderFallback();
+    }
+  })
+  .catch(function() {
+    renderFallback();
+  });
+</script>
+</body>
+</html>

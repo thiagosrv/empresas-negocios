@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notícias Locais — Americana, Santa Bárbara e Sumaré | Empresas &amp; Negócios</title>
+  <meta name="description" content="Notícias locais de Americana, Santa Bárbara D'Oeste, Sumaré e região de Campinas. Fique por dentro do que acontece na sua cidade." />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+  <link rel="canonical" href="https://www.empresasenegocios.com.br/pages/noticias-locais.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Empresas &amp; Negócios" />
+  <meta property="og:title" content="Notícias Locais da Região | Empresas &amp; Negócios" />
+  <meta property="og:description" content="Notícias locais de Americana, Santa Bárbara D'Oeste, Sumaré e toda a região de Campinas." />
+  <meta property="og:url" content="https://www.empresasenegocios.com.br/pages/noticias-locais.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <meta name="theme-color" content="#000000" />
+</head>
+<body>
+<div class="reading-progress" id="readingProgress"></div>
+
+<div class="ticker-bar">
+  <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
+    <span class="ticker-label">Local</span>
+    <div class="ticker-track" id="tickerTrack">
+      <span>Notícias de Americana, Santa Bárbara D'Oeste e Sumaré</span>
+      <span>Região de Campinas — Interior de São Paulo</span>
+      <span>Atualizado em tempo real</span>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="header-top">
+    <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+    <a href="../index.html" class="logo">
+      <span class="logo-text">Empresas<span>&</span>Negócios</span>
+    </a>
+    <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
+  </div>
+  <nav class="main-nav" id="mainNav">
+    <div class="nav-inner">
+      <a href="../index.html">Início</a>
+      <a href="novidades.html">Novidades</a>
+      <a href="startups.html">Startups</a>
+      <a href="tecnologia.html">Tecnologia</a>
+      <a href="servicos.html">Serviços</a>
+      <a href="industrias.html">Indústrias</a>
+      <a href="saude.html">Saúde</a>
+      <a href="sociedade.html">Sociedade</a>
+      <a href="cultura.html">Cultura</a>
+      <a href="brasil.html">Brasil</a>
+      <a href="mundo.html">Mundo</a>
+      <a href="campinas.html">Campinas</a>
+      <a href="esportes.html">Esportes</a>
+      <a href="vagas.html">Vagas</a>
+      <a href="tempo.html">🌤️ Tempo</a>
+      <a href="noticias-locais.html" class="active">Local</a>
+    </div>
+  </nav>
+</header>
+
+<!-- Banner 728x90 -->
+<div class="ad-banner-top">
+  <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer">
+    <img src="../banner.png" alt="Proteção e Vigilância" width="728" height="90" loading="eager" />
+  </a>
+</div>
+
+<div class="page-hero" style="background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="../index.html">Início</a>
+      <span>Notícias Locais</span>
+    </nav>
+    <h1 style="margin-top:10px;">Notícias da Região</h1>
+    <p style="font-size:15px;color:rgba(255,255,255,.7);margin-top:8px;">Americana · Santa Bárbara D'Oeste · Sumaré</p>
+  </div>
+</div>
+
+<div class="main-layout">
+  <div class="content-col">
+
+    <!-- Abas de cidades -->
+    <div class="city-tabs" id="cityTabs" role="tablist">
+      <button class="city-tab active" data-panel="panel-americana" role="tab" aria-selected="true">📍 Americana</button>
+      <button class="city-tab" data-panel="panel-santa-barbara" role="tab" aria-selected="false">🏙️ Santa Bárbara</button>
+      <button class="city-tab" data-panel="panel-sumare" role="tab" aria-selected="false">🏭 Sumaré</button>
+      <button class="city-tab" data-panel="panel-regiao" role="tab" aria-selected="false">🌐 Toda a Região</button>
+    </div>
+
+    <!-- Painel Americana -->
+    <div class="city-panel active" id="panel-americana" role="tabpanel">
+      <div class="section-header">
+        <h2>Americana</h2>
+        <a href="campinas.html">Ver Campinas &amp; Região →</a>
+      </div>
+      <div id="feed-americana" class="category-grid" data-rss-group="campinas" data-rss-max="6">
+        <div class="rss-loader"><div class="spinner"></div><span>Carregando notícias de Americana...</span></div>
+      </div>
+
+      <!-- Notícias editoriais de Americana -->
+      <div class="section-header" style="margin-top:28px;">
+        <h2>Destaques de Americana</h2>
+      </div>
+      <div class="category-row">
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=500&h=280&fit=crop" alt="Americana SP" loading="lazy" />
+          <div class="card-body">
+            <span class="tag brasil">Americana</span>
+            <a href="#" class="card-title">Americana investe R$ 45 mi em infraestrutura e saneamento para 2026</a>
+            <div class="meta"><time>22 mai. 2026</time></div>
+          </div>
+        </article>
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=280&fit=crop" alt="Indústria Americana" loading="lazy" />
+          <div class="card-body">
+            <span class="tag industrias">Economia</span>
+            <a href="#" class="card-title">Parque industrial de Americana gera 1.200 empregos no primeiro trimestre</a>
+            <div class="meta"><time>21 mai. 2026</time></div>
+          </div>
+        </article>
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=280&fit=crop" alt="Saúde Americana" loading="lazy" />
+          <div class="card-body">
+            <span class="tag saude">Saúde</span>
+            <a href="#" class="card-title">Hospital Municipal de Americana recebe novos equipamentos de diagnóstico</a>
+            <div class="meta"><time>20 mai. 2026</time></div>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- Painel Santa Bárbara -->
+    <div class="city-panel" id="panel-santa-barbara" role="tabpanel">
+      <div class="section-header">
+        <h2>Santa Bárbara D'Oeste</h2>
+      </div>
+      <div id="feed-santa-barbara" class="category-grid" data-rss-group="campinas" data-rss-max="6">
+        <div class="rss-loader"><div class="spinner"></div><span>Carregando notícias de Santa Bárbara...</span></div>
+      </div>
+
+      <div class="section-header" style="margin-top:28px;">
+        <h2>Destaques de Santa Bárbara</h2>
+      </div>
+      <div class="category-row">
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&h=280&fit=crop" alt="Santa Bárbara" loading="lazy" />
+          <div class="card-body">
+            <span class="tag brasil">Santa Bárbara</span>
+            <a href="#" class="card-title">Santa Bárbara D'Oeste inaugura novo centro esportivo com piscina olímpica</a>
+            <div class="meta"><time>22 mai. 2026</time></div>
+          </div>
+        </article>
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=500&h=280&fit=crop" alt="Educação SBO" loading="lazy" />
+          <div class="card-body">
+            <span class="tag sociedade">Educação</span>
+            <a href="#" class="card-title">Prefeitura de SBO abre 500 vagas em cursos profissionalizantes gratuitos</a>
+            <div class="meta"><time>21 mai. 2026</time></div>
+          </div>
+        </article>
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=500&h=280&fit=crop" alt="Indústria SBO" loading="lazy" />
+          <div class="card-body">
+            <span class="tag industrias">Indústria</span>
+            <a href="#" class="card-title">Empresa têxtil de SBO expande produção e anuncia 300 novas vagas</a>
+            <div class="meta"><time>20 mai. 2026</time></div>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- Painel Sumaré -->
+    <div class="city-panel" id="panel-sumare" role="tabpanel">
+      <div class="section-header">
+        <h2>Sumaré</h2>
+      </div>
+      <div id="feed-sumare" class="category-grid" data-rss-group="campinas" data-rss-max="6">
+        <div class="rss-loader"><div class="spinner"></div><span>Carregando notícias de Sumaré...</span></div>
+      </div>
+
+      <div class="section-header" style="margin-top:28px;">
+        <h2>Destaques de Sumaré</h2>
+      </div>
+      <div class="category-row">
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=500&h=280&fit=crop" alt="Sumaré SP" loading="lazy" />
+          <div class="card-body">
+            <span class="tag brasil">Sumaré</span>
+            <a href="#" class="card-title">Sumaré recebe investimento de R$ 120 mi em novo distrito industrial</a>
+            <div class="meta"><time>22 mai. 2026</time></div>
+          </div>
+        </article>
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=500&h=280&fit=crop" alt="Tecnologia Sumaré" loading="lazy" />
+          <div class="card-body">
+            <span class="tag tecnologia">Tecnologia</span>
+            <a href="#" class="card-title">Polo tecnológico de Sumaré atrai startups de automação industrial</a>
+            <div class="meta"><time>21 mai. 2026</time></div>
+          </div>
+        </article>
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1605289982774-9a6fef564df8?w=500&h=280&fit=crop" alt="Saúde Sumaré" loading="lazy" />
+          <div class="card-body">
+            <span class="tag saude">Saúde</span>
+            <a href="#" class="card-title">UPA de Sumaré amplia atendimento 24h com novas especialidades médicas</a>
+            <div class="meta"><time>19 mai. 2026</time></div>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- Painel Toda Região -->
+    <div class="city-panel" id="panel-regiao" role="tabpanel">
+      <div class="section-header">
+        <h2>Toda a Região de Campinas</h2>
+        <a href="campinas.html">Ver mais →</a>
+      </div>
+      <div id="feed-regiao" class="category-grid" data-rss-group="campinas" data-rss-max="9">
+        <div class="rss-loader"><div class="spinner"></div><span>Carregando notícias da região...</span></div>
+      </div>
+    </div>
+
+  </div><!-- /content-col -->
+
+  <aside class="sidebar">
+    <div class="sidebar-sticky">
+
+      <!-- Newsletter -->
+      <div class="sidebar-widget newsletter-widget" id="newsletter">
+        <div class="widget-header">📍 Notícias da Sua Cidade</div>
+        <div class="widget-body">
+          <p class="nl-desc">Receba as notícias locais de Americana e região direto no seu e-mail. Atualizado todo dia.</p>
+          <form onsubmit="handleNewsletter(event)">
+            <input type="email" placeholder="Seu e-mail" required />
+            <button type="submit" class="btn-nl">Inscrever-se</button>
+          </form>
+          <p class="nl-privacy">Sem spam. Cancele quando quiser.</p>
+        </div>
+      </div>
+
+      <!-- Banner lateral -->
+      <div class="sidebar-widget">
+        <div class="widget-header">Publicidade</div>
+        <div class="widget-body" style="padding:0;">
+          <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
+            <img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 10px 10px;" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Links rápidos -->
+      <div class="sidebar-widget">
+        <div class="widget-header">🔗 Explore Mais</div>
+        <div class="widget-body">
+          <ul style="display:flex;flex-direction:column;gap:10px;">
+            <li><a href="vagas.html" style="font-size:13px;font-weight:600;color:var(--dark);">💼 Vagas de Emprego</a></li>
+            <li><a href="tempo.html" style="font-size:13px;font-weight:600;color:var(--dark);">🌤️ Previsão do Tempo</a></li>
+            <li><a href="campinas.html" style="font-size:13px;font-weight:600;color:var(--dark);">🌆 Campinas &amp; Região</a></li>
+            <li><a href="servicos.html" style="font-size:13px;font-weight:600;color:var(--dark);">🏢 Portaria &amp; Facilities</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Widget cidades -->
+      <div class="sidebar-widget">
+        <div class="widget-header">🏙️ Nossas Cidades</div>
+        <div class="widget-body">
+          <ul style="display:flex;flex-direction:column;gap:12px;">
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="font-size:24px;">📍</span>
+              <div>
+                <div style="font-size:13px;font-weight:700;color:var(--dark);">Americana</div>
+                <div style="font-size:11px;color:var(--gray);">~230.000 habitantes</div>
+              </div>
+            </li>
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="font-size:24px;">🏙️</span>
+              <div>
+                <div style="font-size:13px;font-weight:700;color:var(--dark);">Santa Bárbara D'Oeste</div>
+                <div style="font-size:11px;color:var(--gray);">~200.000 habitantes</div>
+              </div>
+            </li>
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="font-size:24px;">🏭</span>
+              <div>
+                <div style="font-size:13px;font-weight:700;color:var(--dark);">Sumaré</div>
+                <div style="font-size:11px;color:var(--gray);">~290.000 habitantes</div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </aside>
+</div><!-- /main-layout -->
+
+<section class="newsletter-section">
+  <div class="nl-inner">
+    <h2>Notícias da sua região</h2>
+    <p>Fique por dentro do que acontece em Americana, Santa Bárbara D'Oeste e Sumaré. Todo dia no seu e-mail.</p>
+    <form class="nl-form" onsubmit="handleNewsletter(event)">
+      <input type="email" placeholder="Digite seu e-mail" required />
+      <button type="submit">Inscrever grátis</button>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <div class="logo-text">Empresas<span>&</span>Negócios</div>
+      <p>O portal de referência em notícias sobre negócios, economia e inovação na região de Americana e Campinas.</p>
+    </div>
+    <div class="footer-col"><h4>Editorias</h4><ul>
+      <li><a href="novidades.html">Novidades</a></li>
+      <li><a href="startups.html">Startups</a></li>
+      <li><a href="campinas.html">Campinas</a></li>
+      <li><a href="esportes.html">Esportes</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Local</h4><ul>
+      <li><a href="vagas.html">Vagas de Emprego</a></li>
+      <li><a href="tempo.html">Previsão do Tempo</a></li>
+      <li><a href="noticias-locais.html">Notícias Locais</a></li>
+      <li><a href="servicos.html">Portaria &amp; Facilities</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Institucional</h4><ul>
+      <li><a href="#">Sobre nós</a></li>
+      <li><a href="#">Anuncie</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul></div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span>
+  </div>
+</footer>
+
+<div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
+<button class="back-to-top" id="backToTop">↑</button>
+
+<script src="../js/main.js"></script>
+<script src="../js/news-feed.js"></script>
+<script>
+// ===== CITY TABS =====
+document.getElementById('cityTabs').addEventListener('click', function(e) {
+  var tab = e.target.closest('.city-tab');
+  if (!tab) return;
+  var panelId = tab.getAttribute('data-panel');
+
+  // Update tabs
+  document.querySelectorAll('.city-tab').forEach(function(t) {
+    t.classList.remove('active');
+    t.setAttribute('aria-selected', 'false');
+  });
+  tab.classList.add('active');
+  tab.setAttribute('aria-selected', 'true');
+
+  // Update panels
+  document.querySelectorAll('.city-panel').forEach(function(p) {
+    p.classList.remove('active');
+  });
+  var panel = document.getElementById(panelId);
+  if (panel) panel.classList.add('active');
+});
+
+// Load RSS feeds on DOMContentLoaded
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof NewsFeed !== 'undefined') {
+    NewsFeed.loadSection('feed-americana', 'campinas', { max: 6 });
+    NewsFeed.loadSection('feed-regiao',    'campinas', { max: 9 });
+  }
+});
+
+// Lazy-load other tabs on click
+var loadedTabs = { 'panel-americana': true, 'panel-regiao': false };
+document.getElementById('cityTabs').addEventListener('click', function(e) {
+  var tab = e.target.closest('.city-tab');
+  if (!tab) return;
+  var panelId = tab.getAttribute('data-panel');
+  if (loadedTabs[panelId]) return;
+  loadedTabs[panelId] = true;
+  if (typeof NewsFeed !== 'undefined') {
+    // All non-americana panels also use the 'campinas' group (same regional feed)
+    var feedMap = {
+      'panel-santa-barbara': 'feed-santa-barbara',
+      'panel-sumare': 'feed-sumare',
+      'panel-regiao': 'feed-regiao'
+    };
+    if (feedMap[panelId]) {
+      NewsFeed.loadSection(feedMap[panelId], 'campinas', { max: 6 });
+    }
+  }
+});
+</script>
+</body>
+</html>
