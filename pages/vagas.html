@@ -758,22 +758,103 @@
   .cat-arrow { color: var(--accent); font-weight: 700; font-size: 12px; }
 
   /* ── Responsive ────────────────────────── */
+
+  /* 860px — tablet */
   @media (max-width: 860px) {
+    /* Fix sticky filter bar: header on mobile = only header-top, no nav */
+    .filter-bar { top: 56px; }
+
     .featured-grid { grid-template-columns: 1fr 1fr; }
-    .vagas-search { flex-wrap: wrap; border-radius: 12px; }
-    .vagas-search select { flex: 1; }
-    .vagas-search button { width: 100%; border-radius: 0 0 12px 12px; }
-    .pt-section { padding: 20px 16px; }
+
+    /* Search bar: wrap to 2 rows */
+    .vagas-search { flex-wrap: wrap; }
+    .vagas-search input[type="text"] { border-radius: 14px 14px 0 0; }
+    .vagas-search .search-divider { display: none; }
+    .vagas-search select { flex: 1; background: rgba(255,255,255,.08); border-radius: 0; padding: 12px 16px; }
+    .vagas-search button { width: 100%; border-radius: 0 0 14px 14px; padding: 13px; }
+
+    .pt-section { padding: 22px 18px; }
+    .pt-section-header { flex-direction: column; align-items: flex-start; }
+
+    .vagas-stats { max-width: 100%; }
+    .vstat { padding: 12px 16px; }
+
     .announce-cta { flex-direction: column; text-align: center; }
+    .announce-cta a { width: 100%; justify-content: center; }
+
+    .jobs-section-header { flex-direction: column; align-items: flex-start; }
   }
-  @media (max-width: 560px) {
-    .vagas-hero { padding: 32px 0 28px; }
+
+  /* 640px — large phone */
+  @media (max-width: 640px) {
+    .filter-bar { top: 52px; }
+
+    .vagas-hero { padding: 36px 0 28px; }
+    .vagas-hero h1 { font-size: clamp(22px, 7vw, 34px); }
+    .vagas-subtitle { font-size: 13px; }
+
     .featured-grid { grid-template-columns: 1fr; }
+    .pt-section { padding: 18px 14px; }
+    .pt-brand-name { font-size: 14px; }
+
     .vagas-stats { max-width: 100%; }
     .vstat-num { font-size: 20px; }
-    .job-card { flex-wrap: wrap; }
-    .job-cta { width: 100%; text-align: center; }
-    .jobs-section-header { flex-direction: column; align-items: flex-start; }
+    .vstat-label { font-size: 9px; }
+    .vstat { padding: 10px 12px; }
+
+    .job-card { flex-direction: column; gap: 10px; }
+    .job-cta { width: 100%; text-align: center; justify-content: center; align-self: stretch; }
+
+    .pt-footer a { font-size: 11px; padding: 8px 14px; text-align: center; }
+
+    .announce-cta { padding: 22px 18px; }
+    .announce-cta h3 { font-size: 16px; }
+
+    #loadMoreBtn { font-size: 13px; padding: 12px; }
+  }
+
+  /* 480px — standard phone */
+  @media (max-width: 480px) {
+    .filter-bar { top: 50px; padding: 8px 0; }
+    .filter-btn { font-size: 12px; padding: 6px 12px; }
+
+    .vagas-hero { padding: 28px 0 22px; }
+    .vagas-search { border-radius: 10px; }
+    .vagas-search input[type="text"] { font-size: 14px; padding: 11px 14px; border-radius: 10px 10px 0 0; }
+    .vagas-search button { padding: 11px; font-size: 13px; }
+
+    .pt-logo-icon { width: 36px; height: 36px; font-size: 16px; }
+    .pt-avatar { width: 38px; height: 38px; min-width: 38px; font-size: 16px; }
+    .pt-job-title { font-size: 13px; }
+    .pt-cta { font-size: 12px; padding: 9px 12px; }
+
+    .jobs-section-header h2 { font-size: 14px; }
+    .job-title { font-size: 14px; }
+    .job-avatar { width: 40px; height: 40px; min-width: 40px; font-size: 17px; }
+
+    .pt-sidebar-widget { padding: 16px; }
+  }
+
+  /* 380px — small phones */
+  @media (max-width: 380px) {
+    .filter-bar { top: 48px; }
+
+    .vagas-hero { padding: 22px 0 18px; }
+    .vagas-hero h1 { font-size: 22px; letter-spacing: -0.5px; }
+    .vagas-subtitle { font-size: 12px; }
+
+    .vagas-search input[type="text"] { padding: 10px 12px; font-size: 13px; }
+    .vagas-stats { border-radius: 10px; }
+    .vstat-num { font-size: 18px; }
+    .vstat { padding: 8px 10px; }
+
+    .pt-section { padding: 14px 12px; }
+    .pt-card { padding: 14px; }
+    .pt-section-header { margin-bottom: 14px; }
+
+    .announce-cta { padding: 18px 14px; }
+    .job-snippet { display: none; }
+    .job-badge.date { display: none; }
   }
   </style>
 

@@ -1194,3 +1194,274 @@ ul { list-style: none; }
 .breadcrumb a { color: var(--gray-light); }
 .breadcrumb a:hover { color: var(--accent); }
 .breadcrumb span::before { content: '›'; margin-right: 6px; }
+
+/* ═══════════════════════════════════════════════════════════════
+   RESPONSIVE — COMPLETE OVERHAUL
+   Breakpoints: 1100 · 860 · 640 · 480 · 380
+   These rules are appended last so they override earlier rules
+   at the same specificity.
+═══════════════════════════════════════════════════════════════ */
+
+/* ── Global: prevent horizontal scroll & text overflow ───── */
+html { overflow-x: hidden; }
+body { overflow-x: hidden; overflow-wrap: break-word; word-break: break-word; }
+
+/* ── Prevent flex/grid children from overflowing ─────────── */
+.content-col,
+.card-body,
+.card-h .card-body,
+.job-info,
+.hero-content,
+.footer-brand { min-width: 0; }
+
+/* ── Fluid typography — scales with viewport ──────────────── */
+.hero-main .hero-title  { font-size: clamp(16px, 4vw, 22px); }
+.card .card-title       { font-size: clamp(14px, 3.5vw, 16px); }
+.page-hero h1           { font-size: clamp(20px, 5.5vw, 32px); }
+.section-header h2      { font-size: clamp(13px, 2.8vw, 16px); }
+.newsletter-section h2  { font-size: clamp(18px, 5vw, 26px); }
+
+/* ── Touch targets: minimum 40-44px ──────────────────────── */
+.hamburger              { min-width: 44px; min-height: 44px; }
+.btn-nl, .btn-load      { min-height: 44px; display: flex; align-items: center; justify-content: center; }
+.btn-subscribe          { min-height: 40px; display: inline-flex; align-items: center; }
+.filter-btn, .city-tab  { min-height: 40px; }
+
+/* ── Images: always constrained ───────────────────────────── */
+img { max-width: 100%; height: auto; }
+
+/* ═══════════════════════════════════════════════════════════
+   1100px — Wide tablet / small laptop
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 1100px) {
+  .main-layout  { grid-template-columns: 1fr 260px; gap: 22px; }
+  .footer-grid  { grid-template-columns: 1.5fr 1fr 1fr; gap: 28px; }
+  .category-row { grid-template-columns: 1fr 1fr; }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   860px — Tablet portrait
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 860px) {
+
+  /* Layout: single column, sidebar below */
+  .main-layout {
+    grid-template-columns: 1fr;
+    padding: 20px;
+    gap: 24px;
+  }
+
+  /* Sidebar: 2-column grid when below content */
+  .sidebar-sticky {
+    position: static;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+
+  /* Hero */
+  .hero-grid          { grid-template-columns: 1fr; }
+  .hero-main          { grid-row: auto; }
+  .hero-main img      { height: 300px; }
+  .hero-secondary img { height: 130px; }
+
+  /* Content grids: keep 2 cols on tablet (better use of space) */
+  .news-grid      { grid-template-columns: 1fr 1fr; }
+  .category-row   { grid-template-columns: 1fr 1fr; }
+  .category-grid  { grid-template-columns: 1fr 1fr; }
+
+  /* Footer */
+  .footer-grid   { grid-template-columns: 1fr 1fr; gap: 28px; }
+  .footer-col h4 { display: block; }
+
+  /* Nav: hamburger + dropdown */
+  .hamburger    { display: block; }
+  .main-nav     { display: none; border-top: none; background: #111; }
+  .main-nav.nav-mobile-open { display: block; }
+  .main-nav.nav-mobile-open .nav-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px 0;
+    gap: 0;
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+  .main-nav.nav-mobile-open .nav-inner a {
+    font-size: 14px;
+    padding: 14px 20px;
+    border-bottom: 1px solid rgba(255,255,255,.06);
+    width: 100%;
+    border-bottom-color: rgba(255,255,255,.06);
+  }
+  .main-nav .nav-inner { justify-content: flex-start; }
+
+  /* Forms */
+  .nl-form { flex-direction: column; }
+
+  /* Misc */
+  .back-to-top { bottom: 70px; right: 16px; }
+
+  /* Mobile bottom nav */
+  .mobile-bottom-nav {
+    display: flex;
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: #111;
+    border-top: 1px solid rgba(255,255,255,.1);
+    z-index: 8000;
+    height: 56px;
+  }
+  .mobile-bottom-nav a {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255,255,255,.5);
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .3px;
+    gap: 3px;
+    padding: 8px 0;
+    text-decoration: none;
+    transition: color .2s;
+  }
+  .mobile-bottom-nav a.active,
+  .mobile-bottom-nav a:hover { color: var(--accent); }
+  .mobile-bottom-nav a .nav-icon { font-size: 18px; line-height: 1; }
+  body { padding-bottom: 56px; }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   640px — Large phone / phablet
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 640px) {
+
+  /* Header */
+  .header-top     { padding: 10px 16px; }
+  .logo-text      { font-size: 21px; }
+  .header-actions { display: none; }
+
+  /* Container & layout */
+  .container   { padding: 0 16px; }
+  .main-layout { padding: 16px; gap: 18px; }
+
+  /* Card-H: STACK vertically (no more cramped side image) */
+  .card-h           { flex-direction: column; }
+  .card-h img       { width: 100%; min-width: unset; height: 175px; object-fit: cover; }
+  .card-h .card-body { justify-content: flex-start; }
+
+  /* ALL multi-col grids collapse to 1 column */
+  .hero-grid     { display: flex; flex-direction: column; }
+  .news-grid     { grid-template-columns: 1fr; }
+  .category-row  { grid-template-columns: 1fr; }
+  .category-grid { grid-template-columns: 1fr; }
+  .two-col-wrap  { grid-template-columns: 1fr !important; }
+  .footer-grid   { grid-template-columns: 1fr; }
+  .sidebar-sticky { grid-template-columns: 1fr; }
+
+  /* Hero images */
+  .hero-main img          { height: 250px; }
+  .hero-main .hero-title  { font-size: 18px; }
+  .hero-secondary img     { height: 120px; }
+
+  /* Cards */
+  .card img        { height: 185px; }
+  .card .card-body { padding: 12px 14px 16px; }
+
+  /* Sections */
+  .category-section { margin-bottom: 28px; }
+  .section-header   { flex-wrap: wrap; gap: 4px; margin-bottom: 14px; }
+
+  /* Footer */
+  .footer-bottom       { flex-direction: column; gap: 8px; text-align: center; padding: 16px; }
+  .footer-bottom-links { flex-wrap: wrap; justify-content: center; gap: 12px; }
+  .footer-brand p      { max-width: 100%; }
+
+  /* Newsletter */
+  .newsletter-section { padding: 36px 0; }
+
+  /* Weather: 3 cols on large phone */
+  .forecast-grid       { grid-template-columns: repeat(3, 1fr); }
+  .weather-temp        { font-size: 54px; }
+  .weather-hero        { padding: 24px 18px; }
+  .weather-cities-grid { grid-template-columns: 1fr; }
+
+  /* Job cards */
+  .job-card { flex-direction: column; gap: 12px; }
+  .job-cta  { align-self: flex-start; width: 100%; text-align: center; }
+
+  /* Banners */
+  .ad-banner-top, .ad-banner-mid { display: none; }
+
+  /* Back to top */
+  .back-to-top { bottom: 70px; right: 12px; }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   480px — Standard phone
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 480px) {
+  .hero-main img           { height: 220px; }
+  .hero-main .hero-title   { font-size: 17px; }
+  .hero-main .hero-summary { -webkit-line-clamp: 2; }
+  .hero-secondary img      { height: 110px; }
+
+  .card img        { height: 170px; }
+  .card-h img      { height: 165px; }
+  .card .card-body { padding: 12px 14px; }
+
+  .page-hero h1    { font-size: 22px; }
+  .page-hero       { padding: 26px 0; }
+  .section-header h2 { font-size: 14px; }
+
+  .weather-temp    { font-size: 48px; }
+  .forecast-grid   { grid-template-columns: repeat(2, 1fr); }
+
+  .nl-form input[type="email"] { font-size: 14px; padding: 12px 14px; }
+  .nl-form button  { font-size: 14px; padding: 12px 16px; }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   380px — Small phones (iPhone SE, Galaxy A, older Androids)
+═══════════════════════════════════════════════════════════ */
+@media (max-width: 380px) {
+  .logo-text    { font-size: 17px; }
+  .header-top   { padding: 8px 14px; }
+  .hamburger    { left: 14px; }
+  .container    { padding: 0 12px; }
+  .main-layout  { padding: 12px; gap: 12px; }
+
+  .hero-main img           { height: 195px; }
+  .hero-main .hero-title   { font-size: 15px; }
+  .hero-main .hero-summary { display: none; }
+
+  .card img            { height: 155px; }
+  .card-h img          { height: 150px; }
+  .card .card-body     { padding: 10px 12px 14px; }
+  .card .card-title    { font-size: 14px; }
+
+  .section-header h2   { font-size: 13px; }
+  .section-header      { margin-bottom: 12px; }
+
+  .forecast-grid       { grid-template-columns: repeat(2, 1fr); }
+  .weather-temp        { font-size: 42px; }
+  .weather-hero        { padding: 18px 14px; }
+  .weather-detail strong { font-size: 14px; }
+
+  .newsletter-section h2 { font-size: 19px; }
+  .newsletter-section    { padding: 28px 0; }
+
+  .footer-bottom   { padding: 12px; font-size: 11px; }
+  .footer-grid     { gap: 20px; }
+
+  .trending-num    { font-size: 18px; }
+  .trending-title  { font-size: 12px; }
+
+  .page-hero h1    { font-size: 20px; }
+  .page-hero       { padding: 22px 0; }
+
+  .back-to-top     { bottom: 70px; right: 10px; width: 36px; height: 36px; font-size: 16px; }
+}
