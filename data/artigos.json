@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T03:08:40.185Z",
+  "updated": "2026-05-23T11:12:57.631Z",
   "articles": [
     {
       "slug": "portaria-especializada-americana-guia-contratar",
@@ -120,6 +120,30 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-23-selecao-brasileira-2026-analise-completa-e-chances.html"
+    },
+    {
+      "slug": "lideranca-feminina-cresce-40-empresas-faturam-mais",
+      "title": "Liderança feminina no Brasil cresce 40% e impulsiona resultados",
+      "description": "Empresas com mais mulheres em liderança faturam mais e têm menor rotatividade.",
+      "date": "23 de mai. de 2026",
+      "isoDate": "2026-05-23",
+      "tag": "Sociedade",
+      "tagCls": "sociedade",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-23-lideranca-feminina-cresce-40-empresas-faturam-mais.html"
+    },
+    {
+      "slug": "auxiliar-facilities-piracicaba-funcao-salario-como-contratar",
+      "title": "Auxiliar de Facilities em Piracicaba: Função e Como Contratar Certo",
+      "description": "Descubra a função do auxiliar de facilities em Piracicaba, salário médio e dicas para contratar.",
+      "date": "23 de mai. de 2026",
+      "isoDate": "2026-05-23",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-23-auxiliar-facilities-piracicaba-funcao-salario-como-contratar.html"
     },
     {
       "slug": "gestao-integrada-facilities-menos-burocracia",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-19-telemedicina-em-campinas-clinicas-triplicam-atendimentos.html"
-    },
-    {
-      "slug": "industria-automotiva-investe-r12-bi-veiculos-eletricos-2028",
-      "title": "Indústria automotiva investe R$ 12 bilhões em veículos elétricos até 2028",
-      "description": "Setor automotivo brasileiro anuncia R$ 12 bi em veículos elétricos até 2028 com apoio fiscal.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Indústrias",
-      "tagCls": "industrias",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-industria-automotiva-investe-r12-bi-veiculos-eletricos-2028.html"
-    },
-    {
-      "slug": "economia-criativa-brasil-movimenta-200-bilhoes",
-      "title": "Economia criativa no Brasil movimenta R$ 200 bi e emprega milhões",
-      "description": "A economia criativa no Brasil gera R$ 200 bilhões e cria 5 milhões de empregos formais.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Cultura",
-      "tagCls": "cultura",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-economia-criativa-brasil-movimenta-200-bilhoes.html"
     }
   ]
 }
