@@ -10,13 +10,51 @@ if (hamburger && mainNav) {
   });
 }
 
+// ===== "MAIS" DROPDOWN =====
+(function () {
+  const btn = document.getElementById('navMoreBtn');
+  const dropdown = document.getElementById('navDropdown');
+  if (!btn || !dropdown) return;
+
+  btn.addEventListener('click', function (e) {
+    e.stopPropagation();
+    const isOpen = dropdown.classList.toggle('open');
+    btn.setAttribute('aria-expanded', isOpen);
+    btn.textContent = isOpen ? 'Mais ▴' : 'Mais ▾';
+  });
+
+  // Close on outside click
+  document.addEventListener('click', function () {
+    dropdown.classList.remove('open');
+    btn.setAttribute('aria-expanded', 'false');
+    btn.textContent = 'Mais ▾';
+  });
+
+  // Close on Escape
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') {
+      dropdown.classList.remove('open');
+      btn.setAttribute('aria-expanded', 'false');
+      btn.textContent = 'Mais ▾';
+    }
+  });
+})();
+
 // ===== ACTIVE NAV LINK =====
 (function () {
   const path = location.pathname.split('/').pop() || 'index.html';
+  let hasActiveInDropdown = false;
   document.querySelectorAll('.main-nav a').forEach(a => {
     const href = a.getAttribute('href').split('/').pop();
-    a.classList.toggle('active', href === path);
+    const isActive = href === path;
+    a.classList.toggle('active', isActive);
+    if (isActive && a.closest('.nav-dropdown')) hasActiveInDropdown = true;
   });
+  // Highlight "Mais" button if active page is inside dropdown
+  if (hasActiveInDropdown) {
+    const btn = document.getElementById('navMoreBtn');
+    if (btn) btn.classList.add('active');
+  }
 })();
 
 // ===== NEWSLETTER =====

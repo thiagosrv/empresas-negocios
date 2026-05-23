@@ -1,4 +1,4 @@
-/**
+﻿/**
  * generate-batch.js
  * Geração em lote de 20 artigos reais via GPT-4o, cobrindo todas as editorias
  * do portal Empresas & Negócios.
@@ -324,19 +324,8 @@ function buildHtml(article, date, imageUrl, fileName, entry) {
     <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
   </div>
   <nav class="main-nav" id="mainNav"><div class="nav-inner">
-    <a href="../index.html">Início</a>
-    <a href="../pages/novidades.html">Novidades</a>
-    <a href="../pages/startups.html">Startups</a>
-    <a href="../pages/tecnologia.html">Tecnologia</a>
-    <a href="../pages/servicos.html">Serviços</a>
-    <a href="../pages/industrias.html">Indústrias</a>
-    <a href="../pages/saude.html">Saúde</a>
-    <a href="../pages/sociedade.html">Sociedade</a>
-    <a href="../pages/cultura.html">Cultura</a>
-    <a href="../pages/brasil.html">Brasil</a>
-    <a href="../pages/mundo.html">Mundo</a>
-    <a href="../pages/campinas.html">Campinas</a>
-    <a href="../pages/esportes.html">Esportes</a>
+    <a href="../index.html">Início</a><a href="../pages/novidades.html">Novidades</a><a href="../pages/startups.html">Startups</a><a href="../pages/tecnologia.html">Tecnologia</a><a href="../pages/brasil.html">Brasil</a><a href="../pages/vagas.html">Vagas</a><a href="../pages/servicos.html">Serviços</a>
+    <div class="nav-more-wrap"><button class="nav-more-btn" id="navMoreBtn" aria-expanded="false" aria-haspopup="true">Mais ▾</button><div class="nav-dropdown" id="navDropdown"><a href="../pages/industrias.html">Indústrias</a><a href="../pages/saude.html">Saúde</a><a href="../pages/sociedade.html">Sociedade</a><a href="../pages/cultura.html">Cultura</a><a href="../pages/mundo.html">Mundo</a><a href="../pages/campinas.html">Campinas</a><a href="../pages/esportes.html">Esportes</a><a href="../pages/tempo.html">🌤️ Tempo</a><a href="../pages/noticias-locais.html">Local</a></div></div>
   </div></nav>
 </header>
 
