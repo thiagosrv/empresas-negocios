@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T11:12:57.631Z",
+  "updated": "2026-05-23T11:58:24.325Z",
   "articles": [
     {
       "slug": "portaria-especializada-americana-guia-contratar",
@@ -386,6 +386,30 @@
       "url": "noticias/2026-05-22-jovens-revelacoes-do-futebol-brasileiro-2026.html"
     },
     {
+      "slug": "startups-logistica-verde-frota-eletrica",
+      "title": "Startups de logística verde captam R$ 180 milhões para frota elétrica",
+      "description": "Startups brasileiras de logística verde expandem frota elétrica para 12 estados após captar R$ 180 milhões.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-startups-logistica-verde-frota-eletrica.html"
+    },
+    {
+      "slug": "fed-corte-juros-setembro-impactos-brasil",
+      "title": "Fed pode cortar juros em setembro: impactos para investidores brasileiros",
+      "description": "O Fed sinaliza corte de juros em setembro. Entenda as implicações para o mercado financeiro e investidores no Brasil.",
+      "date": "22 de mai. de 2026",
+      "isoDate": "2026-05-22",
+      "tag": "Mundo",
+      "tagCls": "mundo",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-22-fed-corte-juros-setembro-impactos-brasil.html"
+    },
+    {
       "slug": "logistica-verde-startups-captam-180-milhoes",
       "title": "Logística verde: startups captam R$ 180 milhões e expandem frota elétrica",
       "description": "Startups de logística verde captam R$ 180 milhões para expandir frota elétrica em 12 estados do Brasil.",
@@ -698,6 +722,30 @@
       "url": "noticias/2026-05-21-futebol-feminino-brasileiro-2026-crescimento-e-desafios.html"
     },
     {
+      "slug": "cloud-computing-pmes-interior-sp-migracao-economica",
+      "title": "Cloud Computing para PMEs do Interior de SP: Migração Econômica",
+      "description": "Descubra como pequenas e médias empresas do interior paulista podem migrar para a nuvem com baixo custo.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-cloud-computing-pmes-interior-sp-migracao-economica.html"
+    },
+    {
+      "slug": "china-investe-1-tri-energia-limpa-mercado-global",
+      "title": "China investe US$ 1 tri em energia limpa e muda mercado global",
+      "description": "China lança fundo de US$ 1 trilhão para energia limpa, transformando o mercado de commodities.",
+      "date": "21 de mai. de 2026",
+      "isoDate": "2026-05-21",
+      "tag": "Mundo",
+      "tagCls": "mundo",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1462396881884-de2c07cb95ed?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-21-china-investe-1-tri-energia-limpa-mercado-global.html"
+    },
+    {
       "slug": "cloud-computing-para-pmes-interior-sp-baixo-custo",
       "title": "Cloud computing para PMEs do interior de SP: migre com baixo custo",
       "description": "Descubra como pequenas e médias empresas do interior de São Paulo podem migrar para a nuvem de forma econômica.",
@@ -974,6 +1022,42 @@
       "url": "noticias/2026-05-20-futebol-interior-paulista-americana-campinas-serie-d-2026.html"
     },
     {
+      "slug": "telemedicina-em-campinas-triplica-atendimentos",
+      "title": "Telemedicina em Campinas triplica atendimentos e revoluciona saúde",
+      "description": "Clínicas e hospitais de Campinas adotam telemedicina e triplicam atendimentos.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Saúde",
+      "tagCls": "saude",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-telemedicina-em-campinas-triplica-atendimentos.html"
+    },
+    {
+      "slug": "industria-automotiva-investimentos-eletricos-2028",
+      "title": "Indústria automotiva investe R$ 12 bi em veículos elétricos até 2028",
+      "description": "Setor automotivo brasileiro anuncia R$ 12 bi em investimentos em elétricos até 2028 com incentivos fiscais.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Indústrias",
+      "tagCls": "industrias",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-industria-automotiva-investimentos-eletricos-2028.html"
+    },
+    {
+      "slug": "economia-criativa-movimenta-r-200-bilhoes-gera-5-milhoes-empregos",
+      "title": "Economia criativa movimenta R$ 200 bilhões e gera 5 milhões de empregos",
+      "description": "A economia criativa no Brasil movimenta R$ 200 bilhões e gera 5 milhões de empregos formais, destacando-se como motor de crescimento.",
+      "date": "20 de mai. de 2026",
+      "isoDate": "2026-05-20",
+      "tag": "Cultura",
+      "tagCls": "cultura",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-20-economia-criativa-movimenta-r-200-bilhoes-gera-5-milhoes-empregos.html"
+    },
+    {
       "slug": "telemedicina-em-campinas-triplicando-atendimentos",
       "title": "Telemedicina em Campinas: Triplicando Atendimentos nas Clínicas",
       "description": "Descubra como a telemedicina transformou o atendimento em Campinas, triplicando consultas.",
@@ -996,90 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-19-industria-automotiva-investimento-veiculos-eletricos-2028.html"
-    },
-    {
-      "slug": "economia-criativa-movimenta-r-200-bi-no-brasil",
-      "title": "Economia criativa no Brasil movimenta R$ 200 bi e gera 5 milhões de empregos",
-      "description": "Descubra como a economia criativa movimenta bilhões e impulsiona o mercado de trabalho no Brasil.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Cultura",
-      "tagCls": "cultura",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-economia-criativa-movimenta-r-200-bi-no-brasil.html"
-    },
-    {
-      "slug": "selic-inflacao-cambio-economia-2026",
-      "title": "Selic, Inflação e Câmbio: Expectativas para o 2º Semestre de 2026",
-      "description": "Explore as previsões para Selic, inflação e câmbio na economia brasileira em 2026.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Novidades",
-      "tagCls": "",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-selic-inflacao-cambio-economia-2026.html"
-    },
-    {
-      "slug": "telemedicina-campinas-clinicas-triplicam-atendimentos",
-      "title": "Telemedicina em Campinas: Clínicas Triplicam Atendimentos com Tecnologia",
-      "description": "Clínicas em Campinas adotam telemedicina e triplicam atendimentos. Saiba como.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Saúde",
-      "tagCls": "saude",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-telemedicina-campinas-clinicas-triplicam-atendimentos.html"
-    },
-    {
-      "slug": "industria-automotiva-investe-12-bi-eletricos-2028",
-      "title": "Indústria automotiva investe R$ 12 bi em elétricos até 2028 com incentivos",
-      "description": "Indústria automotiva brasileira investirá R$ 12 bilhões em veículos elétricos até 2028, impulsionada por incentivos fiscais.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Indústrias",
-      "tagCls": "industrias",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-industria-automotiva-investe-12-bi-eletricos-2028.html"
-    },
-    {
-      "slug": "economia-criativa-brasil-200-bilhoes-5-milhoes-empregos",
-      "title": "Economia Criativa no Brasil Movimenta R$ 200 Bi e Gera 5 Mi de Empregos",
-      "description": "Setor criativo brasileiro se destaca com R$ 200 bilhões em movimentação e 5 milhões de empregos.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Cultura",
-      "tagCls": "cultura",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-economia-criativa-brasil-200-bilhoes-5-milhoes-empregos.html"
-    },
-    {
-      "slug": "selic-inflacao-cambio-economia-brasileira-2026",
-      "title": "Selic, Inflação e Câmbio: Expectativas para o Brasil em 2026",
-      "description": "Descubra o que esperar da Selic, inflação e câmbio na economia brasileira em 2026.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Novidades",
-      "tagCls": "",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-selic-inflacao-cambio-economia-brasileira-2026.html"
-    },
-    {
-      "slug": "telemedicina-em-campinas-clinicas-triplicam-atendimentos",
-      "title": "Telemedicina em Campinas: Clínicas Triplicam Atendimentos",
-      "description": "Campinas adota telemedicina e triplica atendimentos. Veja como clínicas e hospitais inovam.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Saúde",
-      "tagCls": "saude",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-telemedicina-em-campinas-clinicas-triplicam-atendimentos.html"
     }
   ]
 }
