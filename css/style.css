@@ -22,6 +22,7 @@
   --tag-servicos: #d35400;
   --tag-sociedade: #7f8c8d;
   --tag-cultura: #c0392b;
+  --tag-futebol: #27ae60;
   --font-main: 'Inter', 'Segoe UI', Arial, sans-serif;
   --font-serif: 'Georgia', 'Times New Roman', serif;
   --shadow-sm: 0 1px 4px rgba(0,0,0,.08);
@@ -425,6 +426,7 @@ ul { list-style: none; }
 .tag.servicos  { background: var(--tag-servicos); }
 .tag.sociedade { background: var(--tag-sociedade); }
 .tag.cultura   { background: var(--tag-cultura); }
+.tag.futebol   { background: var(--tag-futebol); }
 
 /* ===== META ===== */
 .meta {
@@ -503,6 +505,7 @@ ul { list-style: none; }
 .card:has(.tag.servicos):hover  { border-top-color: var(--tag-servicos); }
 .card:has(.tag.sociedade):hover { border-top-color: var(--tag-sociedade); }
 .card:has(.tag.cultura):hover   { border-top-color: var(--tag-cultura); }
+.card:has(.tag.futebol):hover   { border-top-color: var(--tag-futebol); }
 
 /* ===== CARD HORIZONTAL ===== */
 .card-h {

@@ -1,0 +1,46 @@
+name: Gerar Batch Futebol (20 artigos)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmar:
+        description: 'Digite "sim" para confirmar a geração de 20 artigos de futebol (usa créditos OpenAI)'
+        required: true
+        default: 'sim'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar 20 artigos de Futebol Brasileiro
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/generate-batch-futebol.js
+
+      - name: Gerar sitemap atualizado
+        run: node scripts/generate-sitemap.js
+
+      - name: Commit e push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias/ data/artigos.json sitemap.xml robots.txt
+          git diff --cached --quiet || git commit -m "feat(futebol): batch 20 artigos de futebol brasileiro [bot]"
+          git pull --rebase origin main
+          git push origin main
