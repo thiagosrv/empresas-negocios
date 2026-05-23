@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Futebol Brasileiro | Empresas &amp; Negócios — Brasileirão, Libertadores e Seleção</title>
+  <meta name="description" content="Acompanhe o Futebol Brasileiro em tempo real: tabela do Brasileirão, Libertadores, resultados, artilharia e notícias da Seleção Brasileira." />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+  <link rel="canonical" href="https://www.empresasenegocios.com.br/pages/futebol.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Empresas &amp; Negócios" />
+  <meta property="og:title" content="Futebol Brasileiro | Empresas &amp; Negócios" />
+  <meta property="og:description" content="Tabela, resultados e notícias do Brasileirão, Libertadores e Seleção Brasileira em tempo real." />
+  <meta property="og:url" content="https://www.empresasenegocios.com.br/pages/futebol.html" />
+  <meta property="og:image" content="https://www.empresasenegocios.com.br/assets/og-futebol.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@empresasenegocios" />
+  <meta name="twitter:title" content="Futebol Brasileiro | Empresas &amp; Negócios" />
+  <meta name="twitter:description" content="Tabela, resultados e notícias do Brasileirão, Libertadores e Seleção em tempo real." />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Futebol Brasileiro",
+    "description": "Tabela, resultados e notícias do Brasileirão, Libertadores e Seleção Brasileira.",
+    "url": "https://www.empresasenegocios.com.br/pages/futebol.html",
+    "inLanguage": "pt-BR",
+    "isPartOf": { "@id": "https://www.empresasenegocios.com.br/#website" },
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Início", "item": "https://www.empresasenegocios.com.br/" },
+        { "@type": "ListItem", "position": 2, "name": "Futebol Brasileiro", "item": "https://www.empresasenegocios.com.br/pages/futebol.html" }
+      ]
+    }
+  }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+  <meta name="theme-color" content="#000000" />
+  <style>
+    /* ── Futebol page extras ── */
+    .futebol-hero {
+      background: linear-gradient(135deg, #0a3d0a 0%, #1a5c1a 40%, #0d7a0d 70%, #1e8c1e 100%);
+      position: relative;
+      overflow: hidden;
+    }
+    .futebol-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        repeating-linear-gradient(0deg, transparent, transparent 48px, rgba(255,255,255,.04) 48px, rgba(255,255,255,.04) 50px),
+        repeating-linear-gradient(90deg, transparent, transparent 48px, rgba(255,255,255,.04) 48px, rgba(255,255,255,.04) 50px);
+      pointer-events: none;
+    }
+    .futebol-hero .hero-inner {
+      position: relative;
+      z-index: 1;
+      padding: 40px 0 36px;
+    }
+    .futebol-hero .breadcrumb a { color: rgba(255,255,255,.5); }
+    .futebol-hero h1 { font-size: 38px; font-weight: 900; color: #fff; line-height: 1.1; }
+    .futebol-hero .hero-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; }
+    .futebol-hero .hero-tags span {
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #fff;
+    }
+    .tag-brasileirao { background: #27ae60; }
+    .tag-libertadores { background: #d4a017; }
+    .tag-selecao { background: #2980b9; }
+    .tag-copadobrasil { background: #8e44ad; }
+    .tag-copadomundo { background: #c0392b; }
+
+    /* ── Widget ── */
+    .widget-section {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-card);
+      overflow: hidden;
+      margin-bottom: 36px;
+    }
+    .widget-section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 20px 14px;
+      border-bottom: 1px solid var(--border);
+      background: #fafafa;
+    }
+    .widget-section-header h2 {
+      font-size: 15px;
+      font-weight: 800;
+      color: var(--dark);
+      flex: 1;
+    }
+    .widget-section-header .live-dot {
+      width: 8px; height: 8px;
+      background: #e74c3c;
+      border-radius: 50%;
+      animation: pulse-dot 1.4s ease-in-out infinite;
+    }
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: .4; transform: scale(.7); }
+    }
+    .widget-section-header .live-label {
+      font-size: 11px;
+      font-weight: 700;
+      color: #e74c3c;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+    }
+    .widget-section-header .api-badge {
+      font-size: 11px;
+      color: var(--gray-light);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .widget-iframe-wrap {
+      padding: 0;
+      background: transparent;
+    }
+    .widget-iframe-wrap iframe {
+      display: block;
+      width: 100%;
+      height: 820px;
+      border: none;
+      border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+    }
+
+    /* ── News cards ── */
+    .news-card-futebol {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: var(--shadow-card);
+      display: flex;
+      flex-direction: column;
+      transition: var(--transition);
+      border-top: 3px solid transparent;
+    }
+    .news-card-futebol:hover {
+      box-shadow: var(--shadow-card-hover);
+      transform: translateY(-3px);
+    }
+    .news-card-futebol img {
+      width: 100%;
+      height: 185px;
+      object-fit: cover;
+      display: block;
+    }
+    .news-card-futebol .card-body {
+      padding: 14px 16px 18px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .news-cat-badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .7px;
+      padding: 3px 9px;
+      border-radius: 3px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .news-card-futebol .card-title {
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--dark);
+      flex: 1;
+      margin-bottom: 10px;
+      font-family: var(--font-main);
+    }
+    .news-card-futebol .card-title:hover { color: var(--accent); }
+    .news-card-futebol .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: var(--gray-light);
+    }
+    .source-badge {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 3px;
+    }
+    .source-lance { background: #1a1a2e; color: #e4c44a; }
+    .source-gazeta { background: #003087; color: #fff; }
+
+    /* ── Quick links sidebar ── */
+    .quick-links { display: flex; flex-direction: column; gap: 8px; }
+    .quick-link {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 11px 14px;
+      background: var(--gray-bg);
+      border-radius: var(--radius);
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--dark);
+      transition: background .2s;
+      text-decoration: none;
+    }
+    .quick-link:hover { background: var(--border); color: var(--dark); }
+    .quick-link .ql-icon { font-size: 18px; width: 24px; text-align: center; }
+
+    /* Responsive */
+    @media (max-width: 640px) {
+      .futebol-hero h1 { font-size: 26px; }
+      .widget-iframe-wrap iframe { height: 600px; }
+      .futebol-news-grid { grid-template-columns: 1fr !important; }
+    }
+  </style>
+</head>
+<body>
+<div class="reading-progress" id="readingProgress"></div>
+
+<div class="ticker-bar">
+  <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
+    <span class="ticker-label">⚽ Futebol</span>
+    <div class="ticker-track" id="tickerTrack">
+      <span>Brasileirão 2026 — acompanhe tabela, resultados e artilharia ao vivo</span>
+      <span>Libertadores da América 2026 — fase de grupos em andamento</span>
+      <span>Copa do Mundo 2026 — EUA, Canadá e México são as sedes</span>
+      <span>Seleção Brasileira — próximos jogos e convocações</span>
+      <span>Copa do Brasil 2026 — oitavas de final confirmadas</span>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="header-top">
+    <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+    <a href="../index.html" class="logo">
+      <span class="logo-text">Empresas<span>&</span>Negócios</span>
+    </a>
+    <div class="header-actions"><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
+  </div>
+  <nav class="main-nav" id="mainNav">
+    <div class="nav-inner">
+      <a href="../index.html">Início</a>
+      <a href="novidades.html">Novidades</a>
+      <a href="startups.html">Startups</a>
+      <a href="tecnologia.html">Tecnologia</a>
+      <a href="brasil.html">Brasil</a>
+      <a href="vagas.html">Vagas</a>
+      <a href="futebol.html" class="active">⚽ Futebol</a>
+      <div class="nav-more-wrap">
+        <button class="nav-more-btn" id="navMoreBtn" aria-expanded="false" aria-haspopup="true">Mais ▾</button>
+        <div class="nav-dropdown" id="navDropdown">
+          <a href="servicos.html">Serviços</a>
+          <a href="industrias.html">Indústrias</a>
+          <a href="saude.html">Saúde</a>
+          <a href="sociedade.html">Sociedade</a>
+          <a href="cultura.html">Cultura</a>
+          <a href="mundo.html">Mundo</a>
+          <a href="campinas.html">Campinas</a>
+          <a href="esportes.html">Esportes</a>
+          <a href="tempo.html">🌤️ Tempo</a>
+          <a href="noticias-locais.html">Local</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Banner topo -->
+<div class="ad-banner-top">
+  <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer">
+    <img src="../banner.png" alt="Proteção e Vigilância" width="728" height="90" loading="eager" />
+  </a>
+</div>
+
+<!-- Hero -->
+<div class="futebol-hero">
+  <div class="container hero-inner">
+    <p class="breadcrumb" style="font-size:12px;color:rgba(255,255,255,.5);margin-bottom:10px;">
+      <a href="../index.html">Início</a> › Futebol Brasileiro
+    </p>
+    <h1>⚽ Futebol Brasileiro</h1>
+    <p style="color:rgba(255,255,255,.75);font-size:15px;margin-top:8px;max-width:560px;">
+      Tabela, resultados ao vivo, artilharia e notícias — Brasileirão, Libertadores, Seleção e Copa do Mundo.
+    </p>
+    <div class="hero-tags">
+      <span class="tag-brasileirao">Brasileirão Série A</span>
+      <span class="tag-libertadores">Libertadores</span>
+      <span class="tag-selecao">Seleção Brasileira</span>
+      <span class="tag-copadobrasil">Copa do Brasil</span>
+      <span class="tag-copadomundo">Copa do Mundo 2026</span>
+    </div>
+  </div>
+</div>
+
+<!-- Main layout -->
+<div class="main-layout">
+
+  <!-- ====== COLUNA PRINCIPAL ====== -->
+  <div class="content-col">
+
+    <!-- ── Widget ao vivo ── -->
+    <div class="widget-section">
+      <div class="widget-section-header">
+        <div class="live-dot"></div>
+        <span class="live-label">Ao vivo</span>
+        <h2>Tabela &amp; Resultados — Brasileirão 2026</h2>
+        <span class="api-badge">
+          Powered by <strong style="color:var(--dark);">API Futebol</strong>
+        </span>
+      </div>
+      <div class="widget-iframe-wrap">
+        <iframe
+          src="https://widget.api-futebol.com.br/render/widget_f6870c286f5ca51a"
+          title="Tabela e Resultados do Brasileirão 2026 — API Futebol"
+          height="820"
+          style="border:none;background:transparent;width:100%;height:820px;"
+          referrerpolicy="unsafe-url"
+          loading="lazy"
+          allowtransparency="true">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- ── Últimas notícias ── -->
+    <section class="category-section">
+      <div class="section-header">
+        <h2>Últimas do Futebol</h2>
+        <a href="https://www.lance.com.br/futebol-nacional" target="_blank" rel="noopener">
+          Ver no LANCE! →
+        </a>
+      </div>
+
+      <div id="futebol-news-grid" class="futebol-news-grid"
+        style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-bottom:36px;">
+        <!-- preloader -->
+        <div class="rss-loader" style="grid-column:1/-1;">
+          <div class="spinner"></div>
+          <span>Carregando notícias...</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ad mid -->
+    <div class="ad-banner-mid">
+      <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;text-align:center;">
+        <img src="../banner.png" alt="Proteção e Vigilância" width="728" height="90" loading="lazy" />
+      </a>
+    </div>
+
+    <!-- ── Mais notícias (lista horizontal) ── -->
+    <section class="category-section">
+      <div class="section-header">
+        <h2>Seleção &amp; Internacional</h2>
+        <a href="https://www.gazetaesportiva.com/times/brasil/" target="_blank" rel="noopener">
+          Ver na Gazeta →
+        </a>
+      </div>
+      <div id="futebol-list" class="list-cards"></div>
+    </section>
+
+  </div><!-- /content-col -->
+
+  <!-- ====== SIDEBAR ====== -->
+  <aside class="sidebar">
+    <div class="sidebar-sticky">
+
+      <!-- Newsletter -->
+      <div class="sidebar-widget newsletter-widget">
+        <div class="widget-header">⚽ Futebol no seu e-mail</div>
+        <div class="widget-body">
+          <p class="nl-desc">Resultados, tabela e notícias do Brasileirão toda semana.</p>
+          <form onsubmit="handleNewsletter(event)">
+            <input type="email" placeholder="Seu e-mail" required />
+            <button type="submit" class="btn-nl">Inscrever-se</button>
+          </form>
+          <p class="nl-privacy">Sem spam. Cancele quando quiser.</p>
+        </div>
+      </div>
+
+      <!-- Links rápidos -->
+      <div class="sidebar-widget">
+        <div class="widget-header">🔗 Fontes oficiais</div>
+        <div class="widget-body" style="padding-bottom:8px;">
+          <div class="quick-links">
+            <a class="quick-link" href="https://www.lance.com.br/futebol-nacional" target="_blank" rel="noopener">
+              <span class="ql-icon">📰</span>
+              <span>LANCE! — Futebol Nacional</span>
+            </a>
+            <a class="quick-link" href="https://www.gazetaesportiva.com/futebol/regiao-sudeste/" target="_blank" rel="noopener">
+              <span class="ql-icon">📋</span>
+              <span>Gazeta Esportiva — Brasileirão</span>
+            </a>
+            <a class="quick-link" href="https://www.gazetaesportiva.com/times/brasil/" target="_blank" rel="noopener">
+              <span class="ql-icon">🇧🇷</span>
+              <span>Seleção Brasileira</span>
+            </a>
+            <a class="quick-link" href="https://www.flashscore.com.br/futebol/brasil/serie-a/" target="_blank" rel="noopener">
+              <span class="ql-icon">⚡</span>
+              <span>Resultados ao vivo — Flashscore</span>
+            </a>
+            <a class="quick-link" href="https://www.cbf.com.br" target="_blank" rel="noopener">
+              <span class="ql-icon">🏆</span>
+              <span>Site oficial — CBF</span>
+            </a>
+            <a class="quick-link" href="https://www.conmebol.com" target="_blank" rel="noopener">
+              <span class="ql-icon">🌎</span>
+              <span>CONMEBOL — Libertadores</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Banner lateral -->
+      <div class="sidebar-widget">
+        <div class="widget-header">Publicidade</div>
+        <div class="widget-body" style="padding:0;">
+          <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
+            <img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250"
+              loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Campeonatos -->
+      <div class="sidebar-widget">
+        <div class="widget-header">🏆 Campeonatos 2026</div>
+        <div class="widget-body">
+          <ul style="display:flex;flex-direction:column;gap:10px;">
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="background:#27ae60;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700;">BRA</span>
+              <a href="https://www.lance.com.br/futebol-nacional" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;">Brasileirão Série A</a>
+            </li>
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="background:#d4a017;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700;">LIB</span>
+              <a href="https://www.conmebol.com/copa-libertadores/" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;">Copa Libertadores</a>
+            </li>
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="background:#8e44ad;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700;">CDB</span>
+              <a href="https://www.cbf.com.br/futebol-brasileiro/competicoes/copa-brasil" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;">Copa do Brasil</a>
+            </li>
+            <li style="display:flex;align-items:center;gap:10px;">
+              <span style="background:#c0392b;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700;">WC</span>
+              <a href="https://www.fifa.com/fifaplus/pt/tournaments/mens/worldcup/usa-canada-mexico2026" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;">Copa do Mundo 2026</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </aside>
+</div><!-- /main-layout -->
+
+<!-- Newsletter section -->
+<section class="newsletter-section" id="newsletter">
+  <div class="nl-inner">
+    <h2>⚽ Futebol &amp; Negócios</h2>
+    <p>Tabela, resultados e mercado do futebol brasileiro no seu e-mail.</p>
+    <form class="nl-form" onsubmit="handleNewsletter(event)">
+      <input type="email" placeholder="Digite seu e-mail" required />
+      <button type="submit">Inscrever grátis</button>
+    </form>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <div class="logo-text">Empresas<span>&</span>Negócios</div>
+      <p>O portal de referência em notícias sobre negócios, economia e inovação.</p>
+    </div>
+    <div class="footer-col"><h4>Editorias</h4><ul>
+      <li><a href="novidades.html">Novidades</a></li>
+      <li><a href="futebol.html">Futebol</a></li>
+      <li><a href="startups.html">Startups</a></li>
+      <li><a href="esportes.html">Esportes</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Mais</h4><ul>
+      <li><a href="brasil.html">Brasil</a></li>
+      <li><a href="mundo.html">Mundo</a></li>
+      <li><a href="tecnologia.html">Tecnologia</a></li>
+      <li><a href="vagas.html">Vagas</a></li>
+    </ul></div>
+    <div class="footer-col"><h4>Institucional</h4><ul>
+      <li><a href="#">Sobre nós</a></li>
+      <li><a href="#">Anuncie</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul></div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span>
+    <div class="footer-bottom-links">
+      <a href="#">Privacidade</a>
+      <a href="#">Termos</a>
+    </div>
+  </div>
+</footer>
+
+<div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
+<button class="back-to-top" id="backToTop">↑</button>
+
+<script src="../js/main.js"></script>
+<script>
+// ── Carrega notícias de futebol de data/esportes.json ──
+(function () {
+  const FALLBACK_IMG = 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop';
+
+  function catColor(cat) {
+    const m = {
+      'Brasileirão':'#27ae60','Libertadores':'#d4a017','Seleção':'#2980b9',
+      'Copa do Mundo':'#c0392b','Copa do Brasil':'#8e44ad','Mercado':'#e67e22','Internacional':'#16a085'
+    };
+    return m[cat] || '#c0392b';
+  }
+
+  function srcBadge(src) {
+    if (src === 'LANCE!')         return '<span class="source-badge source-lance">LANCE!</span>';
+    if (src === 'Gazeta Esportiva') return '<span class="source-badge source-gazeta">Gazeta</span>';
+    return '<span class="source-badge" style="background:#555;color:#fff;">' + src + '</span>';
+  }
+
+  function buildCard(item) {
+    const img   = item.image || FALLBACK_IMG;
+    const color = catColor(item.category);
+    return '<article class="news-card-futebol">' +
+      '<a href="' + item.link + '" target="_blank" rel="noopener">' +
+      '<img src="' + img + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK_IMG + '\'" />' +
+      '</a>' +
+      '<div class="card-body">' +
+        '<span class="news-cat-badge" style="background:' + color + '">' + item.category + '</span>' +
+        '<a href="' + item.link + '" target="_blank" rel="noopener" class="card-title">' + item.title + '</a>' +
+        '<div class="card-meta">' + srcBadge(item.source) + '<span style="flex:1"></span><time>' + item.date + '</time>' + '</div>' +
+      '</div>' +
+    '</article>';
+  }
+
+  function buildListCard(item) {
+    const img   = item.image || FALLBACK_IMG;
+    const color = catColor(item.category);
+    return '<div class="card-h" style="margin-bottom:12px;">' +
+      '<a href="' + item.link + '" target="_blank" rel="noopener">' +
+      '<img src="' + img + '" alt="" loading="lazy" style="width:120px;min-width:120px;height:90px;object-fit:cover;" onerror="this.src=\'' + FALLBACK_IMG + '\'" />' +
+      '</a>' +
+      '<div class="card-body">' +
+        '<span class="news-cat-badge" style="background:' + color + ';font-size:9px;padding:2px 7px;">' + item.category + '</span>' +
+        '<a href="' + item.link + '" target="_blank" rel="noopener" class="card-title" style="font-size:13px;font-family:var(--font-main);">' + item.title + '</a>' +
+        '<div class="card-meta" style="margin-top:6px;">' + srcBadge(item.source) + '</div>' +
+      '</div>' +
+    '</div>';
+  }
+
+  async function loadNews() {
+    const grid = document.getElementById('futebol-news-grid');
+    const list = document.getElementById('futebol-list');
+    try {
+      const res  = await fetch('../data/esportes.json');
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const items = data.items || [];
+
+      // Top 6 → grid de cards
+      const topItems = items.slice(0, 6);
+      if (topItems.length === 0) throw new Error('sem itens');
+      grid.innerHTML = topItems.map(buildCard).join('');
+
+      // Itens 6-12 → lista horizontal
+      const listItems = items.slice(6, 14);
+      if (list && listItems.length > 0) {
+        list.innerHTML = listItems.map(buildListCard).join('');
+      } else if (list) {
+        list.style.display = 'none';
+        list.previousElementSibling.style.display = 'none'; // oculta section-header
+      }
+    } catch (e) {
+      grid.innerHTML =
+        '<div style="grid-column:1/-1;text-align:center;padding:40px 20px;color:var(--gray);">' +
+        '<p style="font-size:32px;margin-bottom:12px;">⚽</p>' +
+        '<p style="font-size:15px;font-weight:600;">Notícias em breve</p>' +
+        '<p style="font-size:13px;margin-top:6px;">Acompanhe os resultados no widget acima!</p>' +
+        '</div>';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', loadNews);
+})();
+</script>
+</body>
+</html>

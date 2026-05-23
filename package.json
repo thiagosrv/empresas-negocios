@@ -10,7 +10,8 @@
     "generate-batch": "node scripts/generate-batch.js",
     "generate-sitemap": "node scripts/generate-sitemap.js",
     "generate-batch-geral": "node scripts/generate-batch-geral.js",
-    "generate-batch-servicos": "node scripts/generate-batch-servicos.js"
+    "generate-batch-servicos": "node scripts/generate-batch-servicos.js",
+    "fetch-esportes": "node scripts/fetch-esportes.js"
   },
   "dependencies": {
     "openai": "^4.52.0",

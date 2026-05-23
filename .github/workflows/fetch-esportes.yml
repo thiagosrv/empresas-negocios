@@ -1,0 +1,35 @@
+name: Fetch Esportes RSS
+
+on:
+  schedule:
+    - cron: '15 * * * *'   # a cada hora, no minuto 15
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Buscar RSS de futebol
+        run: node scripts/fetch-esportes.js
+
+      - name: Commit e push (se houver mudanças)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/esportes.json
+          git diff --cached --quiet || git commit -m "chore: atualiza esportes.json [bot]"
+          git pull --rebase origin main
+          git push origin main
