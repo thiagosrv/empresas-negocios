@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T17:58:28.320Z",
+  "updated": "2026-05-22T18:00:00Z",
   "totalOk": 0,
   "featured": [
     {
@@ -45,5 +45,182 @@
       "featured": true
     }
   ],
-  "jobs": []
+  "jobs": [
+    {
+      "id": "fb-001",
+      "title": "Porteiro",
+      "company": "Vagas disponíveis na região",
+      "city": "Americana",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-porteiro-em-americana",
+      "snippet": "Diversas vagas de porteiro em Americana. Empresas buscam profissionais com experiência em controle de acesso, ronda e atendimento ao público. Registro CLT.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-002",
+      "title": "Auxiliar de Facilities",
+      "company": "Vagas disponíveis na região",
+      "city": "Americana",
+      "category": "Facilities",
+      "link": "https://www.vagas.com.br/vagas-de-auxiliar-de-facilities-em-americana",
+      "snippet": "Auxiliar de facilities para empresas de Americana. Rotinas de conservação, controle de materiais e suporte operacional à portaria.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-003",
+      "title": "Recepcionista",
+      "company": "Vagas disponíveis na região",
+      "city": "Americana",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-recepcionista-em-americana",
+      "snippet": "Recepcionista para condomínios corporativos e empresas de Americana. Boa comunicação, apresentação e domínio de rotinas de portaria.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-004",
+      "title": "Operador de Produção",
+      "company": "Vagas disponíveis na região",
+      "city": "Americana",
+      "category": "Indústria",
+      "link": "https://www.vagas.com.br/vagas-de-operador-de-producao-em-americana",
+      "snippet": "Operador de produção para indústrias do polo de Americana. Experiência em linha de montagem e controle de qualidade. Turno fixo e rodízio.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-005",
+      "title": "Porteiro",
+      "company": "Vagas disponíveis na região",
+      "city": "Campinas",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-porteiro-em-campinas",
+      "snippet": "Vagas de porteiro em Campinas. Condomínios residenciais, comerciais e corporativos. CLT com benefícios. Experiência em CFTV e controle de visitantes.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-006",
+      "title": "Recepcionista Corporativa",
+      "company": "Vagas disponíveis na região",
+      "city": "Campinas",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-recepcionista-em-campinas",
+      "snippet": "Recepcionista para empresas de tecnologia e corporações em Campinas. Inglês básico desejável. Boa apresentação e comunicação.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-007",
+      "title": "Auxiliar de Manutenção",
+      "company": "Vagas disponíveis na região",
+      "city": "Campinas",
+      "category": "Facilities",
+      "link": "https://www.vagas.com.br/vagas-de-auxiliar-de-manutencao-em-campinas",
+      "snippet": "Auxiliar de manutenção predial em Campinas. Manutenção elétrica, hidráulica e conservação geral. Experiência em facilities desejável.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-008",
+      "title": "Analista de TI",
+      "company": "Vagas disponíveis na região",
+      "city": "Campinas",
+      "category": "Tecnologia",
+      "link": "https://www.vagas.com.br/vagas-de-analista-de-ti-em-campinas",
+      "snippet": "Analista de TI em Campinas. Suporte, infraestrutura e desenvolvimento. Oportunidades no maior polo tecnológico do interior de SP.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-009",
+      "title": "Porteiro",
+      "company": "Vagas disponíveis na região",
+      "city": "Santa Bárbara",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-porteiro-em-santa-barbara-d-oeste",
+      "snippet": "Vagas de porteiro em Santa Bárbara D'Oeste. Controle de acesso, ronda e atendimento ao público. Registro CLT e benefícios.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-010",
+      "title": "Operador de Produção",
+      "company": "Vagas disponíveis na região",
+      "city": "Santa Bárbara",
+      "category": "Indústria",
+      "link": "https://www.vagas.com.br/vagas-de-operador-de-producao-em-santa-barbara-d-oeste",
+      "snippet": "Operador de produção em Santa Bárbara D'Oeste. Indústrias têxtil e metal-mecânica. Turno fixo e rodízio. CLT com vale-transporte e alimentação.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-011",
+      "title": "Porteiro",
+      "company": "Vagas disponíveis na região",
+      "city": "Sumaré",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-porteiro-em-sumare",
+      "snippet": "Vagas de porteiro em Sumaré. Empresas e condomínios do polo industrial e automotivo. Experiência em controle de acesso e CFTV.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-012",
+      "title": "Auxiliar de Serviços Gerais",
+      "company": "Vagas disponíveis na região",
+      "city": "Sumaré",
+      "category": "Facilities",
+      "link": "https://www.vagas.com.br/vagas-de-auxiliar-de-servicos-gerais-em-sumare",
+      "snippet": "Auxiliar de serviços gerais em Sumaré. Limpeza, organização e conservação em empresas industriais. CLT com benefícios.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-013",
+      "title": "Porteiro",
+      "company": "Vagas disponíveis na região",
+      "city": "Piracicaba",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-porteiro-em-piracicaba",
+      "snippet": "Vagas de porteiro em Piracicaba. Usinas, condomínios e empresas do setor sucroenergético. Controle de acesso e ronda.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-014",
+      "title": "Porteiro",
+      "company": "Vagas disponíveis na região",
+      "city": "Limeira",
+      "category": "Portaria",
+      "link": "https://www.vagas.com.br/vagas-de-porteiro-em-limeira",
+      "snippet": "Vagas de porteiro em Limeira. Polo joalheiro, industrial e condomínios residenciais. CLT com benefícios e treinamento.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-015",
+      "title": "Técnico de Enfermagem",
+      "company": "Vagas disponíveis na região",
+      "city": "Campinas",
+      "category": "Saúde",
+      "link": "https://www.vagas.com.br/vagas-de-tecnico-de-enfermagem-em-campinas",
+      "snippet": "Técnico de enfermagem em Campinas. Hospitais, clínicas e laboratórios. Plantão diurno e noturno. COREN ativo obrigatório.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    },
+    {
+      "id": "fb-016",
+      "title": "Motorista / Auxiliar de Logística",
+      "company": "Vagas disponíveis na região",
+      "city": "Americana",
+      "category": "Logística",
+      "link": "https://www.vagas.com.br/vagas-de-motorista-em-americana",
+      "snippet": "Motorista de entrega e auxiliar de logística em Americana e região. CNH B ou D. Distribuição local e regional com ajuda de custo.",
+      "dateRel": "hoje",
+      "source": "Vagas.com.br"
+    }
+  ]
 }
