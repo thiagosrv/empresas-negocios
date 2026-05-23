@@ -8,7 +8,9 @@
     "generate-article": "node scripts/generate-article.js",
     "fetch-vagas": "node scripts/fetch-vagas.js",
     "generate-batch": "node scripts/generate-batch.js",
-    "generate-sitemap": "node scripts/generate-sitemap.js"
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "generate-batch-geral": "node scripts/generate-batch-geral.js",
+    "generate-batch-servicos": "node scripts/generate-batch-servicos.js"
   },
   "dependencies": {
     "openai": "^4.52.0",

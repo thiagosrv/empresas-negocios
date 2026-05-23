@@ -1,0 +1,44 @@
+name: Gerar 50 Artigos Gerais (Startups, Tech, Saúde, Brasil...)
+
+on:
+  workflow_dispatch:   # disparo manual — aba Actions > Run workflow
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  generate-batch-geral:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60    # 50 artigos × ~1 min = ~50 min
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar 50 artigos gerais com GPT-4o
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run generate-batch-geral
+
+      - name: Atualizar sitemap.xml
+        run: npm run generate-sitemap
+
+      - name: Commitar e publicar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias/ data/artigos.json sitemap.xml robots.txt
+          git diff --staged --quiet || git commit -m "feat: 50 artigos gerais gerados via GPT-4o [skip ci]"
+          git push

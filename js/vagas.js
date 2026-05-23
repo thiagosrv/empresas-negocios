@@ -37,7 +37,7 @@
   </div>
   ${job.snippet ? `<p class="pt-snippet">${job.snippet}</p>` : ''}
   <div class="pt-chips">
-    ${job.salary ? `<span class="pt-chip salary">💰 ${job.salary}</span>` : ''}
+    <span class="pt-chip salary">💰 A consultar</span>
     ${job.type   ? `<span class="pt-chip type">📋 ${job.type}</span>`     : ''}
     <span class="pt-chip location">📍 ${job.city}</span>
   </div>
@@ -63,7 +63,7 @@
       <span class="job-badge cat">${meta.icon} ${job.category}</span>
       <span class="job-badge location">📍 ${job.city}</span>
       ${job.type   ? `<span class="job-badge type">${job.type}</span>`          : ''}
-      ${job.salary ? `<span class="job-badge salary">💰 ${job.salary}</span>`  : ''}
+      <span class="job-badge salary">💰 A consultar</span>
       ${job.dateRel? `<span class="job-badge date">🕐 ${job.dateRel}</span>`   : ''}
     </div>
   </div>
