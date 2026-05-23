@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-23T17:06:09.747Z",
+  "updated": "2026-05-23T19:17:58.757Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem é preso suspeito de esfaquear companheira em Indaiatuba",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/homem-e-preso-suspeito-de-esfaquear-companheira-em-indaiatuba.ghtml",
+        "summary": "Delegacia de Polícia de Indaiatuba (SP) Reprodução/Google Maps Uma mulher foi esfaqueada pelo companheiro na manhã deste sábado (23) em Indaiatuba (SP). A vítima permanece internada, de acordo com informações da Guarda M",
+        "image": "https://s2-g1.glbimg.com/zRK6B6guPET_FHuHX8VIu3dsLhc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/u/jEEaP8QeCaimusncKNMA/capas-ana-27-.png",
+        "date": "23 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Comerciante baleado ao reagir a roubo em Campinas diz que suspeito já havia tentado assaltar bar: 'Reconheci ele'",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/comerciante-baleado-ao-reagir-a-assalto-em-campinas-diz-que-suspeito-ja-havia-tentado-roubar-o-estabelecimento-reconheci-ele.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/entenda-como-microscopio-de-baixo-custo-criado-por-brasileiro-ajuda-no-diagnostico-da-malaria-na-nigeria.ghtml",
         "summary": "Microscópio barato criado por brasileiro ajuda no diagnóstico da malária na Nigéria Um microscópio de baixo custo tem ajudado a ampliar o diagnóstico da malária em uma região vulnerável da Nigéria. Criado pelo brasileiro",
         "image": "https://s2-g1.glbimg.com/6Qqv4j7U2ScZ9xFkYJU1KBbi47c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/S/oBQ4UoRkOFtJAJLg5vAA/copia-de-copia-de-1200px-x-700px.jpg",
-        "date": "23 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com 26ª apresentação, Chitãozinho e Xororó vão abrir programação da Festa do Peão de Americana: 'Quase como voltar para casa'",
-        "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/05/23/recordistas-chitaozinho-e-xororo-vao-abrir-programacao-da-festa-do-peao-de-americana-quase-como-voltar-para-casa.ghtml",
-        "summary": "Chitãozinho e Xororó na Festa do Peão de Americana, em 2023. Júlio César Costa/g1 Chitãozinho e Xororó são os recordistas em número de apresentações na Festa do Peão de Americana. O rodeio, que completa 40 anos em 2026, ",
-        "image": "https://s2-g1.glbimg.com/wxKtYXXllhSbNS_5Oi0fPNackxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/0/ARpzUCQGuzNVjve3Oj6A/ch-x.png",
         "date": "23 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Chuva deve atingir todas as regiões no fim de semana, prevê Inmet",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/chuva-deve-atingir-todas-regioes-no-fim-de-semana-preve-inmet",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/chuva-deve-atingir-todas-regioes-no-fim-de-semana-preve-inmet img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "title": "TV Brasil transmite final do Brasileirão Feminino Sub-20 neste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/tv-brasil-transmite-final-do-brasileirao-feminino-sub-20-neste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/tv-brasil-transmite-final-do-brasileirao-feminino-sub-20-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Saberes tradicionais apontam caminhos para combate à crise ambiental",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/saberes-tradicionais-apontam-caminhos-para-combate-crise-ambiental",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/saberes-tradicionais-apontam-caminhos-para-combate-crise-ambiental img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Brasil não é menor nem menos competitivo do que ninguém, diz Lula",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/brasil-nao-e-menor-nem-menos-competitivo-que-ninguem-diz-lula",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/brasil-nao-e-menor-nem-menos-competitivo-que-ninguem-diz-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Capitão de navio com surto de hantavírus deixa a embarcação",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/capitao-de-navio-com-surto-de-hantavirus-deixa-embarcacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/capitao-de-navio-com-surto-de-hantavirus-deixa-embarcacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "title": "Brasil supera 100 mil escolas públicas com internet gratuita",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/brasil-supera-100-mil-escolas-publicas-com-internet-gratuita",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/brasil-supera-100-mil-escolas-publicas-com-internet-gratuita img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "China suspende três frigoríficos brasileiros após irregularidades",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/china-suspende-tres-frigorificos-brasileiros-apos-irregularidades",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/china-suspende-tres-frigorificos-brasileiros-apos-irregularidades img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Alison dos Santos conquista ouro na etapa de Xiamen da Diamond League",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/alison-dos-santos-conquista-ouro-na-etapa-de-xiamen-da-diamond-league",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/alison-dos-santos-conquista-ouro-na-etapa-de-xiamen-da-diamond-league img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "TV Brasil homenageia Beth Carvalho com programas especiais",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/tv-brasil-homenageia-beth-carvalho-com-programas-especiais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/tv-brasil-homenageia-beth-carvalho-com-programas-especiais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "title": "Lula pede que governador do RJ trabalhe para prender milicianos",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/lula-pede-que-governador-do-rj-trabalhe-para-prender-milicianos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/lula-pede-que-governador-do-rj-trabalhe-para-prender-milicianos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Uganda confirma mais três casos de ebola; total sobe para cinco",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uganda-confirma-mais-tres-casos-de-ebola-total-sobe-para-cinco",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/uganda-confirma-mais-tres-casos-de-ebola-total-sobe-para-cinco img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "title": "Legado da Rio 2016, Centro de Treinamento Paralímpico completa 10 anos",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/legado-da-rio-2016-centro-de-treinamento-paralimpico-completa-10-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/legado-da-rio-2016-centro-de-treinamento-paralimpico-completa-10-anos img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Agência Brasil",
@@ -243,66 +243,6 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Barcelona x Lyonnes: acompanhe AO VIVO a grande fi...",
-        "link": "https://www.espn.com.br/futebol/partida/_/jogoId/401842609/ol-lyonnes-barcelona",
-        "summary": "Barcelona x Lyonnes: acompanhe AO VIVO a grande fi...",
-        "image": null,
-        "date": "23 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Hull City x Middlesbrough: siga AO VIVO a decisão ...",
-        "link": "https://www.espn.com.br/futebol/partida-estatisticas/_/jogoId/401872576",
-        "summary": "null",
-        "image": null,
-        "date": "23 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Antes colegas, hoje 'rivais': os bastidores de qua...",
-        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/16745748/bastidores-quando-jardim-abel-trabalharam-juntos-tecnico-fla-frustrava-palmeiras",
-        "summary": "null",
-        "image": null,
-        "date": "23 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Flamengo divulga manifesto após CBF decidir manter...",
-        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/16747758/flamengo-divulga-manifesto-cbf-manter-rodada-antes-copa-obrigado-a-entrar-em-campo-desfalcado",
-        "summary": "null",
-        "image": null,
-        "date": "23 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Final que conta história: Madison Square Garden, d...",
-        "link": "https://www.espn.com.br/nba/artigo/_/id/16733934/nba-madison-square-garden-knicks-rocket-arena-cavs-duas-arenas-mais-antigas",
-        "summary": "null",
-        "image": null,
-        "date": "23 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "O quão perto astro dos Cavaliers já ficou dos Knic...",
-        "link": "https://www.espn.com.br/disneyplus/artigo/_/id/16737893/quao-perto-astro-cavaliers-ficou-knicks-nba-que-assistir-disneyplus",
-        "summary": "null",
-        "image": null,
-        "date": "23 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
       }
     ],
     "negocios": [
@@ -367,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Trump diz que decidirá se retoma guerra ou sela paz com Irã neste domingo",
-        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-decidira-se-retoma-guerra-ou-sela-paz-com-ira-neste-domingo/",
-        "summary": "Para o presidente dos EUA, as chances de um entendimento com o Irã são de 50% The post Trump diz que decidirá se retoma guerra ou sela paz com Irã neste domingo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/PRESIDENT-TRUMP-ON-BEING-AMERICAS-CEO-IN-CHIEF-MAKING-DEALS-THAT-NO-NORMAL-PERSON-WOULD-MAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Irã estabelecerá base para a Copa do Mundo no México após mudança do Arizona",
+        "link": "https://www.infomoney.com.br/mundo/ira-estabelecera-base-para-a-copa-do-mundo-no-mexico-apos-mudanca-do-arizona/",
+        "summary": "O presidente da federação de futebol do Irã disse que a mudança ajudará a evitar complicações relacionadas a vistos The post Irã estabelecerá base para a Copa do Mundo no México após mudança do Arizona appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-13T182218Z_1166993667_RC2H8LAV7607_RTRMADP_3_SOCCER-WORLDCUP-IRN-1-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Zelensky diz que proposta de adesão da Ucrânia à UE como associado é injusta",
-        "link": "https://www.infomoney.com.br/mundo/zelenskiy-diz-que-proposta-de-adesao-da-ucrania-a-ue-como-associado-e-injusta/",
-        "summary": "Zelenskiy alega que condição para virar membro 'associado' da UE é 'injusta' porque deixaria Kiev sem voz dentro do ‌bloco The post Zelensky diz que proposta de adesão da Ucrânia à UE como associado é injusta appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Zelensky.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: Avaliação ruim ou péssima do governo tem leve queda após caso Dark Horse",
+        "link": "https://www.infomoney.com.br/politica/datafolha-avaliacao-ruim-ou-pessima-do-governo-tem-leve-queda-apos-caso-dark-horse/",
+        "summary": "No novo levantamento, aprovação e desaprovação agora empatam em 48%, enquanto no anterior 45% ‌aprovavam o trabalho do ​residente e 51% o desaprovavam The post Datafolha: Avaliação ruim ou péssima do governo tem leve que",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55179852680_508004466f_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Epidemia de ebola deixa 10 países africanos sob ameaça, alerta agência de saúde",
-        "link": "https://www.infomoney.com.br/mundo/epidemia-de-ebola-deixa-10-paises-africanos-sob-ameaca-alerta-agencia-de-saude/",
-        "summary": "Há quase 750 casos suspeitos e 177 mortes suspeitas na República Democrática do Congo The post Epidemia de ebola deixa 10 países africanos sob ameaça, alerta agência de saúde appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/cdc-7CQFCHoFL-o-unsplash.jpg?fit=300%2C218&amp;quality=70&amp;strip=all",
+        "title": "Embaixada dos EUA alerta para ataque significativo em Kiev",
+        "link": "https://www.infomoney.com.br/mundo/embaixada-dos-eua-alerta-para-ataque-significativo-em-kiev/",
+        "summary": "Missão diplomática dos EUA disse ter recebido informações sobre um possível ataque aéreo de grande magnitude The post Embaixada dos EUA alerta para ataque significativo em Kiev appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/UKRAINE-DONNYLAND-4.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Irã condiciona acordo com os EUA a cessar-fogo no Líbano, afirma chanceler",
-        "link": "https://www.infomoney.com.br/mundo/ira-condiciona-acordo-com-os-eua-a-cessar-fogo-no-libano-afirma-chanceler/",
-        "summary": "Abbas Araqchi classificou a vinculação entre as negociações com Washington e o cessar-fogo no Líbano como um \"princípio inquestionável\" The post Irã condiciona acordo com os EUA a cessar-fogo no Líbano, afirma chanceler ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-16T103726Z_1_LYNXMPEM2F0KM_RTROPTP_3_IRAN-CRISIS-USA-TALKS.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Copa do Mundo: como identificar figurinhas falsas? Veja dicas",
+        "link": "https://www.infomoney.com.br/consumo/copa-do-mundo-como-identificar-figurinhas-falsas-veja-dicas/",
+        "summary": "Polícia Civil apreendeu 200 mil cards falsificados, que seriam distribuídos no RJ e Região Metropolitana The post Copa do Mundo: como identificar figurinhas falsas? Veja dicas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Mae-compra-14-mil-figurinhas-da-Copa.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Rússia culpa Ucrânia em ataque a dormitório estudantil que matou 16 pessoas",
-        "link": "https://www.infomoney.com.br/mundo/russia-culpa-ucrania-em-ataque-a-dormitorio-estudantil-que-matou-16-pessoas/",
-        "summary": "Os militares ucranianos negaram a responsabilidade pelo ataque, dizendo que havia atingido uma unidade de comando de drones de elite na área The post Rússia culpa Ucrânia em ataque a dormitório estudantil que matou 16 pe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/bandeira-da-russia-brics.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Ebola: República Democrática do Congo não mudará preparativos para Copa do Mundo",
+        "link": "https://www.infomoney.com.br/mundo/ebola-republica-democratica-do-congo-nao-mudara-preparativos-para-copa-do-mundo/",
+        "summary": "Diretor da Força-Tarefa da Casa Branca para a Copa do Mundo, confirmou que a delegação congolesa precisava manter uma bolha onde está treinando The post Ebola: República Democrática do Congo não mudará preparativos para ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-Tela-2026-05-23-as-15.13.45-1.png?fit=300%2C153&amp;quality=70&amp;strip=all",
         "date": "23 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ataque israelense mata menino em Gaza e cinco policiais, diz polícia",
-        "link": "https://www.infomoney.com.br/mundo/ataque-israelense-mata-menino-em-gaza-e-cinco-policiais-diz-policia/",
-        "summary": "Em um ⁠comunicado, ‌a diretoria da polícia de ⁠Gaza disse que dois mísseis atingiram um posto policial na área ​de Tawam The post Ataque israelense mata menino em Gaza e cinco policiais, diz polícia appeared first on Inf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Benjamin-Netanyahu.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Dono da Riachuelo critica fim da escala 6 1 e diz que custo vai subir de 18% a 20%",
+        "link": "https://www.infomoney.com.br/economia/dono-da-riachuelo-critica-fim-da-escala-6x1-e-diz-que-custo-ira-subir-de-18-a-20/",
+        "summary": "Empresário alega que, de acordo com projeções da companhia, a medida teria impacto geral estimado sobre os preços de 13% The post Dono da Riachuelo critica fim da escala 6 1 e diz que custo vai subir de 18% a 20% appeare",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/flavio-rocha-riachuelo.webp?fit=300%2C188&amp;quality=70&amp;strip=all",
         "date": "23 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Por que IA e gêmeos digitais podem ser resposta da indústria à alta dos combustíveis fósseis",
-        "link": "https://exame.com/esg/por-que-ia-e-gemeos-digitais-podem-ser-resposta-da-industria-a-alta-dos-combustiveis-fosseis/",
-        "summary": "Setores intensivos em energia como mineração, celulose e petróleo e gás apostam em tecnologia para ganhar eficiência energética em reação ao conflito no Oriente Médio",
+        "title": "Cientistas descobrem ‘T. rex dos mares’ de 13 metros",
+        "link": "https://exame.com/ciencia/cientistas-descobrem-t-rex-dos-mares-de-13-metros/",
+        "summary": "Nova espécie de mosassauro viveu há 80 milhões de anos e está entre os maiores predadores marinhos já identificados",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Exame",
@@ -437,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Irã diz estar na fase final de acordo com EUA para encerrar guerra no Oriente Médio",
-        "link": "https://exame.com/mundo/ira-diz-estar-na-fase-final-de-acordo-com-eua-para-encerrar-guerra-no-oriente-medio/",
-        "summary": "Porta-voz do governo iraniano afirma que protocolo tem 14 cláusulas; EUA sinalizam chance de anúncio nos próximos dias",
+        "title": "A técnica de Harvard para dizer ‘não’ no trabalho",
+        "link": "https://exame.com/carreira/a-tecnica-de-harvard-para-dizer-nao-no-trabalho/",
+        "summary": "Professor de negociação diz que recusar propostas com clareza evita insistência e preserva relações profissionais",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Exame",
@@ -447,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Whisky do jejum e zueira na estrada: como a Diageo transformou a superstição em vendas",
-        "link": "https://exame.com/marketing/whisky-do-jejum-e-zueira-na-estrada-como-a-diageo-transformou-a-supersticao-em-vendas/",
-        "summary": "Em entrevista à EXAME, Guilherme Martins revela a ousadia de mandar uma carreta cheia de latas de \"Pé Frio\" para a Argentina e como o jejum de 24 anos da Seleção virou um single malt de luxo",
+        "title": "Dona do 'iFood europeu' entra na mira da Uber em disputa global por delivery",
+        "link": "https://exame.com/invest/mercados/dona-do-ifood-europeu-entra-na-mira-da-uber-em-disputa-global-por-delivery/",
+        "summary": "Oferta pela alemã Delivery Hero pode passar de 10 bilhões de euros e ampliar presença da Uber em mercados emergentes",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Exame",
@@ -457,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Taste São Paulo: milhares de quilos de insumos e milhões movimentados",
-        "link": "https://exame.com/casual/taste-sao-paulo-milhares-de-quilos-de-insumos-e-milhoes-movimentados/",
-        "summary": "Os bastidores do festival, que acontece no Parque Villa Lobos, durante os próximos três finais de semana",
+        "title": "Estudo identifica 'ponto fraco' de bactéria encontrada em produtos da Ypê",
+        "link": "https://exame.com/ciencia/estudo-identifica-ponto-fraco-de-bacteria-encontrada-em-produtos-da-ype/",
+        "summary": "Bactéria é considerada pela OMS uma das 15 mais perigosas do mundo devido à resistência a antibióticos",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Exame",
@@ -467,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como a IA está mudando a publicidade digital",
-        "link": "https://exame.com/bussola/como-a-inteligencia-artificial-esta-mudando-a-publicidade-digital/",
-        "summary": "Durante o Google Marketing Live 2026, empresa apresentou soluções baseadas em inteligência artificial que aproximam busca, anúncios, conteúdo e compras dentro de um mesmo ecossistema",
+        "title": "Como o plano de R$ 350 bilhões da Stellantis pode mudar a cena automotiva até 2030",
+        "link": "https://exame.com/casual/como-o-plano-de-r-350-bilhoes-da-stellantis-pode-mudar-a-cena-automotiva-ate-2030/",
+        "summary": "Batizada de FaSTLAne 2030, estratégia eleva Jeep, Fiat, Peugeot e Ram a marcas globais e prevê 60 lançamentos até o fim da década",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Exame",
@@ -477,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "FIDCs e FIIs movimentam mercado de capitais em 2026; ofertas passaram de R$ 230 bi",
-        "link": "https://exame.com/invest/mercados/fidcs-e-fiis-movimentam-mercado-de-capitais-em-2026-ofertas-passaram-de-r-230-bi/",
-        "summary": "Entre janeiro e abril deste ano, as ofertas cresceram mais de 15%, informou a Anbima",
+        "title": "Lime, de patinetes elétricos, quer levantar US$ 2 bi em IPO nos EUA",
+        "link": "https://exame.com/invest/mercados/lime-de-patinetes-eletricos-quer-levantar-us-2-bi-em-ipo-nos-eua/",
+        "summary": "Apoiada pela Uber, expandiu receita e cortou mercados — como o Brasil",
         "image": null,
         "date": "23 de mai. de 2026",
         "source": "Exame",
