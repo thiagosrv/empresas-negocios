@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-24T18:00:42.014Z",
+  "updated": "2026-05-24T20:09:54.278Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem é preso após confessar homicídio e esquartejamento em Amparo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/homem-e-preso-apos-confessar-homicidio-e-esquartejamento-em-amparo.ghtml",
+        "summary": "Homem é preso após confessar homicídio e esquartejamento em Amparo Um homem foi preso em flagrante, na madrugada deste domingo (24), depois de confessar à polícia que matou e esquartejou outro homem, além de ter escondid",
+        "image": "https://s2-g1.glbimg.com/KTcTk7w-ZfVy3Vf_irQ8Ce_n6a8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/M/1CrNsfTHm5tiHgTdAKVg/capa-furto-6-.png",
+        "date": "24 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Menina de 3 anos que caiu de prédio em Campinas morre após ficar 4 dias internada em hospital",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/menina-de-3-anos-que-caiu-de-predio-em-campinas-morre-apos-ficar-4-dias-internada-em-hospital.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/menina-de-3-anos-que-caiu-de-predio-em-campinas-tem-morte-encefalica-e-orgaos-serao-doados-diz-pai.ghtml",
         "summary": "Criança foi socorrida após cair do 4º andar de prédio em Campinas A criança de 3 anos que ficou gravemente ferida após cair do 4º andar de um prédio residencial, em Campinas (SP), teve a morte encefálica confirmada. A in",
         "image": "https://s2-g1.glbimg.com/vPBMAtQOBQgSx0cDQdfIov1pAFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/z/lNRwNrRQy2VbbxFY2glQ/design-sem-nome-2026-05-18t194328.307.jpg",
-        "date": "23 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Homem é preso suspeito de invadir casa e esfaquear companheira em Indaiatuba após crise de ciúmes",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/homem-e-preso-suspeito-de-esfaquear-companheira-em-indaiatuba.ghtml",
-        "summary": "Delegacia de Polícia de Indaiatuba (SP) Reprodução/Google Maps Um homem de 34 anos foi preso suspeito de esfaquear a própria companheira na manhã deste sábado (23), em Indaiatuba (SP). Segundo o boletim de ocorrência, o ",
-        "image": "https://s2-g1.glbimg.com/zRK6B6guPET_FHuHX8VIu3dsLhc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/u/jEEaP8QeCaimusncKNMA/capas-ana-27-.png",
         "date": "23 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasileiro Feminino sub-20: Fla vence São Paulo no 1º jogo da final",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileiro-feminino-sub-20-fla-vence-sao-paulo-no-1o-jogo-da-final",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileiro-feminino-sub-20-fla-vence-sao-paulo-no-1o-jogo-da-final img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "João Fonseca estreia com vitória no torneio de Roland Garros",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/joao-fonseca-estreia-com-vitoria-no-torneio-de-roland-garros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/joao-fonseca-estreia-com-vitoria-no-torneio-de-roland-garros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Apostas do Rio e de Fortaleza levam prêmio da Mega 30 anos",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/apostas-do-rio-e-de-fortaleza-levam-premio-da-mega-30-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/apostas-do-rio-e-de-fortaleza-levam-premio-da-mega-30-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Morte do fisiculturista Gabriel Ganley é investigada como suspeita",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/morte-do-fisiculturista-gabriel-ganley-e-investigada-como-suspeita",
         "summary": "p strong O fisiculturista e influenciador digital Gabriel Ganley, de 22 anos, foi encontrado morto em sua casa, na rua da Mooca, na zona Leste da capital paulista. /strong img src= https://agenciabrasil.ebc.com.br/ebc.pn",
@@ -146,36 +176,6 @@
         "title": "Casa Branca: suspeito morre após troca de tiros com policiais",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/casa-branca-suspeito-morre-apos-troca-de-tiros-com-policiais",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/casa-branca-suspeito-morre-apos-troca-de-tiros-com-policiais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Confira dezenas sorteadas na Mega-Sena 30 anos neste domingo",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/confira-dezenas-sorteadas-na-mega-sena-30-anos-neste-domingo",
-        "summary": "p strong Os seis números sorteados do concurso da Mega-Sena edição especial de 30 anos, na manhã deste domingo (24), foram: 03 - 30 - 33 - 35 - 45 - 47. /strong img src= https://agenciabrasil.ebc.com.br/ebc.png?id=169068",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil no Mundo debate América Latina e detenções em Israel",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/brasil-no-mundo-debate-america-latina-e-detencoes-em-israel",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/brasil-no-mundo-debate-america-latina-e-detencoes-em-israel img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dino nega pedido de soltura de Deolane Bezerra",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/dino-nega-pedido-de-soltura-de-deolane-bezerra",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/dino-nega-pedido-de-soltura-de-deolane-bezerra img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Agência Brasil",
@@ -367,69 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Inventário extrajudicial cresce em possibilidades; entenda e veja novidades",
-        "link": "https://www.infomoney.com.br/minhas-financas/inventario-extrajudicial-cresce-em-possibilidades-entenda-e-veja-novidades/",
-        "summary": "Herdeiros podem vender bens antes mesmo da conclusão do processo The post Inventário extrajudicial cresce em possibilidades; entenda e veja novidades appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Conflitos-na-heranca.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Calendário econômico da semana: PIB, trabalho e inflação são foco no Brasil",
+        "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-pib-trabalho-e-inflacao-sao-foco-no-brasil/",
+        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: PIB, trabalho e inflação são foco no Brasil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/calendario_F1-Digitals-Pixabay.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Netanyahu diz que acordo com o Irã precisa eliminar o perigo nuclear",
-        "link": "https://www.infomoney.com.br/mundo/netanyahu-diz-que-acordo-com-o-ira-precisa-eliminar-o-perigo-nuclear/",
-        "summary": "Primeiro-ministro israelense disse ter \"profunda gratidão\" ao presidente dos EUA, Donald Trump The post Netanyahu diz que acordo com o Irã precisa eliminar o perigo nuclear appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Benjamin-Netanyahu.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Irã acusa EUA de recuo em acordo e ameaça não assinar, diz emissora",
+        "link": "https://www.infomoney.com.br/mundo/ira-acusa-eua-de-recuo-em-acordo-e-ameaca-nao-assinar-diz-emissora/",
+        "summary": "Fonte iraniana citada pela Al Jazeera aponta divergências sobre descongelamento de ativos e cessar-fogo no Líbano The post Irã acusa EUA de recuo em acordo e ameaça não assinar, diz emissora appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/mostafa-meraji-y8nK_KcAPZU-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dino nega pedido de prisão domiciliar para influenciadora Deolane Bezerra",
-        "link": "https://www.infomoney.com.br/brasil/dino-nega-pedido-de-prisao-domiciliar-para-influenciadora-deolane-bezerra/",
-        "summary": "O ministro afirmou que não foi encontrada \"manifesta ilegalidade\" da prisão para conceder habeas corpus de ofício The post Dino nega pedido de prisão domiciliar para influenciadora Deolane Bezerra appeared first on InfoM",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55131061486_7dad3a100a_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Chanceler da Ucrânia pede reação da ONU após ofensiva russa contra Kiev",
+        "link": "https://www.infomoney.com.br/mundo/chanceler-da-ucrania-pede-reacao-da-onu-apos-ofensiva-russa-contra-kiev/",
+        "summary": "Chanceler afirmou ainda que Vladimir Putin \"está tentando intimidar a Ucrânia ao atacar civis e destruir edifícios residenciais The post Chanceler da Ucrânia pede reação da ONU após ofensiva russa contra Kiev appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/2024-03-07T120316Z_1_LYNXNPEK260FX_RTROPTP_4_UKRAINE-CRISIS-GRAINS-SOWING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mega-Sena 30 anos: apostas do Rio e de Fortaleza faturam R$ 168 milhões cada",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-30-anos-apostas-do-rio-e-de-fortaleza-faturam-r-168-milhoes-cada/",
-        "summary": "Bilhete de Fortaleza exigiu investimento de mais de R$ 230 mil The post Mega-Sena 30 anos: apostas do Rio e de Fortaleza faturam R$ 168 milhões cada appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/mega-sena-30-anos-mc_abr_23052026-8.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "China envia astronauta em missão espacial de um ano de olho em pouso na Lua em 2030",
+        "link": "https://www.infomoney.com.br/mundo/china-envia-astronauta-em-missao-espacial-de-um-ano-de-olho-em-pouso-na-lua-em-2030/",
+        "summary": "Missão será uma das mais longas da história The post China envia astronauta em missão espacial de um ano de olho em pouso na Lua em 2030 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-24T161438Z_1039812777_RC2RFLA4MPV6_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "24 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Justiça proíbe farmácia de obrigar funcionários a gravar dancinhas para redes",
-        "link": "https://www.infomoney.com.br/brasil/justica-proibe-farmacia-de-obrigar-funcionarios-a-gravar-dancinhas-para-redes/",
-        "summary": "Liminar exige consentimento específico e transparente para a gravação de vídeos promocionais The post Justiça proíbe farmácia de obrigar funcionários a gravar dancinhas para redes appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/arpad-czapp-tvP6pCnq9iI-unsplash.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Trump nega que acordo com Irã tenha sido fechado: “Ninguém sabe o que é”",
+        "link": "https://www.infomoney.com.br/mundo/trump-nega-que-acordo-com-ira-tenha-sido-fechado-ninguem-sabe-o-que-e/",
+        "summary": "Em nova postagem na Truth Social, presidente americano diz que o entendimento não foi concluído e pede que críticos não comentem algo que “não conhecem” The post Trump nega que acordo com Irã tenha sido fechado: “Ninguém",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-26T030050Z_1048769190_RC2RWKA1RWYW_RTRMADP_3_USA-TRUMP-DINNER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Durigan diz que Brasil teve paciência contra tarifaço dos EUA, ao contrário da Europa",
-        "link": "https://www.infomoney.com.br/politica/durigan-diz-que-brasil-teve-paciencia-contra-tarifaco-dos-eua-ao-contrario-da-europa/",
-        "summary": "\"O julgamento contra Bolsonaro prosseguiu mesmo com a imposição das tarifas, e Bolsonaro foi condenado apesar da pressão geopolítica\", observou o ministro The post Durigan diz que Brasil teve paciência contra tarifaço do",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-06-121113.png?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Superpetroleiro deixa o Golfo Pérsico em meio a negociações para reabrir Ormuz",
+        "link": "https://www.infomoney.com.br/mundo/superpetroleiro-deixa-o-golfo-persico-em-meio-a-negociacoes-para-reabrir-ormuz/",
+        "summary": "O mercado de petróleo acompanha de perto a saída de petroleiros da região, já que a maioria das embarcações permanece retida desde que o Irã fechou o Estreito de Ormuz The post Superpetroleiro deixa o Golfo Pérsico em me",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453302109.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "João Fonseca em Roland Garros: brasileiro ganha na estreia e avança à 2ª rodada",
-        "link": "https://exame.com/esporte/joao-fonseca-em-roland-garros-brasileiro-ganha-na-estreia-e-avanca-a-2a-rodada/",
-        "summary": "Brasileiro vai encarar agora o croata Dino Prizmic, 71º do mundo",
+        "title": "Victoria’s Secret muda código de ação na bolsa para ficar mais 'sexy'",
+        "link": "https://exame.com/invest/mercados/victorias-secret-muda-codigo-de-acao-na-bolsa-para-ficar-mais-sexy/",
+        "summary": "Sob comando da CEO Hillary Super, varejista relança aposta em lingerie e tenta recuperar relevância cultural e crescimento das vendas",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -437,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Primeiro teste nuclear da história criou material nunca visto, diz estudo",
-        "link": "https://exame.com/ciencia/primeiro-teste-nuclear-da-historia-criou-material-nunca-visto-diz-estudo/",
-        "summary": "Pesquisadores identificaram um clatrato formado durante o teste Trinity, primeira explosão nuclear da história, realizado em 1945 no deserto do Novo México",
+        "title": "Startup transforma resíduo do babaçu em proteína do futuro e gera renda para comunidades amazônicas",
+        "link": "https://exame.com/esg/startup-transforma-residuo-do-babacu-em-proteina-do-futuro-e-gera-renda-para-comunidades-amazonicas/",
+        "summary": "Com aporte do Fundo JBS, biotecnologia eleva o teor proteico do babaçu em 4,5 vezes, impulsiona 62 mil extrativistas e mira mercado de US$ 88 bilhões",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -447,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Enquanto Trump esfria expectativa de acordo com Irã, Israel intensifica ataques no Líbano",
-        "link": "https://exame.com/mundo/enquanto-trump-esfria-expectativa-de-acordo-com-ira-israel-intensifica-ataques-no-libano/",
-        "summary": "Bombardeios israelenses atingiram o sul e o leste do Líbano neste domingo, um dia após um ataque deixar 11 mortos em Sir al-Gharbiyeh",
+        "title": "Milan x Cagliari: horário, onde assistir e cenário do jogo",
+        "link": "https://exame.com/esporte/milan-x-cagliari-horario-onde-assistir-e-cenario-do-jogo/",
+        "summary": "Milan tenta fechar temporada entre os primeiros colocados diante do Cagliari, no San Siro",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -457,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Astronautas envelhecem mais rápido no espaço? Ciência vê ligação com vida na Terra",
-        "link": "https://exame.com/ciencia/astronautas-envelhecem-mais-rapido-no-espaco-ciencia-ve-ligacao-com-vida-na-terra/",
-        "summary": "Estudo sobre missões espaciais sugere que sedentarismo, isolamento e sono desregulado podem acelerar o envelhecimento no planeta",
+        "title": "Nova temporada do The Best Speaker Brasil abre inscrições em junho com prêmio de R$ 1 milhão",
+        "link": "https://exame.com/negocios/nova-temporada-do-the-best-speaker-brasil-abre-inscricoes-em-junho-com-premio-de-r-1-milhao/",
+        "summary": "Reality de palestrantes inicia seleção em junho e espera atrair candidatos de todo o país",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -467,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como a borracha apaga o lápis? Como a ciência explica uma ação tão comum",
-        "link": "https://exame.com/ciencia/como-a-borracha-apaga-o-lapis-como-a-ciencia-explica-uma-acao-tao-comum/",
-        "summary": "O mecanismo parece simples, mas envolve química, física e engenharia de materiais",
+        "title": "Lucro das empresas do S P 500 cresce dois dígitos por seis trimestres seguidos",
+        "link": "https://exame.com/invest/mercados/lucro-das-empresas-do-sp-500-cresce-dois-digitos-por-seis-trimestres-seguidos/",
+        "summary": "Índice de referência do mercado acionário americano teve melhor mês de abril em quase 100 anos",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -477,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Asteroides destruíram dinossauros, mas podem ter ajudado a criar a vida na Terra",
-        "link": "https://exame.com/ciencia/asteroides-destruiram-dinossauros-mas-podem-ter-ajudado-a-criar-a-vida-na-terra/",
-        "summary": "Estudo encontrou estruturas microbianas em cratera na Coreia do Sul e sugere que impactos espaciais criaram ambientes ideais para organismos produtores de oxigênio",
+        "title": "Em meio à crise no Oriente Médio, EUA reforçam aproximação com Índia em energia e segurança",
+        "link": "https://exame.com/mundo/em-meio-a-crise-no-oriente-medio-eua-reforcam-aproximacao-com-india-em-energia-e-seguranca/",
+        "summary": "Secretário de Estado dos EUA, Marco Rubio disse haver “progresso” nas últimas 48 horas nas negociações do Estreito de Ormuz, enquanto mira parceria estratégica entre Washington e Nova Délhi",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
