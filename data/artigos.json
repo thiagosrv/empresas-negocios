@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-23T11:58:24.325Z",
+  "updated": "2026-05-24T11:18:16.816Z",
   "articles": [
+    {
+      "slug": "economia-criativa-brasil-200-bi-5-mi-empregos-2026",
+      "title": "Economia Criativa no Brasil: R$ 200 Bi e 5 Mi de Empregos em 2026",
+      "description": "A economia criativa no Brasil impulsiona R$ 200 bilhões e 5 milhões de empregos formais em 2026.",
+      "date": "24 de mai. de 2026",
+      "isoDate": "2026-05-24",
+      "tag": "Cultura",
+      "tagCls": "cultura",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-24-economia-criativa-brasil-200-bi-5-mi-empregos-2026.html"
+    },
+    {
+      "slug": "servicos-conservacao-limpeza-terceirizados-limeira",
+      "title": "Serviços de Limpeza Terceirizados em Limeira: O Que Avaliar Antes de Contratar",
+      "description": "Descubra como escolher a melhor empresa de limpeza terceirizada em Limeira, com dicas práticas e insights regionais.",
+      "date": "24 de mai. de 2026",
+      "isoDate": "2026-05-24",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1554774853-6a56f62c6451?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-24-servicos-conservacao-limpeza-terceirizados-limeira.html"
+    },
     {
       "slug": "portaria-especializada-americana-guia-contratar",
       "title": "Portaria Especializada em Americana: Guia Completo para Contratar",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-20-economia-criativa-movimenta-r-200-bilhoes-gera-5-milhoes-empregos.html"
-    },
-    {
-      "slug": "telemedicina-em-campinas-triplicando-atendimentos",
-      "title": "Telemedicina em Campinas: Triplicando Atendimentos nas Clínicas",
-      "description": "Descubra como a telemedicina transformou o atendimento em Campinas, triplicando consultas.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Saúde",
-      "tagCls": "saude",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-telemedicina-em-campinas-triplicando-atendimentos.html"
-    },
-    {
-      "slug": "industria-automotiva-investimento-veiculos-eletricos-2028",
-      "title": "Indústria automotiva investe R$ 12 bi em elétricos até 2028",
-      "description": "Setor automotivo brasileiro planeja R$ 12 bilhões em veículos elétricos até 2028 com apoio fiscal.",
-      "date": "19 de mai. de 2026",
-      "isoDate": "2026-05-19",
-      "tag": "Indústrias",
-      "tagCls": "industrias",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-19-industria-automotiva-investimento-veiculos-eletricos-2028.html"
     }
   ]
 }
