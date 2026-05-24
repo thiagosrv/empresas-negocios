@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-24T08:35:25.657Z",
+  "updated": "2026-05-24T10:44:09.239Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Parece hambúrguer, mas é doce: 'X-bolo' viraliza nas redes sociais",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/parece-hamburguer-mas-e-doce-x-bolo-viraliza-nas-redes-sociais.ghtml",
+        "summary": "X-bolo: sobremesa com aparência de fast-food viraliza nas redes sociais Um doce que imita um hambúrguer, feito com massa de bolo e recheios doces, viralizou nas redes sociais nos últimos dias. Conhecido como \"X-bolo\" ou ",
+        "image": "https://s2-g1.glbimg.com/gy1a1AZBunUazzih5i3FxxHbyP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/K/ReVVlYTEWAvFFNdiojFA/design-sem-nome-45-.jpg",
+        "date": "24 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Ypê diz que funcionários seguem em ações de adequação e descarta layoff ou férias coletivas após suspensão pela Anvisa",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/ype-diz-que-funcionarios-seguem-em-acoes-de-adequacao-e-descarta-layoff-ou-ferias-coletivas-apos-suspensao-pela-anvisa.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/comerciante-baleado-ao-reagir-a-assalto-em-campinas-diz-que-suspeito-ja-havia-tentado-roubar-o-estabelecimento-reconheci-ele.ghtml",
         "summary": "Comerciante baleado em Campinas diz que suspeito já tinha tentado assaltar bar O comerciante baleado de raspão durante uma tentativa de assalto a um bar na região do Taquaral, em Campinas (SP), recebeu alta hospitalar e ",
         "image": "https://s2-g1.glbimg.com/Kgo0jue_xNJ5aMS4QZxlbWElLw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/W/SGA4SmQt21gnSaa6V8mw/assalto-bar-cps.png",
-        "date": "23 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "'Não tinha como separar': casal morto em acidente 20 dias após casamento é sepultado junto no interior de SP",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/nao-tinha-como-separar-casal-morto-em-acidente-20-dias-apos-casamento-e-sepultado-junto-no-interior-de-sp.ghtml",
-        "summary": "Recém-casados mortos em acidente são velados e enterrados juntos em Itapira Familiares e amigos prestaram as últimas homenagens a Paola Talhatelli, de 18 anos, e Mathias Ambrosini, de 20, mortos em um acidente de trânsit",
-        "image": "https://s2-g1.glbimg.com/H7-5izCE3pD6KjejAtCD9yI8fvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/l/BvxMlxTK6M0LS6eTJmxA/design-sem-nome-1-.png",
         "date": "23 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,63 +185,123 @@
     ],
     "esportes": [
       {
-        "title": "Grêmio prepara a grama da Arena para o inverno; confira",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/gremio-prepara-a-grama-da-arena-para-o-inverno-confira/",
-        "summary": "Grêmio prepara a grama da Arena para o inverno; confira O post Grêmio prepara a grama da Arena para o inverno; confira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Grem.webp",
-        "date": "13 de mai. de 2026",
+        "title": "Neymar pede desculpa após agressão, e Robinho Jr. aceita: “Tudo resolvido”",
+        "link": "https://www.gazetaesportiva.com/times/santos/neymar-pede-desculpa-apos-agressao-e-robinho-jr-aceita-tudo-resolvido/",
+        "summary": "Neymar e Robinho Jr. enfim se pronunciaram sobre o episódio no treino do último domingo. Os dois jogadores explicaram a situação e colocaram um ponto final no entrevero com declarações na zona mista após o empate em 1 a ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/55252089294_f7882ebe07_k.webp",
+        "date": "06 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Marta faz o gol do Orlando Pride na derrota para o Boston Legacy; confira o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/marta-faz-o-gol-do-orlando-pride-na-derrota-para-o-boston-legacy-confira-o-lance/",
-        "summary": "Marta faz o gol do Orlando Pride na derrota para o Boston Legacy; confira o lance O post Marta faz o gol do Orlando Pride na derrota para o Boston Legacy; confira o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Ma.webp",
-        "date": "13 de mai. de 2026",
+        "title": "Cuca desabafa sobre desavença entre Neymar e Robinho Jr. e diz: Único que perde é o Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/cuca-desabafa-sobre-desavenca-entre-neymar-e-robinho-jr-e-diz-unico-que-perde-e-o-santos/",
+        "summary": "O técnico Cuca admitiu incômodo com o desentendimento entre Neymar e Robinho Jr., que culminou em uma notificação extrajudicial enviada ao Santos por parte do estafe do garoto. O treinador desabafou sobre a repercussão d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__A9XD9MB__v1__HighRes__FblSudamericanaRecoletaSantos.webp",
+        "date": "06 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos do empate entre Al-Kholood e Al Okhdood pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-do-empate-entre-al-kholood-e-al-okhdood-pela-liga-saudita/",
-        "summary": "Melhores momentos do empate entre Al-Kholood e Al Okhdood pela Liga Saudita O post Melhores momentos do empate entre Al-Kholood e Al Okhdood pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Al-Kholoo.webp",
-        "date": "13 de mai. de 2026",
+        "title": "Neymar abraça Robinho Jr em comemoração de gol; veja",
+        "link": "https://www.gazetaesportiva.com/times/santos/neymar-abraca-robinho-jr-em-comemoracao-de-gol-veja/",
+        "summary": "Neymar abraça Robinho Jr em comemoração de gol do Santos contra o Recoleta na Copa Sul-Americana. O post Neymar abraça Robinho Jr em comemoração de gol; veja apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/HHmbBuOW0AQtc1O.webp",
+        "date": "06 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Obras para a Copa do Mundo atrapalham vida de trabalhadoras sexuais no México",
-        "link": "https://www.gazetaesportiva.com/copa-do-mundo/copa-2026-obras-afetam-trabalhadoras-sexuais-mexico/",
-        "summary": "As obras para a Copa do Mundo de 2026 na Cidade do México estão impactando diretamente a rotina de trabalhadoras sexuais na avenida Tlalpan, próxima ao estádio Azteca. A construção de uma ciclovia e reformas urbanas redu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__A9ZR7KH__v1__HighRes__FblWc2026MexicoProstitution.webp",
-        "date": "13 de mai. de 2026",
+        "title": "Melhores momentos: Recoleta 1 x 1 Santos pela Copa Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/santos/melhores-momentos-recoleta-1-x-1-santos-pela-copa-sul-americana/",
+        "summary": "Veja os melhores momentos de Recoleta 1 x 1 Santos pela Copa Sul-Americana 2026. O post Melhores momentos: Recoleta 1 x 1 Santos pela Copa Sul-Americana apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__A9XD9MF__v1__HighRes__FblSudamericanaRecoletaSantos.webp",
+        "date": "06 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Minuto de silêncio no Camp Nou antes da vitória contra o Real Madri, veja bastidores",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/minuto-de-silencio-no-camp-nou-antes-da-vitoria-contra-o-real-madri-veja-bastidores/",
-        "summary": "Minuto de silêncio no Camp Nou antes do duelo contra o Real Madri, veja bastidores O post Minuto de silêncio no Camp Nou antes da vitória contra o Real Madri, veja bastidores apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Min.webp",
-        "date": "13 de mai. de 2026",
+        "title": "Pistons vencem Cavaliers na abertura das semifinais da Conferência Leste da NBA",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nba/pistons-encerram-tabu-contra-cavaliers-nos-playoffs-da-nba/",
+        "summary": "O Detroit Pistons venceu o Cleveland Cavaliers por 111 a 101 no jogo 1 das semifinais da Conferência Leste da NBA, encerrando uma sequência de 12 derrotas consecutivas nos playoffs contra o rival. Com defesa forte e atua",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__2274715275__v2__HighRes__ClevelandCavaliersVDetroitPistonsGameOne.webp",
+        "date": "06 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "O retorno emocionante de Maddison em sua primeira partida oficial pelo Tottenham em mais de um ano; veja",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-retorno-emocionante-de-maddison-em-sua-primeira-partida-oficial-pelo-tottenham-em-mais-de-um-ano-veja/",
-        "summary": "James Maddison agradeceu aos torcedores e aos companheiros de equipe após fazer sua primeira partida oficial desde o confronto em casa contra o Bodø/Glimt em 1º de maio do ano passado. O post O retorno emocionante de Mad",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Maddi.webp",
-        "date": "13 de mai. de 2026",
+        "title": "Luís Castro valoriza atuação do Grêmio após vitória e liderança na Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/gremio/luis-castro-gremio-analise-vitoria-sul-americana/",
+        "summary": "Luís Castro elogia postura do Grêmio após vitória sobre o Riestra e destaca evolução da equipe na temporada. O post Luís Castro valoriza atuação do Grêmio após vitória e liderança na Sul-Americana apareceu primeiro em Ga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260505__A9XD34C__v1__HighRes__FblSudamericanaRiestraGremio.webp",
+        "date": "06 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras aproveita expulsão, arrasa Flamengo e di...",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/16750913/palmeiras-aproveita-expulsao-arrasa-flamengo-maracana-abarrotado-dispara-lideranca-brasileirao",
+        "summary": "Flamengo e Palmeiras se enfrentaram em Maracanã lotado neste sábado (23)",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Arbitragem acertou na expulsão de Carrascal? Renat...",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/16751040/arbitragem-acertou-expulsao-carrascal-flamengo-x-palmeiras-veja-opiniao-renata-ruel",
+        "summary": "Carrascal foi expulso no primeiro tempo do jogo entre Flamengo e Palmeiras",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Paulinho explica comemoração que gerou confusão em...",
+        "link": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/16751478/paulinho-explica-comemoracao-gerou-confusao-flamengo-x-palmeiras-nao-quero-desrespeitar-a-instituicao-jamais",
+        "summary": "Paulinho pediu 'silêncio' após anotar o terceiro gol do Palmeiras contra o Flamengo, neste sábado, no Maracanã",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Carrascal pede desculpas por expulsão: 'Coração pa...",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/16751532/carrascal-pede-desculpas-expulsao-derrota-flamengo-palmeiras-coracao-partido",
+        "summary": "Carrascal foi expulso aos 20 minutos do primeiro tempo na derrota do Flamengo",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Knicks vencem Cavs fora de casa, abrem 3 a 0 e fic...",
+        "link": "https://www.espn.com.br/nba/artigo/_/id/16750754/nba-knicks-vencem-cavs-rocket-arena-abrem-3-a-0-ficam-uma-vitoria-finais",
+        "summary": "Com 30 pontos, Jalen Brunson foi o cestinha da partida e comandou a vitória dos Knicks",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Real encerra temporada melancólica com vitória e d...",
+        "link": "https://www.espn.com.br/futebol/laliga/artigo/_/id/16749460/real-madrid-vence-athletic-bilbao-encerra-temporada-melancolica-despedidas-bernabeu",
+        "summary": "Real Madrid fez 4 a 2 no Athletic Bilbao neste sábado (23) em LALIGA",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,6 +367,16 @@
         "cls": ""
       },
       {
+        "title": "Último fim de semana para declarar o Imposto de Renda 2026: veja o que é preciso",
+        "link": "https://www.infomoney.com.br/minhas-financas/ultimo-fim-de-semana-como-declarar-imposto-de-renda-2026/",
+        "summary": "A entrega da declaração fora do prazo gera automaticamente uma multa mínima de R$ 165,74, podendo chegar a 20% do imposto devido The post Último fim de semana para declarar o Imposto de Renda 2026: veja o que é preciso a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/mcm_9231.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Casa própria em tempos de juro alto: comprar agora ou esperar?",
         "link": "https://www.infomoney.com.br/onde-investir/casa-propria-em-tempos-de-juro-alto-comprar-agora-ou-esperar/",
         "summary": "Especialistas explicam quando faz sentido adiantar a compra, o que fazer com o dinheiro guardado e como evitar os erros mais comuns no caminho até a casa própria The post Casa própria em tempos de juro alto: comprar agor",
@@ -357,19 +427,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Quina hoje, concurso 7033: Confira o resultado sorteado neste sábado (23)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7033-confira-o-resultado-sorteado-neste-sabado-23/",
-        "summary": "O prêmio principal para este concurso era de R$ 2.063.576,82 The post Quina hoje, concurso 7033: Confira o resultado sorteado neste sábado (23) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
-        "date": "24 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cruzeiro x Chapecoense: veja horário e onde assistir ao jogo pelo Brasileirão",
-        "link": "https://exame.com/esporte/cruzeiro-x-chapecoense-veja-horario-e-onde-assistir-ao-jogo-pelo-brasileirao/",
-        "summary": "Equipes se enfrentam neste domingo, 24, no Mineirão, pela 17ª rodada do Campeonato Brasileiro",
+        "title": "Seguradoras e bancos atrasam avanço da sustentabilidade na construção, diz setor",
+        "link": "https://exame.com/esg/seguradoras-e-bancos-atrasam-avanco-da-sustentabilidade-na-construcao-diz-setor/",
+        "summary": "Barômetro da Construção Sustentável 2026 avalia que falta de clareza sobre retorno financeiro é entrave para avanço da adaptação e resiliência",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "O erro que fez físicos acreditarem em uma nova força da natureza",
-        "link": "https://exame.com/ciencia/o-erro-que-fez-fisicos-acreditarem-em-uma-nova-forca-da-natureza/",
-        "summary": "Novo cálculo do múon sugere que discrepância histórica surgiu de limitações matemáticas",
+        "title": "Vasco x Bragantino: onde assistir ao vivo e horário",
+        "link": "https://exame.com/esporte/vasco-x-bragantino-onde-assistir-ao-vivo-e-horario/",
+        "summary": "As duas equipes chegam em momentos problemáticos da temporada para o duelo",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "CEOs e IA: as decisões que separam empresas que crescem das que travam",
-        "link": "https://exame.com/inteligencia-artificial/ceos-e-ia-as-decisoes-que-separam-empresas-que-crescem-das-que-travam/",
-        "summary": "A adoção da inteligência artificial deixou de ser apenas uma questão tecnológica e passou a influenciar produtividade, competitividade e velocidade de adaptação das empresas",
+        "title": "SoftBank ganha US$ 61 bi com aposta dupla em IA",
+        "link": "https://exame.com/invest/mercados/softbank-ganha-us-61-bi-com-aposta-dupla-em-ia/",
+        "summary": "Grupo japonês disparou na bolsa após resultados da Nvidia e expectativa de IPO da OpenAI, empresas ligadas às apostas de Masayoshi Son",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Juventus x Torino: horário, onde assistir e cenário do jogo",
-        "link": "https://exame.com/esporte/juventus-x-torino-horario-onde-assistir-e-cenario-do-jogo/",
-        "summary": "Clássico de Turim encerra a temporada das equipes neste sábado, 23, pela última rodada do Campeonato Italiano",
+        "title": "Regulação da IA no Brasil: o que a nova lei muda para sua empresa",
+        "link": "https://exame.com/internacional/regulacao-da-ia-no-brasil-o-que-a-nova-lei-muda-para-sua-empresa/",
+        "summary": "Discussões sobre regulamentação da inteligência artificial avançam no Brasil e podem impactar desde o uso de dados até decisões automatizadas dentro das empresas",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Napoli x Udinese: horário, onde assistir e cenário do jogo",
-        "link": "https://exame.com/esporte/napoli-x-udinese-horario-onde-assistir-e-cenario-do-jogo/",
-        "summary": "Napoli ainda sonha com o título italiano e recebe a Udinese na última rodada da Serie A",
+        "title": "A nova obsessão financeira da Geração Z não é riqueza: é estabilidade",
+        "link": "https://exame.com/invest/minhas-financas/a-nova-obsessao-financeira-da-geracao-z-nao-e-riqueza-e-estabilidade/",
+        "summary": "Em meio à inflação, burnout e insegurança econômica, a Geração Z troca a promessa de enriquecimento acelerado pela busca de estabilidade emocional, financeira e profissional",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Hellas Verona x Roma: horário, onde assistir e cenário do jogo",
-        "link": "https://exame.com/esporte/hellas-verona-x-roma-horario-onde-assistir-e-cenario-do-jogo/",
-        "summary": "Roma tenta confirmar vaga na Champions League contra o já rebaixado Hellas Verona",
+        "title": "Startups: a nova fase de maturidade dos empreendedores brasileiros",
+        "link": "https://exame.com/bussola/como-o-perfil-do-empreendedor-de-startup-esta-evoluindo-no-brasil/",
+        "summary": "Novo cenário exige eficiência financeira, uso estratégico de IA e modelos de negócio sustentáveis de fundadores preparados",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
