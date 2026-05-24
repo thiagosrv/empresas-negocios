@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-24T05:04:08.021Z",
+  "updated": "2026-05-24T08:35:25.657Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Ypê diz que funcionários seguem em ações de adequação e descarta layoff ou férias coletivas após suspensão pela Anvisa",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/ype-diz-que-funcionarios-seguem-em-acoes-de-adequacao-e-descarta-layoff-ou-ferias-coletivas-apos-suspensao-pela-anvisa.ghtml",
+        "summary": "Ypê diz que vai reembolsar consumidores por produtos suspensos pela Anvisa A Ypê afirmou neste sábado (24) que não avalia, neste momento, medidas como layoff ou férias coletivas para os funcionários que atuam nas linhas ",
+        "image": "https://s2-g1.glbimg.com/Q3_GBXR441oPgCmzY417ELnKDwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/36QzL0RnWQxYmutcF7Sg/1778545435446016.jpg",
+        "date": "24 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Dia D da Campanha do Agasalho arrecada 18,9 toneladas nas regiões de Campinas e Piracicaba; veja como doar",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/dia-d-da-campanha-do-agasalho-arrecada-189-toneladas-na-regiao-de-campinas-e-piracicaba-veja-como-doar.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/nao-tinha-como-separar-casal-morto-em-acidente-20-dias-apos-casamento-e-sepultado-junto-no-interior-de-sp.ghtml",
         "summary": "Recém-casados mortos em acidente são velados e enterrados juntos em Itapira Familiares e amigos prestaram as últimas homenagens a Paola Talhatelli, de 18 anos, e Mathias Ambrosini, de 20, mortos em um acidente de trânsit",
         "image": "https://s2-g1.glbimg.com/H7-5izCE3pD6KjejAtCD9yI8fvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/l/BvxMlxTK6M0LS6eTJmxA/design-sem-nome-1-.png",
-        "date": "23 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Carro bate em árvore e causa interdição em avenida de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/23/carro-bate-em-arvore-e-causa-interdicao-em-avenida-de-campinas.ghtml",
-        "summary": "Uma carro colidiu contra uma árvore na Avenida Alberto Medaljon, em Campinas (SP), Daniel Borges Um carro colidiu contra uma árvore na Avenida Alberto Medaljon, em Campinas (SP), na manhã deste sábado (27). O acidente, q",
-        "image": "https://s2-g1.glbimg.com/J_P9drdFy-eWduug7vxclAwrE6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/e/GklFctT0y2BklhRbDlbA/design-sem-nome-44-.jpg",
         "date": "23 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -243,66 +243,6 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Palmeiras aproveita expulsão, arrasa Flamengo e di...",
-        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/16750913/palmeiras-aproveita-expulsao-arrasa-flamengo-maracana-abarrotado-dispara-lideranca-brasileirao",
-        "summary": "Flamengo e Palmeiras se enfrentaram em Maracanã lotado neste sábado (23)",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Arbitragem acertou na expulsão de Carrascal? Renat...",
-        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/16751040/arbitragem-acertou-expulsao-carrascal-flamengo-x-palmeiras-veja-opiniao-renata-ruel",
-        "summary": "Carrascal foi expulso no primeiro tempo do jogo entre Flamengo e Palmeiras",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Paulinho explica comemoração que gerou confusão em...",
-        "link": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/16751478/paulinho-explica-comemoracao-gerou-confusao-flamengo-x-palmeiras-nao-quero-desrespeitar-a-instituicao-jamais",
-        "summary": "Paulinho pediu 'silêncio' após anotar o terceiro gol do Palmeiras contra o Flamengo, neste sábado, no Maracanã",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Carrascal pede desculpas por expulsão: 'Coração pa...",
-        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/16751532/carrascal-pede-desculpas-expulsao-derrota-flamengo-palmeiras-coracao-partido",
-        "summary": "Carrascal foi expulso aos 20 minutos do primeiro tempo na derrota do Flamengo",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Knicks vencem Cavs fora de casa, abrem 3 a 0 e fic...",
-        "link": "https://www.espn.com.br/nba/artigo/_/id/16750754/nba-knicks-vencem-cavs-rocket-arena-abrem-3-a-0-ficam-uma-vitoria-finais",
-        "summary": "Com 30 pontos, Jalen Brunson foi o cestinha da partida e comandou a vitória dos Knicks",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Real encerra temporada melancólica com vitória e d...",
-        "link": "https://www.espn.com.br/futebol/laliga/artigo/_/id/16749460/real-madrid-vence-athletic-bilbao-encerra-temporada-melancolica-despedidas-bernabeu",
-        "summary": "Real Madrid fez 4 a 2 no Athletic Bilbao neste sábado (23) em LALIGA",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
       }
     ],
     "negocios": [
@@ -367,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Casa própria em tempos de juro alto: comprar agora ou esperar?",
+        "link": "https://www.infomoney.com.br/onde-investir/casa-propria-em-tempos-de-juro-alto-comprar-agora-ou-esperar/",
+        "summary": "Especialistas explicam quando faz sentido adiantar a compra, o que fazer com o dinheiro guardado e como evitar os erros mais comuns no caminho até a casa própria The post Casa própria em tempos de juro alto: comprar agor",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/19907.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Conflitos societários crescem com estresse financeiro, choque geracional e legislação",
+        "link": "https://www.infomoney.com.br/business/conflitos-societarios-crescem-com-estresse-financeiro-choque-geracional-e-legislacao/",
+        "summary": "Após queda em 2023, número subiu ano a ano e reforça cenário de mais litígios envolvendo sócios The post Conflitos societários crescem com estresse financeiro, choque geracional e legislação appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/hammer-802298_1280.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "24 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mapa de Risco: Crise de Flávio expõe dependência da direita em relação à Bolsonaro?",
+        "link": "https://www.infomoney.com.br/politica/mapa-de-risco-crise-de-flavio-expoe-dependencia-da-direita-em-relacao-a-bolsonaro/",
+        "summary": "Mesmo desgastado pelo caso Master, senador segue visto como único nome capaz de unificar o bolsonarismo, dizem especialistas The post Mapa de Risco: Crise de Flávio expõe dependência da direita em relação à Bolsonaro? ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/FAB_9294.JPG.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Grupo Mateus: após demissão de 6 mil no trimestre, o que acontece com varejista?",
+        "link": "https://www.infomoney.com.br/mercados/grupo-mateus-apos-demissao-de-6-mil-no-trimestre-o-que-acontece-com-varejista/",
+        "summary": "Supermercadista reportou resultados na última semana da temporada de balanços The post Grupo Mateus: após demissão de 6 mil no trimestre, o que acontece com varejista? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/mix_mateus.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Trump enfrenta 4ª ameaça armada em menos de 2 anos após tiroteio perto da Casa Branca",
         "link": "https://www.infomoney.com.br/mundo/trump-enfrenta-4a-ameaca-armada-em-menos-de-2-anos-apos-tiroteio-perto-da-casa-branca/",
         "summary": "Durante a campanha de 2024, ele sobreviveu a duas tentativas de assassinato The post Trump enfrenta 4ª ameaça armada em menos de 2 anos após tiroteio perto da Casa Branca appeared first on InfoMoney.",
@@ -387,101 +367,61 @@
         "cls": "brasil"
       },
       {
-        "title": "Lotofácil hoje, concurso 3693: Confira o resultado sorteado neste sábado (23)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3693-confira-o-resultado-sorteado-neste-sabado-16/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3693: Confira o resultado sorteado neste sábado (23) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Cruzeiro x Chapecoense: veja horário e onde assistir ao jogo pelo Brasileirão",
+        "link": "https://exame.com/esporte/cruzeiro-x-chapecoense-veja-horario-e-onde-assistir-ao-jogo-pelo-brasileirao/",
+        "summary": "Equipes se enfrentam neste domingo, 24, no Mineirão, pela 17ª rodada do Campeonato Brasileiro",
+        "image": null,
         "date": "24 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quem foi o fisiculturista e influenciador Gabriel Ganley que morreu aos 22 anos",
-        "link": "https://www.infomoney.com.br/mercados/quem-foi-o-fisiculturista-e-influenciador-gabriel-ganley-que-morreu-aos-22-anos/",
-        "summary": "O jovem cresceu nas redes sociais publicando conteúdos para motivar jovens a fazerem exercícios The post Quem foi o fisiculturista e influenciador Gabriel Ganley que morreu aos 22 anos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/captura-de-tela-2026-05-23-174857.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
-        "date": "23 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Disparos nas proximidades da Casa Branca mobilizam Serviço Secreto dos EUA",
-        "link": "https://www.infomoney.com.br/mundo/disparos-nas-proximidades-da-casa-branca-mobilizam-servico-secreto-dos-eua/",
-        "summary": "O presidente dos EUA, Donald Trump, estava na Casa Branca no momento do tiroteio The post Disparos nas proximidades da Casa Branca mobilizam Serviço Secreto dos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-15T000916Z_1_LYNXNPEL9E009_RTROPTP_4_USA-TRUMP-HUMANITIES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "23 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Na reta final, 30% ainda não enviaram declaração do Imposto de Renda",
-        "link": "https://www.infomoney.com.br/minhas-financas/na-reta-final-30-ainda-nao-enviaram-declaracao-do-imposto-de-renda/",
-        "summary": "Receita Federal recebeu 30,7 milhões de documentos desde o início da entrega The post Na reta final, 30% ainda não enviaram declaração do Imposto de Renda appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Imposto-de-Renda.jpg?fit=300%2C223&amp;quality=70&amp;strip=all",
-        "date": "23 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Disparos no entorno da Casa Branca provocam bloqueio de segurança e mobilizam autoridades dos EUA",
-        "link": "https://exame.com/mundo/disparos-no-entorno-da-casa-branca-provocam-bloqueio-de-seguranca-e-mobilizam-autoridades-dos-eua/",
-        "summary": "Incidente nas proximidades da sede do governo norte-americano levou autoridades a isolarem a região",
-        "image": null,
-        "date": "23 de mai. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Brasil tem posição privilegiada na transição energética e precisa aproveitar cenário favorável",
-        "link": "https://exame.com/esferabrasil/brasil-tem-posicao-privilegiada-na-transicao-energetica-e-precisa-aproveitar-cenario-favoravel/",
-        "summary": "Com a demanda crescente por energia, discutir a origem desses combustíveis é essencial para pensar no futuro do país",
+        "title": "O erro que fez físicos acreditarem em uma nova força da natureza",
+        "link": "https://exame.com/ciencia/o-erro-que-fez-fisicos-acreditarem-em-uma-nova-forca-da-natureza/",
+        "summary": "Novo cálculo do múon sugere que discrepância histórica surgiu de limitações matemáticas",
         "image": null,
-        "date": "23 de mai. de 2026",
+        "date": "24 de mai. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "F1: Russell lidera treino classificatório e garante pole do GP do Canadá",
-        "link": "https://exame.com/esporte/f1-russell-lidera-treino-classificatorio-e-garante-pole-do-gp-do-canada/",
-        "summary": "Piloto da Mercedes liderou treino classificatório em Montreal",
+        "title": "CEOs e IA: as decisões que separam empresas que crescem das que travam",
+        "link": "https://exame.com/inteligencia-artificial/ceos-e-ia-as-decisoes-que-separam-empresas-que-crescem-das-que-travam/",
+        "summary": "A adoção da inteligência artificial deixou de ser apenas uma questão tecnológica e passou a influenciar produtividade, competitividade e velocidade de adaptação das empresas",
         "image": null,
-        "date": "23 de mai. de 2026",
+        "date": "24 de mai. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Trump diz que acordo para encerrar guerra com Irã está próximo",
-        "link": "https://exame.com/mundo/trump-diz-que-acordo-para-encerrar-guerra-com-ira-esta-proximo/",
-        "summary": "Presidente americano afirma que memorando de entendimento está em fase final; Teerã também fala em aproximação entre as partes",
+        "title": "Juventus x Torino: horário, onde assistir e cenário do jogo",
+        "link": "https://exame.com/esporte/juventus-x-torino-horario-onde-assistir-e-cenario-do-jogo/",
+        "summary": "Clássico de Turim encerra a temporada das equipes neste sábado, 23, pela última rodada do Campeonato Italiano",
         "image": null,
-        "date": "23 de mai. de 2026",
+        "date": "24 de mai. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Caixa aumenta prêmio e Mega 30 anos sorteia R$ 320 milhões neste domingo",
-        "link": "https://exame.com/invest/minhas-financas/caixa-aumenta-premio-e-mega-30-anos-sorteia-r-320-milhoes-neste-domingo/",
-        "summary": "Prêmio não acumula e, caso ninguém acerte as seis dezenas, valor será repassado para vencedores da quina e da quadra",
+        "title": "Napoli x Udinese: horário, onde assistir e cenário do jogo",
+        "link": "https://exame.com/esporte/napoli-x-udinese-horario-onde-assistir-e-cenario-do-jogo/",
+        "summary": "Napoli ainda sonha com o título italiano e recebe a Udinese na última rodada da Serie A",
         "image": null,
-        "date": "23 de mai. de 2026",
+        "date": "24 de mai. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Irã troca EUA por México na Copa do Mundo 2026 para driblar visto",
-        "link": "https://exame.com/esporte/ira-troca-eua-por-mexico-na-copa-do-mundo-2026-para-driblar-visto/",
-        "summary": "Para evitar problemas com vistos americanos, a seleção do Irã obteve aprovação da Fifa para transferir sua concentração da Copa do Mundo 2026 do Arizona para Tijuana, no México",
+        "title": "Hellas Verona x Roma: horário, onde assistir e cenário do jogo",
+        "link": "https://exame.com/esporte/hellas-verona-x-roma-horario-onde-assistir-e-cenario-do-jogo/",
+        "summary": "Roma tenta confirmar vaga na Champions League contra o já rebaixado Hellas Verona",
         "image": null,
-        "date": "23 de mai. de 2026",
+        "date": "24 de mai. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
