@@ -1552,3 +1552,381 @@ img { max-width: 100%; height: auto; }
 
   .back-to-top     { bottom: 70px; right: 10px; width: 36px; height: 36px; font-size: 16px; }
 }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Category Hero Gradients
+   Cada editoria tem identidade visual própria
+═══════════════════════════════════════════════════════════════════════════════ */
+
+/* Base aprimorada */
+.page-hero {
+  padding: 44px 0 40px;
+  position: relative;
+  overflow: hidden;
+}
+.page-hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,.18);
+  pointer-events: none;
+}
+.page-hero .container { position: relative; z-index: 1; }
+.page-hero h1 {
+  font-size: 36px;
+  font-weight: 900;
+  letter-spacing: -0.5px;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 8px rgba(0,0,0,.3);
+}
+.page-hero .breadcrumb {
+  font-size: 12px;
+  color: rgba(255,255,255,.65);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.page-hero .breadcrumb a { color: rgba(255,255,255,.65); }
+.page-hero .breadcrumb a:hover { color: #fff; }
+.page-hero .tag {
+  font-size: 11px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: rgba(255,255,255,.2);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,.3);
+  color: #fff;
+}
+
+/* Gradientes por editoria */
+.page-hero--novidades  { background: linear-gradient(135deg, #1a1a2e 0%, #c0392b 100%); }
+.page-hero--startups   { background: linear-gradient(135deg, #064e3b 0%, #10b981 100%); }
+.page-hero--tecnologia { background: linear-gradient(135deg, #1e3a8a 0%, #60a5fa 100%); }
+.page-hero--brasil     { background: linear-gradient(135deg, #78350f 0%, #f59e0b 100%); }
+.page-hero--mundo      { background: linear-gradient(135deg, #1e1b4b 0%, #818cf8 100%); }
+.page-hero--servicos   { background: linear-gradient(135deg, #7c2d12 0%, #fb923c 100%); }
+.page-hero--industrias { background: linear-gradient(135deg, #365314 0%, #a3e635 100%); }
+.page-hero--saude      { background: linear-gradient(135deg, #831843 0%, #f472b6 100%); }
+.page-hero--sociedade  { background: linear-gradient(135deg, #1e293b 0%, #64748b 100%); }
+.page-hero--cultura    { background: linear-gradient(135deg, #7f1d1d 0%, #f87171 100%); }
+.page-hero--campinas   { background: linear-gradient(135deg, #0c4a6e 0%, #38bdf8 100%); }
+.page-hero--vagas      { background: linear-gradient(135deg, #4c1d95 0%, #a78bfa 100%); }
+.page-hero--esportes   { background: linear-gradient(135deg, #14532d 0%, #4ade80 100%); }
+.page-hero--futebol    { background: linear-gradient(135deg, #14532d 0%, #16a34a 100%); }
+.page-hero--local      { background: linear-gradient(135deg, #0f172a 0%, #334155 100%); }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Card com tag sobreposta à imagem
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.card-img-wrap {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+.card-img-wrap img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  transition: transform .4s ease;
+}
+.card:hover .card-img-wrap img { transform: scale(1.04); }
+
+.card-tag-over {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 9px;
+  padding: 3px 8px;
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,.25);
+  box-shadow: 0 2px 8px rgba(0,0,0,.2);
+  margin-bottom: 0;
+  z-index: 2;
+}
+
+/* Remover tag duplicada do card-body quando usando card-img-wrap */
+.card .card-body > .tag:not(.card-tag-over) { display: none; }
+
+/* Cards sem card-img-wrap (hero-secondary, card-h) mantêm tag normal */
+.hero-secondary .tag,
+.card-h .tag { display: inline-block !important; margin-bottom: 6px; }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Card Destaque (primeiro artigo de cada categoria)
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.featured-section { margin-bottom: 40px; }
+
+.card-featured {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  background: var(--white);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 2px 20px rgba(0,0,0,.08);
+  margin-bottom: 32px;
+  transition: box-shadow .25s, transform .25s;
+  border: 1px solid rgba(0,0,0,.04);
+}
+.card-featured:hover {
+  box-shadow: 0 8px 40px rgba(0,0,0,.13);
+  transform: translateY(-2px);
+}
+
+.card-featured-img {
+  display: block;
+  overflow: hidden;
+  min-height: 320px;
+}
+.card-featured-img img {
+  width: 100%;
+  height: 100%;
+  min-height: 320px;
+  object-fit: cover;
+  transition: transform .5s ease;
+}
+.card-featured:hover .card-featured-img img { transform: scale(1.04); }
+
+.card-featured-body {
+  padding: 36px 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0;
+}
+.card-featured-body .tag {
+  margin-bottom: 14px;
+  font-size: 10px;
+  padding: 4px 12px;
+  border-radius: 20px;
+}
+
+.card-featured-title {
+  font-size: 23px;
+  font-weight: 800;
+  line-height: 1.3;
+  color: var(--dark);
+  margin-bottom: 14px;
+  letter-spacing: -0.3px;
+  font-family: var(--font-main);
+}
+.card-featured-title:hover { color: var(--accent); }
+
+.card-featured-desc {
+  font-size: 14px;
+  color: var(--gray);
+  line-height: 1.7;
+  margin-bottom: 20px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-featured-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  padding: 10px 0;
+  border-bottom: 2px solid var(--accent);
+  width: fit-content;
+  transition: gap .2s, opacity .2s;
+}
+.card-featured-cta:hover { gap: 10px; color: var(--accent-dark); border-color: var(--accent-dark); }
+
+/* Responsivo: stacked em telas menores */
+@media (max-width: 860px) {
+  .card-featured            { grid-template-columns: 1fr; }
+  .card-featured-img        { min-height: 240px; }
+  .card-featured-img img    { min-height: 240px; height: 240px; }
+  .card-featured-body       { padding: 24px 22px; }
+  .card-featured-title      { font-size: 19px; }
+}
+@media (max-width: 560px) {
+  .card-featured-img        { min-height: 195px; }
+  .card-featured-img img    { min-height: 195px; height: 195px; }
+  .card-featured-body       { padding: 18px 16px; }
+  .card-featured-title      { font-size: 17px; }
+  .card-featured-desc       { -webkit-line-clamp: 2; }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Section Header refinado
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.section-header {
+  border-left: 4px solid var(--accent);
+  padding: 4px 0 4px 14px;
+  margin-bottom: 24px;
+}
+.section-header h2 {
+  font-size: 15px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .8px;
+  color: var(--dark);
+  line-height: 1;
+}
+.section-header small {
+  display: block;
+  font-size: 11px;
+  color: var(--gray-light);
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  margin-top: 3px;
+}
+.section-header a {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: .6px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+}
+.section-header a:hover { gap: 7px; }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Cards com visual mais refinado
+═══════════════════════════════════════════════════════════════════════════════ */
+
+/* Card normal: borda superior colorida visível sempre (não apenas hover) */
+.card {
+  border-top: 3px solid var(--border);
+  border-radius: 10px;
+}
+.card:has(.card-tag-over.startups)  { border-top-color: var(--tag-startups); }
+.card:has(.card-tag-over.tecnologia) { border-top-color: var(--tag-tech); }
+.card:has(.card-tag-over.saude)     { border-top-color: var(--tag-saude); }
+.card:has(.card-tag-over.industrias) { border-top-color: var(--tag-industrias); }
+.card:has(.card-tag-over.brasil)    { border-top-color: var(--tag-brasil); }
+.card:has(.card-tag-over.mundo)     { border-top-color: var(--tag-mundo); }
+.card:has(.card-tag-over.servicos)  { border-top-color: var(--tag-servicos); }
+.card:has(.card-tag-over.sociedade) { border-top-color: var(--tag-sociedade); }
+.card:has(.card-tag-over.cultura)   { border-top-color: var(--tag-cultura); }
+.card:has(.card-tag-over.futebol)   { border-top-color: var(--tag-futebol); }
+
+/* Title refinado */
+.card .card-title {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--dark);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+/* Tag global: pill shape */
+.tag {
+  border-radius: 20px;
+  font-size: 9px;
+  letter-spacing: .8px;
+  padding: 3px 9px;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Sidebar Widgets refinados
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.sidebar-widget {
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.06);
+  box-shadow: 0 1px 4px rgba(0,0,0,.06);
+}
+
+.widget-header {
+  background: transparent;
+  color: var(--dark);
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .8px;
+  padding: 14px 18px 10px;
+  border-bottom: 2px solid var(--accent);
+}
+
+.newsletter-widget .widget-header {
+  background: var(--accent);
+  color: var(--white);
+  border-bottom: none;
+  padding: 12px 18px;
+}
+
+/* Trending números mais elegantes */
+.trending-num {
+  font-size: 18px;
+  font-weight: 900;
+  color: var(--border);
+  min-width: 24px;
+  line-height: 1;
+}
+.trending-item:first-child .trending-num { color: var(--accent); }
+.trending-item:nth-child(2) .trending-num { color: #e67e22; }
+.trending-item:nth-child(3) .trending-num { color: #27ae60; }
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Category Grid 3 colunas refinado
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+@media (max-width: 1100px) {
+  .category-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .category-grid { grid-template-columns: 1fr; }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Footer upgrade
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.site-footer {
+  background: #0d0d0d;
+}
+.footer-col h4 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 10px;
+}
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,.07);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PREMIUM UI — Back-to-top pill shape
+═══════════════════════════════════════════════════════════════════════════════ */
+
+.back-to-top {
+  border-radius: 24px;
+  width: auto;
+  padding: 8px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: .3px;
+}
+

@@ -25,9 +25,9 @@
     const href = articleUrl(a);
     const img  = a.image || FALLBACK;
     return '<article class="card">'
-      + '<a href="' + href + '"><img src="' + img + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK + '\'" /></a>'
+      + '<a href="' + href + '" class="card-img-wrap"><img src="' + img + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK + '\'" />'
+      + '<span class="card-tag-over tag ' + (a.tagCls || '') + '">' + (a.tag || 'Artigo') + '</span></a>'
       + '<div class="card-body">'
-      + '<span class="tag ' + (a.tagCls || '') + '">' + (a.tag || 'Artigo') + '</span>'
       + '<a href="' + href + '" class="card-title">' + a.title + '</a>'
       + (a.description ? '<p class="card-summary">' + a.description + '</p>' : '')
       + '<div class="meta"><time>' + a.date + '</time><span class="dot"></span><span>' + (a.readMin || 5) + ' min</span></div>'
@@ -44,6 +44,23 @@
       + '<span class="tag ' + (a.tagCls || '') + '">' + (a.tag || 'Artigo') + '</span>'
       + '<a href="' + href + '" class="card-title">' + a.title + '</a>'
       + '<div class="meta"><time>' + a.date + '</time><span class="dot"></span><span>' + (a.readMin || 5) + ' min</span></div>'
+      + '</div></article>';
+  }
+
+  // ─── CARD em DESTAQUE (primeiro artigo da categoria) ────────────────────────
+  function buildFeaturedCard(a) {
+    const href = articleUrl(a);
+    const img  = a.image || FALLBACK;
+    return '<article class="card-featured">'
+      + '<a href="' + href + '" class="card-featured-img"><img src="' + img + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK + '\'" /></a>'
+      + '<div class="card-featured-body">'
+      + '<span class="tag ' + (a.tagCls || '') + '">' + (a.tag || 'Artigo') + '</span>'
+      + '<a href="' + href + '"><h2 class="card-featured-title">' + a.title + '</h2></a>'
+      + (a.description ? '<p class="card-featured-desc">' + a.description + '</p>' : '')
+      + '<div class="meta"><span class="author">Redação E&amp;N</span><span class="dot"></span>'
+      + '<time>' + a.date + '</time><span class="dot"></span>'
+      + '<span>' + (a.readMin || 5) + ' min de leitura</span></div>'
+      + '<a href="' + href + '" class="card-featured-cta">Ler artigo completo →</a>'
       + '</div></article>';
   }
 
@@ -81,12 +98,24 @@
     return html;
   }
 
+  // ─── LAYOUT FEATURED (1 destaque + grid com o resto) ────────────────────────
+  function buildFeaturedLayout(articles) {
+    if (!articles.length) return '';
+    let html = buildFeaturedCard(articles[0]);
+    const rest = articles.slice(1);
+    if (rest.length) {
+      html += '<div class="category-grid">' + rest.map(buildCard).join('') + '</div>';
+    }
+    return html;
+  }
+
   // ─── ESTADO VAZIO ────────────────────────────────────────────────────────────
-  function emptyState() {
-    return '<div style="grid-column:1/-1;padding:40px 0;text-align:center;color:var(--gray);">'
-      + '<p style="font-size:32px;margin-bottom:12px;">📝</p>'
-      + '<p style="font-weight:600;margin-bottom:6px;">Novos artigos em breve</p>'
-      + '<p style="font-size:14px;">Nossa equipe publica conteúdo diariamente sobre negócios, tecnologia e economia.</p>'
+  function emptyState(tag) {
+    return '<div style="grid-column:1/-1;padding:60px 0;text-align:center;color:var(--gray);">'
+      + '<p style="font-size:40px;margin-bottom:16px;">📰</p>'
+      + '<p style="font-weight:700;font-size:16px;margin-bottom:8px;">Novos artigos em breve</p>'
+      + '<p style="font-size:14px;color:var(--gray-light);">Nossa equipe publica conteúdo sobre '
+      + (tag || 'negócios e economia') + ' diariamente.</p>'
       + '</div>';
   }
 
@@ -96,8 +125,9 @@
     if (!el) return;
 
     const max    = (opts && opts.max)    ? opts.max    : 6;
-    const tag    = (opts && opts.tag)    ? opts.tag    : null;    // filtro por tag/editoria
-    const layout = (opts && opts.layout) ? opts.layout : 'card';  // card | card-h | hero
+    const tag    = (opts && opts.tag)    ? opts.tag    : null;    // filtro exato por tag
+    const tagCls = (opts && opts.tagCls) ? opts.tagCls : null;    // filtro por tagCls (categoria)
+    const layout = (opts && opts.layout) ? opts.layout : 'card';  // card | card-h | hero | featured
 
     el.innerHTML = '<div class="rss-loader"><div class="spinner"></div><span>Carregando…</span></div>';
 
@@ -105,19 +135,29 @@
       const data     = await getData();
       let   articles = data.articles || [];
 
-      // Filtra por tag, se especificado
+      // Filtro por tag exata (nome da editoria)
       if (tag) {
         articles = articles.filter(function (a) { return a.tag === tag; });
+      }
+
+      // Filtro por tagCls (cobre múltiplas tags da mesma categoria)
+      // Ex: servicos cobre "Serviços", "Facilities", "Portaria", etc.
+      if (tagCls) {
+        articles = articles.filter(function (a) { return a.tagCls === tagCls; });
       }
 
       articles = articles.slice(0, max);
 
       if (!articles.length) {
-        el.innerHTML = emptyState();
+        el.innerHTML = emptyState(tag || tagCls);
         return;
       }
 
-      if (layout === 'hero') {
+      if (layout === 'featured') {
+        el.className = 'featured-section';
+        el.innerHTML = buildFeaturedLayout(articles);
+
+      } else if (layout === 'hero') {
         el.className = 'hero-grid';
         el.innerHTML = buildHeroSection(articles);
 
@@ -126,8 +166,7 @@
         el.innerHTML = articles.map(buildCardH).join('');
 
       } else {
-        // layout === 'card' — mantém a classe que já estava no HTML,
-        // ou aplica 'news-grid' como padrão
+        // layout === 'card'
         if (!el.className || el.className === 'rss-loader') {
           el.className = 'news-grid';
         }
@@ -142,16 +181,16 @@
 
   // ─── AUTO-INIT via atributos data- ───────────────────────────────────────────
   // Uso no HTML:
-  //   <div id="home-recentes"  class="news-grid"    data-artigos="4"></div>
-  //   <div id="home-startups"  class="category-row" data-artigos="3" data-artigos-tag="Startups"></div>
-  //   <div id="home-tecnologia"                     data-artigos="3" data-artigos-tag="Tecnologia" data-artigos-layout="card-h"></div>
-  //   <div id="home-hero"                           data-artigos="3" data-artigos-layout="hero"></div>
+  //   <div id="artigos-recentes" data-artigos="12" data-artigos-tag="Startups" data-artigos-layout="featured"></div>
+  //   <div id="artigos-recentes" data-artigos="12" data-artigos-tagcls="servicos" data-artigos-layout="featured"></div>
+  //   <div id="home-hero"        data-artigos="3"  data-artigos-layout="hero"></div>
   document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('[data-artigos]').forEach(function (el) {
       var max    = parseInt(el.dataset.artigos, 10)       || 6;
       var tag    = el.dataset.artigosTag                  || null;
+      var tagCls = el.dataset.artigosTagcls               || null;
       var layout = el.dataset.artigosLayout               || 'card';
-      loadArtigos(el.id, { max: max, tag: tag, layout: layout });
+      loadArtigos(el.id, { max: max, tag: tag, tagCls: tagCls, layout: layout });
     });
   });
 
