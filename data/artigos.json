@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-24T11:18:16.816Z",
+  "updated": "2026-05-25T13:30:32.288Z",
   "articles": [
+    {
+      "slug": "cultura-de-inovacao-retencao-talentos-resultados",
+      "title": "Cultura de Inovação: Criar Ambientes Criativos que Retêm Talentos",
+      "description": "Descubra como a cultura de inovação pode reter talentos e gerar resultados em empresas brasileiras.",
+      "date": "25 de mai. de 2026",
+      "isoDate": "2026-05-25",
+      "tag": "Cultura",
+      "tagCls": "cultura",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-25-cultura-de-inovacao-retencao-talentos-resultados.html"
+    },
+    {
+      "slug": "gestao-integrada-facilities-esg-interior-sp",
+      "title": "Gestão Integrada de Facilities: ESG em Ação no Interior de SP",
+      "description": "Como empresas de Americana e Campinas integram ESG nos serviços de facilities.",
+      "date": "25 de mai. de 2026",
+      "isoDate": "2026-05-25",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-25-gestao-integrada-facilities-esg-interior-sp.html"
+    },
     {
       "slug": "economia-criativa-brasil-200-bi-5-mi-empregos-2026",
       "title": "Economia Criativa no Brasil: R$ 200 Bi e 5 Mi de Empregos em 2026",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-20-telemedicina-em-campinas-triplica-atendimentos.html"
-    },
-    {
-      "slug": "industria-automotiva-investimentos-eletricos-2028",
-      "title": "Indústria automotiva investe R$ 12 bi em veículos elétricos até 2028",
-      "description": "Setor automotivo brasileiro anuncia R$ 12 bi em investimentos em elétricos até 2028 com incentivos fiscais.",
-      "date": "20 de mai. de 2026",
-      "isoDate": "2026-05-20",
-      "tag": "Indústrias",
-      "tagCls": "industrias",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-20-industria-automotiva-investimentos-eletricos-2028.html"
-    },
-    {
-      "slug": "economia-criativa-movimenta-r-200-bilhoes-gera-5-milhoes-empregos",
-      "title": "Economia criativa movimenta R$ 200 bilhões e gera 5 milhões de empregos",
-      "description": "A economia criativa no Brasil movimenta R$ 200 bilhões e gera 5 milhões de empregos formais, destacando-se como motor de crescimento.",
-      "date": "20 de mai. de 2026",
-      "isoDate": "2026-05-20",
-      "tag": "Cultura",
-      "tagCls": "cultura",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-20-economia-criativa-movimenta-r-200-bilhoes-gera-5-milhoes-empregos.html"
     }
   ]
 }
