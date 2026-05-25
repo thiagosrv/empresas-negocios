@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-24T23:07:39.489Z",
+  "updated": "2026-05-25T04:15:42.678Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Influenciadora diz que relógio de luxo foi furtado em inspeção no Aeroporto de Viracopos; polícia apura",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/influenciadora-diz-que-relogio-de-luxo-foi-furtado-em-inspecao-no-aeroporto-de-viracopos-policia-apura.ghtml",
+        "summary": "Influenciadora diz que relógio de luxo foi furtado em inspeção no Aeroporto de Viracopos A Polícia Civil informou, neste domingo (24), que investiga o desaparecimento de um relógio de luxo no Aeroporto Internacional de V",
+        "image": "https://s2-g1.glbimg.com/JHF9Qkb25pZhQiGkNDP3meVJMY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/GoR5jHTpylcA3RVundBA/relogio-influenciadora.png",
+        "date": "24 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Vendas de imóveis sobem na região de Campinas, enquanto aluguéis caem quase 40% em abril, aponta Creci-SP",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/vendas-de-imoveis-sobem-na-regiao-de-campinas-enquanto-alugueis-caem-quase-40percent-em-abril-aponta-creci-sp.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/parece-hamburguer-mas-e-doce-x-bolo-viraliza-nas-redes-sociais.ghtml",
         "summary": "X-bolo: sobremesa com aparência de fast-food viraliza nas redes sociais Um doce que imita um hambúrguer, feito com massa de bolo e recheios doces, viralizou nas redes sociais nos últimos dias. Conhecido como \"X-bolo\" ou ",
         "image": "https://s2-g1.glbimg.com/gy1a1AZBunUazzih5i3FxxHbyP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/K/ReVVlYTEWAvFFNdiojFA/design-sem-nome-45-.jpg",
-        "date": "24 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ypê diz que funcionários seguem em ações de adequação e descarta layoff ou férias coletivas após suspensão pela Anvisa",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/24/ype-diz-que-funcionarios-seguem-em-acoes-de-adequacao-e-descarta-layoff-ou-ferias-coletivas-apos-suspensao-pela-anvisa.ghtml",
-        "summary": "Ypê diz que vai reembolsar consumidores por produtos suspensos pela Anvisa A Ypê afirmou neste sábado (23) que não avalia, neste momento, medidas como layoff ou férias coletivas para os funcionários que atuam nas linhas ",
-        "image": "https://s2-g1.glbimg.com/Q3_GBXR441oPgCmzY417ELnKDwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/36QzL0RnWQxYmutcF7Sg/1778545435446016.jpg",
         "date": "24 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Dia da África: continente aproveita ascensão da China e mira progresso",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/dia-da-africa-continente-aproveita-ascensao-da-china-e-mira-progresso",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/dia-da-africa-continente-aproveita-ascensao-da-china-e-mira-progresso img src= https://cdn.jsdelivr.net/gh/sergi",
+        "image": null,
+        "date": "25 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Palmeiras vence Bragantino e dorme na liderança do Brasileiro Feminino",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/palmeiras-vence-bragantino-e-dorme-na-lideranca-do-brasileiro-feminino",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/palmeiras-vence-bragantino-e-dorme-na-lideranca-do-brasileiro-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "24 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Países discutem solução para combustível fóssil e desmatamento ilegal",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/paises-discutem-solucao-para-combustivel-fossil-e-desmatamento-ilegal",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/paises-discutem-solucao-para-combustivel-fossil-e-desmatamento-ilegal img src= https://cdn.jsdelivr.net/gh/sergi",
@@ -156,26 +176,6 @@
         "title": "Brasileiro Feminino sub-20: Fla vence São Paulo no 1º jogo da final",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileiro-feminino-sub-20-fla-vence-sao-paulo-no-1o-jogo-da-final",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileiro-feminino-sub-20-fla-vence-sao-paulo-no-1o-jogo-da-final img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "João Fonseca estreia com vitória no torneio de Roland Garros",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/joao-fonseca-estreia-com-vitoria-no-torneio-de-roland-garros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/joao-fonseca-estreia-com-vitoria-no-torneio-de-roland-garros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Apostas do Rio e de Fortaleza levam prêmio da Mega 30 anos",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/apostas-do-rio-e-de-fortaleza-levam-premio-da-mega-30-anos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/apostas-do-rio-e-de-fortaleza-levam-premio-da-mega-30-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Agência Brasil",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "EUA condenam ameaças do Hezbollah de derrubar governo do Líbano",
+        "link": "https://www.infomoney.com.br/mundo/eua-condenam-ameacas-do-hezbollah-de-derrubar-governo-do-libano/",
+        "summary": "O secretário acusou o grupo de ignorar pedidos das autoridades libanesas para cessar ataques The post EUA condenam ameaças do Hezbollah de derrubar governo do Líbano appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Libano.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Petróleo cai abaixo de US$ 100 e bolsas sobem com esperança de acordo entre EUA e Irã",
         "link": "https://www.infomoney.com.br/mercados/petroleo-e-dow-jones-futuro-cai-com-esperanca-de-acordo-entre-eua-e-ira/",
         "summary": "Entendimento no Oriente Médio pode abrir espaço para corte de juros nos EUA, segundo assessor de Trump The post Petróleo cai abaixo de US$ 100 e bolsas sobem com esperança de acordo entre EUA e Irã appeared first on Info",
@@ -357,14 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Com Warsh no Fed, mercado precifica alta de juros nos EUA até dezembro",
-        "link": "https://www.infomoney.com.br/economia/com-warsh-no-fed-mercado-precifica-alta-de-juros-nos-eua-ate-dezembro/",
-        "summary": "Apostas de três meses atrás revertem com guerra, resiliência da economia americana e o boom de investimentos em IA The post Com Warsh no Fed, mercado precifica alta de juros nos EUA até dezembro appeared first on InfoMon",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/456875156.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "24 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Espanha divulga convocados para a Copa do Mundo 2026; veja horário e onde assistir",
+        "link": "https://exame.com/esporte/espanha-divulga-convocados-para-a-copa-do-mundo-2026-veja-horario-e-onde-assistir/",
+        "summary": "Luis de la Fuente divulga nesta segunda-feira, 25, a lista dos 26 jogadores da Espanha para a Copa do Mundo de 2026",
+        "image": null,
+        "date": "25 de mai. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "A nova diplomacia mineral: Brasil e Canadá podem liderar uma cadeia mais justa e sustentável",
@@ -410,16 +420,6 @@
         "title": "Startup transforma resíduo do babaçu em proteína do futuro e gera renda para comunidades amazônicas",
         "link": "https://exame.com/esg/startup-transforma-residuo-do-babacu-em-proteina-do-futuro-e-gera-renda-para-comunidades-amazonicas/",
         "summary": "Com aporte do Fundo JBS pela Amazônia, biotecnologia eleva o teor proteico do babaçu em 4,5 vezes, impulsiona 62 mil extrativistas e mira mercado de US$ 88 bilhões",
-        "image": null,
-        "date": "24 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Milan x Cagliari: horário, onde assistir e cenário do jogo",
-        "link": "https://exame.com/esporte/milan-x-cagliari-horario-onde-assistir-e-cenario-do-jogo/",
-        "summary": "Milan tenta fechar temporada entre os primeiros colocados diante do Cagliari, no San Siro",
         "image": null,
         "date": "24 de mai. de 2026",
         "source": "Exame",
