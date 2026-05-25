@@ -1,3 +1,14 @@
+// ===== DATA NO HEADER =====
+(function () {
+  const el = document.getElementById('headerDate');
+  if (!el) return;
+  const now = new Date();
+  const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
+  const fmt = now.toLocaleDateString('pt-BR', opts);
+  // Capitaliza primeira letra
+  el.textContent = fmt.charAt(0).toUpperCase() + fmt.slice(1);
+})();
+
 // ===== HAMBURGER MENU =====
 const hamburger = document.getElementById('hamburger');
 const mainNav = document.getElementById('mainNav');
