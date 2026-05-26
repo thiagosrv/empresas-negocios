@@ -1,24 +1,24 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Vagas de Emprego em Todos os Setores | Empresas &amp; Negócios</title>
-  <meta name="description" content="Vagas de emprego reais atualizadas diariamente. Tecnologia, Vendas, Saúde, Engenharia, Logística, Administrativo, Marketing, Finanças, RH, Educação e mais. Todo o Brasil." />
+  <meta name="description" content="Busque vagas de emprego reais em todos os setores: Tecnologia, Saúde, Vendas, Engenharia, Logística, Administrativo, Marketing, Finanças, RH, Educação e muito mais." />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
   <link rel="canonical" href="https://www.empresasenegocios.com.br/pages/vagas.html" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Empresas &amp; Negócios" />
-  <meta property="og:title" content="Vagas de Emprego na Região | Empresas &amp; Negócios" />
-  <meta property="og:description" content="Vagas de emprego em Americana, Santa Bárbara D'Oeste, Sumaré e Campinas. Atualizadas diariamente." />
+  <meta property="og:title" content="Vagas de Emprego — Todos os Setores | Empresas &amp; Negócios" />
+  <meta property="og:description" content="Portal de busca de vagas de emprego. Tecnologia, Saúde, Vendas, Engenharia e muito mais. Acesse os melhores portais de emprego direto aqui." />
   <meta property="og:url" content="https://www.empresasenegocios.com.br/pages/vagas.html" />
   <meta name="twitter:card" content="summary_large_image" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Vagas de Emprego na Região",
-    "description": "Vagas de emprego em Americana, Santa Bárbara D'Oeste, Sumaré e Campinas.",
+    "name": "Vagas de Emprego — Todos os Setores",
+    "description": "Portal de busca de vagas de emprego em todos os setores do Brasil.",
     "url": "https://www.empresasenegocios.com.br/pages/vagas.html",
     "inLanguage": "pt-BR"
   }
@@ -30,27 +30,24 @@
 
   <style>
   /* ════════════════════════════════════════
-     VAGAS PAGE — PREMIUM UI
+     VAGAS PAGE — PORTAL DE BUSCA
   ════════════════════════════════════════ */
 
   /* ── Hero ──────────────────────────────── */
   .vagas-hero {
     position: relative;
     background: linear-gradient(160deg, #06091a 0%, #0d1733 55%, #130a1e 100%);
-    padding: 52px 0 42px;
+    padding: 52px 0 48px;
     color: #fff;
     overflow: hidden;
   }
-  /* dot-grid overlay */
   .vagas-hero::before {
     content: '';
-    position: absolute;
-    inset: 0;
+    position: absolute; inset: 0;
     background-image: radial-gradient(circle, rgba(255,255,255,.055) 1px, transparent 1px);
     background-size: 26px 26px;
     pointer-events: none;
   }
-  /* accent glow blobs */
   .vagas-hero::after {
     content: '';
     position: absolute;
@@ -62,12 +59,8 @@
   .vagas-hero .container { position: relative; z-index: 1; }
 
   .vagas-breadcrumb {
-    font-size: 12px;
-    color: rgba(255,255,255,.35);
-    margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
+    font-size: 12px; color: rgba(255,255,255,.35);
+    margin-bottom: 20px; display: flex; align-items: center; gap: 8px;
   }
   .vagas-breadcrumb a { color: rgba(255,255,255,.35); transition: color .2s; }
   .vagas-breadcrumb a:hover { color: rgba(255,255,255,.7); }
@@ -75,26 +68,20 @@
 
   .vagas-hero h1 {
     font-size: clamp(28px, 5vw, 48px);
-    font-weight: 900;
-    line-height: 1.1;
-    letter-spacing: -1px;
-    margin-bottom: 10px;
+    font-weight: 900; line-height: 1.1;
+    letter-spacing: -1px; margin-bottom: 10px;
   }
   .vagas-hero h1 .accent { color: #e74c3c; }
 
   .vagas-subtitle {
-    font-size: 15px;
-    color: rgba(255,255,255,.5);
-    margin-bottom: 32px;
-    font-weight: 400;
+    font-size: 15px; color: rgba(255,255,255,.5);
+    margin-bottom: 32px; font-weight: 400;
   }
 
-  /* ── Search bar (glassmorphism) ────────── */
+  /* ── Search bar ────────────────────────── */
   .vagas-search {
-    display: flex;
-    gap: 0;
-    max-width: 700px;
-    border-radius: 14px;
+    display: flex; gap: 0;
+    max-width: 700px; border-radius: 14px;
     overflow: hidden;
     box-shadow: 0 8px 40px rgba(0,0,0,.5), 0 0 0 1px rgba(255,255,255,.08);
     background: rgba(255,255,255,.06);
@@ -102,169 +89,188 @@
     -webkit-backdrop-filter: blur(12px);
   }
   .vagas-search input[type="text"] {
-    flex: 1;
-    border: none;
-    outline: none;
-    font-size: 15px;
-    padding: 14px 20px;
-    color: #fff;
-    background: transparent;
-    font-family: var(--font-main);
-    min-width: 0;
+    flex: 1; border: none; outline: none;
+    font-size: 15px; padding: 14px 20px;
+    color: #fff; background: transparent;
+    font-family: var(--font-main); min-width: 0;
   }
   .vagas-search input::placeholder { color: rgba(255,255,255,.4); }
   .vagas-search .search-divider {
-    width: 1px;
-    background: rgba(255,255,255,.1);
-    align-self: stretch;
-    margin: 10px 0;
+    width: 1px; background: rgba(255,255,255,.1);
+    align-self: stretch; margin: 10px 0;
   }
   .vagas-search select {
-    border: none;
-    outline: none;
-    font-size: 14px;
-    font-weight: 600;
-    color: rgba(255,255,255,.8);
-    background: transparent;
-    padding: 14px 16px;
-    cursor: pointer;
-    font-family: var(--font-main);
-    white-space: nowrap;
+    border: none; outline: none;
+    font-size: 14px; font-weight: 600;
+    color: rgba(255,255,255,.8); background: transparent;
+    padding: 14px 16px; cursor: pointer;
+    font-family: var(--font-main); white-space: nowrap;
   }
   .vagas-search select option { background: #1a1a2e; color: #fff; }
   .vagas-search button {
-    background: var(--accent);
-    color: #fff;
-    border: none;
-    padding: 14px 28px;
-    font-size: 14px;
-    font-weight: 700;
-    cursor: pointer;
-    white-space: nowrap;
+    background: var(--accent); color: #fff;
+    border: none; padding: 14px 28px;
+    font-size: 14px; font-weight: 700;
+    cursor: pointer; white-space: nowrap;
     font-family: var(--font-main);
-    transition: background .2s;
-    letter-spacing: .3px;
+    transition: background .2s; letter-spacing: .3px;
   }
   .vagas-search button:hover { background: #a93226; }
 
-  /* ── Hero Stats strip ──────────────────── */
-  .vagas-stats {
-    display: flex;
-    align-items: center;
-    gap: 0;
-    margin-top: 32px;
-    background: rgba(255,255,255,.06);
-    border: 1px solid rgba(255,255,255,.08);
-    border-radius: 12px;
-    max-width: 480px;
-    overflow: hidden;
+  /* ── Hero hint ─────────────────────────── */
+  .vagas-hint {
+    margin-top: 14px;
+    font-size: 12px;
+    color: rgba(255,255,255,.3);
   }
-  .vstat {
-    flex: 1;
-    padding: 14px 20px;
-    text-align: center;
-    border-right: 1px solid rgba(255,255,255,.07);
-  }
-  .vstat:last-child { border-right: none; }
-  .vstat-num {
-    font-size: 24px;
-    font-weight: 900;
-    color: #fff;
-    line-height: 1;
-    display: block;
-  }
-  .vstat-label {
-    font-size: 10px;
-    color: rgba(255,255,255,.4);
-    text-transform: uppercase;
-    letter-spacing: .5px;
-    margin-top: 4px;
-    display: block;
-  }
-
-  /* ── Filter bar ────────────────────────── */
-  .filter-bar {
-    background: #fff;
-    border-bottom: 1px solid #eee;
-    position: sticky;
-    top: 74px;
-    z-index: 900;
-    padding: 10px 0;
-    box-shadow: 0 2px 8px rgba(0,0,0,.06);
-  }
-  .filter-scroll {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    overflow-x: auto;
-    scrollbar-width: none;
-    padding: 2px 4px;
-  }
-  .filter-scroll::-webkit-scrollbar { display: none; }
-  .filter-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-    padding: 7px 16px;
-    border-radius: 99px;
-    font-size: 13px;
-    font-weight: 600;
-    white-space: nowrap;
+  .vagas-hint span {
+    display: inline-block;
+    background: rgba(255,255,255,.08);
+    border: 1px solid rgba(255,255,255,.1);
+    border-radius: 20px;
+    padding: 3px 12px;
+    margin: 3px 4px 3px 0;
     cursor: pointer;
-    border: 1.5px solid #e0e0e0;
-    background: #fff;
-    color: #555;
-    transition: all .18s;
-    font-family: var(--font-main);
+    transition: background .2s;
+    font-weight: 500;
   }
-  .filter-btn:hover {
+  .vagas-hint span:hover { background: rgba(255,255,255,.15); }
+
+  /* ── Category search cards ─────────────── */
+  .cat-search-section {
+    padding: 36px 0 8px;
+  }
+  .cat-search-section .section-label {
+    font-size: 11px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 1.2px;
+    color: var(--accent); padding-left: 10px;
+    border-left: 3px solid var(--accent);
+    margin-bottom: 20px;
+  }
+  .cat-search-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 32px;
+  }
+  .cat-search-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    text-decoration: none;
+    color: var(--text);
+    transition: transform .18s, box-shadow .18s, border-color .18s;
+    cursor: pointer;
+  }
+  .cat-search-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--border-dark);
+    color: var(--text);
+  }
+  .cat-icon {
+    width: 44px; height: 44px; min-width: 44px;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  .cat-info { flex: 1; min-width: 0; }
+  .cat-title {
+    font-size: 13px; font-weight: 700;
+    color: #111; line-height: 1.2;
+    margin-bottom: 2px;
+  }
+  .cat-sub {
+    font-size: 11px; color: #888;
+    line-height: 1.3;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .cat-arrow {
+    font-size: 13px; color: #bbb;
+    font-weight: 700; flex-shrink: 0;
+    transition: transform .18s, color .18s;
+  }
+  .cat-search-card:hover .cat-arrow { transform: translateX(3px); color: var(--accent); }
+
+  /* ── Portals section ───────────────────── */
+  .portals-section {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 24px 24px 20px;
+    margin-bottom: 32px;
+  }
+  .portals-title {
+    font-size: 11px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 1px;
+    color: var(--accent); padding-left: 10px;
+    border-left: 3px solid var(--accent);
+    margin-bottom: 18px;
+  }
+  .portals-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .portal-btn {
+    display: flex; align-items: center; gap: 10px;
+    background: #f8f8f8;
+    border: 1.5px solid #eee;
+    border-radius: 10px;
+    padding: 12px 16px;
+    text-decoration: none;
+    color: #333;
+    font-size: 13px; font-weight: 700;
+    transition: all .18s;
+    cursor: pointer;
+  }
+  .portal-btn:hover {
+    background: #fff;
     border-color: var(--accent);
     color: var(--accent);
-    background: #fff5f5;
+    box-shadow: 0 2px 10px rgba(192,57,43,.1);
   }
-  .filter-btn.active {
-    background: var(--accent);
-    border-color: var(--accent);
+  .portal-logo {
+    width: 32px; height: 32px; min-width: 32px;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px; font-weight: 900;
     color: #fff;
-    box-shadow: 0 2px 8px rgba(192,57,43,.25);
+    flex-shrink: 0;
   }
+  .portal-info { min-width: 0; }
+  .portal-name { font-size: 13px; font-weight: 700; }
+  .portal-desc { font-size: 10px; color: #888; font-weight: 400; margin-top: 1px; }
 
   /* ── Proteção Talentos section ─────────── */
   .pt-section {
     background: linear-gradient(135deg, #0a0f1e 0%, #111827 100%);
-    border-radius: 16px;
-    padding: 28px;
-    margin-bottom: 32px;
+    border-radius: 16px; padding: 28px; margin-bottom: 32px;
     border: 1px solid rgba(255,255,255,.07);
-    position: relative;
-    overflow: hidden;
+    position: relative; overflow: hidden;
   }
   .pt-section::before {
     content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 3px;
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
     background: linear-gradient(90deg, #c0392b, #e74c3c, #f39c12, #e74c3c, #c0392b);
     background-size: 200% 100%;
     animation: shimmer 3s linear infinite;
   }
   @keyframes shimmer {
-    0% { background-position: 200% 0; }
+    0%   { background-position: 200% 0; }
     100% { background-position: -200% 0; }
   }
   .pt-section-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-    margin-bottom: 22px;
-    flex-wrap: wrap;
+    display: flex; align-items: center;
+    justify-content: space-between; gap: 12px;
+    margin-bottom: 22px; flex-wrap: wrap;
   }
-  .pt-brand {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-  }
+  .pt-brand { display: flex; align-items: center; gap: 14px; }
   .pt-logo-icon {
     width: 44px; height: 44px;
     background: linear-gradient(135deg, #c0392b, #922b21);
@@ -273,26 +279,13 @@
     font-size: 20px;
     box-shadow: 0 4px 12px rgba(192,57,43,.4);
   }
-  .pt-brand-name {
-    font-size: 16px;
-    font-weight: 800;
-    color: #fff;
-    line-height: 1.2;
-  }
-  .pt-brand-sub {
-    font-size: 11px;
-    color: rgba(255,255,255,.4);
-    margin-top: 1px;
-  }
+  .pt-brand-name { font-size: 16px; font-weight: 800; color: #fff; line-height: 1.2; }
+  .pt-brand-sub  { font-size: 11px; color: rgba(255,255,255,.4); margin-top: 1px; }
   .pt-link-all {
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 12px; font-weight: 700;
     color: rgba(255,255,255,.5);
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-    transition: color .2s;
-    white-space: nowrap;
+    display: inline-flex; align-items: center; gap: 5px;
+    transition: color .2s; white-space: nowrap;
   }
   .pt-link-all:hover { color: #fff; }
 
@@ -307,11 +300,8 @@
   .pt-card {
     background: rgba(255,255,255,.04);
     border: 1px solid rgba(255,255,255,.09);
-    border-radius: 12px;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
+    border-radius: 12px; padding: 20px;
+    display: flex; flex-direction: column; gap: 12px;
     transition: border-color .2s, background .2s, transform .2s;
     position: relative;
   }
@@ -321,23 +311,13 @@
     transform: translateY(-2px);
   }
   .pt-star-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
+    display: inline-flex; align-items: center; gap: 4px;
     background: linear-gradient(90deg, #f39c12, #e67e22);
-    color: #fff;
-    font-size: 9px;
-    font-weight: 800;
-    padding: 3px 10px;
-    border-radius: 20px;
-    letter-spacing: .5px;
-    align-self: flex-start;
+    color: #fff; font-size: 9px; font-weight: 800;
+    padding: 3px 10px; border-radius: 20px;
+    letter-spacing: .5px; align-self: flex-start;
   }
-  .pt-card-header {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
+  .pt-card-header { display: flex; align-items: center; gap: 12px; }
   .pt-avatar {
     width: 46px; height: 46px; min-width: 46px;
     border-radius: 10px;
@@ -345,277 +325,51 @@
     font-size: 20px; font-weight: 900; color: #fff;
     box-shadow: 0 3px 10px rgba(0,0,0,.3);
   }
-  .pt-job-title {
-    font-size: 14px;
-    font-weight: 700;
-    color: #fff;
-    line-height: 1.35;
-  }
-  .pt-job-company {
-    font-size: 11px;
-    color: rgba(255,255,255,.45);
-    margin-top: 2px;
-  }
+  .pt-job-title  { font-size: 14px; font-weight: 700; color: #fff; line-height: 1.35; }
+  .pt-job-company{ font-size: 11px; color: rgba(255,255,255,.45); margin-top: 2px; }
   .pt-snippet {
-    font-size: 12px;
-    color: rgba(255,255,255,.5);
-    line-height: 1.6;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    font-size: 12px; color: rgba(255,255,255,.5); line-height: 1.6;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
-  .pt-chips {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-  }
+  .pt-chips { display: flex; flex-wrap: wrap; gap: 5px; }
   .pt-chip {
-    font-size: 11px;
-    font-weight: 600;
-    padding: 3px 10px;
-    border-radius: 20px;
+    font-size: 11px; font-weight: 600;
+    padding: 3px 10px; border-radius: 20px;
     border: 1px solid rgba(255,255,255,.12);
     color: rgba(255,255,255,.6);
   }
   .pt-chip.salary { border-color: rgba(243,156,18,.4); color: #f39c12; }
-  .pt-chip.type   { border-color: rgba(46,204,113,.4); color: #2ecc71; }
+  .pt-chip.type   { border-color: rgba(46,204,113,.4);  color: #2ecc71; }
   .pt-cta {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 6px;
-    background: var(--accent);
-    color: #fff;
-    padding: 10px 16px;
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: 700;
-    text-decoration: none;
-    margin-top: auto;
-    transition: background .2s, transform .15s;
-    letter-spacing: .2px;
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+    background: var(--accent); color: #fff;
+    padding: 10px 16px; border-radius: 8px;
+    font-size: 13px; font-weight: 700;
+    text-decoration: none; margin-top: auto;
+    transition: background .2s, transform .15s; letter-spacing: .2px;
   }
   .pt-cta span { transition: transform .2s; }
   .pt-cta:hover { background: #a93226; color: #fff; }
   .pt-cta:hover span { transform: translateX(3px); }
-
-  /* PT section footer */
   .pt-footer {
-    margin-top: 18px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    margin-top: 18px; display: flex;
+    align-items: center; justify-content: center;
   }
   .pt-footer a {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    color: rgba(255,255,255,.4);
-    font-size: 12px;
-    font-weight: 600;
-    padding: 8px 20px;
-    border: 1px solid rgba(255,255,255,.1);
-    border-radius: 8px;
-    transition: all .2s;
+    display: inline-flex; align-items: center; gap: 8px;
+    color: rgba(255,255,255,.4); font-size: 12px; font-weight: 600;
+    padding: 8px 20px; border: 1px solid rgba(255,255,255,.1);
+    border-radius: 8px; transition: all .2s;
   }
-  .pt-footer a:hover {
-    color: #fff;
-    border-color: rgba(255,255,255,.3);
-    background: rgba(255,255,255,.05);
-  }
+  .pt-footer a:hover { color: #fff; border-color: rgba(255,255,255,.3); background: rgba(255,255,255,.05); }
 
-  /* ── Job cards (Indeed) ────────────────── */
-  .jobs-list {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
-  .job-card {
-    background: #fff;
-    border-radius: 12px;
-    padding: 18px 20px;
-    display: flex;
-    align-items: flex-start;
-    gap: 14px;
-    border: 1px solid #eee;
-    border-left: 4px solid var(--cat-color, #c0392b);
-    transition: transform .18s, box-shadow .18s, border-color .18s;
-    animation: fadeInUp .3s ease both;
-  }
-  .job-card:hover {
-    transform: translateX(4px);
-    box-shadow: 0 4px 20px rgba(0,0,0,.09);
-    border-color: var(--cat-color, #c0392b);
-  }
-  .job-avatar {
-    width: 48px; height: 48px; min-width: 48px;
-    border-radius: 10px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 20px; font-weight: 900; color: #fff;
-    box-shadow: 0 2px 8px rgba(0,0,0,.15);
-  }
-  .job-info { flex: 1; min-width: 0; }
-  .job-title {
-    font-size: 15px;
-    font-weight: 700;
-    color: #111;
-    line-height: 1.3;
-    margin-bottom: 2px;
-  }
-  .job-company {
-    font-size: 13px;
-    color: #666;
-    margin-bottom: 6px;
-  }
-  .job-snippet {
-    font-size: 12px;
-    color: #888;
-    line-height: 1.6;
-    margin-bottom: 10px;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .job-meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-  }
-  .job-badge {
-    font-size: 11px;
-    font-weight: 600;
-    padding: 3px 10px;
-    border-radius: 20px;
-    background: #f5f5f5;
-    color: #555;
-  }
-  .job-badge.cat      { background: #fff0ef; color: var(--cat-color, #c0392b); }
-  .job-badge.location { background: #f0f4ff; color: #2563eb; }
-  .job-badge.type     { background: #f0fff5; color: #059669; }
-  .job-badge.salary   { background: #fffbf0; color: #d97706; }
-  .job-badge.date     { background: #f8f8f8; color: #999; }
-  .job-cta {
-    flex-shrink: 0;
-    background: #f5f5f5;
-    color: #333;
-    padding: 9px 16px;
-    border-radius: 8px;
-    font-size: 12px;
-    font-weight: 700;
-    text-decoration: none;
-    white-space: nowrap;
-    transition: background .18s, color .18s;
-    align-self: center;
-    border: 1px solid #e0e0e0;
-  }
-  .job-cta:hover {
-    background: var(--accent);
-    color: #fff;
-    border-color: var(--accent);
-  }
-
-  /* ── Jobs section header ───────────────── */
-  .jobs-section-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 18px;
-    padding-left: 14px;
-    border-left: 4px solid var(--accent);
-  }
-  .jobs-section-header h2 {
-    font-size: 16px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: .5px;
-    color: #111;
-  }
-  .badge-live {
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-    background: #e8f5e9;
-    color: #2e7d32;
-    font-size: 10px;
-    font-weight: 700;
-    padding: 3px 10px;
-    border-radius: 20px;
-    letter-spacing: .3px;
-  }
-  .badge-live::before {
-    content: '●';
-    font-size: 8px;
-    animation: pulse 1.5s ease infinite;
-  }
-  @keyframes pulse {
-    0%,100% { opacity: 1; }
-    50%      { opacity: .3; }
-  }
-  #updated-time {
-    font-size: 11px;
-    color: #bbb;
-    font-weight: 400;
-  }
-  .job-count-line {
-    font-size: 13px;
-    color: #888;
-    margin-bottom: 14px;
-  }
-  .job-count-line strong {
-    color: #111;
-    font-weight: 700;
-    font-size: 15px;
-  }
-
-  /* ── Load more ─────────────────────────── */
-  #loadMoreBtn {
-    display: none;
-    width: 100%;
-    margin: 24px 0 8px;
-    background: #fff;
-    border: 2px solid var(--accent);
-    color: var(--accent);
-    padding: 13px;
-    border-radius: 10px;
-    font-size: 14px;
-    font-weight: 700;
-    cursor: pointer;
-    transition: background .2s, color .2s;
-    font-family: var(--font-main);
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-  }
-  #loadMoreBtn:hover { background: var(--accent); color: #fff; }
-
-  /* ── Empty state ───────────────────────── */
-  .empty-state {
-    text-align: center;
-    padding: 56px 24px;
-    background: #fff;
-    border-radius: 12px;
-    border: 1px dashed #e0e0e0;
-  }
-  .empty-icon { font-size: 44px; margin-bottom: 14px; }
-  .empty-title { font-size: 16px; font-weight: 700; color: #333; margin-bottom: 8px; }
-  .empty-sub { font-size: 13px; color: #888; line-height: 1.6; }
-  .empty-sub a { color: var(--accent); font-weight: 700; }
-
-  /* ── CTA announce ──────────────────────── */
+  /* ── CTA anunciar ──────────────────────── */
   .announce-cta {
     background: linear-gradient(135deg, #0a0f1e 0%, #111827 100%);
-    border-radius: 14px;
-    padding: 30px 32px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-    flex-wrap: wrap;
-    margin-top: 32px;
+    border-radius: 14px; padding: 30px 32px;
+    display: flex; align-items: center;
+    justify-content: space-between; gap: 20px;
+    flex-wrap: wrap; margin-top: 32px;
     border: 1px solid rgba(255,255,255,.06);
   }
   .announce-cta h3 { color: #fff; font-size: 18px; font-weight: 800; margin-bottom: 6px; }
@@ -629,232 +383,142 @@
   }
   .announce-cta a:hover { background: #1db954; transform: translateY(-1px); color: #fff; }
 
-  /* ── Sidebar widgets premium ───────────── */
+  /* ── Sidebar widgets ───────────────────── */
   .sidebar-widget {
-    background: #fff;
-    border-radius: 12px;
-    margin-bottom: 20px;
-    overflow: hidden;
+    background: #fff; border-radius: 12px;
+    margin-bottom: 20px; overflow: hidden;
     box-shadow: 0 1px 4px rgba(0,0,0,.07);
     border: 1px solid #eee;
   }
   .widget-title {
-    font-size: 11px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: .7px;
-    color: #fff;
-    background: var(--accent);
-    padding: 10px 16px;
+    font-size: 11px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: .7px;
+    color: #fff; background: var(--accent); padding: 10px 16px;
   }
   .widget-body { padding: 16px; }
-  .nl-desc {
-    font-size: 13px;
-    color: #666;
-    line-height: 1.6;
-    margin-bottom: 14px;
-  }
+  .nl-desc { font-size: 13px; color: #666; line-height: 1.6; margin-bottom: 14px; }
   .nl-input {
-    width: 100%;
-    border: 1.5px solid #e0e0e0;
-    border-radius: 8px;
-    padding: 10px 14px;
-    font-size: 13px;
-    font-family: var(--font-main);
-    color: #333;
-    margin-bottom: 10px;
-    transition: border-color .2s;
+    width: 100%; border: 1.5px solid #e0e0e0; border-radius: 8px;
+    padding: 10px 14px; font-size: 13px; font-family: var(--font-main);
+    color: #333; margin-bottom: 10px; transition: border-color .2s;
   }
   .nl-input:focus { outline: none; border-color: var(--accent); }
   .btn-nl {
-    width: 100%;
-    background: var(--accent);
-    color: #fff;
-    border: none;
-    padding: 11px;
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: 700;
-    cursor: pointer;
-    font-family: var(--font-main);
-    transition: background .2s;
+    width: 100%; background: var(--accent); color: #fff; border: none;
+    padding: 11px; border-radius: 8px; font-size: 13px; font-weight: 700;
+    cursor: pointer; font-family: var(--font-main); transition: background .2s;
   }
   .btn-nl:hover { background: #a93226; }
-  .nl-privacy {
-    font-size: 10px;
-    color: #bbb;
-    text-align: center;
-    margin-top: 8px;
-  }
+  .nl-privacy { font-size: 10px; color: #bbb; text-align: center; margin-top: 8px; }
 
-  /* PT sidebar ad */
+  /* PT sidebar */
   .pt-sidebar-widget {
     background: linear-gradient(135deg, #0a0f1e 0%, #111827 100%);
-    border-radius: 12px;
-    margin-bottom: 20px;
-    padding: 20px;
-    border: 1px solid rgba(255,255,255,.07);
-    text-align: center;
+    border-radius: 12px; margin-bottom: 20px; padding: 20px;
+    border: 1px solid rgba(255,255,255,.07); text-align: center;
   }
   .pt-sidebar-logo {
     width: 48px; height: 48px;
     background: linear-gradient(135deg, #c0392b, #922b21);
     border-radius: 12px;
     display: flex; align-items: center; justify-content: center;
-    font-size: 22px;
-    margin: 0 auto 14px;
+    font-size: 22px; margin: 0 auto 14px;
     box-shadow: 0 4px 14px rgba(192,57,43,.4);
   }
-  .pt-sidebar-title {
-    font-size: 15px;
-    font-weight: 800;
-    color: #fff;
-    margin-bottom: 6px;
-  }
-  .pt-sidebar-desc {
-    font-size: 12px;
-    color: rgba(255,255,255,.45);
-    line-height: 1.6;
-    margin-bottom: 16px;
-  }
+  .pt-sidebar-title { font-size: 15px; font-weight: 800; color: #fff; margin-bottom: 6px; }
+  .pt-sidebar-desc  { font-size: 12px; color: rgba(255,255,255,.45); line-height: 1.6; margin-bottom: 16px; }
   .pt-sidebar-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 7px;
-    background: var(--accent);
-    color: #fff;
-    padding: 11px 20px;
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: 700;
-    text-decoration: none;
-    transition: background .2s;
+    display: flex; align-items: center; justify-content: center; gap: 7px;
+    background: var(--accent); color: #fff;
+    padding: 11px 20px; border-radius: 8px;
+    font-size: 13px; font-weight: 700;
+    text-decoration: none; transition: background .2s;
   }
   .pt-sidebar-btn:hover { background: #a93226; color: #fff; }
 
-  /* Category list in sidebar */
-  .cat-list { display: flex; flex-direction: column; }
-  .cat-list-item {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 0;
-    border-bottom: 1px solid #f0f0f0;
-    font-size: 13px;
-    color: #444;
-    cursor: pointer;
-    background: none;
-    border-left: none;
-    border-right: none;
-    border-top: none;
-    width: 100%;
-    font-family: var(--font-main);
-    text-align: left;
-    transition: color .2s;
+  /* Sidebar quick-search mini-cards */
+  .sidebar-cat-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    padding: 12px 16px;
   }
-  .cat-list-item:last-child { border-bottom: none; }
-  .cat-list-item:hover { color: var(--accent); }
-  .cat-arrow { color: var(--accent); font-weight: 700; font-size: 12px; }
+  .sidebar-cat-btn {
+    display: flex; flex-direction: column; align-items: center;
+    gap: 5px; padding: 10px 8px;
+    background: #f7f7f7; border: 1.5px solid #eee;
+    border-radius: 10px; text-align: center;
+    font-size: 11px; font-weight: 700; color: #444;
+    text-decoration: none;
+    transition: all .18s; cursor: pointer;
+  }
+  .sidebar-cat-btn:hover {
+    background: #fff5f5; border-color: var(--accent); color: var(--accent);
+  }
+  .sidebar-cat-btn .scat-icon { font-size: 18px; }
+
+  /* ── Empty state ───────────────────────── */
+  .empty-state {
+    text-align: center; padding: 56px 24px;
+    background: #fff; border-radius: 12px;
+    border: 1px dashed #e0e0e0;
+  }
+  .empty-icon  { font-size: 44px; margin-bottom: 14px; }
+  .empty-title { font-size: 16px; font-weight: 700; color: #333; margin-bottom: 8px; }
+  .empty-sub   { font-size: 13px; color: #888; line-height: 1.6; }
+  .empty-sub a { color: var(--accent); font-weight: 700; }
 
   /* ── Responsive ────────────────────────── */
-
-  /* 860px — tablet */
   @media (max-width: 860px) {
-    /* Fix sticky filter bar: header on mobile = only header-top, no nav */
-    .filter-bar { top: 56px; }
-
-    .featured-grid { grid-template-columns: 1fr 1fr; }
-
-    /* Search bar: wrap to 2 rows */
-    .vagas-search { flex-wrap: wrap; }
+    .vagas-hero    { padding: 36px 0 28px; }
+    .vagas-search  { flex-wrap: wrap; }
     .vagas-search input[type="text"] { border-radius: 14px 14px 0 0; }
     .vagas-search .search-divider { display: none; }
     .vagas-search select { flex: 1; background: rgba(255,255,255,.08); border-radius: 0; padding: 12px 16px; }
     .vagas-search button { width: 100%; border-radius: 0 0 14px 14px; padding: 13px; }
 
-    .pt-section { padding: 22px 18px; }
+    .cat-search-grid { grid-template-columns: 1fr 1fr; }
+    .portals-grid    { grid-template-columns: 1fr 1fr; }
+    .featured-grid   { grid-template-columns: 1fr 1fr; }
+
     .pt-section-header { flex-direction: column; align-items: flex-start; }
-
-    .vagas-stats { max-width: 100%; }
-    .vstat { padding: 12px 16px; }
-
     .announce-cta { flex-direction: column; text-align: center; }
     .announce-cta a { width: 100%; justify-content: center; }
-
-    .jobs-section-header { flex-direction: column; align-items: flex-start; }
   }
 
-  /* 640px — large phone */
-  @media (max-width: 640px) {
-    .filter-bar { top: 52px; }
+  @media (max-width: 560px) {
+    .vagas-hero h1 { font-size: clamp(22px, 7vw, 32px); }
+    .vagas-subtitle { font-size: 13px; margin-bottom: 22px; }
 
-    .vagas-hero { padding: 36px 0 28px; }
-    .vagas-hero h1 { font-size: clamp(22px, 7vw, 34px); }
-    .vagas-subtitle { font-size: 13px; }
+    .cat-search-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+    .cat-search-card { padding: 12px; gap: 8px; }
+    .cat-icon { width: 36px; height: 36px; min-width: 36px; font-size: 16px; }
+    .cat-title { font-size: 12px; }
+    .cat-sub   { display: none; }
+    .cat-arrow { display: none; }
 
+    .portals-grid  { grid-template-columns: 1fr; }
     .featured-grid { grid-template-columns: 1fr; }
-    .pt-section { padding: 18px 14px; }
+
+    .pt-section    { padding: 18px 14px; }
+    .pt-logo-icon  { width: 36px; height: 36px; font-size: 16px; }
     .pt-brand-name { font-size: 14px; }
+    .pt-cta        { font-size: 12px; padding: 9px 12px; }
 
-    .vagas-stats { max-width: 100%; }
-    .vstat-num { font-size: 20px; }
-    .vstat-label { font-size: 9px; }
-    .vstat { padding: 10px 12px; }
-
-    .job-card { flex-direction: column; gap: 10px; }
-    .job-cta { width: 100%; text-align: center; justify-content: center; align-self: stretch; }
-
-    .pt-footer a { font-size: 11px; padding: 8px 14px; text-align: center; }
-
-    .announce-cta { padding: 22px 18px; }
+    .announce-cta  { padding: 22px 18px; }
     .announce-cta h3 { font-size: 16px; }
+    .sidebar-cat-grid { grid-template-columns: repeat(3, 1fr); }
 
-    #loadMoreBtn { font-size: 13px; padding: 12px; }
+    .vagas-hint span { font-size: 11px; padding: 3px 9px; }
   }
 
-  /* 480px — standard phone */
-  @media (max-width: 480px) {
-    .filter-bar { top: 50px; padding: 8px 0; }
-    .filter-btn { font-size: 12px; padding: 6px 12px; }
-
-    .vagas-hero { padding: 28px 0 22px; }
-    .vagas-search { border-radius: 10px; }
-    .vagas-search input[type="text"] { font-size: 14px; padding: 11px 14px; border-radius: 10px 10px 0 0; }
-    .vagas-search button { padding: 11px; font-size: 13px; }
-
-    .pt-logo-icon { width: 36px; height: 36px; font-size: 16px; }
-    .pt-avatar { width: 38px; height: 38px; min-width: 38px; font-size: 16px; }
-    .pt-job-title { font-size: 13px; }
-    .pt-cta { font-size: 12px; padding: 9px 12px; }
-
-    .jobs-section-header h2 { font-size: 14px; }
-    .job-title { font-size: 14px; }
-    .job-avatar { width: 40px; height: 40px; min-width: 40px; font-size: 17px; }
-
-    .pt-sidebar-widget { padding: 16px; }
-  }
-
-  /* 380px — small phones */
   @media (max-width: 380px) {
-    .filter-bar { top: 48px; }
-
-    .vagas-hero { padding: 22px 0 18px; }
-    .vagas-hero h1 { font-size: 22px; letter-spacing: -0.5px; }
-    .vagas-subtitle { font-size: 12px; }
-
-    .vagas-search input[type="text"] { padding: 10px 12px; font-size: 13px; }
-    .vagas-stats { border-radius: 10px; }
-    .vstat-num { font-size: 18px; }
-    .vstat { padding: 8px 10px; }
-
-    .pt-section { padding: 14px 12px; }
-    .pt-card { padding: 14px; }
-    .pt-section-header { margin-bottom: 14px; }
-
-    .announce-cta { padding: 18px 14px; }
-    .job-snippet { display: none; }
-    .job-badge.date { display: none; }
+    .vagas-hero    { padding: 22px 0 18px; }
+    .vagas-hero h1 { font-size: 22px; }
+    .vagas-search  { border-radius: 10px; }
+    .cat-search-grid { grid-template-columns: 1fr; }
+    .portals-grid  { grid-template-columns: 1fr; }
+    .sidebar-cat-grid { grid-template-columns: 1fr 1fr; }
   }
   </style>
 
@@ -867,9 +531,9 @@
   <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
     <span class="ticker-label">Vagas</span>
     <div class="ticker-track" id="tickerTrack">
-      <span>Vagas de emprego reais atualizadas diariamente — todos os setores</span>
-      <span>Tecnologia · Vendas · Saúde · Engenharia · Logística · Administrativo</span>
-      <span>Marketing · Finanças · RH · Educação · Indústria · e muito mais</span>
+      <span>Portal de busca de vagas em todos os setores do Brasil</span>
+      <span>Tecnologia · Saúde · Vendas · Engenharia · Logística · Administrativo</span>
+      <span>Marketing · Finanças · RH · Educação · Indústria e muito mais</span>
       <span>Oportunidades diretas via Proteção Talentos — protecaotalentos.online</span>
     </div>
   </div>
@@ -879,7 +543,11 @@
   <div class="header-top">
     <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
     <a href="../index.html" class="logo"><span class="logo-text">Empresas<span>&</span>Negócios</span></a>
-    <span class="header-date" id="headerDate"></span><div class="header-actions"><a class="btn-search" href="#" aria-label="Buscar">🔍</a><a class="btn-subscribe" href="#newsletter">Newsletter</a></div>
+    <span class="header-date" id="headerDate"></span>
+    <div class="header-actions">
+      <a class="btn-search" href="#" aria-label="Buscar">🔍</a>
+      <a class="btn-subscribe" href="#newsletter">Newsletter</a>
+    </div>
   </div>
   <nav class="main-nav" id="mainNav">
     <div class="nav-inner">
@@ -920,62 +588,32 @@
       <span>Vagas de Emprego</span>
     </div>
 
-    <h1>Vagas de Emprego<br><span class="accent">em Todo o Brasil</span></h1>
-    <p class="vagas-subtitle">Tecnologia · Saúde · Vendas · Engenharia · Logística · e muito mais — atualizadas todo dia</p>
+    <h1>Busque sua próxima<br><span class="accent">oportunidade</span></h1>
+    <p class="vagas-subtitle">Tecnologia · Saúde · Vendas · Engenharia · Logística · e muito mais</p>
 
-    <div class="vagas-search">
-      <input type="text" id="searchInput" placeholder="🔍  Cargo, empresa ou palavra-chave..."
-             onkeyup="if(event.key==='Enter')applyFilters()" />
+    <form class="vagas-search" onsubmit="searchVagas(event)">
+      <input type="text" id="searchInput"
+             placeholder="🔍  Cargo, área ou palavra-chave..."
+             autocomplete="off" />
       <div class="search-divider"></div>
-      <select id="cityFilter" onchange="applyFilters()">
-        <option value="">📍 Todas as cidades</option>
-        <option value="Brasil">Todo o Brasil</option>
-        <option value="São Paulo">São Paulo</option>
-        <option value="Campinas">Campinas</option>
-        <option value="Americana">Americana</option>
-        <option value="Santa Bárbara">Santa Bárbara D'Oeste</option>
-        <option value="Sumaré">Sumaré</option>
+      <select id="cityFilter">
+        <option value="">📍 Qualquer lugar</option>
+        <option value="sao-paulo">São Paulo</option>
+        <option value="campinas">Campinas</option>
+        <option value="rio-de-janeiro">Rio de Janeiro</option>
+        <option value="belo-horizonte">Belo Horizonte</option>
+        <option value="americana">Americana</option>
       </select>
-      <button onclick="applyFilters()">Buscar vagas</button>
-    </div>
+      <button type="submit">Buscar vagas</button>
+    </form>
 
-    <div class="vagas-stats">
-      <div class="vstat">
-        <span class="vstat-num" id="totalJobCount">—</span>
-        <span class="vstat-label">vagas</span>
-      </div>
-      <div class="vstat">
-        <span class="vstat-num">13+</span>
-        <span class="vstat-label">setores</span>
-      </div>
-      <div class="vstat">
-        <span class="vstat-num">∞</span>
-        <span class="vstat-label">diário</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- ═══════════════════════════════════════
-     FILTER BAR (sticky)
-════════════════════════════════════════ -->
-<div class="filter-bar">
-  <div class="container">
-    <div class="filter-scroll">
-      <button class="filter-btn active" data-filter="all">Todas</button>
-      <button class="filter-btn" data-filter="Tecnologia">💻 Tecnologia</button>
-      <button class="filter-btn" data-filter="Vendas">📈 Vendas</button>
-      <button class="filter-btn" data-filter="Administrativo">📋 Administrativo</button>
-      <button class="filter-btn" data-filter="Saúde">🏥 Saúde</button>
-      <button class="filter-btn" data-filter="Engenharia">⚙️ Engenharia</button>
-      <button class="filter-btn" data-filter="Indústria">🏭 Indústria</button>
-      <button class="filter-btn" data-filter="Logística">🚚 Logística</button>
-      <button class="filter-btn" data-filter="Marketing">📣 Marketing</button>
-      <button class="filter-btn" data-filter="Finanças">💰 Finanças</button>
-      <button class="filter-btn" data-filter="RH">👥 RH</button>
-      <button class="filter-btn" data-filter="Educação">📚 Educação</button>
-      <button class="filter-btn" data-filter="Portaria">🏢 Portaria</button>
-      <button class="filter-btn" data-filter="Facilities">🛠️ Facilities</button>
+    <div class="vagas-hint">
+      Buscas populares:
+      <span onclick="quickSearch('desenvolvedor')">Desenvolvedor</span>
+      <span onclick="quickSearch('vendedor')">Vendedor</span>
+      <span onclick="quickSearch('enfermeiro')">Enfermeiro</span>
+      <span onclick="quickSearch('analista financeiro')">Analista Financeiro</span>
+      <span onclick="quickSearch('motorista')">Motorista</span>
     </div>
   </div>
 </div>
@@ -986,14 +624,187 @@
 <div class="main-layout">
   <div class="content-col">
 
-    <!-- ── Proteção Talentos (featured) ── -->
+    <!-- ── Buscar por Área ─────────────────── -->
+    <section class="cat-search-section">
+      <div class="section-label">Buscar por Área</div>
+
+      <div class="cat-search-grid">
+
+        <a href="https://www.vagas.com.br/vagas-de-desenvolvedor" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#e8f0ff;">💻</div>
+          <div class="cat-info">
+            <div class="cat-title">Tecnologia</div>
+            <div class="cat-sub">Dev, TI, dados, sistemas</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-vendedor" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#fff2e8;">📈</div>
+          <div class="cat-info">
+            <div class="cat-title">Vendas</div>
+            <div class="cat-sub">Vendedor, consultor, comercial</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-auxiliar-administrativo" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#e8f4ff;">📋</div>
+          <div class="cat-info">
+            <div class="cat-title">Administrativo</div>
+            <div class="cat-sub">Aux./assistente/gestor admin.</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-enfermeiro" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#f3e8ff;">🏥</div>
+          <div class="cat-info">
+            <div class="cat-title">Saúde</div>
+            <div class="cat-sub">Enfermeiro, médico, técnico</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-engenheiro" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#e8faf5;">⚙️</div>
+          <div class="cat-info">
+            <div class="cat-title">Engenharia</div>
+            <div class="cat-sub">Civil, mecânica, elétrica</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-motorista" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#e8f9ef;">🚚</div>
+          <div class="cat-info">
+            <div class="cat-title">Logística</div>
+            <div class="cat-sub">Motorista, operador, estoque</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-operador-de-producao" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#fff8e8;">🏭</div>
+          <div class="cat-info">
+            <div class="cat-title">Indústria</div>
+            <div class="cat-sub">Operador, eletricista, mecânico</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-analista-de-marketing" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#fff0f6;">📣</div>
+          <div class="cat-info">
+            <div class="cat-title">Marketing</div>
+            <div class="cat-sub">Analista, social media, SEO</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-analista-financeiro" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#e8f8ee;">💰</div>
+          <div class="cat-info">
+            <div class="cat-title">Finanças</div>
+            <div class="cat-sub">Analista, contador, controller</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-analista-de-rh" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#f3e8ff;">👥</div>
+          <div class="cat-info">
+            <div class="cat-title">Recursos Humanos</div>
+            <div class="cat-sub">Analista de RH, recrutador</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-professor" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#fefce8;">📚</div>
+          <div class="cat-info">
+            <div class="cat-title">Educação</div>
+            <div class="cat-sub">Professor, coord. pedagógico</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+        <a href="https://www.vagas.com.br/vagas-de-porteiro" target="_blank" rel="noopener" class="cat-search-card">
+          <div class="cat-icon" style="background:#fff0ef;">🏢</div>
+          <div class="cat-info">
+            <div class="cat-title">Portaria / Recepção</div>
+            <div class="cat-sub">Porteiro, recepcionista</div>
+          </div>
+          <span class="cat-arrow">→</span>
+        </a>
+
+      </div>
+    </section>
+
+    <!-- ── Buscar nos portais ──────────────── -->
+    <div class="portals-section">
+      <div class="portals-title">Buscar nos Maiores Portais de Emprego</div>
+      <div class="portals-grid">
+
+        <a href="https://www.vagas.com.br" target="_blank" rel="noopener" class="portal-btn">
+          <div class="portal-logo" style="background:#c0392b;">V</div>
+          <div class="portal-info">
+            <div class="portal-name">Vagas.com.br</div>
+            <div class="portal-desc">O maior portal de empregos do Brasil</div>
+          </div>
+        </a>
+
+        <a href="https://www.catho.com.br" target="_blank" rel="noopener" class="portal-btn">
+          <div class="portal-logo" style="background:#0067b8;">C</div>
+          <div class="portal-info">
+            <div class="portal-name">Catho</div>
+            <div class="portal-desc">Vagas em todo o Brasil</div>
+          </div>
+        </a>
+
+        <a href="https://br.linkedin.com/jobs" target="_blank" rel="noopener" class="portal-btn">
+          <div class="portal-logo" style="background:#0a66c2;">in</div>
+          <div class="portal-info">
+            <div class="portal-name">LinkedIn Jobs</div>
+            <div class="portal-desc">Vagas e rede profissional</div>
+          </div>
+        </a>
+
+        <a href="https://br.indeed.com" target="_blank" rel="noopener" class="portal-btn">
+          <div class="portal-logo" style="background:#2164f3;">i</div>
+          <div class="portal-info">
+            <div class="portal-name">Indeed Brasil</div>
+            <div class="portal-desc">Busca agregada de empregos</div>
+          </div>
+        </a>
+
+        <a href="https://www.infojobs.com.br" target="_blank" rel="noopener" class="portal-btn">
+          <div class="portal-logo" style="background:#ff5722;">IJ</div>
+          <div class="portal-info">
+            <div class="portal-name">InfoJobs</div>
+            <div class="portal-desc">Vagas em diversas áreas</div>
+          </div>
+        </a>
+
+        <a href="https://www.empregare.com" target="_blank" rel="noopener" class="portal-btn">
+          <div class="portal-logo" style="background:#16a34a;">E</div>
+          <div class="portal-info">
+            <div class="portal-name">Empregare</div>
+            <div class="portal-desc">Vagas nas melhores empresas</div>
+          </div>
+        </a>
+
+      </div>
+    </div>
+
+    <!-- ── Proteção Talentos (featured) ─── -->
     <div class="pt-section">
       <div class="pt-section-header">
         <div class="pt-brand">
           <div class="pt-logo-icon">🛡️</div>
           <div>
             <div class="pt-brand-name">Proteção Talentos</div>
-            <div class="pt-brand-sub">Oportunidades diretas — candidate-se agora</div>
+            <div class="pt-brand-sub">Vagas diretas — candidate-se agora</div>
           </div>
         </div>
         <a href="https://protecaotalentos.online" target="_blank" rel="noopener" class="pt-link-all">
@@ -1014,27 +825,6 @@
         </a>
       </div>
     </div>
-
-    <!-- ── Vagas automáticas (Indeed) ──── -->
-    <section class="category-section">
-      <div class="jobs-section-header">
-        <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
-          <h2>Vagas da Região</h2>
-          <span class="badge-live">Ao vivo</span>
-        </div>
-        <span id="updated-time"></span>
-      </div>
-
-      <div class="job-count-line">
-        <strong id="jobCount">—</strong> vagas encontradas
-      </div>
-
-      <div id="vagas-container" class="jobs-list">
-        <div class="rss-loader"><div class="spinner"></div><span>Buscando vagas de emprego...</span></div>
-      </div>
-
-      <button id="loadMoreBtn">⬇ Carregar mais vagas</button>
-    </section>
 
     <!-- ── CTA Anuncie ─────────────────── -->
     <div class="announce-cta">
@@ -1059,7 +849,7 @@
     <div class="sidebar-widget">
       <div class="widget-title">📧 Alerta de Vagas</div>
       <div class="widget-body">
-        <p class="nl-desc">Receba novas vagas de todos os setores diretamente no seu e-mail toda manhã.</p>
+        <p class="nl-desc">Receba novidades de vagas e conteúdo de carreira no seu e-mail toda manhã.</p>
         <form onsubmit="handleNewsletter(event)">
           <input type="email" class="nl-input" placeholder="seu@email.com" required />
           <button type="submit" class="btn-nl">Receber alertas grátis</button>
@@ -1089,48 +879,34 @@
       </div>
     </div>
 
-    <!-- Categorias -->
+    <!-- Busca rápida por área -->
     <div class="sidebar-widget">
-      <div class="widget-title">📂 Filtrar por Área</div>
-      <div class="widget-body" style="padding:8px 16px;">
-        <div class="cat-list">
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Tecnologia]').click()">
-            <span>💻 Tecnologia / TI</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Vendas]').click()">
-            <span>📈 Vendas / Comercial</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Administrativo]').click()">
-            <span>📋 Administrativo</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Saúde]').click()">
-            <span>🏥 Saúde</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Engenharia]').click()">
-            <span>⚙️ Engenharia</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Indústria]').click()">
-            <span>🏭 Indústria / Produção</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Logística]').click()">
-            <span>🚚 Logística / Transporte</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Marketing]').click()">
-            <span>📣 Marketing</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Finanças]').click()">
-            <span>💰 Finanças / Contábil</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=RH]').click()">
-            <span>👥 Recursos Humanos</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Educação]').click()">
-            <span>📚 Educação</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Portaria]').click()">
-            <span>🏢 Portaria / Recepção</span><span class="cat-arrow">→</span>
-          </button>
-        </div>
+      <div class="widget-title">🔍 Busca Rápida por Área</div>
+      <div class="sidebar-cat-grid">
+        <a href="https://www.vagas.com.br/vagas-de-desenvolvedor" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">💻</span>Tech
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-vendedor" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">📈</span>Vendas
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-enfermeiro" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">🏥</span>Saúde
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-engenheiro" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">⚙️</span>Eng.
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-motorista" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">🚚</span>Logística
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-analista-de-rh" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">👥</span>RH
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-analista-financeiro" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">💰</span>Finanças
+        </a>
+        <a href="https://www.vagas.com.br/vagas-de-operador-de-producao" target="_blank" rel="noopener" class="sidebar-cat-btn">
+          <span class="scat-icon">🏭</span>Indústria
+        </a>
       </div>
     </div>
 
@@ -1174,9 +950,40 @@
   </ul></div>
 </div><div class="footer-bottom"><span>© 2026 Empresas &amp; Negócios. Todos os direitos reservados.</span></div></footer>
 
-<div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
-<button class="back-to-top" id="backToTop">↑</button>
-<script src="../js/vagas.js"></script>
+<a class="back-to-top" id="backToTop" aria-label="Voltar ao topo">↑</a>
+<div class="toast" id="toast">
+  <span class="toast-icon"></span>
+  <span id="toastMsg"></span>
+</div>
+
 <script src="../js/main.js"></script>
+<script src="../js/vagas.js"></script>
+<script>
+// ── Busca principal ─────────────────────────────────────────────────────────
+function searchVagas(e) {
+  e.preventDefault();
+  var q    = (document.getElementById('searchInput').value || '').trim();
+  var city = (document.getElementById('cityFilter').value || '').trim();
+  if (!q) return;
+
+  // Formata o cargo para URL slug (vagas.com.br aceita slug)
+  var slug = q.toLowerCase()
+              .normalize('NFD').replace(/[̀-ͯ]/g, '')
+              .replace(/[^a-z0-9\s-]/g, '')
+              .trim().replace(/\s+/g, '-');
+
+  var url = city
+    ? 'https://www.vagas.com.br/vagas-de-' + slug + '-em-' + city
+    : 'https://www.vagas.com.br/vagas-de-' + slug;
+
+  window.open(url, '_blank', 'noopener');
+}
+
+// ── Busca rápida (chips) ─────────────────────────────────────────────────────
+function quickSearch(term) {
+  document.getElementById('searchInput').value = term;
+  searchVagas({ preventDefault: function(){} });
+}
+</script>
 </body>
 </html>
