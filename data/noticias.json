@@ -1,12 +1,22 @@
 {
-  "updated": "2026-05-25T22:12:14.381Z",
+  "updated": "2026-05-26T00:10:14.594Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "'Exemplo de vida': filhos lamentam morte de casal de Campinas em acidente de ônibus em MG",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/25/exemplo-de-vida-filhos-lamentam-morte-de-casal-de-campinas-em-acidente-de-onibus-em-mg.ghtml",
+        "summary": "Casal de idosos que morava há 45 anos em Campinas está entre os 8 mortos em acidente em MG Os filhos de Leôncio de Jesus Dias, de 80 anos, e Marinalva de Jesus Dias, de 62 anos, moradores de Campinas (SP) que morreram no",
+        "image": "https://s2-g1.glbimg.com/fngq0HRYDEOi2kMsw6PPZaaeWyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/N5kPgiRN62ypYSy7accA/design-sem-nome-2026-05-25t170405.561.jpg",
+        "date": "25 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Com fim da baliza, reprovações em exames para tirar CNH caem 44% entre cidades da região de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/25/fim-baliza-reprovacoes-exames-tirar-cnh-caem-cidades-regiao-campinas.ghtml",
+        "summary": "Com fim da baliza, reprovações em exames para tirar CNH caem 44% na região de Campinas O número de reprovações em exames práticos para tirar a Carteira Nacional de Habilitação (CNH) caiu 44,7% de janeiro a abril de 2026 ",
+        "image": "https://s2-g1.glbimg.com/QIZE4TMRqddvEftxXrEbzxZUjnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/G/OmZbMhTyGuI4ZLjC97qg/vlcsnap-2026-05-25-18h57m49s640.png",
         "date": "25 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -25,7 +35,7 @@
       {
         "title": "Casal de idosos que morava há 45 anos em Campinas está entre os 8 mortos em acidente em MG",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/25/casal-de-idosos-que-morava-ha-45-anos-em-campinas-esta-entre-os-8-mortos-em-acidente-em-mg.ghtml",
-        "summary": "Leôncio de Jesus Dias, de 80 anos, e Marinalva de Jesus Dias, de 62 anos, moradores de Campinas (SP), estão entre as oito vítimas do acidente entre um ônibus e uma carreta em Minas Gerais Arquivo pessoal Leôncio de Jesus",
+        "summary": "Casal de idosos que morava há 45 anos em Campinas está entre os 8 mortos em acidente em MG Leôncio de Jesus Dias, de 80 anos, e Marinalva de Jesus Dias, de 62 anos, moradores de Campinas (SP), estão entre os oito mortos ",
         "image": "https://s2-g1.glbimg.com/fngq0HRYDEOi2kMsw6PPZaaeWyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/N5kPgiRN62ypYSy7accA/design-sem-nome-2026-05-25t170405.561.jpg",
         "date": "25 de mai. de 2026",
         "source": "G1 Campinas",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/25/marsupial-escondido-ha-milhoes-de-anos-e-descoberto-em-fragmentos-da-mata-atlantica-no-rj.ghtml",
         "summary": "Marsupial escondido há milhões de anos é descoberto em fragmentos da Mata Atlântica no RJ Pablo Rodrigues Gonçalves Pequena, rara e pouco visível em meio a fragmentos da Mata Atlântica do Rio de Janeiro, uma nova espécie",
         "image": "https://s2-g1.glbimg.com/K-rCAI_F0p5KO8wRzwGUHTUHPGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/h/lh8cbyQbm61sYnexPRPA/img-20260416-wa0001.jpg-1-.jpeg",
-        "date": "25 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Frota envelhecida em Americana supera 40%; idade da população e renda estão entre possíveis fatores, diz urbanista",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/25/frota-envelhecida-em-americana-supera-40percent-idade-da-populacao-e-renda-estao-entre-possiveis-fatores-diz-urbanista.ghtml",
-        "summary": "Americana é a cidade entre as 10 maiores da região onde mais circulam carros antigos Americana tem 40,5% da frota composta por veículos com mais de 20 anos, segundo dados do Departamento Estadual de Trânsito de São Paulo",
-        "image": "https://s2-g1.glbimg.com/oC07iwvsmvikcsrSoyMFbNHZ1Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/L/Qos6ehScuLQ5kOtfj3mg/carro-velho-1-.png",
         "date": "25 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Comissão da Câmara começa a analisar relatório do fim da jornada 6X1",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/comissao-da-camara-comeca-analisar-relatorio-do-fim-da-jornada-6x1",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/comissao-da-camara-comeca-analisar-relatorio-do-fim-da-jornada-6x1 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "Audiovisual brasileiro terá linhas de crédito e plano de exportação",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/audiovisual-brasileiro-tera-linhas-de-credito-e-plano-de-exportacao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/audiovisual-brasileiro-tera-linhas-de-credito-e-plano-de-exportacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "A quatro dias do prazo, 11,5 milhões não enviaram a declaração do IR",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/quatro-dias-do-prazo-115-milhoes-nao-enviaram-declaracao-do-ir",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/quatro-dias-do-prazo-115-milhoes-nao-enviaram-declaracao-do-ir img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Dinheiro de clientes do Master migrou para bancos maiores, informa BC",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/dinheiro-de-clientes-do-master-migrou-para-bancos-maiores-informa-bc",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/dinheiro-de-clientes-do-master-migrou-para-bancos-maiores-informa-bc img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Caixa antecipa saque-aniversário do FGTS para demitidos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/caixa-antecipa-saque-aniversario-do-fgts-para-demitidos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/caixa-antecipa-saque-aniversario-do-fgts-para-demitidos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "title": "Beatriz Arcoverde, da EBC, vence categoria do Prêmio Mulheres Raras",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/beatriz-arcoverde-da-ebc-vence-categoria-do-premio-mulheres-raras",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/beatriz-arcoverde-da-ebc-vence-categoria-do-premio-mulheres-raras img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Moraes mantém prisão de condenados pelo assassinato de Marielle Franco",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-mantem-prisao-de-condenados-pelo-assassinato-de-marielle-franco",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-mantem-prisao-de-condenados-pelo-assassinato-de-marielle-franco img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Frias nega ao STF envio de emendas para financiar filme de Bolsonaro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/frias-nega-ao-stf-envio-de-emendas-para-financiar-filme-de-bolsonaro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/frias-nega-ao-stf-envio-de-emendas-para-financiar-filme-de-bolsonaro img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Ação resgata 35 em situação análoga à escravidão no interior de SP",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/acao-resgata-35-em-situacao-analoga-escravidao-no-interior-de-sp",
-        "summary": "p strong Uma operação do Ministério do Trabalho e Emprego (MTE) resgatou 35 trabalhadores em situação análoga à escravidão em uma fazenda no município de Gabriel Monteiro, no interior de São Paulo. O resgate ocorreu no ú",
+        "title": "Na Mesa com Datena recebe o ministro Guilherme Boulos nesta terça",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/na-mesa-com-datena-recebe-o-ministro-guilherme-boulos-nesta-terca",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/na-mesa-com-datena-recebe-o-ministro-guilherme-boulos-nesta-terca img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Desenrola 2.0: entenda como usar FGTS para quitar dívidas",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/desenrola-20-entenda-como-usar-fgts-para-quitar-dividas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/desenrola-20-entenda-como-usar-fgts-para-quitar-dividas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "title": "Caso Henry: julgamento é suspenso e será retomado nesta terça-feira",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/caso-henry-julgamento-e-suspenso-e-sera-retomado-nesta-terca-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/caso-henry-julgamento-e-suspenso-e-sera-retomado-nesta-terca-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Agência Brasil",
@@ -185,67 +185,87 @@
     ],
     "esportes": [
       {
-        "title": "Neymar pede desculpa após agressão, e Robinho Jr. aceita: “Tudo resolvido”",
-        "link": "https://www.gazetaesportiva.com/times/santos/neymar-pede-desculpa-apos-agressao-e-robinho-jr-aceita-tudo-resolvido/",
-        "summary": "Neymar e Robinho Jr. enfim se pronunciaram sobre o episódio no treino do último domingo. Os dois jogadores explicaram a situação e colocaram um ponto final no entrevero com declarações na zona mista após o empate em 1 a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/55252089294_f7882ebe07_k.webp",
-        "date": "06 de mai. de 2026",
+        "title": "Lesionado, Alcaraz diz que não vai forçar para disputar Roland Garros",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/alcaraz-lesao-punho-retorno-roland-garros/",
+        "summary": "O número 2 do mundo, Carlos Alcaraz, afirmou que seu retorno às quadras dependerá da evolução da lesão no punho direito e garantiu que não irá forçar a recuperação, nem mesmo para disputar Roland Garros. Após desistir do",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260420__A8F98Y6__v1__HighRes__SpainSportsAwardsLaureus.webp",
+        "date": "21 de abr. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cuca desabafa sobre desavença entre Neymar e Robinho Jr. e diz: Único que perde é o Santos",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-desabafa-sobre-desavenca-entre-neymar-e-robinho-jr-e-diz-unico-que-perde-e-o-santos/",
-        "summary": "O técnico Cuca admitiu incômodo com o desentendimento entre Neymar e Robinho Jr., que culminou em uma notificação extrajudicial enviada ao Santos por parte do estafe do garoto. O treinador desabafou sobre a repercussão d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__A9XD9MB__v1__HighRes__FblSudamericanaRecoletaSantos.webp",
-        "date": "06 de mai. de 2026",
+        "title": "Time de futebol suíço recusa show de Kanye West em seu estádio",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/fc-basel-cancela-show-kanye-west-valores/",
+        "summary": "O FC Basel decidiu não autorizar a realização de um show de Kanye West em seu estádio, o St. Jakob-Park, alegando incompatibilidade com os valores do clube. A apresentação, que vinha sendo especulada para junho, se soma ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260414__A7QU263__v1__HighRes__FilesChinaFranceMusicConcert.webp",
+        "date": "21 de abr. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Neymar abraça Robinho Jr em comemoração de gol; veja",
-        "link": "https://www.gazetaesportiva.com/times/santos/neymar-abraca-robinho-jr-em-comemoracao-de-gol-veja/",
-        "summary": "Neymar abraça Robinho Jr em comemoração de gol do Santos contra o Recoleta na Copa Sul-Americana. O post Neymar abraça Robinho Jr em comemoração de gol; veja apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/HHmbBuOW0AQtc1O.webp",
-        "date": "06 de mai. de 2026",
+        "title": "Corinthians vence Juventude e retoma liderança do Brasileirão feminino",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-juventude-brasileirao-feminino-rodada-7/",
+        "summary": "O Corinthians venceu o Juventude por 1 a 0 na noite desta segunda-feira, no Estádio Montanha dos Vinhedos, pela sétima rodada do Brasileirão Feminino. O gol da vitória foi marcado por Gabi Zanotti, de cabeça, aos 46 minu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/HGZBNCxaAAA3ABn.webp",
+        "date": "21 de abr. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Recoleta 1 x 1 Santos pela Copa Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/santos/melhores-momentos-recoleta-1-x-1-santos-pela-copa-sul-americana/",
-        "summary": "Veja os melhores momentos de Recoleta 1 x 1 Santos pela Copa Sul-Americana 2026. O post Melhores momentos: Recoleta 1 x 1 Santos pela Copa Sul-Americana apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__A9XD9MF__v1__HighRes__FblSudamericanaRecoletaSantos.webp",
-        "date": "06 de mai. de 2026",
+        "title": "Maringá é derrotado pelo Brusque e perde a primeira na Série C",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/maringa-perde-brusque-serie-c-2026/",
+        "summary": "O Maringá sofreu sua primeira derrota na Série C do Campeonato Brasileiro ao perder por 3 a 2 para o Brusque, na noite desta segunda-feira (20), no Estádio Willie Davids, pela terceira rodada. O time catarinense abriu va",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/HGY0dAbbEAABaBJ.webp",
+        "date": "21 de abr. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Pistons vencem Cavaliers na abertura das semifinais da Conferência Leste da NBA",
-        "link": "https://www.gazetaesportiva.com/campeonatos/nba/pistons-encerram-tabu-contra-cavaliers-nos-playoffs-da-nba/",
-        "summary": "O Detroit Pistons venceu o Cleveland Cavaliers por 111 a 101 no jogo 1 das semifinais da Conferência Leste da NBA, encerrando uma sequência de 12 derrotas consecutivas nos playoffs contra o rival. Com defesa forte e atua",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260506__2274715275__v2__HighRes__ClevelandCavaliersVDetroitPistonsGameOne.webp",
-        "date": "06 de mai. de 2026",
+        "title": "Victor Wembanyama é eleito Defensor do Ano da NBA e sonha com MVP",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nba/victor-wembanyama-jogador-defensivo-do-ano-nba/",
+        "summary": "Victor Wembanyama foi eleito o Jogador Defensivo do Ano da NBA de forma unânime, tornando-se, aos 22 anos, o mais jovem da história a conquistar o prêmio. Destaque absoluto do San Antonio Spurs, o pivô francês liderou a ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260420__2271639755__v1__HighRes__PortlandTrailblazersVSanAntonioSpursGameOne.webp",
+        "date": "21 de abr. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Luís Castro valoriza atuação do Grêmio após vitória e liderança na Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/gremio/luis-castro-gremio-analise-vitoria-sul-americana/",
-        "summary": "Luís Castro elogia postura do Grêmio após vitória sobre o Riestra e destaca evolução da equipe na temporada. O post Luís Castro valoriza atuação do Grêmio após vitória e liderança na Sul-Americana apareceu primeiro em Ga",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260505__A9XD34C__v1__HighRes__FblSudamericanaRiestraGremio.webp",
-        "date": "06 de mai. de 2026",
+        "title": "Wolverhampton tem seu rebaixamento para a 2ª divisão inglesa confirmado",
+        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/wolverhampton-tem-seu-rebaixamento-para-a-2a-divisao-inglesa-confirmado/",
+        "summary": "O Wolverhampton foi matematicamente rebaixado da Premier League 2025/26 após resultados paralelos confirmarem que o clube não pode mais alcançar a zona de permanência. Com apenas 17 pontos e uma campanha marcada por derr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260418__A8AF9W6__v1__HighRes__FblEngPrLeedsWolves.webp",
+        "date": "21 de abr. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Dinheiro de clientes do Master migrou para bancos maiores, informa BC",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/dinheiro-de-clientes-do-master-migrou-para-bancos-maiores-informa-bc",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/dinheiro-de-clientes-do-master-migrou-para-bancos-maiores-informa-bc img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "25 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Ato na Avenida Paulista pede fim da escala 6x1",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/ato-na-avenida-paulista-pede-fim-da-escala-6x1",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/ato-na-avenida-paulista-pede-fim-da-escala-6x1 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
+        "image": null,
+        "date": "25 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "A quatro dias do prazo, 11,5 milhões não enviaram a declaração do IR",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/quatro-dias-do-prazo-115-milhoes-nao-enviaram-declaracao-do-ir",
@@ -287,139 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Cresce percentual de paulistanos que apostam em bets para elevar renda",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/cresce-percentual-de-paulistanos-que-apostam-em-bets-para-elevar-renda",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/cresce-percentual-de-paulistanos-que-apostam-em-bets-para-elevar-renda img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "title": "Quina hoje, concurso 7034: Confira o resultado sorteado nesta segunda (25)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7034-confira-o-resultado-sorteado-nesta-segunda-25/",
+        "summary": "O prêmio principal para este concurso era de R$ 2.841.747,94 The post Quina hoje, concurso 7034: Confira o resultado sorteado nesta segunda (25) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "26 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil hoje, concurso 3694: Confira o resultado sorteado nesta segunda (25)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3694-confira-o-resultado-sorteado-nesta-segunda-25/",
+        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3694: Confira o resultado sorteado nesta segunda (25) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "26 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "EUA atacam barcos iranianos em meio a negociações por acordo de paz",
+        "link": "https://www.infomoney.com.br/mundo/explosoes-sao-ouvidas-no-ira-mehr-diz-que-situacao-em-bandar-abbas-esta-sob-controle/",
+        "summary": "O Comando Central dos EUA disse em um comunicado que os ataques foram projetados \"para proteger nossas tropas das ameaças impostas pelas forças iranianas\" The post EUA atacam barcos iranianos em meio a negociações por ac",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-11T091004Z_1_LYNXMPEM4A0JD_RTROPTP_4_IRAN-CRISIS.jpg?fit=300%2C164&amp;quality=70&amp;strip=all",
+        "date": "25 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula promete ajuda humanitária à Bolívia e pede diálogo em meio a protestos",
+        "link": "https://www.infomoney.com.br/mundo/lula-promete-ajuda-humanitaria-a-bolivia-e-pede-dialogo-em-meio-a-protestos/",
+        "summary": "Em ligação com Rodrigo Paz, presidente fala em evitar violência e analisa uso de avião da FAB para apoio ao país vizinho The post Lula promete ajuda humanitária à Bolívia e pede diálogo em meio a protestos appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-24T070236Z_944039398_RC22FLATP11W_RTRMADP_3_BOLIVIA-PROTEST-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "BC anuncia leilões para rolagem de swaps com vencimento em julho",
+        "link": "https://www.infomoney.com.br/mercados/bc-anuncia-leiloes-para-rolagem-de-swaps-com-vencimento-em-julho/",
+        "summary": "Segundo o BC, as condições de cada leilão serão divulgadas oportunamente por meio de comunicado The post BC anuncia leilões para rolagem de swaps com vencimento em julho appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Acionistas da Aegea montam veículo e fazem oferta por 30% da Copasa",
+        "link": "https://www.infomoney.com.br/mercados/acionistas-da-aegea-montam-veiculo-e-fazem-oferta-por-30-da-copasa/",
+        "summary": "A Copasa, que está sendo privatizada pelo governo mineiro, deve divulgar na quarta-feira o investidor de referência finalista The post Acionistas da Aegea montam veículo e fazem oferta por 30% da Copasa appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/copasa-01-fachada-fabrica.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Após impasse com EUA, Irã faz acordo para ficar no México durante a Copa do Mundo",
+        "link": "https://exame.com/esporte/apos-impasse-com-eua-ira-faz-acordo-para-ficar-no-mexico-durante-a-copa-do-mundo/",
+        "summary": "Além do Irã, outras seis seleções terão o México como sede, enquanto o Canadá servirá de base para a seleção anfitriã e também para o Panamá",
         "image": null,
         "date": "25 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "5º leilão Eco Invest pode levantar R$ 50 bilhões em investimentos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/5o-leilao-eco-invest-pode-levantar-r-50-bilhoes-em-investimentos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/5o-leilao-eco-invest-pode-levantar-r-50-bilhoes-em-investimentos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Trump diz que Irã nunca obterá uma arma nuclear em meio às negociações para encerrar guerra",
+        "link": "https://exame.com/mundo/trump-diz-que-ira-nunca-obtera-uma-arma-nuclear-em-meio-as-negociacoes-para-encerrar-guerra/",
+        "summary": "Declaração foi feita durante a cerimônia do Dia dos Caídos (Memorial Day) no Arlington National Cemetery",
         "image": null,
         "date": "25 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "SLC Agrícola (SLCE3) vê Brasil virar fornecedor global em meio a guerras e tarifas",
-        "link": "https://www.infomoney.com.br/onde-investir/slc-agricola-ve-brasil-virar-fornecedor-global-em-meio-a-guerras-e-tarifas/",
-        "summary": "Projeções do Departamento de Agricultura dos EUA colocam o país como o principal responsável pelo crescimento da produção agrícola mundial nas próximas décadas The post SLC Agrícola (SLCE3) vê Brasil virar fornecedor glo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Aurelio-Pavinato-da-SLC-1.webp?fit=300%2C177&amp;quality=70&amp;strip=all",
+        "title": "Lula conversa com presidente da Bolívia em meio a protestos no país e promete ajuda humanitária",
+        "link": "https://exame.com/brasil/lula-conversa-com-presidente-da-bolivia-em-meio-a-protestos-no-pais-e-promete-ajuda-humanitaria/",
+        "summary": "Governo brasileiro manifestou solidariedade à população boliviana e ao governo diante da crise humanitária",
+        "image": null,
         "date": "25 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Caso Henry Borel: Julgamento é interrompido e será retomando na terça pela manhã",
-        "link": "https://www.infomoney.com.br/brasil/caso-henry-borel-julgamento-e-interrompido-e-sera-retomando-na-terca-pela-manha/",
-        "summary": "Antes da interrupção, juíza do caso havia negado 23 requerimentos da defesa de Jairinho para anular o julgamento The post Caso Henry Borel: Julgamento é interrompido e será retomando na terça pela manhã appeared first on",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/moniquejairinho.webp?fit=300%2C214&amp;quality=70&amp;strip=all",
+        "title": "Privatização da Copasa: Equatorial e consórcio com sócios da Aegea apresentam propostas",
+        "link": "https://exame.com/invest/mercados/privatizacao-da-copasa-equatorial-e-consorcio-com-socios-da-aegea-apresentam-propostas/",
+        "summary": "O ganhador da privatização será revelado na próxima quarta-feira, 27, quando os envelopes serão abertos",
+        "image": null,
         "date": "25 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "ZoomHolding começou numa papelaria e hoje mira faturamento de R$ 1 bilhão",
-        "link": "https://www.infomoney.com.br/business/zoomholding-comecou-numa-papelaria-e-hoje-mira-faturamento-de-r-1-bilhao/",
-        "summary": "Fundador começou consertando computadores aos 15 anos, abriu uma loja de informática e transformou o negócio em um grupo nacional de tecnologia The post ZoomHolding começou numa papelaria e hoje mira faturamento de R$ 1 ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/z2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Sorteio da Copa do Brasil: onde assistir ao vivo e horário",
+        "link": "https://exame.com/esporte/sorteio-da-copa-do-brasil-onde-assistir-ao-vivo-e-horario/",
+        "summary": "Nesta etapa, todos os times estarão no mesmo pote, o que significa que não há restrições de confronto",
+        "image": null,
         "date": "25 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Zema diz que quem votar em Flávio Bolsonaro entregará eleição a Lula",
-        "link": "https://www.infomoney.com.br/politica/zema-diz-que-quem-votar-em-flavio-bolsonaro-entregara-eleicao-a-lula/",
-        "summary": "O entorno de Zema entende que um candidato da direita com menos rejeição e sem associação ao Master teria mais chances de derrotar o petista no segundo turno The post Zema diz que quem votar em Flávio Bolsonaro entregará",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/romeu-zema.jpg?fit=300%2C173&amp;quality=70&amp;strip=all",
-        "date": "25 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mercosul-UE: Argentina e Uruguai esgotam cotas de arroz e ovos e causam disputa",
-        "link": "https://www.infomoney.com.br/mundo/mercosul-ue-argentina-e-uruguai-esgotam-cotas-de-arroz-e-ovos-e-causam-disputa/",
-        "summary": "O movimento frustrou novas solicitações de licenças de exportadores brasileiros e expôs as assimetrias operacionais na largada do livre-comércio transatlântico The post Mercosul-UE: Argentina e Uruguai esgotam cotas de a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/240209_mercosul_uniao_europeia.jpg?fit=300%2C147&amp;quality=70&amp;strip=all",
-        "date": "25 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Spotify e Universal Music anunciam acordo para covers e remixes com IA feitos por fãs",
-        "link": "https://www.infomoney.com.br/business/spotify-e-universal-music-anunciam-acordo-para-covers-e-remixes-com-ia-feitos-por-fas/",
-        "summary": "A novidade \"abrirá novas fontes de receita e novas maneiras de impulsionar a descoberta\", diz a plataforma The post Spotify e Universal Music anunciam acordo para covers e remixes com IA feitos por fãs appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/spotify-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "25 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "O crédito chegou antes dos direitos no novo mercado de trabalho brasileiro",
         "link": "https://exame.com/carreira/o-credito-chegou-antes-dos-direitos-no-novo-mercado-de-trabalho-brasileiro/",
         "summary": "Programa de R$ 30 bilhões para financiar carros de motoristas de aplicativo reconhece a força da nova economia, mas deixa em aberto a discussão sobre direitos, proteção social e vínculo trabalhista, escreve Rodrigo Dib e",
-        "image": null,
-        "date": "25 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "‘Infraestrutura exige aprendizado’: a trajetória da executiva que transformou o saneamento no Brasil",
-        "link": "https://exame.com/carreira/infraestrutura-exige-aprendizado-a-trajetoria-da-executiva-que-transformou-o-saneamento-no-brasil/",
-        "summary": "Lílian Peixoto buscou o FECC para ampliar repertório financeiro em infraestrutura",
-        "image": null,
-        "date": "25 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Escala 6x1: proposta tira controle de jornada de CLT com salário maior que R$ 21.188",
-        "link": "https://exame.com/brasil/escala-6x1-proposta-tira-controle-de-jornada-de-clt-com-salario-maior-que-r-16-95110/",
-        "summary": "Acordos e convenções coletivas podem barrar flexibilização",
-        "image": null,
-        "date": "25 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Plataforma completa 10 anos com 3 milhões de jogadores na base e parceria com Intel e Netflix",
-        "link": "https://exame.com/tecnologia/plataforma-completa-10-anos-com-3-milhoes-de-jogadores-na-base-e-parceria-com-intel-e-netflix/",
-        "summary": "A expectativa é que a indústria de jogos atinja US$ 2,8 bilhões em receita neste ano",
-        "image": null,
-        "date": "25 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O retorno saudosista e analógico dos fones de ouvido com fio",
-        "link": "https://exame.com/casual/o-retorno-saudosista-e-analogico-dos-fones-de-ouvido-com-fio/",
-        "summary": "De Bella Hadid a Zendaya, celebridades e atletas trocaram o Bluetooth pelo cabo. O que parecia obsoleto virou símbolo de estilo",
-        "image": null,
-        "date": "25 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Boca Rosa lança coleção para além do mercado de beleza",
-        "link": "https://exame.com/marketing/boca-rosa-lanca-colecao-para-alem-do-mercado-de-beleza/",
-        "summary": "Coleção desenvolvida com a Ipanema leva elementos da linha Hidra Choco para a categoria de calçados",
         "image": null,
         "date": "25 de mai. de 2026",
         "source": "Exame",
