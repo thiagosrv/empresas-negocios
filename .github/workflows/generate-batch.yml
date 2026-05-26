@@ -1,4 +1,4 @@
-name: Gerar Artigos em Lote (20 artigos)
+﻿name: Gerar Artigos em Lote (20 artigos)
 
 on:
   workflow_dispatch:   # disparo manual apenas — aba Actions > Run workflow
@@ -41,4 +41,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add noticias/ data/artigos.json sitemap.xml robots.txt
           git diff --staged --quiet || git commit -m "feat: 20 artigos gerados em lote via GPT-4o [skip ci]"
-          git push
+          git pull --rebase origin main
+          git push origin main
