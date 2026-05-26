@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vagas de Emprego em Americana, Santa Bárbara e Sumaré | Empresas &amp; Negócios</title>
-  <meta name="description" content="Vagas de emprego atualizadas diariamente em Americana, Santa Bárbara D'Oeste, Sumaré e Campinas. Portaria, facilities, indústria, tecnologia, saúde e mais." />
+  <title>Vagas de Emprego em Todos os Setores | Empresas &amp; Negócios</title>
+  <meta name="description" content="Vagas de emprego reais atualizadas diariamente. Tecnologia, Vendas, Saúde, Engenharia, Logística, Administrativo, Marketing, Finanças, RH, Educação e mais. Todo o Brasil." />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
   <link rel="canonical" href="https://www.empresasenegocios.com.br/pages/vagas.html" />
   <meta property="og:type" content="website" />
@@ -867,9 +867,9 @@
   <div style="max-width:1280px;margin:0 auto;padding:0 24px;display:flex;align-items:center;overflow:hidden;">
     <span class="ticker-label">Vagas</span>
     <div class="ticker-track" id="tickerTrack">
-      <span>Vagas de emprego atualizadas diariamente na região</span>
-      <span>Portaria · Facilities · Indústria · TI · Saúde · Logística</span>
-      <span>Americana · Santa Bárbara D'Oeste · Sumaré · Campinas</span>
+      <span>Vagas de emprego reais atualizadas diariamente — todos os setores</span>
+      <span>Tecnologia · Vendas · Saúde · Engenharia · Logística · Administrativo</span>
+      <span>Marketing · Finanças · RH · Educação · Indústria · e muito mais</span>
       <span>Oportunidades diretas via Proteção Talentos — protecaotalentos.online</span>
     </div>
   </div>
@@ -920,8 +920,8 @@
       <span>Vagas de Emprego</span>
     </div>
 
-    <h1>Vagas de Emprego<br><span class="accent">na Região</span></h1>
-    <p class="vagas-subtitle">Americana · Santa Bárbara D'Oeste · Sumaré · Campinas — atualizadas todo dia</p>
+    <h1>Vagas de Emprego<br><span class="accent">em Todo o Brasil</span></h1>
+    <p class="vagas-subtitle">Tecnologia · Saúde · Vendas · Engenharia · Logística · e muito mais — atualizadas todo dia</p>
 
     <div class="vagas-search">
       <input type="text" id="searchInput" placeholder="🔍  Cargo, empresa ou palavra-chave..."
@@ -929,10 +929,12 @@
       <div class="search-divider"></div>
       <select id="cityFilter" onchange="applyFilters()">
         <option value="">📍 Todas as cidades</option>
+        <option value="Brasil">Todo o Brasil</option>
+        <option value="São Paulo">São Paulo</option>
+        <option value="Campinas">Campinas</option>
         <option value="Americana">Americana</option>
         <option value="Santa Bárbara">Santa Bárbara D'Oeste</option>
         <option value="Sumaré">Sumaré</option>
-        <option value="Campinas">Campinas</option>
       </select>
       <button onclick="applyFilters()">Buscar vagas</button>
     </div>
@@ -943,8 +945,8 @@
         <span class="vstat-label">vagas</span>
       </div>
       <div class="vstat">
-        <span class="vstat-num">4</span>
-        <span class="vstat-label">cidades</span>
+        <span class="vstat-num">13+</span>
+        <span class="vstat-label">setores</span>
       </div>
       <div class="vstat">
         <span class="vstat-num">∞</span>
@@ -961,13 +963,19 @@
   <div class="container">
     <div class="filter-scroll">
       <button class="filter-btn active" data-filter="all">Todas</button>
+      <button class="filter-btn" data-filter="Tecnologia">💻 Tecnologia</button>
+      <button class="filter-btn" data-filter="Vendas">📈 Vendas</button>
+      <button class="filter-btn" data-filter="Administrativo">📋 Administrativo</button>
+      <button class="filter-btn" data-filter="Saúde">🏥 Saúde</button>
+      <button class="filter-btn" data-filter="Engenharia">⚙️ Engenharia</button>
+      <button class="filter-btn" data-filter="Indústria">🏭 Indústria</button>
+      <button class="filter-btn" data-filter="Logística">🚚 Logística</button>
+      <button class="filter-btn" data-filter="Marketing">📣 Marketing</button>
+      <button class="filter-btn" data-filter="Finanças">💰 Finanças</button>
+      <button class="filter-btn" data-filter="RH">👥 RH</button>
+      <button class="filter-btn" data-filter="Educação">📚 Educação</button>
       <button class="filter-btn" data-filter="Portaria">🏢 Portaria</button>
       <button class="filter-btn" data-filter="Facilities">🛠️ Facilities</button>
-      <button class="filter-btn" data-filter="Indústria">🏭 Indústria</button>
-      <button class="filter-btn" data-filter="Tecnologia">💻 TI</button>
-      <button class="filter-btn" data-filter="Saúde">🏥 Saúde</button>
-      <button class="filter-btn" data-filter="Logística">🚚 Logística</button>
-      <button class="filter-btn" data-filter="Geral">💼 Geral</button>
     </div>
   </div>
 </div>
@@ -1022,7 +1030,7 @@
       </div>
 
       <div id="vagas-container" class="jobs-list">
-        <div class="rss-loader"><div class="spinner"></div><span>Buscando vagas da região...</span></div>
+        <div class="rss-loader"><div class="spinner"></div><span>Buscando vagas de emprego...</span></div>
       </div>
 
       <button id="loadMoreBtn">⬇ Carregar mais vagas</button>
@@ -1032,7 +1040,7 @@
     <div class="announce-cta">
       <div>
         <h3>Sua empresa tem vagas abertas?</h3>
-        <p>Anuncie gratuitamente e alcance candidatos<br>de Americana, Santa Bárbara e toda a região.</p>
+        <p>Anuncie gratuitamente e alcance candidatos<br>em todo o Brasil por meio do Empresas &amp; Negócios.</p>
       </div>
       <a href="https://wa.me/5519999115496?text=Olá!+Quero+anunciar+vagas+de+emprego+no+site+Empresas+%26+Negócios."
          target="_blank" rel="noopener">
@@ -1051,7 +1059,7 @@
     <div class="sidebar-widget">
       <div class="widget-title">📧 Alerta de Vagas</div>
       <div class="widget-body">
-        <p class="nl-desc">Receba novas vagas da região diretamente no seu e-mail toda manhã.</p>
+        <p class="nl-desc">Receba novas vagas de todos os setores diretamente no seu e-mail toda manhã.</p>
         <form onsubmit="handleNewsletter(event)">
           <input type="email" class="nl-input" placeholder="seu@email.com" required />
           <button type="submit" class="btn-nl">Receber alertas grátis</button>
@@ -1064,7 +1072,7 @@
     <div class="pt-sidebar-widget">
       <div class="pt-sidebar-logo">🛡️</div>
       <div class="pt-sidebar-title">Proteção Talentos</div>
-      <p class="pt-sidebar-desc">Vagas diretas em portaria, facilities e segurança patrimonial na região.</p>
+      <p class="pt-sidebar-desc">Vagas diretas em portaria, facilities e outras oportunidades na região de Campinas.</p>
       <a href="https://protecaotalentos.online" target="_blank" rel="noopener" class="pt-sidebar-btn">
         🚀 Acessar vagas diretas
       </a>
@@ -1086,23 +1094,41 @@
       <div class="widget-title">📂 Filtrar por Área</div>
       <div class="widget-body" style="padding:8px 16px;">
         <div class="cat-list">
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Portaria]').click()">
-            <span>🏢 Portaria / Recepção</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Facilities]').click()">
-            <span>🛠️ Facilities / Limpeza</span><span class="cat-arrow">→</span>
-          </button>
-          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Indústria]').click()">
-            <span>🏭 Indústria / Produção</span><span class="cat-arrow">→</span>
-          </button>
           <button class="cat-list-item" onclick="document.querySelector('[data-filter=Tecnologia]').click()">
             <span>💻 Tecnologia / TI</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Vendas]').click()">
+            <span>📈 Vendas / Comercial</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Administrativo]').click()">
+            <span>📋 Administrativo</span><span class="cat-arrow">→</span>
           </button>
           <button class="cat-list-item" onclick="document.querySelector('[data-filter=Saúde]').click()">
             <span>🏥 Saúde</span><span class="cat-arrow">→</span>
           </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Engenharia]').click()">
+            <span>⚙️ Engenharia</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Indústria]').click()">
+            <span>🏭 Indústria / Produção</span><span class="cat-arrow">→</span>
+          </button>
           <button class="cat-list-item" onclick="document.querySelector('[data-filter=Logística]').click()">
             <span>🚚 Logística / Transporte</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Marketing]').click()">
+            <span>📣 Marketing</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Finanças]').click()">
+            <span>💰 Finanças / Contábil</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=RH]').click()">
+            <span>👥 Recursos Humanos</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Educação]').click()">
+            <span>📚 Educação</span><span class="cat-arrow">→</span>
+          </button>
+          <button class="cat-list-item" onclick="document.querySelector('[data-filter=Portaria]').click()">
+            <span>🏢 Portaria / Recepção</span><span class="cat-arrow">→</span>
           </button>
         </div>
       </div>
@@ -1115,7 +1141,7 @@
 <section class="newsletter-section" id="newsletter">
   <div class="nl-inner">
     <h2>Alerta de Novas Vagas</h2>
-    <p>Receba vagas de emprego de Americana e região no seu e-mail todo dia.</p>
+    <p>Receba vagas de emprego de todos os setores no seu e-mail todo dia.</p>
     <form class="nl-form" onsubmit="handleNewsletter(event)">
       <input type="email" placeholder="Digite seu e-mail" required />
       <button type="submit">Receber alertas grátis</button>

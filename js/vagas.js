@@ -5,13 +5,20 @@
   const DATA_URL = BASE + 'data/vagas.json';
 
   const CATEGORY_META = {
-    'Portaria':   { color: '#c0392b', colorDark: '#922b21', icon: '🏢', label: 'Portaria'   },
-    'Facilities': { color: '#d35400', colorDark: '#a04000', icon: '🛠️',  label: 'Facilities' },
-    'Indústria':  { color: '#d97706', colorDark: '#b45309', icon: '🏭', label: 'Indústria'  },
-    'Tecnologia': { color: '#2563eb', colorDark: '#1d4ed8', icon: '💻', label: 'TI'         },
-    'Saúde':      { color: '#7c3aed', colorDark: '#6d28d9', icon: '🏥', label: 'Saúde'      },
-    'Logística':  { color: '#059669', colorDark: '#047857', icon: '🚚', label: 'Logística'  },
-    'Geral':      { color: '#4b5563', colorDark: '#374151', icon: '💼', label: 'Geral'      },
+    'Portaria':      { color: '#c0392b', colorDark: '#922b21', icon: '🏢', label: 'Portaria'      },
+    'Facilities':    { color: '#d35400', colorDark: '#a04000', icon: '🛠️',  label: 'Facilities'    },
+    'Indústria':     { color: '#d97706', colorDark: '#b45309', icon: '🏭', label: 'Indústria'     },
+    'Tecnologia':    { color: '#2563eb', colorDark: '#1d4ed8', icon: '💻', label: 'Tecnologia'    },
+    'Saúde':         { color: '#7c3aed', colorDark: '#6d28d9', icon: '🏥', label: 'Saúde'         },
+    'Logística':     { color: '#059669', colorDark: '#047857', icon: '🚚', label: 'Logística'     },
+    'Vendas':        { color: '#ea580c', colorDark: '#c2410c', icon: '📈', label: 'Vendas'        },
+    'Administrativo':{ color: '#0284c7', colorDark: '#0369a1', icon: '📋', label: 'Administrativo'},
+    'Engenharia':    { color: '#0d9488', colorDark: '#0f766e', icon: '⚙️',  label: 'Engenharia'    },
+    'Marketing':     { color: '#db2777', colorDark: '#be185d', icon: '📣', label: 'Marketing'     },
+    'Finanças':      { color: '#16a34a', colorDark: '#15803d', icon: '💰', label: 'Finanças'      },
+    'RH':            { color: '#9333ea', colorDark: '#7e22ce', icon: '👥', label: 'RH'            },
+    'Educação':      { color: '#ca8a04', colorDark: '#a16207', icon: '📚', label: 'Educação'      },
+    'Geral':         { color: '#4b5563', colorDark: '#374151', icon: '💼', label: 'Geral'         },
   };
 
   function getMeta(cat) {
@@ -176,7 +183,7 @@
   async function init() {
     const container = document.getElementById('vagas-container');
     if (container) {
-      container.innerHTML = `<div class="rss-loader"><div class="spinner"></div><span>Buscando vagas da região...</span></div>`;
+      container.innerHTML = `<div class="rss-loader"><div class="spinner"></div><span>Buscando vagas de emprego...</span></div>`;
     }
 
     try {
