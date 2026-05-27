@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-26T20:52:39.186Z",
+  "updated": "2026-05-27T12:53:06.516Z",
   "articles": [
+    {
+      "slug": "campinas-melhores-cidades-negocios-2026",
+      "title": "Campinas lidera ranking das melhores cidades para negócios em 2026",
+      "description": "Descubra por que Campinas é destaque para negócios no Brasil em 2026, atraindo investimentos e inovação.",
+      "date": "27 de mai. de 2026",
+      "isoDate": "2026-05-27",
+      "tag": "Campinas",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-27-campinas-melhores-cidades-negocios-2026.html"
+    },
+    {
+      "slug": "controle-acesso-biometria-em-campinas-guia-implementacao",
+      "title": "Controle de acesso por biometria em Campinas: guia de implementação",
+      "description": "Descubra como implementar controle de acesso por biometria em empresas de médio porte em Campinas e região.",
+      "date": "27 de mai. de 2026",
+      "isoDate": "2026-05-27",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-27-controle-acesso-biometria-em-campinas-guia-implementacao.html"
+    },
     {
       "slug": "bairros-valorizados-instalar-empresa-campinas-2026",
       "title": "Os Bairros Mais Valorizados para Empresas em Campinas em 2026",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-21-como-escolher-empresa-de-facilities-interior-sp.html"
-    },
-    {
-      "slug": "palmeiras-2026-elenco-forte-sistema-jogo-brasileirao",
-      "title": "Palmeiras 2026: Elenco Forte e Sistema de Jogo Garantem Favoritismo no Brasileirão",
-      "description": "Em 2026, o Palmeiras se destaca no Brasileirão com um elenco robusto e uma estratégia de jogo sólida.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Futebol",
-      "tagCls": "futebol",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-palmeiras-2026-elenco-forte-sistema-jogo-brasileirao.html"
-    },
-    {
-      "slug": "libertadores-2026-analise-grupos-times-favoritos",
-      "title": "Libertadores 2026: Análise dos Grupos e Favoritos ao Título",
-      "description": "Explore a análise completa dos grupos da Libertadores 2026 e quem são os favoritos ao título.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Futebol",
-      "tagCls": "futebol",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop",
-      "url": "noticias/2026-05-21-libertadores-2026-analise-grupos-times-favoritos.html"
     }
   ]
 }
