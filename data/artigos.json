@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-27T12:53:06.516Z",
+  "updated": "2026-05-28T13:54:08.530Z",
   "articles": [
+    {
+      "slug": "mercado-imobiliario-comercial-campinas-americana-2026",
+      "title": "Mercado Imobiliário Comercial em Campinas e Americana: Oportunidades 2026",
+      "description": "Descubra tendências e oportunidades no mercado imobiliário comercial de Campinas e Americana em 2026.",
+      "date": "28 de mai. de 2026",
+      "isoDate": "2026-05-28",
+      "tag": "Campinas",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1560472355-536de3962603?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-28-mercado-imobiliario-comercial-campinas-americana-2026.html"
+    },
+    {
+      "slug": "sistemas-cftv-americana-guia-pratico-gestores",
+      "title": "Sistemas de CFTV em Americana: Guia Prático para Gestores e Síndicos",
+      "description": "Descubra como implementar sistemas de CFTV em Americana, com dicas para gestores e síndicos.",
+      "date": "28 de mai. de 2026",
+      "isoDate": "2026-05-28",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-28-sistemas-cftv-americana-guia-pratico-gestores.html"
+    },
     {
       "slug": "campinas-melhores-cidades-negocios-2026",
       "title": "Campinas lidera ranking das melhores cidades para negócios em 2026",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-21-controle-acesso-limeira-rfid-biometria-cftv.html"
-    },
-    {
-      "slug": "controle-acesso-sumare-solucoes-empresas-grande-porte",
-      "title": "Controle de Acesso em Sumaré: Soluções para Empresas de Grande Porte",
-      "description": "Conheça soluções de controle de acesso para empresas em Sumaré e região, otimizando a gestão de múltiplos turnos.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-controle-acesso-sumare-solucoes-empresas-grande-porte.html"
-    },
-    {
-      "slug": "como-escolher-empresa-de-facilities-interior-sp",
-      "title": "Como Escolher Empresa de Facilities no Interior de SP: 10 Critérios",
-      "description": "Descubra como escolher a melhor empresa de facilities no interior de SP, incluindo Americana, Campinas e Limeira.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-como-escolher-empresa-de-facilities-interior-sp.html"
     }
   ]
 }
