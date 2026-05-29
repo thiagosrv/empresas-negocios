@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-28T13:54:08.530Z",
+  "updated": "2026-05-29T12:48:15.204Z",
   "articles": [
+    {
+      "slug": "crescimento-polo-industrial-americana-2026",
+      "title": "Crescimento do Polo Industrial de Americana: Oportunidades em 2026",
+      "description": "Descubra as oportunidades de crescimento e vagas no polo industrial de Americana, Sumaré e Santa Bárbara D'Oeste em 2026.",
+      "date": "29 de mai. de 2026",
+      "isoDate": "2026-05-29",
+      "tag": "Indústrias",
+      "tagCls": "industrias",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-29-crescimento-polo-industrial-americana-2026.html"
+    },
+    {
+      "slug": "controle-acesso-veiculos-parques-industriais-sumare",
+      "title": "Controle de Acesso de Veículos em Parques Industriais de Sumaré e Americana",
+      "description": "Descubra tecnologias e práticas para controle de acesso em parques industriais de Sumaré e Americana.",
+      "date": "29 de mai. de 2026",
+      "isoDate": "2026-05-29",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-29-controle-acesso-veiculos-parques-industriais-sumare.html"
+    },
     {
       "slug": "mercado-imobiliario-comercial-campinas-americana-2026",
       "title": "Mercado Imobiliário Comercial em Campinas e Americana: Oportunidades 2026",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-21-controle-acesso-santa-barbara-doeste-pmes-condominios.html"
-    },
-    {
-      "slug": "controle-acesso-piracicaba-tecnologias-solucoes",
-      "title": "Controle de Acesso em Piracicaba: Tecnologias e Soluções",
-      "description": "Descubra as melhores práticas de controle de acesso em Piracicaba para usinas, indústrias e condomínios.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-controle-acesso-piracicaba-tecnologias-solucoes.html"
-    },
-    {
-      "slug": "controle-acesso-limeira-rfid-biometria-cftv",
-      "title": "Controle de Acesso em Limeira: RFID, Biometria e CFTV para Indústrias",
-      "description": "Explore soluções de controle de acesso em Limeira, SP, incluindo RFID, biometria e CFTV para indústrias e condomínios.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-controle-acesso-limeira-rfid-biometria-cftv.html"
     }
   ]
 }
