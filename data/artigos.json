@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-29T12:48:15.204Z",
+  "updated": "2026-05-30T11:21:53.999Z",
   "articles": [
+    {
+      "slug": "ecossistema-startups-campinas-2026-unicornios-inovacoes",
+      "title": "O Ecossistema de Startups de Campinas em 2026: Novos Unicórnios e Inovações",
+      "description": "Descubra os novos unicórnios de Campinas em 2026 e as inovações que estão transformando o mercado.",
+      "date": "30 de mai. de 2026",
+      "isoDate": "2026-05-30",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-30-ecossistema-startups-campinas-2026-unicornios-inovacoes.html"
+    },
+    {
+      "slug": "digitalizacao-controle-visitantes-campinas",
+      "title": "Digitalização do Controle de Visitantes em Campinas: Segurança e Eficiência",
+      "description": "Saiba como softwares de controle de visitantes em Campinas podem aumentar a segurança e eficiência nas empresas.",
+      "date": "30 de mai. de 2026",
+      "isoDate": "2026-05-30",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1560472355-536de3962603?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-30-digitalizacao-controle-visitantes-campinas.html"
+    },
     {
       "slug": "crescimento-polo-industrial-americana-2026",
       "title": "Crescimento do Polo Industrial de Americana: Oportunidades em 2026",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-21-recepcao-corporativa-campinas-ti-startups.html"
-    },
-    {
-      "slug": "economia-terceirizacao-facilities-campinas",
-      "title": "Economia com Terceirização de Facilities em Campinas: Até 35%",
-      "description": "Descubra como terceirizar facilities em Campinas pode reduzir custos fixos em até 35%.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-economia-terceirizacao-facilities-campinas.html"
-    },
-    {
-      "slug": "controle-acesso-santa-barbara-doeste-pmes-condominios",
-      "title": "Controle de Acesso em Santa Bárbara D'Oeste: Soluções Práticas para PMEs",
-      "description": "Descubra soluções de controle de acesso para PMEs industriais e condomínios em Santa Bárbara D'Oeste.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-controle-acesso-santa-barbara-doeste-pmes-condominios.html"
     }
   ]
 }
