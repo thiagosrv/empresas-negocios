@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T17:13:38.436Z",
+  "updated": "2026-05-30T19:24:12.317Z",
   "feeds": {
     "campinas": [
       {
@@ -15,7 +15,7 @@
       {
         "title": "Ex-secretário de Valinhos é preso após perseguição, batida e recusa de bafômetro",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/ex-secretario-de-valinhos-e-preso-apos-perseguicao-batida-e-recusa-de-bafometro.ghtml",
-        "summary": "Ex-secretário de Valinhos é preso após perseguição, batida e recusa de bafômetro Reprodução/EPTV O ex-secretário de Assistência Social de Valinhos (SP), Thiago Henrique Maia Soratto, foi preso na madrugada deste sábado (",
+        "summary": "Ex-secretário é preso após fuga, perseguição e batida em Valinhos O ex-secretário de Assistência Social de Valinhos (SP), Thiago Henrique Maia Soratto, foi preso na madrugada deste sábado (30) após uma perseguição polici",
         "image": "https://s2-g1.glbimg.com/3OCKxivQXksdRtJnPLy2iH88gUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/nAkG4NR9mZ5XsU4Chncg/whatsapp-image-2026-05-30-at-07.33.04.jpeg",
         "date": "30 de mai. de 2026",
         "source": "G1 Campinas",
@@ -35,7 +35,7 @@
       {
         "title": "Shows, montaria e novo palco: tudo o que você precisa saber sobre a Festa do Peão de Americana 2026",
         "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/05/30/shows-montaria-e-novo-palco-tudo-o-que-voce-precisa-saber-sobre-a-festa-do-peao-de-americana-2026.ghtml",
-        "summary": "Tudo o que você precisa saber sobre a Festa do Peão de America 2026, que começa na quarta A 38ª edição da Festa do Peão de Americana (SP), um dos maiores rodeios do Brasil, começa na quarta-feira (3) com shows de grandes",
+        "summary": "Festa do Peão de Americana 2026 começa na quarta-feira A 38ª edição da Festa do Peão de Americana (SP), um dos maiores rodeios do Brasil, começa na quarta-feira (3) com shows de grandes nomes do sertanejo. Ao todo, serão",
         "image": "https://s2-g1.glbimg.com/DnD111ZCYMBtKFBndjd-k6Do01k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/c/9yTG6KTMO1DjaAXi9MWg/whatsapp-image-2025-06-16-at-00.14.22-2-.jpeg",
         "date": "30 de mai. de 2026",
         "source": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Desenrola Brasil: saiba como usar FGTS para pagar dívidas em atraso",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/desenrola-brasil-saiba-como-usar-fgts-para-pagar-dividas-em-atraso",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/desenrola-brasil-saiba-como-usar-fgts-para-pagar-dividas-em-atraso img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tela Brasil: streaming público estreia com mais de 550 obras",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/tela-brasil-streaming-publico-estreia-com-mais-de-550-obras",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/tela-brasil-streaming-publico-estreia-com-mais-de-550-obras img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "São Paulo investiga caso suspeito de ebola em homem de 37 anos",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/sao-paulo-investiga-caso-suspeito-de-ebola-em-homem-de-37-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/sao-paulo-investiga-caso-suspeito-de-ebola-em-homem-de-37-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Festival na periferia do DF traz hip hop contra escala 6x1",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/festival-na-periferia-do-df-traz-hip-hop-contra-escala-6x1",
         "summary": "blockquote p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/festival-na-periferia-do-df-traz-hip-hop-contra-escala-6x1 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -146,36 +176,6 @@
         "title": "Mutirão do INSS em todo país acelera análise de benefícios e perícias",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mutirao-do-inss-em-todo-pais-acelera-analise-de-beneficios-e-pericias",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mutirao-do-inss-em-todo-pais-acelera-analise-de-beneficios-e-pericias img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "30 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TV Brasil exibe programa sobre plantas alimentícias não convencionais",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/tv-brasil-exibe-programa-sobre-plantas-alimenticias-nao-convencionais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/tv-brasil-exibe-programa-sobre-plantas-alimenticias-nao-convencionais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "30 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Acordo Mercosul-Canadá avança em décima rodada de negociações",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/acordo-mercosul-canada-avanca-em-decima-rodada-de-negociacoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/acordo-mercosul-canada-avanca-em-decima-rodada-de-negociacoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "30 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Prazo para envio da declaração anual do MEI termina neste domingo",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/prazo-para-envio-da-declaracao-anual-do-mei-termina-neste-domingo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/prazo-para-envio-da-declaracao-anual-do-mei-termina-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Agência Brasil",
@@ -247,6 +247,16 @@
     ],
     "negocios": [
       {
+        "title": "Desenrola Brasil: saiba como usar FGTS para pagar dívidas em atraso",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/desenrola-brasil-saiba-como-usar-fgts-para-pagar-dividas-em-atraso",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/desenrola-brasil-saiba-como-usar-fgts-para-pagar-dividas-em-atraso img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
         "title": "Embrapa produz em laboratório salmão, caviar e anéis de lula veganos",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/embrapa-produz-em-laboratorio-salmao-caviar-e-aneis-de-lula-veganos",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/embrapa-produz-em-laboratorio-salmao-caviar-e-aneis-de-lula-veganos img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "A 5 horas do fim do prazo, 900 mil não enviaram declaração do IR",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/5-horas-do-fim-do-prazo-900-mil-nao-enviaram-declaracao-do-ir",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/5-horas-do-fim-do-prazo-900-mil-nao-enviaram-declaracao-do-ir img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "29 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Tiroteio no metrô de São Paulo deixa ao menos cinco feridos, entre eles um bebê",
-        "link": "https://www.infomoney.com.br/brasil/tiroteio-no-metro-de-sao-paulo-deixa-ao-menos-cinco-feridos-entre-elas-um-bebe/",
-        "summary": "Tentativa de assalto teria motivado troca de tiros entre suspeitos e um policial à paisana The post Tiroteio no metrô de São Paulo deixa ao menos cinco feridos, entre eles um bebê appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/tiroteio-metro-sp-linha-1-sao-bento.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Rede e PSOL pedem que PGR investigue Flávio por possível atentado à soberania",
+        "link": "https://www.infomoney.com.br/politica/rede-e-psol-pedem-que-pgr-investigue-flavio-por-possivel-atentado-a-soberania/",
+        "summary": "O documento cita a visita de Flávio ao presidente americano, Donald Trump, na última terça-feira, 26, quando o senador afirmou ter defendido a designação dos grupos criminosos PCC e CV como organizações terroristas The p",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/flavio-trump-salao-oval-casa-branca-eua01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Flamengo x Coritiba: Veja onde assistir ao Brasileirão",
-        "link": "https://www.infomoney.com.br/esportes/flamengo-coritiba-onde-assistir-brasileiro/",
-        "summary": "O Flamengo joga em casa hoje The post Flamengo x Coritiba: Veja onde assistir ao Brasileirão appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/thumb-flamengo-x-coritiba.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Polícia investiga uso de drone para lançar granada no Rio; jovem foi atingido",
+        "link": "https://www.infomoney.com.br/brasil/policia-investiga-uso-de-drone-para-lancar-granada-no-rio-jovem-de-15-anos-se-feriu/",
+        "summary": "Caso ocorreu na comunidade da Caixa D'Água, em meio a disputa entre facções The post Polícia investiga uso de drone para lançar granada no Rio; jovem foi atingido appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/comunidade-caixa-agua-rio-janeiro.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Montagem com Jair Bolsonaro em telões gera tumulto e depredações no Paraguai",
-        "link": "https://www.infomoney.com.br/mundo/montagem-com-jair-bolsonaro-em-teloes-gera-tumulto-e-depredacoes-no-paraguai/",
-        "summary": "Empresas dizem ter sofrido invasão hacker e prefeitura abriu investigação após exibição com provocações terminar em vandalismo The post Montagem com Jair Bolsonaro em telões gera tumulto e depredações no Paraguai appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/led-bolsonaro-turmult-paraguai.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Rússia diz que drone ucraniano atingiu usina nuclear de Zaporizhzhia",
+        "link": "https://www.infomoney.com.br/mundo/russia-diz-que-drone-ucraniano-atingiu-usina-nuclear-de-zaporizhzhia/",
+        "summary": "Estatal de energia nuclear da Rússia diz que drone ucraniano atingiu usina de Zaporizhzhia The post Rússia diz que drone ucraniano atingiu usina nuclear de Zaporizhzhia appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-03T210836Z_790789612_RC2DKGAEUVWF_RTRMADP_3_WW2-ANNIVERSARY-CHINA-RUSSIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Receita restituiu R$ 16 bi antes do fim do prazo de entrega do DIRPF, diz Durigan",
-        "link": "https://www.infomoney.com.br/minhas-financas/receita-restituiu-r-16-bi-antes-do-fim-do-prazo-de-entrega-do-dirpf-diz-durigan/",
-        "summary": "Nas redes sociais, ministro destacou também que o governo realizará em 15 de julho o primeiro pagamento do chamado cashback do Imposto de Renda The post Receita restituiu R$ 16 bi antes do fim do prazo de entrega do DIRP",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/dario-3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Lula critica quem ‘prefere falar uma palavra em inglês do que em português’",
+        "link": "https://www.infomoney.com.br/politica/lula-critica-quem-prefere-falar-uma-palavra-em-ingles-do-que-em-portugues/",
+        "summary": "Declaração foi feita durante evento com críticas indiretas ao filme que homenageia Jair Bolsonaro The post Lula critica quem ‘prefere falar uma palavra em inglês do que em português’ appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/lula-brasil-cultura-rio-janeiro.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Avião de pequeno porte cai sobre área residencial em Nova Iguaçu e deixa um morto",
-        "link": "https://www.infomoney.com.br/brasil/aviao-de-pequeno-porte-cai-sobre-area-residencial-em-nova-iguacu-e-deixa-um-morto/",
-        "summary": "Piloto era o único ocupante da aeronave, que caiu próximo ao campo de aviação da cidade na manhã deste sábado; ninguém em solo ficou ferido The post Avião de pequeno porte cai sobre área residencial em Nova Iguaçu e deix",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-30-130239.png?fit=300%2C134&amp;quality=70&amp;strip=all",
+        "title": "Trump quer comício com artistas em Washington; apenas grandes patriotas convidados",
+        "link": "https://www.infomoney.com.br/mundo/trump-quer-comicio-com-artistas-em-washington-apenas-grandes-patriotas-convidados/",
+        "summary": "O comentário não faz referência expressa, mas sinaliza estar relacionado ao festival em comemoração ao 250º aniversário dos EUA The post Trump quer comício com artistas em Washington; apenas grandes patriotas convidados ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-05T193307Z_1307382328_UP1ELC51IB57O_RTRMADP_3_SOCCER-WORLDCUP-DRAW.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Parlamento de Gana aprova novo projeto que criminaliza promoção LGBTQ",
-        "link": "https://www.infomoney.com.br/mundo/parlamento-de-gana-aprova-novo-projeto-que-criminaliza-promocao-lgbtq/",
-        "summary": "A lei é ainda mais dura do que a aprovada em fevereiro de 2024, que expirou após o então presidente Nana Akufo-Addo ter se negado a assiná-la The post Parlamento de Gana aprova novo projeto que criminaliza promoção LGBTQ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Parlamento-de-Gana.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Lula volta a criticar privatização da BR; sem controle sobre preço dos combustíveis",
+        "link": "https://www.infomoney.com.br/brasil/lula-volta-a-criticar-privatizacao-da-br-sem-controle-sobre-preco-dos-combustiveis/",
+        "summary": "Lula ainda criticou tentativas de privatização da Petrobras em governos anteriores ao seu The post Lula volta a criticar privatização da BR; sem controle sobre preço dos combustíveis appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55279140659_17abf0c49f_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Com acordo estagnado, EUA ameaçam retomar guerra com o Irã",
-        "link": "https://exame.com/mundo/com-acordo-estagnado-eua-ameacam-retomar-guerra-com-o-ira/",
-        "summary": "Washington pressiona Teerã por garantias sobre programa nuclear e reabertura do Estreito de Ormuz",
+        "title": "PSG vence Arsenal nos pênaltis e é bicampeão da Champions League",
+        "link": "https://exame.com/esporte/psg-vence-arsenal-nos-penaltis-e-e-bicampeao-da-champions-league/",
+        "summary": "Dembélé empata, decisão vai aos pênaltis, e o PSG supera o Arsenal por 4 a 3 para confirmar o bicampeonato europeu",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mata Atlântica paulista bate recorde de fauna enquanto desmatamento cai 29%",
-        "link": "https://exame.com/esg/mata-atlantica-paulista-bate-recorde-de-fauna-enquanto-desmatamento-cai-29/",
-        "summary": "Plataforma do governo de São Paulo registrou mais de 166 mil ocorrências de animais silvestres em unidades de conservação conectadas por corredores ecológicos, incluindo onças, muriquis e antas",
+        "title": "Em São Paulo, tiroteio em estação de metrô deixa 5 feridos",
+        "link": "https://exame.com/brasil/em-sao-paulo-tiroteio-em-estacao-de-metro-deixa-5-feridos/",
+        "summary": "Ocorrência na região central da capital paulista deixou feridos, entre eles uma criança e o pai dela; tiros teriam começado durante tentativa de roubo",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Falha precoce de Marquinhos em final da Champions bota em risco o bi do PSG",
-        "link": "https://exame.com/esporte/falha-precoce-de-marquinhos-em-final-da-champions-bota-em-risco-o-bi-do-psg/",
-        "summary": "Zagueiro brasileiro entregou a bola nos pés do ataque do Arsenal logo aos 5 minutos de jogo",
+        "title": "Suspeita de Ebola no Brasil: há chance de virar pandemia?",
+        "link": "https://exame.com/mundo/suspeita-de-ebola-no-brasil-ha-chance-de-virar-pandemia/",
+        "summary": "OMS declara emergência internacional após avanço de casos na África",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Isenção de tributos sobre querosene de aviação e biodiesel é prorrogada até 31 de julho",
-        "link": "https://exame.com/brasil/isencao-de-tributos-sobre-querosene-de-aviacao-e-biodiesel-e-prorrogada-ate-31-de-julho/",
-        "summary": "Decreto do governo aumenta prazo e busca reduzir impactos da guerra do Irã no preço dos combustíveis e passagens aéreas",
+        "title": "Como atualizar o cadastro para manter desconto na conta de luz? Veja passo a passo",
+        "link": "https://exame.com/invest/minhas-financas/como-atualizar-o-cadastro-para-manter-desconto-na-conta-de-luz-veja-passo-a-passo/",
+        "summary": "Mais de 650 mil famílias atendidas pela Enel precisam regularizar dados até o fim de 2026 para não perder benefícios sociais na tarifa de energia",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "PSD confirma indicação de Kassab como vice de Caiado na corrida presidencial",
-        "link": "https://exame.com/politica/psd-confirma-indicacao-de-kassab-como-vice-de-caiado-na-corrida-presidencial/",
-        "summary": "Líderes históricos do partido defendem chapa pura para as eleições de 2026; Kassab diz que \"muitas etapas\" precisam ser cumpridas",
+        "title": "Turismo do gasolina: Polônia atrai motoristas de outros países com combustível barato",
+        "link": "https://exame.com/invest/mercados/turismo-do-gasolina-polonia-atrai-motoristas-de-outros-paises-com-combustivel-barato/",
+        "summary": "Programa do governo para limitar preços dos combustíveis impulsiona vendas e cria fenômeno de “turismo da gasolina”",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "O que é o Ebola e por que autoridades monitoram viajantes vindos da África",
-        "link": "https://exame.com/ciencia/o-que-e-o-ebola-e-por-que-autoridades-monitoram-viajantes-vindos-da-africa/",
-        "summary": "Caso suspeito em São Paulo reacende protocolos de vigilância para uma das doenças infecciosas mais letais do mundo",
+        "title": "Colômbia acusa Equador de interferência eleitoral após Noboa anunciar fim de tarifas",
+        "link": "https://exame.com/mundo/colombia-acusa-equador-de-interferencia-eleitoral-apos-noboa-anunciar-fim-de-tarifas/",
+        "summary": "Governo colombiano diz que presidente equatoriano tentou favorecer candidato de direita Abelardo de la Espriella às vésperas da votação",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
