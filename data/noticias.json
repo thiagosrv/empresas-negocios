@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-30T03:52:18.638Z",
+  "updated": "2026-05-30T06:50:36.828Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Coincidência trágica: mortes em rodovia no interior de SP atingem mesma família após 24 anos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/coincidencia-tragica-mortes-em-rodovia-no-interior-de-sp-atingem-mesma-familia-apos-24-anos.ghtml",
+        "summary": "Recém-casados mortos em acidente são velados e enterrados juntos Os acidentes que mataram dois recém-casados e, sete dias depois, o primo da noiva, em Itapira (SP), revelam uma coincidência trágica envolvendo a mesma fam",
+        "image": "https://s2-g1.glbimg.com/oht8C67ggmR-euI0FcqpWjs7CVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/sH5BAZQMOjMotBP95cxQ/design-sem-nome.png",
+        "date": "30 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Com produção liberada, Ypê garante troca ou ressarcimento de lotes ainda vetados pela Anvisa",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/29/com-producao-liberada-ype-garante-troca-ou-devolucao-de-lotes-ainda-vetados-pela-anvisa.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/05/29/festa-do-peao-de-americana-tera-transmissao-do-brasil-na-copa-em-telao-na-arena-veja-programacao.ghtml",
         "summary": "Provas finais de montaria na 6º noite da Festa do Peão de Americana Thomaz Marostegan/g1 A Festa do Peão de Americana anunciou, nesta quinta-feira (28), que vai transmitir a estreia da Seleção Brasileira contra o Marroco",
         "image": "https://s2-g1.glbimg.com/LxKdgsw-HBO1baHgtcb6Xwp85HU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/5/JVNRUlSXGJI9PSzFczkA/whatsapp-image-2025-06-15-at-22.56.35-2-.jpeg",
-        "date": "29 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Campinas terá núcleo para desenvolver aplicativos com uso de IA para serviços públicos federais",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/29/nucleo-desenvolver-aplicativos-uso-ia-servicos-publicos-federais.ghtml",
-        "summary": "Ministra Esther Dweck visita CPQD para anúncio de resultados de projeto sobre IA O Centro de Pesquisa e Desenvolvimento em Telecomunicações (CPQD), em Campinas (SP), terá um núcleo para desenvolver aplicativos com uso de",
-        "image": "https://s2-g1.glbimg.com/kT64GVpae7YGe_79w-o63f-RfNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/s/mphUKfQJAjDG5c2IjyzA/whatsapp-image-2026-05-29-at-16.04.30.jpeg",
         "date": "29 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Cantareira vai continuar a ter captação de água menor em junho",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/cantareira-vai-continuar-ter-captacao-de-agua-menor-em-junho",
+        "summary": "p strong A Agência Nacional de Águas (ANA) informou que manterá o Sistema Cantareira operando na Faixa 2 - Atenção durante todo o mês de junho. A medida impõe restrições à captação de água dos rios e reservatórios durant",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Legista diz que Henry tinha lesões e rebate tese de acidente doméstico",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/legista-diz-que-henry-tinha-14-lesoes-e-rebate-tese-acidente-domestico",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/legista-diz-que-henry-tinha-14-lesoes-e-rebate-tese-acidente-domestico img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Edgar Morin, filósofo francês, morre aos 104 anos de idade",
         "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/edgar-morin-filosofo-frances-morre-aos-104-anos-de-idade",
         "summary": "p strong Um dos principais intelectuais contemporâneos, o filósofo e sociólogo francês Edgar Morin morreu, nesta sexta-feira (29), aos 104 anos de idade. /strong img src= https://agenciabrasil.ebc.com.br/ebc.png?id=16917",
@@ -156,26 +176,6 @@
         "title": "Festival debate futuro da mídia digital e inteligência artificial",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/festival-no-rio-debate-futuro-da-midia-e-inteligencia-artificial",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/festival-no-rio-debate-futuro-da-midia-e-inteligencia-artificial img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "29 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Anvisa libera fábrica da Ypê e produtos feitos a partir de 1º de abril",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/anvisa-libera-fabrica-da-ype-e-produtos-feitos-partir-de-1o-de-abril",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/anvisa-libera-fabrica-da-ype-e-produtos-feitos-partir-de-1o-de-abril img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "29 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "A 5 horas do fim do prazo, 900 mil não enviaram declaração do IR",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/5-horas-do-fim-do-prazo-900-mil-nao-enviaram-declaracao-do-ir",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/5-horas-do-fim-do-prazo-900-mil-nao-enviaram-declaracao-do-ir img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "29 de mai. de 2026",
         "source": "Agência Brasil",
@@ -242,6 +242,66 @@
         "date": "27 de mai. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "João Fonseca faz história, elimina Djokovic em vir...",
+        "link": "https://www.espn.com.br/tenis/artigo/_/id/16774708/joao-fonseca-faz-historia-elimina-djokovic-virada-epica-vai-oitavas-roland-garros",
+        "summary": "Em uma verdadeira batalha técnica, tática e física, o carioca levou a melhor diante do sérvio por 3 sets a 2 partida dura no mítico saibro da Philippe Chatrier",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Djokovic vê 'nível incrível' de João Fonseca em du...",
+        "link": "https://www.espn.com.br/tenis/artigo/_/id/16775600/djokovic-ve-nivel-incrivel-joao-fonseca-virada-epica-roland-garros-vimos-porque-desse-hype",
+        "summary": "null",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Próximo adversário, Casper Ruud se rende ao brasil...",
+        "link": "https://www.espn.com.br/tenis/artigo/_/id/16776257/proximo-adversario-joao-fonseca-roland-garros-casper-ruud-se-rende-ao-brasileiro-projeta-duelo-tarefa-muito-dificil",
+        "summary": "null",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Arboleda notifica São Paulo e exige reintegração a...",
+        "link": "https://www.espn.com.br/futebol/sao-paulo/artigo/_/id/16776484/robert-arboleda-notifica-sao-paulo-exige-reintegracao-ao-elenco-em-ate-48-horas-clube-responde",
+        "summary": "null",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Sorteio da Libertadores define oitavas com Flameng...",
+        "link": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/16773851/oitavas-flibertadores-flamengo-x-cruzeiro-veja-confrontos",
+        "summary": "Confrontos das oitavas de final da CONMEBOL Libertadores 2026 foram definidos em sorteio nesta sexta-feira (29)",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Chaveamento da Libertadores: como ficou o caminho ...",
+        "link": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/16767095/chaveamento-libertadores-como-ficou-caminho-oitavas-final-sorteio",
+        "summary": "null",
+        "image": null,
+        "date": "30 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
