@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-31T19:23:32.190Z",
+  "updated": "2026-05-31T21:05:03.310Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "De esteticista a auxiliar de produção: veja 1,1 mil vagas de emprego abertas nesta semana na região de Piracicaba",
+        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/05/31/de-esteticista-a-recepcionista-veja-as-11-mil-vagas-de-emprego-abertas-nesta-semana-na-regiao-de-piracicaba.ghtml",
+        "summary": "Aplicativo da Carteira de Trabalho Digital Agência Brasil Cinco cidades da região de Piracicaba (SP) oferecem 1.135 vagas de emprego. As oportunidades estão disponíveis a partir desta segunda-feira (1º) nos serviços muni",
+        "image": "https://s2-g1.glbimg.com/QrZ8rzly3rJK0Y2Y8i0aQlsZDdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/0sUBTTT4Onaju0BF4icw/carteira-de-trabalho-agencia-brasil.jpg",
+        "date": "31 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Piloto de moto morre e garupa fica ferido em acidente da Rodovia dos Bandeirantes, em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/31/piloto-de-moto-morre-e-garupa-fica-ferido-em-acidente-da-rodovia-dos-bandeirantes-em-campinas.ghtml",
@@ -48,16 +58,6 @@
         "summary": "Polícia apreende 240 quilos de drogas e prende quatro suspeitos na região A Polícia Militar prendeu quatro homens e apreendeu cerca de 240 quilos de drogas neste sábado (30), em Sumaré, Americana e Nova Odessa (SP). As p",
         "image": "https://s2-g1.glbimg.com/vUolF3ITW0O2CctcuSxtESli0r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/e/l9KsD5R2mWYHZG9CCADw/copia-de-1200px-x-900px-3-.jpg",
         "date": "31 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Guarda Ambiental resgata jiboia de 2,2 metros no topo de árvore em Valinhos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/guarda-ambiental-resgata-jiboia-de-22-metros-no-topo-de-arvore-em-valinhos.ghtml",
-        "summary": "Guarda Ambiental resgata jiboia de 2,2 metros no topo de árvore em Valinhos Uma jiboia de aproximadamente 2,2 metros foi resgatada pela Guarda Civil Municipal (GCM) Ambiental na tarde deste sábado (30), após ser avistada",
-        "image": "https://s2-g1.glbimg.com/0PaVFNs_z-p12S6eua0rvqulLow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/W/uJRndFSHW6fkjc048F9A/copia-de-1200px-x-900px-1-.jpg",
-        "date": "30 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Chuvas em Roraima: técnicos federais ajudam na resposta a desastres",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/chuvas-em-roraima-tecnicos-federais-ajudam-na-resposta-desastres",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/chuvas-em-roraima-tecnicos-federais-ajudam-na-resposta-desastres img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Sem artistas, Trump cogita comício em evento da independência dos EUA",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/com-cancelamentos-de-artistas-trump-quer-comicio-em-evento-da-indepen",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/com-cancelamentos-de-artistas-trump-quer-comicio-em-evento-da-indepen img src= https://cdn.jsdelivr.net/gh/sergi",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Expedição leva atendimento em saúde a ribeirinhos de Rondônia",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/expedicao-leva-atendimento-em-saude-a-ribeirinhos-de-rondonia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/expedicao-leva-atendimento-em-saude-a-ribeirinhos-de-rondonia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasil no Mundo discute impacto de decisão dos EUA sobre facções",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/brasil-no-mundo-discute-impacto-de-decisao-dos-eua-sobre-faccoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/brasil-no-mundo-discute-impacto-de-decisao-dos-eua-sobre-faccoes img src= https://cdn.jsdelivr.net/gh/sergiosdli",
@@ -146,36 +176,6 @@
         "title": "Rio: belga testa positivo para malária, mas Fiocruz não descarta ebola",
         "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/rio-belga-testa-positivo-para-malaria-mas-fiocruz-nao-descarta-ebola",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/rio-belga-testa-positivo-para-malaria-mas-fiocruz-nao-descarta-ebola img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "31 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Projeto abre espaço para público conhecer habitat dos cavalos marinhos",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/projeto-abre-espaco-para-publico-conhecer-habitat-dos-cavalos-marinhos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/projeto-abre-espaco-para-publico-conhecer-habitat-dos-cavalos-marinhos img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "31 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Caso Henry Borel: julgamento de Jairinho e Monique entra no sétimo dia",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/caso-henry-borel-julgamento-de-jairinho-e-monique-entra-no-setimo-dia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/caso-henry-borel-julgamento-de-jairinho-e-monique-entra-no-setimo-dia img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "31 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Embrapa cria calcário mais nutritivo resistente à umidade e ao vento",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/embrapa-cria-calcario-mais-nutritivo-resistente-umidade-e-ao-vento",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/embrapa-cria-calcario-mais-nutritivo-resistente-umidade-e-ao-vento img src= https://cdn.jsdelivr.net/gh/sergiosd",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Agência Brasil",
@@ -255,9 +255,19 @@
         "cls": "startups"
       },
       {
-        "title": "Alemanha x Finlândia: acompanhe AO VIVO o amistoso...",
-        "link": "https://www.espn.com.br/futebol/partida/_/jogoId/758381",
-        "summary": "Alemanha x Finlândia: acompanhe AO VIVO o amistoso...",
+        "title": "Brasil x Panamá AO VIVO: siga último amistoso da s...",
+        "link": "https://www.espn.com.br/futebol/partida-estatisticas/_/jogoId/401864003",
+        "summary": "Brasil x Panamá AO VIVO: siga último amistoso do Brasil antes da Copa",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Brasil está escalado para amistoso contra o Panamá...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16780768/brasil-x-panama-onde-assistir-ao-vivo-escalacoes-amistoso-selecao",
+        "summary": "null",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "ESPN Brasil",
@@ -275,9 +285,9 @@
         "cls": "startups"
       },
       {
-        "title": "O 9 que não é 9: Matheus Cunha encara missão de es...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16761563/9-nao-e-9-matheus-cunha-missao-acabar-jejum-selecao-brasileira-antes-copa-do-mundo",
-        "summary": "null",
+        "title": "SÉRIE B AO VIVO: siga Ceará x Operário agora em TE...",
+        "link": "https://www.espn.com.br/futebol/partida-estatisticas/_/jogoId/401860165",
+        "summary": "SÉRIE B AO VIVO: siga Ceará x Operário agora em TEMPO REAL",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "ESPN Brasil",
@@ -285,19 +295,9 @@
         "cls": "startups"
       },
       {
-        "title": "Festa? Como despedida da Seleção antes da Copa já ...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16780411/festa-despedida-selecao-brasileira-copa-do-mundo-acabou-vaias-protestos-maracana",
-        "summary": "null",
-        "image": null,
-        "date": "31 de mai. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Finais da NBA definidas: saiba tudo sobre os jogos...",
-        "link": "https://www.espn.com.br/nba/artigo/_/id/16779873/nba-finais-definidas-2026-saiba-tudo-sobre-jogos-san-antonio-spurs-new-york-knicks",
-        "summary": "null",
+        "title": "Alemanha x Finlândia: acompanhe AO VIVO o amistoso...",
+        "link": "https://www.espn.com.br/futebol/partida/_/jogoId/758381",
+        "summary": "Alemanha x Finlândia: acompanhe AO VIVO o amistoso...",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "ESPN Brasil",
@@ -306,6 +306,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Petrobras implementa desconto no diesel a partir de segunda-feira",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/petrobras-implementa-desconto-no-diesel-partir-de-segunda-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/petrobras-implementa-desconto-no-diesel-partir-de-segunda-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Mega-Sena acumula e prêmio principal vai para R$ 16 milhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/mega-sena-acumula-e-premio-principal-vai-para-r-16-milhoes",
@@ -357,79 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Defesa e Cidades lideram bloqueios no Orçamento de 2026",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/defesa-e-cidades-lideram-bloqueios-no-orcamento-de-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/defesa-e-cidades-lideram-bloqueios-no-orcamento-de-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
-        "image": null,
-        "date": "30 de mai. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Banana de R$ 31 milhões: museu na França investiga roubo de obra de arte",
-        "link": "https://www.infomoney.com.br/mundo/banana-de-r-31-milhoes-museu-na-franca-investiga-roubo-de-obra-de-arte/",
-        "summary": "Instalação 'Comedian', que estava em exposição no Centro Pompidou-Metz, já foi alvo de ações semelhantes; desta vez, caso foi parar na polícia The post Banana de R$ 31 milhões: museu na França investiga roubo de obra de ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/comedian-pompidou-museu-franca-roubo-arte-obra-banana.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Petrobras vai reduzir preço do diesel nesta segunda-feira; veja valores",
+        "link": "https://www.infomoney.com.br/consumo/petrobras-vai-reduzir-preco-do-diesel-nesta-segunda-feira-veja-valores/",
+        "summary": "Para o consumidor final, desconto vai neutralizar a reoneração do PIS e Cofins, que também passe a valor a partir do dia 1º The post Petrobras vai reduzir preço do diesel nesta segunda-feira; veja valores appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Captura-de-tela-2025-07-17-104221.png?fit=300%2C198&amp;quality=70&amp;strip=all",
         "date": "31 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "AIEA conclui que danos na usina nuclear russa de Zaporizhzhia vieram de drones",
-        "link": "https://www.infomoney.com.br/mercados/aiea-conclui-que-danos-na-usina-nuclear-russa-de-zaporizhzhia-vieram-de-drones/",
-        "summary": "Durante a vistoria, a AIEA viu danos em uma escotilha de acesso de metal localizada vários níveis acima no prédio The post AIEA conclui que danos na usina nuclear russa de Zaporizhzhia vieram de drones appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Usina_Ucrania.jpg?fit=300%2C136&amp;quality=70&amp;strip=all",
+        "title": "Empresários esperam que EUA apliquem novas tarifas contra o Brasil nesta semana",
+        "link": "https://www.infomoney.com.br/mundo/empresarios-esperam-que-eua-apliquem-novas-tarifas-contra-o-brasil-nesta-semana/",
+        "summary": "Se confirmada, medida virá na esteira da classificação do governo norte-americano do PCC e Comando Vermelho como grupos terroristas The post Empresários esperam que EUA apliquem novas tarifas contra o Brasil nesta semana",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/flavio-trump-lula-brasil-eua.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "31 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Estudo inédito do Greenpeace mostra como garimpo ilegal dribla a legislação",
-        "link": "https://www.infomoney.com.br/brasil/estudo-inedito-do-greenpeace-mostra-como-garimpo-ilegal-dribla-a-legislacao/",
-        "summary": "Greenpeace Brasil diz que permissões fraudulentas foram responsáveis pela comercialização de 25,3 toneladas de ouro, o que equivale a aproximadamente R$ 18,4 bilhões The post Estudo inédito do Greenpeace mostra como gari",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/rio-mucajai.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Explosão em prédio em Mianmar mata mais de 45 pessoas, dizem equipes de resgate",
+        "link": "https://www.infomoney.com.br/mundo/explosao-em-predio-em-mianmar-mata-mais-de-45-pessoas-dizem-equipes-de-resgate/",
+        "summary": "A área, localizada a cerca de 3 quilômetros ao sul da fronteira chinesa, está sob o controle do Exército de Libertação Nacional Ta'ang, um grupo armado étnico The post Explosão em prédio em Mianmar mata mais de 45 pessoa",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Mianmar.png?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "31 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Japão rejeita alegações de novo militarismo e acusa China de se armar rapidamente",
-        "link": "https://www.infomoney.com.br/mundo/japao-rejeita-alegacoes-de-novo-militarismo-e-acusa-china-de-se-armar-rapidamente/",
-        "summary": "Japão rejeita alegações de \"novo militarismo\" e acusa China de se armar rapidamente The post Japão rejeita alegações de novo militarismo e acusa China de se armar rapidamente appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/2024-07-12T114240Z_1_LYNXMPEK6B0DX_RTROPTP_4_CHINA-JAPAN.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+        "title": "Onde o Brasil aparece na lista de cidadania da Espanha a residentes estrangeiros?",
+        "link": "https://www.infomoney.com.br/minhas-financas/onde-o-brasil-aparece-na-lista-de-cidadania-da-espanha-a-residentes-estrangeiros/",
+        "summary": "Quem liderou a aquisição de nacionalidade espanhola no ano passado foi Marrocos, com 42.114 residentes nascidos naquele país; Brasil ficou no 13º lugar, atrás de vários latino-americanos The post Onde o Brasil aparece na",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/pexels-pixabay-54097.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "31 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Resultado do 1° turno das eleições na Colômbia pode sair no início da noite",
-        "link": "https://www.infomoney.com.br/mundo/resultado-do-1-turno-das-eleicoes-na-colombia-pode-sair-no-inicio-da-noite/",
-        "summary": "Forte policiamento tem permitido que a votação aconteça com certa tranquilidade; previsão mais otimista é que resultado seja conhecido por volta das 20h (horário de Brasília) The post Resultado do 1° turno das eleições n",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Eleicoes-na-Colombia-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Calendário econômico: dados de indústria no Brasil e trabalho nos EUA são foco",
+        "link": "https://www.infomoney.com.br/mercados/calendario-economico-dados-de-industria-no-brasil-e-trabalho-nos-eua-sao-foco/",
+        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: dados de indústria no Brasil e trabalho nos EUA são foco appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/calendario-agenda-pexels.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "31 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dua Lipa se casa em evento discreto e planeja festa de luxo na Sicília; veja detalhes",
-        "link": "https://www.infomoney.com.br/consumo/dua-lipa-e-callum-turner-se-casam-em-londres-e-planejam-festa-de-tres-dias-na-sicilia/",
-        "summary": "Rápida e discreta cerimônia na capital britânica neste domingo antecede evento luxuoso na Itália The post Dua Lipa se casa em evento discreto e planeja festa de luxo na Sicília; veja detalhes appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/dua-lipa-casamento-Ray-Collins.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Trump critica juiz que proibiu construção do salão de festas da Casa Branca",
+        "link": "https://www.infomoney.com.br/mundo/trump-critica-juiz-que-proibiu-construcao-do-salao-de-festas-da-casa-branca/",
+        "summary": "Trump argumentou que Leon está \"brincando\" com a segurança dos EUA e que ele seria responsabilizado caso algo acontecesse ao país The post Trump critica juiz que proibiu construção do salão de festas da Casa Branca appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T203608Z_1331736961_RC2J8KAIZYBE_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "31 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Sabesp conclui compra de fatia da Iguá e assume 100% da Águas de Castilho",
-        "link": "https://exame.com/invest/mercados/sabesp-conclui-compra-de-fatia-da-igua-e-assume-100-da-aguas-de-castilho/",
-        "summary": "Operação de R$ 30,7 milhões foi aprovada pelo Cade; concessionária atende cerca de 21 mil moradores no interior paulista",
+        "title": "Petrobras reduz preço do litro do diesel a distribuidoras em R$ 0,35",
+        "link": "https://exame.com/brasil/petrobras-reduz-preco-do-litro-do-diesel-a-distribuidoras-em-r-035/",
+        "summary": "Estatal também volta a pagar PIS/Cofins sobre o combustível, que estavam isentos desde março",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Exame",
@@ -437,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Governo de SP prorroga consulta pública de leilão de R$ 29 bi em saneamento",
-        "link": "https://exame.com/brasil/infraestrutura/governo-de-sp-prorroga-consulta-publica-de-leilao-de-r-29-bi-em-saneamento/",
-        "summary": "Previsão é que leilão ocorra no segundo semestre deste ano",
+        "title": "Explosão em vila de Mianmar deixa ao menos 55 mortos e dezenas de feridos",
+        "link": "https://exame.com/mundo/explosao-em-vila-de-mianmar-deixa-ao-menos-55-mortos-e-dezenas-de-feridos/",
+        "summary": "Grupo rebelde que controla a região informou que a explosão ocorreu em material armazenado para atividades de mineração",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Exame",
@@ -447,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "DR de guarda-roupa: C A troca peça doada por 10% de desconto em ação de moda circular",
-        "link": "https://exame.com/esg/dr-de-guarda-roupa-ca-troca-peca-doada-por-10-de-desconto-em-acao-de-moda-circular/",
-        "summary": "Em alusão ao Dia dos Namorados, iniciativa do Movimento ReCiclo aceita roupas de qualquer marca em lojas da rede até 14 de junho",
+        "title": "EUA fecham brecha que poderia levar chips da Nvidia à China; entenda",
+        "link": "https://exame.com/invest/mercados/eua-fecham-brecha-que-poderia-levar-chips-da-nvidia-a-china-entenda/",
+        "summary": "Governo americano endurece regras para impedir que subsidiárias chinesas no exterior tenham acesso a semicondutores avançados de IA",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Exame",
@@ -457,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Surto de ebola na África já soma mais de 1.100 casos suspeitos",
-        "link": "https://exame.com/mundo/surto-de-ebola-na-africa-ja-soma-mais-de-1-100-casos-suspeitos/",
-        "summary": "República Democrática do Congo e Uganda registram 263 infecções confirmadas e 43 mortes",
+        "title": "Curry Barker transformou 'Obsessão' no fenômeno de terror de 2026; veja entrevista",
+        "link": "https://exame.com/casual/curry-barker-transformou-obsessao-no-fenomeno-de-terror-de-2026-veja-entrevista/",
+        "summary": "Com orçamento de apenas US$ 750 mil, o cineasta de 26 anos sai dos esquetes na internet para comandar um dos filmes mais lucrativos do ano",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Exame",
@@ -467,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "África do Sul adia viagem para Copa de 2026 por problemas com vistos",
-        "link": "https://exame.com/esporte/africa-do-sul-adia-viagem-para-copa-de-2026-por-problemas-com-vistos/",
-        "summary": "Seleção estreia contra o México em 11 de junho, mas parte da delegação ainda aguarda autorização para viajar ao país-sede",
+        "title": "Ranking ATP: até onde João Fonseca pode chegar em Roland Garros?",
+        "link": "https://exame.com/esporte/ranking-atp-ate-onde-joao-fonseca-pode-chegar-em-roland-garros/",
+        "summary": "Brasileiro avançou às oitavas de final de Roland Garros, ganhou posições no ranking ao vivo e pode alcançar o melhor resultado da carreira caso siga avançando no Grand Slam francês",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Exame",
@@ -477,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Amistoso do Brasil x Panamá estreia novas regras da Copa e permite 11 trocas",
-        "link": "https://exame.com/esporte/amistoso-do-brasil-x-panama-estreia-novas-regras-da-copa-e-permite-11-trocas/",
-        "summary": "Regulamento especial do amistoso permite número ampliado de trocas antes da Copa do Mundo",
+        "title": "Focus, petróleo e 'Payroll' ditam o tom em semana mais curta no Brasil",
+        "link": "https://exame.com/invest/mercados/focus-petroleo-e-payroll-ditam-o-tom-em-semana-mais-curta-no-brasil/",
+        "summary": "Decisão dos EUA de classificar facções criminosas do Brasil como organizações terroristas também segue no radar",
         "image": null,
         "date": "31 de mai. de 2026",
         "source": "Exame",
