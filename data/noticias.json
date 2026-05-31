@@ -1,12 +1,32 @@
 {
-  "updated": "2026-05-30T23:03:08.025Z",
+  "updated": "2026-05-31T04:17:14.459Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Operação da PM apreende 240 kg de drogas e prende quatro suspeitos na região de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/operacao-da-pm-apreende-240-kg-de-drogas-e-prende-quatro-suspeitos-na-regiao-de-campinas.ghtml",
+        "summary": "Polícia apreende 240 quilos de drogas e prende quatro suspeitos na região A Polícia Militar prendeu quatro homens e apreendeu cerca de 240 quilos de drogas neste sábado (30), em Sumaré, Americana e Nova Odessa (SP). As p",
+        "image": "https://s2-g1.glbimg.com/vUolF3ITW0O2CctcuSxtESli0r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/e/l9KsD5R2mWYHZG9CCADw/copia-de-1200px-x-900px-3-.jpg",
+        "date": "31 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Guarda Ambiental resgata jiboia de 2,2 metros no topo de árvore em Valinhos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/guarda-ambiental-resgata-jiboia-de-22-metros-no-topo-de-arvore-em-valinhos.ghtml",
+        "summary": "Guarda Ambiental resgata jiboia de 2,2 metros no topo de árvore em Valinhos Uma jiboia de aproximadamente 2,2 metros foi resgatada pela Guarda Civil Municipal (GCM) Ambiental na tarde deste sábado (30), após ser avistada",
+        "image": "https://s2-g1.glbimg.com/0PaVFNs_z-p12S6eua0rvqulLow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/W/uJRndFSHW6fkjc048F9A/copia-de-1200px-x-900px-1-.jpg",
+        "date": "30 de mai. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Casos de caxumba sobem 39% na região de Piracicaba após queda na vacinação",
+        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/05/30/casos-de-caxumba-sobem-39percent-na-regiao-de-piracicaba-apos-queda-na-vacinacao.ghtml",
+        "summary": "Caxumba avança nas regiões de Campinas e Piracicaba com queda de 9% na vacinação A região de Piracicaba (SP) registrou um aumento de 39% nos atendimentos por caxumba na rede pública de saúde em 2025, em comparação com o ",
+        "image": "https://s2-g1.glbimg.com/yKkvqJZAfYA68geZpT4L61iIee8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/2/Yk1y8hSqenqk9HXS601w/eptv2-3005-aumento-caxu-cp00491h-2026-05-30-18-57-19.mxf-snapshot-03.14.327.jpg",
         "date": "30 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/homem-morre-durante-troca-de-tiros-com-policiais-militares-em-sumare.ghtml",
         "summary": "1º Distrito Policial de Sumaré Heitor Moreira Uma troca de tiros entre dois homens e policiais militares terminou com um dos suspeitos morto na noite de sexta-feira (29), em Sumaré (SP). De acordo com a Polícia Civil, o ",
         "image": "https://s2-g1.glbimg.com/Ta95pqk7G3Xio2XJXT_H0qqVlTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/i/PLPqb5TcOiC42kR6zAXA/1200px-x-900px-1-.png",
-        "date": "30 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ex-secretário de Valinhos é preso após perseguição, batida e recusa de bafômetro",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/30/ex-secretario-de-valinhos-e-preso-apos-perseguicao-batida-e-recusa-de-bafometro.ghtml",
-        "summary": "Ex-secretário é preso após fuga, perseguição e batida em Valinhos O ex-secretário de Assistência Social de Valinhos (SP), Thiago Henrique Maia Soratto, foi preso na madrugada deste sábado (30) após uma perseguição polici",
-        "image": "https://s2-g1.glbimg.com/3OCKxivQXksdRtJnPLy2iH88gUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/nAkG4NR9mZ5XsU4Chncg/whatsapp-image-2026-05-30-at-07.33.04.jpeg",
-        "date": "30 de mai. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Doc Miranda, pioneiro do reggae no interior de SP, morre em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/05/30/doc-miranda-pioneiro-do-reggae-no-interior-de-sp-morre-em-campinas.ghtml",
-        "summary": "Doc Miranda Arquivo Doc Miranda/Divulgação O cantor, instrumentista e compositor Doc Miranda morreu nesta sexta-feira (29) em Campinas (SP).O artista, um dos pioneiros do reggae no interior de São Paulo, fundou a banda R",
-        "image": "https://s2-g1.glbimg.com/tU6ub5f5GfSXYSN-rpYysOnHg4k=/s.glbimg.com/jo/g1/f/original/2016/07/19/doc_miranda.jpg",
         "date": "30 de mai. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -243,6 +243,66 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
+      },
+      {
+        "title": "Spurs controlam o Thunder na defesa, vencem a Conf...",
+        "link": "https://www.espn.com.br/nba/artigo/_/id/16779741/nba-spurs-controlam-thunder-defesa-vencem-conferencia-oeste-vao-finais",
+        "summary": "null",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Finais da NBA definidas: saiba tudo sobre os jogos...",
+        "link": "https://www.espn.com.br/nba/artigo/_/id/16779873/nba-finais-definidas-2026-saiba-tudo-sobre-jogos-san-antonio-spurs-new-york-knicks",
+        "summary": "Os Spurs reeditarão as Finais de 1999 contra o New York Knicks",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Cuca diz se Gabigol foi 'irresponsável' e explica ...",
+        "link": "https://www.espn.com.br/futebol/santos/artigo/_/id/16780708/cuca-diz-se-gabigol-foi-irresponsavel-explica-gesto-obsceno-atacante-valoriza-recuperacao-santos-brasileirao",
+        "summary": "null",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Gabigol faz gesto obsceno após gol em Santos x Vit...",
+        "link": "https://www.espn.com.br/futebol/santos/artigo/_/id/16780390/gabigol-faz-gesto-obsceno-apos-gol-santos-x-vitoria-expulso-jogo-brasileirao",
+        "summary": "null",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Presidente do Náutico dá tapa em torcedor do Sport...",
+        "link": "https://www.espn.com.br/futebol/serie-b/artigo/_/id/16780852/presidente-nautico-da-tapa-torcedor-sport-durante-classico-conduzido-delegacia-veja-bastidores",
+        "summary": "null",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Barletta decide, Sport vence Náutico no clássico e...",
+        "link": "https://www.espn.com.br/futebol/serie-b/artigo/_/id/16780257/serie-b-chrystian-barletta-decide-dois-gols-sport-vence-nautico-classico-com-direito-a-ole-dorme-na-lideranca",
+        "summary": "null",
+        "image": null,
+        "date": "31 de mai. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
       }
     ],
     "negocios": [
@@ -307,64 +367,74 @@
         "cls": ""
       },
       {
-        "title": "Meteoro explode no céu dos EUA e provoca tremores relatados em várias cidades",
-        "link": "https://www.infomoney.com.br/mundo/meteoro-explode-no-ceu-dos-eua-e-provoca-tremores-relatados-em-varias-cidades/",
-        "summary": "Apesar do susto causado em várias regiões, autoridades não identificaram danos The post Meteoro explode no céu dos EUA e provoca tremores relatados em várias cidades appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/meteoro-eua-ceu-explosao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "PF abre inquérito para apurar ações gravadas para programa de TV em aeroportos de SP",
+        "link": "https://www.infomoney.com.br/brasil/pf-abre-inquerito-para-apurar-acoes-gravadas-para-programa-de-tv-em-aeroportos-de-sp/",
+        "summary": "Porte de fuzis e interrogatórios conduzidos pela Receita Federal no programa \"Aeroporto: Área Restrita\" viram alvo de investigação The post PF abre inquérito para apurar ações gravadas para programa de TV em aeroportos d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/jatinho_vorcaro2.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "31 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Governadora Celina Leão, do DF, é internada em Brasília com sintomas respiratórios",
+        "link": "https://www.infomoney.com.br/politica/governadora-celina-leao-do-df-e-internada-em-brasilia-com-sintomas-respiratorios/",
+        "summary": "Diagnosticada com pneumotórax, ela ficará sob observação médica no hospital Santa Lúcia The post Governadora Celina Leão, do DF, é internada em Brasília com sintomas respiratórios appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/celina-leao-governadora-df-politica-distrito-federal.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "31 de mai. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7039: Confira o resultado sorteado neste sábado (30)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7039-confira-o-resultado-sorteado-neste-sabado-30/",
+        "summary": "Os sorteios ocorrem de segunda-feira a sábado The post Quina hoje, concurso 7039: Confira o resultado sorteado neste sábado (30) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/quina-caixa-loteria-7039.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tratamento experimental reduz tumores e surpreende médicos; veja o que se sabe",
-        "link": "https://www.infomoney.com.br/saude/tratamento-experimental-reduz-tumores-e-surpreende-medicos-veja-o-que-se-sabe/",
-        "summary": "Estudo internacional mostrou desaparecimento completo dos tumores em 15 pacientes com câncer de cabeça e pescoço resistente a tratamentos convencionais The post Tratamento experimental reduz tumores e surpreende médicos;",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/vacina-russa-tass.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Lotofácil hoje, concurso 3699: Confira o resultado sorteado neste sábado (30)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3699-confira-o-resultado-sorteado-neste-sabado-30/",
+        "summary": "Os sorteios ocorrem de segunda-feira a sábado The post Lotofácil hoje, concurso 3699: Confira o resultado sorteado neste sábado (30) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/lotofacil-caixa-loteria-3699.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Da euforia ao caos: Paris tem confrontos, saques e carros incendiados após bi do PSG",
-        "link": "https://www.infomoney.com.br/mundo/da-euforia-ao-caos-paris-tem-confrontos-saques-e-carros-incendiados-apos-bi-do-psg/",
-        "summary": "Segundo título seguido do Paris Saint-Germain na Champions League espalhou transtornos pela capital francesa, com pelo menos 130 prisões e resgate dentro do rio Sena The post Da euforia ao caos: Paris tem confrontos, saq",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Paris-St-Germain-confronto-champios05.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Mega-Sena hoje, concurso 3013: Confira o resultado sorteado neste sábado (30)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3013-confira-o-resultado-sorteado-neste-sabado-30/",
+        "summary": "Os sorteios ocorrem três vezes por semana, às terças, quintas e sábados The post Mega-Sena hoje, concurso 3013: Confira o resultado sorteado neste sábado (30) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/mega-sena-caixa-loteria-3013.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "CBF divulga numeração oficial para a Copa do Mundo: Neymar será o 10",
-        "link": "https://www.infomoney.com.br/esportes/cbf-divulga-numeracao-oficial-para-a-copa-do-mundo-neymar-sera-o-10/",
-        "summary": "Vinicius Jr. ficará com a 7 e Raphinha vai vestir a 11; o camisa 9 será Matheus Cunha The post CBF divulga numeração oficial para a Copa do Mundo: Neymar será o 10 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/CBF.jpg?fit=300%2C159&amp;quality=70&amp;strip=all",
+        "title": "Ofensiva anticorrupção no México derruba 7º prefeito em exercício; entenda",
+        "link": "https://www.infomoney.com.br/mundo/ofensiva-anticorrupcao-no-mexico-derruba-7o-prefeito-em-exercicio-entenda/",
+        "summary": "Detenção de Jesús Corona Damián ocorre em operação do governo Sheinbaum para coibir extorsão e vínculos com o crime organizado The post Ofensiva anticorrupção no México derruba 7º prefeito em exercício; entenda appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/prefeito-mexico-jesus-n-corrupcao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de mai. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Hotel Ibis incendeia por seis dias em Málaga e desafia Corpo de Bombeiros na Espanha",
-        "link": "https://www.infomoney.com.br/mundo/hotel-ibis-incendeia-por-seis-dias-em-malaga-e-desafia-corpo-de-bombeiros-na-espanha/",
-        "summary": "Chamas iniciaram na madrugada de segunda-feira, dia 25, e não foram completamente apagadas até este sábado The post Hotel Ibis incendeia por seis dias em Málaga e desafia Corpo de Bombeiros na Espanha appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/hotel-ibis-malaga-espanha-fogo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Mega-Sena: veja o resultado do concurso 3.013; prêmio é de R$ 10,3 milhões",
+        "link": "https://exame.com/invest/minhas-financas/mega-sena-veja-o-resultado-do-concurso-3-013-premio-e-de-r-103-milhoes/",
+        "summary": "Sorteio de valor milionário neste sábado foi realizado no Espaço da Sorte, na Avenida Paulista, em São Paulo",
+        "image": null,
         "date": "30 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Santos x Vitória: Veja onde assistir ao jogo de hoje",
-        "link": "https://www.infomoney.com.br/esportes/santos-vitoria-onde-assistir-brasileirao-2026/",
-        "summary": "O Santos joga em casa e busca sair da zona de rebaixamento The post Santos x Vitória: Veja onde assistir ao jogo de hoje appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/thumb-santos-x-vitoria.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "30 de mai. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Pedido contra Flávio Bolsonaro à PGR amplia disputa sobre uso dos EUA na política brasileira",
@@ -410,16 +480,6 @@
         "title": "Rússia diz que drone ucraniano atingiu maior usina nuclear da Europa",
         "link": "https://exame.com/mundo/russia-diz-que-drone-ucraniano-atingiu-maior-usina-nuclear-da-europa/",
         "summary": "Segundo a Rosatom, explosão em Zaporíjia não danificou equipamentos principais, mas abriu buraco na parede da sala de turbinas; Ucrânia não comentou a acusação",
-        "image": null,
-        "date": "30 de mai. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Guga desembarca em Paris e torcida sonha com o grito “Allez, Fonsecááá!”",
-        "link": "https://exame.com/esporte/guga-desembarca-em-paris-e-torcida-sonha-com-o-novo-allez-fonsecaaa/",
-        "summary": "Gustavo Kuerten, tricampeão de Roland Garros, estará neste domingo na quadra central em Paris para torcer por João Fonseca nas oitavas de final do torneio",
         "image": null,
         "date": "30 de mai. de 2026",
         "source": "Exame",
