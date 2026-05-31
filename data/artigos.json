@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-30T11:21:53.999Z",
+  "updated": "2026-05-31T11:41:27.923Z",
   "articles": [
+    {
+      "slug": "fintechs-para-pmes-ferramentas-financeiras-2026",
+      "title": "Fintechs para PMEs: Ferramentas Financeiras Inovadoras em 2026",
+      "description": "Descubra as melhores fintechs que estão revolucionando o mercado financeiro para PMEs no Brasil em 2026.",
+      "date": "31 de mai. de 2026",
+      "isoDate": "2026-05-31",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-31-fintechs-para-pmes-ferramentas-financeiras-2026.html"
+    },
+    {
+      "slug": "recepcionista-corporativa-campinas-perfil-atribuicoes",
+      "title": "Recepcionista Corporativa em Campinas: Perfil e Impacto na Imagem Empresarial",
+      "description": "Descubra o perfil ideal e as atribuições de recepcionistas corporativas em Campinas e interior de SP.",
+      "date": "31 de mai. de 2026",
+      "isoDate": "2026-05-31",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&h=450&fit=crop",
+      "url": "noticias/2026-05-31-recepcionista-corporativa-campinas-perfil-atribuicoes.html"
+    },
     {
       "slug": "ecossistema-startups-campinas-2026-unicornios-inovacoes",
       "title": "O Ecossistema de Startups de Campinas em 2026: Novos Unicórnios e Inovações",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-21-gestao-condominios-americana-facilities-portaria.html"
-    },
-    {
-      "slug": "portaria-virtual-americana-reducao-custos-40-porcento",
-      "title": "Portaria Virtual em Americana: Redução de Custos em 40% nos Condomínios",
-      "description": "Descubra como a portaria virtual está transformando condomínios em Americana, SP, reduzindo custos em até 40%.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-portaria-virtual-americana-reducao-custos-40-porcento.html"
-    },
-    {
-      "slug": "recepcao-corporativa-campinas-ti-startups",
-      "title": "Recepção Corporativa em Campinas: Exigências de TI e Startups",
-      "description": "Descubra o que empresas de TI e startups em Campinas exigem de profissionais de portaria.",
-      "date": "21 de mai. de 2026",
-      "isoDate": "2026-05-21",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-21-recepcao-corporativa-campinas-ti-startups.html"
     }
   ]
 }
