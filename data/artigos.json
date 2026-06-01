@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-31T23:37:55.479Z",
+  "updated": "2026-06-01T15:58:06.386Z",
   "articles": [
+    {
+      "slug": "agtechs-brasileiras-inovacao-agro-drones-ia",
+      "title": "Agtechs brasileiras impulsionam inovação no agro com drones e IA",
+      "description": "Agtechs no Brasil lideram o agronegócio com drones, IoT e IA, aumentando a produtividade do setor.",
+      "date": "01 de jun. de 2026",
+      "isoDate": "2026-06-01",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-01-agtechs-brasileiras-inovacao-agro-drones-ia.html"
+    },
+    {
+      "slug": "recepcao-terceirizada-condominios-americana-excelencia",
+      "title": "Recepção Terceirizada: Condomínios em Americana Alcançam Excelência",
+      "description": "Descubra como condomínios empresariais em Americana garantem recepção de alto padrão com serviços terceirizados.",
+      "date": "01 de jun. de 2026",
+      "isoDate": "2026-06-01",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-01-recepcao-terceirizada-condominios-americana-excelencia.html"
+    },
     {
       "slug": "fintechs-para-pmes-ferramentas-financeiras-2026",
       "title": "Fintechs para PMEs: Ferramentas Financeiras Inovadoras em 2026",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-fed-corte-juros-setembro-impactos-brasil.html"
-    },
-    {
-      "slug": "manutencao-predial-americana-terceirizacao-ou-propria",
-      "title": "Manutenção Predial em Americana: Terceirização ou Equipe Própria?",
-      "description": "Descubra o que compensa mais para sua empresa em Americana: terceirizar ou manter equipe própria de manutenção predial.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-manutencao-predial-americana-terceirizacao-ou-propria.html"
-    },
-    {
-      "slug": "facilities-esg-americana-reducao-impacto-ambiental",
-      "title": "Facilities e ESG em Americana: Redução do Impacto Ambiental",
-      "description": "Descubra como serviços terceirizados de facilities em Americana, SP reduzem o impacto ambiental das empresas.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-facilities-esg-americana-reducao-impacto-ambiental.html"
     }
   ]
 }
