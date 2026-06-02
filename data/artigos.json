@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-01T15:58:06.386Z",
+  "updated": "2026-06-02T14:04:44.429Z",
   "articles": [
+    {
+      "slug": "startup-logistica-capta-220-mi-expand-sp",
+      "title": "Startup de logística capta R$ 220 milhões e expande no interior de SP",
+      "description": "Startup de logística last-mile capta R$ 220 milhões e amplia operações para 30 cidades do interior paulista.",
+      "date": "02 de jun. de 2026",
+      "isoDate": "2026-06-02",
+      "tag": "Startups",
+      "tagCls": "startups",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-02-startup-logistica-capta-220-mi-expand-sp.html"
+    },
+    {
+      "slug": "seguranca-privada-sem-armas-piracicaba",
+      "title": "Segurança Privada sem Armas: Portaria e Monitoramento em Piracicaba",
+      "description": "Explore soluções de segurança sem armas em Piracicaba com foco em portaria e controle de acesso.",
+      "date": "02 de jun. de 2026",
+      "isoDate": "2026-06-02",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-02-seguranca-privada-sem-armas-piracicaba.html"
+    },
     {
       "slug": "agtechs-brasileiras-inovacao-agro-drones-ia",
       "title": "Agtechs brasileiras impulsionam inovação no agro com drones e IA",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-jovens-revelacoes-do-futebol-brasileiro-2026.html"
-    },
-    {
-      "slug": "startups-logistica-verde-frota-eletrica",
-      "title": "Startups de logística verde captam R$ 180 milhões para frota elétrica",
-      "description": "Startups brasileiras de logística verde expandem frota elétrica para 12 estados após captar R$ 180 milhões.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Startups",
-      "tagCls": "startups",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-startups-logistica-verde-frota-eletrica.html"
-    },
-    {
-      "slug": "fed-corte-juros-setembro-impactos-brasil",
-      "title": "Fed pode cortar juros em setembro: impactos para investidores brasileiros",
-      "description": "O Fed sinaliza corte de juros em setembro. Entenda as implicações para o mercado financeiro e investidores no Brasil.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Mundo",
-      "tagCls": "mundo",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-fed-corte-juros-setembro-impactos-brasil.html"
     }
   ]
 }
