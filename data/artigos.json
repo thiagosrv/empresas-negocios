@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-02T14:04:44.429Z",
+  "updated": "2026-06-03T14:41:58.912Z",
   "articles": [
+    {
+      "slug": "ia-generativa-transforma-trabalho-administrativo-brasil-2026",
+      "title": "IA Generativa Revoluciona Trabalho Administrativo no Brasil em 2026",
+      "description": "Descubra como a IA generativa está transformando processos administrativos nas empresas brasileiras.",
+      "date": "03 de jun. de 2026",
+      "isoDate": "2026-06-03",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-03-ia-generativa-transforma-trabalho-administrativo-brasil-2026.html"
+    },
+    {
+      "slug": "avaliar-empresas-seguranca-portaria-limeira",
+      "title": "Como Avaliar Empresas de Segurança e Portaria em Limeira",
+      "description": "Guia para escolher empresas de segurança e portaria em Limeira, com dicas práticas.",
+      "date": "03 de jun. de 2026",
+      "isoDate": "2026-06-03",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-03-avaliar-empresas-seguranca-portaria-limeira.html"
+    },
     {
       "slug": "startup-logistica-capta-220-mi-expand-sp",
       "title": "Startup de logística capta R$ 220 milhões e expande no interior de SP",
@@ -1056,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-copa-mundo-2026-guia-completo-eua-canada-mexico.html"
-    },
-    {
-      "slug": "mercado-transferencias-2026-futebol-brasileiro",
-      "title": "Mercado de Transferências 2026: Um Novo Patamar para o Futebol Brasileiro",
-      "description": "Confira as principais movimentações do mercado de transferências brasileiro em 2026 e suas implicações.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Futebol",
-      "tagCls": "futebol",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-mercado-transferencias-2026-futebol-brasileiro.html"
-    },
-    {
-      "slug": "jovens-revelacoes-do-futebol-brasileiro-2026",
-      "title": "Jovens Revelações do Futebol Brasileiro 2026: Talentos com Propostas da Europa",
-      "description": "Descubra os 10 jovens talentos do futebol brasileiro em 2026 que já despertaram interesse dos gigantes europeus.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Futebol",
-      "tagCls": "futebol",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-jovens-revelacoes-do-futebol-brasileiro-2026.html"
     }
   ]
 }
