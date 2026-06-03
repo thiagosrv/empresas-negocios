@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-03T21:53:21.947Z",
+  "updated": "2026-06-03T23:48:22.719Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Polícia Civil identifica suspeito de provocar morte de jovem atingido por linha com cerol em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/03/policia-civil-identifica-suspeito-de-provocar-morte-de-jovem-atingido-por-linha-com-cerol-em-campinas.ghtml",
+        "summary": "Polícia aponta suspeito de usar linha com cerol que matou motociclista em Campinas A Polícia Civil identificou o suspeito de provocar a morte de Patrick Santos, jovem de 18 anos que foi atingido no pescoço por uma linha ",
+        "image": "https://s2-g1.glbimg.com/1qjyNAj5sGGZyRgu3GZiIhldmnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/I/yjX2SKRqO8YtIE1mAsRQ/copia-de-area-1-20-.png",
+        "date": "03 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Casa usada para armazenar drogas é alvo de operação contra crime organizado em Mogi Guaçu",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/03/casa-usada-armazenar-drogas-alvo-operacao-crime-organizado-mogi-guacu.ghtml",
+        "summary": "Casa usada para armazenar drogas é alvo de operação contra crime organizado em Mogi Guaçu (SP) Um imóvel usado para armazenar drogas foi alvo de operação contra o crime organizado nesta quarta-feira (3), em Mogi Guaçu (S",
+        "image": "https://s2-g1.glbimg.com/UomhUFO3ba-sW7g3vDAAv2i35fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/s/QMduliSBKiBVB6rQiRpw/copia-de-area-1-23-.png",
+        "date": "03 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Relógio de R$ 28 mil: o que dizem influenciadora e Viracopos após polícia descartar furto no aeroporto",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/03/relogio-de-r-28-mil-o-que-dizem-influenciadora-e-viracopos-apos-policia-descartar-furto-no-aeroporto.ghtml",
@@ -43,23 +63,113 @@
         "cls": "brasil"
       },
       {
-        "title": "Motoboy usa marreta para quebrar meio-fio e criar 'atalho' em avenida de Sumaré",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/03/motoboy-usa-marreta-quebrar-meio-fio-criar-atalho-avenida-sumare.ghtml",
-        "summary": "Motoboy destrói meio-fio com marreta para criar atalho em avenida de Sumaré Um motoboy foi flagrado na noite desta terça-feira (2) usando uma marreta para quebrar o meio-fio da Avenida João Argenton, que liga Sumaré (SP)",
-        "image": "https://s2-g1.glbimg.com/C1lXFOxlcWp7an9Z30mLOOa-UGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/mfA0DZSuqAYhjzDaAuyw/design-sem-nome-25-.png",
+        "title": "Fotógrafo Alexandre DeOlanda transforma o cotidiano urbano em arte em nova exposição em Campinas",
+        "link": "https://jornalamericanense.com.br/cultura/fotografo-alexandre-deolanda-transforma-o-cotidiano-urbano-em-arte-em-nova-exposicao-em-campinas/",
+        "summary": "O designer gráfico e fotógrafo de rua Alexandre DeOlanda apresenta ao público a exposição “Da Rua Eu Vim, Pra Rua Eu Vou”, que será inaugurada neste sábado, 6 de junho, na Galeria Foto Ponto, em Campinas. A abertura da e",
+        "image": null,
         "date": "03 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "GPA da Gama completa 21 anos de atuação em defesa do meio ambiente e dos animais",
+        "link": "https://jornalamericanense.com.br/policia/gpa-da-gama-completa-21-anos-de-atuacao-em-defesa-do-meio-ambiente-e-dos-animais/",
+        "summary": "A Guarda Municipal de Americana (Gama) celebra, nesta terça-feira (2), 21 anos de criação do Grupo de Proteção Ambiental (GPA), unidade especializada voltada à preservação ambiental, proteção da fauna silvestre e combate",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Musical “Sax e Louvor” apresenta hinos da Harpa Cristã no Teatro Municipal de Americana",
+        "link": "https://jornalamericanense.com.br/cultura/musical-sax-e-louvor-apresenta-hinos-da-harpa-crista-no-teatro-municipal-de-americana/",
+        "summary": "O Teatro Municipal Lulu Benencase, em Americana, recebe o musical “Sax e Louvor” neste sábado (6), às 20h, em uma atividade cultural que mergulha na trajetória dos mais conhecidos hinos da Harpa Cristã, sob a interpretaç",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Neblina, frio e acidentes: cuidados essenciais para dirigir com segurança nas manhãs de outono na região de Americana",
+        "link": "https://jornalamericanense.com.br/cidades/neblina-frio-e-acidentes-cuidados-essenciais-para-dirigir-com-seguranca-nas-manhas-de-outono-na-regiao-de-americana/",
+        "summary": "Baixas temperaturas, visibilidade reduzida e pistas úmidas aumentam os riscos nas rodovias e áreas urbanas; especialistas recomendam atenção redobrada dos motoristas Com a chegada do outono e a proximidade do inverno, mo",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festa do Peão de Americana 2026 começa nesta quarta-feira com estrutura inédita, grandes shows e expectativa de forte impacto econômico",
+        "link": "https://jornalamericanense.com.br/cidades/festa-do-peao-de-americana-2026-comeca-nesta-quarta-feira-com-estrutura-inedita-grandes-shows-e-expectativa-de-forte-impacto-economico/",
+        "summary": "Evento abre as comemorações dos 40 anos da festa, reúne os principais nomes da música sertaneja e deve movimentar milhares de pessoas na região até o dia 14 de junho A espera terminou. A partir desta quarta-feira (3), Am",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Professor é investigado por suspeita de importunação sexual contra estudantes na ETEC de Americana",
+        "link": "https://jornalamericanense.com.br/policia/professor-e-investigado-por-suspeita-de-importunacao-sexual-contra-estudantes-na-etec-de-americana/",
+        "summary": "Caso envolvendo três adolescentes é apurado pela Polícia Civil; docente já não faz mais parte do quadro da unidade, segundo o Centro Paula Souza A Polícia Civil de Americana instaurou um inquérito para investigar um prof",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "PL receberá maior fatia do fundo eleitoral para campanhas do TSE",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/pl-recebera-maior-fatia-do-fundo-eleitoral-para-campanhas-do-tse",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/pl-recebera-maior-fatia-do-fundo-eleitoral-para-campanhas-do-tse img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Corpus Christi: confira horários de missas e procissões na região de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/06/03/corpus-christi-confira-horarios-de-missas-e-procissoes-na-regiao-de-campinas.ghtml",
-        "summary": "Basílica do Carmo, em Campinas, no feriado de Corpus Christi Wesley Justino/EPTV A Igreja Católica inicia nesta quarta-feira (3) a programação especial de Corpus Christi na região de Campinas (SP). Diversas cidades terão",
-        "image": "https://s2-g1.glbimg.com/2SO2HxLh-D05C-sq-qvK7nv64uY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/e/F/kBqkvBTT2b9OgzqDO2ew/whatsapp-image-2022-06-16-at-08.18.05.jpeg",
+        "title": "Exportações para Estados Unidos caem 14% em maio",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/exportacoes-para-estados-unidos-caem-14-em-maio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/exportacoes-para-estados-unidos-caem-14-em-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
+        "image": null,
         "date": "03 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Bolsa cai 2,22%, e dólar volta a subir acima de R$ 5,06",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bolsa-cai-222-e-dolar-volta-subir-acima-de-r-506",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bolsa-cai-222-e-dolar-volta-subir-acima-de-r-506 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Receita identifica divergências de R$ 44 bi em créditos de PIS/Cofins",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/receita-identifica-divergencias-de-r-44-bi-em-creditos-de-piscofins",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/receita-identifica-divergencias-de-r-44-bi-em-creditos-de-piscofins img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "STF derruba idade mínima para aposentadoria em atividades nocivas",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-derruba-idade-minima-para-aposentadoria-em-atividades-nocivas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-derruba-idade-minima-para-aposentadoria-em-atividades-nocivas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -71,182 +181,102 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Governo amplia acesso ao Plano Brasil Soberano",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-amplia-acesso-ao-plano-brasil-soberano",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-amplia-acesso-ao-plano-brasil-soberano img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "MEC estende até dia 17 o prazo para redes de ensino aderirem à PND",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-estende-ate-dia-17-o-prazo-para-redes-de-ensino-aderirem-pnd",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-estende-ate-dia-17-o-prazo-para-redes-de-ensino-aderirem-pnd img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Entidades rebatem governo dos EUA sobre política tarifária do etanol",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/entidades-rebatem-governo-dos-eua-sobre-politica-tarifaria-do-etanol",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/entidades-rebatem-governo-dos-eua-sobre-politica-tarifaria-do-etanol img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Superávit comercial cresce 10,8% em maio puxado por soja e cobre",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/superavit-comercial-cresce-108-em-maio-puxado-por-soja-e-cobre",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/superavit-comercial-cresce-108-em-maio-puxado-por-soja-e-cobre img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil contesta EUA sobre supostas práticas de trabalho forçado",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-contesta-eua-sobre-supostas-praticas-de-trabalho-forcado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-contesta-eua-sobre-supostas-praticas-de-trabalho-forcado img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Paulinho é suspenso pelo STJD por gesto em comemoração contra o Flamengo",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/stjd-suspende-paulinho-por-gesto-em-comemoracao-contra-o-flamengo/",
-        "summary": "O atacante Paulinho foi punido pelo Superior Tribunal de Justiça Desportiva (STJD) nesta quarta-feira. Em julgamento realizado pelo Pleno, o jogador do Palmeiras recebeu suspensão de uma partida por conduta antidesportiv",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-03-at-18.39.19.webp",
+        "title": "Palmeiras e Corinthians conhecem datas e horários das oitavas da Libertadores",
+        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/palmeiras-e-corinthians-conhecem-datas-e-horarios-das-oitavas-da-libertadores/",
+        "summary": "Palmeiras e Corinthians conheceram datas, horários e locais das oitavas de final da Copa Libertadores. Confira detalhes. O post Palmeiras e Corinthians conhecem datas e horários das oitavas da Libertadores apareceu prime",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260529__B4EW3BU__v1__MidRes__FblLibertadoresDraw.webp",
         "date": "03 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Berrettini desiste, e Arnaldi avança às semifinais em Roland Garros",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/berrettini-desiste-e-arnaldi-avanca-as-semifinais-em-roland-garros/",
-        "summary": "Matteo Arnaldi, número 104 do mundo, alcançou sua primeira semifinal de Grand Slam em Roland Garros após a desistência de Matteo Berrettini, que abandonou a partida por lesão quando perdia por 7-5 e 5-2. Berrettini, de 3",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260603__B4X483F__v1__HighRes__TennisFraOpen2026.webp",
+        "title": "Conmebol define datas e horários dos jogos do Santos no playoff da Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/santos-datas-horarios-playoff-sul-americana-2026/",
+        "summary": "A Conmebol divulgou nesta terça-feira a tabela detalhada dos playoffs da Copa Sul-Americana de 2026. Com isso, o Santos conheceu datas, horários e locais dos confrontos diante da UCV, da Venezuela, valendo uma vaga nas o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/55296290811_6066e85c0c_k.webp",
         "date": "03 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Messi não tem condições de jogar 90 minutos, avalia campeão mundial pela Argentina",
-        "link": "https://www.gazetaesportiva.com/times/argentina/a-volpe-messi-90-minutos-copa/",
-        "summary": "Ricardo La Volpe afirmou que Messi pode não ter condições de atuar durante toda a partida na Copa do Mundo de 2026, apesar de ver a Argentina como candidata ao título. O post Messi não tem condições de jogar 90 minutos, ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260525__B3X62Z6__v1__MidRes__FblMlsInterMiamiPhiladelphia.webp",
+        "title": "Nelson Semedo: Vai ser uma Copa do Mundo perfeita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/nelson-semedo-vai-ser-uma-copa-do-mundo-perfeita/",
+        "summary": "O lateral-direito do Fenerbahçe, com raízes familiares em Cabo Verde, afirma que uma final de Copa do Mundo entre Portugal e Cabo Verde seria um sonho. O post Nelson Semedo: Vai ser uma Copa do Mundo perfeita apareceu pr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Nelson-Semedo.webp",
         "date": "03 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Manifestantes invadem prédio do governo no México às vésperas da Copa",
-        "link": "https://www.gazetaesportiva.com/times/mexico/protestos-mexico-copa-2026-invasao/",
-        "summary": "Manifestantes invadiram um prédio do governo no México em meio a protestos às vésperas da Copa do Mundo de 2026, aumentando a tensão na capital. O post Manifestantes invadem prédio do governo no México às vésperas da Cop",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/03/AFP__20260317__A3N37NQ__v1__HighRes__FilesFblWc2026MexicoUsIran.webp",
+        "title": "Ancelotti esboça mudanças na equipe titular do Brasil em segundo treino nos EUA",
+        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-mudancas-selecao-brasileira-treino-eua-egito/",
+        "summary": "A Seleção Brasileira realizou nesta quarta-feira o segundo treino nos Estados Unidos visando a Copa do Mundo de 2026. Carlo Ancelotti promoveu mudanças na equipe titular, com as entradas de Marquinhos, Gabriel Magalhães,",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/selecao-realiza-o-primeiro-treino-em-new-jersey-masculino-02062026.webp",
         "date": "03 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "STJD aplica suspensão a Gabigol por gesto obsceno em duelo contra o Vitória",
-        "link": "https://www.gazetaesportiva.com/times/santos/stjd-aplica-suspensao-a-gabigol-por-gesto-obsceno-em-duelo-contra-o-vitoria/",
-        "summary": "O atacante Gabigol foi punido pela 3ª Comissão Disciplinar do Superior Tribunal de Justiça Desportiva (STJD) e terá que cumprir mais uma partida de suspensão pelo Santos. Em julgamento realizado nesta quarta-feira, os au",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55304503128_98a7bac519_k.webp",
+        "title": "Textor detona postura de Danilo e admite possível saída: Pode acabar indo ao Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/botafogo/textor-detona-postura-de-danilo-e-admite-possivel-saida-do-volante-pode-acabar-indo-ao-palmeiras/",
+        "summary": "John Textor detonou a postura de Danilo e admitiu uma provável saída do volante do Botafogo, apontando o Palmeiras como possível destino. O post Textor detona postura de Danilo e admite possível saída: Pode acabar indo a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/brasil-x-panama-maracana-profissional-310520261.webp",
         "date": "03 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians renova com gestora do estacionamento da Neo Química Arena; confira",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-renova-com-gestora-do-estacionamento-da-neo-quimica-arena-confira/",
-        "summary": "O Corinthians anunciou a renovação de contrato com a gestora do estacionamento da Neo Química Arena. Veja detalhes do novo vínculo. O post Corinthians renova com gestora do estacionamento da Neo Química Arena; confira ap",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/10/Foto-Evander-Portilho-Agencia-Corinthians.webp",
+        "title": "Florentino Pérez promete contratar Mourinho em caso de reeleição no Real Madrid",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/florentino-perez-promete-contratar-mourinho-em-caso-de-reeleicao-no-real-madrid/",
+        "summary": "Florentino Pérez anunciou que, se vencer as eleições do Real Madrid, pretende contratar o zagueiro Ibrahima Konaté, que chegaria sem custo após deixar o Liverpool, e trazer José Mourinho de volta como técnico. Ele destac",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/mourinho.webp",
         "date": "03 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Memphis Depay entra no 2º tempo, Holanda leva gol ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16794119/memphis-depay-entra-2-tempo-holanda-leva-gol-fim-perde-argelia-amistoso-vesperas-copa-do-mundo",
-        "summary": "Holanda ainda terá mais um teste, diante do Uzbequistão, antes da estreia na Copa do Mundo",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Escalação da Seleção Brasileira: Ancelotti testa 5...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16794287/escalacao-selecao-brasileira-ancelotti-testa-mudancas-treino-aberto-torcida-eua",
-        "summary": "Brasil segue preparação para o amistoso de sábado, contra o Egito, e também para a estreia na Copa, contra Marrocos",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Marquinhos evita comparar Seleção atual com as de ...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16793333/marquinhos-evita-comparar-selecao-atual-2018-2022-tite-usa-ate-psg-exemplo-copa",
-        "summary": "null",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Florentino Pérez 'anuncia' José Mourinho no Real M...",
-        "link": "https://www.espn.com.br/futebol/real-madrid/artigo/_/id/16794317/florentino-perez-anuncia-jose-mourinho-real-madrid-video-candidatura",
-        "summary": "Treinador foi o escolhido do atual presidente, que tenta se reeleger no próximo domingo (7)",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "De substituto para Arrascaeta a '9' para brigar co...",
-        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/16794070/flamengo-alvos-janela-trasnferencias-substituto-arracascaeta-9-briga-pedro",
-        "summary": "Flamengo promete fazer contratações pontuais durante a paralisação para a Copa do Mundo",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Vilão contra a Bósnia se 'redime', e Itália bate L...",
-        "link": "https://www.espn.com.br/futebol/artigo/_/id/16794153/vilao-contra-bosnia-redime-italia-bate-luxemburgo-amistoso",
-        "summary": "Ataacnte Pio Esposito, que perdeu pênalti na repescagem da Copa, fez o gol da vitória italiana",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
       {
+        "title": "Exportações para Estados Unidos caem 14% em maio",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/exportacoes-para-estados-unidos-caem-14-em-maio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/exportacoes-para-estados-unidos-caem-14-em-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Bolsa cai 2,22%, e dólar volta a subir acima de R$ 5,06",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bolsa-cai-222-e-dolar-volta-subir-acima-de-r-506",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bolsa-cai-222-e-dolar-volta-subir-acima-de-r-506 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Receita identifica divergências de R$ 44 bi em créditos de PIS/Cofins",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/receita-identifica-divergencias-de-r-44-bi-em-creditos-de-piscofins",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/receita-identifica-divergencias-de-r-44-bi-em-creditos-de-piscofins img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "03 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
         "title": "Governo amplia acesso ao Plano Brasil Soberano",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-amplia-acesso-ao-plano-brasil-soberano",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-amplia-acesso-ao-plano-brasil-soberano img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
@@ -277,99 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Bancos não terão atendimento presencial no feriado de Corpus Christi",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bancos-nao-terao-atendimento-presencial-no-feriado-de-corpus-christi",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bancos-nao-terao-atendimento-presencial-no-feriado-de-corpus-christi img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Indústria cresce 0,7% em abril, quarto mês seguido de avanço",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/industria-cresce-07-em-abril-quarto-mes-seguido-de-avanco",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/industria-cresce-07-em-abril-quarto-mes-seguido-de-avanco img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
-        "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Bolsa sobe 1,16%, e dólar cai para R$ 5, apesar de medida dos EUA",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bolsa-sobe-116-e-dolar-cai-para-r-5-apesar-de-medida-dos-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bolsa-sobe-116-e-dolar-cai-para-r-5-apesar-de-medida-dos-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "02 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Elétricos desvalorizaram 49% em 4 anos contra 13,4% de carros a combustão, diz IBV",
-        "link": "https://www.infomoney.com.br/consumo/eletricos-desvalorizaram-49-em-4-anos-contra-134-de-carros-a-combustao-diz-ibv/",
-        "summary": "Os elétricos lançados em 2023 acumulam desvalorização de 45,6% até maio de 2026; nos modelos de 2022, a desvalorização dos elétricos chega a 49,3% The post Elétricos desvalorizaram 49% em 4 anos contra 13,4% de carros a ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/ink-spaces-VL5b5b_7V40-unsplash.jpg?fit=300%2C240&amp;quality=70&amp;strip=all",
+        "title": "Lula diz que não tem problemas com Alcolumbre e que Messias será ministro do STF",
+        "link": "https://www.infomoney.com.br/politica/lula-diz-que-nao-tem-problemas-com-alcolumbre-e-que-messias-sera-ministro-do-stf/",
+        "summary": "Presidente avalia melhor timing para reenvio do nome do advogado-geral da União, rejeitado em articulação que contou com o chefe do Senado The post Lula diz que não tem problemas com Alcolumbre e que Messias será ministr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55312195013_7394f8626a_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "03 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Flávio Bolsonaro diz que tarifa dos EUA é “do Lula” e minimiza efeito na campanha",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-diz-que-tarifa-dos-eua-e-do-lula-e-minimiza-efeito-na-campanha/",
-        "summary": "Senador do PL atribui sobretaxa ao governo petista, diz que medida não fere a soberania e mantém discurso duro na segurança pública The post Flávio Bolsonaro diz que tarifa dos EUA é “do Lula” e minimiza efeito na campan",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-27T200245Z_1_LYNXMPEM4Q21M_RTROPTP_4_BRAZIL-ELECTION-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Por que a Fifa tem mais seleções do que a ONU tem países",
+        "link": "https://www.infomoney.com.br/esportes/por-que-a-fifa-tem-mais-selecoes-do-que-a-onu-tem-paises/",
+        "summary": "Federação aceita “países e territórios” com liga própria, enquanto ingresso nas Nações Unidas depende de reconhecimento político The post Por que a Fifa tem mais seleções do que a ONU tem países appeared first on InfoMon",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-02T090845Z_2073267876_RC2PJLA4SI92_RTRMADP_3_SOCCER-WORLDCUP-GROUPE-CURACAO.jpg?fit=300%2C211&amp;quality=70&amp;strip=all",
         "date": "03 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "SpaceX define ação a US$ 135 em mega IPO que avaliaria empresa em US$ 1,77 trilhão",
-        "link": "https://www.infomoney.com.br/mercados/spacex-define-acao-a-us-135-em-mega-ipo-que-avaliaria-empresa-em-us-177-trilhao/",
-        "summary": "SpaceX busca levantar US$ 75 bilhões em uma oferta pública inicial (IPO) que seria a maior de todos os tempos The post SpaceX define ação a US$ 135 em mega IPO que avaliaria empresa em US$ 1,77 trilhão appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-03-101505.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "title": "Chupeta e ninar: como agia a mulher de 37 anos que fingiu ter 12 e foi presa em SC",
+        "link": "https://www.infomoney.com.br/brasil/chupeta-e-ninar-como-agia-a-mulher-de-37-anos-que-fingiu-ter-12-e-foi-presa-em-sc/",
+        "summary": "Delegado afirmou que a suspeita já havia praticado o mesmo golpe em outros seis estados e tinha sido presa anteriormente; ela confessou o crime The post Chupeta e ninar: como agia a mulher de 37 anos que fingiu ter 12 e ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-03-192142.png?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "03 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Exportações do Brasil aos EUA podem enfrentar carga tarifária de até 37,5%",
-        "link": "https://www.infomoney.com.br/economia/exportacoes-do-brasil-aos-eua-podem-enfrentar-carga-tarifaria-de-ate-375/",
-        "summary": "Duas novas medidas ainda serão alvo de consulta pública antes de entrarem em vigor, o que só deve acontecer no mês que vem The post Exportações do Brasil aos EUA podem enfrentar carga tarifária de até 37,5% appeared firs",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/trump-lula-malasia-brasil-eua.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Gol e institutos pedem que Cade reavalie participação no processo Azul-American",
+        "link": "https://www.infomoney.com.br/business/gol-e-institutos-pedem-que-cade-reavalie-participacao-no-processo-azul-american/",
+        "summary": "Controladora da Gol e institutos pediram reconsideração de pedidos de habilitação como terceiros interessados na operação The post Gol e institutos pedem que Cade reavalie participação no processo Azul-American appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/azul-aeronave2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "03 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "STF derruba idade mínima para aposentadoria especial por insalubridade",
-        "link": "https://www.infomoney.com.br/politica/stf-derruba-idade-minima-para-aposentadoria-especial-por-insalubridade/",
-        "summary": "Regra foi prevista na Reforma da Previdência de 2019 The post STF derruba idade mínima para aposentadoria especial por insalubridade appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55270631785_a0b9caed88_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Justiça solta ex-auditor preso em operação que atingiu Ultrafarma e Fast Shop",
+        "link": "https://www.infomoney.com.br/politica/justica-solta-ex-auditor-preso-em-operacao-que-atingiu-ultrafarma-e-fast-shop/",
+        "summary": "Juiz manteve o entendimento de que há indícios da participação de Artur Gomes da Silva Neto em organização criminosa, mas substituiu a prisão preventiva por medidas cautelares The post Justiça solta ex-auditor preso em o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/1755127369689d1e490b29a_1755127369_3x2_xl.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "03 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ray Dalio vê bolha em IA e alerta que estouro virá na hora de provar lucro",
-        "link": "https://www.infomoney.com.br/mercados/ray-dalio-ve-bolha-em-ia-e-alerta-que-estouro-vira-na-hora-de-provar-lucro/",
-        "summary": "Bilionário fundador da Bridgewater diz que revoluções tecnológicas sempre criam bolhas The post Ray Dalio vê bolha em IA e alerta que estouro virá na hora de provar lucro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/457601936.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Europa avalia nova tentativa de negociação com Putin sobre guerra na Ucrânia",
+        "link": "https://www.infomoney.com.br/mundo/europa-avalia-nova-tentativa-de-negociacao-com-putin-sobre-guerra-na-ucrania/",
+        "summary": "Alemanha, França e Reino Unido discutem plano com Kiev em meio a impasse militar, pressão sobre o Kremlin e paralisia das conversas lideradas pelos EUA The post Europa avalia nova tentativa de negociação com Putin sobre ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-20T172217Z_1_LYNXMPEL5J0WQ_RTROPTP_4_RUSSIA-PUTIN-TERCEIRAGUERRA.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
         "date": "03 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Após meses sem contato, Nasa encerra operação da Maven, sonda histórica que estudou Marte",
-        "link": "https://exame.com/ciencia/apos-meses-sem-contato-nasa-encerra-operacao-da-maven-sonda-historica-que-estudou-marte/",
-        "summary": "Segundo a NASA, os dados coletados pela Maven continuarão sendo analisados por muitos anos",
+        "title": "O que há por trás do suposto OVNI visto no Paraná? Até Spielberg foi envolvido",
+        "link": "https://exame.com/pop/o-que-ha-por-tras-do-suposto-ovni-visto-no-parana-ate-spielberg-foi-envolvido/",
+        "summary": "Registro de um objeto luminoso sobrevoando uma cidade paranaense movimentou as redes sociais e levantou teorias sobre extraterrestres",
         "image": null,
         "date": "03 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Sabalenka desaba após eliminação em Roland Garros: 'Quero abandonar o tênis'",
-        "link": "https://exame.com/esporte/sabalenka-desaba-apos-eliminacao-em-roland-garros-quero-abandonar-o-tenis/",
-        "summary": "Número 1 do mundo abriu vantagem de 6/3 e 4/1, mas sofreu virada de Diana Shnaider e deixou Paris abalada",
+        "title": "Câmara dos EUA vota para interromper a guerra com o Irã em repreensão a Trump",
+        "link": "https://exame.com/mundo/camara-dos-eua-vota-para-interromper-a-guerra-com-o-ira-em-repreensao-a-trump/",
+        "summary": "Texto foi aprovado por 215 votos a 208 e resultado evidencia o aumento das preocupações dentro do Partido Republicano sobre os desdobramentos da guerra",
         "image": null,
         "date": "03 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "As cinco vacas que desafiaram o isolamento e a ciência por 130 anos",
-        "link": "https://exame.com/ciencia/as-cinco-vacas-que-desafiaram-o-isolamento-e-a-ciencia-por-130-anos/",
-        "summary": "O rápido crescimento populacional ajudou a preservar parte da diversidade antes que os efeitos negativos se tornassem críticos",
+        "title": "Fafá de Belém lança Fórum Varanda da Amazônia 2026 com foco nas mulheres: 'Somos todas Beléns'",
+        "link": "https://exame.com/esg/fafa-de-belem-lanca-forum-varanda-da-amazonia-com-foco-nas-mulheres-somos-todas-belens/",
+        "summary": "Projeto criado há 16 anos pela artista paraense ganha edição internacional em Portugal e coloca em destaque as vozes que moldam o futuro do bioma",
         "image": null,
         "date": "03 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "STF marca julgamento de Eduardo Bolsonaro para 16 de junho",
-        "link": "https://exame.com/brasil/stf-marca-julgamento-de-eduardo-bolsonaro-para-16-de-junho/",
-        "summary": "Definição da data ocorreu após o ministro Alexandre de Moraes concluir a fase de tramitação do caso e encaminhar o processo para análise do colegiado",
+        "title": "Xbox Game Pass terá junho movimentado - veja o que vai mudar no catálogo",
+        "link": "https://exame.com/pop/xbox-game-pass-tera-junho-movimentado-veja-o-que-vai-mudar-no-catalogo/",
+        "summary": "O grande nome do mês, Persona 5 Royal, entra em 9 de junho, ampliando a presença da franquia japonesa no serviço",
         "image": null,
         "date": "03 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ibovespa cai mais de 2% com mercado cético sobre corte de juros; dólar sobe para R$ 5,07",
-        "link": "https://exame.com/invest/mercados/ibovespa-cai-mais-de-2-com-mercado-cetico-sobre-corte-de-juros-dolar-sobe-para-r-507/",
-        "summary": "As bolsas de NY também encerraram o pregão em queda, interrompendo uma sequência de quatro recordes consecutivos de fechamento",
+        "title": "A inteligência de dados no combate às fraudes em combustíveis",
+        "link": "https://exame.com/negocios/a-inteligencia-de-dados-fraudes-em-combustiveis/",
+        "summary": "Integração de dados, cooperação institucional e modernização tributária são pilares contra crimes no setor",
         "image": null,
         "date": "03 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Funcionários endividados custam produtividade às empresas",
-        "link": "https://exame.com/lideres-extraordinarios/funcionarios-endividados-custam-produtividade-as-empresas/",
-        "summary": "Dívidas pessoais estão interferindo no ambiente de trabalho",
+        "title": "Efeito João Fonseca: 'febre' do tênis recoloca torneios Challenger no centro da formação de atletas",
+        "link": "https://exame.com/casual/efeito-joao-fonseca-febre-do-tenis-recoloca-torneios-challenger-no-centro-da-formacao-de-atletas/",
+        "summary": "O retorno de Costa do Sauípe ao calendário internacional ocorre em um cenário de renovação do tênis nacional e reforça a importância das competições Challenger na construção de carreiras profissionais",
         "image": null,
         "date": "03 de jun. de 2026",
         "source": "Exame",
