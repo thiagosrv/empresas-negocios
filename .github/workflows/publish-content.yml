@@ -1,0 +1,76 @@
+name: 📝 Publicar Artigos do Drive
+
+on:
+  push:
+    paths:
+      - 'content/artigos/**'   # Dispara automaticamente quando .md é adicionado
+  workflow_dispatch:            # Permite rodar manualmente no GitHub Actions
+    inputs:
+      message:
+        description: 'Mensagem do commit (opcional)'
+        required: false
+        default: 'feat(artigos): publica conteúdo do Drive'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🟢 Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Instalar dependências
+        run: npm install
+
+      - name: 📄 Verificar arquivos em content/artigos/
+        run: |
+          echo "Arquivos encontrados:"
+          ls content/artigos/ 2>/dev/null || echo "(pasta vazia ou inexistente)"
+
+      - name: 🚀 Processar e publicar artigos
+        run: node scripts/publish-markdown.js
+
+      - name: 🗺️ Atualizar sitemap
+        run: node scripts/generate-sitemap.js
+        continue-on-error: true   # Não falha o job se o sitemap der problema
+
+      - name: 📊 Verificar arquivos gerados
+        run: |
+          echo "Novos HTMLs em noticias/:"
+          git diff --name-only HEAD -- noticias/ | head -20
+          echo ""
+          echo "Mudanças em data/:"
+          git diff --name-only HEAD -- data/ | head -10
+
+      - name: 💾 Commit e push dos artigos publicados
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Verifica se há algo para commitar
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "Nenhuma mudança detectada — artigos já estavam publicados."
+            exit 0
+          fi
+
+          git add noticias/ data/artigos.json sitemap.xml
+
+          COMMIT_MSG="${{ github.event.inputs.message || 'feat(artigos): publica conteúdo do Drive' }}"
+          COUNT=$(git diff --staged --name-only -- noticias/ | wc -l | tr -d ' ')
+          git commit -m "${COMMIT_MSG} (${COUNT} artigo(s))"
+
+          # Pull rebase antes de push para evitar conflito com outros bots
+          git pull --rebase origin main
+          git push origin main
+
+          echo "✅ $COUNT artigo(s) publicado(s) com sucesso!"
