@@ -396,7 +396,13 @@ function buildArticleHtml(meta, htmlBody, fileName) {
 
 // ─── MAIN ────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log('\n📂 Publicando artigos de content/artigos/...\n');
+  // --max=N  → publica no máximo N artigos por execução (padrão: todos)
+  const maxArg = process.argv.find(a => a.startsWith('--max='));
+  const MAX    = maxArg ? parseInt(maxArg.split('=')[1], 10) : Infinity;
+
+  console.log('\n📂 Publicando artigos de content/artigos/...');
+  if (MAX !== Infinity) console.log(`⏱️  Modo agendado: máximo ${MAX} artigo(s) por execução\n`);
+  else console.log();
 
   // Garante que as pastas existem
   if (!existsSync(CONTENT_DIR)) {
@@ -490,6 +496,12 @@ async function main() {
     console.log(`   Título: ${title}`);
     console.log(`   Tag: ${tag} (${tagCls})\n`);
     published++;
+
+    // Para quando atingir o limite por execução
+    if (published >= MAX) {
+      console.log(`⏹️  Limite de ${MAX} atingido. Restantes serão publicados nas próximas execuções.`);
+      break;
+    }
   }
 
   // Salva artigos.json atualizado

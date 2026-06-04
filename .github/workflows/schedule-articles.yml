@@ -1,0 +1,92 @@
+name: 🕐 Publicar 1 Artigo a Cada 2h
+
+on:
+  schedule:
+    # Roda a cada 2 horas (horário UTC)
+    # UTC-3 = Brasil → 00h UTC = 21h BRT | 06h UTC = 03h BRT | etc.
+    # Horários de publicação (horário de Brasília):
+    #   00h → 03h BRT
+    #   02h → 05h BRT
+    #   04h → 07h BRT  ← manhã
+    #   06h → 09h BRT  ← manhã
+    #   08h → 11h BRT  ← manhã
+    #   10h → 13h BRT  ← tarde
+    #   12h → 15h BRT  ← tarde
+    #   14h → 17h BRT  ← tarde
+    #   16h → 19h BRT  ← noite
+    #   18h → 21h BRT  ← noite
+    #   20h → 23h BRT  ← noite
+    #   22h → 01h BRT
+    - cron: '0 */2 * * *'
+
+  workflow_dispatch:
+    inputs:
+      quantidade:
+        description: 'Quantos artigos publicar agora?'
+        required: false
+        default: '1'
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: ⬇️ Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🟢 Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Instalar dependências
+        run: npm install
+
+      - name: 📊 Status da fila
+        run: |
+          TOTAL=$(ls content/artigos/*.md 2>/dev/null | wc -l)
+          PUBLICADOS=$(ls noticias/*.html 2>/dev/null | wc -l)
+          PENDENTES=$((TOTAL - PUBLICADOS < 0 ? 0 : TOTAL - PUBLICADOS))
+          echo "📄 Total na fila : $TOTAL artigos"
+          echo "✅ Já publicados : $PUBLICADOS artigos"
+          echo "⏳ Pendentes     : $PENDENTES artigos"
+          echo ""
+          if [ "$TOTAL" -eq 0 ]; then
+            echo "Fila vazia — nenhum artigo para publicar."
+            exit 0
+          fi
+
+      - name: 🚀 Publicar artigo(s)
+        run: |
+          QTD="${{ github.event.inputs.quantidade || '1' }}"
+          node scripts/publish-markdown.js --max=$QTD
+
+      - name: 🗺️ Atualizar sitemap
+        run: node scripts/generate-sitemap.js
+        continue-on-error: true
+
+      - name: 💾 Commit e push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "Nenhum artigo novo — fila pode estar vazia ou todos já publicados."
+            exit 0
+          fi
+
+          git add noticias/ data/artigos.json sitemap.xml
+
+          # Pega o título do artigo recém publicado para a mensagem de commit
+          NOVO=$(git diff --staged --name-only -- noticias/ | head -1 | sed 's|noticias/||')
+          git commit -m "feat(artigo): publica ${NOVO}"
+
+          git pull --rebase origin main
+          git push origin main
+
+          echo "✅ Artigo publicado: $NOVO"
