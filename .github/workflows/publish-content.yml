@@ -63,7 +63,7 @@ jobs:
             exit 0
           fi
 
-          git add noticias/ data/artigos.json sitemap.xml
+          git add noticias/ data/artigos.json sitemap.xml robots.txt
 
           COMMIT_MSG="${{ github.event.inputs.message || 'feat(artigos): publica conteúdo do Drive' }}"
           COUNT=$(git diff --staged --name-only -- noticias/ | wc -l | tr -d ' ')

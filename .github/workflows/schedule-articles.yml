@@ -80,7 +80,7 @@ jobs:
             exit 0
           fi
 
-          git add noticias/ data/artigos.json sitemap.xml
+          git add noticias/ data/artigos.json sitemap.xml robots.txt
 
           # Pega o título do artigo recém publicado para a mensagem de commit
           NOVO=$(git diff --staged --name-only -- noticias/ | head -1 | sed 's|noticias/||')

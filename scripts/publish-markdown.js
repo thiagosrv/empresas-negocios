@@ -417,7 +417,8 @@ async function main() {
   if (existsSync(ARTIGOS_JSON)) {
     try { artigosData = JSON.parse(readFileSync(ARTIGOS_JSON, 'utf8')); } catch {}
   }
-  const existingUrls = new Set((artigosData.articles || []).map(a => a.url));
+  const existingUrls  = new Set((artigosData.articles || []).map(a => a.url));
+  const existingIds   = new Set((artigosData.articles || []).map(a => a.id));
 
   // Lista todos os .md
   const mdFiles = readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
@@ -461,9 +462,8 @@ async function main() {
     const htmlPath   = join(OUTPUT_DIR, htmlFile);
     const articleUrl = `noticias/${htmlFile}`;
 
-    // Verifica se já foi publicado
-    if (existingUrls.has(articleUrl) && existsSync(htmlPath)) {
-      console.log(`⏭️  Já publicado: ${htmlFile}`);
+    // Verifica se já foi publicado (por slug — independente da data)
+    if (existingIds.has(`md-${fileSlug}`)) {
       skipped++;
       continue;
     }
