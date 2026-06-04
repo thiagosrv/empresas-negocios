@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-03T14:41:58.912Z",
+  "updated": "2026-06-04T20:02:13.535Z",
   "articles": [
+    {
+      "id": "md-LEIA-ME",
+      "url": "noticias/2026-06-04-leia-me.html",
+      "title": "LEIA ME",
+      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "date": "04 de jun. de 2026",
+      "readMin": 3,
+      "source": "content"
+    },
     {
       "slug": "ia-generativa-transforma-trabalho-administrativo-brasil-2026",
       "title": "IA Generativa Revoluciona Trabalho Administrativo no Brasil em 2026",
