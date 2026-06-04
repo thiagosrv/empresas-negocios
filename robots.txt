@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+# Bloquear arquivos de dados e scripts internos
+Disallow: /data/
+Disallow: /scripts/
+Disallow: /.github/
+
+# Sitemap
 Sitemap: https://www.empresasenegocios.com.br/sitemap.xml
