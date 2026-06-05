@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-05T12:39:35.121Z",
+  "updated": "2026-06-05T16:29:03.010Z",
   "articles": [
+    {
+      "id": "md-LEIA-ME",
+      "url": "noticias/2026-06-05-leia-me.html",
+      "title": "LEIA ME",
+      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "date": "05 de jun. de 2026",
+      "readMin": 3,
+      "source": "content"
+    },
     {
       "slug": "5g-brasil-2026-impactos-industria-logistica",
       "title": "5G no Brasil em 2026: Impactos na Indústria e Logística",
