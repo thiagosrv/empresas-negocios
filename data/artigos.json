@@ -1,65 +1,29 @@
 {
-  "updated": "2026-06-05T12:35:08.562Z",
+  "updated": "2026-06-05T12:39:35.121Z",
   "articles": [
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064",
-      "url": "noticias/2026-06-05-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Braganca Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Bragança Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "5g-brasil-2026-impactos-industria-logistica",
+      "title": "5G no Brasil em 2026: Impactos na Indústria e Logística",
+      "description": "Descubra como o 5G transformará a indústria e a logística no Brasil até 2026, com foco no interior de São Paulo.",
       "date": "05 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054",
-      "url": "noticias/2026-06-05-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "05 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043",
-      "url": "noticias/2026-06-05-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "05 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010",
-      "url": "noticias/2026-06-04-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Aguas De Sao Pedro",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Águas de São Pedro | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "04 de jun. de 2026",
-      "readMin": 7,
-      "source": "content"
-    },
-    {
-      "id": "md-LEIA-ME",
-      "url": "noticias/2026-06-04-leia-me.html",
-      "title": "LEIA ME",
-      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "isoDate": "2026-06-05",
       "tag": "Tecnologia",
       "tagCls": "tecnologia",
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "date": "04 de jun. de 2026",
-      "readMin": 3,
-      "source": "content"
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-05-5g-brasil-2026-impactos-industria-logistica.html"
+    },
+    {
+      "slug": "demanda-portaria-facilities-americana-sumare",
+      "title": "Demanda por Portaria e Facilities Cresce no Polo Industrial de Americana",
+      "description": "Conheça a crescente demanda por portaria e facilities no polo industrial de Americana e Sumaré, SP.",
+      "date": "05 de jun. de 2026",
+      "isoDate": "2026-06-05",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-05-demanda-portaria-facilities-americana-sumare.html"
     },
     {
       "slug": "ia-generativa-transforma-trabalho-administrativo-brasil-2026",
@@ -1116,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-facilities-sumare-terceirizacao-servicos-industria.html"
-    },
-    {
-      "slug": "flamengo-2026-investimentos-contratacoes-estrategia",
-      "title": "Flamengo 2026: Estratégia para Conquistar Brasileirão e Libertadores",
-      "description": "Descubra os investimentos e contratações do Flamengo para dominar o futebol em 2026.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Futebol",
-      "tagCls": "futebol",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-flamengo-2026-investimentos-contratacoes-estrategia.html"
-    },
-    {
-      "slug": "copa-mundo-2026-guia-completo-eua-canada-mexico",
-      "title": "Copa do Mundo 2026: Guia Completo do Torneio na América do Norte",
-      "description": "Descubra tudo sobre a Copa 2026 nos EUA, Canadá e México: grupos, sedes e mais.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Futebol",
-      "tagCls": "futebol",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-copa-mundo-2026-guia-completo-eua-canada-mexico.html"
     }
   ]
 }
