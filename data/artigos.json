@@ -1,89 +1,29 @@
 {
-  "updated": "2026-06-06T10:01:40.358Z",
+  "updated": "2026-06-06T11:27:48.973Z",
   "articles": [
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50004",
-      "url": "noticias/2026-06-06-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50004.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Charqueada",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Charqueada | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "automacao-industrial-campinas-americana",
+      "title": "Automação Industrial em Campinas: Produtividade com Robôs e IA",
+      "description": "Descubra como a automação industrial em Campinas e Americana está impulsionando a produtividade com robôs e IA.",
       "date": "06 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053",
-      "url": "noticias/2026-06-06-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Campo Limpo Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Campo Limpo Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "06 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064",
-      "url": "noticias/2026-06-06-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Braganca Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Bragança Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "06 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054",
-      "url": "noticias/2026-06-05-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "05 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043",
-      "url": "noticias/2026-06-05-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "05 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010",
-      "url": "noticias/2026-06-05-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Aguas De Sao Pedro",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Águas de São Pedro | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "05 de jun. de 2026",
-      "readMin": 7,
-      "source": "content"
-    },
-    {
-      "id": "md-LEIA-ME",
-      "url": "noticias/2026-06-05-leia-me.html",
-      "title": "LEIA ME",
-      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "isoDate": "2026-06-06",
       "tag": "Tecnologia",
       "tagCls": "tecnologia",
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "date": "05 de jun. de 2026",
-      "readMin": 3,
-      "source": "content"
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-06-automacao-industrial-campinas-americana.html"
+    },
+    {
+      "slug": "facilities-para-hospitais-e-clinicas-em-campinas",
+      "title": "Facilities essenciais para hospitais e clínicas em Campinas",
+      "description": "Descubra como portaria, limpeza e controle de acesso são cruciais para saúde em Campinas.",
+      "date": "06 de jun. de 2026",
+      "isoDate": "2026-06-06",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-06-facilities-para-hospitais-e-clinicas-em-campinas.html"
     },
     {
       "slug": "5g-brasil-2026-impactos-industria-logistica",
@@ -1140,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-facilities-santa-barbara-doeste-terceirizacao.html"
-    },
-    {
-      "slug": "facilities-piracicaba-servicos-terceirizados",
-      "title": "Facilities em Piracicaba: Serviços Terceirizados para o Polo Sucroenergético",
-      "description": "Explore serviços de facilities em Piracicaba, essenciais para o polo sucroenergético e indústrias da região.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-facilities-piracicaba-servicos-terceirizados.html"
-    },
-    {
-      "slug": "facilities-sumare-terceirizacao-servicos-industria",
-      "title": "Facilities em Sumaré: Terceirização para Polo Automotivo e Logístico",
-      "description": "Descubra como terceirizar serviços de facilities em Sumaré, SP, e otimizar operações no polo automotivo e logístico.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-facilities-sumare-terceirizacao-servicos-industria.html"
     }
   ]
 }
