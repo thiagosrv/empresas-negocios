@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T14:45:41.021Z",
+  "updated": "2026-06-06T16:10:32.757Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "União Europeia oficializa veto à carne brasileira a partir de setembro",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/uniao-europeia-oficializa-veto-carne-brasileira-partir-de-setembro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/uniao-europeia-oficializa-veto-carne-brasileira-partir-de-setembro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "06 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Rio: mostra sobre Iemanjá ocupa Biblioteca Parque Estadual até dia 15",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/rio-mostra-sobre-iemanja-ocupa-biblioteca-parque-estadual-ate-dia-15",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/rio-mostra-sobre-iemanja-ocupa-biblioteca-parque-estadual-ate-dia-15 img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
@@ -171,19 +181,59 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Liderado por Holanda, Grupo F pode entrar na rota do Brasil na 2ª fase",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/liderado-por-holanda-grupo-f-pode-entrar-na-rota-do-Brasil-na-2a-fase",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/liderado-por-holanda-grupo-f-pode-entrar-na-rota-do-Brasil-na-2a-fase img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Willean Lepo marca, Criciúma vence o Londrina e entra no G6",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-londrina-g6-serie-b/",
+        "summary": "O Criciúma venceu o Londrina por 1 a 0 e entrou no G6 da Série B, assumindo a quarta posição com 20 pontos. O gol da vitória foi marcado por Willean Lepo ainda no início da partida. O post Willean Lepo marca, Criciúma ve",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Criciuma-Gol.webp",
+        "date": "06 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos da partida entre Criciúma e Londrina pela Série B do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/veja-fotos-da-partida-entre-criciuma-e-londrina-pela-serie-b-do-brasileiro/",
+        "summary": "Veja fotos da partida entre Criciúma e Londrina pela Série B do Brasileiro. O post Veja fotos da partida entre Criciúma e Londrina pela Série B do Brasileiro apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/2715-20879.webp",
+        "date": "06 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Juan relembra gol contra o Egito e destaca evolução do próximo adversário da Seleção",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/juan-relembra-brasil-egito-2009-amistoso/",
+        "summary": "O ex-zagueiro Juan relembrou a vitória do Brasil sobre o Egito na Copa das Confederações de 2009, destacando a evolução do adversário. As seleções voltam a se enfrentar em amistoso antes da Copa do Mundo. O post Juan rel",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/DSC_00702_JPG_5f008dc263.webp",
+        "date": "06 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Seleção Brasileira faz último amistoso antes da Copa e defende retrospecto perfeito contra o Egito",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/brasil-egito-amistoso-pre-copa-do-mundo/",
+        "summary": "A Seleção Brasileira enfrenta o Egito em amistoso preparatório para a Copa do Mundo, defendendo retrospecto perfeito no confronto. O duelo marca o último teste antes da estreia no torneio contra o Marrocos. O post Seleçã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/treino-selecao-05062026.webp",
+        "date": "06 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Bélgica goleia Tunísia em seu último amistoso antes da Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/belgica-goleia-tunisia-amistoso-pre-copa-2026/",
+        "summary": "A Bélgica goleou a Tunísia por 5 a 0 em amistoso preparatório para a Copa do Mundo 2026, com destaque para De Bruyne e companhia. O confronto serviu como ajuste final antes da estreia no Mundial. O post Bélgica goleia Tu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__B68H4T9__v1__HighRes__FblBelTunFriendly.webp",
+        "date": "06 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Guto Miguel vence Michael Antonius, faz história e é campeão do Roland Garros Juvenil",
         "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/guto-miguel-campeao-roland-garros-juvenil/",
@@ -193,119 +243,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Veja fotos do amistoso entre Bélgica e Tunísia",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-do-amistoso-entre-belgica-e-tunisia/",
-        "summary": "Veja fotos do amistoso entre Bélgica e Tunísia. O post Veja fotos do amistoso entre Bélgica e Tunísia apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260606__B68E72U__v1__HighRes__FblBelTunFriendly.webp",
-        "date": "06 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Antonelli lidera último treino livre em Mônaco antes da classificação; Bortoleto fica em sétimo",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/antonelli-lider-treino-monaco-f1/",
-        "summary": "O jovem Kimi Antonelli liderou o último treino livre do GP de Mônaco, colocando a Mercedes à frente das Ferraris de Leclerc e Hamilton. A sessão teve bandeira vermelha após acidente de Bearman e contou com punição à McLa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260605__B66D2DZ__v2__HighRes__AutoPrixF1MonPractice.webp",
-        "date": "06 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "TV iraniana diz que EUA negou vistos a 15 membros da delegação para a Copa",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/eua-negam-vistos-delegacao-ira-copa-do-mundo/",
-        "summary": "Os Estados Unidos concederam vistos apenas aos jogadores e à comissão técnica da seleção do Irã para a Copa do Mundo, mas negaram a entrada a 15 integrantes administrativos, segundo a televisão estatal iraniana. O caso p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260605__B6744FN__v1__HighRes__MexicoFblWc2026StadiumPreparations.webp",
-        "date": "06 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Brasil defende retrospecto perfeito contra o Egito, rival em último teste antes da Copa",
-        "link": "https://www.gazetaesportiva.com/times/brasil/brasil-defende-retrospecto-perfeito-contra-o-egito-rival-em-ultimo-teste-antes-da-copa/",
-        "summary": "A Seleção Brasileira entra em campo neste sábado, às 19h (de Brasília), para enfrentar o Egito no Huntington Bank Field, em Cleveland, nos Estados Unidos. Além de representar o último compromisso antes da estreia na Copa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/selecao-realiza-o-primeiro-treino-em-new-jersey-masculino-02062026.webp",
-        "date": "06 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Ancelotti aprova dupla Endrick e Igor Thiago na Seleção e não vê favoritos na Copa",
-        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-aprova-dupla-endrick-e-igor-thiago-na-selecao-e-nao-ve-favoritos-na-copa/",
-        "summary": "Carlo Ancelotti concedeu nesta sexta-feira sua última entrevista coletiva antes do amistoso entre Brasil e Egito, marcado para este sábado, às 19h (de Brasília), em Cleveland. Além de abordar os ajustes finais da Seleção",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260531__B4KF8BB__v1__HighRes__FblFriendlyBraPan.webp",
-        "date": "06 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Como Igor Thiago furou a fila de centroavantes da ...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16801566/como-igor-thiago-furou-fila-centroavantes-selecao-virou-candidato-titular-copa-mundo",
-        "summary": "null",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Seleção fecha preparação para Copa em cidade sem f...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16803174/sede-brasil-x-egito-cleveland-ignora-futebol-meio-tantos-esportes-mas-isso-vai-mudar",
-        "summary": "null",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Torcedor diz o que ouviu de Marquinhos após cobrar...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16802455/torcedor-diz-o-que-ouviu-marquinhos-apos-cobrar-selecao-brasileira-desembarque-amistoso",
-        "summary": "null",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Criciúma e Londrina duelam pela Série B; SIGA AO V...",
-        "link": "https://www.espn.com.br/futebol/partida-estatisticas/_/jogoId/401873959",
-        "summary": "Criciúma e Londrina duelam pela Série B; SIGA AO V...",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Knicks vencem os Spurs com desfecho alucinante e a...",
-        "link": "https://www.espn.com.br/nba/artigo/_/id/16802322/nba-knicks-vencem-spurs-final-alucinante-abrem-2-a-0-finais",
-        "summary": "New York pode fechar as Finais nos dois jogos no Madison Square Garden",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Wemby assume responsabilidade por erro no final do...",
-        "link": "https://www.espn.com.br/nba/artigo/_/id/16803479/nba-wembanyama-assume-responsabilidade-erro-spurs-final-jogo-2-finais-contra-knicks-joguei-essa-fora",
-        "summary": "New York abriu 2 a 0 nos jogos em San Antonio e pode encerrar a decisão no Madison Square Garden",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "União Europeia oficializa veto à carne brasileira a partir de setembro",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/uniao-europeia-oficializa-veto-carne-brasileira-partir-de-setembro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/uniao-europeia-oficializa-veto-carne-brasileira-partir-de-setembro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "06 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Desemprego entre mulheres negras jovens chega a 24,7%, aponta estudo",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/desemprego-entre-mulheres-negras-jovens-chega-a-247-aponta-estudo",
@@ -357,129 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Governo amplia acesso ao Plano Brasil Soberano",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-amplia-acesso-ao-plano-brasil-soberano",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-amplia-acesso-ao-plano-brasil-soberano img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
+        "title": "EUA atacam instalações iranianas depois que Irã lança drone sem direção a Ormuz",
+        "link": "https://www.infomoney.com.br/mundo/eua-atacam-instalacoes-iranianas-depois-que-ira-lanca-drone-sem-direcao-a-ormuz/",
+        "summary": "Os militares dos EUA acreditam que os quatro drones ⁠iranianos ‌tinham como alvo o tráfego marítimo regional The post EUA atacam instalações iranianas depois que Irã lança drone sem direção a Ormuz appeared first on Info",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-05T102603Z_1696956119_RC2XIKAJ2461_RTRMADP_3_IRAN-CRISIS.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "06 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Netflix troca comando do conselho após saída de Reed Hastings",
+        "link": "https://www.infomoney.com.br/business/netflix-troca-comando-do-conselho-apos-saida-de-reed-hastings/",
+        "summary": "Jay Hoag, investidor ligado à empresa desde os anos 1990, assume a presidência do colegiado após a saída do cofundador da plataforma The post Netflix troca comando do conselho após saída de Reed Hastings appeared first o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-19T150517Z_1_LYNXNPEK3I0ME_RTROPTP_4_NETFLIX-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "06 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "EUA negam vistos a integrantes da delegação do Irã às vésperas da Copa",
+        "link": "https://www.infomoney.com.br/esportes/eua-negam-vistos-a-integrantes-da-delegacao-do-ira-as-vesperas-da-copa/",
+        "summary": "Jogadores e comissão técnica receberam autorização para entrar no país, mas parte da equipe administrativa segue sem liberação The post EUA negam vistos a integrantes da delegação do Irã às vésperas da Copa appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-06T133932Z_895921715_UP1EM6611XUCG_RTRMADP_3_SOCCER-WORLDCUP-IRN-DEPARTURE.jpeg?fit=300%2C222&amp;quality=70&amp;strip=all",
+        "date": "06 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Irã denuncia violação de cessar-fogo depois de ataques dos EUA",
+        "link": "https://www.infomoney.com.br/mundo/ira-denuncia-violacao-de-cessar-fogo-depois-de-ataques-dos-eua/",
+        "summary": "O comunicado foi divulgado depois de o Exército americano ter apontado que abateu mísseis balísticos e drones iranianos em direção ao Estreito de Ormuz The post Irã denuncia violação de cessar-fogo depois de ataques dos ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-20T214006Z_1_LYNXMPEM3J17U_RTROPTP_4_IRAN-CRISIS-QALIBAF.jpg?fit=300%2C233&amp;quality=70&amp;strip=all",
+        "date": "06 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Chefe do Pentágono compara imigração na Europa a “invasão” ao Dia D da 2º Guerra",
+        "link": "https://www.infomoney.com.br/mundo/chefe-do-pentagono-compara-imigracao-na-europa-a-invasao-ao-dia-d-da-2o-guerra/",
+        "summary": "Pete Hegseth usa aniversário do desembarque aliado na Normandia para reforçar críticas de Trump à política migratória e à atuação europeia na defesa The post Chefe do Pentágono compara imigração na Europa a “invasão” ao ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-04-105623.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "06 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Após trégua, ataque de Israel mata 9 pessoas, incluindo oficiais do exército libanês",
+        "link": "https://www.infomoney.com.br/mundo/apos-tregua-ataque-de-israel-mata-9-pessoas-incluindo-oficiais-do-exercito-libanes/",
+        "summary": "O exército afirmou que opera contra o grupo político-paramilitar Hezbollah e não contra o exército libanês The post Após trégua, ataque de Israel mata 9 pessoas, incluindo oficiais do exército libanês appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Libano.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "06 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Opinião: o Brasil está redefinindo a internet com o Pix, o WhatsApp e a IA",
+        "link": "https://exame.com/bussola/opiniao-o-brasil-esta-redefinindo-a-internet-com-o-pix-o-whatsapp-e-a-ia/",
+        "summary": "Descubra como a combinação de pagamentos instantâneos e inteligência artificial está transformando a forma como marcas e clientes interagem",
         "image": null,
-        "date": "03 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "06 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Haddad: precisamos cooperar com EUA, sem subordinar interesse brasileiro",
-        "link": "https://www.infomoney.com.br/politica/haddad-precisamos-cooperar-com-eua-sem-subordinar-interesse-brasileiro/",
-        "summary": "Haddad disse ainda que o governador de São Paulo, Tarcísio de Freitas (Republicanos), errou ao não cooperar com a União no combate ao crime organizado The post Haddad: precisamos cooperar com EUA, sem subordinar interess",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-02-102602.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "title": "Papa é pop e ama tênis — a rotina saudável do líder religioso",
+        "link": "https://exame.com/mundo/papa-e-pop-e-ama-tenis-a-rotina-saudavel-do-lider-religioso/",
+        "summary": "“Na vida, assim como no jogo, ninguém se salva sozinho”, disse o papa",
+        "image": null,
         "date": "06 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Diminuição de apetite por ativos locais com brilho de big techs tira força do real",
-        "link": "https://www.infomoney.com.br/mercados/diminuicao-de-apetite-por-ativos-locais-com-brilho-de-big-techs-tira-forca-do-real/",
-        "summary": "Dados mais recentes da B3 mostram que os investidores estrangeiros retiraram R$ 14,104 bilhões da bolsa doméstica em maio The post Diminuição de apetite por ativos locais com brilho de big techs tira força do real appear",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/04/Big-techs-min.png?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "title": "Andreeva vence Chwalinska e é campeã de Roland Garros aos 19 anos",
+        "link": "https://exame.com/esporte/andreeva-vence-chwalinska-e-e-campea-de-roland-garros-aos-19-anos/",
+        "summary": "Atual número 8 do mundo é a campeã mais jovem do torneio desde Monica Seles, em 1990",
+        "image": null,
         "date": "06 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Como Taylor Swift se tornou a cantora mais rica da história, com R$ 11,2 bilhões",
-        "link": "https://www.infomoney.com.br/carreira/como-taylor-swift-se-tornou-a-cantora-mais-rica-da-historia-com-r-112-bilhoes/",
-        "summary": "Fortuna da cantora chegou a US$ 2 bilhões após turnê recordista, valorização do catálogo e recuperação dos direitos de suas músicas The post Como Taylor Swift se tornou a cantora mais rica da história, com R$ 11,2 bilhõe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/TAYLOR-SWIFT-AND-PRODUCTIVE-PARANOIA-HBR-BREAKS-DOWN-THE-HUSTLE-AND-MINDSET-THAT-BUILT-A-16B-NET-WORTH-AND-A-GENERATIONAL-MUSICIAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "McDonald's testa IA para substituir atendentes no drive-thru",
+        "link": "https://exame.com/mundo/mcdonalds-testa-ia-para-substituir-atendentes-no-drive-thru/",
+        "summary": "Projeto faz parte do plano McDonald's Next, que também prevê mudanças em lojas e cardápio",
+        "image": null,
         "date": "06 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "UE fecha mercado para carnes do Brasil e coloca US$ 1,8 bilhão em risco",
-        "link": "https://www.infomoney.com.br/mercados/ue-fecha-mercado-para-carnes-do-brasil-e-coloca-us-18-bilhao-em-risco/",
-        "summary": "Decisão afeta exportações de carne bovina, frango e outros produtos de origem animal e amplia pressão sobre um dos principais setores da balança comercial brasileira The post UE fecha mercado para carnes do Brasil e colo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/carne.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Guto Miguel entra para a história e conquista Roland Garros juvenil",
+        "link": "https://exame.com/esporte/guto-miguel-entra-para-a-historia-e-conquista-roland-garros-juvenil/",
+        "summary": "Goiano é o primeiro brasileiro campeão de simples do torneio",
+        "image": null,
         "date": "06 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Seguro viagem: o que olhar antes de comprar",
-        "link": "https://www.infomoney.com.br/minhas-financas/seguro-viagem-o-que-olhar-antes-de-comprar/",
-        "summary": "O que olhar antes de contratar um seguro viagem depende do seu contexto, e alguns detalhes fazem diferença na hora do imprevisto The post Seguro viagem: o que olhar antes de comprar appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Seguro-viagem.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "06 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Novo sistema de entrada e saída na UE acrescenta problemas às cias. aéreas",
-        "link": "https://www.infomoney.com.br/consumo/novo-sistema-de-entrada-e-saida-na-ue-acrescente-problemas-as-cias-aereas/",
-        "summary": "Entrada em operação do sistema EES tem gerado atrasos de até 6 horas para embarques em alguns países; executivo da IATA falou em desafios para a temporada do verão europeu The post Novo sistema de entrada e saída na UE a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Aeroporto_Italia-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "06 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Caso Maiara: internautas podem ser punidos por comentários nas redes?",
         "link": "https://exame.com/pop/caso-maiara-internautas-podem-ser-punidos-por-comentarios-nas-redes/",
         "summary": "Da injúria à calúnia: entenda os crimes que podem punir quem atacou Maiara nas redes sociais",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Clint Eastwood se aposenta do cinema aos 96 anos",
-        "link": "https://exame.com/pop/clint-eastwood-se-aposenta-do-cinema-aos-96-anos/",
-        "summary": "Revelação foi feita por Kyle Eastwood, filho do cineasta",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "União Europeia retira Brasil de lista de autorizados a exportar carne",
-        "link": "https://exame.com/agro/uniao-europeia-retira-brasil-de-lista-de-autorizados-a-exportar-carne/",
-        "summary": "Outros produtos de origem animal, como pescado, mel e tripas também entraram no veto",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O mercado de R$ 41 bi que fez uma gigante japonesa de fraldas comprar uma fábrica gaúcha de ração",
-        "link": "https://exame.com/negocios/o-mercado-de-r-41-bi-que-fez-uma-gigante-japonesa-de-fraldas-comprar-uma-fabrica-gaucha-de-racao/",
-        "summary": "Maior exportadora de ração do Brasil, a Nutrire foi comprada pela dona da MamyPoko e agora quer chegar a 100 países até 2028 — e vender muito mais que comida pet",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem são os 3% de eleitores que devem decidir a eleição, segundo a CEO do Ideia",
-        "link": "https://exame.com/brasil/os-3-dos-eleitores-que-devem-decidir-a-eleicao-segundo-a-ceo-do-ideia/",
-        "summary": "Segundo Cila Schulman, o Brasil segue dividido entre dois grandes polos políticos, mas o resultado da disputa não dependerá necessariamente dos eleitores mais engajados ideologicamente",
-        "image": null,
-        "date": "06 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Oito bancos centrais estão entrando no mercado de stablecoins; o que isso sinaliza para o Brasil?",
-        "link": "https://exame.com/future-of-money/oito-bancos-centrais-estao-entrando-no-mercado-de-stablecoins-o-que-isso-sinaliza-para-o-brasil/",
-        "summary": "Brasil enfrenta a oportunidade de definir qual papel deseja ocupar na próxima geração da infraestrutura financeira global",
         "image": null,
         "date": "06 de jun. de 2026",
         "source": "Exame",
