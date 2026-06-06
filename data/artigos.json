@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-06T11:27:48.973Z",
+  "updated": "2026-06-06T13:26:33.340Z",
   "articles": [
+    {
+      "id": "md-LEIA-ME",
+      "url": "noticias/2026-06-06-leia-me.html",
+      "title": "LEIA ME",
+      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "date": "06 de jun. de 2026",
+      "readMin": 3,
+      "source": "content"
+    },
     {
       "slug": "automacao-industrial-campinas-americana",
       "title": "Automação Industrial em Campinas: Produtividade com Robôs e IA",
