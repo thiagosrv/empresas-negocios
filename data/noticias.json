@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-07T20:16:06.321Z",
+  "updated": "2026-06-07T22:08:43.647Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Voo da Azul que iria para EUA retorna para Viracopos após 2h por 'questões técnicas'",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/07/voo-da-azul-que-iria-para-eua-retorna-para-viracopos-por-questoes-tecnicas.ghtml",
+        "summary": "Voo da Azul que decolou de Viracopos com destino a Orlando retorna após 2h Reprodução/FlightRadar Um voo que partiu do Aeroporto Internacional de Viracopos, em Campinas (SP), e seguiria para Orlando (EUA) teve que retorn",
+        "image": "https://s2-g1.glbimg.com/Wp6m5Y59817vTNmzemfpnNR6VUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/3/uDc0A8QAmqBNo9B2GBGQ/voo-da-azul-que-decolou-de-viracopos-com-destino-a-orlando-retorna-apos-2h.png",
+        "date": "07 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Laje desaba e 8 torcedores ficam feridos durante jogo amador em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/07/laje-desaba-e-torcedores-ficam-feridos-durante-jogo-amador-em-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/07/com-voo-gravacoes-ao-vivo-e-neblina-3a-noite-de-americana-tem-gusttavo-lima-como-destaque.ghtml",
         "summary": "Neblina tomou conta da arena da Festa do Peão de Americana na madrugada deste domingo (7), na reta final do show de João Bosco e Vinícius Thomaz Marostegan A terceira noite da Festa do Peão de Americana 2026, encerrada j",
         "image": "https://s2-g1.glbimg.com/3OJzrYlnoGuIsbldNns064QHfrE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/E/Mho6BdTfiAKgVMOFiW4Q/img-9422.jpg.jpeg",
-        "date": "07 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "João Bosco e Vinícius recebem Gusttavo Lima e palco literalmente pega fogo em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/07/joao-bosco-e-vinicius-recebem-gusttavo-lima-e-palco-literalmente-pega-fogo-em-americana.ghtml",
-        "summary": "João Bosco e Vinícius recebem Gusttavo Lima e palco literalmente pega fogo em Americana Parceiros de longa data, João Bosco e Vinícius receberam Gusttavo Lima no palco durante o show da dupla na Festa do Peão de American",
-        "image": "https://s2-g1.glbimg.com/3WXiOs5aSo9Tt0zBSnUFDnzoxwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/l/StR1L1QKOVFdjOV6PdrA/img-9401.jpg.jpeg",
         "date": "07 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Inmet tem alerta para tempestade no Sul nesta madrugada",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/inmet-tem-alerta-para-tempestade-no-sul-nesta-madrugada",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/inmet-tem-alerta-para-tempestade-no-sul-nesta-madrugada img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "07 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil sofre, mas bate Itália por 3 sets a 2 na Liga das Nações",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/brasil-sofre-mas-bate-italia-por-3-sets-2-na-liga-das-nacoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/brasil-sofre-mas-bate-italia-por-3-sets-2-na-liga-das-nacoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "07 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Avaí é campeão da Copa Sul-Sudeste nos pênaltis",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/avai-e-campeao-da-copa-sul-sudeste-nos-penaltis",
         "summary": "p strong O Avaí é campeão da Copa Sul-Sudeste 2026. /strong A conquista do time de Florianópolis foi confirmada na manhã deste domingo (7) depois do Leão fazer 5 a 4 nos pênaltis, após a Chapecoense devolver o 3 a 0 do j",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Entidades repudiam prisão de jornalista perseguido por Zambelli",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/entidades-repudiam-prisao-de-jornalista-perseguido-por-zambelli",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/entidades-repudiam-prisao-de-jornalista-perseguido-por-zambelli img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "07 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "A 30ª Parada do Orgulho LGBT+ alerta sobre importância do voto",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/30a-parada-do-orgulho-lgbt-alerta-sobre-importancia-do-voto",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/30a-parada-do-orgulho-lgbt-alerta-sobre-importancia-do-voto img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "07 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Brasil vence Itália e assume liderança da Liga das Nações feminina",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-vence-italia-e-assume-lideranca-da-liga-das-nacoes-feminina/",
-        "summary": "O Brasil venceu a Itália por 3 sets a 0 e assumiu a liderança da Liga das Nações feminina; confira. O post Brasil vence Itália e assume liderança da Liga das Nações feminina apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/v9c9366cr2vcothajg4a.webp",
+        "title": "Robin van Persie é demitido do comando técnico do Feyenoord",
+        "link": "https://www.gazetaesportiva.com/times/holanda/robin-van-persie-e-demitido-do-comando-tecnico-do-feyenoord/",
+        "summary": "Robin van Persie foi demitido do cargo de técnico do Feyenoord após temporada considerada abaixo das expectativas, mesmo com classificação para a Liga dos Campeões. O post Robin van Persie é demitido do comando técnico d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_6663.webp",
         "date": "07 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Danilo diz que característica da Seleção muda com sua entrada",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/danilo-diz-que-caracteristica-da-selecao-muda-com-sua-entrada/",
-        "summary": "Defensor do Flamengo comenta as diferenças de jogo entre ele e Wesley atuando pelo lateral direita do Brasil. O post Danilo diz que característica da Seleção muda com sua entrada apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Danilo.webp",
+        "title": "Bayern aconselha Real Madrid a não fazer proposta por Olise",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/bayern-rejeita-real-madrid-olise/",
+        "summary": "O presidente do Bayern de Munique, Herbert Hainer, rejeitou publicamente qualquer possibilidade de negociação envolvendo Michael Olise, alvo de rumores sobre uma oferta de 150 milhões de euros do Real Madrid. O dirigente",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260607__B6AM7CQ__v1__HighRes__FblWc2026FraTraining.webp",
         "date": "07 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Parabéns, Cafu! 56 anos do capitão do penta: relembre melhores momentos no Milan",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/parabens-cafu-56-anos-do-capitao-do-penta-relembre-melhores-momentos-no-milan/",
-        "summary": "Confira alguns dos melhores momentos de Cafu com a camisa do Milan. O lendário lateral direito entrou em campo por mais de 100 vezes em campo durante os cinco anos em que atuou no clube italiano. O post Parabéns, Cafu! 5",
-        "image": "https://static.gazetaesportiva.com/uploads/2024/12/CAFU.webp",
+        "title": "Bastidores: vitória tranquila da França feminina sobre a Polônia fora de casa",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-vitoria-tranquila-da-franca-feminina-sobre-a-polonia-fora-de-casa/",
+        "summary": "Confira os bastidores da vitória da França por 2 a 0 sobre a Polônia na Polsat Plus Arena, em Gdansk, com gols de Melvine Malard e Sandy Baltimore pelas Les Bleues nas Eliminatórias da Copa do Mundo Feminina da FIFA 2027",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/vito.webp",
         "date": "07 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Jefté passa por cirurgia após lesão no joelho e vira desfalque no Palmeiras; veja prazo de recuperação",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/jefte-lesao-desfalque-palmeiras/",
-        "summary": "O Palmeiras perdeu o lateral esquerdo Jefté para a sequência da temporada. O camisa 6 do Verdão sofreu uma lesão no menisco do joelho direito após uma torção durante a vitória por 1 a 0 sobre a Chapecoense, que aconteceu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/31052026_cg_palmeiras_4579_105.webp",
+        "title": "São Bernardo vence o CRB fora de casa e dorme na liderança da Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-vence-o-crb-fora-de-casa-e-dorme-na-lideranca-da-serie-b/",
+        "summary": "O São Bernardo venceu o CRB por 3 a 2 em um jogo equilibrado pela Série B, com alternância constante no placar. A equipe paulista abriu o marcador, sofreu o empate ainda no primeiro tempo e voltou a ficar na frente duas ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55320637024_855607f6fc_o.webp",
         "date": "07 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "12 anos sem Fernandão: relembre grandes momentos do atacante no Internacional",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/12-anos-sem-fernandao-relembre-grandes-momentos-do-atacante-no-internacional/",
-        "summary": "Relembre grandes momentos de Fernandão no Internacional. O post 12 anos sem Fernandão: relembre grandes momentos do atacante no Internacional apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/06/17/fernandao_inter_divulgacao.jpg",
+        "title": "Rival do Brasil, Marrocos cede empate à Noruega em último teste antes da Copa",
+        "link": "https://www.gazetaesportiva.com/times/marrocos/rival-do-brasil-marrocos-empata-com-a-noruega/",
+        "summary": "Rival do Brasil na primeira rodada da fase de grupos da Copa do Mundo, o Marrocos cedeu empate por 1 a 1 à Noruega neste domingo, em seu último amistoso antes da estreia no Mundial. Brahim Díaz abriu o placar para os mar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260607__B6AW9UM__v1__MidRes__FblFriendlyMarNor.webp",
         "date": "07 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Alexander Zverev é campeão de Roland Garros, seu primeiro título de Grand Slam",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/alexander-zverev-e-campeao-de-roland-garros-seu-primeiro-titulo-de-grand-slam/",
-        "summary": "Alexander Zverev conquistou seu primeiro título de Grand Slam ao vencer Roland Garros após derrotar Flavio Cobolli por 3 sets a 2 em uma final longa e equilibrada. Número três do mundo, ele confirmou o favoritismo e ence",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260607__B6AU6K7__v1__HighRes__TennisFraOpen2026.webp",
+        "title": "Renovada, Itália vence amistoso contra a Grécia com um a menos",
+        "link": "https://www.gazetaesportiva.com/times/italia/renovada-italia-vence-amistoso-contra-a-grecia-com-um-a-menos/",
+        "summary": "Renovada e com um time jovem, a Itália superou uma expulsão e venceu a Grécia por 1 a 0 neste domingo, no Estádio Pankritio, na Ilha de Creta, no amistoso entre as seleções que não irão disputar a Copa do Mundo de 2026. ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HKPFgOMW4AApJFN.webp",
         "date": "07 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,69 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Calendário econômico da semana: inflação será destaque no Brasil e nos EUA",
-        "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-sera-destaque-no-brasil-e-nos-eua/",
-        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: inflação será destaque no Brasil e nos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/calendario-prazo-contas-negocios.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Agência vê risco de nova alta do combustível de aviação e normalização apenas em 2028",
+        "link": "https://www.infomoney.com.br/mercados/agencia-ve-risco-de-nova-alta-do-combustivel-de-aviacao-e-normalizacao-apenas-em-2028/",
+        "summary": "S P Global estima que a oferta disponível de combustível de aviação tenha caído entre 20% e 30% desde o início do fechamento do Estreito de Ormuz The post Agência vê risco de nova alta do combustível de aviação e normali",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/aviao-decolando-aeroportos-aviacao.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "07 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Irã lança mísseis contra Israel pela primeira vez desde o cessar-fogo",
-        "link": "https://www.infomoney.com.br/mundo/ira-lanca-misseis-contra-israel-pela-primeira-vez-desde-o-cessar-fogo/",
-        "summary": "Ataque em retaliação por bombardeios de Israel em Beirute foi interceptado pela defesa aérea israelense The post Irã lança mísseis contra Israel pela primeira vez desde o cessar-fogo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-07T194826Z_1082053024_RC27PLAPSPBI_RTRMADP_3_IRAN-CRISIS-ISRAEL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "TCU arquiva representação de Flávio Bolsonaro sobre ex-nora de Lula",
+        "link": "https://www.infomoney.com.br/politica/tcu-arquiva-representacao-de-flavio-bolsonaro-sobre-ex-nora-de-lula/",
+        "summary": "Ação pedia apuração sobre o papel desempenhado por Carla Ariane Trindade, ex-mulher do filho do presidente, em esquema de fraudes de licitações no interior de São Paulo por empresa de educação The post TCU arquiva repres",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-27T200245Z_1_LYNXMPEM4Q21M_RTROPTP_4_BRAZIL-ELECTION-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Eriksen, da Dinamarca, desaba inanimado em campo durante amistoso",
-        "link": "https://www.infomoney.com.br/esportes/eriksen-da-dinamarca-desaba-inanimado-em-campo-durante-amistoso/",
-        "summary": "Médico da seleção dinamarquesa confirmou que jogador saiu andando do estádio; amistoso contra a Ucrânia foi cancelado The post Eriksen, da Dinamarca, desaba inanimado em campo durante amistoso appeared first on InfoMoney",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/eriksen-e1780860644632.jpg?fit=300%2C183&amp;quality=70&amp;strip=all",
+        "title": "Controlador da Gol, Grupo Abra quer concluir compra da chilena Sky Airline até agosto",
+        "link": "https://www.infomoney.com.br/mercados/controlador-da-gol-grupo-abra-quer-concluir-compra-da-chilena-sky-airline-ate-agosto/",
+        "summary": "Semana passada, a aquisição da Sky pelo Grupo Abra foi aprovada pelo Conselho Administrativo de Defesa Econômica (Cade) no Brasil The post Controlador da Gol, Grupo Abra quer concluir compra da chilena Sky Airline até ag",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Foto-de-Iuri-Santos-1.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "07 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lei Rouanet: produtora terá de devolver R$ 812 mil por projeto de “O Pasquim”",
-        "link": "https://www.infomoney.com.br/brasil/lei-rouanet-produtora-tera-de-devolver-r-812-mil-por-projeto-de-o-pasquim/",
-        "summary": "TRF-2 manteve condenação de empresa que captou recursos para digitalizar o acervo do jornal, mas não comprovou a disponibilização gratuita do material na internet The post Lei Rouanet: produtora terá de devolver R$ 812 m",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/pasquim.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-abre-semana-em-alerta-apos-8-quedas-seguidas-e-perda-dos-170-mil/",
+        "summary": "Mercado monitora juros americanos, dólar e risco geopolítico depois de forte correção desde a máxima histórica de abril The post Ibovespa abre semana em alerta após 8 quedas seguidas e perda dos 170 mil appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/grafico-queda-ibovespa-investimento-2.jpg?fit=300%2C187&amp;quality=70&amp;strip=all",
         "date": "07 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O que trava o potencial da aviação no Brasil? Veja algumas respostas",
-        "link": "https://www.infomoney.com.br/economia/o-que-trava-o-potencial-da-aviacao-no-brasil-veja-algumas-respostas/",
-        "summary": "Combater distorções na precificação do combustível de aviação, reduzir a litigação no setor e rediscutir a taxação imposta às companhias são alguns dos temas mais urgentes, segundo a IATA The post O que trava o potencial",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/img_4300_0.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa vai reagir ou cair mais? Semana-chave tem Nasdaq e Bitcoin sob pressão",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-amplia-perdas-historicas-nasdaq-corrige-e-bitcoin-afunda-o-que-esperar/",
+        "summary": "Após oito semanas de baixa, Ibovespa tenta reação em meio à pressão do dólar, correção das bolsas americanas e queda do Bitcoin The post Ibovespa vai reagir ou cair mais? Semana-chave tem Nasdaq e Bitcoin sob pressão app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Bolsa.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Jatos E2 da Embraer (EMBJ3) podem ganhar espaço entre aviões chineses",
-        "link": "https://www.infomoney.com.br/mercados/jatos-e2-da-embraer-embj3-podem-ganhar-espaco-entre-avioes-chineses/",
-        "summary": "Executivo vê aeronaves brasileiras como complemento aos modelos locais, enquanto Embraer mantém conversas com potenciais clientes na China The post Jatos E2 da Embraer (EMBJ3) podem ganhar espaço entre aviões chineses ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-10T175704Z_297371774_RC24PGA2VCSD_RTRMADP_3_USA-AEROSPACE-EMBRAER.jpg?fit=300%2C210&amp;quality=70&amp;strip=all",
+        "title": "Embraer (EMBJ3) espera que Índia avance com licitação de jatos militares de carga",
+        "link": "https://www.infomoney.com.br/mercados/embraer-embj3-espera-que-india-avance-com-licitacao-de-jatos-militares-de-carga/",
+        "summary": "Embraer espera que Índia avance com licitação de jatos militares de carga nos próximos meses The post Embraer (EMBJ3) espera que Índia avance com licitação de jatos militares de carga appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/Captura-de-tela-2024-07-25-135051.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "07 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como um erro de expansão levou um sushi brasileiro a faturar R$ 23 milhões em Portugal",
-        "link": "https://exame.com/negocios/como-um-erro-de-expansao-levou-um-sushi-brasileiro-a-faturar-r-23-milhoes-em-portugal/",
-        "summary": "Ao recalibrar operação, cardápio e posicionamento, o Grupo Rão encontrou no “erro” a chave para crescer no mercado português",
+        "title": "Parada LGBT+ de São Paulo reúne 36,8 mil pessoas, aponta levantamento",
+        "link": "https://exame.com/brasil/parada-lgbt-de-sao-paulo-reune-368-mil-pessoas-aponta-levantamento/",
+        "summary": "Estimativa indica queda em relação aos 48,7 mil participantes registrados em 2025 e aos 73,6 mil de 2024",
         "image": null,
         "date": "07 de jun. de 2026",
         "source": "Exame",
@@ -437,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil vence Itália e fecha etapa da VNL invicto",
-        "link": "https://exame.com/esporte/brasil-vence-italia-e-fecha-etapa-da-vnl-invicto/",
-        "summary": "Seleção feminina derrota atuais campeãs olímpicas por 3 sets a 2 em Brasília e encerra série de 38 vitórias das italianas",
+        "title": "'Super Mario Galaxy' é o primeiro filme de 2026 a bater US$ 1 bilhão",
+        "link": "https://exame.com/pop/super-mario-galaxy-e-o-primeiro-filme-de-2026-a-bater-us-1-bilhao/",
+        "summary": "Animação custou 'apenas' US$ 110 milhões e já é o filme mais lucrativo do ano",
         "image": null,
         "date": "07 de jun. de 2026",
         "source": "Exame",
@@ -447,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Hezbollah confirma ter atacado o exército israelense",
-        "link": "https://exame.com/mundo/hezbollah-confirma-ter-atacado-o-exercito-israelense/",
-        "summary": "Grupo afirma ter lançado drone contra quartel no norte israelense após ofensiva de Israel em Beirute",
+        "title": "China muda cálculo e mascara metade da alta recente em suas emissões de carbono",
+        "link": "https://exame.com/esg/china-muda-calculo-e-mascara-metade-da-alta-recente-em-suas-emissoes-de-carbono/",
+        "summary": "Estudo aponta como, sem falsificar dados, o país adotou definição que facilita metas do Acordo de Paris e dificulta medir o progresso real",
         "image": null,
         "date": "07 de jun. de 2026",
         "source": "Exame",
@@ -457,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Naufrágio perto de Malta deixa ao menos 10 mortos",
-        "link": "https://exame.com/mundo/naufragio-perto-de-malta-deixa-ao-menos-10-mortos/",
-        "summary": "Embarcação que partiu da Líbia transportava cerca de 60 pessoas; operações de resgate seguem no Mediterrâneo",
+        "title": "Partido do primeiro-ministro lidera eleição no Kosovo",
+        "link": "https://exame.com/mundo/partido-do-primeiro-ministro-lidera-eleicao-no-kosovo/",
+        "summary": "Pesquisas de boca de urna indicam vitória do Vetëvendosje, mas sem maioria para governar sozinho",
         "image": null,
         "date": "07 de jun. de 2026",
         "source": "Exame",
@@ -467,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "PIS/Pasep 2026 paga novo lote em junho; veja quem recebe",
-        "link": "https://exame.com/invest/minhas-financas/pis-pasep-2026-paga-novo-lote-em-junho-veja-quem-recebe/",
-        "summary": "Novo lote do abono salarial será creditado no dia 15; benefício pode chegar a R$ 1.621",
+        "title": "OpenAI quer transformar ChatGPT em agente pessoal; veja o que muda",
+        "link": "https://exame.com/inteligencia-artificial/openai-quer-transformar-chatgpt-em-agente-pessoal-veja-o-que-muda/",
+        "summary": "Empresa prepara maior reformulação do chatbot desde 2022, de acordo com o Financial Times",
         "image": null,
         "date": "07 de jun. de 2026",
         "source": "Exame",
@@ -477,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Peru vai às urnas em eleição marcada por crise",
-        "link": "https://exame.com/mundo/peru-vai-as-urnas-em-eleicao-marcada-por-crise/",
-        "summary": "Keiko Fujimori e Roberto Sánchez disputam segundo turno em meio à instabilidade política e avanço da criminalidade",
+        "title": "Einstein lança check-up de saúde mental para lideranças enquanto burnout avança nas empresas",
+        "link": "https://exame.com/esg/einstein-lanca-check-up-de-saude-mental-para-liderancas-enquanto-burnout-avanca-nas-empresas/",
+        "summary": "Circuito clínico de cinco horas avalia sono, cognição e regulação emocional de lideranças e reflete uma nova exigência de governança corporativa",
         "image": null,
         "date": "07 de jun. de 2026",
         "source": "Exame",
