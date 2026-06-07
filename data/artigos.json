@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-07T11:49:00.817Z",
+  "updated": "2026-06-07T13:47:38.452Z",
   "articles": [
+    {
+      "id": "md-LEIA-ME",
+      "url": "noticias/2026-06-07-leia-me.html",
+      "title": "LEIA ME",
+      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "date": "07 de jun. de 2026",
+      "readMin": 3,
+      "source": "content"
+    },
     {
       "slug": "reforma-tributaria-2027-preparacao-para-pmes",
       "title": "Reforma Tributária 2027: Preparação Essencial para PMEs",
