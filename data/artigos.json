@@ -1,113 +1,29 @@
 {
-  "updated": "2026-06-08T14:04:55.591Z",
+  "updated": "2026-06-08T14:08:38.059Z",
   "articles": [
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50031",
-      "url": "noticias/2026-06-08-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50031.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Charqueada",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Charqueada | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "credito-pmes-2026-bndes-caixa-agencias",
+      "title": "Crédito para PMEs em 2026: Novidades no BNDES, Caixa e Agências",
+      "description": "Confira as mudanças nas linhas de crédito para PMEs no Brasil em 2026.",
       "date": "08 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
+      "isoDate": "2026-06-08",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-08-credito-pmes-2026-bndes-caixa-agencias.html"
     },
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50020",
-      "url": "noticias/2026-06-08-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50020.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Charqueada",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Charqueada | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "oportunidades-facilities-terceirizacao-santa-barbara",
+      "title": "Oportunidades de Facilities e Terceirização em Santa Bárbara D'Oeste",
+      "description": "Explore as oportunidades de facilities e terceirização em Santa Bárbara D'Oeste para empresas prestadoras de serviço.",
       "date": "08 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50004",
-      "url": "noticias/2026-06-08-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50004.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Charqueada",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Charqueada | Empresas e Negócios",
+      "isoDate": "2026-06-08",
       "tag": "Serviços",
       "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "08 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053",
-      "url": "noticias/2026-06-07-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Campo Limpo Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Campo Limpo Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "07 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064",
-      "url": "noticias/2026-06-07-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Braganca Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Bragança Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "07 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054",
-      "url": "noticias/2026-06-07-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "07 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043",
-      "url": "noticias/2026-06-07-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "07 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010",
-      "url": "noticias/2026-06-07-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Aguas De Sao Pedro",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Águas de São Pedro | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "07 de jun. de 2026",
-      "readMin": 7,
-      "source": "content"
-    },
-    {
-      "id": "md-LEIA-ME",
-      "url": "noticias/2026-06-07-leia-me.html",
-      "title": "LEIA ME",
-      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
-      "tag": "Tecnologia",
-      "tagCls": "tecnologia",
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "date": "07 de jun. de 2026",
-      "readMin": 3,
-      "source": "content"
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-08-oportunidades-facilities-terceirizacao-santa-barbara.html"
     },
     {
       "slug": "reforma-tributaria-2027-preparacao-para-pmes",
@@ -1164,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-controle-acesso-americana-rfid-biometria-cftv.html"
-    },
-    {
-      "slug": "empresa-portaria-americana-criterios-contratos-clt",
-      "title": "Empresa de Portaria em Americana: Critérios e Contratos CLT",
-      "description": "Descubra como escolher uma empresa de portaria em Americana com critérios e contratos CLT claros.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-empresa-portaria-americana-criterios-contratos-clt.html"
-    },
-    {
-      "slug": "facilities-campinas-tendencias-terceirizacao-2026",
-      "title": "Facilities em Campinas: Tendências de Terceirização para 2026",
-      "description": "Descubra as tendências de terceirização de facilities em Campinas para 2026 e como escolher o melhor fornecedor.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-facilities-campinas-tendencias-terceirizacao-2026.html"
     }
   ]
 }
