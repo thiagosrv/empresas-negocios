@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-08T14:08:38.059Z",
+  "updated": "2026-06-08T18:24:23.431Z",
   "articles": [
+    {
+      "id": "md-LEIA-ME",
+      "url": "noticias/2026-06-08-leia-me.html",
+      "title": "LEIA ME",
+      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "date": "08 de jun. de 2026",
+      "readMin": 3,
+      "source": "content"
+    },
     {
       "slug": "credito-pmes-2026-bndes-caixa-agencias",
       "title": "Crédito para PMEs em 2026: Novidades no BNDES, Caixa e Agências",
