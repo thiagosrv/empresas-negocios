@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T03:58:08.721Z",
+  "updated": "2026-06-09T07:58:23.688Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Espanha vence o Peru em último ensaio para estreia na Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/espanha/espanha-3x1-peru-amistoso-copa-2026/",
+        "summary": "A Espanha venceu o Peru por 3 a 1 em amistoso internacional disputado em Puebla, no México, no último teste antes da Copa do Mundo de 2026. Com gols de Oyarzabal, Pedri e um contra de Gallese, a equipe espanhola dominou ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260609__B6F89Z7__v1__HighRes__FblFriendlyPerEsp.webp",
+        "date": "09 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Spurs vencem em NY e reagem contra os Knicks nas finais da NBA",
         "link": "https://www.gazetaesportiva.com/campeonatos/nba/spurs-vencem-knicks-jogo-3-finais-nba-2026/",
         "summary": "O San Antonio Spurs venceu o New York Knicks por 115 a 111 no jogo 3 das finais da NBA 2026, no Madison Square Garden, e diminuiu a desvantagem na série para 2 a 1. Com grande atuação de Victor Wembanyama, que anotou 32 ",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-vira-sobre-o-america-mg-e-volta-a-vencer-pela-serie-b/",
         "summary": "O Atlético-GO venceu o América-MG por 2 a 1, de virada, e encerrou um jejum de vitórias na Série B. O post Atlético-GO vira sobre o América-MG e volta a vencer pela Série B apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/06/55323577208_2b58f1555d_k.webp",
-        "date": "09 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja galeria de fotos do duelo entre América-MG e Atlético-GO pela Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/veja-galeria-de-fotos-do-duelo-entre-america-mg-e-atletico-go-pela-serie-b/",
-        "summary": "O post Veja galeria de fotos do duelo entre América-MG e Atlético-GO pela Série B apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55323588059_c35113003f_k.webp",
         "date": "09 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
