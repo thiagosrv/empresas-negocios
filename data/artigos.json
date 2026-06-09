@@ -1,77 +1,29 @@
 {
-  "updated": "2026-06-09T10:58:37.968Z",
+  "updated": "2026-06-09T12:39:06.521Z",
   "articles": [
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053",
-      "url": "noticias/2026-06-09-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Campo Limpo Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Campo Limpo Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "agronegocio-impulsiona-pib-com-us-180-bi-exportacoes",
+      "title": "Agronegócio impulsiona PIB brasileiro com US$ 180 bi em exportações",
+      "description": "Agronegócio brasileiro atinge US$ 180 bi em exportações, impulsionando o PIB e criando oportunidades para fornecedores.",
       "date": "09 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
+      "isoDate": "2026-06-09",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1598449356475-b9f71db7d847?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-09-agronegocio-impulsiona-pib-com-us-180-bi-exportacoes.html"
     },
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064",
-      "url": "noticias/2026-06-09-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Braganca Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Bragança Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "equipe-portaria-facilities-medio-porte-interior-sp",
+      "title": "Como Montar a Equipe de Portaria e Facilities Ideal no Interior de SP",
+      "description": "Saiba como estruturar a equipe de portaria e facilities para empresas de médio porte no interior de São Paulo.",
       "date": "09 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054",
-      "url": "noticias/2026-06-09-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
+      "isoDate": "2026-06-09",
       "tag": "Serviços",
       "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "09 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043",
-      "url": "noticias/2026-06-08-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "08 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010",
-      "url": "noticias/2026-06-08-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Aguas De Sao Pedro",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Águas de São Pedro | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "08 de jun. de 2026",
-      "readMin": 7,
-      "source": "content"
-    },
-    {
-      "id": "md-LEIA-ME",
-      "url": "noticias/2026-06-08-leia-me.html",
-      "title": "LEIA ME",
-      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
-      "tag": "Tecnologia",
-      "tagCls": "tecnologia",
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "date": "08 de jun. de 2026",
-      "readMin": 3,
-      "source": "content"
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-09-equipe-portaria-facilities-medio-porte-interior-sp.html"
     },
     {
       "slug": "credito-pmes-2026-bndes-caixa-agencias",
@@ -1128,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-ia-transforma-manufatura-interior-sp.html"
-    },
-    {
-      "slug": "economia-brasileira-cresce-32-no-1-trimestre-2026",
-      "title": "Economia Brasileira Cresce 3,2% no 1º Trimestre de 2026 e Supera Expectativas",
-      "description": "Economia brasileira cresce 3,2% no 1º trimestre de 2026, superando previsões e impulsionando confiança no mercado.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Brasil",
-      "tagCls": "brasil",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-economia-brasileira-cresce-32-no-1-trimestre-2026.html"
-    },
-    {
-      "slug": "controle-acesso-americana-rfid-biometria-cftv",
-      "title": "Controle de Acesso em Americana: RFID, Biometria e CFTV",
-      "description": "Descubra como otimizar o controle de acesso em Americana com tecnologias como RFID, biometria e CFTV.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-controle-acesso-americana-rfid-biometria-cftv.html"
     }
   ]
 }
