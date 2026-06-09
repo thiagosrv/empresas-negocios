@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-09T12:39:06.521Z",
+  "updated": "2026-06-09T14:44:57.820Z",
   "articles": [
+    {
+      "id": "md-LEIA-ME",
+      "url": "noticias/2026-06-09-leia-me.html",
+      "title": "LEIA ME",
+      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
+      "tag": "Tecnologia",
+      "tagCls": "tecnologia",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
+      "date": "09 de jun. de 2026",
+      "readMin": 3,
+      "source": "content"
+    },
     {
       "slug": "agronegocio-impulsiona-pib-com-us-180-bi-exportacoes",
       "title": "Agronegócio impulsiona PIB brasileiro com US$ 180 bi em exportações",
