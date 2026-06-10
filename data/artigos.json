@@ -1,89 +1,29 @@
 {
-  "updated": "2026-06-10T12:55:13.313Z",
+  "updated": "2026-06-10T12:57:56.765Z",
   "articles": [
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50004",
-      "url": "noticias/2026-06-10-controle-de-acesso-e-tecnologia-em-seguranca-charqueada-50004.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Charqueada",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Charqueada | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "pac-infraestrutura-2026-r-350-bi-oportunidades-interior",
+      "title": "PAC Infraestrutura 2026: R$ 350 Bi em Obras e Oportunidades no Interior Paulista",
+      "description": "Descubra como o PAC Infraestrutura 2026 abre portas para empresas do interior paulista com um investimento de R$ 350 bilhões.",
       "date": "10 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
+      "isoDate": "2026-06-10",
+      "tag": "Brasil",
+      "tagCls": "brasil",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-10-pac-infraestrutura-2026-r-350-bi-oportunidades-interior.html"
     },
     {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053",
-      "url": "noticias/2026-06-10-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Campo Limpo Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Campo Limpo Paulista | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
+      "slug": "treinamento-porteiros-recepcionistas-interior-sp",
+      "title": "Treinamento de Porteiros e Recepcionistas no Interior de SP",
+      "description": "Saiba como o treinamento adequado valoriza porteiros e recepcionistas no interior de SP.",
       "date": "10 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064",
-      "url": "noticias/2026-06-10-controle-de-acesso-e-tecnologia-em-seguranca-braganca-paulista-50064.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Braganca Paulista",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Bragança Paulista | Empresas e Negócios",
+      "isoDate": "2026-06-10",
       "tag": "Serviços",
       "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "10 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054",
-      "url": "noticias/2026-06-09-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50054.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "09 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043",
-      "url": "noticias/2026-06-09-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Artur Nogueira",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Artur Nogueira | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "09 de jun. de 2026",
-      "readMin": 6,
-      "source": "content"
-    },
-    {
-      "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010",
-      "url": "noticias/2026-06-09-controle-de-acesso-e-tecnologia-em-seguranca-aguas-de-sao-pedro-50010.html",
-      "title": "Controle De Acesso E Tecnologia Em Seguranca Aguas De Sao Pedro",
-      "description": "Meta Title: Controle de Acesso e Tecnologia em Segurança em Águas de São Pedro | Empresas e Negócios",
-      "tag": "Serviços",
-      "tagCls": "servicos",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=450&fit=crop",
-      "date": "09 de jun. de 2026",
-      "readMin": 7,
-      "source": "content"
-    },
-    {
-      "id": "md-LEIA-ME",
-      "url": "noticias/2026-06-09-leia-me.html",
-      "title": "LEIA ME",
-      "description": "Coloque seus arquivos .md aqui e faça um push para o GitHub.",
-      "tag": "Tecnologia",
-      "tagCls": "tecnologia",
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "date": "09 de jun. de 2026",
-      "readMin": 3,
-      "source": "content"
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-10-treinamento-porteiros-recepcionistas-interior-sp.html"
     },
     {
       "slug": "agronegocio-impulsiona-pib-com-us-180-bi-exportacoes",
@@ -1140,30 +1080,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-22-economia-brasileira-cresce-primeiro-trimestre-2026.html"
-    },
-    {
-      "slug": "fintechs-brasileiras-captam-recorde-2026",
-      "title": "Fintechs brasileiras captam recorde de R$ 4,3 bilhões no 1º semestre de 2026",
-      "description": "Investimento histórico impulsiona fintechs brasileiras em 2026, somando R$ 4,3 bi no semestre.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Startups",
-      "tagCls": "startups",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-fintechs-brasileiras-captam-recorde-2026.html"
-    },
-    {
-      "slug": "ia-transforma-manufatura-interior-sp",
-      "title": "Inteligência Artificial Transforma a Manufatura no Interior de SP",
-      "description": "Descubra como a inteligência artificial está revolucionando a indústria manufatureira em São Paulo com cases reais.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Tecnologia",
-      "tagCls": "tecnologia",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-ia-transforma-manufatura-interior-sp.html"
     }
   ]
 }
