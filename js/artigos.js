@@ -7,6 +7,11 @@
 
   let cache = null;
 
+  // Controla artigos já exibidos na página para evitar repetição entre seções
+  const usedUrls = new Set();
+
+  const AUTHOR = 'Thiago Rodrigues — Redator do E&amp;N';
+
   async function getData() {
     if (cache) return cache;
     const res = await fetch(DATA_URL);
@@ -57,7 +62,7 @@
       + '<span class="tag ' + (a.tagCls || '') + '">' + (a.tag || 'Artigo') + '</span>'
       + '<a href="' + href + '"><h2 class="card-featured-title">' + a.title + '</h2></a>'
       + (a.description ? '<p class="card-featured-desc">' + a.description + '</p>' : '')
-      + '<div class="meta"><span class="author">Redação E&amp;N</span><span class="dot"></span>'
+      + '<div class="meta"><span class="author">' + AUTHOR + '</span><span class="dot"></span>'
       + '<time>' + a.date + '</time><span class="dot"></span>'
       + '<span>' + (a.readMin || 5) + ' min de leitura</span></div>'
       + '<a href="' + href + '" class="card-featured-cta">Ler artigo completo →</a>'
@@ -77,7 +82,7 @@
       + '<span class="tag ' + (main.tagCls || '') + '">' + (main.tag || 'Destaque') + '</span>'
       + '<h2 class="hero-title"><a href="' + href0 + '" style="color:inherit;">' + main.title + '</a></h2>'
       + (main.description ? '<p class="hero-summary">' + main.description + '</p>' : '')
-      + '<div class="meta"><span class="author">Redação E&amp;N</span>'
+      + '<div class="meta"><span class="author">' + AUTHOR + '</span>'
       + '<span class="dot"></span><time>' + main.date + '</time>'
       + '<span class="dot"></span><span>' + (main.readMin || 5) + ' min de leitura</span></div>'
       + '</div></article>';
@@ -128,6 +133,7 @@
     const tag    = (opts && opts.tag)    ? opts.tag    : null;    // filtro exato por tag
     const tagCls = (opts && opts.tagCls) ? opts.tagCls : null;    // filtro por tagCls (categoria)
     const layout = (opts && opts.layout) ? opts.layout : 'card';  // card | card-h | hero | featured
+    const dedup  = !(opts && opts.allowRepeat);                   // evita repetir artigos na mesma página
 
     el.innerHTML = '<div class="rss-loader"><div class="spinner"></div><span>Carregando…</span></div>';
 
@@ -146,11 +152,21 @@
         articles = articles.filter(function (a) { return a.tagCls === tagCls; });
       }
 
+      // Remove artigos já exibidos em outras seções da mesma página
+      if (dedup) {
+        articles = articles.filter(function (a) { return !usedUrls.has(a.url); });
+      }
+
       articles = articles.slice(0, max);
 
       if (!articles.length) {
         el.innerHTML = emptyState(tag || tagCls);
         return;
+      }
+
+      // Marca os artigos escolhidos como usados
+      if (dedup) {
+        articles.forEach(function (a) { usedUrls.add(a.url); });
       }
 
       if (layout === 'featured') {
@@ -184,14 +200,19 @@
   //   <div id="artigos-recentes" data-artigos="12" data-artigos-tag="Startups" data-artigos-layout="featured"></div>
   //   <div id="artigos-recentes" data-artigos="12" data-artigos-tagcls="servicos" data-artigos-layout="featured"></div>
   //   <div id="home-hero"        data-artigos="3"  data-artigos-layout="hero"></div>
-  document.addEventListener('DOMContentLoaded', function () {
-    document.querySelectorAll('[data-artigos]').forEach(function (el) {
-      var max    = parseInt(el.dataset.artigos, 10)       || 6;
-      var tag    = el.dataset.artigosTag                  || null;
-      var tagCls = el.dataset.artigosTagcls               || null;
-      var layout = el.dataset.artigosLayout               || 'card';
-      loadArtigos(el.id, { max: max, tag: tag, tagCls: tagCls, layout: layout });
-    });
+  document.addEventListener('DOMContentLoaded', async function () {
+    // Carrega sequencialmente (na ordem do DOM) para a deduplicação ser determinística:
+    // o hero pega os mais recentes, e as seções seguintes não repetem esses artigos.
+    var nodes = Array.prototype.slice.call(document.querySelectorAll('[data-artigos]'));
+    for (var i = 0; i < nodes.length; i++) {
+      var el     = nodes[i];
+      var max    = parseInt(el.dataset.artigos, 10) || 6;
+      var tag    = el.dataset.artigosTag            || null;
+      var tagCls = el.dataset.artigosTagcls         || null;
+      var layout = el.dataset.artigosLayout         || 'card';
+      var repeat = el.dataset.artigosAllowRepeat === 'true';
+      await loadArtigos(el.id, { max: max, tag: tag, tagCls: tagCls, layout: layout, allowRepeat: repeat });
+    }
   });
 
   // API pública

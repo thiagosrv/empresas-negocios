@@ -174,7 +174,7 @@ function buildArticleHtml(meta, htmlBody, fileName) {
   "image":"${image}",
   "datePublished":"${isoStr}",
   "dateModified":"${isoStr}",
-  "author":{"@type":"Organization","name":"Empresas & Negócios","url":"${SITE_URL}"},
+  "author":{"@type":"Person","name":"Thiago Rodrigues","jobTitle":"Redator","worksFor":{"@type":"Organization","name":"Empresas & Negócios","url":"${SITE_URL}"}},
   "publisher":{"@type":"Organization","name":"Empresas & Negócios","url":"${SITE_URL}"},
   "mainEntityOfPage":"${canonUrl}",
   "inLanguage":"pt-BR"
@@ -276,7 +276,7 @@ function buildArticleHtml(meta, htmlBody, fileName) {
       <span class="dot"></span>
       <span>${readMin} min de leitura</span>
       <span class="dot"></span>
-      <span>Redação Empresas &amp; Negócios</span>
+      <span>Thiago Rodrigues — Redator do E&amp;N</span>
     </div>
 
     <!-- Imagem destaque -->
