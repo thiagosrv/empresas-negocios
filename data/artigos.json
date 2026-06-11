@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T13:57:42.216Z",
+  "updated": "2026-06-11T14:00:48.771Z",
   "articles": [
     {
       "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-campo-limpo-paulista-50053",
@@ -39,6 +39,30 @@
       "readMin": 6,
       "source": "content",
       "isoDate": "2026-06-11"
+    },
+    {
+      "slug": "planos-saude-corporativos-2026-negociar-reduzir-custos",
+      "title": "Planos de Saúde Corporativos em 2026: Como Negociar e Reduzir Custos",
+      "description": "Descubra como negociar, comparar coberturas e reduzir custos dos planos de saúde corporativos em 2026 sem perder qualidade.",
+      "date": "11 de jun. de 2026",
+      "isoDate": "2026-06-11",
+      "tag": "Saúde",
+      "tagCls": "saude",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-11-planos-saude-corporativos-2026-negociar-reduzir-custos.html"
+    },
+    {
+      "slug": "clt-trabalho-porteiro-facilities-interior-sp",
+      "title": "Como a CLT Regula o Trabalho de Porteiros e Facilities no Interior SP",
+      "description": "Explore os direitos e responsabilidades sob a CLT para porteiros e auxiliares de facilities em Americana, Campinas e região.",
+      "date": "11 de jun. de 2026",
+      "isoDate": "2026-06-11",
+      "tag": "Serviços",
+      "tagCls": "servicos",
+      "readMin": 5,
+      "image": "https://images.unsplash.com/photo-1607863680198-23d4b2565df0?w=800&h=450&fit=crop",
+      "url": "noticias/2026-06-11-clt-trabalho-porteiro-facilities-interior-sp.html"
     },
     {
       "id": "md-controle-de-acesso-e-tecnologia-em-seguranca-artur-nogueira-50043",
@@ -1062,102 +1086,6 @@
       "readMin": 5,
       "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&h=450&fit=crop",
       "url": "noticias/2026-05-23-terceirizacao-limpeza-santa-barbara-custos-beneficios.html"
-    },
-    {
-      "slug": "recepcao-corporativa-piracicaba-treinamento-impacto",
-      "title": "Recepção Corporativa em Piracicaba: Treinamento e Impacto no Atendimento",
-      "description": "Explore a recepção corporativa em Piracicaba, SP, e o impacto no atendimento empresarial.",
-      "date": "23 de mai. de 2026",
-      "isoDate": "2026-05-23",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-23-recepcao-corporativa-piracicaba-treinamento-impacto.html"
-    },
-    {
-      "slug": "recepcao-em-sumare-sp-profissionais-industria-comercio",
-      "title": "Recepção em Sumaré SP: Profissionais para Indústria e Comércio",
-      "description": "Explore a recepção em Sumaré SP com profissionais treinados para indústria e comércio.",
-      "date": "23 de mai. de 2026",
-      "isoDate": "2026-05-23",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-23-recepcao-em-sumare-sp-profissionais-industria-comercio.html"
-    },
-    {
-      "slug": "gestao-integrada-facilities-menos-burocracia",
-      "title": "Gestão Integrada de Facilities: Eficiência com Menos Burocracia",
-      "description": "Descubra como a gestão integrada de facilities pode otimizar operações e reduzir burocracia em empresas do interior de SP.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Facilities",
-      "tagCls": "servicos",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1444723121867-7a241cacace9?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-gestao-integrada-facilities-menos-burocracia.html"
-    },
-    {
-      "slug": "fintechs-brasileiras-recorde-captacao-2026",
-      "title": "Fintechs brasileiras atraem R$ 4,3 bilhões no 1º semestre de 2026",
-      "description": "Investimentos em fintechs brasileiras atingem recorde de R$ 4,3 bilhões em 2026.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Startups",
-      "tagCls": "startups",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-fintechs-brasileiras-recorde-captacao-2026.html"
-    },
-    {
-      "slug": "inteligencia-artificial-manufatura-sp",
-      "title": "Inteligência Artificial Revoluciona a Manufatura no Interior de SP",
-      "description": "Descubra como a IA está transformando a manufatura em SP com cases de sucesso.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Tecnologia",
-      "tagCls": "tecnologia",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-inteligencia-artificial-manufatura-sp.html"
-    },
-    {
-      "slug": "economia-brasil-cresce-3-2-primeiro-trimestre-2026",
-      "title": "Economia do Brasil cresce 3,2% no 1º tri de 2026, superando previsões",
-      "description": "O crescimento de 3,2% da economia brasileira no 1º trimestre de 2026 supera expectativas e impulsiona o mercado.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Brasil",
-      "tagCls": "brasil",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-economia-brasil-cresce-3-2-primeiro-trimestre-2026.html"
-    },
-    {
-      "slug": "inteligencia-artificial-manufatura-interior-sp",
-      "title": "Inteligência Artificial Revoluciona Manufatura no Interior de SP",
-      "description": "Descubra como a inteligência artificial está transformando a manufatura no interior de São Paulo com casos reais de sucesso.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Tecnologia",
-      "tagCls": "tecnologia",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-inteligencia-artificial-manufatura-interior-sp.html"
-    },
-    {
-      "slug": "economia-brasileira-cresce-primeiro-trimestre-2026",
-      "title": "Economia brasileira cresce 3,2% no 1º tri de 2026 e supera expectativas",
-      "description": "Crescimento de 3,2% no primeiro trimestre de 2026 surpreende o mercado brasileiro.",
-      "date": "22 de mai. de 2026",
-      "isoDate": "2026-05-22",
-      "tag": "Brasil",
-      "tagCls": "brasil",
-      "readMin": 5,
-      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=450&fit=crop",
-      "url": "noticias/2026-05-22-economia-brasileira-cresce-primeiro-trimestre-2026.html"
     }
   ]
 }
