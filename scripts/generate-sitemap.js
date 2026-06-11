@@ -5,7 +5,6 @@
  *  - Artigos dinâmicos em data/artigos.json
  *
  * Uso: node scripts/generate-sitemap.js
- * Executado automaticamente após cada geração de artigo via GitHub Actions.
  */
 
 import { writeFileSync, readFileSync, existsSync } from 'fs';
@@ -18,7 +17,6 @@ const BASE_URL  = 'https://www.empresasenegocios.com.br';
 const TODAY     = new Date().toISOString().split('T')[0];
 
 // ─── PÁGINAS ESTÁTICAS ────────────────────────────────────────────────────────
-// priority: 1.0 = homepage, 0.8 = categorias principais, 0.6 = demais
 const STATIC_PAGES = [
   { loc: '/',                              changefreq: 'hourly',  priority: '1.0', lastmod: TODAY },
   { loc: '/pages/novidades.html',          changefreq: 'hourly',  priority: '0.9', lastmod: TODAY },
@@ -46,12 +44,24 @@ function getArticlePages() {
 
   try {
     const data = JSON.parse(readFileSync(indexPath, 'utf8'));
-    return (data.articles || []).map(a => ({
-      loc:        '/' + a.url,
-      changefreq: 'monthly',
-      priority:   '0.7',
-      lastmod:    a.isoDate || TODAY,
-    }));
+    const now  = new Date();
+
+    return (data.articles || []).map(a => {
+      const articleDate = a.isoDate || TODAY;
+      // Artigos com menos de 2 dias recebem tag Google News
+      const ageMs   = now - new Date(articleDate);
+      const isRecent = ageMs < 2 * 24 * 60 * 60 * 1000;
+
+      return {
+        loc:        '/' + a.url,
+        changefreq: 'monthly',
+        priority:   '0.7',
+        lastmod:    articleDate,
+        isRecent,
+        title:      a.title   || '',
+        tag:        a.tag     || 'Negócios',
+      };
+    });
   } catch (e) {
     console.warn('⚠️  Erro ao ler artigos.json:', e.message);
     return [];
@@ -59,19 +69,51 @@ function getArticlePages() {
 }
 
 // ─── BUILDER XML ─────────────────────────────────────────────────────────────
-function buildSitemap(pages) {
-  const urls = pages.map(p => `  <url>
+function escXml(str) {
+  return String(str || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function buildSitemap(staticPages, articlePages) {
+  const staticUrls = staticPages.map(p => `  <url>
     <loc>${BASE_URL}${p.loc}</loc>
     <lastmod>${p.lastmod}</lastmod>
     <changefreq>${p.changefreq}</changefreq>
     <priority>${p.priority}</priority>
   </url>`).join('\n');
 
+  const articleUrls = articlePages.map(p => {
+    let newsTag = '';
+    if (p.isRecent) {
+      newsTag = `
+    <news:news>
+      <news:publication>
+        <news:name>Empresas &amp; Negócios</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>${p.lastmod}</news:publication_date>
+      <news:title>${escXml(p.title)}</news:title>
+      <news:keywords>${escXml(p.tag)}</news:keywords>
+    </news:news>`;
+    }
+    return `  <url>
+    <loc>${BASE_URL}${p.loc}</loc>
+    <lastmod>${p.lastmod}</lastmod>
+    <changefreq>${p.changefreq}</changefreq>
+    <priority>${p.priority}</priority>${newsTag}
+  </url>`;
+  }).join('\n');
+
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-${urls}
+${staticUrls}
+${articleUrls}
 </urlset>`;
 }
 
@@ -93,14 +135,12 @@ Sitemap: ${BASE_URL}/sitemap.xml
 // ─── MAIN ─────────────────────────────────────────────────────────────────────
 function main() {
   const articlePages = getArticlePages();
-  const allPages     = [...STATIC_PAGES, ...articlePages];
+  const recentCount  = articlePages.filter(p => p.isRecent).length;
 
-  // Gera sitemap.xml
-  const sitemap = buildSitemap(allPages);
+  const sitemap = buildSitemap(STATIC_PAGES, articlePages);
   writeFileSync(join(ROOT, 'sitemap.xml'), sitemap, 'utf8');
-  console.log(`✅ sitemap.xml gerado com ${allPages.length} URLs (${articlePages.length} artigos + ${STATIC_PAGES.length} páginas fixas)`);
+  console.log(`✅ sitemap.xml — ${STATIC_PAGES.length} páginas fixas + ${articlePages.length} artigos (${recentCount} com tag Google News)`);
 
-  // Gera robots.txt (só sobrescreve se não existir ou se for gerado pelo script)
   const robotsPath = join(ROOT, 'robots.txt');
   writeFileSync(robotsPath, buildRobots(), 'utf8');
   console.log('✅ robots.txt atualizado');

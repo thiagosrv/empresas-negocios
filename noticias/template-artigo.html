@@ -89,6 +89,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="../css/style.css" />
+<link rel="stylesheet" href="../css/editorial.css"/>
   <link rel="stylesheet" href="../css/artigo.css" />
   <meta name="theme-color" content="#000000" />
 </head>
@@ -243,7 +244,17 @@
     </article>
 
     <!-- SIDEBAR -->
-    <aside class="sidebar">
+    
+    <!-- Artigos relacionados -->
+    <section style="margin-top:48px;padding-top:32px;border-top:2px solid #000;">
+      <h2 style="font-family:'Manrope',sans-serif;font-size:20px;font-weight:800;margin-bottom:24px;">Leia também</h2>
+      <div id="art-relacionados"
+           data-artigos="4"
+           data-artigos-tagcls="novidades"
+           data-artigos-allow-repeat="true"></div>
+    </section>
+
+  <aside class="sidebar">
       <div class="sidebar-sticky">
 
         <div class="sidebar-widget newsletter-widget">
@@ -343,6 +354,8 @@
 <div class="toast" id="toast"><span class="toast-icon">✅</span><span id="toastMsg">Inscrição realizada!</span></div>
 <button class="back-to-top" id="backToTop">↑</button>
 
+<script src="../js/layout.js"></script>
+<script src="../js/artigos.js"></script>
 <script src="../js/main.js"></script>
 <script>
 function shareWhatsApp() {
