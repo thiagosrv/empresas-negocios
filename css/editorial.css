@@ -217,6 +217,29 @@ body.menu-open .back-to-top { display: none !important; }
 .category-section { margin-bottom: 48px; }
 
 /* ════════════════════════════════════════════════════════════════════════════
+   GUTTER — padding consistente e generoso no entorno de todo o conteúdo,
+   alinhado ao cabeçalho/rodapé (64px desktop → 40px tablet → 20px mobile).
+   ════════════════════════════════════════════════════════════════════════════ */
+/* Impede "grid blowout": filhos de grid com min-width auto estouram o gutter.
+   min-width:0 deixa a coluna 1fr encolher até caber, preservando o padding direito. */
+.main-layout, .content-sidebar { min-width: 0; }
+.main-layout > *, .content-sidebar > *, .content-col { min-width: 0 !important; }
+
+.container,
+.main-layout { padding-left: 64px !important; padding-right: 64px !important; }
+.newsletter-section { padding-left: 64px !important; padding-right: 64px !important; }
+@media (max-width: 1024px) {
+  .container, .main-layout, .newsletter-section { padding-left: 40px !important; padding-right: 40px !important; }
+  .ed-ticker-inner, .ed-nav-inner { padding-left: 40px; padding-right: 40px; }
+  .ed-footer { padding-left: 40px; padding-right: 40px; }
+}
+@media (max-width: 768px) {
+  .container, .main-layout, .newsletter-section { padding-left: 20px !important; padding-right: 20px !important; }
+  .ed-ticker-inner, .ed-nav-inner { padding-left: 20px; padding-right: 20px; }
+  .ed-footer { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ════════════════════════════════════════════════════════════════════════════
    OVERRIDES — neutraliza os acentos vermelhos do style.css nas páginas de
    categoria, alinhando ao design editorial monocromático "sharp" (0px).
    ════════════════════════════════════════════════════════════════════════════ */
