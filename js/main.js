@@ -167,6 +167,7 @@ document.querySelectorAll('img').forEach(img => {
     : 'Olá! Vim pelo site Empresas & Negócios e gostaria de mais informações.';
 
   var btn = document.createElement('a');
+  btn.id = 'waFloat';
   btn.href = 'https://wa.me/' + number + '?text=' + encodeURIComponent(message);
   btn.target = '_blank';
   btn.rel = 'noopener noreferrer';

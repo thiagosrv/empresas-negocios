@@ -67,9 +67,14 @@ body > .reading-progress { background: #000 !important; }
 /* Mobile menu */
 .ed-mobile-menu { display: none; position: fixed; inset: 0; background: #000; z-index: 200; flex-direction: column; padding: 24px 24px 40px; }
 .ed-mobile-menu.open { display: flex; }
-.ed-mobile-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px; }
+.ed-mobile-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; flex-shrink: 0; }
 .ed-mobile-close { background: none; border: none; color: #fff; font-size: 28px; cursor: pointer; }
-.ed-mobile-menu nav a { display: block; font-family: var(--ed-font-head); font-size: 26px; font-weight: 700; color: #fff; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,.1); text-decoration: none; }
+.ed-mobile-menu nav { overflow-y: auto; padding-bottom: 24px; }
+.ed-mobile-menu nav a { display: block; font-family: var(--ed-font-head); font-size: 24px; font-weight: 700; color: #fff; padding: 11px 0; border-bottom: 1px solid rgba(255,255,255,.1); text-decoration: none; }
+
+/* Esconde botões flutuantes quando o menu mobile está aberto */
+body.menu-open #waFloat,
+body.menu-open .back-to-top { display: none !important; }
 
 /* ─── FOOTER ─────────────────────────────────────────────────────────────── */
 .ed-footer { background: #0a0a0a; padding: 64px; }

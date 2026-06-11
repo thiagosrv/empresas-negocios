@@ -120,8 +120,8 @@
     var menu  = document.getElementById('edMobileMenu');
     var close = document.getElementById('edMobileClose');
     var nlM   = document.getElementById('edNlMobile');
-    function open()  { menu.classList.add('open'); document.body.style.overflow = 'hidden'; }
-    function shut()  { menu.classList.remove('open'); document.body.style.overflow = ''; }
+    function open()  { menu.classList.add('open'); document.body.classList.add('menu-open'); document.body.style.overflow = 'hidden'; }
+    function shut()  { menu.classList.remove('open'); document.body.classList.remove('menu-open'); document.body.style.overflow = ''; }
     if (ham)   ham.addEventListener('click', open);
     if (close) close.addEventListener('click', shut);
     if (nlM)   nlM.addEventListener('click', shut);
