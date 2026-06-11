@@ -1,12 +1,22 @@
 {
-  "updated": "2026-06-11T10:44:58.950Z",
+  "updated": "2026-06-11T14:42:18.123Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Assista ao Bom Dia Cidade Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
-        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "title": "HC da Unicamp abre vagas de estágio com bolsas até R$ 1.250; veja áreas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/06/11/hc-da-unicamp-abre-vagas-de-estagio-com-bolsas-ate-r-1250-veja-areas.ghtml",
+        "summary": "Fachada do HC da Unicamp, em Campinas Antoninho Perri/Unicamp O Hospital de Clínicas da Unicamp está com inscrições abertas para vagas de estágio. Os interessados devem se candidatar pelo site até 17h de terça-feira (23)",
+        "image": "https://s2-g1.glbimg.com/Wz_bD-Bwfe600MJ_moFrDzjduDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/Q/ZfVCvVQYKPnuYjVHrAbg/sem-nome-1200-x-700-px-5-.jpg",
+        "date": "11 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Milhões de abelhas podem viver sob a terra; entenda como isso é possível",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/11/milhoes-de-abelhas-podem-viver-sob-a-terra-entenda-como-isso-e-possivel.ghtml",
+        "summary": "Imagem de uma Andrena regularis bndanforth / iNaturalist Quando pensamos em abelhas, a imagem mais comum é a de uma colmeia pendurada em uma árvore ou instalada em uma caixa de criação. Mas parte desses importantes polin",
+        "image": "https://s2-g1.glbimg.com/M4CvyhWOcEfrKLKVI4BHre84BsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/w/yzg8h3TP2rAFrHtWYN0A/andrena-solo.jpg",
         "date": "11 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -53,14 +63,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Chuva forte, raios e vento: frente fria aumenta instabilidade em Campinas a partir desta quinta",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/10/chuva-forte-raios-e-vento-frente-fria-aumenta-instabilidade-em-campinas-a-partir-desta-quinta.ghtml",
-        "summary": "IMAGEM DE ARQUIVO: chuva em Campinas Fernando Evans/g1 A aproximação de uma frente fria deve trazer chuva persistente para a região de Campinas (SP) a partir desta quinta-feira (11), segundo o Centro de Pesquisas Meteoro",
-        "image": "https://s2-g1.glbimg.com/ZSQE6O21ilmET_aIDNYTjB6kysk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/N/Xsj3VMTKKLJeq0cY6vvQ/design-sem-nome-2026-05-10t160425.153.jpg",
-        "date": "10 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "title": "Butcha na Copa : JA lança quadro com curiosidades e bom humor durante o Mundial",
+        "link": "https://jornalamericanense.com.br/esportes/butcha-na-copa-ja-lanca-quadro-com-curiosidades-e-bom-humor-durante-o-mundial/",
+        "summary": "Com o início da Copa do Mundo nesta quinta-feira (11), o Jornal Americanense estreia o quadro Butcha na Copa , que contará com a participação de Big Butcha (@butchagiacomin). Ao longo da competição, Butcha vai aparecer e",
+        "image": null,
+        "date": "11 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "É Hoje! Copa do Mundo 2026 começa nesta quinta-feira e promete parar o planeta",
+        "link": "https://jornalamericanense.com.br/esportes/e-hoje-copa-do-mundo-2026-comeca-nesta-quinta-feira-e-promete-parar-o-planeta/",
+        "summary": "A espera acabou. A Copa do Mundo de 2026 começa oficialmente nesta quinta-feira (11), com a partida de abertura entre México e África do Sul, às 16h (horário de Brasília), no histórico Estádio Azteca, na Cidade do México",
+        "image": null,
+        "date": "11 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Cine A abre processo seletivo para profissionais atuarem no Americana Shopping",
@@ -103,29 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Jovem de 19 anos é preso por tráfico de drogas após denúncia anônima em Americana",
-        "link": "https://jornalamericanense.com.br/policia/jovem-de-19-anos-e-preso-por-trafico-de-drogas-apos-denuncia-anonima-em-americana/",
-        "summary": "Polícia Militar apreendeu mais de 280 porções de entorpecentes, dinheiro, celulares, notebooks e nove pés de maconha em residência no bairro Jardim da Aliança Um jovem de 19 anos foi preso em flagrante por tráfico de dro",
-        "image": null,
-        "date": "09 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Câmara de Americana aprova programa de apoio a mães em situação de vulnerabilidade",
-        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-programa-de-apoio-a-maes-em-situacao-de-vulnerabilidade/",
-        "summary": "Projeto “Mãe Acolhida” prevê capacitação profissional, assistência social e fortalecimento da autonomia feminina A criação do Programa Mãe Acolhida foi o principal destaque da 21ª sessão ordinária da Câmara Municipal de ",
-        "image": null,
-        "date": "09 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Copa do Mundo 2026 expõe tensões fora do campo",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-do-mundo-de-2026-expoe-tensoes-extracampo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-do-mundo-de-2026-expoe-tensoes-extracampo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
+        "title": "Comissão do Senado aprova novo piso salarial de médicos e dentistas",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/comissao-do-senado-aprova-novo-piso-salarial-de-medicos-e-dentistas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/comissao-do-senado-aprova-novo-piso-salarial-de-medicos-e-dentistas img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Abertura da Copa 2026 tem dois jogos pelo Grupo A",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/Abertura-da-Copa%202026-tem-dois-jogos-pelo-Grupo%20A",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/Abertura-da-Copa%202026-tem-dois-jogos-pelo-Grupo%20A img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
+        "title": "Setor de serviços cresce 1,2% em abril, primeira alta em seis meses",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/setor-de-servicos-cresce-12-em-abril-primeira-alta-em-seis-meses",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/setor-de-servicos-cresce-12-em-abril-primeira-alta-em-seis-meses img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Começa nesta quinta-feira a Copa do Mundo de 2026",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/comeca-nesta-quinta-feira-a-copa-do-mundo-de-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/comeca-nesta-quinta-feira-a-copa-do-mundo-de-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/",
+        "title": "STF: sem salário e FGTS, terceirizados da comunicação entram em greve",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-sem-salario-e-fgts-terceirizados-da-comunicacao-entram-em-greve",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-sem-salario-e-fgts-terceirizados-da-comunicacao-entram-em-greve img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "EUA lançam novos ataques contra Irã; forças iranianas fecham Ormuz",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/eua-lancam-novos-ataques-ao-ira-forcas-iranianas-fecham-ormuz",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/eua-lancam-novos-ataques-ao-ira-forcas-iranianas-fecham-ormuz img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "PF combate tráfico internacional de drogas por rotas marítimas",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/pf-combate-trafico-internacional-de-drogas-por-rotas-maritimas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/pf-combate-trafico-internacional-de-drogas-por-rotas-maritimas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "G7: Lula vai cobrar ajuda ao desenvolvimento e nova governança global",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/g7-lula-vai-cobrar-ajuda-ao-desenvolvimento-e-nova-governanca-global",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/g7-lula-vai-cobrar-ajuda-ao-desenvolvimento-e-nova-governanca-global img src= https://cdn.jsdelivr.net/gh/sergio",
+        "title": "Inmet prevê pancadas de chuva em todas as regiões do país",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/inmet-preve-pancadas-de-chuva-em-areas-de-todas-regioes-do-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/inmet-preve-pancadas-de-chuva-em-areas-de-todas-regioes-do-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "No DF, 500 mulheres quilombolas pedem proteção e justiça climática",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/no-df-500-mulheres-quilombolas-pedem-protecao-e-justica-climatica",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/no-df-500-mulheres-quilombolas-pedem-protecao-e-justica-climatica img src= https://cdn.jsdelivr.net/gh/sergio",
+        "title": "Governo define horário de expediente em jogos do Brasil na Copa",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/governo-define-horario-de-expediente-em-jogos-do-brasil-na-copa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/governo-define-horario-de-expediente-em-jogos-do-brasil-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Confira os melhores momentos do São Paulo no primeiro semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/relembre-os-melhores-momentos-do-sao-paulo-no-semestre/",
-        "summary": "O São Paulo viveu um primeiro semestre de 2026 bastante conturbado, marcado por trocas no comando técnico e resultados irregulares. Apesar disso, também acumulou episódios positivos até aqui na temporada. O post Confira ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55306591934_1503227271_o-1.webp",
+        "title": "São Paulo contrata novo diretor executivo de marketing",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-contrata-novo-diretor-executivo-de-marketing/",
+        "summary": "O São Paulo contratou André Marques como novo diretor executivo de marketing. Com mais de 18 anos de experiência, o profissional já atuou em agências como WMcCann, Africa, Publicis e Full Jazz, além do TikTok na América ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-11-at-11.26.36.webp",
         "date": "11 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Raio-x dos convocados: veja os números dos jogadores da Seleção Brasileira",
-        "link": "https://www.gazetaesportiva.com/times/brasil/raio-x-dos-convocados-veja-os-numeros-dos-jogadores-da-selecao-brasileira/",
-        "summary": "O técnico Carlo Ancelotti convocou os 26 jogadores que irão defender a Seleção Brasileira na Copa do Mundo de 2026. A lista final do italiano contém três goleiros, nove defensores, cinco meio-campistas e nove atacantes. ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/BRASIL-PERFILADO-RAIO-X-COPA.webp",
+        "title": "Santos lança minissérie com histórias de ídolos do clube em Copas do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-minisserie-brasilidade-copa-santistas/",
+        "summary": "O Santos lançou a minissérie “Brasilidade: A Copa pelos Santistas”, que reúne depoimentos de ídolos sobre suas histórias com a Seleção Brasileira e a Copa do Mundo. O conteúdo será exibido na Santos TV ao longo do Mundia",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/2.jpg.webp",
         "date": "11 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira os melhores momentos do Palmeiras no primeiro semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-tres-melhores-momentos-do-palmeiras-no-primeiro-semestre-de-2026/",
-        "summary": "O Palmeiras teve um primeiro semestre de altos e baixos, mas terminou com saldo positivo. Mesmo com os momentos de oscilação ao longo da temporada, o Verdão chegou à pausa para a Copa do Mundo como líder isolado do Campe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/31052026_cg_palmeiras_4431_88.webp",
+        "title": "México abre sua terceira Copa do Mundo com África do Sul, Shakira e protestos",
+        "link": "https://www.gazetaesportiva.com/times/mexico/copa-do-mundo-2026-abertura-mexico-protestos/",
+        "summary": "A Copa do Mundo de 2026 começa nesta quinta-feira (11) no México, marcando a primeira edição com 48 seleções e organização conjunta entre Estados Unidos, Canadá e México. Apesar da expectativa dos torcedores, o torneio t",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260609__B6F93G7__v1__HighRes__WorldCupNearsKickoffAfterPreTournamentTurbulenc.webp",
         "date": "11 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira os melhores momentos do Santos no primeiro semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/santos/veja-tres-melhores-momentos-do-santos-no-primeiro-semestre-de-2026/",
-        "summary": "O primeiro semestre do Santos em 2026 foi marcado muito mais por oscilação do que por regularidade. Com alguns picos positivos e momentos relevantes, a equipe comandada pelo técnico Cuca terminou a primeira parte da temp",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55303443407_12711f1f8f_c.webp",
+        "title": "Premiação de Wimbledon tem aumento de 20% em 2026",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/wimbledon-2026-premiacao-recorde/",
+        "summary": "Wimbledon 2026 terá premiação recorde de 64,2 milhões de libras, com aumento de 20%. A decisão ocorre em meio à pressão dos tenistas por maior participação nas receitas dos torneios de Grand Slam. O post Premiação de Wim",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/07/sinner_alcaraz_130725.webp",
         "date": "11 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Goleiro mexicano Guillermo Ochoa chega a sua 6ª Copa em meio a elogios e dúvidas quanto à idade",
-        "link": "https://www.gazetaesportiva.com/times/mexico/goleiro-mexicano-guillermo-ochoa-chega-a-sua-6a-copa-em-meio-a-elogios-e-duvidas-quanto-a-idade/",
-        "summary": "Aos 40 anos, Guillermo Ochoa busca disputar sua sexta Copa do Mundo, mas ainda enfrenta concorrência pela vaga de goleiro titular do México. O post Goleiro mexicano Guillermo Ochoa chega a sua 6ª Copa em meio a elogios e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260610__B6N43HA__v1__HighRes__FblWc2026TrainingMex.webp",
+        "title": "Torcedores da Costa do Marfim são vetados da Copa do Mundo nos EUA",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/torcedores-costa-do-marfim-vistos-copa-2026/",
+        "summary": "Torcedores da Costa do Marfim não poderão acompanhar a seleção na Copa do Mundo de 2026 devido à dificuldade para obter vistos de entrada nos Estados Unidos, segundo o comitê nacional de torcedores. O post Torcedores da ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260611__B6P692B__v1__HighRes__UsFblWc2026Feature.webp",
         "date": "11 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira os melhores momentos do Corinthians no primeiro semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/confira-os-melhores-momentos-do-corinthians-no-primeiro-semestre-de-2026/",
-        "summary": "Apesar das oscilações que marcaram a temporada, o Corinthians viveu momentos importantes no primeiro semestre de 2026. Entre títulos, mudanças no comando técnico e boa campanha continental, o Timão chega à pausa para a C",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260201__94RJ73L__v1__HighRes__FblBraSupercopaFlamengoCorinthians-1.webp",
+        "title": "Lewandowski entra na mira do Manchester United depois de deixar o Barcelona",
+        "link": "https://www.gazetaesportiva.com/times/manchester-united/manchester-united-interesse-lewandowski/",
+        "summary": "O Manchester United avalia a contratação de Robert Lewandowski para a próxima temporada, aproveitando a provável saída do atacante do Barcelona ao fim do contrato. Apesar de não haver taxa de transferência, o alto salári",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/11/AFP__20251109__83JQ2GJ__v2__HighRes__TopshotFblEspLigaCeltaBarcelona.webp",
         "date": "11 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Setor de serviços cresce 1,2% em abril, primeira alta em seis meses",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/setor-de-servicos-cresce-12-em-abril-primeira-alta-em-seis-meses",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/setor-de-servicos-cresce-12-em-abril-primeira-alta-em-seis-meses img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "11 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Governo estuda devolução de celular roubado nos Correios, diz Lula",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-estuda-devolucao-de-celular-roubado-nos-correios-diz-lula",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Construção empregou 2,5 milhões e pagou média de 2,1 salários mínimos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/construcao-empregou-25-milhoes-e-pagou-media-de-21-salarios-minimos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/construcao-empregou-25-milhoes-e-pagou-media-de-21-salarios-minimos img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "10 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Amazon fecha empréstimo de US$ 17 bi para reforçar reservas em meio ao boom de IA",
-        "link": "https://www.infomoney.com.br/business/amazon-fecha-emprestimo-de-us-17-bi-para-reforcar-reservas-em-meio-ao-boom-de-ia/",
-        "summary": "A empresa também deu um passo importante no mercado de frete de carga fracionada (LTL, na sigla em inglês) nesta quarta-feira The post Amazon fecha empréstimo de US$ 17 bi para reforçar reservas em meio ao boom de IA app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/marques-thomas-ahtI-FHPQG4-unsplash-1.jpg?fit=300%2C183&amp;quality=70&amp;strip=all",
+        "title": "Senado aprova Benedito Gonçalves para vaga de corregedor do CNJ",
+        "link": "https://www.infomoney.com.br/mercados/senado-aprova-benedito-goncalves-para-vaga-de-corregedor-do-cnj/",
+        "summary": "A aprovação do nome do ministro para o CNJ contou com um \"esforço concentrado\" de Davi Alcolumbre (União-AP), presidente do Senado The post Senado aprova Benedito Gonçalves para vaga de corregedor do CNJ appeared first o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/10/tse-relator.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "11 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nos EUA, Trump pede que Congresso aprove projeto com orçamento militar de US$ 350 bi",
-        "link": "https://www.infomoney.com.br/mundo/nos-eua-trump-pede-que-congresso-aprove-projeto-com-orcamento-militar-de-us-350-bi/",
-        "summary": "O texto ainda inclui a Lei Salve a América, que prevê que apenas cidadãos comprovadamente americanos tenham direito a voto The post Nos EUA, Trump pede que Congresso aprove projeto com orçamento militar de US$ 350 bi app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-28T164545Z_1_LYNXMPEM4R1D4_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Copa do Mundo cara afasta torcedores e afeta hotéis e companhias aéreas dos EUA",
+        "link": "https://www.infomoney.com.br/business/copa-do-mundo-cara-afasta-torcedores-e-afeta-hoteis-e-companhias-aereas-dos-eua/",
+        "summary": "Expectativa era de que torneio trouxesse bonança para o setor de viagens que agora enfrenta declínio no número de visitantes internacionais The post Copa do Mundo cara afasta torcedores e afeta hotéis e companhias aéreas",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-11T140845Z_1_LYNXMPEM5A11J_RTROPTP_4_TOTW-TOURISM_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "11 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Engie aprova oferta de ações vinculada à participação na Jirau; suspende projeções",
-        "link": "https://www.infomoney.com.br/mercados/engie-aprova-oferta-de-acoes-vinculada-a-participacao-na-jirau-suspende-projecoes/",
-        "summary": "Uma consultoria contratada pela Engie ​Brasil avaliou a participação em R$ 5,74 bilhões The post Engie aprova oferta de ações vinculada à participação na Jirau; suspende projeções appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2020/10/Logotipo-da-Engie-reduzida.jpg?fit=300%2C198&amp;quality=70&amp;strip=all",
+        "title": "STF retoma julgamento sobre big techs com voto de Toffoli",
+        "link": "https://www.infomoney.com.br/politica/stf-retoma-julgamento-sobre-big-techs-com-voto-de-toffoli/",
+        "summary": "Relator dos recursos, o ministro iniciou seu voto na sessão de quarta-feira (10) The post STF retoma julgamento sobre big techs com voto de Toffoli appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55268656624_0f6330ef07_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "11 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Irã ataca países árabes em retaliação à nova ofensiva dos Estados Unidos",
-        "link": "https://www.infomoney.com.br/mundo/ira-ataca-paises-arabes-em-retaliacao-a-nova-ofensiva-dos-estados-unidos/",
-        "summary": "O regime iraniano respondeu com bombardeios contra o Bahrein, o Kuwait e a Jordânia, países aliados dos Estados Unidos The post Irã ataca países árabes em retaliação à nova ofensiva dos Estados Unidos appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Aeroporto_Kwait_Ataque.jpg?fit=300%2C132&amp;quality=70&amp;strip=all",
+        "title": "Itaú BBA vê fim da assimetria positiva e rebaixa São Martinho para neutro; ação cai",
+        "link": "https://www.infomoney.com.br/mercados/smto3-itau-bba-ve-fim-da-assimetria-positiva-e-rebaixa-sao-martinho-para-neutro-acao-cai/",
+        "summary": "Rebaixamento incorpora uma visão mais conservadora para os preços do etanol e do açúcar The post Itaú BBA vê fim da assimetria positiva e rebaixa São Martinho para neutro; ação cai appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/cane-field-4362529_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "11 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Comando Central dos EUA informa ter concluído ataques contra o Irã",
-        "link": "https://www.infomoney.com.br/mundo/comando-central-dos-eua-informa-ter-concluido-ataques-contra-o-ira/",
-        "summary": "Explosões foram registradas em Teerã, na cidade portuária de Bandar Abbas e em áreas próximas ao Estreito de Ormuz The post Comando Central dos EUA informa ter concluído ataques contra o Irã appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Trump_Ira.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Braskem (BRKM5): ação salta até 11% após novo controlador registrar pedido para OPA",
+        "link": "https://www.infomoney.com.br/mercados/braskem-brkm5-acao-salta-ate-11-apos-novo-controlador-registrar-pedido-para-opa/",
+        "summary": "O Shine I divide o controle da Braskem com a Petrobras, que detém 47% do capital votante e 36,1% do capital total The post Braskem (BRKM5): ação salta até 11% após novo controlador registrar pedido para OPA appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/braskem.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "11 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Peru: Keiko retoma a liderança na disputa pela presidência com 98% dos votos apurados",
-        "link": "https://www.infomoney.com.br/mundo/peru-keiko-fujimori-retoma-a-lideranca-na-disputa-pela-presidencia-com-98-dos-votos-apurados/",
-        "summary": "Fujimori, do partido Força Popular, somava 50,001% dos votos, enquanto o esquerdista Roberto Sánchez, da coalizão Juntos pelo Peru, tinha 49,999% The post Peru: Keiko retoma a liderança na disputa pela presidência com 98",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Keiko-Fujimori.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Kronor aposta em diversificação global para dobrar de tamanho; mais de 60 mercados",
+        "link": "https://www.infomoney.com.br/advisor/kronor-aposta-em-diversificacao-global-para-dobrar-de-tamanho-mais-de-60-mercados/",
+        "summary": "Segundo a empresa, a demanda por diversificação geográfica vem ganhando espaço entre investidores de alta renda, especialmente em estratégias voltadas à preservação patrimonial de longo prazo The post Kronor aposta em di",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Kronor-Da-esquerda-para-direita-os-socios-Joao-Rafael-Adriel-Luana-Carlos-Juliana-Joao-Roque-e-Nelson.jpeg?fit=300%2C240&amp;quality=70&amp;strip=all",
         "date": "11 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Messi, Mbappé e os segredos que podem decidir a Copa do Mundo",
-        "link": "https://exame.com/esporte/messi-mbappe-e-os-segredos-que-podem-decidir-a-copa-do-mundo/",
-        "summary": "Pesquisadores da Northeastern University analisaram padrões táticos de França, Espanha, Argentina, Inglaterra e Portugal para a Copa do Mundo de 2026",
+        "title": "Banco Mundial revisa crescimento do PIB global ao pior nível pós-pandemia",
+        "link": "https://exame.com/mundo/banco-mundial-revisa-crescimento-do-pib-global-ao-pior-nivel-pos-pandemia/",
+        "summary": "A instituição também alertou para riscos de uma desaceleração ainda mais severa; Brasil deve crescer menos de 2%, mas tem previsão de melhora",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Este medo pode estar escondendo seu maior diferencial profissional — veja como vencê-lo",
-        "link": "https://exame.com/carreira/este-medo-pode-estar-escondendo-seu-maior-diferencial-profissional-veja-como-vence-lo/",
-        "summary": "Assumir uma identidade própria pode atrair oportunidades mais alinhadas, mas também exige coragem para lidar com críticas, rejeições e exposição",
+        "title": "Real Time Big Data: Marília Arraes lidera todos os cenários para o Senado em Pernambuco",
+        "link": "https://exame.com/brasil/real-time-big-data-marilia-arraes-lidera-todos-os-cenarios-para-o-senado-em-pernambuco/",
+        "summary": "Se disputar, Miguel Coelho leva a segunda cadeira de Pernambuco no Senado, diz pesquisa",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Museu Nacional reabrirá com espaço expositivo triplicado",
-        "link": "https://exame.com/casual/museu-nacional-reabre-em-2029-com-espaco-expositivo-triplicado/",
-        "summary": "Projeto revela camadas históricas do Paço, incorpora achados arqueológicos ao percurso e transforma o próprio edifício em peça do acervo",
+        "title": "Ele largou a engenharia para faturar R$ 30 milhões com um clube de livros clássicos",
+        "link": "https://exame.com/negocios/ele-largou-a-engenharia-para-faturar-r-30-milhoes-com-um-clube-de-livros-classicos/",
+        "summary": "Criador do Clube de Literatura Clássica transformou a paixão por obras centenárias em negócio com 28 mil assinantes, mais de 2 milhões de livros enviados e crescimento acelerado",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Novo sistema de IA da Nvidia terá custo recorde por rack",
-        "link": "https://exame.com/inteligencia-artificial/nvidia-novo-sistema-de-ia-tera-custo-recorde-por-rack/",
-        "summary": "Segundo a Bernstein, a escassez de memória de alta largura de banda deve elevar o custo do rack do Vera Rubin da Nvidia para US$ 9,1 milhões",
+        "title": "Bitcoin sobe aos US$ 62 mil apesar de guerra e dado de inflação preocupante nos EUA",
+        "link": "https://exame.com/future-of-money/bitcoin-hoje-11-06-2026/",
+        "summary": "Maior das criptomoedas desafia o cenário adverso e tenta uma recuperação após três dias consecutivos de quedas",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Copa do Mundo 2026: os 10 jogos da fase de grupos que você não pode perder",
-        "link": "https://exame.com/esporte/copa-do-mundo-2026-os-10-jogos-da-fase-de-grupos-que-voce-nao-pode-perder/",
-        "summary": "De Mbappé contra Haaland, a Espanha diante do Uruguai, primeira fase do Mundial reserva confrontos de alto nível",
+        "title": "Real Time Big Data: Campos tem 45% e Lyra, 40%, no 1º turno no Pernambuco",
+        "link": "https://exame.com/brasil/real-time-big-data-campos-tem-45-e-lyra-40-no-1o-turno-no-pernambuco/",
+        "summary": "Distância entre Campos e Lyra diminui desde a última pesquisa do instituto, divulgada em abril",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Com juros altos, construtoras trocam bancos por fundos na construção de residências",
-        "link": "https://exame.com/mercado-imobiliario/adeus-bancoes-fundos-ja-estao-financiando-ate-mesmo-o-minha-casa-minha-vida/",
-        "summary": "Apesar de mais comum nos empreendimentos de médio e alto padrão, busca por recursos no mercado de capitais também chegou ao MCMV",
+        "title": "Suécia recua e Argentina endurece: o debate da maioridade penal pelo mundo",
+        "link": "https://exame.com/mundo/suecia-recua-e-argentina-endurece-o-debate-da-maioridade-penal-pelo-mundo/",
+        "summary": "A CCJ da Câmara dos Deputados aprovou a PEC que reduz a maioridade penal para 16 anos nesta quarta-feira, 10",
         "image": null,
         "date": "11 de jun. de 2026",
         "source": "Exame",
