@@ -1,0 +1,39 @@
+name: 📰 Notícias Automáticas
+
+on:
+  schedule:
+    - cron: '0 13 * * 1-5'   # Seg–Sex às 10h BRT (UTC-3 = 13h UTC)
+  workflow_dispatch:           # disparo manual pelo painel do GitHub
+
+permissions:
+  contents: write              # permite commit + push
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Rodar publicador
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/daily-news.js
+
+      - name: Commit e push
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "bot@empresasenegocios.com.br"
+          git add -A
+          git diff --staged --quiet \
+            || git commit -m "chore: notícias automáticas $(date +'%Y-%m-%d') [skip ci]"
+          git push
