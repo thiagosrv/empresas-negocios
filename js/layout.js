@@ -8,6 +8,27 @@
 (function () {
   'use strict';
 
+  // ── Google Fonts não-bloqueante ──────────────────────────────────────────────
+  (function () {
+    var h = document.head;
+    function addLink(rel, href, extra) {
+      var l = document.createElement('link');
+      l.rel = rel;
+      l.href = href;
+      if (extra) { l.as = extra.as; if (extra.crossorigin) l.crossOrigin = ''; }
+      h.appendChild(l);
+    }
+    addLink('preconnect', 'https://fonts.googleapis.com');
+    addLink('preconnect', 'https://fonts.gstatic.com', { crossorigin: true });
+    var l = document.createElement('link');
+    l.rel = 'stylesheet';
+    l.href = 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap';
+    l.media = 'print';
+    l.onload = function () { this.media = 'all'; };
+    h.appendChild(l);
+  })();
+  // ─────────────────────────────────────────────────────────────────────────────
+
   var inPages = window.location.pathname.indexOf('/pages/') !== -1;
   var ROOT    = inPages ? '../' : './';          // raiz do site
   var P       = inPages ? '' : 'pages/';          // prefixo p/ páginas internas

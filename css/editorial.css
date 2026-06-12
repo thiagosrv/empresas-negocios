@@ -5,8 +5,7 @@
    Fonte única de verdade do cabeçalho/rodapé (injetados por js/layout.js).
    ════════════════════════════════════════════════════════════════════════════ */
 
-/* Google Fonts — Montserrat (títulos) + Inter (corpo) */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap');
+/* Google Fonts injetadas via layout.js (não-bloqueante) */
 
 :root {
   --ed-ink:        #000000;
