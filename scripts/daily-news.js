@@ -22,7 +22,7 @@ const FEEDS = [
   { url: 'https://www.poder360.com.br/feed/',                         tag: 'Política',   tagCls: 'governo'    },
   { url: 'https://rss.uol.com.br/feed/economia.xml',                  tag: 'Economia',   tagCls: ''           },
   { url: 'https://www.terra.com.br/rss/economia.xml',                 tag: 'Negócios',   tagCls: ''           },
-  { url: 'https://ge.globo.com/dynamo/futebol/brasileiro-serie-a/rss2.xml', tag: 'Esportes', tagCls: 'futebol' },
+  { url: 'https://ge.globo.com/dynamo/rss2.xml',                      tag: 'Esportes',   tagCls: 'futebol'    },
   { url: 'https://www.metropoles.com/feed/',                          tag: 'Brasil',     tagCls: 'brasil'     },
 ];
 
