@@ -269,7 +269,8 @@ async function main() {
 
   // 4. Carrega artigos existentes para evitar duplicatas
   const ARTIGOS_PATH = 'data/artigos.json';
-  const artigos      = JSON.parse(readFileSync(ARTIGOS_PATH, 'utf8'));
+  const raw          = JSON.parse(readFileSync(ARTIGOS_PATH, 'utf8'));
+  const artigos      = Array.isArray(raw) ? raw : (raw.articles || []);
   const existingKeys = new Set(artigos.map(a => a.title.toLowerCase().slice(0, 50)));
 
   const newEntries = [];

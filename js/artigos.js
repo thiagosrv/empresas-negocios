@@ -16,7 +16,9 @@
     if (cache) return cache;
     const res = await fetch(DATA_URL);
     if (!res.ok) throw new Error('artigos.json não encontrado');
-    cache = await res.json();
+    const raw = await res.json();
+    // aceita array puro ou {articles: [...]} / {updated, articles: [...]}
+    cache = Array.isArray(raw) ? raw : (raw.articles || []);
     return cache;
   }
 
