@@ -141,7 +141,7 @@
 
     try {
       const data     = await getData();
-      let   articles = data.articles || [];
+      let   articles = Array.isArray(data) ? data : (data.articles || []);
 
       // Filtro por tag exata (nome da editoria)
       if (tag) {
