@@ -69,6 +69,7 @@ ${imgMeta}
 <link rel="stylesheet" href="${p}css/editorial.css">
 </head>
 <body>
+<div id="site-header" style="min-height:98px;background:#000"></div>
 <main class="container editorial-layout" style="padding-top:40px">
   <article class="content-col">
     ${body}

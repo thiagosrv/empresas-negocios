@@ -77,7 +77,7 @@
     const img0  = main.image || FALLBACK;
 
     let html = '<article class="hero-main">'
-      + '<a href="' + href0 + '"><img src="' + img0 + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK + '\'" /></a>'
+      + '<a href="' + href0 + '"><img src="' + img0 + '" alt="" loading="eager" fetchpriority="high" width="800" height="450" onerror="this.src=\'' + FALLBACK + '\'" /></a>'
       + '<div class="hero-content">'
       + '<span class="tag ' + (main.tagCls || '') + '">' + (main.tag || 'Destaque') + '</span>'
       + '<h2 class="hero-title"><a href="' + href0 + '" style="color:inherit;">' + main.title + '</a></h2>'

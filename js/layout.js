@@ -150,7 +150,7 @@
 
   function init() {
     // Remove o chrome antigo (se existir nesta página)
-    ['.ticker-bar', 'header.site-header', 'footer.site-footer'].forEach(function (sel) {
+    ['.ticker-bar', 'header.site-header', 'nav.site-nav', 'footer.site-footer'].forEach(function (sel) {
       var node = document.querySelector(sel);
       if (node) node.parentNode.removeChild(node);
     });
