@@ -2,7 +2,7 @@ name: 📰 Notícias Automáticas
 
 on:
   schedule:
-    - cron: '0 13 * * 1-5'   # Seg–Sex às 10h BRT (UTC-3 = 13h UTC)
+    - cron: '0 13 * * *'      # Todo dia às 10h BRT (UTC-3 = 13h UTC)
   workflow_dispatch:           # disparo manual pelo painel do GitHub
 
 permissions:

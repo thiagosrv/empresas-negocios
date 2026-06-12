@@ -8,7 +8,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 
 const OPENAI_KEY  = process.env.OPENAI_API_KEY;
 const SITE_URL    = 'https://www.empresasenegocios.com.br';
-const MAX_ARTS    = 3;   // artigos por execução
+const MAX_ARTS    = 10;  // artigos por execução
 const MAX_TOKENS  = 550; // ~200 palavras de saída
 
 if (!OPENAI_KEY) { console.error('❌  OPENAI_API_KEY não definida'); process.exit(1); }
