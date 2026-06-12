@@ -59,7 +59,7 @@
     const href = articleUrl(a);
     const img  = a.image || FALLBACK;
     return '<article class="card-featured">'
-      + '<a href="' + href + '" class="card-featured-img"><img src="' + img + '" alt="" loading="lazy" onerror="this.src=\'' + FALLBACK + '\'" /></a>'
+      + '<a href="' + href + '" class="card-featured-img"><img src="' + img + '" alt="" loading="eager" fetchpriority="high" onerror="this.src=\'' + FALLBACK + '\'" /></a>'
       + '<div class="card-featured-body">'
       + '<span class="tag ' + (a.tagCls || '') + '">' + (a.tag || 'Artigo') + '</span>'
       + '<a href="' + href + '"><h2 class="card-featured-title">' + a.title + '</h2></a>'

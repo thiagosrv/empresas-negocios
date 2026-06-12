@@ -25,7 +25,12 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Work+Sans:wght@400;500&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
+  <link rel="preload" href="data/artigos.json" as="fetch" crossorigin="anonymous" />
+  <link rel="preload" href="assets/logo-fn.png" as="image" />
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Work+Sans:wght@400;500&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" /></noscript>
+  <script>
+    (function(){var l=document.createElement('link');l.rel='stylesheet';l.href='https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Work+Sans:wght@400;500&family=JetBrains+Mono:wght@500&display=swap';l.media='print';l.onload=function(){this.media='all';};document.head.appendChild(l);})();
+  </script>
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <meta name="theme-color" content="#000000" />
 
@@ -278,7 +283,7 @@
     .footer-bottom-links a:hover { color: rgba(255,255,255,.7); }
 
     /* ── Back to top (acima do botão flutuante do WhatsApp) ── */
-    .back-to-top { position: fixed; bottom: 90px; right: 24px; width: 40px; height: 40px; background: #000; color: #fff; border: none; font-size: 18px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .3s; z-index: 90; }
+    .back-to-top { position: fixed; bottom: 90px; right: 24px; width: 44px; height: 44px; background: #000; color: #fff; border: none; font-size: 18px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .3s; z-index: 90; }
     .back-to-top.visible { opacity: 1; pointer-events: auto; }
 
     /* ── Mobile bottom nav (injetada por main.js — só no mobile) ── */
@@ -408,16 +413,15 @@
         <section>
           <div class="section-head">
             <h2>Destaques</h2>
-            <a href="pages/novidades.html">Ver todos →</a>
+            <a href="pages/novidades.html" aria-label="Ver todos os Destaques">Ver todos →</a>
           </div>
           <div class="hero-grid">
-            <div id="home-hero" data-artigos="1" data-artigos-layout="featured">
-              <div class="skeleton" style="aspect-ratio:16/9;"></div>
+            <div id="home-hero" data-artigos="1" data-artigos-layout="featured" style="min-height:460px">
             </div>
             <div id="home-hero-aside" data-artigos="3" data-artigos-layout="card-h">
-              <div class="skeleton" style="height:72px;margin-bottom:16px;"></div>
-              <div class="skeleton" style="height:72px;margin-bottom:16px;"></div>
-              <div class="skeleton" style="height:72px;"></div>
+              <div class="skeleton" style="height:90px;margin-bottom:16px;"></div>
+              <div class="skeleton" style="height:90px;margin-bottom:16px;"></div>
+              <div class="skeleton" style="height:90px;"></div>
             </div>
           </div>
         </section>
@@ -426,12 +430,12 @@
         <section>
           <div class="section-head">
             <h2>Mais Recentes</h2>
-            <a href="pages/novidades.html">Ver todos →</a>
+            <a href="pages/novidades.html" aria-label="Ver todos os Mais Recentes">Ver todos →</a>
           </div>
           <div id="home-recentes" class="news-grid" data-artigos="3">
-            <div class="skeleton" style="height:220px;"></div>
-            <div class="skeleton" style="height:220px;"></div>
-            <div class="skeleton" style="height:220px;"></div>
+            <div class="skeleton" style="height:300px;"></div>
+            <div class="skeleton" style="height:300px;"></div>
+            <div class="skeleton" style="height:300px;"></div>
           </div>
         </section>
 
@@ -447,14 +451,14 @@
           <section>
             <div class="section-head">
               <h2>Startups</h2>
-              <a href="pages/startups.html">Ver →</a>
+              <a href="pages/startups.html" aria-label="Ver artigos de Startups">Ver →</a>
             </div>
             <div id="home-startups" class="category-row" data-artigos="4" data-artigos-tag="Startups" data-artigos-layout="card-h"></div>
           </section>
           <section>
             <div class="section-head">
               <h2>Tecnologia</h2>
-              <a href="pages/tecnologia.html">Ver →</a>
+              <a href="pages/tecnologia.html" aria-label="Ver artigos de Tecnologia">Ver →</a>
             </div>
             <div id="home-tecnologia" class="category-row" data-artigos="4" data-artigos-tag="Tecnologia" data-artigos-layout="card-h"></div>
           </section>
@@ -465,14 +469,14 @@
           <section>
             <div class="section-head">
               <h2>Brasil</h2>
-              <a href="pages/brasil.html">Ver →</a>
+              <a href="pages/brasil.html" aria-label="Ver artigos de Brasil">Ver →</a>
             </div>
             <div id="home-brasil" class="category-row" data-artigos="3" data-artigos-tag="Brasil" data-artigos-layout="card-h"></div>
           </section>
           <section>
             <div class="section-head">
               <h2>Mundo</h2>
-              <a href="pages/mundo.html">Ver →</a>
+              <a href="pages/mundo.html" aria-label="Ver artigos de Mundo">Ver →</a>
             </div>
             <div id="home-mundo" class="category-row" data-artigos="3" data-artigos-tag="Mundo" data-artigos-layout="card-h"></div>
           </section>
@@ -482,7 +486,7 @@
         <section>
           <div class="section-head">
             <h2>Serviços</h2>
-            <a href="pages/servicos.html">Ver todos →</a>
+            <a href="pages/servicos.html" aria-label="Ver todos de Serviços">Ver todos →</a>
           </div>
           <div id="home-servicos" class="news-grid" data-artigos="3" data-artigos-tag="Serviços">
             <div class="skeleton" style="height:200px;"></div>
@@ -495,7 +499,7 @@
         <section>
           <div class="section-head">
             <h2>Sociedade &amp; Cultura</h2>
-            <a href="pages/sociedade.html">Ver todos →</a>
+            <a href="pages/sociedade.html" aria-label="Ver todos de Sociedade e Cultura">Ver todos →</a>
           </div>
           <div id="home-sociedade" class="news-grid" data-artigos="3" data-artigos-tag="Sociedade">
             <div class="skeleton" style="height:200px;"></div>
@@ -571,7 +575,7 @@
     <div class="section-head" style="margin-bottom:20px">
       <h2>🏆 Copa do Mundo 2026</h2>
     </div>
-    <div id="copa2026-widget"></div>
+    <div id="copa2026-widget" style="min-height:420px"></div>
   </div>
 </section>
 
