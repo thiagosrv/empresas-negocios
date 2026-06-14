@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:17:55.500Z",
+  "updated": "2026-06-14T23:12:37.088Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,26 @@
         "cls": "brasil"
       },
       {
+        "title": "Casal é preso pela Guarda Municipal de Americana com dezenas de roupas furtadas de lojas da região",
+        "link": "https://jornalamericanense.com.br/policia/casal-e-preso-pela-guarda-municipal-de-americana-com-dezenas-de-roupas-furtadas-de-lojas-da-regiao/",
+        "summary": "Ação teve início após alerta da Muralha Digital; 66 peças de vestuário foram recuperadas e veículo utilizado pelos suspeitos foi apreendido A Guarda Municipal de Americana prendeu em flagrante, na noite desta sexta-feira",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Exposição sobre a primeira escola de goleiros do Brasil chega ao Americana Shopping e valoriza a história esportiva da cidade",
+        "link": "https://jornalamericanense.com.br/cidades/exposicao-sobre-a-primeira-escola-de-goleiros-do-brasil-chega-ao-americana-shopping-e-valoriza-a-historia-esportiva-da-cidade/",
+        "summary": "Mostra “Camisa 1: A Jornada”, promovida pela FAM, reúne memórias, personagens e a trajetória de um projeto que revelou talentos do futebol nacional A história de um dos projetos esportivos mais emblemáticos de Americana ",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Futebol, rodeio e grandes shows transformam sábado da Festa do Peão de Americana em espetáculo de emoções",
         "link": "https://jornalamericanense.com.br/cidades/futebol-rodeio-e-grandes-shows-transformam-sabado-da-festa-do-peao-de-americana-em-espetaculo-de-emocoes/",
         "summary": "Público acompanha Brasil x Marrocos nos telões, vibra com disputas decisivas na arena e lota o recinto para apresentações de Luan Santana, Bruno Marrone e Natanzinho Lima A reta final da 38ª Festa do Peão de Americana ga",
@@ -98,26 +118,6 @@
         "summary": "Um caso chocante de fraude contra seguradoras voltou a chamar a atenção no Brasil. Vanderley dos Santos Gomes foi condenado após investigações concluírem que ele teria provocado a amputação do próprio pé direito com o ob",
         "image": null,
         "date": "12 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Copa do Mundo terá mais duas cerimônias de abertura nesta sexta antes das estreias de Canadá e Estados Unidos",
-        "link": "https://jornalamericanense.com.br/esportes/copa-do-mundo-tera-mais-duas-cerimonias-de-abertura-nesta-sexta-antes-das-estreias-de-canada-e-estados-unidos/",
-        "summary": "A Copa do Mundo de 2026 segue em clima de festa nesta sexta-feira (12) com mais duas cerimônias de abertura, desta vez nos países coanfitriões Canadá e Estados Unidos. Após o evento realizado na quinta-feira (11) na Cida",
-        "image": null,
-        "date": "12 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Americana registra superávit de US$ 79,2 milhões na balança comercial",
-        "link": "https://jornalamericanense.com.br/economia/americana-registra-superavit-de-us-792-milhoes-na-balanca-comercial/",
-        "summary": "Americana registrou superávit de US$ 79,2 milhões na balança comercial entre janeiro e maio de 2026. No período, o município exportou US$ 276,8 milhões e importou US$ 197,6 milhões. Os dados, compilados pelo Observatório",
-        "image": null,
-        "date": "11 de jun. de 2026",
         "source": "Americanense",
         "tag": "Americanense",
         "cls": "servicos"
@@ -185,123 +185,63 @@
     ],
     "esportes": [
       {
-        "title": "Confira galeria de fotos do duelo entre Holanda e Japão pela Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/holanda/confira-galeria-de-fotos-do-duelo-entre-holanda-e-japao-pela-copa-do-mundo/",
-        "summary": "Confira galeria de fotos do duelo entre Holanda e Japão pela Copa do Mundo. A partida é a primeira das duas seleções. O post Confira galeria de fotos do duelo entre Holanda e Japão pela Copa do Mundo apareceu primeiro em",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260614__B72V6N3__v1__MidRes__FblWc2026Match11NedJpn.webp",
+        "title": "Veja fotos do duelo entre Novorizontino e Náutico pela 12ª rodada da Série B do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/veja-fotos-do-duelo-entre-novorizontino-e-nautico-pela-12a-rodada-da-serie-b-do-brasileiro/",
+        "summary": "Veja fotos do duelo entre Novorizontino e Náutico pela 12ª rodada da Série B do Brasileiro. O post Veja fotos do duelo entre Novorizontino e Náutico pela 12ª rodada da Série B do Brasileiro apareceu primeiro em Gazeta Es",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/foto-capa-novorizontino.webp",
         "date": "14 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com um a mais, Paysandu perde da Inter de Limeira na Série C do Brasileiro",
-        "link": "https://www.gazetaesportiva.com/times/paysandu/com-um-a-mais-paysandu-perde-da-inter-de-limeira-na-serie-c-do-brasileiro/",
-        "summary": "Neste domingo, com um jogador a mais, o Paysandu perdeu para a Inter de Limeira, no Estádio da Curuzu, em Belém, pela 10ª rodada da Série C do Campeonato Brasileiro. O post Com um a mais, Paysandu perde da Inter de Limei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55335298120_35722310f6_o-1.webp",
+        "title": "Espanha x Cabo Verde pela Copa do Mundo: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/times/espanha/espanha-x-cabo-verde-onde-assistir-horario-escalacoes-copa-do-mundo-2026/",
+        "summary": "Espanha e Cabo Verde se enfrentam nesta segunda-feira pela estreia do Grupo H da Copa do Mundo 2026. Veja horário, onde assistir, escalações e ficha técnica. O post Espanha x Cabo Verde pela Copa do Mundo: veja prováveis",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260609__B6FB4TD__v1__HighRes__FblFriendlyPerEsp.webp",
         "date": "14 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com pênalti perdido e expulsão, Athletic e Goiás empatam pela Série B",
-        "link": "https://www.gazetaesportiva.com/times/goias/com-penalti-perdido-e-expulsao-athletic-e-goias-empatam-pela-serie-b/",
-        "summary": "Athletic e Goiás empataram em 1 a 1 pela 13ª rodada da Série B. Esli García abriu o placar para o time goiano no fim do primeiro tempo, e Kauan Rodrigues empatou na etapa final em duelo movimentado. O post Com pênalti pe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/04/HE6dPQybsAAuxkO-1.webp",
+        "title": "Irã x Nova Zelândia pela Copa do Mundo: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/ira-x-nova-zelandia-onde-assistir-escalacoes-2026/",
+        "summary": "Irã e Nova Zelândia se enfrentam nesta segunda-feira (15) pela primeira rodada da fase de grupos da Copa do Mundo de 2026, no SoFi Stadium, em Los Angeles. A seleção iraniana chega embalada após duas vitórias em amistoso",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260612__2281277080__v1__HighRes__NewZealandTrainingAndMediaAvailabilityFifaWo.webp",
         "date": "14 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos da atividade da Seleção Brasileira neste domingo",
-        "link": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-da-atividade-da-selecao-brasileira-neste-domingo/",
-        "summary": "O post Veja fotos da atividade da Seleção Brasileira neste domingo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HKyhwuZWIAAh0Gc.webp",
+        "title": "Criciúma x Ceará pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-ceara-serie-b-onde-assistir/",
+        "summary": "Criciúma e Ceará se enfrentam nesta segunda-feira (15), às 21h (de Brasília), no Estádio Heriberto Hulse, pela 13ª rodada da Série B do Campeonato Brasileiro. O time catarinense chega embalado por duas vitórias consecuti",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HKtHcuEWAAAuwSd-1.webp",
         "date": "14 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "No hotel, Seleção Brasileira faz treino regenerativo após empate em estreia",
-        "link": "https://www.gazetaesportiva.com/times/brasil/no-hotel-selecao-brasileira-faz-treino-regenerativo-apos-empate-em-estreia-na-copa/",
-        "summary": "A Seleção Brasileira voltou ao trabalho neste domingo, após o empate por 1 a 1 com o Marrocos, na estreia da Copa do Mundo de 2026. Sem tempo para descanso, o elenco realizou atividades leves no hotel The Ridge, onde est",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/treino-academia-masculino-140620261.webp",
+        "title": "Londrina x Avaí pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/londrina-avai-serie-b-onde-assistir/",
+        "summary": "Londrina e Avaí se enfrentam nesta segunda-feira (15), às 21h (de Brasília), no Estádio do Café, pela 13ª rodada da Série B do Campeonato Brasileiro. Vivendo momentos difíceis na competição, o Londrina ocupa a 18ª posiçã",
+        "image": null,
         "date": "14 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Dupla do Corinthians se encontra em viagem de férias para a Grécia",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/dupla-do-corinthians-se-encontra-em-viagem-de-ferias-para-a-grecia/",
-        "summary": "Dupla do Corinthians, o goleiro Hugo Souza e o meia Breno Bidon se encontraram durante uma viagem de férias para Mykonos, na Grécia. O post Dupla do Corinthians se encontra em viagem de férias para a Grécia apareceu prim",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-14-at-17.04.04.webp",
+        "title": "Bélgica x Egito pela Copa do Mundo: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/times/belgica/belgica-x-egito-pela-copa-do-mundo-veja-provaveis-escalacoes-e-onde-assistir/",
+        "summary": "Bélgica e Egito se enfrentam nesta segunda-feira, em Seattle, pela estreia do Grupo G da Copa do Mundo de 2026. Enquanto os europeus chegam embalados por bons resultados recentes, os egípcios apostam na liderança nas Eli",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/bel.webp",
         "date": "14 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "SIGA Holanda x Japão e ASSISTA na CazéTV, disponív...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16832266/holanda-x-japao-ao-vivo-siga-tempo-real-jogo-copa-do-mundo",
-        "summary": "Holanda de Memphis Depay estreia na Copa do Mundo contra o Japão, que empolgou nos amistosos preparatórios",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Mais um 7 a 1: Alemanha dá show contra Curaçao em ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16841006/7-a-1-alemanha-da-show-contra-curacao-estreia-copa-do-mundo-12-anos-apos-fatidico-jogo-contra-brasil-mineirao",
-        "summary": "A Alemanha goleou Curaçao por 7 a 1, neste domingo (14), no Houston Stadium, em sua estreia na Copa do Mundo",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Alemanha ultrapassa Brasil em gols em Copas; veja ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16841688/alemanha-ultrapassa-brasil-gols-copa-do-mundo-apos-7-a-1-curacao-veja-numeros",
-        "summary": "null",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Kaká admite Brasil abaixo na estreia, mas usa Arge...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16841663/copa-do-mundo-selecao-brasileira-kaka-admite-brasil-abaixo-estreia-usa-argentina-exemplo-crer-sucesso",
-        "summary": "Pentacampeão mundial em 2002 elogiou Carlo Ancelotti, que foi seu técnico nos tempos de Milan",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que Ancelotti surpreendeu na escalação do Bras...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16840348/por-que-ancelotti-surpreendeu-escalacao-brasil-estreia-copa-qual-mudanca-rendeu-elogio-vini-jr",
-        "summary": "null",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Real Madrid fecha a contratação de Cucurella em ne...",
-        "link": "https://www.espn.com.br/futebol/real-madrid/artigo/_/id/16842378/real-madrid-marc-cucurella-fecha-contratacao-negocio-que-pode-chegar-r-350-milhoes",
-        "summary": "O atleta havia renovado contrato com o Chelsea no ano passado, mas estava disposto à transferências",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -367,119 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Putin envia felicitações de aniversário a Trump, a quem descreve como “brilhante”",
-        "link": "https://www.infomoney.com.br/mundo/putin-envia-felicitacoes-de-aniversario-a-trump-a-quem-descreve-como-brilhante/",
-        "summary": "Líder russo conversou com Trump por telefone ​durante 55 minutos The post Putin envia felicitações de aniversário a Trump, a quem descreve como “brilhante” appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/UKRAINE-DONNYLAND-3.jpg?fit=300%2C222&amp;quality=70&amp;strip=all",
+        "title": "Carne de laboratório: conheça a técnica desenvolvida pela Embrapa",
+        "link": "https://www.infomoney.com.br/brasil/carne-de-laboratorio-conheca-a-tecnica-desenvolvida-pela-embrapa/",
+        "summary": "Experimentos prometem reduzir impactos ambientais da produção animal The post Carne de laboratório: conheça a técnica desenvolvida pela Embrapa appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Embrapa.jpg?fit=300%2C231&amp;quality=70&amp;strip=all",
         "date": "14 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Proibição à IA da Anthropic mostra risco de dependência dos EUA, diz premiê do Canadá",
-        "link": "https://www.infomoney.com.br/mundo/proibicao-a-ia-da-anthropic-mostra-risco-de-dependencia-dos-eua-diz-premie-do-canada/",
-        "summary": "A empresa informou na sexta-feira que cortou o acesso a dois de seus modelos de IA mais recentes, conhecidos como Fable 5 e Mythos 5 The post Proibição à IA da Anthropic mostra risco de dependência dos EUA, diz premiê do",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-27T195043Z_291275250_RC2VLDABXJGC_RTRMADP_3_CANADA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Vice-chanceler do Irã confirma acordo com os EUA",
+        "link": "https://www.infomoney.com.br/mercados/vice-chanceler-do-ira-confirma-acordo-com-os-eua/",
+        "summary": "A conclusão do acordo foi anunciada mais cedo pelo presidente do Paquistão, Shehbaz Sharif The post Vice-chanceler do Irã confirma acordo com os EUA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-11T091004Z_1_LYNXMPEM4A0JF_RTROPTP_4_IRAN-CRISIS-DAILY-LIFE.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "14 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Iraque pede prorrogação de acordo do oleoduto Kirkuk-Ceyhan à Turquia",
-        "link": "https://www.infomoney.com.br/mundo/iraque-pede-prorrogacao-de-acordo-do-oleoduto-kirkuk-ceyhan-a-turquia/",
-        "summary": "Iraque exportou 12 milhões de barris de ​petróleo bruto de seus portos do sul ​desde o início de junho até agora The post Iraque pede prorrogação de acordo do oleoduto Kirkuk-Ceyhan à Turquia appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Futuros de NY sobem e petróleo cai 4% após anúncio de acordo de paz entre EUA e Irã",
+        "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-avancam-e-petroleo-cai-5-apos-anuncio-de-acordo-de-paz-entre-eua-e-ira/",
+        "summary": "Perspectiva de uma redução das tensões geopolíticas impulsionou o apetite por risco dos investidores The post Futuros de NY sobem e petróleo cai 4% após anúncio de acordo de paz entre EUA e Irã appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "14 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Congo informa que número de casos confirmados de Ebola sobe para 782",
-        "link": "https://www.infomoney.com.br/mundo/congo-informa-que-numero-de-casos-confirmados-de-ebola-sobe-para-782/",
-        "summary": "O número representa ‌o ​total de casos confirmados ⁠até ​sábado The post Congo informa que número de casos confirmados de Ebola sobe para 782 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-05T190433Z_1890099708_RC2RFLAK8ZIB_RTRMADP_3_HEALTH-EBOLA-CONGO-DATA.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Armênia: comissão eleitoral confirma vitória do partido do atual primeiro-ministro",
+        "link": "https://www.infomoney.com.br/mundo/armenia-comissao-eleitoral-confirma-vitoria-do-partido-do-atual-primeiro-ministro/",
+        "summary": "A eleição ocorreu no domingo passado e Pashinyan já havia se declarado vencedor na segunda-feira, dia 8 The post Armênia: comissão eleitoral confirma vitória do partido do atual primeiro-ministro appeared first on InfoMo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-06T131237Z_710361950_RC2DOLA2FU8P_RTRMADP_3_ARMENIA-ELECTION-ARRESTS.jpg?fit=300%2C210&amp;quality=70&amp;strip=all",
         "date": "14 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa reage após 8 semanas de queda; fundo chegou ou é repique?",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-reage-apos-8-semanas-de-queda-fundo-chegou-ou-e-repique/",
-        "summary": "Semana tem dólar futuro testando médias, bolsas americanas em busca de retomada e Bitcoin ainda abaixo de regiões decisivas; confira o que esperar dos mercados The post Ibovespa reage após 8 semanas de queda; fundo chego",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Bolsa.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA AOS GOLS: Holanda e Japão empatam em jogo de bom nível",
+        "link": "https://www.infomoney.com.br/esportes/jogo-holanda-japao-copa-2026/",
+        "summary": "O bom futebol visto dos dois lados no AT T Stadium, em Arlington, mostra que o Brasil deve ter trabalho caso passe de fase e cruze o caminho de alguma das duas equipes The post ASSISTA AOS GOLS: Holanda e Japão empatam e",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-14T213002Z_130570451_UP1EM6E1NQ1B5_RTRMADP_3_SOCCER-WORLDCUP-NLD-JPN.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
         "date": "14 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Calendário econômico da semana: decisões de juros serão foco no Brasil e nos EUA",
-        "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-decisoes-de-juros-serao-foco-no-brasil-e-nos-eua/",
-        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: decisões de juros serão foco no Brasil e nos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/442349520.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "EUA e Irã chegam a acordo de paz para reabrir Estreito de Ormuz",
+        "link": "https://www.infomoney.com.br/mundo/eua-e-ira-teriam-fechado-acordo-de-paz-para-encerrar-guerra-diz-premie-do-paquistao/",
+        "summary": "Cerimônia oficial de assinatura do acordo está marcada para sexta-feira, 19 de junho, na Suíça The post EUA e Irã chegam a acordo de paz para reabrir Estreito de Ormuz appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-09T163238Z_1761789918_RC2W7FAUJW2G_RTRMADP_3_USA-IRAN-HORMUZ.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "14 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "UFC na Casa Branca: horário, card completo e onde assistir ao UFC Freedom 250",
+        "link": "https://exame.com/esporte/ufc-na-casa-branca-horario-card-completo-e-onde-assistir-ao-ufc-freedom-250/",
+        "summary": "Evento inédito na residência presidencial dos EUA tem Alex \"Poatan\" Pereira na disputa de cinturão",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Petróleo cai quase 5% após acordo entre Irã e EUA",
+        "link": "https://exame.com/invest/mercados/petroleo-cai-quase-5-no-mercado-futuro-apos-acordo-entre-ira-e-eua/",
+        "summary": "Por volta das 19h, os futuros do petróleo americano caíam 4,8%, a US$ 80,80 o barril, enquanto o Brent, referência internacional, recuava 3,9%",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Acordo entre EUA e Irã: o que se sabe dos termos até agora",
+        "link": "https://exame.com/mundo/acordo-entre-eua-e-ira-o-que-se-sabe-dos-termos-ate-agora/",
+        "summary": "Acordo ainda passará por uma cerimônia formal de assinatura, prevista para a próxima sexta-feira, 19 de junho, na Suíça, e por um período adicional de negociações",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Trump confirma acordo de paz com o Irã e manda reabrir o Estreito de Ormuz",
+        "link": "https://exame.com/mundo/trump-confirma-acordo-de-paz-com-o-ira-e-manda-reabrir-o-estreito-de-ormuz/",
+        "summary": "Presidente americano declara o entendimento \"completo\" e ordena a retirada do bloqueio naval dos EUA; Paquistão, mediador, marca a cerimônia de assinatura para sexta-feira na Suíça",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Como ter sucesso no investimento em startups",
+        "link": "https://exame.com/negocios/como-ter-sucesso-no-investimento-em-startups/",
+        "summary": "Investir em startups exige portfólio, método e diversificação; o retorno vem da estratégia e do acompanhamento consistente",
+        "image": null,
+        "date": "14 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Queda de avião com paraquedistas mata 12 pessoas nos Estados Unidos",
         "link": "https://exame.com/mundo/queda-de-aviao-com-paraquedistas-mata-12-pessoas-nos-estados-unidos/",
         "summary": "Aeronave operada pela empresa Skydive Kansas City caiu logo após decolar perto do Aeroporto Butler Memorial",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Produtor e DJ Lucas Frota está entre os mortos do acidente aéreo no Recreio",
-        "link": "https://exame.com/brasil/produtor-e-dj-lucas-frota-esta-entre-os-mortos-do-acidente-aereo-no-recreio/",
-        "summary": "Produtor carioca, que vivia entre Miami e Los Angeles e acumulava mais de 40 mil seguidores nas redes, está entre as seis vítimas da colisão aérea no Recreio dos Bandeirantes",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "7 a 1 é muito? Copa do Mundo já teve goleadas ainda maiores; saiba quais",
-        "link": "https://exame.com/esporte/7-a-1-e-muito-copa-do-mundo-ja-teve-goleadas-ainda-maiores-saiba-quais/",
-        "summary": "Alemanha goleou Curaçao por 7 a 1 nesta Copa de 2026, mas outras seleções já sofreram derrotas ainda mais pesadas no Mundial",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Com 7 a 1 contra Curaçao, Alemanha tira do Brasil o posto de maior artilheira das Copas",
-        "link": "https://exame.com/esporte/com-a-7-a-1-contra-curacao-alemanha-tira-do-brasil-o-posto-de-maior-artilheira-das-copas/",
-        "summary": "Com os sete gols deste domingo, a seleção alemã chegou a 239 marcados na história do Mundial e deixou o Brasil, com 238, para trás",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem são as seis vítimas de acidente entre helicópteros no RJ",
-        "link": "https://exame.com/brasil/quem-sao-as-seis-vitimas-de-acidente-entre-helicopteros-no-rj/",
-        "summary": "Polícia Civil identifica mortos; entre os pertences encontrados na perícia estavam câmeras fotográficas e filmadoras",
-        "image": null,
-        "date": "14 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Anita Scal | Por que alguns imóveis mudam de destino",
-        "link": "https://exame.com/mercado-imobiliario/anita-scal-por-que-alguns-imoveis-mudam-de-destino/",
-        "summary": "Gestora já realizou 32 vendas, somando R$ 310 milhões em volume, e aposta em locações para redefinir valor dos imóveis",
         "image": null,
         "date": "14 de jun. de 2026",
         "source": "Exame",
