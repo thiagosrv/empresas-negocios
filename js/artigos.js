@@ -217,6 +217,9 @@
     }
   });
 
-  // API pública
-  window.ArtigosLoader = { loadArtigos: loadArtigos };
+  // API pública (expõe _cache para leia-tambem.js reutilizar sem segundo fetch)
+  window.ArtigosLoader = {
+    loadArtigos: loadArtigos,
+    get _cache() { return cache; }
+  };
 })();

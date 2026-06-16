@@ -160,11 +160,22 @@ const IMAGES = {
   default:    'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80',
 };
 
+// Mapa tag → página editorial
+const TAG_PAGE = {
+  brasil:'brasil',tecnologia:'tecnologia',startups:'startups',
+  economia:'novidades',financeiro:'novidades',politica:'novidades',
+  governo:'novidades',negocios:'novidades',futebol:'futebol',
+  esportes:'esportes',servicos:'servicos',sociedade:'sociedade',
+  cultura:'cultura',saude:'saude',industrias:'industrias',
+  campinas:'campinas',mundo:'mundo',
+};
+
 function buildHTML({ title, desc, bodyText, url, isoDate, tag, tagCls }) {
-  const canon = `${SITE_URL}${url}`;
-  const img   = IMAGES[tagCls] || IMAGES.default;
-  const dateF = new Date(isoDate + 'T12:00:00').toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
-  const paras = bodyText
+  const canon  = `${SITE_URL}${url}`;
+  const img    = IMAGES[tagCls] || IMAGES.default;
+  const dateF  = new Date(isoDate + 'T12:00:00').toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+  const pgSlug = TAG_PAGE[tagCls] || TAG_PAGE[(tag || '').toLowerCase()] || 'novidades';
+  const paras  = bodyText
     .split(/\n+/)
     .map(p => p.trim())
     .filter(p => p.length > 20)
@@ -178,6 +189,7 @@ function buildHTML({ title, desc, bodyText, url, isoDate, tag, tagCls }) {
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>${esc(title)} | Empresas &amp; Negócios</title>
 <meta name="description" content="${esc(desc)}">
+<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
 <link rel="canonical" href="${esc(canon)}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="${esc(title)}">
@@ -186,50 +198,81 @@ function buildHTML({ title, desc, bodyText, url, isoDate, tag, tagCls }) {
 <meta property="og:image" content="${esc(img)}">
 <meta property="og:site_name" content="Empresas &amp; Negócios">
 <meta property="og:locale" content="pt_BR">
+<meta property="article:published_time" content="${isoDate}">
+<meta property="article:section" content="${esc(tag)}">
+<meta property="article:tag" content="${esc(tag)}">
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"NewsArticle",
 "headline":"${escJ(title)}","description":"${escJ(desc)}",
 "image":"${img}","datePublished":"${isoDate}","dateModified":"${isoDate}",
-"author":{"@type":"Organization","name":"Redação E&N"},
-"publisher":{"@type":"Organization","name":"Empresas & Negócios","url":"${SITE_URL}"}}
+"author":{"@type":"Organization","name":"Redação Empresas & Negócios","url":"${SITE_URL}"},
+"publisher":{"@type":"Organization","name":"Empresas & Negócios","url":"${SITE_URL}"},
+"mainEntityOfPage":"${canon}","inLanguage":"pt-BR"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Início","item":"${SITE_URL}/"},
+  {"@type":"ListItem","position":2,"name":"${esc(tag)}","item":"${SITE_URL}/pages/${pgSlug}.html"},
+  {"@type":"ListItem","position":3,"name":"${escJ(title)}"}
+]}
 </script>
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/editorial.css">
 </head>
 <body>
 <div id="site-header" style="min-height:98px;background:#000"></div>
-<main class="container editorial-layout" style="padding-top:40px">
+<main class="container editorial-layout" style="padding-top:32px">
   <article class="content-col">
+    <p class="breadcrumb" style="margin-bottom:20px;font-size:13px;color:#888">
+      <a href="../index.html" style="color:#888">Início</a> ›
+      <a href="../pages/${pgSlug}.html" style="color:#888">${esc(tag)}</a> ›
+      <span style="color:#444">${esc(title.slice(0,60))}${title.length>60?'…':''}</span>
+    </p>
     <div style="margin-bottom:24px">
-      <span class="tag ${tagCls}" style="display:inline-block;margin-bottom:8px">${esc(tag)}</span>
-      <h1 style="font-family:var(--ed-font-head,Montserrat,sans-serif);font-size:clamp(24px,4vw,38px);font-weight:800;line-height:1.2;margin:0 0 12px;letter-spacing:-.02em;color:#000">${esc(title)}</h1>
-      <p class="meta"><time datetime="${isoDate}">${dateF}</time><span class="dot"></span><span>Redação E&amp;N</span><span class="dot"></span><span>3 min de leitura</span></p>
+      <span class="tag ${esc(tagCls)}" style="display:inline-block;margin-bottom:10px">${esc(tag)}</span>
+      <h1 style="font-family:var(--ed-font-head,Montserrat,sans-serif);font-size:clamp(24px,4vw,38px);font-weight:800;line-height:1.2;margin:0 0 14px;letter-spacing:-.02em;color:#000">${esc(title)}</h1>
+      <p class="meta" style="margin:0"><time datetime="${isoDate}">${dateF}</time><span class="dot"></span><span>Redação Empresas &amp; Negócios</span><span class="dot"></span><span>3 min de leitura</span></p>
     </div>
     <img src="${esc(img)}" alt="${esc(title)}" width="800" height="450"
-         style="width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;margin-bottom:28px"
+         style="width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:8px;margin-bottom:28px"
          loading="eager" fetchpriority="high">
     ${paras}
-    <section style="margin-top:48px;padding-top:32px;border-top:2px solid #000">
+    <!-- Compartilhar -->
+    <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:40px;padding-top:24px;border-top:1px solid #eee">
+      <span style="font-size:13px;font-weight:700;color:#666">Compartilhar:</span>
+      <a href="https://wa.me/?text=${encodeURIComponent(title + ' ' + canon)}" target="_blank" rel="noopener"
+         style="display:inline-flex;align-items:center;gap:6px;background:#25D366;color:#fff;font-size:13px;font-weight:600;padding:8px 14px;border-radius:4px;text-decoration:none">📱 WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(canon)}" target="_blank" rel="noopener"
+         style="display:inline-flex;align-items:center;gap:6px;background:#000;color:#fff;font-size:13px;font-weight:600;padding:8px 14px;border-radius:4px;text-decoration:none">𝕏 Twitter</a>
+    </div>
+    <!-- Leia também (fundo) — oculto pelo leia-tambem.js se sidebar renderizar -->
+    <section id="art-relacionados-wrap" style="margin-top:48px;padding-top:32px;border-top:2px solid #000">
       <h2 style="font-family:var(--ed-font-head,Montserrat,sans-serif);font-size:20px;font-weight:800;margin-bottom:24px">Leia também</h2>
-      <div id="art-relacionados" data-artigos="4" data-artigos-tagcls="${tagCls}" data-artigos-allow-repeat="true"></div>
+      <div id="art-relacionados" data-artigos="4" data-artigos-tagcls="${esc(tagCls)}" data-artigos-allow-repeat="true"></div>
     </section>
   </article>
   <aside class="sidebar">
-    <div class="sidebar-widget">
-      <h3 class="widget-title">Empresas &amp; Negócios</h3>
-      <p>Notícias e análises sobre negócios, economia e inovação no Brasil.</p>
+    <!-- leia-tambem.js injeta widget aqui automaticamente -->
+    <div class="sidebar-widget" style="background:#f9f9ff;border:1px solid #e8e8e8;padding:20px">
+      <p style="font-family:monospace;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#888;margin-bottom:8px">Empresas &amp; Negócios</p>
+      <p style="font-size:13px;line-height:1.6;color:#555;margin-bottom:14px">Análises e notícias sobre negócios, economia e inovação no Brasil.</p>
+      <a href="../pages/${pgSlug}.html"
+         style="display:inline-block;border:1.5px solid #000;color:#000;font-size:12px;font-weight:700;padding:8px 14px;text-decoration:none;letter-spacing:.04em">
+        Ver mais de ${esc(tag)} →
+      </a>
     </div>
-    <div class="sidebar-widget" style="margin-top:24px">
-      <a href="https://wa.me/5519999115496" target="_blank" rel="noopener"
-         style="display:block;background:#000;color:#fff;padding:14px 20px;text-align:center;font-weight:700;border-radius:4px;text-decoration:none">
-        Publicar artigo no E&amp;N →
+    <div class="sidebar-widget" style="margin-top:16px">
+      <a href="https://wa.me/5519999115496?text=Ol%C3%A1!%20Quero%20publicar%20meu%20artigo%20no%20E%26N." target="_blank" rel="noopener"
+         style="display:block;background:#000;color:#fff;padding:14px 20px;text-align:center;font-weight:700;font-size:13px;text-decoration:none">
+        ✍️ Publicar artigo no E&amp;N →
       </a>
     </div>
   </aside>
 </main>
 <script src="../js/layout.js"></script>
 <script src="../js/artigos.js"></script>
+<script src="../js/leia-tambem.js"></script>
 <script src="../js/main.js"></script>
 </body>
 </html>`;
@@ -293,7 +336,8 @@ async function main() {
     const slug = toSlug(item.title);
     const filename = `${today}-${slug}.html`;
     const fp       = `noticias/${filename}`;
-    const url      = `/noticias/${filename}`;
+    const url      = `noticias/${filename}`;          // sem barra inicial (relativo p/ artigos.json)
+    const canonUrl = `/${url}`;                       // com barra inicial (canonical/og)
 
     if (existsSync(fp)) {
       console.log(`  ↷ Arquivo existe: ${filename}`);
@@ -318,7 +362,7 @@ async function main() {
     const desc = (item.desc || item.title).slice(0, 160);
     const img  = IMAGES[item.tagCls] || IMAGES.default;
 
-    const html = buildHTML({ title: item.title, desc, bodyText, url, isoDate: today, tag: item.tag, tagCls: item.tagCls });
+    const html = buildHTML({ title: item.title, desc, bodyText, url: canonUrl, isoDate: today, tag: item.tag, tagCls: item.tagCls });
     writeFileSync(fp, html, 'utf8');
 
     const id = `auto-${today}-${slug.slice(0, 30)}`;
