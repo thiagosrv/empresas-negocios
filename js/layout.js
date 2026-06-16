@@ -29,9 +29,11 @@
   })();
   // ─────────────────────────────────────────────────────────────────────────────
 
-  var inPages = window.location.pathname.indexOf('/pages/') !== -1;
-  var ROOT    = inPages ? '../' : './';          // raiz do site
-  var P       = inPages ? '' : 'pages/';          // prefixo p/ páginas internas
+  var inPages    = window.location.pathname.indexOf('/pages/')    !== -1;
+  var inNoticias = window.location.pathname.indexOf('/noticias/') !== -1;
+  var ROOT = (inPages || inNoticias) ? '../' : './';
+  // P = prefixo para navegar até /pages/ a partir da pasta atual
+  var P = inPages ? '' : (inNoticias ? '../pages/' : 'pages/');
   var WA       = 'https://wa.me/5519999115496?text=Ol%C3%A1!%20Quero%20publicar%20meu%20artigo%20no%20Empresas%20%26%20Neg%C3%B3cios.';
 
   // Detecta a página atual para marcar o link ativo
