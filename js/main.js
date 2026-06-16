@@ -161,7 +161,7 @@ document.querySelectorAll('img').forEach(img => {
   var path = window.location.pathname + window.location.href;
   var isFacilities = facilitiesPages.some(function (kw) { return path.indexOf(kw) !== -1; });
 
-  var number  = isFacilities ? '5519978210246' : '5519999115496';
+  var number  = isFacilities ? '5519999115496' : '5519999115496';
   var message = isFacilities
     ? 'Olá! Vi o site Empresas & Negócios e gostaria de saber mais sobre portaria e facilities para minha empresa.'
     : 'Olá! Vim pelo site Empresas & Negócios e gostaria de mais informações.';

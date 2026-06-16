@@ -208,7 +208,7 @@ function buildHtml(article, date, imageUrl, fileName) {
     <!-- Compartilhar -->
     <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:40px;align-items:center;">
       <span style="font-size:13px;font-weight:700;color:var(--gray);">Compartilhar:</span>
-      <a href="https://wa.me/5519978210246?text=${encodeURIComponent('Olá! Li esse artigo no Empresas & Negócios e gostaria de saber mais sobre portaria e facilities: ' + canonUrl)}" target="_blank" rel="noopener" style="background:#25D366;color:#fff;padding:8px 16px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none;">📱 Falar no WhatsApp</a>
+      <a href="https://wa.me/5519999115496?text=${encodeURIComponent('Olá! Li esse artigo no Empresas & Negócios e gostaria de saber mais sobre portaria e facilities: ' + canonUrl)}" target="_blank" rel="noopener" style="background:#25D366;color:#fff;padding:8px 16px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none;">📱 Falar no WhatsApp</a>
       <a href="https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(canonUrl)}" target="_blank" rel="noopener" style="background:#0077b5;color:#fff;padding:8px 16px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none;">in LinkedIn</a>
       <a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(canonUrl)}" target="_blank" rel="noopener" style="background:#000;color:#fff;padding:8px 16px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none;">𝕏 Twitter</a>
     </div>
