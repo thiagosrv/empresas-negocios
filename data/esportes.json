@@ -1,40 +1,7 @@
 {
-  "updated": "2026-06-17T21:21:39.570Z",
+  "updated": "2026-06-17T23:50:42.928Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Lesionado, Neymar completa um mês sem entrar em campo",
-      "link": "https://www.gazetaesportiva.com/times/brasil/lesionado-neymar-completa-um-mes-sem-entrar-em-campo/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de jun. de 2026",
-      "isoDate": "2026-06-17",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Casemiro, o homem de confiança de Ancelotti que está sob pressão",
-      "link": "https://www.gazetaesportiva.com/times/brasil/casemiro-criticado-estreia-copa-2026-futuro-mls/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de jun. de 2026",
-      "isoDate": "2026-06-17",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Neymar treina com o elenco e passa por trote na Seleção",
-      "link": "https://www.gazetaesportiva.com/times/brasil/neymar-treina-com-o-elenco-e-passa-por-trote-na-selecao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de jun. de 2026",
-      "isoDate": "2026-06-17",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
     {
       "title": "Carlos Alberto Parreira, ex-técnico da Seleção Brasileira, é internado no Rio",
       "link": "https://www.gazetaesportiva.com/times/brasil/carlos-alberto-parreira-ex-tecnico-da-selecao-brasileira-e-internado-no-rio/",
@@ -44,7 +11,7 @@
       "isoDate": "2026-06-17",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja fotos do penúltimo treino da Seleção antes do jogo contra Haiti pela Copa",
@@ -55,7 +22,7 @@
       "isoDate": "2026-06-17",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Danilo revela susto com estreia da Seleção na Copa e vê vagas em aberto no time titular",
@@ -66,7 +33,7 @@
       "isoDate": "2026-06-17",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Danilo se impressiona com Endrick nos treinos da Seleção e revela conselho: &#8220;Joia rara&#8221;",
@@ -77,11 +44,44 @@
       "isoDate": "2026-06-17",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Neymar recebe batismo e treina junto com a Seleção Brasileira",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/neymar-recebe-batismo-e-treina-junto-com-a-selecao-brasileira/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de jun. de 2026",
+      "isoDate": "2026-06-17",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Danilo elogia Endrick e crê em protagonismo do atacante na Copa do Mundo",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/danilo-elogia-endrick-e-cre-em-protagonismo-do-atacante-na-copa-do-mundo/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de jun. de 2026",
+      "isoDate": "2026-06-17",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Presidente Lula brinca sobre &#8220;contratar&#8221; Messi para jogar na Seleção",
+      "link": "https://www.gazetaesportiva.com/times/brasil/presidente-lula-brinca-sobre-contratar-messi-para-jogar-na-selecao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de jun. de 2026",
+      "isoDate": "2026-06-17",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Paulo Sérgio projeta aproveitamento de Neymar e confia: &#8220;Vai mostrar algo diferente&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/paulo-sergio-projeta-aproveitamento-de-neymar-e-confia-vai-mostrar-algo-diferente/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "17 de jun. de 2026",
