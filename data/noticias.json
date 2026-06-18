@@ -1,12 +1,42 @@
 {
-  "updated": "2026-06-18T20:31:12.396Z",
+  "updated": "2026-06-18T22:57:54.193Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Justiça anula cassação de ex-vereador de Mogi Mirim após denúncia de racismo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/18/justica-anula-cassacao-de-ex-vereador-de-mogi-mirim-apos-denuncia-de-racismo.ghtml",
+        "summary": "Tiago Cesar Costa, ex-vereador de Mogi Mirim. Reprodução/EPTV A Justiça de Mogi Mirim (SP) anulou a cassação do mandato do ex-vereador Tiago Cesar Costa, decretada pela Câmara Municipal em dezembro de 2023, após denúncia",
+        "image": "https://s2-g1.glbimg.com/RABWJuzIIR0DxcG76JamJKTYO74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/wwEn6uSpmBfV7anAiUtA/tiago-cesar-costa-ex-vereador-mogi-mirim.png",
+        "date": "18 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ex-prefeito de Paulínia é preso em condomínio no Guarujá",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/18/pm-prende-ex-prefeito-de-paulinia-em-condominio-no-guaruja.ghtml",
+        "summary": "Ex-prefeito de Paulínia é preso pela PM em condomínio no Guarujá A Polícia Militar prendeu, neste quinta-feira (18), o ex-prefeito de Paulínia (SP) Edson Moura, em um condomínio no Guarujá. A corporação cumpriu mandado d",
+        "image": "https://s2-g1.glbimg.com/b5PzYAsn7Bh7KPhCvGeWqsLOMvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/W/j5fFdTTPaz7oK6RBpsvQ/edson-moura.png",
+        "date": "18 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vídeo mostra queda de galho que fez jovem perder movimentos em praça de Curitiba",
+        "link": "https://g1.globo.com/pr/parana/noticia/2026/06/18/video-queda-de-galho-praca-curitiba.ghtml",
+        "summary": "Vídeo mostra queda de galho que fez jovem perder movimentos em praça de Curitiba Uma câmera de segurança registrou a queda de um galho em cima de Ana Beatriz Stubinski, de 22 anos, na Praça Osório, em Curitiba. Assista a",
+        "image": "https://s2-g1.glbimg.com/MWdvKrN15pb6pRRTPQfxvlOfUcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/n/zS7eWlSeAFdTbsk4eNsQ/snapshot-6.jpg",
+        "date": "18 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Relógio de R$ 28 mil: MP descarta furto em Viracopos e encaminha caso de influenciadora para Recife",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/18/relogio-de-r-28-mil-mp-descarta-furto-em-viracopos-e-encaminha-caso-de-influenciadora-para-recife.ghtml",
+        "summary": "Polícia Civil investiga desaparecimento de relógio de luxo após inspeção no Aeroporto de Viracopos Reprodução/Redes sociais O Ministério Público de São Paulo (MP-SP) aceitou o relatório da Polícia Civil que descarta o fu",
+        "image": "https://s2-g1.glbimg.com/JHF9Qkb25pZhQiGkNDP3meVJMY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/GoR5jHTpylcA3RVundBA/relogio-influenciadora.png",
         "date": "18 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -33,99 +63,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Mercúrio é encontrado em penas de urubu-de-cabeça-vermelha na Amazônia",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/18/mercurio-e-encontrado-em-penas-de-urubu-de-cabeca-vermelha-na-amazonia.ghtml",
-        "summary": "Mercúrio é encontrado em penas de urubu-de-cabeça-vermelha na Amazônia Nailson de Andrade Neri Júnior Um dos contaminantes mais preocupantes para a saúde ambiental e humana, o mercúrio foi detectado em todas as amostras ",
-        "image": "https://s2-g1.glbimg.com/jjEjREuQH_3CKtP2LtxP_RF_kOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/S/1dXyT0RQSipOiM7BK7iw/imagens-para-materia-38-.jpg",
-        "date": "18 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dois meses após queda de forro, Pedreira prevê reforma do CAPS em até 90 dias",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/18/dois-meses-apos-queda-de-forro-pedreira-preve-reforma-do-caps-em-ate-90-dias.ghtml",
-        "summary": "População relata problemas na infraestrutura de unidade do CAPS em Pedreira Dois meses após parte do forro do Centro de Atenção Psicossocial (CAPS) de Pedreira (SP) cair, a prefeitura informou que a reforma da unidade de",
-        "image": "https://s2-g1.glbimg.com/jIp5FkVWlHko7VFdG7xc6CvQNYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/0/l0BrpySFusXL3BUvNLgQ/caps.png",
-        "date": "18 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com hospitais de Campinas superlotados, Estado diz que 100 novos leitos estão em 'tratativas finais'",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/18/com-hospitais-de-campinas-superlotados-estado-diz-que-100-novos-leitos-estao-em-tratativas-finais.ghtml",
-        "summary": "Campinas segue com hospitais públicos lotados e sem leitos prometidos pelo SUS O pronto-socorro adulto do Hospital da PUC-Campinas operou com 370% de superlotação na manhã desta quinta-feira (18), um dia após registrar c",
-        "image": "https://s2-g1.glbimg.com/vJb3Rd42tvR9IIgN8xeaYam3txs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/6/YWSbLvRBu8dPLkfDTyYA/eptv1-1806-imas-puc-cp004abt-2026-06-18-11-19-19.mxf-snapshot-01.10.371.jpg",
-        "date": "18 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Portal Princesa Tecelã recebe Feira Ameriart neste domingo",
-        "link": "https://jornalamericanense.com.br/cultura/portal-princesa-tecela-recebe-feira-ameriart-neste-domingo/",
-        "summary": "A Feira de Artesanato Ameriart será realizada neste domingo (21), das 10h às 16h, no Portal Princesa Tecelã, na Avenida Antônio Pinto Duarte, entrada de Americana, com a exposição e comercialização de produtos feitos à m",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Lua volta a se aproximar de Vênus e espetáculo poderá ser visto novamente em Americana nesta quinta",
-        "link": "https://jornalamericanense.com.br/cidades/lua-volta-a-se-aproximar-de-venus-e-espetaculo-podera-ser-visto-novamente-em-americana-nesta-quinta/",
-        "summary": "Quem perdeu o espetáculo astronômico da noite de quarta-feira (17) terá uma nova chance nesta quinta-feira (18). A Lua crescente voltará a aparecer próxima dos planetas Vênus, Júpiter e Mercúrio logo após o pôr do sol, f",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Obras do novo Banco de Sangue do HM avançam com início da infraestrutura elétrica e hidráulica",
-        "link": "https://jornalamericanense.com.br/saude/obras-do-novo-banco-de-sangue-do-hm-avancam-com-inicio-da-infraestrutura-eletrica-e-hidraulica/",
-        "summary": "As obras de construção do novo Banco de Sangue do Hospital Municipal Dr. Waldemar Tebaldi, em Americana, avançam esta semana em diversas frentes. Os trabalhos incluem serviços de demolição interna, delimitação de espaços",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "De casas aquecidas a dietas especiais: Zoo Americana adequa estrutura dos animais para o inverno",
-        "link": "https://jornalamericanense.com.br/cidades/de-casas-aquecidas-a-dietas-especiais-zoo-americana-adequa-estrutura-dos-animais-para-o-inverno/",
-        "summary": "Com a chegada do inverno, que começa oficialmente neste domingo (21), a rotina no Parque Ecológico Municipal “Engenheiro Cid Almeida Franco” – Zoo Americana é adequada em resposta à queda de temperatura. Os cuidados de i",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Nova frente fria avança e deve derrubar temperaturas em Americana no fim de semana",
-        "link": "https://jornalamericanense.com.br/cidades/nova-frente-fria-avanca-e-deve-derrubar-temperaturas-em-americana-no-fim-de-semana/",
-        "summary": "Depois de uma semana marcada por manhãs geladas e muita neblina em várias cidades do interior paulista, uma nova frente fria deve atingir o estado de São Paulo nos próximos dias, mantendo o clima típico de inverno e prov",
-        "image": null,
-        "date": "17 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Com Paralamas, CPM 22 e Raimundos, RockDay Americana divulga line-up completo",
-        "link": "https://jornalamericanense.com.br/cultura/com-paralamas-cpm-22-e-raimundos-rockday-americana-divulga-line-up-completo/",
-        "summary": "O RockDay Americana, que acontece nos dias 3 e 4 de julho no Parque de Eventos do Clube dos Cavaleiros de Americana (CCA), divulgou a programação completa de 2026, que terá as bandas Paralamas do Sucesso, CPM 22 e Raimun",
-        "image": null,
-        "date": "17 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Brasil e Quênia defendem parcerias com China em meio a críticas do G7",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-e-quenia-defendem-parcerias-com-china-em-meio-criticas-do-g7",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-e-quenia-defendem-parcerias-com-china-em-meio-criticas-do-g7 img src= https://cdn.jsdelivr.net/gh/sergios",
+        "title": "STF decide anular absolvição do acusado de estuprar Mariana Ferrer",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-decide-anular-absolvicao-do-acusado-de-estuprar-mariana-ferrer",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-decide-anular-absolvicao-do-acusado-de-estuprar-mariana-ferrer img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +73,9 @@
         "cls": "brasil"
       },
       {
-        "title": "África do Sul sofre gol aos 6 min, reage e empata com República Tcheca",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/africa-do-sul-sofre-gol-aos-6-min-reage-e-empata-com-republica-tcheca",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/africa-do-sul-sofre-gol-aos-6-min-reage-e-empata-com-republica-tcheca img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Fenômeno de planetas alinhados com a Lua pode ser observado a olho nu",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/fenomeno-de-planetas-alinhados-com-lua-pode-ser-observado-olho-nu",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/fenomeno-de-planetas-alinhados-com-lua-pode-ser-observado-olho-nu img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +83,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Fujimori se aproxima da presidência do Peru e Sánchez convoca protesto",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/fujimori-se-aproxima-da-presidencia-do-peru-e-sanchez-convoca-protesto",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/fujimori-se-aproxima-da-presidencia-do-peru-e-sanchez-convoca-protesto img src= https://cdn.jsdelivr.net/gh/serg",
+        "title": "Programa de atenção domiciliar amplia cuidado aos idosos no país",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/programa-de-atencao-domiciliar-amplia-cuidado-aos-idosos-no-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/programa-de-atencao-domiciliar-amplia-cuidado-aos-idosos-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +93,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Marcola e Deolane viram réus por lavagem de dinheiro do PCC",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/marcola-e-deolane-viram-reus-por-lavagem-de-dinheiro-do-pcc",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/marcola-e-deolane-viram-reus-por-lavagem-de-dinheiro-do-pcc img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "title": "Apuração da PF acusa Jaques Wagner de receber vantagens; senador nega",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +103,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Gilmar Mendes propõe súmula para conter pautas-bomba no Congresso",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/gilmar-mendes-propoe-sumula-para-conter-pautas-bomba-no-congresso",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/gilmar-mendes-propoe-sumula-para-conter-pautas-bomba-no-congresso img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Brasil sentiu menos o aumento do petróleo que outros países, diz Ineep",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +113,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Brasil garante seleções da ginástica artística no Mundial da Holanda",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/brasil-garante-selecoes-da-ginastica-artistica-no-mundial-da-holanda",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/brasil-garante-selecoes-da-ginastica-artistica-no-mundial-da-holanda img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Cruzeiro feminino chega a sete desfalques pela mesma lesão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cruzeiro-feminino-chega-sete-desfalques-pela-mesma-lesao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cruzeiro-feminino-chega-sete-desfalques-pela-mesma-lesao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Agência Brasil",
@@ -185,127 +125,77 @@
     ],
     "esportes": [
       {
-        "title": "Zverev confirma favoritismo contra Hanfmann e vai às quartas do ATP 500 de Halle",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-confirma-favoritismo-contra-hanfmann-e-vai-as-quartas-do-atp-500-de-halle/",
-        "summary": "Zverev avançou às quartas de final do ATP 500 de Halle ao vencer Hanfmann em sets diretos e agora enfrentará o belga Collignon. Cabeça de chave do torneio, ele busca seu primeiro título na grama e mostrou força no saque.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7JT3DP__v1__HighRes__TennisAtpTour2026HalleOpen.webp",
+        "title": "Veja fotos de Canadá x Catar pela 2ª rodada do Grupo B da Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-de-canada-x-catar-pela-2a-rodada-do-grupo-b-da-copa-do-mundo/",
+        "summary": "Veja fotos de Canadá x Catar pela 2ª rodada do Grupo B da Copa do Mundo, no BC Place, em Vancouver (Canadá). O post Veja fotos de Canadá x Catar pela 2ª rodada do Grupo B da Copa do Mundo apareceu primeiro em Gazeta Espo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__2282267656__v1__MidRes__CanadaVQatarGroupBFifaWorldCup2026.webp",
         "date": "18 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Número 2 do mundo, Elena Rybakina cai na estreia no WTA 500 de Berlim",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/numero-2-do-mundo-elena-rybakina-cai-na-estreia-no-wta-500-de-berlim/",
-        "summary": "A número 2 do mundo, Elena Rybakina, foi eliminada logo na estreia do WTA 500 de Berlim após derrota para a filipina Alexandra Eala. A jovem de 21 anos venceu em sets diretos e avançou às quartas de final, onde enfrentar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/01/AFP__20260129__94F44TN__v1__HighRes__TennisAusOpen.webp",
+        "title": "Fifa muda posicionamento de fotógrafos na Copa após reclamação de Tuchel",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/tuchel-critica-fifa-fotografos-copa-do-mundo-2026/",
+        "summary": "O técnico da Inglaterra, Thomas Tuchel, criticou a organização da Fifa após ser cercado por fotógrafos durante a execução dos hinos antes da estreia na Copa do Mundo de 2026. O alemão afirmou que o momento especial foi p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260617__2282094580__v1__MidRes__EnglandVCroatiaGroupLFifaWorldCup2026.webp",
         "date": "18 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo faz treino técnico e dá sequência à intertemporada",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-faz-treino-tecnico-e-da-sequencia-a-intertemporada/",
-        "summary": "Confira detalhes do treino do São Paulo realizado nesta quinta-feira, no SuperCT. O post São Paulo faz treino técnico e dá sequência à intertemporada apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/img_8041-jpg-1229x1536-1.webp",
+        "title": "Nelsinho Piquet busca recuperação no TCR, mas admite: Bem difícil",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/nelsinho-piquet-busca-recuperacao-no-tcr-mas-admite-bem-dificil/",
+        "summary": "O post Nelsinho Piquet busca recuperação no TCR, mas admite: Bem difícil apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/nelsinho.webp",
         "date": "18 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do treino do São Paulo nesta quinta-feira",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-quinta-feira-9/",
-        "summary": "Confira uma galeria de fotos do treino do São Paulo realizado nesta quinta-feira. O post Veja fotos do treino do São Paulo nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HLHTnmvXcAEFAnv.webp",
+        "title": "São Paulo libera cinco jogadores; veja quem são",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-libera-cinco-jogadores-veja-quem-sao/",
+        "summary": "O São Paulo pretende liberar cinco jogadores do elenco. O goleiro Young, o lateral direito Cédric Soares, o zagueiro Matheus Belém, o volante Luan e o atacante Paulinho foram comunicados de que não fazem parte dos planos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/03/55047501797_0e24b0c3ed_o-1.webp",
         "date": "18 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasil finaliza preparação para duelo contra o Haiti",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/brasil-finaliza-preparacao-para-duelo-contra-o-haiti/",
-        "summary": "O último treino da Seleção Brasileira antes de enfrentar o Haiti combinou ajustes finais e comemoração de aniversário para Gabriel Martinelli. O post Brasil finaliza preparação para duelo contra o Haiti apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Brasil-finaliza-p.webp",
+        "title": "Chivu renova contrato como treinador da Inter de Milão até 2028",
+        "link": "https://www.gazetaesportiva.com/times/internazionale/chivu-renova-contrato-como-treinador-da-inter-de-milao-ate-2028/",
+        "summary": "A Inter de Milão renovou o contrato do técnico Cristian Chivu após uma temporada de sucesso, na qual conquistou o Campeonato Italiano e a Copa da Itália. O treinador romeno, que assumiu a equipe há um ano, teve seu víncu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260503__A9P34PZ__v1__HighRes__FblItaSerieaInterParma.webp",
         "date": "18 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Robinson projeta uma Austrália defensiva contra o Estados Unidos",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/robinson-projeta-uma-australia-defensiva-contra-o-estados-unidos/",
-        "summary": "Antonee Robinson espera uma postura retrancada da Austrália, próxima adversária dos EUA, após analisar a vitória dos australianos sobre a Turquia. O post Robinson projeta uma Austrália defensiva contra o Estados Unidos a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Australia-defensiva-contra-o-Estados-Unidos.webp",
+        "title": "Tottenham anuncia contratação de zagueiro da seleção holandesa",
+        "link": "https://www.gazetaesportiva.com/times/tottenham/tottenham-anuncia-contratacao-de-zagueiro-da-selecao-holandesa/",
+        "summary": "O Tottenham anunciou a contratação do zagueiro holandês Jan Paul van Hecke, ex-Brighton, por cerca de 52 milhões de libras. Aos 26 anos, o defensor reencontrará o técnico Roberto De Zerbi nos Spurs, reforçando um setor d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/imago1078530797.jpg.webp",
         "date": "18 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Neymar nem viaja e será desfalque em Brasil x Hait...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16864057/brasil-x-haiti-neymar-nao-viaja-desfalque-partida-copa-do-mundo",
-        "summary": "informação foi divulgada pela CBF nesta quinta-feira (18)",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Escalação: Ancelotti amplia observações, mas indic...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16863265/brasil-x-haiti-escalacao-selecao-brasileira-ancelotti-amplia-observacoes-indica-poucas-mudancas",
-        "summary": "null",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "AO VIVO: siga Suíça x Bósnia e ASSISTA na CazéTV, ...",
-        "link": "https://www.espn.com.br/futebol/partida/_/jogoId/760439/bosnia-e-herzegovina-suica",
-        "summary": "Seleções estreiam na segunda rodada da Copa do Mundo",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Jogos da Copa hoje: horários e onde assistir às pa...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16858197/jogos-copa-do-mundo-hoje-horarios-onde-assistir-partidas-quinta-feira-18-junho",
-        "summary": "México e Canadá, anfritriões da Copa do Mundo, voltam a campo pela segunda rodada",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "França fecha 1ª rodada como favorita ao título na ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16863891/franca-fecha-rodada-favorita-titulo-copa-brasil-nao-pega-top-5-veja-probabilidades",
-        "summary": "Inglaterra e Argentina estão na cola dos franceses no ranking",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Meia que se emocionou no hino 'salva' África do Su...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16865334/copa-do-mundo-meia-emocionou-hino-salva-africa-do-sul-garante-empate-republica-tcheca",
-        "summary": "Seleções se enfrentaram pela segunda rodada do grupo A da Copa do Mundo",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Brasil sentiu menos o aumento do petróleo que outros países, diz Ineep",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "18 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Receita paga lote especial de restituição automática em julho",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/receita-paga-lote-especial-de-restituicao-automatica-em-julho",
@@ -357,79 +247,69 @@
         "cls": ""
       },
       {
-        "title": "Regras sobre combustível sustentável de aviação devem sair em breve",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/regras-sobre-combustivel-sustentavel-de-aviacao-devem-sair-em-breve",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/regras-sobre-combustivel-sustentavel-de-aviacao-devem-sair-em-breve img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "17 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Relator da PEC do BC, senador da oposição diz que Jaques não tratou de Emenda Master",
-        "link": "https://www.infomoney.com.br/mercados/relator-da-pec-do-bc-senador-da-oposicao-diz-que-jaques-nao-tratou-de-emenda-master/",
-        "summary": "Wagner foi alvo, nesta quinta-feira (18) de busca e apreensão pela Polícia Federal, na nona fase da operação Compliance Zero, que investiga irregularidades no caso Master The post Relator da PEC do BC, senador da oposiçã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/jaques-wagner_fe7ba1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Com quantos pontos dá para chegar ao mata-mata da Copa? Supercomputador responde",
+        "link": "https://www.infomoney.com.br/esportes/com-quantos-pontos-da-para-chegar-ao-mata-mata-da-copa-supercomputador-responde/",
+        "summary": "Supercomputador Opta Analyst, referência mundial em estatísticas e parceira do Estadão, fez uma previsão da pontuação necessária para avançar ao mata-mata do mundial The post Com quantos pontos dá para chegar ao mata-mat",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Suica-x-Bosnia.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Gilmar Mendes libera análise de processos trabalhistas sobre pejotização",
-        "link": "https://www.infomoney.com.br/politica/gilmar-mendes-libera-analise-de-processos-trabalhistas-sobre-pejotizacao/",
-        "summary": "Decano entendeu que suspensão dos processos, determinada em abril do ano passado, gerou \"significativo represamento\" nos casos que ainda estavam sob instrução ou pendentes de julgamento The post Gilmar Mendes libera anál",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Gilmar-Mendes_12.06.2024-Andressa-Anholete-scaled-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Startups: QuintoAndar vai investir R$ 2B para colocar IA no centro do produto",
+        "link": "https://www.infomoney.com.br/business/startups-quintoandar-vai-investir-r-2b-para-colocar-ia-no-centro-do-produto/",
+        "summary": "Empresa quer usar IA para aprimorar os assistentes virtuais para acompanhar o cliente desde a busca até o fechamento do negócio The post Startups: QuintoAndar vai investir R$ 2B para colocar IA no centro do produto appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/QuintoAndar.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "18 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Israel publica mapa de operação no Líbano e sinaliza manutenção de tropas",
-        "link": "https://www.infomoney.com.br/mundo/israel-publica-mapa-de-operacao-no-libano-e-sinaliza-manutencao-de-tropas/",
-        "summary": "Segundo fontes ouvidas pela Reuters, negociações com os EUA seguem travadas apesar da pressão por cessar-fogo imediato The post Israel publica mapa de operação no Líbano e sinaliza manutenção de tropas appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-18-172542.png?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "title": "BC amplia abertura de contas em moeda estrangeira para empresas",
+        "link": "https://www.infomoney.com.br/economia/bc-amplia-abertura-de-contas-em-moeda-estrangeira-para-empresas/",
+        "summary": "Medida entra em vigor em outubro e busca modernizar o mercado de câmbio, reduzir custos e dar mais eficiência a operações internacionais The post BC amplia abertura de contas em moeda estrangeira para empresas appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Gols de Haaland na Copa “abalaram” a Noruega, diz instituto de sismologia",
-        "link": "https://www.infomoney.com.br/esportes/gols-de-haaland-na-copa-abalaram-a-noruega-diz-instituto-de-sismologia/",
-        "summary": "Órgão registrou sinais sísmicos em Bergen durante a vitória por 4 a 1 sobre o Iraque e atribuiu vibrações à reação dos torcedores The post Gols de Haaland na Copa “abalaram” a Noruega, diz instituto de sismologia appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-16T225328Z_1131998764_UP1EM6G1QNSH8_RTRMADP_3_SOCCER-WORLDCUP-IRQ-NOR.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir México x Coreia do Sul?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-mexico-coreia-do-sul/",
+        "summary": "Os países chegam de vitória na estreia do campeonato mundial da Fifa The post Onde assistir México x Coreia do Sul? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-mexico-x-coreia-do-sul.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "18 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Jaques Wagner diz acreditar que Lula o manterá no cargo apesar de investigação",
-        "link": "https://www.infomoney.com.br/politica/jaques-wagner-diz-acreditar-que-lula-o-mantera-no-cargo-apesar-de-investigacao/",
-        "summary": "Senador foi alvo de mandado de busca e apreensão nesta quinta-feira, no âmbito da Operação Compliance Zero, que apura os desdobramentos do caso Master The post Jaques Wagner diz acreditar que Lula o manterá no cargo apes",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/jaques-e-Lula.webp?fit=300%2C241&amp;quality=70&amp;strip=all",
+        "title": "Após IPO, SpaceX encara teste do mercado para bancar ambição trilionária em IA",
+        "link": "https://www.infomoney.com.br/mercados/apos-ipo-spacex-encara-teste-do-mercado-para-bancar-ambicao-trilionaria-em-ia/",
+        "summary": "Planos de data centers em órbita e expansão da IA podem exigir investimentos de mais de US$ 700 bilhões por ano até 2031 The post Após IPO, SpaceX encara teste do mercado para bancar ambição trilionária em IA appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458773550-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Petróleo brent cai abaixo de US$ 80 após acordo Irã-EUA e atenção a estreito de Ormuz",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-18062026/",
-        "summary": "O fim das tensões e a reabertura de Ormuz abrem caminho para retomar a produção de milhões de barris de petróleo The post Petróleo brent cai abaixo de US$ 80 após acordo Irã-EUA e atenção a estreito de Ormuz appeared fir",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451259399.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Imagem do ano? Tampa de tanque voa após explosão em refinaria de Moscou em ataque",
+        "link": "https://www.infomoney.com.br/mundo/imagem-do-ano-tampa-de-tanque-voa-apos-explosao-em-refinaria-de-moscou-em-ataque/",
+        "summary": "Vídeos mostram cobertura metálica sendo lançada ao ar após impacto em instalação de combustível; Rússia fala em uma das maiores ofensivas contra a capital em mais de dois anos The post Imagem do ano? Tampa de tanque voa ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-18T140750Z_57141894_RC29WLAQ6UCS_RTRMADP_3_UKRAINE-CRISIS-ATTACKS-1-e1781819470407.jpg?fit=164%2C300&amp;quality=70&amp;strip=all",
         "date": "18 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Adidas fecha parceria com Brawl Stars em aposta nas gerações Z e Alpha",
-        "link": "https://exame.com/marketing/adidas-fecha-parceria-com-brawl-stars-em-aposta-nas-geracoes-z-e-alpha/",
-        "summary": "Colaboração é a primeira do game com uma marca de vestuário, e conta com produtos exclusivos e ativações físicas e digitais",
+        "title": "Remédio dos anos 1940 revela sistema secreto dos rins",
+        "link": "https://exame.com/ciencia/remedio-dos-anos-1940-revela-sistema-secreto-dos-rins/",
+        "summary": "A descoberta foi feita de forma acidental e pode abrir caminho para tratamentos melhores para doenças renais",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
@@ -437,9 +317,9 @@
         "cls": "startups"
       },
       {
-        "title": "A doença mais temida da história é ainda mais antiga do que você pensa",
-        "link": "https://exame.com/ciencia/a-doenca-mais-temida-da-historia-e-ainda-mais-antiga-do-que-voce-pensa/",
-        "summary": "A Peste Negra já matava pessoas muito antes do surgimento das primeiras cidades, da agricultura em larga escala ou dos ratos associados às epidemias históricas",
+        "title": "Conferência de Bonn termina com ataques à ciência, adaptação sem acordo e vazio da COP31",
+        "link": "https://exame.com/esg/conferencia-de-bonn-termina-com-ataques-a-ciencia-adaptacao-sem-acordo-e-vazio-da-cop31/",
+        "summary": "Batalha geopolítica entre países ricos e em desenvolvimento pela narrativa científica foi a maior surpresa: \"Recuamos 30 anos\", destacou coordenador do Observatório do Clima à EXAME",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
@@ -447,9 +327,9 @@
         "cls": "startups"
       },
       {
-        "title": "Messi supera Mbappé e lidera ranking de desempenho da Copa",
-        "link": "https://exame.com/esporte/messi-supera-mbappe-e-lidera-ranking-de-desempenho-da-copa/",
-        "summary": "Fifa divulga avaliação dos jogadores após a rodada inaugural; Vinicius Junior é o brasileiro mais bem colocado no ataque",
+        "title": "Vôlei feminino: quando é o próximo jogo do Brasil na VNL 2026? Veja calendário",
+        "link": "https://exame.com/esporte/volei-feminino-quando-e-o-proximo-jogo-do-brasil-na-vnl-2026-veja-calendario/",
+        "summary": "Após manter a invencibilidade em uma partida disputada no tie-break na Turquia, a equipe comandada por José Roberto Guimarães se prepara para o próximo desafio na Liga das Nações",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
@@ -457,9 +337,9 @@
         "cls": "startups"
       },
       {
-        "title": "Corpo humano pode ter poder oculto de regeneração, diz estudo",
-        "link": "https://exame.com/ciencia/corpo-humano-pode-ter-poder-oculto-de-regeneracao-diz-estudo/",
-        "summary": "Usando um tratamento em duas etapas com fatores de crescimento já conhecidos, pesquisadores conseguiram induzir a regeneração de ossos, articulações, ligamentos e tendões",
+        "title": "BC Place Vancouver: conheça o estádio da Copa do Mundo 2026 no Canadá",
+        "link": "https://exame.com/esporte/bc-place-vancouver-conheca-o-estadio-da-copa-do-mundo-2026-no-canada/",
+        "summary": "Arena de Vancouver recebe nesta quinta-feira, 18, o segundo jogo da seleção canadense no Mundial; estádio será palco de sete partidas",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
@@ -467,9 +347,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fã de suspense? Veja onde maratonar as adaptações de Harlan Coben",
-        "link": "https://exame.com/pop/fa-de-suspense-veja-onde-maratonar-as-adaptacoes-de-harlan-coben/",
-        "summary": "Autor de alguns dos thrillers mais populares do mundo, Harlan Coben tem diversas obras adaptadas para a televisão em diferentes países",
+        "title": "Tom Holland, que faz 'Homem-Aranha', diz que emoções humanas mantêm artistas 'salvos' da IA",
+        "link": "https://exame.com/pop/tom-holland-que-faz-homem-aranha-diz-que-emocoes-humanas-mantem-artistas-salvos-da-ia/",
+        "summary": "Ator afirmou que a criatividade está ligada às emoções e experiências humanas, algo que a tecnologia ainda não consegue reproduzir",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
@@ -477,9 +357,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ataque, criação e defesa: os melhores da Copa do Mundo até agora",
-        "link": "https://exame.com/esporte/ataque-criacao-e-defesa-os-melhores-da-copa-do-mundo-ate-agora/",
-        "summary": "Vinicius Junior aparece em nono lugar entre os melhores jogadores de ataque; Fifa adotou novo sistema baseado em dados de desempenho",
+        "title": "Copa do Mundo: como ficou a classificação do Grupo A após o jogo de hoje",
+        "link": "https://exame.com/esporte/copa-do-mundo-como-ficou-a-classificacao-do-grupo-a-apos-o-jogo-de-hoje/",
+        "summary": "Na última rodada, o México encara a Chéquia, enquanto a Coreia do Sul vai pegar a África do Sul.",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
