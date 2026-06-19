@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T01:48:27.394Z",
+  "updated": "2026-06-19T07:13:15.648Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Rio entra em alerta para ressaca e ondas de até 2,5 metros",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/rio-entra-em-alerta-para-ressaca-e-ondas-de-ate-25-metros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/rio-entra-em-alerta-para-ressaca-e-ondas-de-ate-25-metros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Conferência de Bonn tem avanços limitados e impasses para COP31",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/conferencia-de-bonn-tem-avancos-limitados-e-impasses-para-cop31",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/conferencia-de-bonn-tem-avancos-limitados-e-impasses-para-cop31 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja os resultados dos jogos de quinta-feira (18) na Copa",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/veja-os-resultados-dos-jogos-de-quinta-feira-18-na-copa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/veja-os-resultados-dos-jogos-de-quinta-feira-18-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Ancelotti admite mudanças contra Haiti e desconversa sobre Endrick",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-admite-mudancas-contra-haiti-e-desconversa-sobre-endrick",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-admite-mudancas-contra-haiti-e-desconversa-sobre-endrick img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "STF mantém condenações dos cinco acusados pela morte de Marielle",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-mantem-condenacoes-dos-cinco-acusados-pela-morte-de-marielle",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-mantem-condenacoes-dos-cinco-acusados-pela-morte-de-marielle img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Plataformas passam a exigir autorização para remunerar menores",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/plataformas-passam-exigir-autorizacao-para-remunerar-menores",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/plataformas-passam-exigir-autorizacao-para-remunerar-menores img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "PGR se manifesta contra suspensão da Lei da Dosimetria",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Muitos adorariam estar no nosso lugar , diz técnico do Haiti antes de enfrentar o Brasil",
+        "link": "https://www.gazetaesportiva.com/times/haiti/muitos-adorariam-estar-no-nosso-lugar-diz-tecnico-do-haiti-antes-de-enfrentar-o-brasil/",
+        "summary": "O técnico do Haiti, Sébastien Migné, destacou a importância de deixar o povo orgulhoso antes do duelo contra o Brasil pela Copa do Mundo de 2026. Após atuação consistente na estreia, apesar da derrota para a Escócia, a s",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260614__B6Z96G6__v1__MidRes__FblWc2026Match05HaiSco.webp",
+        "date": "19 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Montella questiona caos de críticas à Turquia antes do jogo contra o Paraguai",
+        "link": "https://www.gazetaesportiva.com/times/turquia/montella-pede-respeito-turquia-criticas-copa-do-mundo-2026/",
+        "summary": "O técnico da Turquia, Vincenzo Montella, pediu respeito ao elenco após as críticas sofridas pela derrota na estreia da Copa do Mundo de 2026. O treinador destacou o histórico recente da equipe e demonstrou confiança para",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260615__2281625547__v1__MidRes__AustraliaVTurkiyeGroupDFifaWorldCup2026.webp",
+        "date": "19 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "México bate Coreia do Sul e garante ida à segunda fase da Copa como líder",
+        "link": "https://www.gazetaesportiva.com/times/mexico/mexico-x-coreia-do-sul-copa-2026-grupo-a/",
+        "summary": "O México confirmou sua classificação antecipada para os 16 avos de final da Copa do Mundo 2026 ao vencer a Coreia do Sul por 1 a 0 no Estádio Akron, em Guadalajara. Com o resultado, os anfitriões chegaram a seis pontos e",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__B7LE9XM__v1__HighRes__FblWc2026Match28MexKor.webp",
+        "date": "19 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Sport toma empate nos acréscimos do Atlético-GO e perde chance de liderar Série B",
+        "link": "https://www.gazetaesportiva.com/times/sport/sport-toma-empate-nos-acrescimos-do-atletico-go-e-perde-chance-de-liderar-serie-b/",
+        "summary": "Sport e Atlético-GO empataram por 1 a 1 na Ilha do Retiro, pela 14ª rodada da Série B do Campeonato Brasileiro. O Leão abriu o placar com Perotti, mas sofreu o empate nos acréscimos. Com o resultado, o time pernambucano ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55343817496_74b8db249b_k.webp",
+        "date": "19 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "No Z4 do Brasileirão, Vasco demite Renato Gaúcho",
+        "link": "https://www.gazetaesportiva.com/times/vasco/no-z4-do-brasileirao-vasco-demite-renato-gaucho/",
+        "summary": "O Vasco da Gama anunciou a demissão do técnico Renato Gaúcho após cerca de três meses de trabalho, em decisão tomada em comum acordo durante a pausa das competições para a Copa do Mundo. Em sua terceira passagem pelo clu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55275762638_9c42afa329_o.webp",
+        "date": "19 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Veja fotos do jogo entre México e Coreia do Sul pela Copa do Mundo",
         "link": "https://www.gazetaesportiva.com/times/mexico/veja-fotos-do-jogo-entre-mexico-e-coreia-do-sul-pela-copa-do-mundo/",
         "summary": "Veja uma galeria de fotos do duelo entre México e Coreia do Sul pela segunda rodada do Grupo A da Copa do Mundo, nesta quinta-feira. O post Veja fotos do jogo entre México e Coreia do Sul pela Copa do Mundo apareceu prim",
         "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__B7LD3HN__v1__MidRes__FblWc2026Match28MexKor.webp",
-        "date": "19 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Andreas Pereira, Bruno Fuchs e Jefté participam de desafio de pontaria",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/andrea-pereira-bruno-fuchs-e-jefte-participam-de-desafio-de-pontaria/",
-        "summary": "Confira o desafio Faz teu golaço Sportingbet com Andreas Pereira, Bruno Fuchs, Jefté e Aranha; as imagens deste episódio foram gravadas com os atletas em março de 2026. O post Andreas Pereira, Bruno Fuchs e Jefté partici",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/tyt2kuo0-1920.webp",
-        "date": "19 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Turquia x Paraguai pela Copa do Mundo: veja prováveis escalações e onde assistir",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/turquia-x-paraguai-pela-copa-do-mundo-veja-provaveis-escalacoes-e-onde-assistir/",
-        "summary": "Turquia e Paraguai se enfrentam neste sábado pela segunda rodada do Grupo D da Copa do Mundo de 2026. As duas seleções chegam pressionadas após derrotas na estreia e buscam a primeira vitória na competição para seguir co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260613__B6XR3QW__v1__MidRes__FblWc2026Match04UsaPar.webp",
-        "date": "19 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cucurella revela como aconteceu a investida do Real Madrid de Mourinho",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/cucurella-revela-como-aconteceu-a-investida-do-real-madrid-de-mourinho/",
-        "summary": "Marc Cucurella revelou como decidiu se transferir para o Real Madrid enquanto estava concentrado com a seleção espanhola durante a disputa da Copa do Mundo. O post Cucurella revela como aconteceu a investida do Real Madr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/9qr3lrs1-1920.webp",
-        "date": "19 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos da preparação da Argentina para enfrentar a Áustria na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/argentina/veja-fotos-da-preparacao-da-argentina-para-enfrentar-a-austria-na-copa-do-mundo/",
-        "summary": "O post Veja fotos da preparação da Argentina para enfrentar a Áustria na Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7L84HA__v1__MidRes__FblWc2026TrainingArg.webp",
-        "date": "19 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Messi participa de treino da Argentina para enfrentar a Áustria pela Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/argentina/messi-participa-de-treino-da-argentina-para-enfrentar-a-austria-pela-copa-do-mundo/",
-        "summary": "Lionel Messi participou do treino da seleção argentina mesmo após notícias sobre o estado de saúde de seu pai, Jorge Messi. A família confirmou que ele enfrenta um problema de saúde, mas apresenta evolução positiva. O cr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7L84J9__v1__MidRes__FblWc2026TrainingArg.webp",
         "date": "19 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,6 +367,46 @@
         "cls": "brasil"
       },
       {
+        "title": "Homem enterrado em forno de 4,5 mil anos intriga arqueólogos na Alemanha",
+        "link": "https://exame.com/ciencia/homem-enterrado-em-forno-de-45-mil-anos-intriga-arqueologos-na-alemanha/",
+        "summary": "Ferimento no crânio e local incomum do enterro desafiam explicações sobre práticas da pré-história europeia",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Saiba por que a Holanda usa a cor laranja em seu uniforme",
+        "link": "https://exame.com/esporte/saiba-por-que-a-holanda-usa-a-cor-laranja-em-seu-uniforme/",
+        "summary": "Os holandeses têm um dos uniformes mais marcantes entre as seleções, mas, o laranja não está representado na bandeira do país",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja os 5 jogos imperdíveis da segunda rodada da Copa do Mundo de 2026",
+        "link": "https://exame.com/esporte/veja-os-5-jogos-imperdiveis-da-segunda-rodada-da-copa-do-mundo-de-2026/",
+        "summary": "Confrontos podem definir os primeiros classificados às oitavas de final e prometem reunir algumas das principais estrelas do torneio",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Raphael Claus é escalado para Espanha x Arábia Saudita na Copa do Mundo",
+        "link": "https://exame.com/esporte/raphael-claus-e-escalado-para-espanha-x-arabia-saudita-na-copa-do-mundo/",
+        "summary": "Brasileiro se junta a Wilton Pereira Sampaio e Ramon Abatti Abel entre os árbitros que já trabalharam no torneio",
+        "image": null,
+        "date": "18 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Chegada do El Niño acende alerta em seguradoras",
         "link": "https://exame.com/esferabrasil/chegada-do-el-nino-acende-alerta-em-seguradoras/",
         "summary": "Evento climático pode ter consequências catastróficas em todo o País",
@@ -380,46 +420,6 @@
         "title": "Jogador do Canadá quebra a perna em partida contra o Catar",
         "link": "https://exame.com/esporte/jogador-do-canada-quebra-a-perna-em-partida-contra-o-catar/",
         "summary": "Koné foi retirado de maca e acenou para os torcedores",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Enfileiramento de planetas e da Lua pode ser visto no céu até sexta-feira",
-        "link": "https://exame.com/ciencia/enfileiramento-de-planetas-e-da-lua-pode-ser-visto-no-ceu-ate-sexta-feira/",
-        "summary": "Segundo o Observatório Nacional, configuração é mais rara que alinhamentos planetários comuns",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ancelotti fará mudanças no Brasil para jogo contra Haiti e fala sobre Endrick: 'É paciente'",
-        "link": "https://exame.com/esporte/ancelotti-fara-mudancas-no-brasil-para-jogo-contra-haiti-e-fala-sobre-endrick-e-paciente/",
-        "summary": "Técnico da Seleção Brasileira comparou características de alguns atacantes e destacou a maturidade do jovem jogador do Real Madrid",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Onda de frio já tem data para chegar e pode baixar temperatura em até 10 graus",
-        "link": "https://exame.com/brasil/onda-de-frio-ja-tem-data-para-chegar-e-pode-baixar-temperatura-em-ate-10-graus/",
-        "summary": "Apesar de o inverno começar oficialmente no domingo, a quinta-feira já apresentou características típicas da estação",
-        "image": null,
-        "date": "18 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PGR é contra suspensão imediata da Lei da Dosimetria que beneficia Bolsonaro",
-        "link": "https://exame.com/brasil/pgr-e-contra-suspensao-imediata-da-lei-da-dosimetria-que-beneficia-bolsonaro/",
-        "summary": "Ao STF, o procurador não considerou ilegalidades evidentes na tramitação da norma e afirmou que Congresso tem liberdade para alterar regras penais e de execução",
         "image": null,
         "date": "18 de jun. de 2026",
         "source": "Exame",
