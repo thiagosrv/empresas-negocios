@@ -1,12 +1,22 @@
 {
-  "updated": "2026-06-19T22:08:13.763Z",
+  "updated": "2026-06-20T00:13:36.627Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "FOTOS: torcida se reúne em Campinas para acompanhar Brasil x Haiti",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/19/fotos-torcida-se-reune-em-campinas-para-acompanhar-brasil-x-haiti.ghtml",
+        "summary": "Torcedores se reúnem em Campinas (SP) para acompanhar ao jogo do Brasil contra o Haiti, pela 2ª rodada da Copa 2026, em telão na Arautos da Paz, na noite desta sexta-feira (19) Gabriela Troian/EPTV Torcedores de Campinas",
+        "image": "https://s2-g1.glbimg.com/jsccr_Ljoz6OG1RDeHonqKfiBQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/tSXbLIRciwMwHcSrC59A/whatsapp-image-2026-06-19-at-20.43.47.jpeg",
+        "date": "20 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Criminosos abrem buraco na parede e furtam comércio em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/19/criminosos-abrem-buraco-parede-furtam-comercio-campinas.ghtml",
+        "summary": "Criminosos abrem buraco na parede e furtam comércio em Campinas Criminosos abriram um buraco na parede para conseguirem invadir e furtar um estabelecimento comercial na Vila Itapura, em Campinas (SP), na madrugada desta ",
+        "image": "https://s2-g1.glbimg.com/QbmJbkxDpr0QLAGk4IcGZBGtja8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/j/3l81ANRa6LnLeNjdkmDg/copia-de-1200px-x-900px-1-.jpg",
         "date": "19 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/19/homem-e-preso-apos-agredir-ex-companheira-e-atear-fogo-em-casa-em-americana.ghtml",
         "summary": "Foto de arquivo da Delegacia de Americana Reprodução/EPTV Um homem de 33 anos foi preso em flagrante por violência doméstica após agredir a ex-companheira e atear fogo no imóvel dela, no Jardim dos Lírios, em Americana (",
         "image": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg",
-        "date": "19 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Engavetamento bloqueia trecho da Rodovia dos Bandeirantes em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/19/engavetamento-bloqueia-trecho-da-rodovia-dos-bandeirantes-em-campinas.ghtml",
-        "summary": "Engavetamento bloqueia trecho da Rodovia dos Bandeirantes em Campinas Um engavetamento envolvendo três carretas, dois veículos de passeio e dois veículos utilitários provocou a interdição de trecho da pista no sentido ca",
-        "image": "https://s2-g1.glbimg.com/GAaMp9W_C8rU3TEH5hRaV3DdzCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/EQVZCsSEa4pqWjSYc1Ew/whatsapp-image-2026-06-19-at-14.05.31.jpeg",
         "date": "19 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,7 +123,47 @@
         "cls": "servicos"
       },
       {
-        "title": "Estados Unidos bate a Austrália e fica perto da classificação",
+        "title": "Cinco brasileiros avançam às oitavas da etapa de Saquarema da WSL",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cinco-brasileiros-avancam-oitavas-da-etapa-de-saquarema-da-wsl",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cinco-brasileiros-avancam-oitavas-da-etapa-de-saquarema-da-wsl img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quadro de saúde de Raoni é grave, mas estável, diz Hospital São Paulo",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/quadro-de-saude-de-raoni-e-grave-mas-estavel-diz-hospital-sao-paulo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/quadro-de-saude-de-raoni-e-grave-mas-estavel-diz-hospital-sao-paulo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Cármen Lúcia: Judiciário deve buscar credibilidade, não popularidade",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/carmen-lucia-judiciario-deve-buscar-credibilidade-nao-popularidade",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/carmen-lucia-judiciario-deve-buscar-credibilidade-nao-popularidade img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Moraes autoriza depoimento de Bolsonaro sobre arma apreendida pela PM",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/moraes-autoriza-depoimento-de-bolsonaro-sobre-arma-apreendida-pela-pm",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/moraes-autoriza-depoimento-de-bolsonaro-sobre-arma-apreendida-pela-pm img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "19 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Estados Unidos batem a Austrália e ficam perto da classificação",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-batem-australia-e-ficam-perto-da-classificacao-para-o-mata-mata",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/eua-batem-australia-e-ficam-perto-da-classificacao-para-o-mata-mata img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
@@ -141,107 +181,127 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Envolvido em tiroteio na campanha eleitoral de 2022 é preso na Bolívia",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/envolvido-em-tiroteio-na-campanha-eleitoral-de-2022-e-preso-na-bolivia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/envolvido-em-tiroteio-na-campanha-eleitoral-de-2022-e-preso-na-bolivia img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "19 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "BID anuncia US$ 5,8 bi para a Aliança Global contra a Fome e a Pobreza",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/bid-anuncia-us-58-bi-para-alianca-global-contra-fome-e-pobreza",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/bid-anuncia-us-58-bi-para-alianca-global-contra-fome-e-pobreza img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "19 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mendes vota para manter íntegra da invalidação do marco temporal",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/mendes-vota-para-manter-integra-da-invalidacao-do-marco-temporal",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/mendes-vota-para-manter-integra-da-invalidacao-do-marco-temporal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "19 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Alta demanda faz SUS ampliar teleatendimento a jogadores compulsivos",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/alta-demanda-faz-sus-ampliar-teleatendimento-jogadores-compulsivos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/alta-demanda-faz-sus-ampliar-teleatendimento-jogadores-compulsivos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "19 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "São Paulo segue rotina de treinos após retorno dos trabalhos",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-segue-rotina-de-treinos-apos-retorno-dos-trabalhos/",
-        "summary": "Tricolor Paulista terá o Campeonato Brasileiro e CONMEBOL Sudamericana como foco neste segundo semestre da temporada. O post São Paulo segue rotina de treinos após retorno dos trabalhos apareceu primeiro em Gazeta Esport",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55345577069_09d1d34641_o.webp",
+        "title": "Argentina avalia mudanças para garantir classificação contra a Áustria",
+        "link": "https://www.gazetaesportiva.com/times/argentina/argentina-avalia-mudancas-para-garantir-classificacao-contra-a-austria/",
+        "summary": "A Argentina treinou em Kansas City visando o duelo contra a Áustria, pela segunda rodada da Copa do Mundo, em que pode garantir a classificação no Grupo J. O clima foi mais tranquilo após a família de Lionel Messi inform",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__B7NM993__v1__HighRes__FblWc2026TrainingArg.webp",
+        "date": "20 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Com gol relâmpago, Marrocos vence Escócia e assume a ponta do grupo do Brasil na Copa",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/com-gol-relampago-marrocos-vence-escocia-e-assume-a-ponta-do-grupo-do-brasil-na-copa/",
+        "summary": "O Marrocos derrotou a Escócia por 1 a 0 nesta sexta-feira, no Gillette Stadium, em Boston, pela segunda rodada do Grupo C da Copa do Mundo. O único gol da partida foi marcado por Ismael Saibairi logo no primeiro minuto d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__2282408849__v1__MidRes__ScotlandVMoroccoGroupCFifaWorldCup2026.webp",
         "date": "19 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do treino do São Paulo nesta sexta-feira",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-sexta-feira-15/",
-        "summary": "O post Veja fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55345358551_f125d55141_o-1.webp",
+        "title": "Kane destaca momento com torcida após vitória da Inglaterra na Copa",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/kane-destaca-momento-com-torcida-apos-vitoria-da-inglaterra-na-copa/",
+        "summary": "Harry Kane destacou a emoção vivida após a vitória da Inglaterra sobre a Croácia na estreia da Copa do Mundo de 2026. O atacante celebrou o momento em que jogadores e torcedores cantaram “Wonderwall” juntos, classificand",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260617__B7G3237__v2__MidRes__TopshotFblWc2026Match22EngCro.webp",
         "date": "19 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com avaliações físicas, São Paulo dá sequência à intertemporada",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/com-avaliacoes-fisicas-sao-paulo-da-sequencia-a-intertemporada/",
-        "summary": "O elenco do São Paulo treinou em dois períodos nesta sexta-feira, marcando o terceiro dia da intertemporada voltada ao segundo semestre de 2026. Pela manhã, os atletas passaram por avaliações físicas, enquanto à tarde re",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55345515958_8be7cb7e50_o-1.webp",
+        "title": "Brasil terá duas mudanças para duelo com Haiti pela Copa do Mundo; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/brasil/brasil-tera-duas-mudancas-para-duelo-com-haiti-pela-copa-do-mundo-veja-escalacoes/",
+        "summary": "O Brasil está definido para enfrentar o Haiti nesta sexta-feira pela Copa do Mundo, com duas mudanças promovidas por Carlo Ancelotti após o empate com Marrocos: Danilo e Matheus Cunha entram nos lugares de Ibañez e Igor ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__2282415082__v1__HighRes__BrazilVHaitiGroupCFifaWorldCup2026.webp",
         "date": "19 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians quita dívida com o Talleres pela contratação de Garro",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-quita-divida-com-o-talleres-pela-contratacao-de-garro/",
-        "summary": "O Corinthians informou, por meio de nota divulgada nesta sexta-feira, que enfim quitou a dívida com o Talleres pela contratação de Garro. Saiba detalhes. O post Corinthians quita dívida com o Talleres pela contratação de",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/1781903621c22ad2b09a726d564cd5666c93e080ac.webp",
+        "title": "Alemanha x Costa do Marfim: veja prováveis escalações e onde assistir ao duelo pela Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/alemanha-x-costa-do-marfim-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-copa-do-mundo/",
+        "summary": "Alemanha e Costa do Marfim se enfrentam neste sábado pela segunda rodada do Grupo E da Copa do Mundo de 2026. Embalada por goleada na estreia, a seleção alemã busca manter o bom momento, enquanto os africanos chegam conf",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260614__B72N49E__v1__MidRes__FblWc2026Match10GerCuw.webp",
         "date": "19 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Juiz de EUA x Austrália sente dores e recebe atendimento durante jogo da Copa",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/juiz-de-eua-x-australia-sente-dores-e-recebe-atendimento-durante-jogo-da-copa/",
-        "summary": "Durante a partida entre Estados Unidos e Austrália, válida pela segunda rodada do Grupo D da Copa do Mundo, o árbitro Felix Zwayer precisou receber atendimento médico no gramado do Lumen Field, em Seattle. O incidente ac",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__2282404920__v1__MidRes__UsaVAustraliaGroupDFifaWorldCup2026222.webp",
+        "title": "Palmeiras x América-MG: saiba onde assistir ao jogo do Brasileiro sub-20",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-america-mg-saiba-onde-assistir-ao-brasileiro-sub-20/",
+        "summary": "Saiba onde assistir ao duelo entre Palmeiras e América-MG, agendado para este sábado, pela 17ª rodada do Campeonato Brasileiro sub-20. O post Palmeiras x América-MG: saiba onde assistir ao jogo do Brasileiro sub-20 apare",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/FTM-4326.webp",
         "date": "19 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Koné passa por cirurgia e está fora da Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/canada/kone-passa-por-cirurgia-e-esta-fora-da-copa-do-mundo/",
-        "summary": "O Canadá confirmou que o meio-campista Ismaël Koné está fora da Copa do Mundo após sofrer uma grave fratura na perna esquerda durante a goleada por 6 a 0 sobre o Catar. O jogador passou por cirurgia com sucesso e tem exp",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__2282271924__v1__MidRes__CanadaVQatarGroupBFifaWorldCup2026.webp",
+        "title": "AO VIVO: siga TUDO do pré-jogo de Brasil x Haiti e...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16865230/brasil-x-haiti-ao-vivo-siga-tempo-real-jogo-copa-do-mundo",
+        "summary": "Seleção Brasileira busca primeira vitória na Copa contra Haiti, nesta sexta-feira (19)",
+        "image": null,
+        "date": "20 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "AO VIVO: siga Escócia x Marrocos e ASSISTA na Cazé...",
+        "link": "https://www.espn.com.br/futebol/partida/_/jogoId/760445",
+        "summary": "Times se enfrentam em partida válida pelo grupo do Brasil",
+        "image": null,
+        "date": "20 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Por que Guardiola foi a Escócia x Marrocos na Copa...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16871925/copa-do-mundo-pep-guardiola-por-que-foi-a-escocia-x-marrocos",
+        "summary": "O treinador, que acabou de deixar o Manchester City, foi flagrado pela transmissão oficial do jogo",
+        "image": null,
+        "date": "20 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Estados Unidos vencem Austrália mesmo sem 'LeBron ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16871348/copa-do-mundo-estados-unidos-vencem-australia-mesmo-sem-lebron-james-futebol-avanca-mata-mata-copa-do-mundo",
+        "summary": "Duelo foi válido pela segunda rodada do grupo D da Copa do Mundo",
+        "image": null,
+        "date": "20 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Ibrahimovic ousa e diz que EUA podem ser campeões ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16871837/copa-do-mundo-zlatan-ibrahimovic-diz-estados-unidos-podem-ser-campeoes-comecem-a-acreditar",
+        "summary": "Ex-jogador disse que o torcedor norte-americano pode acreditar até no título",
+        "image": null,
+        "date": "20 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Yamal admite que temeu perder a Copa por lesão e v...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16870828/yamal-admite-temeu-perder-copa-lesao-vangloria-messi-idolo-neymar-melhor-historia-nao-existe-discussao",
+        "summary": "null",
+        "image": null,
         "date": "19 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,6 +367,16 @@
         "cls": ""
       },
       {
+        "title": "Nada é perfeito: Gramado inovador causa estranheza a jogadores da Copa do Mundo",
+        "link": "https://www.infomoney.com.br/esportes/nada-e-perfeito-gramado-inovador-causa-estranheza-a-jogadores-da-copa-do-mundo/",
+        "summary": "Para alguns, algumas áreas parecem descoloridas, com a região em frente ao gol um pouco irregular The post Nada é perfeito: Gramado inovador causa estranheza a jogadores da Copa do Mundo appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-19T162644Z_31288359_RC29TLAK8H2M_RTRMADP_3_SOCCER-WORLDCUP-PHOTODAILY-ONE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "20 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "De Minas para o mundo: a empresa que fatura R$ 500 mi e vai fazer IPO na Espanha",
         "link": "https://www.infomoney.com.br/business/de-minas-para-o-mundo-a-empresa-que-fatura-r-500-mi-e-vai-fazer-ipo-na-espanha/",
         "summary": "Empresa mineira de food service quer ampliar presença global e competir em “bases internacionais” The post De Minas para o mundo: a empresa que fatura R$ 500 mi e vai fazer IPO na Espanha appeared first on InfoMoney.",
@@ -357,19 +427,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Peixinho Swimbappe, oráculo de Toronto na Copa, prevê vitória do Haiti contra Brasil",
-        "link": "https://www.infomoney.com.br/esportes/peixinho-swimbappe-oraculo-de-toronto-na-copa-preve-vitoria-do-haiti-contra-brasil/",
-        "summary": "Nome do peixe é homenagem ao capitão da França, Kylian Mbappé, e já acertou 14 previsões no torneio, errando apenas quatro; hoje, ele nadou para a direita, indicando vitória do Haiti The post Peixinho Swimbappe, oráculo ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Peixinho-Swimbappe-oraculo-da-Copa.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Sem plano da Fifa, Copa do Mundo é ameaçada por incêndios na Califórnia",
-        "link": "https://exame.com/esg/sem-plano-da-fifa-copa-do-mundo-enfrenta-ameaca-de-incendios-na-california/",
-        "summary": "Condições críticas prevalecem nos EUA nos próximos dias quando acontecem quatro partidas nas cidades de Los Angeles e San Francisco e não há nenhum protocolo de qualidade do ar",
+        "title": "Brasil x Haiti: veja a escalação confirmada da seleção haitiana para o jogo hoje",
+        "link": "https://exame.com/esporte/brasil-x-haiti-veja-a-escalacao-confirmada-da-selecao-haitiana-para-o-jogo-hoje/",
+        "summary": "Seleção haitiana mantém a base da estreia e aposta em Pierrot e Bellegarde para enfrentar o Brasil pela Copa do Mundo de 2026",
         "image": null,
         "date": "19 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "O CLT virou proposta. E o jovem está dizendo não",
-        "link": "https://exame.com/carreira/o-clt-virou-proposta-e-o-jovem-esta-dizendo-nao/",
-        "summary": "A nova geração não rejeita carteira assinada. Rejeita proposta sem futuro, sem desenvolvimento e sem sentido",
+        "title": "Brasil x Haiti: veja a escalação confirmada da Seleção na Copa do Mundo",
+        "link": "https://exame.com/esporte/brasil-x-haiti-veja-a-escalacao-confirmada-da-selecao-na-copa-do-mundo/",
+        "summary": "Sem Endrick, Carlo Ancelotti aposta em Raphinha, Vini Jr. e Matheus Cunha no ataque brasileiro para o duelo desta sexta-feira pela Copa do Mundo",
         "image": null,
         "date": "19 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Duas mães e duas filhas levam do Recife ao país uma franquia de 'fast beauty' que mira R$ 30 mi",
-        "link": "https://exame.com/negocios/duas-maes-e-duas-filhas-levam-do-recife-ao-pais-uma-franquia-de-fast-beauty-que-mira-r-30-mi/",
-        "summary": "Com 17 salões de beleza abertos e cinco em implantação, o Bessie Beauty Club combina serviços simultâneos, produtos próprios e expansão por franqueados",
+        "title": "Quem é Danilo, defensor que virou referência da Seleção Brasileira na Copa 2026",
+        "link": "https://exame.com/esporte/quem-e-danilo-lider-da-selecao-brasileira-na-copa-do-mundo-de-2026/",
+        "summary": "Experiente e versátil, jogador do Flamengo disputa seu terceiro Mundial e é uma das referências do elenco brasileiro",
         "image": null,
         "date": "19 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Azzas 2154 contrata Morgan Stanley para avaliar venda da Farm",
-        "link": "https://exame.com/negocios/azzas-2154-contrata-morgan-stanley-para-avaliar-venda-da-farm/",
-        "summary": "Grupo confirma contratação do banco americano para estudar venda da Farm Rio a grupos internacionais, mas afirma que ainda não há proposta formal. A operação internacional já corresponde a 40% do faturamento da marca car",
+        "title": "Brasil x Haiti: Seleção vai entrar em campo com camisa azul de marca que causou polêmica",
+        "link": "https://exame.com/esporte/brasil-x-haiti-selecao-vai-entrar-em-campo-com-camisa-azul-de-marca-que-causou-polemica/",
+        "summary": "A marca Jordan, ligada ao ex-jogador do Chicago Bulls, é uma subsidiária da própria Nike",
         "image": null,
         "date": "19 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "De Koné a Neymar: relembre as lesões que chocaram a Copa do Mundo",
-        "link": "https://exame.com/esporte/de-kone-a-neymar-relembre-as-lesoes-que-chocaram-a-copa-do-mundo/",
-        "summary": "A grave fratura de Ismaël Koné contra o Catar reacendeu lembranças de lesões que marcaram a história dos Mundiais",
+        "title": "Marrocos x Escócia: Saibari faz o gol mais rápido da Copa do Mundo até agora",
+        "link": "https://exame.com/esporte/marrocos-x-escocia-saibari-faz-o-gol-mais-rapido-da-copa-do-mundo-ate-agora/",
+        "summary": "Autor do gol contra o Brasil na estreia, Saibari marcou aos 69 segundos diante da Escócia e bateu o recorde da Copa do Mundo de 2026",
         "image": null,
         "date": "19 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Qual vai ser o placar de Brasil x Haiti hoje? ChatGPT aposta em 3 a 0",
-        "link": "https://exame.com/esporte/qual-vai-ser-o-placar-de-brasil-x-haiti-hoje-chatgpt-aposta-em-3-a-0/",
-        "summary": "Estudo da deeptech Ranqia analisou, em junho de 2026, como o sistema de IA responde à pergunta sobre o placar",
+        "title": "Moraes autoriza depoimento de Jair Bolsonaro à Polícia Civil por arma apreendida",
+        "link": "https://exame.com/brasil/moraes-autoriza-depoimento-de-jair-bolsonaro-a-policia-civil-por-arma-apreendida/",
+        "summary": "Depoimento ocorrerá na próxima terça-feira, 23, no endereço onde Bolsonaro cumpre prisão domiciliar",
         "image": null,
         "date": "19 de jun. de 2026",
         "source": "Exame",
