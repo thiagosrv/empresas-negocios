@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-21T11:49:40.246Z",
+  "updated": "2026-06-21T14:20:49.067Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Incêndio destrói moradias em comunidade de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/21/incendio-destroi-moradias-em-comunidade-de-campinas.ghtml",
+        "summary": "Incêndio atinge comunidade em Campinas Arquivo pessoal Um incêndio de grandes proporções destruiu ao menos sete moradias na região do Parque Shalon, em Campinas, neste domingo (21). De acordo com a Defesa Civil, ninguém ",
+        "image": "https://s2-g1.glbimg.com/tT4LzJr9uXCdrlRVlGE6H2RTPMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/U/vUofJtRKyBPXkO3c4IwQ/design-sem-nome-17-.png",
+        "date": "21 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Tuiuti volta às urnas neste domingo após impugnação da chapa eleita em 2024",
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2024/noticia/2026/06/20/tuiuti-volta-as-urnas-neste-domingo-apos-impugnacao-da-chapa-eleita-em-2024.ghtml",
@@ -53,19 +63,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Dívida recorde de R$ 10,8 bi na região de Campinas afeta saúde mental e produtividade no trabalho, apontam especialistas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/20/divida-recorde-de-r-108-bi-na-regiao-de-campinas-afeta-saude-mental-e-produtividade-no-trabalho-apontam-especialistas.ghtml",
-        "summary": "Endividamento supera R$ 10 bilhões na Região Metropolitana de Campinas A Região Metropolitana de Campinas (SP) atingiu um recorde de R$ 10,8 bilhões em dívidas em atraso, segundo dados da Serasa. O valor representa uma m",
-        "image": "https://s2-g1.glbimg.com/Dth21ZOoIFM1Z0ZYXMhJEJu-MFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/Zbu3fHT8WSVU55aHKYMw/dividas.png",
-        "date": "20 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Inverno começa neste domingo no Brasil e terá impacto do El Niño",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/-inverno-comeca-neste-domingo-no-brasil-e-tera-impacto-do-el-nino",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/-inverno-comeca-neste-domingo-no-brasil-e-tera-impacto-do-el-nino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Masp oferece bolsas para programa de ensino artístico-cultural",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/masp-oferece-bolsas-para-programa-de-ensino-artistico-cultural",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/masp-oferece-bolsas-para-programa-de-ensino-artistico-cultural img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Agência Brasil",
@@ -73,9 +73,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Alemanha vira sobre a Costa do Marfim e garante vaga na próxima fase",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/alemanha-vira-sobre-costa-do-marfim-e-garante-vaga-na-proxima-fase",
-        "summary": "p Depois do título mundial em 2014, a Alemanha ainda não tinha pisado na fase eliminatória de uma Copa do Mundo. No entanto, neste sábado (20), essa escrita caiu. img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1694",
+        "title": "Vozinha e Cabo Verde voltam aos gramados contra o Uruguai",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/vozinha-e-cabo-verde-voltam-aos-gramados-contra-o-uruguai",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/vozinha-e-cabo-verde-voltam-aos-gramados-contra-o-uruguai img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Agência Brasil",
@@ -83,47 +83,87 @@
         "cls": "brasil"
       },
       {
-        "title": "Raphinha tem lesão na coxa constatada; prazo para retorno é incerto",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/raphinha-tem-lesao-na-coxa-constatada-prazo-para-retorno-e-incerto",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/raphinha-tem-lesao-na-coxa-constatada-prazo-para-retorno-e-incerto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "Aposta do Rio de Janeiro ganha prêmio de R$ 39,4 milhões da Mega-Sena",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/aposta-do-rio-de-janeiro-ganha-premio-de-r-394-milhoes-da-mega-sena",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/aposta-do-rio-de-janeiro-ganha-premio-de-r-394-milhoes-da-mega-sena img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
-        "date": "20 de jun. de 2026",
+        "date": "21 de jun. de 2026",
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Com 4 surfistas, Brasil segue na briga pela etapa de Saquarema",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/com-4-surfistas-brasil-segue-na-briga-pela-etapa-de-saquarema",
-        "summary": "p strong O segundo dia de disputas na praia de Itaúna, em Saquarema, reduziu a 12 (oito homens e quatro mulheres) o número de surfistas ainda na briga pelo título da etapa brasileira da WSL (Liga Mundial de Surfe), a sex",
+        "title": "Museu Nacional lança exposições inéditas em comemoração aos 208 anos",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/museu-nacional-lanca-exposicoes-ineditas-em-comemoracao-aos-208-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/museu-nacional-lanca-exposicoes-ineditas-em-comemoracao-aos-208-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
-        "date": "20 de jun. de 2026",
+        "date": "21 de jun. de 2026",
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Dia Mundial do Refugiado: pedidos de asilo sobem 11% no Brasil em 2025",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/dia-mundial-do-refugiado-pedidos-de-asilo-sobem-11-no-brasil-em-2025",
-        "summary": "p strong Dados da Agência da Organização das Nações Unidas (ONU) para Refugiados (Acnur) apontam que os pedidos de asilo no Brasil aumentaram 11% em 2025 /strong . A agência também avalia que houve avanço nas políticas n",
+        "title": "Colômbia vai às urnas neste domingo eleger presidente para 2026-2030",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/colombia-vai-urnas-neste-domingo-eleger-presidente-para-2026-2030",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/colombia-vai-urnas-neste-domingo-eleger-presidente-para-2026-2030 img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
-        "date": "20 de jun. de 2026",
+        "date": "21 de jun. de 2026",
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Sistema de notificação de desastre evoluiu, mas ainda tem fragilidades",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/sistema-de-notificacao-de-desastre-evoluiu-mas-ainda-tem-fragilidades",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/sistema-de-notificacao-de-desastre-evoluiu-mas-ainda-tem-fragilidades img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "Confira os jogos da Copa do Mundo deste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/confira-os-jogos-da-copa-do-mundo-deste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/confira-os-jogos-da-copa-do-mundo-deste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
         "image": null,
-        "date": "20 de jun. de 2026",
+        "date": "21 de jun. de 2026",
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Fifa divulga arbitragem de jogo entre Brasil e Escócia na Copa; brasileiro apita Suíça x Canadá",
+        "link": "https://www.gazetaesportiva.com/times/brasil/arbitragem-fifa-brasil-escocia-copa-2026/",
+        "summary": "A Fifa divulgou neste domingo as equipes de arbitragem para seis partidas decisivas da Copa do Mundo que acontecem na quarta-feira (24). O destaque fica para o mexicano César Ramos, que apitará o duelo entre Brasil e Esc",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260616__2281798265__v1__HighRes__IrIranVNewZealandGroupGFifaWorldCup2026.webp",
+        "date": "21 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Rui Costa se pronuncia após demissão do São Paulo: trilhei o bom caminho",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/rui-costa-demissao-sao-paulo-pronunciamento/",
+        "summary": "O ex-diretor executivo do São Paulo, Rui Costa, se manifestou neste domingo após sua demissão, ocorrida no sábado, destacando os quase seis anos de dedicação ao clube desde 2021. Em seu pronunciamento, ele relembrou conq",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HLRzyvjWMAAGDWV.webp",
+        "date": "21 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Messi e os dois presentes de aniversário que o aguardam contra a Áustria",
+        "link": "https://www.gazetaesportiva.com/times/argentina/messi-e-os-dois-presentes-de-aniversario-que-o-aguardam-contra-a-austria/",
+        "summary": "Lionel Messi protagonizou uma estreia memorável na Copa do Mundo de 2026 ao marcar três gols na vitória da Argentina por 3 a 0 sobre a Argélia, alcançando os 16 gols e empatando com Miroslav Klose como maior artilheiro d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__B7L84HB__v1__HighRes__FblWc2026TrainingArg.webp",
+        "date": "21 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Irã poderá antecipar sua viagem a Seattle para 3º jogo na Copa",
+        "link": "https://www.gazetaesportiva.com/times/ira/ira-podera-antecipar-sua-viagem-a-seattle-para-3o-jogo-na-copa/",
+        "summary": "O técnico do Irã, Amir Ghalenoei, voltou a criticar o tratamento recebido pela seleção durante a Copa do Mundo de 2026, destacando problemas logísticos e dificuldades com vistos para membros da comissão técnica. Apesar d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260621__B7R96U9__v1__HighRes__FblWc2026PresserIri.webp",
+        "date": "21 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Há 56 anos, Brasil conquistava o tri da Copa do Mundo; veja galeria de fotos",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-56-anos-brasil-conquistava-o-tri-da-copa-do-mundo-veja-galeria-de-fotos/",
@@ -142,106 +182,6 @@
         "date": "21 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Bielsa critica pausas para hidratação na Copa: Não acrescenta nada",
-        "link": "https://www.gazetaesportiva.com/times/uruguai/bielsa-critica-pausas-para-hidratacao-na-copa-tira-muito-do-futebol/",
-        "summary": "Marcelo Bielsa questionou as paradas para hidratação na Copa do Mundo de 2026 e afirmou que a medida altera a essência e a cultura do futebol. O post Bielsa critica pausas para hidratação na Copa: Não acrescenta nada apa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260615__B78834C__v1__MidRes__FblWc2026Match13KsaUru.webp",
-        "date": "21 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja os jogadores mais criticados do Palmeiras no 1º semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-os-jogadores-mais-criticados-do-palmeiras-no-1o-semestre-de-2026/",
-        "summary": "Mesmo com boa campanha no semestre, o Palmeiras teve jogadores abaixo do esperado. Luighi, Jefté e Khellven acabaram criticados por não aproveitarem as chances e perderem espaço no elenco. O post Veja os jogadores mais c",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/13052026_cg_palmeiras_9415_91.webp",
-        "date": "21 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja os jogadores mais criticados do São Paulo no 1º semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-os-jogadores-mais-criticados-do-sao-paulo-no-1o-semestre-de-2026/",
-        "summary": "O São Paulo viveu um semestre instável e viu Dória, Arboleda e Cédric entre os jogadores mais criticados. O trio defensivo enfrentou problemas dentro e fora de campo, incluindo falhas, afastamentos e até rescisão, reflet",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HI2xTJcXYAAZfvr.webp",
-        "date": "21 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja os jogadores mais criticados do Santos no 1º semestre de 2026",
-        "link": "https://www.gazetaesportiva.com/times/santos/veja-os-jogadores-mais-criticados-do-santos-no-1o-semestre-de-2026/",
-        "summary": "Rony, Mayke e Zé Rafael ficaram entre os jogadores mais criticados do Santos no primeiro semestre de 2026. Veja os números e o desempenho de cada um. O post Veja os jogadores mais criticados do Santos no 1º semestre de 2",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55304171146_0eecb91222_o-1.webp",
-        "date": "21 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Zico diz se Endrick e Rayan podem jogar juntos e c...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16879355/copa-do-mundo-selecao-brasileira-zico-diz-se-endrick-rayan-pode-jogar-juntos-qual-reserva-colocaria-titular",
-        "summary": "null",
-        "image": null,
-        "date": "21 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "No jogo 1.000 da Copa do Mundo, Japão goleia a Tun...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16879539/japao-domina-vence-tunisia-goleia-copa-do-mundo-jogo-1000-historia",
-        "summary": "Seleção japonesa flerta com a goleada contra a Tunísia, na 2ª rodada da fase de grupos da Copa",
-        "image": null,
-        "date": "21 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Equador perde chances e se complica com empate com...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16878639/copa-do-mundo-equador-perde-chance-se-complica-empate-curacao-conquista-ponto-historico",
-        "summary": "Empate com Curaçao faz Equador precisar da vitória sobre a Alemanha na última rodada da Copa do Mundo",
-        "image": null,
-        "date": "21 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem é Eloy Room, goleiro que já foi elogiado por ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16878916/copa-do-mundo-quem-eloy-room-goleiro-que-foi-elogiado-messi-apos-7-0-faz-historia-curacao",
-        "summary": "null",
-        "image": null,
-        "date": "21 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Alemanha busca virada incrível nos acréscimos cont...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16876523/alemanha-busca-virada-incrivel-contra-costa-marfim-acrescimos-garante-classificacao-copa",
-        "summary": "Alemanha e Costa do Marfim se enfrentaram neste sábado (20), em duelo pelo grupo E da Copa do Mundo 2026",
-        "image": null,
-        "date": "21 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Seleção aposta em Raphinha ainda na Copa do Mundo;...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16877178/selecao-aposta-volta-raphinha-copa-do-mundo-barcelona-teme-volta-acelerada",
-        "summary": "Raphinha perderá ao menos dois jogos da Seleção Brasileira na Copa do Mundo por causa de uma lesão muscular na coxa direita",
-        "image": null,
-        "date": "21 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,69 +247,69 @@
         "cls": ""
       },
       {
-        "title": "Mega-Sena: uma aposta acerta as seis dezenas; próximo sorteio é de R$ 3,5 milhões",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-uma-aposta-acerta-as-seis-dezenas-proximo-sorteio-e-de-r-35-milhoes/",
-        "summary": "Sorteio realizado pela Caixa Econômica Federal em São Paulo distribui prêmio de R$ 39.427.096,37; saiba como conferir sua aposta The post Mega-Sena: uma aposta acerta as seis dezenas; próximo sorteio é de R$ 3,5 milhões ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/cropped-Image-6-e1725979055362-1.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "title": "Mesmo inelegível, aliado de Tarcísio mantém Eduardo Bolsonaro como suplente ao Senado",
+        "link": "https://www.infomoney.com.br/politica/mesmo-inelegivel-aliado-de-tarcisio-mantem-eduardo-bolsonaro-como-suplente-ao-senado/",
+        "summary": "Após condenação e impedimento de disputar a eleição, ex-deputado seguirá na composição da candidatura do PL em São Paulo The post Mesmo inelegível, aliado de Tarcísio mantém Eduardo Bolsonaro como suplente ao Senado appe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/fg356906.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "ASSISTA AOS GOLS: Equador tropeça contra Curaçao e chega pressionado à rodada final",
-        "link": "https://www.infomoney.com.br/esportes/assista-aos-gols-equador-tropeca-contra-curacao-e-chega-pressionado-a-rodada-final/",
-        "summary": "Empate sem gols mantém sul-americanos fora da zona de classificação e garante o primeiro ponto da história dos curaçauenses em Mundiais The post ASSISTA AOS GOLS: Equador tropeça contra Curaçao e chega pressionado à roda",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-21T021359Z_49135840_UP1EM6L067AFY_RTRMADP_3_SOCCER-WORLDCUP-ECU-CUW.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "EUA e Irã abrem negociações na Suíça para tentar consolidar acordo de paz",
+        "link": "https://www.infomoney.com.br/mundo/eua-e-ira-abrem-negociacoes-na-suica-para-tentar-consolidar-acordo-de-paz/",
+        "summary": "Programa nuclear iraniano, guerra no Líbano e navegação no Estreito de Ormuz estão entre os temas centrais da primeira rodada de conversas The post EUA e Irã abrem negociações na Suíça para tentar consolidar acordo de pa",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "21 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "ASSISTA AOS GOLS: Japão vence Tunísia e transforma estreia de treinador em despedida",
-        "link": "https://www.infomoney.com.br/esportes/assista-aos-gols-japao-vence-tunisia-e-transforma-estreia-de-treinador-em-despedida/",
-        "summary": "A equipe asiática precisou se adaptar à ausência de Kubo, lesionado na vitória sobre a Holanda, mas encontrou alternativas dentro do próprio elenco The post ASSISTA AOS GOLS: Japão vence Tunísia e transforma estreia de t",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-21T060915Z_901570365_UP1EM6L0H3D6Y_RTRMADP_3_SOCCER-WORLDCUP-TUN-JPN.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Espanha x Arábia Saudita?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-espanha-arabia-saudita/",
+        "summary": "Jogo acontece às 13h (horário de Brasília) deste domingo The post Onde assistir Espanha x Arábia Saudita? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-espanha-x-arabia-saudita.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "21 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dividendos da Caixa Seguridade: distribuição de 90% do lucro vai continuar?",
-        "link": "https://www.infomoney.com.br/onde-investir/rascunho-automatico-4/",
-        "summary": "Não há nada no radar que sinalize mudanças nessa política de distribuição, diz presidente The post Dividendos da Caixa Seguridade: distribuição de 90% do lucro vai continuar? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Gustavo-Portela-presidente-da-Caixa-Seguridade-1.webp?fit=300%2C120&amp;quality=70&amp;strip=all",
+        "title": "Irã diz que não abrirá mão de enriquecer urânio e pressiona negociações com os EUA",
+        "link": "https://www.infomoney.com.br/mundo/ira-diz-que-nao-abrira-mao-de-enriquecer-uranio-e-pressiona-negociacoes-com-os-eua/",
+        "summary": "Às vésperas da primeira rodada de negociações na Suíça, Teerã reafirma programa nuclear e eleva tensão com disputa sobre o Estreito de Ormuz The post Irã diz que não abrirá mão de enriquecer urânio e pressiona negociaçõe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-01T185614Z_1_LYNXMPEM302S3_RTROPTP_4_IRAN-CRISIS-PEZESHKIAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Alta de 37% da SpaceX na 1ª semana já confirma entusiasmo para outros IPOs?",
-        "link": "https://www.infomoney.com.br/mercados/alta-de-37-da-spacex-na-1a-semana-ja-confirma-entusiasmo-para-outros-ipos/",
-        "summary": "Ao ultrapassar rapidamente a marca de US$ 2 trilhões em valor de mercado nas primeiras sessões, a operação não apenas colocou à prova a liquidez do mercado americano, como também injetou forte otimismo em Wall Street. Va",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458722360.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Fonseca sofre com saque de francês e fica com vice-campeonato de duplas em Halle",
+        "link": "https://www.infomoney.com.br/esportes/fonseca-sofre-com-saque-de-frances-e-fica-com-vice-campeonato-de-duplas-em-halle/",
+        "summary": "O torneio alemão marcou o início da temporada de grama do tenista brasileiro, que buscava seu primeiro título na superfície The post Fonseca sofre com saque de francês e fica com vice-campeonato de duplas em Halle appear",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/joao-fonseca-roland-garros-franca02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "21 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Um em cada três carregadores de carros elétricos no Brasil já é de recarga rápida",
-        "link": "https://www.infomoney.com.br/consumo/um-em-tres-carregadores-carros-eletricos-recarga-rapida/",
-        "summary": "A rede de carregadores aumentou 20,9% em três meses The post Um em cada três carregadores de carros elétricos no Brasil já é de recarga rápida appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/31233.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Aliado de Petro ou candidato de Trump? Colômbia escolhe presidente neste domingo (21)",
+        "link": "https://www.infomoney.com.br/mundo/aliado-de-petro-ou-candidato-de-trump-colombia-escolhe-presidente-neste-domingo-21/",
+        "summary": "Segundo turno entre Iván Cepeda e Abelardo de la Espriella ocorre após campanha marcada por polarização e questionamentos sobre o processo eleitoral The post Aliado de Petro ou candidato de Trump? Colômbia escolhe presid",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/montagem-1120x720-14.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "21 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Vacina contra HPV zera mortes por câncer cervical entre jovens, diz estudo",
-        "link": "https://exame.com/ciencia/vacina-contra-hpv-zera-mortes-por-cancer-cervical-entre-jovens-diz-estudo/",
-        "summary": "Pesquisa acompanhou os resultados da vacinação implementada em larga escala ao longo de mais de uma década",
+        "title": "Cristiano, Messi e Neymar: pela 3ª Copa seguida, eles lideram ranking no Instagram",
+        "link": "https://exame.com/esporte/cristiano-messi-e-neymar-pela-3a-copa-seguida-eles-lideram-ranking-no-instagram/",
+        "summary": "Entre os atletas com menos de 20 anos, Endrick é o destaque e já aparece no Top-20",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +317,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como uma abelha se torna rainha? Estudo aponta novo fator",
-        "link": "https://exame.com/ciencia/como-uma-abelha-se-torna-rainha-estudo-aponta-novo-fator/",
-        "summary": "Pesquisa mostra que a estrutura criada pelas operárias influencia o desenvolvimento da futura líder da colmeia",
+        "title": "Santiago Fossatti, da Kaszek, e a chance da América Latina na corrida da IA",
+        "link": "https://exame.com/negocios/santiago-fossatti-da-kaszek-e-a-chance-da-america-latina-na-corrida-da-ia/",
+        "summary": "Investidor de empresas como Nubank, QuintoAndar e Creditas vê oportunidades em energia, data centers, fintechs e serviços corporativos impulsionados por inteligência artificial",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +327,9 @@
         "cls": "startups"
       },
       {
-        "title": "Irã e EUA iniciam negociações na Suíça neste domingo, em meio a novo fechamento de Ormuz",
-        "link": "https://exame.com/mundo/ira-e-eua-iniciam-negociacoes-na-suica-neste-domingo-em-meio-a-novo-fechamento-de-ormuz/",
-        "summary": "Conversas em Bürgenstock abrem etapa de 60 dias prevista pelo acordo de paz assinado em 17 de junho",
+        "title": "Por que o Ozempic colocou Danone e Chobani em guerra pelo iogurte proteico",
+        "link": "https://exame.com/invest/mercados/por-que-o-ozempic-colocou-danone-e-chobani-em-guerra-pelo-iogurte-proteico/",
+        "summary": "Ação nos EUA expõe disputa bilionária por consumidores atraídos pela onda dos medicamentos GLP-1",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +337,9 @@
         "cls": "startups"
       },
       {
-        "title": "Esta empresa de entregas vai faturar R$ 200 milhões ao parar de disputar entregadores por preço",
-        "link": "https://exame.com/negocios/esta-empresa-de-entregas-vai-faturar-r-200-milhoes-ao-parar-de-disputar-entregadores-por-preco/",
-        "summary": "Shippify cresceu 156% em 2025 ao apostar em benefícios para sua base de profissionais, ampliar contratos com grandes empresas e transformar tecnologia em uma nova frente de receita",
+        "title": "O custo invisível que ainda encarece o crédito no Brasil e como a tokenização pode ajudar",
+        "link": "https://exame.com/future-of-money/o-custo-invisivel-que-ainda-encarece-o-credito-no-brasil-e-como-a-tokenizacao-pode-ajudar/",
+        "summary": "Principal potencial do blockchain para o mercado financeiro está na capacidade de criar registros digitais auditáveis, automatizar processos e reduzir redundâncias operacionais",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +347,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ele começou nos dois postos de combustível da família. Agora, sua rede vai faturar R$ 10 bilhões",
-        "link": "https://exame.com/negocios/ele-comecou-nos-dois-postos-de-combustivel-da-familia-agora-sua-rede-vai-faturar-r-10-bilhoes/",
-        "summary": "RodOil projeta chegar a 650 unidades bandeiradas em 2026, amplia investimentos em governança e aposta na proximidade com revendedores para competir com as gigantes do setor",
+        "title": "Por que Wall Street rejeitou os novos óculos da criadora do Snapchat",
+        "link": "https://exame.com/invest/mercados/por-que-wall-street-rejeitou-os-novos-oculos-da-criadora-do-snapchat/",
+        "summary": "Preço alto e formato robusto afastam o produto do público mais jovem, base histórica do Snapchat, dizem analistas",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +357,9 @@
         "cls": "startups"
       },
       {
-        "title": "Inglês e espanhol: como o cérebro consegue falar duas línguas ao mesmo tempo?",
-        "link": "https://exame.com/ciencia/ingles-e-espanhol-como-o-cerebro-consegue-falar-duas-linguas-ao-mesmo-tempo/",
-        "summary": "Pesquisa com bilíngues encontrou um padrão inesperado de atividade neural durante o uso de idiomas diferentes",
+        "title": "Quase metade dos idosos melhora com a idade, aponta estudo de Yale",
+        "link": "https://exame.com/ciencia/quase-metade-dos-idosos-melhora-com-a-idade-aponta-estudo-de-yale/",
+        "summary": "Estudo com mais de 11 mil americanos acompanhados por até 12 anos desafia a ideia de que envelhecer significa apenas declínio",
         "image": null,
         "date": "21 de jun. de 2026",
         "source": "Exame",
