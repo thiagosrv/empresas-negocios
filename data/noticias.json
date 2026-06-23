@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-23T15:53:25.021Z",
+  "updated": "2026-06-23T18:02:29.989Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Campinas tem 113 pontos de descarte irregular de lixo, e Prefeitura promete ampliação de ecopontos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/23/campinas-tem-113-pontos-de-descarte-irregular-de-lixo-e-prefeitura-promete-ampliacao-de-ecopontos.ghtml",
+        "summary": "Campinas tem 113 pontos de descarte irregular de lixo e apenas 16 ecopontos Um levantamento da Prefeitura de Campinas (SP) aponta que a cidade possui 113 pontos viciados de descarte irregular de lixo. O número de locais ",
+        "image": "https://s2-g1.glbimg.com/RokovKaV5ECJFHt1VkbTOwBbgSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/7/iAcOZESJCRHVSmllOFGw/screenshot-15.jpg",
+        "date": "23 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Operação descobre desmanche ilegal de veículos em oficina e responsável é preso em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/23/operacao-descobre-desmanche-ilegal-de-veiculos-em-oficina-e-responsavel-e-preso-em-campinas.ghtml",
@@ -23,20 +33,10 @@
         "cls": "brasil"
       },
       {
-        "title": "Aves sentem gosto dos alimentos? Entenda por que araras comem pimenta sem sentir ardência",
+        "title": "Aves sentem gosto dos alimentos? Entenda por que algumas comem pimenta sem sentir ardência",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/23/aves-sentem-gosto-dos-alimentos-entenda-por-que-araras-comem-pimenta-sem-sentir-ardencia.ghtml",
         "summary": "Aves são 'imunes' à pimenta Alex Popovkin Quem já observou uma arara selecionando cuidadosamente os frutos que vai comer ou um papagaio rejeitando determinados alimentos pode ter se perguntado: será que as aves sentem go",
-        "image": "https://s2-g1.glbimg.com/wE1Y8hhMGlV8RmaL6Hy4vv_Hp3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/e/24ALpuQneM7iPI4FmXuQ/copia-de-cocho-base-arara-azul-anilhada-se-alimentando-vitor-morais.jpg",
-        "date": "23 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "image": "https://s2-g1.glbimg.com/Xr0sTOX03S8bSvWODIAnDRcjYwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/9/0OyLg5THWtlZJdBGrUFQ/sayaca-tanager-feeding-on-malagueta-peppers.jpg",
         "date": "23 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -61,6 +61,36 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
+      },
+      {
+        "title": "Gama localiza idosa desaparecida em Americana",
+        "link": "https://jornalamericanense.com.br/policia/gama-localiza-idosa-desaparecida-em-americana/",
+        "summary": "A Guarda Municipal de Americana (GAMA) localizou, na manhã desta segunda-feira (23), uma idosa que estava desaparecida desde o dia anterior, após receber alta médica do Hospital Afonso Ramos, em Santa Bárbara d’Oeste. A ",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Banda Municipal de Americana faz tributo às raízes sertanejas em show especial no Teatro Lulu Benencase",
+        "link": "https://jornalamericanense.com.br/cultura/banda-municipal-de-americana-faz-tributo-as-raizes-sertanejas-em-show-especial-no-teatro-lulu-benencase/",
+        "summary": "A música sertaneja será destaque na próxima quinta-feira (25), quando a Banda Municipal Monsenhor Nazareno Maggi sobe ao palco do Teatro Municipal Lulu Benencase para apresentar o espetáculo Homenagem às Raízes Sertaneja",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana receberá R$ 300 mil em emendas para a Saúde",
+        "link": "https://jornalamericanense.com.br/saude/americana-recebera-r-300-mil-em-emendas-para-a-saude/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, foi contemplada com R$ 300 mil em emendas parlamentares para investimentos na rede municipal. Os recursos, provenientes da Secretaria de Estado da Saúde, estão ",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "BAEP captura homem procurado pela Justiça durante patrulhamento em Sumaré",
@@ -93,39 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Guarda Municipal prende dupla em flagrante por tentativa de furto de fios no Centro de Americana",
-        "link": "https://jornalamericanense.com.br/policia/guarda-municipal-prende-dupla-em-flagrante-por-tentativa-de-furto-de-fios-no-centro-de-americana/",
-        "summary": "Suspeitos foram surpreendidos dentro de empresa enquanto cortavam a fiação elétrica e confessaram que pretendiam vender o material para comprar drogas Dois homens foram presos em flagrante pela Guarda Municipal de Americ",
-        "image": null,
-        "date": "22 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Unacon celebra 4 anos de atendimento oncológico com mais de 2 mil pacientes atendidos",
-        "link": "https://jornalamericanense.com.br/saude/unacon-celebra-4-anos-de-atendimento-oncologico-com-mais-de-2-mil-pacientes-atendidos/",
-        "summary": "A Unacon (Unidade de Alta Complexidade em Oncologia) de Americana completou quatro anos de funcionamento nesta quinta-feira (18), consolidando sua atuação como referência regional no atendimento especializado aos pacient",
-        "image": null,
-        "date": "22 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Festival de Música de Americana está com inscrições abertas",
-        "link": "https://jornalamericanense.com.br/esportes/festival-de-musica-de-americana-esta-com-inscricoes-abertas/",
-        "summary": "O Festival de Música de Americana (FEMAM) 2026, realizado pela Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, e do Conselho Municipal de Cultura (Comcult), com produção da Associação Abadá Capoeira",
-        "image": null,
-        "date": "22 de jun. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "CNJ adia para agosto análise de regras sobre aposentadoria compulsória",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/cnj-adia-para-agosto-analise-de-regras-sobre-aposentadoria-compulsoria",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/cnj-adia-para-agosto-analise-de-regras-sobre-aposentadoria-compulsoria img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Correios divulgam selecionados para Programa Jovem Aprendiz 2026",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/correios-divulgam-selecionados-para-programa-jovem-aprendiz-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/correios-divulgam-selecionados-para-programa-jovem-aprendiz-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Com foco no El Niño, IBGE apresenta ferramenta para prevenir desastres",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/com-foco-no-el-nino-ibge-apresenta-ferramenta-para-prevenir-desastres",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/com-foco-no-el-nino-ibge-apresenta-ferramenta-para-prevenir-desastres img src= https://cdn.jsdelivr.net/gh/sergi",
+        "title": "TV Brasil estreia série de humor com Heloísa Périssé e Pretha Sousa",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/tv-brasil-estreia-serie-de-humor-com-heloisa-perisse-e-pretha-sousa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/tv-brasil-estreia-serie-de-humor-com-heloisa-perisse-e-pretha-sousa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "BC: melhores práticas recomendam não reagir a choques de oferta",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bc-melhores-praticas-recomendam-nao-reagir-choques-de-oferta",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bc-melhores-praticas-recomendam-nao-reagir-choques-de-oferta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Anvisa aprova novo medicamento oral para câncer de mama",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-aprova-novo-medicamento-oral-para-cancer-de-mama",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-aprova-novo-medicamento-oral-para-cancer-de-mama img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Sambistas debatem políticas públicas para trabalhadoras na cultura",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/direitos-das-mulheres-sao-debatidos-em-seminario-sobre-rodas-de-samba",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/direitos-das-mulheres-sao-debatidos-em-seminario-sobre-rodas-de-samba img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Anvisa aprova medicamento não hormonal contra sintomas da menopausa",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-aprova-medicamento-nao-hormonal-contra-sintomas-da-menopausa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/anvisa-aprova-medicamento-nao-hormonal-contra-sintomas-da-menopausa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Governo enviará PL à Câmara, nesta semana, para aumentar limite do MEI",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/governo-enviara-projeto-camara-para-aumentar-limite-do-mei",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/governo-enviara-projeto-camara-para-aumentar-limite-do-mei img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "title": "Operação na zona sul do Rio tem 6 presos e homem baleado em ônibus",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/operacao-na-zona-sul-do-rio-tem-6-presos-e-homem-baleado-em-onibus",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/operacao-na-zona-sul-do-rio-tem-6-presos-e-homem-baleado-em-onibus img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "França: 40 pessoas morrem afogadas em meio a onda de calor",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/franca-40-pessoas-morrem-afogadas-em-meio-onda-de-calor",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/franca-40-pessoas-morrem-afogadas-em-meio-onda-de-calor img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Operação da Polícia Civil investiga descontos em benefícios do DF",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/operacao-da-policia-civil-do-df-investiga-descontos-em-beneficios",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/operacao-da-policia-civil-do-df-investiga-descontos-em-beneficios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Agência Brasil",
@@ -185,67 +185,137 @@
     ],
     "esportes": [
       {
-        "title": "Barcelona exerce opção de compra da jovem promessa egípcia Hamza Abdelkarim",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-contrata-hamza-abdelkarim/",
-        "summary": "O Barcelona confirmou a contratação definitiva do jovem egípcio Hamza Abdelkarim, de 18 anos, após bom desempenho na base. O atacante assinou contrato até 2029 e também vem atuando pela seleção do Egito na Copa do Mundo.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HKLIBlUWQAAq0VL.jpg-2.webp",
+        "title": "Confira as fotos de Portugal x Uzbequistão pela Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/portugal/confira-as-fotos-de-portugal-x-uzbequistao-pela-copa-do-mundo/",
+        "summary": "O post Confira as fotos de Portugal x Uzbequistão pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__B82W9TD__v1__MidRes__FblWc2026Match47PorUzb.webp",
         "date": "23 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira seleções já eliminadas da Copa do Mundo antes da 3ª rodada",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/selecoes-eliminadas-copa-2026-fase-grupos/",
-        "summary": "Haiti, Turquia, Tunísia e Jordânia já estão eliminados da Copa do Mundo de 2026 após duas rodadas da fase de grupos. Sem chances matemáticas de classificação, as seleções apenas cumprirão tabela na última rodada do Mundi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__2282444579__v1__HighRes__TurkiyeVParaguayGroupDFifaWorldCup2026.webp",
+        "title": "Emerson Royal pode trocar o Flamengo pelo futebol inglês",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/emerson-royal-pode-trocar-o-flamengo-pelo-futebol-ingles/",
+        "summary": "O Flamengo recebeu uma proposta de 9 milhões de euros (cerca de R$ 53 milhões) do Aston Villa, da Inglaterra, pelo lateral-direito Emerson Royal. O jogador é bem avaliado pela diretoria e pela comissão técnica, e o clube",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55212676893_279ab2543c_o.webp",
         "date": "23 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bastidores da reapresentação do Atlético-MG na Cidade do Galo",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-da-reapresentacao-do-atletico-mg-na-cidade-do-galo/",
-        "summary": "Elenco alvinegro voltou aos trabalhos na Cidade do Galo após o período de férias. É a retomada para a segunda parte da temporada 2026. Nesse primeiro dia de retorno, os jogadores fizeram atividades físicas na academia e ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/sogfxca9-1920.webp",
+        "title": "Brasil e Escócia voltam a se enfrentar em uma Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/brasil/brasil-e-escocia-voltam-a-se-enfrentar-em-uma-copa-do-mundo/",
+        "summary": "Brasil e Escócia voltam a se enfrentar em Copa do Mundo, em duelo decisivo pela fase de grupos. O confronto marca o quinto encontro entre as seleções no torneio, repetindo um histórico concentrado entre 1974 e 1998. Enqu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260622__B7WF2MR__v1__HighRes__FblWc2026TrainingBra.webp",
         "date": "23 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Jogadores do Bahia se reapresentam para volta da temporada",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/jogadores-do-bahia-se-reapresentam-para-volta-da-temporada/",
-        "summary": "Confira como foi a reapresentação do elenco do Bahia para a preparação para a segunda parte da temporada de 2026. O post Jogadores do Bahia se reapresentam para volta da temporada apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Jogadores-do-Bahia.webp",
+        "title": "Cristiano Ronaldo quebra recorde e se torna único jogador a marcar em seis Copas",
+        "link": "https://www.gazetaesportiva.com/times/portugal/cristiano-ronaldo-quebra-recorde-e-se-torna-unico-jogador-a-marcar-em-seis-copas/",
+        "summary": "Cristiano Ronaldo marcou contra o Uzbequistão, tornou-se o único jogador a fazer gols em seis Copas do Mundo e alcançou mais um recorde histórico. O post Cristiano Ronaldo quebra recorde e se torna único jogador a marcar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__B82W9T4__v1__HighRes__FblWc2026Match47PorUzb.webp",
         "date": "23 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Elenco do Cruzeiro passa por testes físicos no retorno à Toca 2",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/elenco-do-cruzeiro-passa-por-testes-fisicos-no-retorno-a-toca-2/",
-        "summary": "Confira os bastidores do retorno dos jogadores do Cruzeiro à Toca 2. O elenco passou por exames médicos e testes físicos para dar prosseguimento à temporada. O post Elenco do Cruzeiro passa por testes físicos no retorno ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Elenco-do-Cruzeiro.webp",
+        "title": "Veja fotos do último treino da Seleção Brasileira antes do jogo contra a Escócia",
+        "link": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-do-ultimo-treino-da-selecao-brasileira-antes-do-jogo-contra-a-escocia/",
+        "summary": "O post Veja fotos do último treino da Seleção Brasileira antes do jogo contra a Escócia apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/23JUN2026TREINOREDBULL5-CASEMIRO.webp",
         "date": "23 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bastidores da reapresentação do elenco do Internacional",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-da-reapresentacao-do-elenco-do-internacional/",
-        "summary": "ESTAMOS DE VOLTA! O elenco colorado se reapresentou no CT Parque Gigante e deu início à intertemporada de 2026 na manhã desta segunda-feira (22/06). Entre reencontros, novas caras, atividades na academia e intensidade no",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/elenco-do-Internacional.webp",
+        "title": "Raphinha se pronuncia pela primeira vez após lesão e críticas na Seleção",
+        "link": "https://www.gazetaesportiva.com/times/brasil/raphinha-se-pronuncia-pela-primeira-vez-apos-lesao-e-criticas-na-selecao/",
+        "summary": "Raphinha se pronunciou pela primeira vez após sofrer uma lesão na coxa direita durante a vitória do Brasil por 3 a 0 sobre o Haiti na Copa do Mundo de 2026. O atacante destacou sua determinação em se recuperar rapidament",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PK9VW__v1__MidRes__FblWc2026Match29BraHai.webp",
         "date": "23 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Portugal x Uzbequistão AO VIVO: siga e ASSISTA na ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16885947/portugal-x-uzbequistao-ao-vivo-siga-tempo-real-jogo-copa-do-mundo",
+        "summary": "O confronto será disputado no Estádio de Houston, nos Estados Unidos, a partir das 14h (de Brasília)",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Cristiano Ronaldo marca, supera Messi e é 1º com g...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16858628/cristiano-ronaldo-marca-portugal-x-uzbequistao-supera-messi-primeiro-gol-seis-copas",
+        "summary": "Cristiano Ronaldo balançou as redes e quebrou recorde na Copa do Mundo de 2026",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "CBF aciona Fifa e veta camisa de goleiro vermelha ...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16892564/cbf-aciona-fifa-e-veta-camisa-de-goleiro-vermelha-antes-de-brasil-x-escocia-na-copa-do-mundo",
+        "summary": "A cor já havia sido motivo de polêmica meses atrás, quando o uniforme, apesar de pronto e aprovado pela antiga direção da CBF, teve a fabricação vetada por Samir Xaud",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Salário de 18 libras e bico na bilheteria: o 'cont...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16884521/salario-18-libras-semana-copa-do-mundo-historia-robertson-guerreiro-lidera-escocia-brasil",
+        "summary": "null",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Neymar volta com mais gols na Seleção Brasileira q...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16884290/neymar-volta-mais-gols-selecao-brasileira-todos-outros-convocados-ancelotti-juntos",
+        "summary": "null",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Brasil vai para 15º time diferente com Ancelotti e...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16884193/selecao-vai-15-time-diferente-ancelotti-ultrapassa-800-dias-sem-repetir-escalacao",
+        "summary": "null",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "INSS amplia exigência de biometria para concessão de benefícios",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/inss-passa-exigir-biometria-para-concessao-de-beneficios-sociais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/inss-passa-exigir-biometria-para-concessao-de-beneficios-sociais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "23 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "BC: melhores práticas recomendam não reagir a choques de oferta",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/bc-melhores-praticas-recomendam-nao-reagir-choques-de-oferta",
@@ -297,79 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Confiança dos técnicos impulsiona bons resultados do BNDES, diz Lula",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/confianca-dos-tecnicos-impulsiona-bons-resultados-do-bndes-diz-lula",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/confianca-dos-tecnicos-impulsiona-bons-resultados-do-bndes-diz-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "22 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Ligação RJ-SP: nova Serra das Araras começa a deixar para trás curvas históricas",
-        "link": "https://www.infomoney.com.br/brasil/ligacao-rj-sp-nova-serra-das-araras-comeca-a-deixar-para-tras-curvas-historicas/",
-        "summary": "Nesta terça, será entregue um segmento da pista de subida com quatro faixas de rolamento, acostamento, faixas de segurança, oito viadutos e iluminação em LED The post Ligação RJ-SP: nova Serra das Araras começa a deixar ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/file.img_.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Além do petróleo: as ações e os setores da B3 mais impactados pelo acordo EUA-Irã",
+        "link": "https://www.infomoney.com.br/mercados/alem-do-petroleo-as-acoes-e-os-setores-da-b3-mais-impactados-pelo-acordo-eua-ira/",
+        "summary": "Na semana passada, os Estados Unidos e o Irã assinaram um acordo inicial de paz para discutir um possível cessar-fogo The post Além do petróleo: as ações e os setores da B3 mais impactados pelo acordo EUA-Irã appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/maria-lupan-hy97yy3e03A-unsplash.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
         "date": "23 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BCE: Zona do euro pode se mostrar mais resiliente a choques do que se esperava",
-        "link": "https://www.infomoney.com.br/mercados/bce-zona-do-euro-pode-se-mostrar-mais-resiliente-a-choques-do-que-se-esperava/",
-        "summary": "O vice-presidente do BCE afirmou que a economia da região tem superado expectativas pessimistas, mesmo diante dos preços altos da energia e do conflito no Irã The post BCE: Zona do euro pode se mostrar mais resiliente a ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-03T103348Z_1_LYNXMPEL120CW_RTROPTP_4_ECB-POLICY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Inglaterra x Gana?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-inglaterra-gana/",
+        "summary": "Jogo é válido pelo grupo L, que tem ainda Croácia e Panamá The post Onde assistir Inglaterra x Gana? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-inglaterra-x-gana.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "23 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Risco de tempestade ameaça jogo entre Noruega e França na Copa do Mundo, diz jornal",
-        "link": "https://www.infomoney.com.br/esportes/risco-de-tempestade-ameaca-jogo-entre-noruega-e-franca-na-copa-do-mundo-diz-jornal/",
-        "summary": "A partida de sábado em Boston pode repetir o enredo do jogo contra o Iraque, que foi interrompido por duas horas devido ao mau tempo e terminou com vitória francesa The post Risco de tempestade ameaça jogo entre Noruega ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T031818Z_581153266_UP1EM6N00HO7B_RTRMADP_3_SOCCER-WORLDCUP-FRA-IRQ.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Cristiano Ronaldo se torna primeiro jogador a marcar em seis edições da Copa do Mundo",
+        "link": "https://www.infomoney.com.br/esportes/cristiano-ronaldo-se-torna-primeiro-jogador-a-marcar-em-seis-edicoes-da-copa-do-mundo/",
+        "summary": "Cristiano Ronaldo marcou seu 144º gol pela seleção ‌em sua ​230ª partida, ambos recordes em partidas de seleções ⁠masculinas The post Cristiano Ronaldo se torna primeiro jogador a marcar em seis edições da Copa do Mundo ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T175331Z_2134472373_UP1EM6N1DP6A2_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
         "date": "23 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "UE quer colaborar com o Brasil no refino e processamento de minerais, diz comissário",
-        "link": "https://www.infomoney.com.br/business/ue-quer-colaborar-com-o-brasil-no-refino-e-processamento-de-minerais-diz-comissario/",
-        "summary": "Jozef Síkela afirmou em fórum que o bloco tem interesse em ir além da extração, investindo também em processamento local, refinamento e transferência de tecnologia The post UE quer colaborar com o Brasil no refino e proc",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: 74% rejeitam ação dos EUA no Brasil, mas 59% apoiam medida contra facções",
+        "link": "https://www.infomoney.com.br/politica/datafolha-74-rejeitam-acao-dos-eua-no-brasil-mas-59-apoiam-medida-contra-faccoes/",
+        "summary": "Pesquisa mostra ampla concordância com a definição adotada por Washington, mas resistência à atuação de agentes americanos em território nacional sem autorização do governo brasileiro The post Datafolha: 74% rejeitam açã",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Megaoperacao-contra-o-Comando-Vermelho-no-Rio.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa tenta defender 170 mil pontos, apesar de incertezas após ata e NY negativa",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-tenta-defender-170-mil-pontos-apesar-de-incertezas-apos-ata-e-ny-negativa/",
-        "summary": "Hoje a agenda de indicadores é esvaziada, enquanto no exterior o foco são índices de gerentes de compras (PMI, na sigla em inglês) The post Ibovespa tenta defender 170 mil pontos, apesar de incertezas após ata e NY negat",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-59.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Novo Nordisk propõe desconto de 59% para levar semaglutida ao SUS",
+        "link": "https://www.infomoney.com.br/saude/novo-nordisk-propoe-desconto-de-59-para-levar-semaglutida-ao-sus/",
+        "summary": "Proposta da farmacêutica à Conitec mira pacientes com obesidade que já sofreram infarto e busca reduzir custos e risco cardiovascular The post Novo Nordisk propõe desconto de 59% para levar semaglutida ao SUS appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-02T201527Z_1_LYNXMPEL410X7_RTROPTP_4_USA-HEALTH-OBESITY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mbappé passa Ronaldo, iguala Klose e encosta em Messi na artilharia histórica da Copa",
-        "link": "https://www.infomoney.com.br/esportes/mbappe-passa-ronaldo-iguala-klose-e-encosta-em-messi-na-artilharia-historica-da-copa/",
-        "summary": "Atacante francês chega a 16 gols em Mundiais, divide o 2º lugar da artilharia histórica e mantém disputa direta com o argentino Lionel Messi The post Mbappé passa Ronaldo, iguala Klose e encosta em Messi na artilharia hi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T005941Z_1534294103_UP1EM6N027PBJ_RTRMADP_3_SOCCER-WORLDCUP-FRA-IRQ.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+        "title": "EUA: Justiça nega julgamento à revelia de Moraes e aceita AGU em ação da Rumble",
+        "link": "https://www.infomoney.com.br/politica/eua-justica-nega-julgamento-a-revelia-de-moraes-e-aceita-agu-em-acao-da-rumble/",
+        "summary": "A decisão representa uma vitória processual inicial para ministro do STF The post EUA: Justiça nega julgamento à revelia de Moraes e aceita AGU em ação da Rumble appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55129476823_7ea5518c8f_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "23 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Copa do Mundo: veja como ficou a classificação do Grupo J após vitória da Argentina",
-        "link": "https://exame.com/esporte/copa-do-mundo-veja-como-ficou-a-classificacao-do-grupo-j-apos-vitoria-da-argentina/",
-        "summary": "Atual campeã mundial, a Argentina encaminhou a classificação ao mata-mata após a segunda rodada da fase de grupos",
+        "title": "Quando estreia o 2º episódio da 3ª temporada de 'A Casa do Dragão'?",
+        "link": "https://exame.com/pop/quando-estreia-o-2o-episodio-da-3a-temporada-de-a-casa-do-dragao/",
+        "summary": "Série da HBO seguirá com lançamentos semanais até a exibição do oitavo e último episódio da temporada",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Olivia Rodrigo reúne cantoras em festival sem fins lucrativos na Califórnia; confira line-up",
-        "link": "https://exame.com/pop/olivia-rodrigo-reune-cantoras-em-festival-sem-fins-lucrativos-na-california-confira-line-up/",
-        "summary": "Cantora anunciou o Daisy Chain Fields, evento com artistas mulheres e bandas lideradas por mulheres, cuja renda será destinada a organizações sociais",
+        "title": "Soberania digital e IA: saiba quem domina o ranking global",
+        "link": "https://exame.com/inteligencia-artificial/soberania-digital-saiba-quem-lidera-o-ranking-global/",
+        "summary": "Índice internacional revela quais países têm maior controle sobre infraestrutura tecnológica, dados e inteligência artificial",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Treinador do Uzbequistão é um dos técnicos mais bem pagos da Copa do Mundo",
-        "link": "https://exame.com/esporte/treinador-do-uzbequistao-e-um-dos-tecnicos-mais-bem-pagos-da-copa-do-mundo/",
-        "summary": "Campeão do mundo em 2006 pela Itália, o ex-zagueiro é responsável por comandar uma das seleções que estão estreando em Copas",
+        "title": "Quem é Gannon-Doak? Escócia usa promessa contra o Brasil em jogo decisivo",
+        "link": "https://exame.com/esporte/quem-e-gannon-doak-escocia-usa-promessa-contra-o-brasil-em-jogo-decisivo/",
+        "summary": "Duelo contra o Brasil pode marcar a consolidação internacional da jovem promessa escocesa",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Portugal corre risco? Veja quem ocupa as vagas dos melhores terceiros da Copa do Mundo",
-        "link": "https://exame.com/esporte/portugal-corre-risco-veja-quem-ocupa-as-vagas-dos-melhores-terceiros-da-copa-do-mundo/",
-        "summary": "Com o novo formato da Copa do Mundo de 2026, oito seleções avançam ao mata-mata mesmo sem terminar entre as duas primeiras de seus grupos",
+        "title": "ONU anuncia evacuação de 11 mil embarcações militares paradas em Ormuz",
+        "link": "https://exame.com/mundo/onu-anuncia-evacuacao-de-11-mil-embarcacoes-militares-paradas-em-ormuz/",
+        "summary": "A operação será coordenada pela Organização Marítima Internacional após retomada parcial do tráfego na rota estratégica de petróleo, ainda sob tensão entre Irã e Estados Unidos",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "A Meta pagou US$ 900 milhões por uma fintech indiana — e levou o fundador de brinde",
-        "link": "https://exame.com/tecnologia/a-meta-pagou-us-900-milhoes-por-uma-fintech-indiana-e-levou-o-fundador-de-brinde/",
-        "summary": "Kunal Shah, que criou a CRED em 2018 com a própria fortuna, deixa a empresa avaliada em US$ 4 bilhões para comandar o WhatsApp e seus mais de 3 bilhões de usuários",
+        "title": "Datafolha: maioria apoia PCC e CV como terroristas, mas rejeita intervenção dos EUA",
+        "link": "https://exame.com/brasil/datafolha-maioria-apoia-pcc-e-cv-como-terroristas-mas-rejeita-intervencao-dos-eua/",
+        "summary": "A percepção varia conforme a preferência política dos entrevistados, de acordo com os resultados da pesquisa",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "SSDs e armazenamento externo: guia rápido para quem trabalha com arquivos pesados",
-        "link": "https://exame.com/tecnologia/examelab/ssds-e-armazenamento-externo-guia-rapido-para-quem-trabalha-com-arquivos-pesados/",
-        "summary": "Entenda as diferenças de velocidade e custo entre SSD interno, SSD externo e HD externo para escolher o tipo certo de armazenamento",
+        "title": "Onde fica o Uzbequistão? O país do algodão e da Rota da Seda vive sua 1ª Copa",
+        "link": "https://exame.com/mundo/onde-fica-o-uzbequistao-o-pais-do-algodao-e-da-rota-da-seda-vive-sua-1a-copa/",
+        "summary": "Herança de seus dias como polo na rota da seda, o algodão continua sendo parte central da identidade uzbeque",
         "image": null,
         "date": "23 de jun. de 2026",
         "source": "Exame",
