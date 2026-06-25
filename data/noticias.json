@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-25T21:00:25.739Z",
+  "updated": "2026-06-25T23:22:05.180Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Motorista com sinais de embriaguez tomba carro durante perseguição e é detido em Vinhedo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/25/motorista-sinais-embriaguez-tomba-carro-durante-perseguicao-detido-vinhedo.ghtml",
+        "summary": "Motorista tomba carro, apresenta sinais de embriaguez e é detido em Vinhedo Guarda Civil Municipal Um motorista com sinais de embriaguez tombou o carro durante uma perseguição e foi detido pela Guarda Civil Municipal (GC",
+        "image": "https://s2-g1.glbimg.com/US7HWmInBKI-r-U5w2g7EkpTxhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/w/GO2WmaQV2cGvhZXnB1ZQ/1200px-x-800px-2-.jpg",
+        "date": "25 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Replan bate recorde de produção e Petrobras atribui alta a conflito no Oriente Médio",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/25/refinaria-da-petrobras-em-paulinia-bate-recorde-e-tem-maior-producao-mensal-da-serie-historica.ghtml",
+        "summary": "Replan, a maior refinaria de petróleo da Petrobras, fica em Paulínia (SP) Júlio César Costa/g1 A Refinaria de Paulínia (Replan), a maior da Petrobras, registrou em maio de 2026 o maior volume mensal de produção de deriva",
+        "image": "https://s2-g1.glbimg.com/l5yZfhlsoC8_x9CZoZqCRxjxR8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/5/mHo63oQ5ishj5NAJqWyg/jcc5824.jpg",
+        "date": "25 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Campinas adia obras do BRT Central em trecho da Irmã Serafina",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/25/campinas-inicia-obras-do-brt-central-em-trecho-da-irma-serafina-veja-o-que-muda-no-transito-e-em-linhas-de-onibus.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/25/fiscalizacao-apreende-432-kg-de-carnes-improprias-em-mercado-de-indaiatuba.ghtml",
         "summary": "432 kg de carne e outros alimentos foram apreendidos durante a ação Vigilância Sanitária A Vigilância Sanitária e o Procon apreenderam 432 kg de carnes impróprias para consumo em um mercado localizado no Jardim Morada do",
         "image": "https://s2-g1.glbimg.com/nbJneSs1z6-WDWcwbhZCbLb_u60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/k/JRLJAUTj2eWMRzzTBHoA/design-sem-nome-28-.png",
-        "date": "25 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Entre castelos e florestas: a diversidade do Quebec em quatro estações",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/vbra-extraordinario-canada/noticia/2026/06/25/entre-castelos-e-florestas-a-diversidade-do-quebec-em-quatro-estacoes.ghtml",
-        "summary": "A Cidade de Quebec é a mais antiga da América do Norte de origem europeia e a única cidade murada. Foto: Crédito: Région de Québec Crédito: GouvQc Jean-François Frenette Com ruas de paralelepípedo, bistrôs fumegantes, ca",
-        "image": "https://s2-g1.glbimg.com/9COouDnS7Z8tU1ZHo3WzVsdmyTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/lp3IlKRRm2iw2Zm2I66w/foto-1.jpg",
-        "date": "25 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pesquisa: Amazônia depende dos animais mais do que se imaginava; entenda",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/25/pesquisa-amazonia-depende-dos-animais-mais-do-que-se-imaginava-entenda.ghtml",
-        "summary": "Sem animais, 99% das árvores da Amazônia não conseguem se reproduzir, mostra estudo Charles Gates/Animalia A reprodução da maior parte das árvores da Amazônia depende diretamente de animais como abelhas, aves, mamíferos ",
-        "image": "https://s2-g1.glbimg.com/RxaQB87fuV56zK7CkRK20AktQVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/j/m8YkVnSXybYc6qr4A1xQ/great-kiskadee-1.webp",
         "date": "25 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Venezuela: número de desaparecidos em terremoto pode passar de 40 mil",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/venezuela-numero-de-desaparecidos-em-terremoto-pode-passar-de-40-mil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/venezuela-numero-de-desaparecidos-em-terremoto-pode-passar-de-40-mil img src= https://cdn.jsdelivr.net/gh/sergio",
+        "title": "PGR rejeita proposta de delação premiada de ex-presidente do BRB",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-rejeita-proposta-de-delacao-premiada-de-ex-presidente-do-brb",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-rejeita-proposta-de-delacao-premiada-de-ex-presidente-do-brb img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Brasil prepara emissão de títulos em yuan na China",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-prepara-emissao-de-titulos-em-yuan-na-china",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-prepara-emissao-de-titulos-em-yuan-na-china img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0",
+        "title": "CMN passa a exigir fotos com localização comprovada em seguro rural",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cmn-passa-exigir-fotos-com-localizacao-comprovada-em-seguro-rural",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cmn-passa-exigir-fotos-com-localizacao-comprovada-em-seguro-rural img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Com novo título, vendas do Tesouro Direto superam R$ 10 bi em maio",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/com-novo-titulo-vendas-do-tesouro-direto-superam-r-10-bi-em-maio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/com-novo-titulo-vendas-do-tesouro-direto-superam-r-10-bi-em-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Conselho Monetário regulamenta bloqueio de contas de apostas ilegais",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/conselho-monetario-regulamenta-bloqueio-de-contas-de-apostas-ilegais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/conselho-monetario-regulamenta-bloqueio-de-contas-de-apostas-ilegais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Mendonça autoriza transferência de Vorcaro para Papudinha",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/mendonca-autoriza-transferencia-de-vorcaro-para-papudinha",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/mendonca-autoriza-transferencia-de-vorcaro-para-papudinha img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "title": "Movimentação nas fronteiras do Brasil sobe 15,6% em 2025",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/movimentacao-nas-fronteiras-do-brasil-sobe-156-em-2025",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/movimentacao-nas-fronteiras-do-brasil-sobe-156-em-2025 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Arrecadação federal bate recorde de R$ 266,8 bilhões em maio",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/arrecadacao-federal-bate-recorde-de-r-2668-bilhoes-em-maio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/arrecadacao-federal-bate-recorde-de-r-2668-bilhoes-em-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "title": "Brasil envia nesta sexta missão humanitária à Venezuela, anuncia Lula",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-envia-nesta-sexta-missao-humanitaria-venezuela-anuncia-lula",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-envia-nesta-sexta-missao-humanitaria-venezuela-anuncia-lula img src= https://cdn.jsdelivr.net/gh/sergiosd",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Pessoas com HIV e aids falam de sua marginalização na sociedade",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/pessoas-com-hiv-e-aids-fala-de-sua-marginalizacao-na-sociedade",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/pessoas-com-hiv-e-aids-fala-de-sua-marginalizacao-na-sociedade img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Pacto quer garantir trabalho decente em grandes eventos no Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/pacto-quer-garantir-trabalho-decente-em-grandes-eventos-no-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/pacto-quer-garantir-trabalho-decente-em-grandes-eventos-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Veja fotos dos treinos do Santos desta quinta-feira",
-        "link": "https://www.gazetaesportiva.com/times/santos/veja-fotos-dos-treinos-do-santos-desta-quinta-feira/",
-        "summary": "Veja fotos dos treinos do Santos desta quinta-feira. Nesta quinta-feira, o técnico Cuca comandou dois treinos com foco na parte física. O post Veja fotos dos treinos do Santos desta quinta-feira apareceu primeiro em Gaze",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55357072730_bf74beddfa_c.webp",
+        "title": "Goiás anuncia contratação do técnico Mozart para sequência da Série B",
+        "link": "https://www.gazetaesportiva.com/times/goias/goias-anuncia-contratacao-do-tecnico-mozart-para-sequencia-da-serie-b/",
+        "summary": "Goiás anuncia Mozart como novo técnico para a sequência da Série B. Treinador chega após passagens por Ceará, Coritiba e Mirassol. O post Goiás anuncia contratação do técnico Mozart para sequência da Série B apareceu pri",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/imagem_2026-06-25_195838606-1.webp",
         "date": "25 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos treina em dois períodos e aprimora parte física em início de intertemporada",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-treina-em-dois-periodos-e-aprimora-parte-fisica-em-inicio-de-intertemporada/",
-        "summary": "A preparação do Santos para o segundo semestre segue a todo vapor. Nesta quinta-feira, os jogadores treinaram mais uma vez em dois períodos, no CT Rei Pelé, em Santos (SP). A primeira semana de intertemporada do Peixe te",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55355710987_0f76f1c35b_c.webp",
+        "title": "Presidente do Ceará denuncia bomba enviada em presente para filha: Mexeram com inocentes",
+        "link": "https://www.gazetaesportiva.com/times/ceara/presidente-do-ceara-denuncia-bomba-enviada-em-presente-para-filha-mexeram-com-inocentes/",
+        "summary": "O presidente do Ceará, João Paulo Silva, denunciou um novo ato de intimidação hostil recebido durante o mandato do clube. O executivo compartilhou que, na tarde desta quinta-feira, uma bomba foi enviada por meio de um “p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-25-at-19.39.36.webp",
         "date": "25 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do duelo entre Curaçao e Costa do Marfim pela Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/costa-do-marfim/veja-fotos-do-duelo-entre-curacao-e-costa-do-marfim-pela-copa-do-mundo/",
-        "summary": "Veja uma galeria de fotos do jogo entre Curação e Costa do Marfim, nesta quinta-feira, pela última rodada do Grupo E da Copa do Mundo. O post Veja fotos do duelo entre Curaçao e Costa do Marfim pela Copa do Mundo aparece",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260625__2283320612__v1__HighRes__CuracaoVCoteDIvoireGroupEFifaWorldCup2026.webp",
+        "title": "Uruguai x Espanha: veja prováveis escalações e onde assistir ao confronto pela Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/uruguai-x-espanha-veja-provaveis-escalacoes-e-onde-assistir-ao-confronto-pela-copa-do-mundo/",
+        "summary": "Uruguai e Espanha se enfrentam pela última rodada do Grupo H da Copa do Mundo de 2026 em duelo decisivo. Enquanto a seleção espanhola busca confirmar a liderança, os uruguaios entram pressionados e precisam vencer para g",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260621__B7TD3YF__v1__MidRes__FblWc2026Match38EspKsa.webp",
         "date": "25 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Quando o Brasil pode enfrentar as grandes seleções na Copa? Veja cenários",
-        "link": "https://www.gazetaesportiva.com/times/brasil/quando-o-brasil-pode-enfrentar-as-grandes-selecoes-na-copa-veja-cenarios/",
-        "summary": "Já classificado como líder do Grupo C, o Brasil aguarda a definição do Grupo F para conhecer seu adversário nas oitavas da Copa do Mundo de 2026. A partir daí, o caminho no mata-mata pode reservar confrontos com potência",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__B88M3BG__v1__HighRes__FblWc2026Match49ScoBra.webp",
+        "title": "Novorizontino x Vila Nova: prováveis escalações e onde assistir ao jogo pela Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-x-vila-nova-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
+        "summary": "Novorizontino e Vila Nova se enfrentam nesta sexta-feira, pela 15ª rodada da Série B do Campeonato Brasileiro. A bola rola para o duelo às 19h (de Brasília), no Estádio Dr. Jorge Ismael de Biasi, o Jorjão, em Novo Horizo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/IMG_5580.webp",
         "date": "25 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians busca empate no fim contra o Flamengo no Brasileiro sub-20",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-busca-empate-no-fim-contra-o-flamengo-no-brasileiro-sub-20/",
-        "summary": "Nesta quinta-feira, o Corinthians buscou o empate por 2 a 2 contra o Flamengo, no Estádio da Fazendinha, pela 18ª rodada do Campeonato Brasileiro sub-20 e se manteve dentro da zona de classificação à próxima fase da comp",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/245476.webp",
+        "title": "Cabo Verde x Arábia Saudita: veja onde assistir e prováveis escalações do jogo da Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/cabo-verde/cabo-verde-x-arabia-saudita-onde-assistir/",
+        "summary": "Cabo Verde e Arábia Saudita se enfrentam nesta sexta-feira (26), às 21h (de Brasília), no NRG Stadium, em Houston, pela última rodada do Grupo H da Copa do Mundo 2026. A partida vale vaga no mata-mata, com os africanos i",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260621__B7TX6ZZ__v1__HighRes__FblWc2026Match37UruCpv.webp",
         "date": "25 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras vence o Fluminense e garante a liderança na primeira fase do Brasileirão sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-fluminense-liderana-brasileirao-sub-20/",
-        "summary": "O Palmeiras venceu o Fluminense na tarde desta quinta-feira por 3 a 0, pela 18ª rodada do Campeonato Brasileiro sub-20. O post Palmeiras vence o Fluminense e garante a liderança na primeira fase do Brasileirão sub-20 apa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55357182233_2d80c63749_5k-2000x1200-1.webp",
+        "title": "Noruega x França pela Copa do Mundo: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/noruega-x-franca-onde-assistir-copa-2026/",
+        "summary": "Noruega e França se enfrentam pela liderança do Grupo I da Copa do Mundo de 2026. Ambas já classificadas, as seleções chegam com 100% de aproveitamento, e o duelo em Boston definirá quem avança em primeiro lugar. O post ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260621__B7TU4E4__v1__HighRes__FblWc2026TrainingFra.webp",
         "date": "25 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,46 @@
       }
     ],
     "negocios": [
+      {
+        "title": "CMN passa a exigir fotos com localização comprovada em seguro rural",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cmn-passa-exigir-fotos-com-localizacao-comprovada-em-seguro-rural",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cmn-passa-exigir-fotos-com-localizacao-comprovada-em-seguro-rural img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "25 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Conselho Monetário regulamenta bloqueio de contas de apostas ilegais",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/conselho-monetario-regulamenta-bloqueio-de-contas-de-apostas-ilegais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/conselho-monetario-regulamenta-bloqueio-de-contas-de-apostas-ilegais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "25 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Pacto quer garantir trabalho decente em grandes eventos no Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/pacto-quer-garantir-trabalho-decente-em-grandes-eventos-no-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/pacto-quer-garantir-trabalho-decente-em-grandes-eventos-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "25 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/caixa-libera-dinheiro-de-antigo-fundo-pispasep-veja-como-sacar",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/caixa-libera-dinheiro-de-antigo-fundo-pispasep-veja-como-sacar img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "25 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Jovens ocupados são a maioria, mas 6,2 milhões seguem como “nem-nem”",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/jovens-ocupados-sao-maioria-mas-62-milhoes-seguem-como-nem-nem",
@@ -267,109 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Com novo título, vendas do Tesouro Direto superam R$ 10 bi em maio",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/com-novo-titulo-vendas-do-tesouro-direto-superam-r-10-bi-em-maio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/com-novo-titulo-vendas-do-tesouro-direto-superam-r-10-bi-em-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "25 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Arrecadação federal bate recorde de R$ 266,8 bilhões em maio",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/arrecadacao-federal-bate-recorde-de-r-2668-bilhoes-em-maio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/arrecadacao-federal-bate-recorde-de-r-2668-bilhoes-em-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "25 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Lula assina contratos para retomar obra em fábrica de fertilizantes",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/lula-assina-contratos-para-retomar-obra-em-fabrica-de-fertilizantes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/lula-assina-contratos-para-retomar-obra-em-fabrica-de-fertilizantes img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "25 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Banco Central prevê crescimento de 2% para o PIB em 2026",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/banco-central-preve-crescimento-de-2-para-o-pib-em-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/banco-central-preve-crescimento-de-2-para-o-pib-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
-        "image": null,
-        "date": "25 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Criptomoedas: bitcoin cai à mínima em 21 meses com saídas de ETFs e juros elevados",
-        "link": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-cai-a-minima-em-21-meses-com-saidas-de-etfs-e-juros-elevados/",
-        "summary": "O forte volume de resgates em ETFs e o clima de aversão ao risco no exterior derrubaram a criptomoeda, que ignorou os dados mais recentes de inflação nos Estados Unidos The post Criptomoedas: bitcoin cai à mínima em 21 m",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2025-12-19T144622Z_590864492_RC22PGAN2LCD_RTRMADP_3_FINTECH-CRYPTO-MSCI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Paraguai x Austrália: modelo matemático aponta possível resultado do jogo; veja",
+        "link": "https://www.infomoney.com.br/esportes/paraguai-x-australia-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quinta-feira, 25 The post Paraguai x Austrália: modelo matemático aponta possível resultado do jogo; veja appe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2506_Paraguai_Australia.png?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "25 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Tunísia x Holanda?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-tunisia-x-holanda/",
-        "summary": "A Holanda e Tunísia jogam pelo grupo F The post Onde assistir Tunísia x Holanda? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-tunisia-x-paises-baixos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Turquia x Estados Unidos: modelo matemático aponta possível resultado do jogo; veja",
+        "link": "https://www.infomoney.com.br/esportes/turquia-x-estados-unidos-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta quinta-feira, 25 The post Turquia x Estados Unidos: modelo matemático aponta possível resultado do jogo; veja ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2506_Turquia_EUA.png?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "25 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Japão x Suécia?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-japao-suecia/",
-        "summary": "Japão disputa o primeiro lugar do grupo, enquanto a Suécia luta para manter o terceiro The post Onde assistir Japão x Suécia? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-japao-x-suecia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "S P vê fragilidade fiscal persistente, mas confirma rating BB do Brasil",
+        "link": "https://www.infomoney.com.br/economia/sp-mantem-rating-do-brasil-em-bb-com-perspectiva-estavel/",
+        "summary": "Agência vê fragilidade fiscal persistente, mas destaca força externa e monetária The post S P vê fragilidade fiscal persistente, mas confirma rating BB do Brasil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/bandeira-brasil-feriado-independencia.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "NY fecha sem direção única com nova fuga de techs, dados dos EUA e tensões em Ormuz",
-        "link": "https://www.infomoney.com.br/mercados/ny-fecha-sem-direcao-unica-com-nova-fuga-de-techs-dados-dos-eua-e-tensoes-em-ormuz/",
-        "summary": "Os investidores continuaram a migração da semana para fora das ações de tecnologia, mesmo após os resultados acima das estimativas da Micron The post NY fecha sem direção única com nova fuga de techs, dados dos EUA e ten",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/mercado-bolsa-wall-street-stock-exchange.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA AOS GOLS: Costa do Marfim bate Curaçao e vai ao mata-mata da Copa pela 1ª vez",
+        "link": "https://www.infomoney.com.br/esportes/jogo-costa-do-marfim-curacao-copa-2026/",
+        "summary": "A equipe africana terminou a fase de grupos na segunda colocação do Grupo E, com os mesmos seis pontos da líder Alemanha, superada apenas nos critérios de desempate The post ASSISTA AOS GOLS: Costa do Marfim bate Curaçao",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-25T204630Z_1872051115_UP1EM6P1K4H7O_RTRMADP_3_SOCCER-WORLDCUP-CUW-CIV.jpg?fit=300%2C214&amp;quality=70&amp;strip=all",
         "date": "25 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dólar hoje fecha abaixo de R$ 5,20, com alívio de apostas de alta de juros pelo Fed",
-        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25062026/",
-        "summary": "IPCA-15 sobe 0,41% em junho, um pouco abaixo do esperado pelo mercado The post Dólar hoje fecha abaixo de R$ 5,20, com alívio de apostas de alta de juros pelo Fed appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA AOS GOLS: Equador vira sobre a Alemanha e avança à 2ª fase da Copa do Mundo",
+        "link": "https://www.infomoney.com.br/esportes/jogo-equador-alemanha-copa-2026/",
+        "summary": "Coube a Gonzalo Plata, atacante do Flamengo, assumir o papel de herói de uma classificação pouco esperada do Equador rumo à segunda fase da Copa do Mundo 2026 The post ASSISTA AOS GOLS: Equador vira sobre a Alemanha e av",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-25T215646Z_2027012125_UP1EM6P1OGUK8_RTRMADP_3_SOCCER-WORLDCUP-ECU-GER.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
         "date": "25 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mercado imobiliário perde confiança em alívio dos juros neste ano",
-        "link": "https://www.infomoney.com.br/business/mercado-imobiliario-perde-confianca-em-alivio-dos-juros-neste-ano/",
-        "summary": "Declarações mais mornas foram compartilhadas na manhã desta quinta-feira, 25 de junho, durante o Summit ABRAINC 2026 The post Mercado imobiliário perde confiança em alívio dos juros neste ano appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/construcao_civil_2306219892.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Mais da metade das canetas emagrecedoras vem do mercado informal, diz estudo",
+        "link": "https://www.infomoney.com.br/business/mais-da-metade-das-canetas-emagrecedoras-vem-do-mercado-informal-diz-estudo/",
+        "summary": "A estimativa faz parte de um estudo realizado pela Scanntech e mostra que, considerando a soma do mercado formal com o informal, o uso desses medicamentos cresceu 239% no primeiro trimestre de 2026 The post Mais da metad",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/ozempic-mounjaro-canetas-emagrecedoras.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
         "date": "25 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BTG Pactual leva soluções de crédito, recebíveis e gestão financeira para ABF Franchising Expo 2026",
-        "link": "https://exame.com/negocios/btg-pactual-leva-solucoes-de-credito-recebiveis-e-gestao-financeira-para-abf-franchising-expo-2026/",
-        "summary": "Eleito quatro vezes o Melhor Banco do Mundo para Empresas, a instituição estará presente no Expo Center Norte entre os dias 24 e 27 de junho com portfólio que inclui conta PJ gratuita, antecipação de recebíveis e economi",
+        "title": "Quando Brasil pode enfrentar Alemanha no mata-mata da Copa do Mundo? Veja cenário do chaveamento",
+        "link": "https://exame.com/esporte/quando-brasil-pode-enfrentar-alemanha-no-mata-mata-da-copa-do-mundo-veja-cenario-do-chaveamento/",
+        "summary": "Alemanha sofre virada do Equador, mas segue líder do Grupo D; Brasil e Alemanha podem se enfrentar somente na final do Mundial",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Terremoto de magnitude 7,5 x 6,5: o que explica tanta diferença?",
-        "link": "https://exame.com/ciencia/terremoto-de-magnitude-75-x-65-o-que-explica-tanta-diferenca/",
-        "summary": "A escala usada para medir terremotos é logarítmica, fazendo pequenas diferenças representarem enormes aumentos de energia; entenda",
+        "title": "Notificação do BC a bancos deixa criptomoedas até 2% mais caras no Brasil; entenda",
+        "link": "https://exame.com/future-of-money/notificacao-do-bc-a-bancos-deixa-criptomoedas-2-mais-caras-no-brasil-entenda/",
+        "summary": "Autoridade monetária paralisou a formação de mercado ao demonstrar preocupação com lavagem de dinheiro por fundos que \"importam cripto\"",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Empresa prevê que melhor criptomoeda de 2026 pode subir até 1.000% em dois anos",
-        "link": "https://exame.com/future-of-money/empresa-preve-que-melhor-criptomoeda-de-2026-pode-subir-ate-1-000-em-dois-anos/",
-        "summary": "Token foi na contramão do bitcoin neste ano e pertence a um projeto que é considerado o maior concorrente da Binance atualmente",
+        "title": "16 avos de final? Entenda o nome da nova fase da Copa do Mundo",
+        "link": "https://exame.com/esporte/16-avos-de-final-entenda-o-nome-da-nova-fase-da-copa-do-mundo/",
+        "summary": "Mudança no formato do torneio trouxe uma nomenclatura pouco conhecida para o mata-mata",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Terremoto raso ou profundo: por que isso importa mais que a magnitude",
-        "link": "https://exame.com/ciencia/terremoto-raso-ou-profundo-por-que-isso-importa-mais-que-a-magnitude/",
-        "summary": "Entenda por que a distância entre o foco do terremoto e a superfície pode aumentar ou reduzir os danos, mesmo quando a magnitude é semelhante",
+        "title": "Quem é Gonzalo Plata, o 'herói' que venceu a Alemanha e levou o Equador ao mata-mata da Copa",
+        "link": "https://exame.com/esporte/quem-e-gonzalo-plata-o-heroi-que-venceu-a-alemanha-e-levou-o-equador-ao-mata-mata-da-copa/",
+        "summary": "Equador vence a Alemanha de virada com gol de Plata e avança na Copa do Mundo pelo grupo E",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ancelotti aprova evolução do Brasil, mas vê espaço para crescer na Copa do Mundo",
-        "link": "https://exame.com/esporte/ancelotti-aprova-evolucao-do-brasil-mas-ve-espaco-para-crescer-na-copa-do-mundo/",
-        "summary": "Treinador destacou melhora da Seleção após vitória sobre a Escócia e apontou ajustes para o mata-mata",
+        "title": "Holanda x Tunísia: veja horário, onde assistir e escalações do jogo da Copa do Mundo hoje",
+        "link": "https://exame.com/esporte/holanda-x-tunisia-veja-horario-onde-assistir-e-escalacoes-do-jogo-da-copa-do-mundo-hoje/",
+        "summary": "Partida da terceira e última rodada do Grupo F acontece nesta quinta-feira, 25; Holanda busca liderança da chave, enquanto Tunísia já está eliminada",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Galípolo diz que BC enviou informações sobre Pix aos EUA para investigação",
-        "link": "https://exame.com/brasil/galipolo-diz-que-bc-enviou-informacoes-sobre-pix-aos-eua-para-investigacao/",
-        "summary": "Gabriel Galípolo afirmou que órgão auxilia governo americano em análise do USTR, que apontou supostos prejuízos a empresas de pagamento dos Estados Unidos",
+        "title": "Veja quem a Alemanha deve enfrentar no mata-mata da Copa do Mundo",
+        "link": "https://exame.com/esporte/veja-quem-a-alemanha-deve-enfrentar-no-mata-mata-da-copa-do-mundo/",
+        "summary": "Os alemães garantiram a primeira colocação do Grupo E e vão encarar um dos melhores terceiros colocados entre os grupos A, B, C, D e F",
         "image": null,
         "date": "25 de jun. de 2026",
         "source": "Exame",
