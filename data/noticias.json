@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:09:54.821Z",
+  "updated": "2026-06-27T23:07:57.495Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasil faz penúltimo treino e viaja para o Texas onde enfrenta Japão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/brasil-faz-penultimo-treino-e-viaja-para-o-texas-onde-enfrenta-japao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/brasil-faz-penultimo-treino-e-viaja-para-o-texas-onde-enfrenta-japao img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil inicia operações de busca e resgate após terremoto na Venezuela",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-inicia-operacoes-de-busca-e-resgate-apos-terremoto-na-venezuela",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/brasil-inicia-operacoes-de-busca-e-resgate-apos-terremoto-na-venezuela img src= https://cdn.jsdelivr.net/gh/serg",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Alemanha e Dinamarca registram temperaturas recordes",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/alemanha-e-dinamarca-registram-temperaturas-recordes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/alemanha-e-dinamarca-registram-temperaturas-recordes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
@@ -161,87 +181,127 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Hospital universitário no Rio inaugura era de UTIs Inteligentes no SUS",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Instituto anuncia no CineOP centro para preservar audiovisual",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/instituto-anuncia-no-cineop-centro-para-preservar-audiovisual",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/instituto-anuncia-no-cineop-centro-para-preservar-audiovisual img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Alexandre Mattos explica cautela do Santos no mercado: Buscar o equilíbrio",
-        "link": "https://www.gazetaesportiva.com/times/santos/alexandre-mattos-explica-cautela-do-santos-no-mercado-buscar-o-equilibrio/",
-        "summary": "Alexandre Mattos afirma que o Santos terá cautela no mercado, priorizará a base e buscará equilíbrio financeiro antes de fazer contratações. O post Alexandre Mattos explica cautela do Santos no mercado: Buscar o equilíbr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/WhatsApp-Image-2026-06-27-at-17.56.19.webp",
+        "title": "África do Sul x Canadá pela Copa do Mundo: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/africa-do-sul-x-canada-pela-copa-do-mundo-veja-provaveis-escalacoes-e-onde-assistir/",
+        "summary": "Neste domingo, África do Sul e Canadá entram em campo pela segunda fase da Copa do Mundo de 2026. O duelo, que abre a fase eliminatória do torneio, será disputado no Los Angeles Stadium (SoFi Stadium), em Inglewood, Cali",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__2282267656__v1__MidRes__CanadaVQatarGroupBFifaWorldCup2026.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Mistura de sentimentos marca expectativa dos iranianos sobre seu futuro na Copa",
-        "link": "https://www.gazetaesportiva.com/times/ira/mistura-de-sentimentos-marca-expectativa-dos-iranianos-sobre-seu-futuro-na-copa/",
-        "summary": "Torcedores iranianos viveram momentos de emoção e frustração ao acompanhar o empate contra o Egito na Copa do Mundo de 2026. Em Teerã, o ambiente misturou expectativa, tensão e decepção, refletindo a situação delicada da",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__2283519063__v1__MidRes__EgyptVIrIranGroupGFifaWorldCup2026.webp",
+        "title": "Croácia bate Gana e avança à segunda fase da Copa na vice-liderança do grupo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/croacia-x-gana-copa-do-mundo-2026/",
+        "summary": "A Croácia venceu Gana por 2 a 1 neste sábado, pela terceira rodada do Grupo L da Copa do Mundo de 2026. Com gols de Petar Sucic e Vlasic, os croatas garantiram a vice-liderança da chave e avançaram à segunda fase, enquan",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__2283616354__v1__MidRes__CroatiaVGhanaGroupLFifaWorldCup2026.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Djokovic avisa que chega a Wimbledon mais bem preparado, após decepção em Roland Garros",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/djokovic-avisa-que-chega-a-wimbledon-mais-bem-preparado-apos-decepcao-em-roland-garros/",
-        "summary": "Novak Djokovic afirmou que chega mais preparado para Wimbledon após a eliminação para João Fonseca em Roland Garros e mira seu oitavo título no torneio inglês. O post Djokovic avisa que chega a Wimbledon mais bem prepara",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260626__B8FD9KZ__v1__HighRes__TennisGbrHurlingham.webp",
+        "title": "Inglaterra bate Panamá com gol histórico de Kane e avança como líder na Copa",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-bate-panama-com-gol-historico-de-kane-e-avanca-como-lider-na-copa/",
+        "summary": "A Inglaterra venceu o Panamá por 2 a 0, garantiu a liderança do Grupo L da Copa do Mundo e viu Harry Kane se tornar o maior artilheiro inglês da história dos Mundiais. O post Inglaterra bate Panamá com gol histórico de K",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__B8JR2UK__v1__HighRes__FblWc2026Match67PanEng.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasil perde da Eslovênia e amarga terceira derrota seguida na Liga das Nações de Vôlei",
-        "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/brasil-perde-da-eslovenia-e-amarga-terceira-derrota-seguida-na-liga-das-nacoes-de-volei/",
-        "summary": "A Seleção Brasileira masculina sofreu a terceira derrota consecutiva na Liga das Nações de Vôlei ao ser superada pela Eslovênia por 3 sets a 0. Com o resultado, o Brasil segue fora da zona de classificação direta e vê a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/ugr8mw3r0vty3ztyiqxt.webp",
+        "title": "Em dois turnos, Palmeiras intensifica treinos técnicos e foca em pontaria e marcação",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/em-dois-turnos-palmeiras-intensifica-treinos-tecnicos-e-foca-em-pontaria-e-marcacao/",
+        "summary": "Sob o comando da comissão, os jogadores realizaram treinos de enfrentamento, finalizações e dinâmicas de aproximação sob pressão. Para fechar o dia, o grupo disputou um coletivo em campo reduzido, com foco em transição r",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Em-dois-turnos.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com posto de número 1 ameaçado, Sabalenka diz que encara Wimbledon sem pensar no ranking",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sabalenka-wimbledon-ranking-rybakina/",
-        "summary": "Aryna Sabalenka afirmou que chega a Wimbledon sem se preocupar com a disputa pelo topo do ranking da WTA, apesar da ameaça de Elena Rybakina. O post Com posto de número 1 ameaçado, Sabalenka diz que encara Wimbledon sem ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260619__B7NN7BD__v1__HighRes__TennisWtaGer.webp",
+        "title": "Paysandu toma três do Santa Cruz e perde chance de liderar a Série C",
+        "link": "https://www.gazetaesportiva.com/times/paysandu/paysandu-toma-tres-do-santa-cruz-e-perde-chance-de-liderar-a-serie-c/",
+        "summary": "O Paysandu foi derrotado pelo Santa Cruz por 3 a 1 neste sábado (27), no Estádio Banpará Curuzu, em Belém, pela 12ª rodada da Série C do Brasileirão. Apesar do tropeço, o Papão permanece com 20 pontos e segue na terceira",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55361011089_48229ac891_o.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Rayan prega erro zero no mata-mata da Copa e mostra confiança no elenco da Seleção",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/rayan-prega-erro-zero-no-mata-mata-da-copa-e-mostra-confianca-no-elenco-da-selecao/",
-        "summary": "Em entrevista coletiva, o atacante projetou as exigências da fase eliminatória do Mundial e garantiu que todo o grupo está preparado para se desdobrar em campo em busca da classificação. O post Rayan prega erro zero no m",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/erro-zero.webp",
+        "title": "Com gol no fim, Portuguesa vence o Sampaio Corrêa-RJ e avança à terceira fase da Série D",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-d/com-gol-no-fim-portuguesa-vence-o-sampaio-correa-rj-e-avanca-a-terceira-fase-da-serie-d/",
+        "summary": "Confira os detalhes do duelo entre Portuguesa e Sampaio Corrêa-RJ, pelo jogo de volta da segunda fase da Série D do Campeonato Brasileiro. O post Com gol no fim, Portuguesa vence o Sampaio Corrêa-RJ e avança à terceira f",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/729302563_18607087819025302_4779873846411430699_n.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Bellingham brilha, Kane faz história, Inglaterra v...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16919071/bellingham-brilha-kane-faz-historiainglaterra-vence-panama-entra-possivel-caminho-brasil-mata-mata",
+        "summary": "Inglaterra venceu o Panamá por 2 a 0, neste sábado, no Metlife Stadium, em Nova Jersey, pela última rodada da fase de grupos da Copa do Mundo",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Croácia x Gana AO VIVO: siga ou ASSISTA na CazéTV,...",
+        "link": "https://www.espn.com.br/futebol/partida/_/jogoId/760480/gana-croacia",
+        "summary": "Croácia x Gana AO VIVO: SIGA em TEMPO REAL, ou ASSISTA na CazéTV, disponível sem custo adicional no Disney+",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Escalação da Seleção Brasileira: Ancelotti indica ...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16918355/copa-do-mundo-escalacao-selecao-brasileira-ancelotti-indica-time-encarar-japao-atingir-feito-inedito",
+        "summary": "Seleção Brasileira disputa, com os japoneses, uma vaga nas oitavas de final da Copa do Mundo",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Atacante do Japão 'desdenha' de Neymar e do Brasil...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16918703/atacante-japao-desdenha-neymar-antes-duelo-brasil-copa",
+        "summary": "null",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Japão preocupa? Zinho aponta 'fórmula mágica' para...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16917682/japao-preocupa-zinho-aponta-formula-magica-para-selecao-brasileira-avancar-na-copa-tem-que",
+        "summary": "null",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Fifa anuncia uniformes de Brasil e Japão para 16 a...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16917996/fifa-anuncia-uniformes-de-brasil-e-japao-para-partida-da-copa-do-mundo-veja-as-cores",
+        "summary": "null",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -257,9 +317,9 @@
         "cls": ""
       },
       {
-        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "26 de jun. de 2026",
         "source": "Agência Brasil",
@@ -267,9 +327,9 @@
         "cls": ""
       },
       {
-        "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "26 de jun. de 2026",
         "source": "Agência Brasil",
@@ -307,64 +367,104 @@
         "cls": ""
       },
       {
-        "title": "Na batalha por talento, Google deve perder mais dois executivos para a Anthropic",
-        "link": "https://www.infomoney.com.br/business/na-batalha-por-talento-google-deve-perder-mais-dois-executivos-para-a-anthropic/",
-        "summary": "As movimentações abalaram investidores e lançaram novas dúvidas sobre a capacidade do Google de competir na corrida feroz para construir modelos melhores The post Na batalha por talento, Google deve perder mais dois exec",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-25T211924Z_2_LYNXMPEM4O1Q2_RTROPTP_4_EU-ALPHABET-ANTITRUST.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
+        "title": "EUA realizam novos ataques contra alvos militares no Irã após investida a petroleiro",
+        "link": "https://www.infomoney.com.br/mundo/eua-realizam-novos-ataques-contra-alvos-militares-no-ira-apos-investida-a-petroleiro/",
+        "summary": "A ação militar foi motivada por um disparo de drone contra uma embarcação panamenha no Estreito de Ormuz, o que Washington considerou uma violação do acordo de cessar-fogo The post EUA realizam novos ataques contra alvos",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-16-083623.png?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dívida pública federal chega a R$ 9 trilhões em maio, diz Tesouro Nacional",
-        "link": "https://www.infomoney.com.br/economia/divida-publica-federal-chega-a-r-9-trilhoes-em-maio-diz-tesouro-nacional/",
-        "summary": "Crescimento foi de 2,66% em relação a abril, de acordo com o relatório The post Dívida pública federal chega a R$ 9 trilhões em maio, diz Tesouro Nacional appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Jordânia x Argentina: modelo matemático aponta possível resultado do jogo; veja",
+        "link": "https://www.infomoney.com.br/esportes/jordania-x-argentina-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste sábado, 27 The post Jordânia x Argentina: modelo matemático aponta possível resultado do jogo; veja appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2706_Jordania_Argentina.png?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Colômbia x Portugal?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-colombia-portugal/",
-        "summary": "Os times estão praticamente classificados para a próxima fase da Copa The post Onde assistir Colômbia x Portugal? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-colombia-x-portugal.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Argélia x Áustria: modelo matemático aponta possível resultado do jogo; veja",
+        "link": "https://www.infomoney.com.br/esportes/argelia-x-austria-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste sábado, 27 The post Argélia x Áustria: modelo matemático aponta possível resultado do jogo; veja appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2706_Argelia_Austria.png?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir RD Congo x Uzbequistão?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-rd-congo-uzbequistao/",
-        "summary": "O Congo ainda tenta garantir sua vaga direta à próxima fase da Copa The post Onde assistir RD Congo x Uzbequistão? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-republica-democratica-do-congo-x-uzbequistao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Flávio Bolsonaro diz que briga com Michelle é página virada",
+        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-diz-que-briga-com-michelle-e-pagina-virada-e-que-quer-vice-mulher/",
+        "summary": "Pré-candidato à Presidência buscou amenizar o desgaste do embate público com a ex-primeira-dama ao classificar o episódio como página virada durante evento em Goiás The post Flávio Bolsonaro diz que briga com Michelle é ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-e-michelle.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Rede mineira Coelho Diniz supera fatia de 25% no GPA, do Pão de Açúcar",
-        "link": "https://www.infomoney.com.br/business/rede-mineira-coelho-diniz-supera-fatia-de-25-no-gpa-do-pao-de-acucar/",
-        "summary": "Família controladora de rede de 22 supermercados em MG passou a deter mais de um quarto da GPA The post Rede mineira Coelho Diniz supera fatia de 25% no GPA, do Pão de Açúcar appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/GPA.png?fit=300%2C258&amp;quality=70&amp;strip=all",
+        "title": "Flávio volta a citar possibilidade de ter vice mulher após desgaste com Michelle",
+        "link": "https://www.infomoney.com.br/politica/flavio-volta-a-citar-possibilidade-de-ter-vice-mulher-apos-desgaste-com-michelle/",
+        "summary": "Declaração ocorre três dias após vídeos da ex-primeira-dama e reforça estratégia da campanha de ampliar protagonismo feminino na pré-candidatura The post Flávio volta a citar possibilidade de ter vice mulher após desgast",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-pl-politica-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "RD do Congo x Uzbequistão: modelo matemático aponta possível resultado do jogo; veja",
-        "link": "https://www.infomoney.com.br/esportes/rd-do-congo-x-uzbequistao-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida deste sábado, 27 The post RD do Congo x Uzbequistão: modelo matemático aponta possível resultado do jogo; veja appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2706_RepublicaDemocraticadoCongo_Uzbequistao.png?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "João Fonseca tem dia e horário definidos para estrear em Wimbledon contra ex-Top 10",
+        "link": "https://www.infomoney.com.br/esportes/joao-fonseca-tem-dia-e-horario-definidos-para-estrear-em-wimbledon-contra-ex-top-10/",
+        "summary": "O brasileiro entra em quadra por volta das 11h na quadra 18 para enfrentar o espanhol, buscando repetir as boas campanhas recentes em torneios do Grand Slam The post João Fonseca tem dia e horário definidos para estrear ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/joao-fonseca-roland-garros-franca.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Flávio Bolsonaro afirma 'orar' para ter uma mulher 'qualificada' como vice",
+        "link": "https://exame.com/brasil/flavio-bolsonaro-afirma-orar-para-ter-uma-mulher-qualificada-como-vice/",
+        "summary": "Pré-candidato à Presidência voltou a defender uma vice feminina em meio às articulações do PL; Tereza Cristina, Júlia Zanatta, Simone Marquetto e Priscila Costa estão entre os nomes cogitados",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Cotada para governo de Minas, Marília apresentará a Lula preferência pelo Senado",
+        "link": "https://exame.com/brasil/cotada-para-governo-de-minas-marilia-apresentara-a-lula-preferencia-pelo-senado/",
+        "summary": "Ex-prefeita de Contagem defende uma frente ampla entre PT, MDB, PSB e PDT para 2026 e afirma que candidatura própria ao Palácio Tiradentes seria um \"equívoco estratégico\"",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Lei obriga empresa a liberar em jogo da Copa? Veja o que diz a CLT",
+        "link": "https://exame.com/brasil/lei-obriga-empresa-a-liberar-em-jogo-da-copa-veja-o-que-diz-a-clt/",
+        "summary": "Partidas da Seleção em horário comercial reacendem dúvida sobre folga",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "'Bolsonaro sempre fez a melhor escolha', diz Valdemar sobre candidatura de Flávio",
+        "link": "https://exame.com/brasil/bolsonaro-sempre-fez-a-melhor-escolha-diz-valdemar-sobre-candidatura-de-flavio/",
+        "summary": "Um dia após afirmar que voltaria ao Brasil para tentar conter o embate entre Michelle Bolsonaro e Flávio Bolsonaro, Valdemar da Costa Neto declarou que \"Bolsonaro sempre fez a melhor escolha\"",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "PF indicia diretor-geral da ANM por suspeita de esquema de mineração ilegal",
@@ -380,46 +480,6 @@
         "title": "Harry Kane vai jogar hoje? Inglaterra busca liderança do grupo contra Panamá",
         "link": "https://exame.com/esporte/harry-kane-vai-jogar-hoje-inglaterra-busca-lideranca-do-grupo-contra-panama/",
         "summary": "Artilheiro inglês é a esperança de gols após o empate frustrante contra Gana na segunda rodada",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Portugal x Colômbia: o que o jogo vale no grupo K e quem pode ser o próximo adversário",
-        "link": "https://exame.com/esporte/portugal-x-colombia-o-que-o-jogo-vale-no-grupo-k-e-quem-pode-ser-o-proximo-adversario/",
-        "summary": "Colômbia lidera o grupo e Portugal busca a ponta para evitar cruzamento mais difícil no mata-mata",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Danos por terremotos na Venezuela podem chegar a US$ 6,7 bi, 6% do PIB, diz ONU",
-        "link": "https://exame.com/mundo/danos-por-terremotos-na-venezuela-podem-chegar-a-us-67-bi-6-do-pib-diz-onu/",
-        "summary": "O número de mortos no devastador terremoto duplo no país já ultrapassa 1,4 mil, informou neste sábado, 27, o líder parlamentar Jorge Rodríguez",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Cristiano Ronaldo joga hoje? Portugal e Colômbia disputam liderança",
-        "link": "https://exame.com/esporte/cristiano-ronaldo-joga-hoje-portugal-e-colombia-disputam-lideranca/",
-        "summary": "O português fez dois gols na última partida e chega com moral para a última rodada da fase de grupos",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Novo passaporte dos EUA traz imagem de Trump em edição comemorativa",
-        "link": "https://exame.com/mundo/novo-passaporte-dos-eua-traz-imagem-de-trump-em-edicao-comemorativa/",
-        "summary": "Presidente afirmou que o documento transmite a ideia de \"Bem-vindo, mas comporte-se\" durante as comemorações do bicentenário e meio da independência",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
