@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T17:16:13.350Z",
+  "updated": "2026-06-27T19:27:16.630Z",
   "feeds": {
     "campinas": [
       {
@@ -23,9 +23,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Carro bate contra poste e bloqueia parte de avenida no Centro de Campinas",
+        "title": "Carro bate contra poste e bloqueia parte de avenida em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/27/carro-bate-poste-bloqueia-parte-avenida-centro-campinas.ghtml",
-        "summary": "Carro bate contra poste e bloqueia parte de avenida no Centro de Campinas Um carro bateu contra um poste na manhã deste sábado (27), no cruzamento da Avenida Carlos Lacerda com a Rua Américo Duarte Simas, no Centro de Ca",
+        "summary": "Carro bate contra poste e bloqueia parte de avenida em Campinas Um carro bateu contra um poste na manhã deste sábado (27), no cruzamento da Avenida Carlos Lacerda com a Rua Américo Duarte Simas, no Jardim Santa Lúcia, em",
         "image": "https://s2-g1.glbimg.com/gaIErxbdO2ZkgxhNUriZO487XCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/v/Zp30bGTOAf5FY30aCCrA/whatsapp-image-2026-06-27-at-12.05.44.jpeg",
         "date": "27 de jun. de 2026",
         "source": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "Mortes após terremotos na Venezuela sobem para 1.430",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/mortes-apos-terremotos-na-venezuela-sobem-para-1430",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/mortes-apos-terremotos-na-venezuela-sobem-para-1430 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "São Paulo vai captar mais água na bacia que abastece o Rio de Janeiro",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/sao-paulo-vai-captar-mais-agua-na-bacia-que-abastece-o-rio-de-janeiro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/sao-paulo-vai-captar-mais-agua-na-bacia-que-abastece-o-rio-de-janeiro img src= https://cdn.jsdelivr.net/gh/sergi",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "STF forma maioria para liberar pagamento de penduricalhos retroativos",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-forma-maioria-para-liberar-pagamento-de-penduricalhos-retroativos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-forma-maioria-para-liberar-pagamento-de-penduricalhos-retroativos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Hospital universitário no Rio inaugura era de UTIs Inteligentes no SUS",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/hospital-universitario-no-rio-inaugura-era-de-utis-inteligentes-no-sus img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "27 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Instituto anuncia no CineOP centro para preservar audiovisual",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/instituto-anuncia-no-cineop-centro-para-preservar-audiovisual",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/instituto-anuncia-no-cineop-centro-para-preservar-audiovisual img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Petroleiro é atingido em Ormuz em meio a ataques entre Irã e EUA",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/petroleiro-e-atingido-em-ormuz-em-meio-ataques-entre-ira-e-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/petroleiro-e-atingido-em-ormuz-em-meio-ataques-entre-ira-e-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ipea atualiza plataforma antirracista no serviço público",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/ipea-atualiza-plataforma-antirracista-no-servico-publico",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/ipea-atualiza-plataforma-antirracista-no-servico-publico img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Novo terremoto de magnitude 4,9 atinge Venezuela",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/novo-terremoto-de-magnitude-49-atinge-venezuela",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/novo-terremoto-de-magnitude-49-atinge-venezuela img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Arquivos da Justiça guardam muitas histórias envolvendo o futebol",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/arquivos-da-justica-guarda-muitas-historias-envolvendo-o-futebol",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/arquivos-da-justica-guarda-muitas-historias-envolvendo-o-futebol img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "27 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Capitão de Cabo Verde é investigado após denúncia de brasileira",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/ryan-mendes-investigado-na-nova-zelandia-apos-denuncia/",
-        "summary": "O capitão de Cabo Verde, Ryan Mendes, está sendo investigado pela polícia da Nova Zelândia após uma denúncia de estupro feita por uma brasileira que trabalhou junto à seleção durante amistosos em Auckland. O caso, regist",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/115281196-atlanta-georgia-june-15-ryan-mendes-20-of-cabo-verde-runs-out-of-the-tunnel-for-warm-up.avif",
+        "title": "Rayan projeta primeiro gol na Copa do Mundo e prega calma: Vai sair naturalmente",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/rayan-projeta-primeiro-gol-na-copa-do-mundo-e-prega-calma-vai-sair-naturalmente/",
+        "summary": "Em entrevista coletiva na concentração da Seleção Brasileira, o atacante Rayan falou sobre o sonho de disputar o Mundial e detalhou o trabalho para balançar as redes pela primeira vez no torneio, demonstrando muita tranq",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Rayan-projeta.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Seleção Brasileira treina com elenco quase completo para duelo contra o Japão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/selecao-brasileira-treina-com-elenco-quase-completo-para-duelo-contra-o-japao/",
-        "summary": "Após uma atividade na sexta-feira com oito ausências, o Brasil trabalhou com o grupo cheio neste sábado de manhã. A tendência é que a escalação da vitória por 3 a 0 sobre a Escócia seja mantida. O único desfalque é Raphi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/b45im53c-1922.webp",
+        "title": "Internado na UTI, Parreira será submetido a cirurgia neste sábado",
+        "link": "https://www.gazetaesportiva.com/times/brasil/parreira-cirurgia-uti-complicacoes-clinicas/",
+        "summary": "Carlos Alberto Parreira voltou a apresentar complicações clínicas durante internação no Hospital Samaritano Barra e será submetido a uma cirurgia na via aérea superior. O ex-treinador da Seleção Brasileira permanece na U",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2019/09/04/01241992-1024x684.jpg",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sub-17 do São Paulo vence Referência pelo Paulista; Sub-15 fica no empate",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sub-17-do-sao-paulo-vence-referencia-pelo-paulista-sub-15-fica-no-empate/",
-        "summary": "Confira os resultados dos times de base sub-15 e sub-17 do São Paulo, pelo Campeonato Paulista, conquistados neste sábado. O post Sub-17 do São Paulo vence Referência pelo Paulista; Sub-15 fica no empate apareceu primeir",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HL1UT_2WwAA8sfA.webp",
+        "title": "Fifa anuncia arbitragem brasileira para Holanda e Marrocos",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/fifa-anuncia-arbitragem-brasileira-para-holanda-e-marrocos/",
+        "summary": "A Fifa definiu arbitragem brasileira para o confronto entre Holanda e Marrocos na segunda fase da Copa do Mundo de 2026. Wilton Pereira Sampaio será o árbitro principal, acompanhado de assistentes brasileiros, em mais um",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260611__B6TM8RZ__v1__HighRes__FblWc2026Match01MexRsa.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sem Vitor Roque, Palmeiras faz coletivo em treino na Academia de Futebol",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/sem-vitor-roque-palmeiras-faz-coletivo-em-treino-na-academia-de-futebol/",
-        "summary": "O Palmeiras realizou, neste sábado (27), mais uma atividade da intertemporada na Academia de Futebol, com coletivo de 45 minutos em campo oficial. Jogadores do Sub-20 participaram do treino, enquanto Vitor Roque seguiu c",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/27062026_cg_palmeiras_5006_6.webp",
+        "title": "Veja fotos do treino da Seleção Brasileira deste sábado nos EUA",
+        "link": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-do-treino-da-selecao-brasileira-deste-sabado-nos-eua/",
+        "summary": "O post Veja fotos do treino da Seleção Brasileira deste sábado nos EUA apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/treino-brasil-eua-27061526-7.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasil faz história e chega a 50 jogos sem sofrer gols em Copas do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/brasil/brasil-faz-historia-e-chega-a-50-jogos-sem-sofrer-gols-em-copas-do-mundo/",
-        "summary": "A Seleção Brasileira escreveu mais uma página de história na Copa do Mundo ao final da fase de grupos desta edição de 2026. Com a vitória por 3 a 0 sobre a Escócia, na última quarta-feira, o Brasil alcançou 50 partidas s",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260620__B7PL3DH__v1__MidRes__FblWc2026Match29BraHai.webp",
+        "title": "Fifa divulga arbitragem para o duelo entre Brasil e Japão",
+        "link": "https://www.gazetaesportiva.com/times/brasil/fifa-divulga-arbitragem-para-o-duelo-entre-brasil-e-japao/",
+        "summary": "A Fifa definiu Maurizio Mariani como árbitro de Brasil x Japão, duelo da segunda fase da Copa. Confira a equipe de arbitragem. O post Fifa divulga arbitragem para o duelo entre Brasil e Japão apareceu primeiro em Gazeta ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__B83Z87W__v1__HighRes__FblWc2026Match48ColCod.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Didier Deschamps retorna à base da França na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/deschamps-retorna-selecao-francesa-apos-luto/",
-        "summary": "Didier Deschamps retornou à concentração da seleção francesa em Boston após viajar à França para o funeral de sua mãe. O treinador reassume o comando dos Bleus antes do duelo contra a Suécia pela fase de 16-avos de final",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260623__B7XU3U6__v1__HighRes__FblWc2026Match42FraIrq.webp",
+        "title": "Dorival promove testes em jogo-treino do São Paulo contra o Juventus",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-jogo-treino-juventus-mooca/",
+        "summary": "O técnico Dorival Júnior aproveitou o jogo-treino contra o Juventus da Mooca, neste sábado, para fazer testes no São Paulo visando o segundo semestre. O post Dorival promove testes em jogo-treino do São Paulo contra o Ju",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/img_8845-jpg-1.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -257,9 +257,9 @@
         "cls": ""
       },
       {
-        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "26 de jun. de 2026",
         "source": "Agência Brasil",
@@ -267,9 +267,9 @@
         "cls": ""
       },
       {
-        "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "26 de jun. de 2026",
         "source": "Agência Brasil",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Dinamarca registra recorde histórico de calor, com 37°C graus",
-        "link": "https://www.infomoney.com.br/mundo/dinamarca-registra-recorde-historico-de-calor-com-37c-graus/",
-        "summary": "A marca histórica deste sábado reflete a intensa onda de calor que atinge a Europa, causando falhas na infraestrutura, racionamento de água e adiamento de eventos The post Dinamarca registra recorde histórico de calor, c",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-26T151045Z_1712281962_RC2Q1MALNO04_RTRMADP_3_EUROPE-WEATHER-DENMARK.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Mortos em terremotos na Venezuela chegam a 1.430; quase 69 mil estão desaparecidos",
+        "link": "https://www.infomoney.com.br/mundo/mortos-em-terremotos-na-venezuela-chegam-a-1-430-quase-69-mil-estao-desaparecidos/",
+        "summary": "Total de desaparecidos passa de 68 mil enquanto civis lideram os resgates diante da queixa de falta de preparo do governo e o aeroporto internacional opera com restrições The post Mortos em terremotos na Venezuela chegam",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/terremoto-venezuela-caracas-destruica01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Copa do Mundo define hoje últimas vagas no mata-mata; veja os cenários",
-        "link": "https://www.infomoney.com.br/esportes/copa-do-mundo-define-hoje-ultimas-vagas-no-mata-mata-veja-os-cenarios/",
-        "summary": "Embora algumas seleções já tenham garantido presença na próxima fase, ainda há disputas pela liderança das chaves e pelas posições restantes entre os melhores terceiros colocados The post Copa do Mundo define hoje última",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T180821Z_1949314169_UP1EM6M1EDWHV_RTRMADP_3_SOCCER-WORLDCUP-ARG-AUT.jpg?fit=300%2C192&amp;quality=70&amp;strip=all",
+        "title": "Onda de calor na Europa e El Niño puxam preços de açúcar, cacau e café",
+        "link": "https://www.infomoney.com.br/mercados/onda-de-calor-na-europa-e-el-nino-europa-puxam-precos-de-acucar-cacau-e-cafe/",
+        "summary": "Açúcar sobe com onda de calor na Europa; cacau avança 20% em NY na semana The post Onda de calor na Europa e El Niño puxam preços de açúcar, cacau e café appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/Bancos-Amazonia-Cacau.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Penduricalhos: confira as cinco propostas de ajustes em verbas indenizatórias",
-        "link": "https://www.infomoney.com.br/politica/penduricalhos-confira-as-cinco-propostas-de-ajustes-em-verbas-indenizatorias/",
-        "summary": "Ministros analisam recursos contra a tese que, em maio, fixou a lista de verbas indenizatórias que podem ser pagas a magistrados e procuradores de todo País The post Penduricalhos: confira as cinco propostas de ajustes e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55268236216_72aa8dbc19_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Conar abre investigações e concede liminar contra anúncios de apostas na CazéTV",
+        "link": "https://www.infomoney.com.br/brasil/conar-abre-investigacoes-e-concede-liminar-contra-anuncios-de-apostas-na-cazetv/",
+        "summary": "Órgão de autorregulamentação acatou queixas de consumidores sobre ações de merchandising da KTO, Betnacional e Bet365 durante as transmissões ao vivo da Copa do Mundo The post Conar abre investigações e concede liminar c",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/casimiro-caze-tv.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dirigente do BCE sinaliza expectativa de aumento de juros para conter inflação",
-        "link": "https://www.infomoney.com.br/mercados/dirigente-do-bce-sinaliza-expectativa-de-aumento-de-juros-para-conter-inflacao/",
-        "summary": "A dirigente da autarquia destacou que os custos elevados de energia continuam pressionando o consumo na zona do euro e que a dinâmica inflacionária exige a elevação das taxas The post Dirigente do BCE sinaliza expectativ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-04T134039Z_1_LYNXNPEL530PH_RTROPTP_4_ECB-POLICY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Panamá x Inglaterra?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-panama-inglaterra/",
+        "summary": "Os times do Grupo L ainda tem chance de redefinir quem vai para a próxima fase da Copa The post Onde assistir Panamá x Inglaterra? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-panama-x-inglaterra.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Petroleiro é atingido no Estreito de Ormuz em meio a ataques entre Irã e EUA",
-        "link": "https://www.infomoney.com.br/mundo/petroleiro-e-atingido-no-estreito-de-ormuz-em-meio-a-ataques-entre-ira-e-eua/",
-        "summary": "O ataque aconteceu após Washington e Teerã realizarem bombardeios mútuos, abalando o acordo preliminar de paz assinado há duas semanas The post Petroleiro é atingido no Estreito de Ormuz em meio a ataques entre Irã e EUA",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-09T194503Z_1_LYNXMPEM480DO_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Croácia x Gana?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-croacia-gana/",
+        "summary": "A partida de hoje ainda pode redefinir quem segue para as eliminatórias da Copa The post Onde assistir Croácia x Gana? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-croacia-x-gana.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Divórcio cinza : separação de pessoas com mais de 50 anos cresceu mais de 30%",
-        "link": "https://www.infomoney.com.br/minhas-financas/divorcio-cinza-separacao-de-pessoas-com-mais-de-50-anos-cresceu-mais-de-30/",
-        "summary": "Somente em 2022 foram no total 420 mil divórcios concluídos (entre judiciais e extrajudiciais) The post Divórcio cinza : separação de pessoas com mais de 50 anos cresceu mais de 30% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/junior-reis-pcHwjbk7NF4-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Hezbollah rejeita acordo de segurança entre Israel e Líbano",
+        "link": "https://www.infomoney.com.br/mundo/hezbollah-rejeita-acordo-de-seguranca-entre-israel-e-libano/",
+        "summary": "Líder do Hezbollah classificou o pacto de desarmamento como inaceitável, enquanto protestos tomaram Beirute e novos ataques aéreos foram relatados no sul libanês The post Hezbollah rejeita acordo de segurança entre Israe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-17T123055Z_1974895166_RC2B6KAVBU0U_RTRMADP_3_IRAN-CRISIS-LEBANON.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "27 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "F1: Russel faz a pole position do GP da Áustria; Bortoleto larga em 12º",
-        "link": "https://exame.com/esporte/f1-russel-faz-a-pole-position-do-gp-da-austria-bortoleto-larga-em-12o/",
-        "summary": "Piloto da Mercedes superou as Ferraris de Charles Leclerc e Lewis Hamilton; bandeira amarela causada por acidente de Max Verstappen chegou a colocar a pole em dúvida",
+        "title": "Novo passaporte dos EUA traz imagem de Trump em edição comemorativa",
+        "link": "https://exame.com/mundo/novo-passaporte-dos-eua-traz-imagem-de-trump-em-edicao-comemorativa/",
+        "summary": "Presidente afirmou que o documento transmite a ideia de \"Bem-vindo, mas comporte-se\" durante as comemorações do bicentenário e meio da independência",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mudança climática e inflação: O novo alerta do Banco Central Inglês",
-        "link": "https://exame.com/invest/mercados/mudanca-climatica-e-inflacao-o-novo-alerta-do-banco-central-ingles/",
-        "summary": "Calor recorde na Europa e o iminência do El Niño acendem alerta no Banco Central Inglês para nova alta da inflação",
+        "title": "Os melhores restaurantes do Sul em 2026, segundo a Casual EXAME",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-do-sul-em-2026-segundo-a-casual-exame/",
+        "summary": "Entre os 10 primeiros colocados do ranking dos 100 Melhores Restaurantes do Brasil, região Sul concentra 14 estabelecimentos no guia",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Terremoto na Venezuela: Brasil envia terceiro avião de ajuda com medicamentos",
-        "link": "https://exame.com/brasil/terremoto-na-venezuela-brasil-envia-terceiro-aviao-de-ajuda-com-medicamentos/",
-        "summary": "Missão autorizada pelo presidente Luiz Inácio Lula da Silva inclui mais de 111 mil medicamentos, hospital de campanha e reforça a ajuda humanitária brasileira após os terremotos que atingiram o país vizinho",
+        "title": "Quem apita Brasil x Japão? Fifa define arbitragem para jogo",
+        "link": "https://exame.com/esporte/quem-apita-brasil-x-japao-fifa-define-arbitragem-para-jogo/",
+        "summary": "O confronto marca o início da fase eliminatória para a seleção brasileira na Copa do Mundo de 2026",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil x Japão: veja o uniforme para o duelo decisivo da Copa nesta segunda, 29",
-        "link": "https://exame.com/esporte/brasil-x-japao-veja-o-uniforme-para-o-duelo-decisivo-da-copa-nesta-segunda-29/",
-        "summary": "Disputa pelas oitavas de final ocorre na próxima segunda-feira, 29, às 14h (horário de Brasília), no NRG Stadium, em Houston, nos EUA",
+        "title": "'Antigamente era forte, mas e agora?' diz jogador japonês sobre Neymar e Seleção Brasileira",
+        "link": "https://exame.com/esporte/antigamente-era-forte-mas-e-agora-diz-jogador-japones-sobre-neymar-e-selecao-brasileira/",
+        "summary": "Centroavante Kento Shiogai demonstrou confiança na defesa japonesa e afirmou que a equipe tem jogadores capazes de enfrentar o ataque brasileiro",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Opinião: a IA não vai substituir CEOs, mas pode expor líderes despreparados",
-        "link": "https://exame.com/bussola/opiniao-a-ia-nao-vai-substituir-ceos-mas-pode-expor-lideres-despreparados/",
-        "summary": "O avanço tecnológico exige executivos capazes de formular perguntas melhores e tomar decisões baseadas em evidências, superando o feeling",
+        "title": "Parreira apresenta 'complicações' e passará por cirurgia neste sábado",
+        "link": "https://exame.com/esporte/parreira-apresenta-complicacoes-e-passara-por-cirurgia-neste-sabado/",
+        "summary": "O ex-comandante da seleção brasileira está internado desde 16 de junho para tratamento de uma inflamação pulmonar",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Terceiros da Copa do Mundo: 5 seleções garantiram vagas; veja quem está na disputa",
-        "link": "https://exame.com/esporte/terceiros-da-copa-do-mundo-5-selecoes-garantiram-vagas-veja-quem-esta-na-disputa/",
-        "summary": "Apenas oito seleções avançam entre os terceiros colocados, em disputa direta que ainda envolve times como Irã, Croácia e Coreia do Sul",
+        "title": "Número de mortos após terremotos na Venezuela chega a 1.430",
+        "link": "https://exame.com/mundo/numero-de-mortos-apos-terremotos-na-venezuela-chega-a-1-430/",
+        "summary": "Rodríguez, irmão da presidente interina da Venezuela, Delcy Rodríguez, também relatou 3.238 feridos e 3.142 desabrigados",
         "image": null,
         "date": "27 de jun. de 2026",
         "source": "Exame",
