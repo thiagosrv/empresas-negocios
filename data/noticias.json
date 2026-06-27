@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:53:26.005Z",
+  "updated": "2026-06-27T06:56:38.282Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,36 @@
     ],
     "esportes": [
       {
+        "title": "Irã tem gol anulado no fim, Egito segura empate e vai ao mata-mata da Copa pela 1ª vez",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/ira-tem-gol-anulado-no-fim-egito-segura-empate-vai-ao-mata-mata-da-copa-pela-1a-vez/",
+        "summary": "O Egito empatou por 1 a 1 com o Irã e garantiu vaga inédita no mata-mata da Copa do Mundo. A seleção africana terminou em segundo no Grupo G e enfrentará a Austrália na próxima fase, enquanto os iranianos ainda dependem ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__2283519035__v1__HighRes__EgyptVIrIranGroupGFifaWorldCup2026.webp",
+        "date": "27 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Bélgica goleia, elimina Nova Zelândia e avança como líder na Copa",
+        "link": "https://www.gazetaesportiva.com/times/belgica/belgica-goleia-nova-zelandia-avanca-lider-copa/",
+        "summary": "A Bélgica avançou à segunda fase da Copa do Mundo neste sábado ao vencer a Nova Zelândia por 5 a 1, pela terceira rodada da fase de grupos. Trossard (duas vezes), De Bruyne e Lukaku anotaram os gols da seleção belga, no ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__2283518384__v1__HighRes__NewZealandVBelgiumGroupGFifaWorldCup2026.webp",
+        "date": "27 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Inglaterra, Portugal e Gana garantem vaga na segunda fase da Copa antes da terceira rodada",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/copa-do-mundo-selecoes-classificadas/",
+        "summary": "Inglaterra, Gana e Portugal estão classificados à segunda fase da Copa do Mundo antes mesmo de entrarem em campo pela terceira rodada da fase de grupos. As equipes entram em campo ainda neste sábado para definir as posiç",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260626__B8GY76P__v1__MidRes__FblWc2026TrainingPor.webp",
+        "date": "27 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Bielsa diz que saída de Muslera após falha em eliminação do Uruguai foi decisão do goleiro",
         "link": "https://www.gazetaesportiva.com/times/uruguai/muslera-bielsa-uruguai-eliminacao-copa/",
         "summary": "O goleiro Fernando Muslera teve uma noite para se esquecer nesta sexta-feira. Responsável epla falha que dercetou a derrota do uruguai por 1 a 0 para a Espanha, pela terceira rodada da Copa do Mundo, o goleiro decidiu se",
@@ -213,36 +243,6 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Muslera falha, Espanha elimina Uruguai e avança como líder na Copa",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/muslera-falha-espanha-elimina-uruguai-e-avanca-como-lider-na-copa/",
-        "summary": "A Espanha venceu o Uruguai por 1 a 0 na noite desta sexta-feira, em duelo válido pela terceira rodada da fase de grupos da Copa do Mundo. Muslera falhou, e Alex Baena anotou o único gol do jogo que aconteceu no Estádio d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__B8H28ZV__v1__MidRes__FblWc2026Match66UruEsp.webp",
-        "date": "27 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cabo Verde empata com a Arábia Saudita, faz história e avança na Copa",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/cabo-verde-empata-com-a-arabia-saudita-faz-historia-e-avanca-na-copa/",
-        "summary": "Cabo Verde empatou com a Arábia Saudita, fez história ao avançar pela primeira vez às fases eliminatórias da Copa do Mundo e enfrentará a Argentina no mata-mata. O post Cabo Verde empata com a Arábia Saudita, faz históri",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__2283506241__v1__HighRes__CaboVerdeVSaudiArabiaGroupHFifaWorldCup2026.webp",
-        "date": "27 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Muslera volta a falhar em jogo do Uruguai na Copa e é substituído no intervalo",
-        "link": "https://www.gazetaesportiva.com/times/uruguai/muslera-volta-a-falhar-em-jogo-do-uruguai-na-copa-e-e-substituido-no-intervalo/",
-        "summary": "O goleiro Fernando Muslera viveu uma campanha dramática na Copa do Mundo de 2026. Aos 40 anos e na sua quinta participação, o uruguaio acumulou falhas decisivas nos três jogos da fase de grupos, incluindo um erro contra ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__B8GZ96D__v1__HighRes__FblWc2026Match66UruEsp.webp",
-        "date": "27 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
@@ -257,9 +257,9 @@
         "cls": ""
       },
       {
-        "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "26 de jun. de 2026",
         "source": "Agência Brasil",
@@ -267,9 +267,9 @@
         "cls": ""
       },
       {
-        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "26 de jun. de 2026",
         "source": "Agência Brasil",
