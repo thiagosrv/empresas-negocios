@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-27T06:56:38.282Z",
+  "updated": "2026-06-27T09:32:29.673Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Como esquema movimentou R$ 225 milhões com empresas e duplicatas fictícias no interior de SP",
+        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/27/como-esquema-movimentou-r-225-milhoes-com-empresas-e-duplicatas-ficticias-no-interior-de-sp.ghtml",
+        "summary": "Operação contra esquema de fraudes que movimentou R$ 225 mi apreende carros de alto valor Alvo de uma operação da Polícia Civil de Piracicaba (SP), um grupo movimentou mais de R$ 225 milhões com uso de empresas e duplica",
+        "image": "https://s2-g1.glbimg.com/EDJUJ-lfzNSrDmfqUDJIEa-0Zb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/UVDurBT0AOrVG7HJLOEA/dinheiro-esquema.jpg",
+        "date": "27 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Trabalhadores terceirizados da Replan, em Paulínia, são agredidos e ficam feridos durante greve",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/26/trabalhadores-terceirizados-replan-paulinia-agredidos-feridos-greve.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/26/policia-civil-investiga-suspeita-de-estupro-de-adolescente-com-tea-em-escola-estadual-de-hortolandia.ghtml",
         "summary": "Infância despedaçada: como curar o trauma do abuso sexual? A Polícia Civil investiga um caso de estupro de vulnerável dentro de uma escola estadual em Hortolândia (SP). Segundo a família da vítima, a adolescente de 16 an",
         "image": "https://s2-g1.glbimg.com/vM5bDBX1Jn4gJ3RGZ45cp_hFBEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/Y/jZETBpSQa3ff2XWRonvw/whatsapp-image-2024-05-28-at-11.54.02.jpeg",
-        "date": "26 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO: resgate de dois cavalos bloqueia Anel Viário Magalhães Teixeira por 35 minutos em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/06/26/video-resgate-de-dois-cavalos-bloqueia-anel-viario-magalhaes-teixeira-por-35-minutos-em-campinas.ghtml",
-        "summary": "Resgate de dois cavalos bloqueia Anel Viário por 35 minutos em Campinas Dois cavalos soltos na pista interditaram os dois sentidos da Anel Viário Magalhães Teixeira (SP-083), no km 12, em Campinas (SP), na manhã desta se",
-        "image": "https://s2-g1.glbimg.com/zdzwGODzOeZkSYkZx5dYYU2cNCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/a/GxaMgARvaDvdVQQtXkag/design-sem-nome-5-.jpg",
         "date": "26 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "Hervé Renard diz que está livre para escolher próximo projeto após fracasso da Tunísia na Copa",
+        "link": "https://www.gazetaesportiva.com/times/tunisia/herve-renard-diz-que-esta-livre-para-escolher-proximo-projeto-apos-fracasso-da-tunisia-na-copa/",
+        "summary": "Hervé Renard afirmou que está livre para definir seu futuro após a eliminação da Tunísia na Copa do Mundo. Técnico aguarda decisão da federação sobre permanência. O post Hervé Renard diz que está livre para escolher próx",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260625__B8CX7XF__v1__HighRes__FblWc2026Match58TunNed.webp",
+        "date": "27 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Brasil só enfrenta França, Espanha ou Alemanha em eventual final da Copa",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/brasil-so-enfrenta-franca-espanha-ou-alemanha-em-eventual-final-da-copa/",
+        "summary": "O Brasil ficou em um lado favorável do chaveamento da Copa do Mundo de 2026 e só poderá enfrentar Espanha, França ou Alemanha em uma eventual final. Com isso, a Seleção evita potências europeias até a decisão, mas pode t",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260625__B88P9TG__v1__HighRes__FblWc2026Match49ScoBra.webp",
+        "date": "27 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Irã tem gol anulado no fim, Egito segura empate e vai ao mata-mata da Copa pela 1ª vez",
         "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/ira-tem-gol-anulado-no-fim-egito-segura-empate-vai-ao-mata-mata-da-copa-pela-1a-vez/",
         "summary": "O Egito empatou por 1 a 1 com o Irã e garantiu vaga inédita no mata-mata da Copa do Mundo. A seleção africana terminou em segundo no Grupo G e enfrentará a Austrália na próxima fase, enquanto os iranianos ainda dependem ",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/uruguai/muslera-bielsa-uruguai-eliminacao-copa/",
         "summary": "O goleiro Fernando Muslera teve uma noite para se esquecer nesta sexta-feira. Responsável epla falha que dercetou a derrota do uruguai por 1 a 0 para a Espanha, pela terceira rodada da Copa do Mundo, o goleiro decidiu se",
         "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__B8H34JX__v1__MidRes__FblWc2026Match66UruEsp.webp",
-        "date": "27 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "CBF abre janela de transferência extra para inscrições de reforços antes da retomada do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/janela-transferencias-extraordinaria-serie-a/",
-        "summary": "A retomada do Campeonato Brasileiro antecede a abertura da janela de transferências internacional. Por conta disso, a CBF decidiu abrir uma janela extraordinária, entre os dias 9 e 17 de julho, para que os clubes da Séri",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/54960729078_792f291997_b_a4df1bac43.webp",
-        "date": "27 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Vitória da Espanha confirma classificação do Paraguai à segunda fase da Copa",
-        "link": "https://www.gazetaesportiva.com/times/paraguai/vitoria-da-espanha-confirma-classificacao-do-paraguai-a-segunda-fase-da-copa/",
-        "summary": "O Paraguai garantiu vaga na segunda fase da Copa do Mundo mesmo terminando em terceiro no Grupo D, com quatro pontos, beneficiado por resultados de outras partidas, como a vitória da Espanha sobre o Uruguai. A seleção su",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260621__063_2282634469__v5__HighRes__TurkiyeVParaguayGroupDFifaWorldCup2026.webp",
         "date": "27 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Michelle entrou na disputa pela herança política de Bolsonaro, dizem analistas",
+        "link": "https://www.infomoney.com.br/politica/michelle-entrou-na-disputa-pela-heranca-politica-de-bolsonaro-dizem-analistas/",
+        "summary": "Críticas públicas a Flávio Bolsonaro são vistas como movimento para ampliar protagonismo dentro do bolsonarismo e influenciar a sucessão da direita The post Michelle entrou na disputa pela herança política de Bolsonaro, ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-Tela-2026-06-26-as-16.34.42.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "27 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fundos imobiliários na aposentadoria: qual a dose certa?",
+        "link": "https://www.infomoney.com.br/onde-investir/fundos-imobiliarios-na-aposentadoria-qual-a-dose-certa/",
+        "summary": "Entenda o peso dos FIIs na carteira dependendo do perfil financeiro do investidor The post Fundos imobiliários na aposentadoria: qual a dose certa? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2148962420.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "27 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Com o banco na palma da mão, 78% das operações financeiras já são feitas por celular",
+        "link": "https://www.infomoney.com.br/minhas-financas/com-o-banco-na-palma-da-mao-78-das-operacoes-financeiras-ja-sao-feitas-por-celular/",
+        "summary": "No total, 83% de todas as transações bancárias realizadas no país foram feitas em canais digitais, por isso bancos devem investir R$ 50,4 bilhões em tecnologia ainda este ano The post Com o banco na palma da mão, 78% das",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/pexels-keira-burton-6146956.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "27 de jun. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "ASSISTA AO GOL: Espanha ganha jogando pouco e enterra Uruguai do tóxico Bielsa",
         "link": "https://www.infomoney.com.br/esportes/jogo-espanha-uruguai-copa-2026/",
         "summary": "Em mais uma exibição melancólica, Marcelo Bielsa e Fernando Muslera foram os antagonistas de uma equipe celeste decadente, que foi derrotada pela Espanha, por 1 a 0 The post ASSISTA AO GOL: Espanha ganha jogando pouco e ",
@@ -337,91 +367,61 @@
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Egito x Irã?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-egito-ira/",
-        "summary": "O jogo será importante para o Irã, que disputa com a Bélgica a última vaga direta para os mata-matas The post Onde assistir Egito x Irã? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-egito-x-ira.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "'A Casa do Dragão' perde fôlego na estreia, mas segue entre os maiores sucessos da HBO",
+        "link": "https://exame.com/pop/a-casa-do-dragao-perde-folego-na-estreia-mas-segue-entre-os-maiores-sucessos-da-hbo/",
+        "summary": "Série registrou uma queda de 8% em relação à estreia da segunda temporada, mas continua como um dos maiores fenômenos da HBO",
+        "image": null,
         "date": "27 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Número de mortos por terremotos na Venezuela chega a 920",
-        "link": "https://www.infomoney.com.br/mundo/numero-de-mortos-por-terremotos-na-venezuela-chega-a-920/",
-        "summary": "Os feridos chegam a 3.360, 172 pessoas continuam presas sob os escombros e mais de 4.000 estão desalojadas. Há ainda milhares de desaparecidos The post Número de mortos por terremotos na Venezuela chega a 920 appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/terremoto-venezuela-tremor-sismo-estragos-resgate-05.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "O que não delegar à inteligência artificial",
+        "link": "https://exame.com/inteligencia-artificial/o-que-nao-delegar-a-inteligencia-artificial/",
+        "summary": "Especialistas afirmam que a IA pode acelerar processos e aumentar a produtividade, mas decisões relacionadas à estratégia, liderança, ética e reputação continuam dependendo do julgamento humano",
+        "image": null,
         "date": "27 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Copa: França iguala marca do Brasil de 2002 e pode repetir feito único da seleção",
-        "link": "https://www.infomoney.com.br/esportes/copa-franca-iguala-marca-do-brasil-de-2002-e-pode-repetir-feito-unico-da-selecao/",
-        "summary": "A equipe é a sétima em toda a história da competição a vencer todos os compromissos ultrapassando os dois dígitos nos gols marcados The post Copa: França iguala marca do Brasil de 2002 e pode repetir feito único da seleç",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-26T194442Z_929507764_UP1EM6Q1IL3U4_RTRMADP_3_SOCCER-WORLDCUP-NOR-FRA.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
+        "title": "República Democrática do Congo x Uzbequistão: quem vai ganhar o jogo na Copa do Mundo?",
+        "link": "https://exame.com/esporte/republica-democratica-do-congo-x-uzbequistao-quem-vai-ganhar-o-jogo-na-copa-do-mundo/",
+        "summary": "Modelo estatístico projeta qual seleção tem chance de ganhar o confronto deste sábado, 27 de junho, pelo Grupo K",
+        "image": null,
         "date": "27 de jun. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Copa do Mundo: Espanha passa em 1º, Uruguai é eliminado e Cabo Verde faz história",
-        "link": "https://exame.com/esporte/espanha-vence-garante-a-lideranca-e-uruguai-e-eliminado-na-fase-de-grupos-da-copa/",
-        "summary": "Enquanto os espanhóis confirmaram a classificação e o 1º lugar do Grupo H, os uruguaios disseram adeus ao Mundial",
-        "image": null,
-        "date": "26 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Após 'Stranger Things', David Harbour e Millie Bobby Brown serão pai e filha em série da Netflix",
-        "link": "https://exame.com/pop/apos-stranger-things-david-harbour-e-millie-bobby-brown-serao-pai-e-filha-em-serie-da-netflix/",
-        "summary": "Nova produção será comandada por Jack Thorne e acompanhará uma investigação repleta de segredos familiares",
+        "title": "Egito x Irã: quem vai ganhar o jogo na Copa do Mundo?",
+        "link": "https://exame.com/esporte/egito-x-ira-quem-vai-ganhar-o-jogo-na-copa-do-mundo/",
+        "summary": "Modelo estatístico projeta qual seleção tem chance de ganhar o confronto deste sábado, 27 de junho, pelo Grupo G",
         "image": null,
-        "date": "26 de jun. de 2026",
+        "date": "27 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "DreamWorks anuncia spin-off sobre o Burro de 'Shrek' para 2028; veja detalhes",
-        "link": "https://exame.com/pop/dreamworks-anuncia-spin-off-sobre-o-burro-de-shrek-para-2028-veja-detalhes/",
-        "summary": "Animação chega aos cinemas um ano após 'Shrek 5' e promete explorar novas histórias do carismático Burro",
+        "title": "Argélia x Áustria: quem vai ganhar o jogo na Copa do Mundo?",
+        "link": "https://exame.com/esporte/argelia-e-austria-quem-vai-ganhar-o-jogo-na-copa-do-mundo/",
+        "summary": "Modelo estatístico projeta qual seleção tem chance de ganhar o confronto deste sábado, 27 de junho, pelo Grupo J",
         "image": null,
-        "date": "26 de jun. de 2026",
+        "date": "27 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Terremoto na Venezuela: novo tremor de magnitude 4,9 é sentido em Caracas",
-        "link": "https://exame.com/mundo/terremoto-na-venezuela-novo-tremor-de-magnitude-49-e-sentido-em-caracas/",
-        "summary": "Novo tremor atinge Caracas enquanto governo venezuelano atualiza balanço para 920 mortos e 3.360 feridos",
+        "title": "Panamá x Inglaterra: quem vai ganhar o jogo na Copa do Mundo?",
+        "link": "https://exame.com/esporte/panama-x-inglaterra-quem-vai-ganhar-o-jogo-na-copa-do-mundo/",
+        "summary": "Modelo estatístico projeta qual seleção tem chance de ganhar o confronto deste sábado, 27 de junho, pelo Grupo L",
         "image": null,
-        "date": "26 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ministério da Saúde começa a oferecer canetas emagrecedoras em hospitais federais via SUS",
-        "link": "https://exame.com/brasil/ministerio-da-saude-comeca-a-oferecer-canetas-emagrecedoras-em-hospitais-federais-via-sus/",
-        "summary": "Projeto Real-Bari avalia uso de semaglutida no SUS para pacientes com obesidade grave que aguardam cirurgia bariátrica",
-        "image": null,
-        "date": "26 de jun. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Espanha x Uruguai: veja as escalações confirmadas para jogo de hoje da Copa",
-        "link": "https://exame.com/esporte/espanha-x-uruguai-veja-as-escalacoes-confirmadas-para-jogo-de-hoje-da-copa/",
-        "summary": "O confronto é válido pela última rodada do Grupo H da Copa do Mundo de 2026, e a bola vai rolar às 21h, no Estádio AKRON, em Guadalajara",
-        "image": null,
-        "date": "26 de jun. de 2026",
+        "date": "27 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
