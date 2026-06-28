@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-28T15:22:49.751Z",
+  "updated": "2026-06-28T17:18:16.680Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem é preso por tentar matar companheira a facadas em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/28/homem-e-preso-por-tentar-matar-companheira-a-facadas-em-campinas.ghtml",
+        "summary": "O que é feminicídio? Um homem de 40 anos foi preso em flagrante suspeito de tentativa de feminicídio e violência doméstica contra a companheira, de 45 anos, no Jardim Nossa Senhora de Lourdes, em Campinas (SP). Segundo o",
+        "image": "https://s2-g1.glbimg.com/IY7GHBCb6C-6EmEg_zxdxdOfUc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/5qN1thT9OwDBSBnydVBw/design-sem-nome-2026-03-09t203114.125.jpg",
+        "date": "28 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Estupro durante jogo do Brasil: áudio gravado por adolescente leva à prisão do pai",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/28/estupro-durante-jogo-do-brasil-audio-gravado-por-adolescente-leva-a-prisao-do-pai.ghtml",
+        "summary": "Infância despedaçada: como curar o trauma do abuso sexual? Um homem de 38 anos foi preso em flagrante na madrugada deste domingo (28), em Hortolândia (SP), suspeito de estuprar e manter em cárcere privado a filha, uma ad",
+        "image": "https://s2-g1.glbimg.com/vM5bDBX1Jn4gJ3RGZ45cp_hFBEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/Y/jZETBpSQa3ff2XWRonvw/whatsapp-image-2024-05-28-at-11.54.02.jpeg",
+        "date": "28 de jun. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Psicóloga do interior de SP usa cinzas do próprio gato em tinta de tatuagem para homenageá-lo",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/28/psicologa-do-interior-de-sp-usa-cinzas-do-proprio-gato-em-tinta-de-tatuagem-para-homenagea-lo.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/27/justica-condena-ex-secretaria-por-fraude-em-contrato-da-saude-em-santo-antonio-de-posse-e-anula-pregao.ghtml",
         "summary": "Imagem de arquivo de Santo Antônio de Posse. Divulgação A Justiça de Jaguariúna (SP) anulou um pregão que contratou serviços médicos para a rede pública de Santo Antônio de Posse (SP) em 2013, além de condenar a ex-secre",
         "image": "https://s2-g1.glbimg.com/Wnw5Dy-pRLez-FbR_zJKfXOKiu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/c/PFj44XQJeABgKGgz3Mcw/whatsapp-image-2026-06-02-at-14.30.36.jpeg",
-        "date": "27 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Moradores reclamam de falta de limpeza e descarte irregular em área verde de Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/27/moradores-reclamam-de-falta-de-limpeza-e-descarte-irregular-em-area-verde-de-americana.ghtml",
-        "summary": "Moradores denunciam descarte irregular de lixo no Parque da Liberdade, em Americana Os moradores do Parque da Liberdade, em Americana (SP), reclamam da falta de limpeza e de descarte irregular de resíduos em uma área ver",
-        "image": "https://s2-g1.glbimg.com/n3B4E2DkLlgSL7nR5RcGl42gqyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/P/ZJYxw0TkutHByzT5xfdg/capas-ana-1-.png",
-        "date": "27 de jun. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com 102 registros em 2025, casamentos entre mulheres batem recorde em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/27/casamentos-mulheres-batem-recorde-campinas.ghtml",
-        "summary": "Campinas registra maior número da história de casamentos entre mulheres Campinas (SP) registrou 102 casamentos oficiais entre mulheres em 2025, número recorde em um só ano no município desde 2016. Os dados são da Associa",
-        "image": "https://s2-g1.glbimg.com/8qOKcK9i5Hav51jKtcHhrnFXm7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/Jgg8krTymAs0br39rYYA/joaquim.png",
         "date": "27 de jun. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Novo espaço cultural do Sesc deve triplicar atendimentos em Paraty",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/novo-espaco-cultural-do-sesc-deve-triplicar-atendimentos-em-paraty",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/novo-espaco-cultural-do-sesc-deve-triplicar-atendimentos-em-paraty img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Gastos de turistas estrangeiros no Brasil soma R$ 25 bi em cinco meses",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/gastos-de-turistas-estrangeiros-no-brasil-soma-r-25-bi-em-cinco-meses",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/gastos-de-turistas-estrangeiros-no-brasil-soma-r-25-bi-em-cinco-meses img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Confira os resultados dos jogos de sábado (27) na Copa",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/confira-os-resultados-dos-jogos-de-sabado-27-na-copa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/confira-os-resultados-dos-jogos-de-sabado-27-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Dia do Orgulho LGBTQIA+: conheça marcos da luta por direitos no Brasil",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/dia-do-orgulho-lgbtqia-conheca-marcos-da-luta-por-direitos-no-brasil",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/dia-do-orgulho-lgbtqia-conheca-marcos-da-luta-por-direitos-no-brasil img src= https://cdn.jsdelivr.net/gh/ser",
@@ -151,161 +181,81 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Quina de São João sorteia prêmio de R$ 260 milhões neste domingo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/quina-de-sao-joao-sorteia-premio-de-r-260-milhoes-neste-domingo",
-        "summary": "p strong As cinco dezenas do concurso especial 7.051, da Quina de São João, serão sorteadas neste domingo (28), às 14h, no Centro de Tradições Nordestinas de São Paulo. /strong img src= https://agenciabrasil.ebc.com.br/e",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Copa inicia mata‑mata neste domingo com África do Sul e Canadá",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-inicia-mata-mata-neste-domingo-com-africa-do-sul-e-canada",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-inicia-mata-mata-neste-domingo-com-africa-do-sul-e-canada img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "RD Congo vence de virada e segue na Copa, como Colômbia e Portugal",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/rd-congo-vence-de-virada-e-segue-na-copa-assim-como-colombia-e-portugal",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/rd-congo-vence-de-virada-e-segue-na-copa-assim-como-colombia-e-portugal img src= https://cdn.jsdelivr.net/gh/sergiosd",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Às vésperas de Wimbledon, Luisa Stefani conquista WTA 250 de Eastbourne",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/luisa-stefani-titulo-eastbourne-wimbledon/",
-        "summary": "Luisa Stefani conquistou o título de duplas do WTA 250 de Eastbourne ao lado de Gabriela Dabrowski, reforçando a ótima fase da parceria em 2026. Com o terceiro troféu da temporada, a dupla chega confiante para a disputa ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/467372_1209052_luisa.eastbourne.titulo6.webp",
+        "title": "Copa do Mundo de 2026 tem maior número de africanos no mata-mata",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/copa-do-mundo-de-2026-tem-maior-numero-de-africanos-no-mata-mata/",
+        "summary": "A Copa do Mundo de 2026, com formato ampliado para 48 seleções, já marca recorde de africanos no mata-mata. Das 10 equipes do continente, nove avançaram aos 16 avos de final, com destaque para Cabo Verde e Costa do Marfi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260627__B8GY27Y__v1__HighRes__FblWc2026Match65CpvKsa.webp",
         "date": "28 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Gabi sente desconforto e segue como baixa do Brasil na terceira etapa da Liga das Nações de Vôlei",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/gabi-sente-desconforto-e-segue-como-baixa-do-brasil-na-terceira-etapa-da-liga-das-nacoes-de-volei/",
-        "summary": "Gabi, ponteira e capitã da Seleção feminina, sentiu um desconforto e irá desfalcar o Brasil na etapa do Japão da Liga das Naçoes de Vôlei. Veja detalhes. O post Gabi sente desconforto e segue como baixa do Brasil na terc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/brasil_x_holanda_liga_das_nacoes_feminina_2026_liga_das_nacoes_1a_etapa_adulto_feminino_brasilia_03062026_21.webp",
+        "title": "Brasil testa sua defesa contra o Japão no primeiro duelo de vida ou morte na Copa",
+        "link": "https://www.gazetaesportiva.com/times/brasil/brasil-x-japao-oitavas-copa-2026-analise/",
+        "summary": "A Seleção Brasileira enfrenta o Japão em Houston pelas oitavas de final da Copa do Mundo de 2026, em um duelo decisivo após campanha sólida na fase de grupos. Com defesa mais consistente nos últimos jogos e ataque em alt",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260624__B88L4AF__v1__HighRes__FblWc2026Match49ScoBra.webp",
         "date": "28 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Musiala e Groß intensificam preparação da Alemanha para duelo com o Paraguai",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/musiala-e-gros-intensificam-preparacao-da-alemanha-para-duelo-com-o-paraguai/",
-        "summary": "Os comandados de Julian Nagelsmann participaram de mais um treino enquanto seguem a preparação para o confronto contra o Paraguai pelos 16 avos de final da Copa do Mundo. O post Musiala e Groß intensificam preparação da ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/ZhSWqOma-1920.webp",
+        "title": "Guarani busca empate com um a menos e mantém liderança da Série C",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/guarani-empata-figueirense-serie-c/",
+        "summary": "Mesmo com um jogador a menos desde o primeiro tempo, o Guarani arrancou empate contra o Figueirense por 1 a 1 fora de casa e manteve a liderança da Série C, ainda sob pressão do Brusque na disputa pela ponta. O post Guar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55333336062_506f9c39c5_k.webp",
         "date": "28 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bastidores: a maior motivação de Cucurella",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-a-maior-motivacao-de-cucurella/",
-        "summary": "Acompanhe Marc Cucurella antes de Espanha x Uruguai e conheça as pessoas que dão ao defensor o apoio e a motivação para entrar em campo em cada partida. O post Bastidores: a maior motivação de Cucurella apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Espanha-x-Uruguai.webp",
+        "title": "Veja fotos do último treino da Seleção antes de duelo contra o Japão",
+        "link": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-do-ultimo-treino-da-selecao-antes-de-duelo-contra-o-japao/",
+        "summary": "O post Veja fotos do último treino da Seleção antes de duelo contra o Japão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260628__B8KZ37J__v1__HighRes__FblWc2026TrainingBra.webp",
         "date": "28 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira as seleções que encerraram a fase de grupos com campanha perfeita na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/mexico-franca-argentina-100-copa-2026/",
-        "summary": "México, França e Argentina terminaram a fase de grupos da Copa do Mundo de 2026 com campanhas perfeitas, vencendo todos os jogos. As três seleções confirmaram o favoritismo e avançaram à segunda fase, onde enfrentarão no",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260625__B88W3XG__v1__HighRes__FblWc2026Match53CzeMex.webp",
+        "title": "Seleção Brasileira fecha preparação para jogo decisivo contra o Japão; veja provável escalação",
+        "link": "https://www.gazetaesportiva.com/times/brasil/selecao-brasileira-fecha-preparacao-para-jogo-decisivo-contra-o-japao-veja-provavel-escalacao/",
+        "summary": "A Seleção Brasileira fez o último treino na manhã deste domingo, em Houston, Texas (EUA) e fechou a preparação para pegar o Japão. Veja a provável escalação. O post Seleção Brasileira fecha preparação para jogo decisivo ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260628__B8KY4D8__v1__HighRes__FblWc2026TrainingBra.webp",
         "date": "28 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Maxence Lacroix mostra suas habilidades como barista",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/maxence-lacroix-mostra-suas-habilidades-como-barista/",
-        "summary": "Veja os bastidores com Maxence Lacroix enquanto o zagueiro da França mostra sua paixão pelo café, prepara um latte art e exibe suas habilidades como barista durante a concentração da seleção em Boston. O post Maxence Lac",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/Maxence-Lacroix.webp",
+        "title": "Confira as fotos do confronto entre Brasil e Canadá pela Liga das Nações de Vôlei",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/confira-as-fotos-do-confronto-entre-brasil-e-canada-pela-liga-das-nacoes-de-volei/",
+        "summary": "Confira as fotos do confronto entre Brasil e Canadá pela Liga das Nações de Vôlei. O post Confira as fotos do confronto entre Brasil e Canadá pela Liga das Nações de Vôlei apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/umndaq3dgu7gedanx0gw.webp",
         "date": "28 de jun. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Seleção repete filme de 1994 e 2002, muda meio-cam...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16914185/selecao-repete-filme-1994-2002-muda-meio-campo-copa-do-mundo-faz-ancelotti-rever-conviccoes",
-        "summary": "null",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Estádio de Brasil x Japão sobreviveu a furacão e t...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16915229/estadio-brasil-x-japao-sobreviveu-furacao-tem-regra-do-ar-condicionado-copa-do-mundo",
-        "summary": "null",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem Brasil pode enfrentar no mata-mata da Copa do...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16915957/quem-brasil-pode-enfrentar-no-mata-mata-da-copa-do-mundo-e-o-chaveamento-ate-a-final",
-        "summary": "null",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "André Kfouri: Japão promete testar capacidade de c...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16920007/opiniao-japao-promete-testar-capacidade-controle-selecao",
-        "summary": "null",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "'Supercomputador' aponta quem são os maiores favor...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16921822/supercomputador-maiores-favoritos-jogos-16-avos-de-final-da-copa-veja-ranking",
-        "summary": "null",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Chaveamento: os jogos de 16 avos e como ficou cami...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16916024/copa-do-mundo-chaveamento-jogos-16-avos-caminho-cada-selecao-ate-final",
-        "summary": "null",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Gastos de turistas estrangeiros no Brasil soma R$ 25 bi em cinco meses",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/gastos-de-turistas-estrangeiros-no-brasil-soma-r-25-bi-em-cinco-meses",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/gastos-de-turistas-estrangeiros-no-brasil-soma-r-25-bi-em-cinco-meses img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "28 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Mega-Sena acumula e prêmio chega a R$ 23 milhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/mega-sena-acumula-e-premio-chega-r-23-milhoes",
@@ -357,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Jogos do Brasil na Copa provocam altos e baixos no consumo de energia",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/jogos-do-brasil-na-copa-provocam-altos-e-baixos-no-consumo-de-energia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/jogos-do-brasil-na-copa-provocam-altos-e-baixos-no-consumo-de-energia img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "26 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Quem é o tenente da Rota, irmão de Eloá Pimentel, baleado na cabeça na Grande SP",
-        "link": "https://www.infomoney.com.br/brasil/quem-e-o-tenente-da-rota-irmao-de-eloa-pimentel-baleado-na-cabeca-na-grande-sp/",
-        "summary": "Ronickson Pimentel dos Santos é irmão mais velho de Eloá Pimentel, adolescente de 15 anos assassinada pelo ex-namorado em outubro de 2008 The post Quem é o tenente da Rota, irmão de Eloá Pimentel, baleado na cabeça na Gr",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/ronickson-eloa.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Canadá x África do Sul?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-canada-africa-do-sul/",
+        "summary": "Partida às 16h deste domingo inicia fase de 16 avos de final no torneio The post Onde assistir Canadá x África do Sul? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-canada-x-africa-do-sul.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "28 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Staff de Neymar não autorizou vídeo com IA publicado por Flávio Bolsonaro, diz jornal",
-        "link": "https://www.infomoney.com.br/politica/staff-de-neymar-nao-autorizou-video-com-ia-publicado-por-flavio-bolsonaro-diz-jornal/",
-        "summary": "No post, Flávio \"resgata\" Neymar para disputar um jogo da Copa do Mundo The post Staff de Neymar não autorizou vídeo com IA publicado por Flávio Bolsonaro, diz jornal appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/montagem-neymar-flavio-video.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "O maior especialista em deepfakes do mundo já não confia mais nos próprios olhos",
+        "link": "https://www.infomoney.com.br/business/global/o-maior-especialista-em-deepfakes-do-mundo-ja-nao-confia-mais-nos-proprios-olhos/",
+        "summary": "Referência mundial em perícia digital, Hany Farid diz que a era da IA tornou cada vez mais difícil distinguir verdade e manipulação online The post O maior especialista em deepfakes do mundo já não confia mais nos própri",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/DEEPFAKE-EXPERT-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Concursos públicos oferecem mais de 20 mil vagas e salários de até R$ 39 mil; confira",
-        "link": "https://www.infomoney.com.br/carreira/concursos-publicos-oferecem-mais-de-40-mil-vagas-e-salarios-de-ate-r-39-mil-confira/",
-        "summary": "Apenas o IBGE oferece quase 10 mil vagas; saiba até quando vão as inscrições para cada concurso The post Concursos públicos oferecem mais de 20 mil vagas e salários de até R$ 39 mil; confira appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/53694743116_af551bc8e0_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Ucrânia ataca Rússia com drones e incendeia importante refinaria de petróleo",
+        "link": "https://www.infomoney.com.br/mundo/ucrania-ataca-russia-com-drones-e-incendeia-importante-refinaria-de-petroleo/",
+        "summary": "A ofensiva incendiou uma importante refinaria de petróleo no sul do país e matou pelo menos duas pessoas. The post Ucrânia ataca Rússia com drones e incendeia importante refinaria de petróleo appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Volodymyr-Zelensky.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Brasil vai perder contra o Japão? Guru da Copa prevê que Seleção será eliminada",
-        "link": "https://www.infomoney.com.br/esportes/brasil-perder-japao-guru-copa-preve-hexa-vem-2026/",
-        "summary": "O Brasil passou para a segunda fase da Copa The post Brasil vai perder contra o Japão? Guru da Copa prevê que Seleção será eliminada appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/nike-football-x-brasil-home-kit-details-low-iii.avif?resize=300,200",
+        "title": "Lula anuncia Desenrola Adimplentes nesta segunda-feira (29)",
+        "link": "https://www.infomoney.com.br/politica/lula-anuncia-desenrola-adimplentes-nesta-segunda-feira-29/",
+        "summary": "A iniciativa do governo federal visa oferecer benefícios e incentivos a cidadãos que mantêm as contas em dia, contando com a participação do ministro da Fazenda, Dario Durigan The post Lula anuncia Desenrola Adimplentes ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55351695918_db08e0a258_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BNDES e MCTI farão aporte de R$ 640 mi na Embrapii para apoiar pesquisa em inovação",
-        "link": "https://www.infomoney.com.br/business/bndes-e-mcti-farao-aporte-de-r-640-mi-na-embrapii-para-apoiar-pesquisa-em-inovacao/",
-        "summary": "Do valor total, R$ 440 milhões virão do ministério, com recursos do Fundo Nacional do Desenvolvimento Científico e Tecnológico (FNDCT), e R$ 200 milhões do BNDES The post BNDES e MCTI farão aporte de R$ 640 mi na Embrapi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Image_fx-4-1.png?fit=300%2C164&amp;quality=70&amp;strip=all",
+        "title": "Trinta e três são resgatados na Venezuela, mas milhares continuam desaparecidos",
+        "link": "https://www.infomoney.com.br/mundo/trinta-e-tres-sao-resgatados-na-venezuela-mas-milhares-continuam-desaparecidos/",
+        "summary": "O governo interino informou que 33 pessoas foram salvas nos escombros, mas as equipes de socorro alertam que o prazo crítico de 72 horas para achar sobreviventes expirou The post Trinta e três são resgatados na Venezuela",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-28T154028Z_1_LYNXMPEM5R0GF_RTROPTP_4_VENEZUELA-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Chaveamento da Copa do Mundo 2026: veja os confrontos do 16 avos até a final",
-        "link": "https://www.infomoney.com.br/esportes/chaveamento-copa-do-mundo-2026-ate-final/",
-        "summary": "Brasil terá chaveamento desafiador; Argentina, por outro lado, tem lado \"mais tranquilo\" The post Chaveamento da Copa do Mundo 2026: veja os confrontos do 16 avos até a final appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-13T235552Z_106433083_UP1EM6D1UH3KF_RTRMADP_3_SOCCER-WORLDCUP-BRA-MAR.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Google limita uso da IA Gemini pela Meta, diz Financial Times",
+        "link": "https://www.infomoney.com.br/business/google-limita-uso-da-ia-gemini-pela-meta-diz-financial-times/",
+        "summary": "A medida teve efeitos em cadeia sobre projetos internos da Meta e levou a empresa a orientar seus funcionários a fazer um uso mais eficiente dos tokens de IA, segundo o jornal The post Google limita uso da IA Gemini pela",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/gemini-do-google-bloomberg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Copa do Mundo 2026: veja como ficou a classificação do grupo H",
-        "link": "https://exame.com/esporte/copa-do-mundo-2026-veja-como-ficou-a-classificacao-do-grupo-h/",
-        "summary": "Cabo Verde se classifica na estreia em Copas do Mundo com três empates",
+        "title": "Com alta de 70% em um ano, bolsa do Japão arruma casa para receber mais investidores",
+        "link": "https://exame.com/invest/mercados/com-alta-de-70-em-um-ano-bolsa-do-japao-arruma-casa-para-receber-mais-investidores/",
+        "summary": "Entrada de capital estrangeiro, iene fraco e eliminação de taxas de corretagem pressionam infraestrutura da maior bolsa asiática",
         "image": null,
         "date": "28 de jun. de 2026",
         "source": "Exame",
@@ -437,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "13 franquias a partir de R$ 6.999 para empreender no interior sem contratar funcionários",
-        "link": "https://exame.com/negocios/13-franquias-a-partir-de-r-6-999-para-empreender-no-interior-sem-contratar-funcionarios/",
-        "summary": "Modelos home office, mercados autônomos e franquias de serviços permitem começar um negócio em cidades menores com operação enxuta e investimento inicial reduzido",
+        "title": "GP da Áustria 2026 termina com Mercedes no topo e Verstappen a milésimos da vitória",
+        "link": "https://exame.com/esporte/gp-da-austria-2026-termina-com-mercedes-no-topo-e-verstappen-a-milesimos-da-vitoria/",
+        "summary": "GP no Red Bull Ring é decidido por segundos",
         "image": null,
         "date": "28 de jun. de 2026",
         "source": "Exame",
@@ -447,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil e Argentina podem se cruzar na semifinal da Copa; veja o que precisa acontecer",
-        "link": "https://exame.com/esporte/brasil-e-argentina-podem-se-cruzar-na-semifinal-da-copa-veja-o-que-precisa-acontecer/",
-        "summary": "Enquanto o Brasil projeta duelos eliminatórios contra Japão e possíveis rivais da Europa e África, a Argentina tem trajetória definida com Cabo Verde, Austrália ou Egito e quartas de alto nível",
+        "title": "Ranking da Fifa: Brasil sobe e amplia vantagem sobre Portugal e Holanda",
+        "link": "https://exame.com/esporte/ranking-da-fifa-brasil-sobe-e-amplia-vantagem-sobre-portugal-e-holanda/",
+        "summary": "Alemanha deixa o top 10, enquanto México e Colômbia avançam após desempenho no Mundial",
         "image": null,
         "date": "28 de jun. de 2026",
         "source": "Exame",
@@ -457,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Copa do Mundo 2026: veja como ficou a classificação do grupo G",
-        "link": "https://exame.com/esporte/copa-do-mundo-2026-veja-como-ficou-a-classificacao-do-grupo-g/",
-        "summary": "Grupo só foi definido na rodada final após sequência de empates e viradas",
+        "title": "Como Pelé 'reina absoluto' no coração da Times Square",
+        "link": "https://exame.com/esporte/como-pele-reina-absoluto-no-coracao-da-times-square/",
+        "summary": "Maior jogador de todos os tempos tem loja tem modelos de camisas de Santos, seleção brasileira e New York Cosmos",
         "image": null,
         "date": "28 de jun. de 2026",
         "source": "Exame",
@@ -467,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Copa do Mundo 2026: veja como ficou a classificação do grupo F",
-        "link": "https://exame.com/esporte/copa-do-mundo-2026-veja-como-ficou-a-classificacao-do-grupo-f/",
-        "summary": "Holanda confirma liderança após vitória na última rodada e Japão fica em segundo",
+        "title": "Chefe de gabinete de Milei renuncia após compra suspeita no Mercado Livre",
+        "link": "https://exame.com/mundo/chefe-de-gabinete-de-milei-renuncia-apos-compra-suspeita-no-mercado-livre/",
+        "summary": "Manuel Adorni enfrentava onda de denúncias há meses e admitiu ter omitido US$ 500 mil",
         "image": null,
         "date": "28 de jun. de 2026",
         "source": "Exame",
@@ -477,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como Alan Greenspan conseguiu ficar quase 20 anos à frente do Fed",
-        "link": "https://exame.com/invest/mercados/como-alan-greenspan-conseguiu-ficar-quase-20-anos-a-frente-do-fed/",
-        "summary": "Greenspan morreu esta semana e deixou como legado a capacidade de transitar entre governos",
+        "title": "Brasil na VNL 2026: quando é o próximo jogo de vôlei da seleção feminina?",
+        "link": "https://exame.com/esporte/brasil-na-vnl-2026-quando-e-o-proximo-jogo-de-volei-da-selecao-feminina/",
+        "summary": "Seleção estreia na terceira semana da Liga das Nações contra o Japão; veja data, horário e onde assistir",
         "image": null,
         "date": "28 de jun. de 2026",
         "source": "Exame",
