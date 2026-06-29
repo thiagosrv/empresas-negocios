@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T04:22:15.207Z",
+  "updated": "2026-06-29T09:51:45.059Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Ancelotti omite escalação do Brasil na véspera do duelo contra o Japão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-omite-escalacao-do-brasil-na-vespera-do-duelo-contra-o-japao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-omite-escalacao-do-brasil-na-vespera-do-duelo-contra-o-japao img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "29 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Com gol no final, Canadá vence Africa do Sul e vai às oitavas da Copa",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/com-gol-no-final-canada-vence-africa-do-sul-e-vai-oitavas-da-copa",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/com-gol-no-final-canada-vence-africa-do-sul-e-vai-oitavas-da-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -171,19 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Polícia legislativa proíbe bandeira LGBTQIA+ em gramado do Congresso",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/policia-legislativa-proibe-bandeira-lgbtqia-em-gramado-do-congresso",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/policia-legislativa-proibe-bandeira-lgbtqia-em-gramado-do-congresso img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "28 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Quantas vezes o Brasil enfrentou o Japão? Veja o retrospecto completo",
+        "link": "https://www.gazetaesportiva.com/times/brasil/quantas-vezes-o-brasil-enfrentou-o-japao-retrospecto/",
+        "summary": "Brasil e Japão voltam a se enfrentar nesta segunda-feira, às 14h (de Brasília), no NRG Stadium, em Houston, pela segunda fase da Copa do Mundo de 2026. Apesar do crescimento da seleção asiática nas últimas décadas, o his",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/54855732043_353db09371_b.webp",
+        "date": "29 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Ancelotti faz alerta para maior perigo do Japão contra o Brasil",
+        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-faz-alerta-para-maior-perigo-do-japao-contra-o-brasil/",
+        "summary": "Carlo Ancelotti destacou a qualidade da saída de bola do Japão, apontou o principal risco para o Brasil e revelou que a Seleção treinou prorrogação e disputa por pênaltis antes do duelo pela segunda fase da Copa do Mundo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260628__2283758648__v1__HighRes__BrazilTrainingAndPressConferenceFifaWorldCup.webp",
+        "date": "29 de jun. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Austrália anuncia amistosos contra a Seleção Brasileira depois da Copa",
         "link": "https://www.gazetaesportiva.com/times/brasil/australia-anuncia-amistosos-contra-a-selecao-brasileira-depois-da-copa/",
@@ -223,89 +243,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Veja os classificados confrontos da terceira fase da Série D do Brasileiro",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-d/veja-os-classificados-confrontos-da-terceira-fase-da-serie-d-do-brasileiro/",
-        "summary": "A Série D do Campeonato Brasileiro de 2026 conheceu, neste fim de semana, 31 dos 32 clubes que disputarão a terceira fase da competição. A última vaga será definida na noite desta segunda-feira, quando Democrata-GV e Ivi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/54029516017-c7612e5c9b-k.avif",
-        "date": "28 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Goiás vence Náutico fora de casa e quebra sequência sem vitórias na Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-estreia-de-treinador-goias-vence-nautico-e-quebra-sequencia-sem-vitorias/",
-        "summary": "O Goiás venceu o Náutico por 1 a 0 neste domingo, nos Aflitos, pela 15ª rodada da Série B, conquistando sua primeira vitória sob o comando do técnico Mozart e encerrando uma sequência de quatro jogos sem triunfos. O gol ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/SaveClip.App_730226602_18611499943007452_3956794551120946253_n.jpg.webp",
-        "date": "28 de jun. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "'Soberba': Marquinhos rebate japoneses sobre 'Bras...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16924940/marquinhos-rebate-japoneses-sobre-brasil-nao-ser-mais-o-mesmo",
-        "summary": "Duelo pelos 16 avos de final é nesta segunda-feira (29), às 14h (de Brasília)",
-        "image": null,
-        "date": "29 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Mudanças? Veja o provável Brasil que vai encarar o...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16923190/copa-do-mundo-selecao-brasileira-fecha-preparacao-encarar-japao-primeira-final-provavel-escalacao",
-        "summary": "null",
-        "image": null,
-        "date": "29 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Ancelotti diz por que 'esconde' escalação do Brasi...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16924774/ancelotti-por-que-esconde-escalacao-brasil-contra-japao-copa-se-dou-o-time-agora",
-        "summary": "Treinador deu entrevista coletiva na véspera do primeiro duelo de mata-mata da Seleção na Copa, nesta segunda-feira (29), contra o Japão",
-        "image": null,
-        "date": "29 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Neymar pode jogar mais tempo? A resposta de Ancelo...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16924835/neymar-pode-jogar-mais-tempo-resposta-ancelotti-sobre-astro-antes-brasil-x-japao",
-        "summary": "null",
-        "image": null,
-        "date": "29 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Técnico do Japão cita Zico e Falcão, lembra vitóri...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16924521/tecnico-japao-cita-zico-falcao-lembra-vitoria-ancelotti-confianca-brasil-esta-no-topo-historico-mas",
-        "summary": "Hajime Moriyasu comanda os Samurais Azuis desde 2018",
-        "image": null,
-        "date": "29 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Canadá marca no fim, vence África do Sul e avança ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16924484/copa-do-mundo-canada-marca-fim-vence-africa-do-sul-avanca-oitavas-de-final",
-        "summary": "Canadá se classificou para as oitavas de final da Copa do Mundo com um gol aos 40 minutos do 2º tempo",
-        "image": null,
-        "date": "29 de jun. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Caixa paga Bolsa Família a beneficiários com NIS de final 9",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "29 de jun. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Nove apostas acertam Quina de São João e vão receber R$ 26,6 milhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/nove-apostas-acertam-quina-de-sao-joao-e-vao-receber-r-266-milhoes",
@@ -347,16 +297,6 @@
         "cls": ""
       },
       {
-        "title": "CNPJ de autônomos, prestadores e produtores rurais é adiado para 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/cnpj-de-autonomos-prestadores-e-produtores-rurais-e-adiado-para-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "26 de jun. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
         "title": "Brasil avalia que tarifaço dos EUA foi politizado mirando eleições",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-avalia-que-tarifaco-dos-eua-foi-politizado-mirando-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -367,121 +307,121 @@
         "cls": ""
       },
       {
-        "title": "Justiça suspende venda da participação da Oi na V.tal por R$ 4,5 bi",
-        "link": "https://www.infomoney.com.br/mercados/justica-suspende-venda-da-participacao-da-oi-na-v-tal-por-r-45-bi/",
-        "summary": "A decisão monocrática atende a questionamentos de investidores sobre a homologação da proposta vencedora, travando temporariamente a negociação do principal ativo da operadora em recuperação judicial The post Justiça sus",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/oi-tele-oibr3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "EUA e Irã concordam em suspender ataques mútuos antes das negociações",
+        "link": "https://www.infomoney.com.br/mundo/eua-e-ira-concordam-em-suspender-ataques-mutuos-antes-das-negociacoes/",
+        "summary": "A troca de ataques começou na quinta-feira na hidrovia por onde outrora fluía um quinto do petróleo e gás do mundo The post EUA e Irã concordam em suspender ataques mútuos antes das negociações appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458456061.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "29 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Anúncio do Desenrola Adimplentes pelo presidente Lula será 10h",
-        "link": "https://www.infomoney.com.br/politica/anuncio-do-desenrola-adimplentes-pelo-presidente-lula-sera-10h/",
-        "summary": "A Secom retificou o horário da cerimônia no Palácio do Planalto, que contará com o presidente Lula e o ministro da Fazenda para anunciar incentivos a quem mantém as contas em dia The post Anúncio do Desenrola Adimplentes",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55327627765_ee372e92b6_k-e1781190597818.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "title": "Resultado fiscal, Focus, PMI da China, falas do BCE e mais destaques desta segunda",
+        "link": "https://www.infomoney.com.br/mercados/resultado-fiscal-focus-pmi-china-falas-bce-29062026/",
+        "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (29) The post Resultado fiscal, Focus, PMI da China, falas do BCE e mais destaques desta segunda appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444071502.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "29 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Motoristas de ônibus decidem por greve nesta segunda no Rio de Janeiro",
-        "link": "https://www.infomoney.com.br/brasil/motoristas-de-onibus-decidem-por-greve-nesta-segunda-no-rio-de-janeiro/",
-        "summary": "Desembargadora ainda determinou multa de R$ 50 mil caso a frota não atinja o percentual mínimo The post Motoristas de ônibus decidem por greve nesta segunda no Rio de Janeiro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-28-161918.png?fit=300%2C180&amp;quality=70&amp;strip=all",
-        "date": "28 de jun. de 2026",
+        "title": "Dow Jones Futuro sobem após trégua entre EUA e Irã aliviar tensão no Oriente Médio",
+        "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobem-apos-tregua-entre-eua-e-ira-aliviar-tensao-no-oriente-medio/",
+        "summary": "Relatos de trégua entre Estados Unidos e Irã reduzem a aversão ao risco e impulsionam os contratos futuros das bolsas americanas The post Dow Jones Futuro sobem após trégua entre EUA e Irã aliviar tensão no Oriente Médio",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/mercado-bolsa-wall-street-stock-exchange.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "29 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ancelotti espera ter Neymar em campo por mais tempo contra o Japão",
-        "link": "https://www.infomoney.com.br/esportes/ancelotti-espera-ter-neymar-em-campo-por-mais-tempo-contra-o-japao/",
-        "summary": "O treinador da seleção brasileira destacou a evolução física do atacante após lesão e pregou respeito absoluto aos japoneses antes do confronto eliminatório em Houston The post Ancelotti espera ter Neymar em campo por ma",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-25T020550Z_1_LYNXMPEM5O055_RTROPTP_4_SOCCER-WORLDCUP-SCO-BRA_rec.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "28 de jun. de 2026",
+        "title": "AtlasIntel mede primeiros efeitos de crises causadas por Michelle e Jaques Wagner",
+        "link": "https://www.infomoney.com.br/politica/atlasintel-mede-primeiros-efeitos-de-crises-causadas-por-michelle-e-jaques-wagner/",
+        "summary": "Pesquisa prevista para 1º de julho deve indicar se desgaste no bolsonarismo e caso Jaques Wagner já alteraram o cenário da disputa presidencial The post AtlasIntel mede primeiros efeitos de crises causadas por Michelle e",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/imagem-5.png?fit=300%2C163&amp;quality=70&amp;strip=all",
+        "date": "29 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Inteligência artificial pode aumentar carga mental e fadiga no trabalho, diz estudo",
-        "link": "https://www.infomoney.com.br/saude/inteligencia-artificial-pode-aumentar-carga-mental-e-fadiga-no-trabalho-diz-estudo/",
-        "summary": "Pesquisa com quase 1.500 trabalhadores dos EUA conclui que o excesso de supervisão aumenta a carga mental, enquanto o uso da ferramenta para automatizar tarefas repetitivas pode reduzir burnout The post Inteligência arti",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/inteligencia-artificial-ai-ia-tecnologia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "28 de jun. de 2026",
+        "title": "Alcolumbre abre negociação que pode acelerar PEC do fim da escala 6 1",
+        "link": "https://www.infomoney.com.br/politica/alcolumbre-abre-negociacao-que-pode-acelerar-pec-do-fim-da-escala-6x1/",
+        "summary": "Reunião convocada por Davi Alcolumbre pode definir o futuro da PEC que reduz a jornada para 40 horas semanais antes do recesso do Congresso The post Alcolumbre abre negociação que pode acelerar PEC do fim da escala 6 1 a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-06-03T213859Z_1500500804_RC26VEAV1W6R_RTRMADP_3_BRAZIL-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "29 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mercados futuros abrem em alta com foco em tensões no Oriente Médio",
-        "link": "https://www.infomoney.com.br/mercados/mercados-futuros-abrem-em-alta-com-foco-em-tensoes-no-oriente-medio/",
-        "summary": "O mercado acompanha o avanço do petróleo e o travamento das negociações de paz após ataques americanos ao Irã, enquanto investidores realizam lucros no setor de tecnologia The post Mercados futuros abrem em alta com foco",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "28 de jun. de 2026",
+        "title": "Candidatura de Flávio depende mais da percepção de força do que das pesquisas",
+        "link": "https://www.infomoney.com.br/politica/candidatura-de-flavio-depende-mais-da-percepcao-de-forca-do-que-das-pesquisas/",
+        "summary": "Para especialistas, manter a imagem de candidato competitivo é decisivo para atrair apoios políticos e evitar o isolamento da campanha The post Candidatura de Flávio depende mais da percepção de força do que das pesquisa",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/selo-v-deo-1782469835986.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "29 de jun. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Venezuela resgata 33 pessoas com vida dos escombros de terremoto",
-        "link": "https://exame.com/mundo/venezuela-resgata-33-pessoas-com-vida-dos-escombros-de-terremoto/",
-        "summary": "País corre contra o tempo para encontrar sobreviventes",
+        "title": "Como joga o Japão? Adversário do Brasil aposta em organização tática e versatilidade",
+        "link": "https://exame.com/esporte/como-joga-o-japao-adversario-do-brasil-aposta-em-organizacao-tatica-e-versatilidade/",
+        "summary": "Equipe comandada por Hajime Moriyasu avançou às oitavas de final e desafia a Seleção com um modelo coletivo consolidado",
         "image": null,
-        "date": "28 de jun. de 2026",
+        "date": "29 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Como pagar a passagem nos ônibus do Rio após fim do uso de dinheiro?",
-        "link": "https://exame.com/brasil/como-pagar-a-passagem-nos-onibus-do-rio-apos-fim-do-uso-de-dinheiro/",
-        "summary": "Mudança atinge linhas municipais da cidade, que passam a aceitar pagamentos apenas por meios digitais",
+        "title": "Brasil x Japão: que horas e onde assistir ao jogo da Copa do Mundo hoje",
+        "link": "https://exame.com/esporte/brasil-x-japao-que-horas-e-onde-assistir-ao-jogo-da-copa-do-mundo-hoje/",
+        "summary": "A Seleção Brasileira enfrenta os japoneses nesta segunda-feira, 29, às 14h, pela segunda fase do Mundial",
         "image": null,
-        "date": "28 de jun. de 2026",
+        "date": "29 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Neymar poderá jogar mais de 15 minutos contra o Japão, diz Ancelotti",
-        "link": "https://exame.com/esporte/neymar-podera-jogar-mais-de-15-minutos-contra-o-japao-diz-ancelotti/",
-        "summary": "Treinador afirmou, no entanto, que entrada do atacante dependerá das condições do jogo",
+        "title": "Prestígio inabalável: as assinaturas mais valiosas e desejadas da arte brasileira",
+        "link": "https://exame.com/casual/prestigio-inabalavel-as-assinaturas-mais-valiosas-e-desejadas-da-arte-brasileira/",
+        "summary": "De recordistas em leilões internacionais a ícones modernos consagrados, saiba por que nomes como Adriana Varejão e Beatriz Milhazes são os ativos mais disputados por grandes fortunas",
         "image": null,
-        "date": "28 de jun. de 2026",
+        "date": "29 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Calendário do mata-mata da Copa: veja as datas de cada fase até a final",
-        "link": "https://exame.com/esporte/calendario-do-mata-mata-da-copa-veja-as-datas-de-cada-fase-ate-a-final/",
-        "summary": "Fase eliminatória da Copa do Mundo 2026 vai de 28 de junho a 19 de julho e tem uma rodada a mais",
+        "title": "Holanda x Marrocos: horário e onde assistir ao vivo ao jogo de hoje da Copa do Mundo",
+        "link": "https://exame.com/esporte/holanda-x-marrocos-horario-e-onde-assistir-ao-vivo-ao-jogo-de-hoje-da-copa-do-mundo/",
+        "summary": "O histórico de confrontos entre as duas seleções é curto, mas favorável aos europeus",
         "image": null,
-        "date": "28 de jun. de 2026",
+        "date": "29 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Calor recorde na Europa deforma asfalto, mata milhares e paralisa usinas",
-        "link": "https://exame.com/esg/calor-recorde-na-europa-deforma-asfalto-mata-milhares-e-paralisa-usinas/",
-        "summary": "Onda apontada como a mais severa já registrada para junho avança rumo ao leste e expõe cidades que, um ano após alerta científico, seguem despreparadas para o calor",
+        "title": "A bolsa funciona durante o jogo do Brasil na Copa? B3 responde",
+        "link": "https://exame.com/invest/mercados/a-bolsa-funciona-durante-o-jogo-do-brasil-na-copa-b3-responde/",
+        "summary": "Bolsa confirma pregão sem alterações, mas dados mostram que o mercado \"para\" quando a seleção entra em campo",
         "image": null,
-        "date": "28 de jun. de 2026",
+        "date": "29 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Kopenhagen investe R$ 42 mi em retrofits como estratégia para crescer vendas",
-        "link": "https://exame.com/mercado-imobiliario/kopenhagen-investe-r-42-mi-em-retrofits-como-estrategia-para-crescer-vendas/",
-        "summary": "Renovações custam 75% menos que abrir um novo ponto e aumentam potencial de vendas em 15%, diz CEO",
+        "title": "Chaveamento da Copa do Mundo 2026: veja a tabela definitiva e os horários dos jogos",
+        "link": "https://exame.com/esporte/chaveamento-da-copa-do-mundo-2026-veja-a-tabela-definitiva-e-os-horarios-dos-jogos/",
+        "summary": "Fase de 16 avos define os classificados às oitavas; Brasil encara o Japão nesta segunda, e confrontos vão até 2 de julho",
         "image": null,
-        "date": "28 de jun. de 2026",
+        "date": "29 de jun. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
