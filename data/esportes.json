@@ -1,17 +1,94 @@
 {
-  "updated": "2026-06-30T00:18:58.529Z",
+  "updated": "2026-06-30T05:17:07.943Z",
   "totalOk": 3,
   "items": [
     {
-      "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
-      "link": "https://www.gazetaesportiva.com/times/avai/avai-3x0-chapecoense-final-copa-sul-sudeste/",
+      "title": "Eliminação da Alemanha garante Brasil como único pentacampeão mundial até 2030",
+      "link": "https://www.gazetaesportiva.com/times/brasil/eliminacao-da-alemanha-garante-brasil-como-unico-pentacampeao-mundial-ate-2030/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "04 de jun. de 2026",
-      "isoDate": "2026-06-04",
+      "date": "30 de jun. de 2026",
+      "isoDate": "2026-06-30",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
+    },
+    {
+      "title": "Martinelli marca gol da virada do Brasil sobre o Japão no fim; veja fotos",
+      "link": "https://www.gazetaesportiva.com/times/brasil/martinelli-marca-gol-da-virada-do-brasil-sobre-o-japao-no-fim-veja-fotos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Matheus Cunha provoca Japão após classificação do Brasil na Copa: &#8220;Tenho cinco&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/matheus-cunha-provoca-japao-classificacao-brasil/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26bd.png"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ancelotti elogia Brasil e sai em defesa de Casemiro após classificação: &#8220;Não foi erro dele&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-elogia-brasil-e-sai-em-defesa-de-casemiro-apos-classificacao-o-gol-nao-foi-erro-dele/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
+    },
+    {
+      "title": "Autor de gol do Japão contra o Brasil já foi preso por acusação de estupro em 2024",
+      "link": "https://www.gazetaesportiva.com/times/japao/autor-de-gol-do-japao-contra-o-brasil-ja-foi-preso-por-acusacao-de-estupro-em-2024/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ancelotti revela por que Neymar não entrou na vitória do Brasil sobre o Japão",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-revela-por-que-neymar-nao-entrou-na-vitoria-do-brasil-sobre-o-japao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
+    },
+    {
+      "title": "Neymar responde guru alemão que previu eliminação do Brasil: &#8220;Favor tentar na próxima Copa&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/neymar-responde-guru-alemao-que-previu-eliminacao-do-brasil-favor-tentar-na-proxima-copa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f609.png"
+    },
+    {
+      "title": "Saiba classificados e confrontos das oitavas de final da Copa do Mundo",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/classificados-confrontos-oitavas-copa-do-mundo-2026/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c5.png"
     },
     {
       "title": "Melhores momentos: São Paulo 2 x 0 Boston River pela Copa Sul-Americana",
@@ -102,94 +179,6 @@
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
-      "title": "Copa do Mundo: confira todas as convocações já divulgadas pelas seleções",
-      "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/copa-do-mundo-confira-todas-as-convocacoes-ja-divulgadas-pelas-selecoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Seleção Brasileira inicia preparação para a Copa de 2026; veja programação",
-      "link": "https://www.gazetaesportiva.com/times/brasil/selecao-brasileira-preparacao-copa-2026-programacao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Adversário do Brasil na estreia da Copa do Mundo, Marrocos divulga convocação",
-      "link": "https://www.gazetaesportiva.com/times/marrocos/marrocos-convocacao-copa-do-mundo-2026/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30d.png"
-    },
-    {
-      "title": "Gazeta na Copa: 1958, o primeiro título de Pelé e do Brasil",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/gazeta-na-copa-1958-o-primeiro-titulo-de-pele-e-do-brasil/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Rival do Brasil em amistoso, Panamá anuncia convocação para a Copa",
-      "link": "https://www.gazetaesportiva.com/times/panama/rival-do-brasil-em-amistoso-panama-anuncia-convocacao-para-a-copa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1f5-1f1e6.png"
-    },
-    {
-      "title": "Bidu vibra com retorno de Memphis no Corinthians e mira oportunidade na Seleção",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/bidu-vibra-com-retorno-de-memphis-no-corinthians-e-mira-oportunidade-na-selecao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de mai. de 2026",
-      "isoDate": "2026-05-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f51f.png"
-    },
-    {
-      "title": "Ancelotti completa um ano na Seleção e é parabenizado pela CBF",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-completa-um-ano-na-selecao-e-e-parabenizado-pela-cbf/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de mai. de 2026",
-      "isoDate": "2026-05-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
-    },
-    {
-      "title": "Gazeta na Copa: 1950, Brasil perde título para o Uruguai no Maracanã",
-      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/gazeta-na-copa-1950-brasil-perde-titulo-para-o-uruguai-no-maracana/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de mai. de 2026",
-      "isoDate": "2026-05-25",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
       "title": "Atlético-MG e Fluminense ficam mais perto de acordo por Hulk",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/atletico-mg-e-fluminense-ficam-mais-perto-de-acordo-por-hulk/",
       "source": "Gazeta Esportiva",
@@ -198,7 +187,7 @@
       "isoDate": "2026-04-28",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Freytes supera má fase após buscar psicólogo e ressalta apoio no Fluminense: &#8220;Me ajudou muito&#8221;",
@@ -243,6 +232,17 @@
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2694.png"
+    },
+    {
+      "title": "Filipe Luís rebate críticas e analisa volta do Flamengo principal",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/filipe-luis-flamengo-vasco/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "22 de jan. de 2026",
+      "isoDate": "2026-01-22",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png"
     },
     {
       "title": "Anselmi confirma acerto de ídolo do Botafogo com time rival",
