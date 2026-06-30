@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T12:24:01.031Z",
+  "updated": "2026-06-30T15:41:13.279Z",
   "totalOk": 3,
   "items": [
     {
@@ -44,7 +44,7 @@
       "isoDate": "2026-06-30",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti explica entrada de Martinelli e exalta atacante após gol da classificação",
@@ -66,17 +66,6 @@
       "isoDate": "2026-06-30",
       "category": "Copa do Mundo",
       "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Há 24 anos, Brasil conquistava o pentacampeonato mundial; veja galeria de fotos",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ha-24-anos-brasil-conquistava-o-pentacampeonato-mundial-veja-galeria-de-fotos/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "30 de jun. de 2026",
-      "isoDate": "2026-06-30",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
@@ -89,6 +78,17 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
+    },
+    {
+      "title": "Saiba classificados e confrontos das oitavas de final da Copa do Mundo",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/classificados-confrontos-oitavas-copa-do-mundo-2026/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "29 de jun. de 2026",
+      "isoDate": "2026-06-29",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c5.png"
     },
     {
       "title": "Melhores momentos: São Paulo 2 x 0 Boston River pela Copa Sul-Americana",
