@@ -1,12 +1,22 @@
 {
-  "updated": "2026-07-04T15:09:15.481Z",
+  "updated": "2026-07-04T17:11:37.953Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "title": "Paciente que furtou ambulância do Samu em Campinas queria jogar veículo em rio em SP, diz PM",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/paciente-que-furtou-ambulancia-do-samu-em-campinas-queria-jogar-veiculo-em-rio-em-sp-diz-pm.ghtml",
+        "summary": "Paciente furta ambulância do Samu durante atendimento em Campinas A paciente que furtou uma ambulância do Serviço de Atendimento Móvel de Urgência (Samu) durante atendimento em uma unidade de saúde de Campinas (SP) na ta",
+        "image": "https://s2-g1.glbimg.com/zpr-HFAzBPnxbdWDFZlxU7mOLY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/G/MLNnkdSjaRKMiUANxitg/vlcsnap-2026-07-04-13h15m20s740.png",
+        "date": "04 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Suspeito de se passar por policial civil é preso em Nova Odessa após perseguição e troca de tiros",
+        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/04/suspeito-de-se-passar-por-policial-civil-e-preso-em-nova-odessa-apos-perseguicao-e-troca-de-tiros.ghtml",
+        "summary": "Homens fingiam ser policiais civis e faziam falsas prisões no interior de SP Um homem suspeito de se passar por policial civil foi preso na noite de sexta-feira (3) após uma perseguição que começou em Pirassununga (SP) e",
+        "image": "https://s2-g1.glbimg.com/5v4Uc4FFaLVkXNlwIwMEi4z-Q-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/P/pKTwXVRsAFTQ5SxdMyeg/copia-de-1200px-x-900px-3-.jpg",
         "date": "04 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -53,14 +63,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Paciente furta ambulância do Samu em Campinas e é detida em Valinhos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/03/paciente-furta-ambulancia-do-samu-em-campinas-e-e-abordado-em-valinhos-diz-pm.ghtml",
-        "summary": "Paciente furtou ambulância do Samu em Campinas Gustavo Biano/EPTV Uma paciente furtou uma ambulância do Serviço de Atendimento Móvel de Urgência (Samu) na UPA Carlos Lourenço, em Campinas (SP), na tarde desta sexta-feira",
-        "image": "https://s2-g1.glbimg.com/7M7hCE5wEO2AWq-QPixroi5IiJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/Bjb9dwQfaSSn4AhQuwiA/furta-samu.jpg",
+        "title": "Parque Ecológico e Jardim Botânico de Americana terão horário especial neste domingo",
+        "link": "https://jornalamericanense.com.br/blog/parque-ecologico-e-jardim-botanico-de-americana-terao-horario-especial-neste-domingo/",
+        "summary": "Alteração no funcionamento ocorre em razão da partida da Seleção Brasileira pela Copa do Mundo Os visitantes do Parque Ecológico Municipal Engenheiro Cid Almeida Franco (Zoo Americana) e do Jardim Botânico Municipal Pref",
+        "image": null,
         "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Americana conquista Selo Ouro e Selo Inovação do Facilita SP por modernização dos serviços públicos",
@@ -113,19 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "BAEP apreende mais de 11 quilos de drogas e prende suspeito por tráfico em Sumaré",
-        "link": "https://jornalamericanense.com.br/policia/baep-apreende-mais-de-11-quilos-de-drogas-e-prende-suspeito-por-trafico-em-sumare/",
-        "summary": "Denúncia levou policiais até imóvel onde foram encontrados mais de 10 quilos de cocaína, crack e materiais utilizados na preparação dos entorpecentes Uma operação do 10º Batalhão de Ações Especiais de Polícia (BAEP) resu",
-        "image": null,
-        "date": "03 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Publicação propõe alternativas para exploração de terras raras no país",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "title": "Inmet alerta para chuva intensa em cidades do Nordeste e do Norte",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/inmet-alerta-para-chuva-intensa-em-cidades-do-nordeste-e-do-norte",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/inmet-alerta-para-chuva-intensa-em-cidades-do-nordeste-e-do-norte img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Operação no Rio desarticula esquema de desvio de combustível",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-no-rio-desarticula-esquema-de-desvio-de-combustivel",
-        "summary": "p Operação contra o desvio de combustíveis que age em Duque de Caxias, na Baixada Fluminense resultou na desarticulação de um esquema de furto de gasolina e derivados, no fechamento de umdesvio de combustíveis, conhecido",
+        "title": "Brasil no Mundo traz detalhes do terremoto na Venezuela",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/brasil-no-mundo-traz-detalhe-do-terremoto-na-venezuela",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/brasil-no-mundo-traz-detalhe-do-terremoto-na-venezuela img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Anistia: conselheiro quer que empresas paguem por apoio à ditadura",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/anistia-conselheiro-quer-que-empresas-paguem-por-apoio-ditadura",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/anistia-conselheiro-quer-que-empresas-paguem-por-apoio-ditadura img src= https://cdn.jsdelivr.net/gh/sergiosd",
+        "title": "Ônibus com romeiros tomba no Ceará e provoca morte de duas pessoas",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/onibus-com-romeiros-tomba-no-ceara-e-provoca-morte-de-duas-pessoas",
+        "summary": "p strong Um ônibus que transportava romeiros tombou hoje (4) na rodovia CE-456, na zona rural de Canindé, no interior do Ceará, e provocou a morte de duas pessoas. /strong Segundo informações da Guarda Municipal de Canin",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Marinha emite alerta de ressaca no Rio com ondas de 2,5 metros",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/marinha-emite-alerta-de-ressaca-no-rio-com-ondas-de-25-metros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/marinha-emite-alerta-de-ressaca-no-rio-com-ondas-de-25-metros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "É possível fazer rir e incomodar, diz atriz do projeto Humor Negro",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/e-possivel-fazer-rir-e-incomodar-diz-atriz-do-humor-negro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/e-possivel-fazer-rir-e-incomodar-diz-atriz-do-humor-negro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Copa dos recordes: as novas marcas estabelecidas em 2026",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/copa-dos-recordes-novas-marcas-estabelecidas-em-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/copa-dos-recordes-novas-marcas-estabelecidas-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "title": "Número de mortos por terremotos na Venezuela sobe para 2.645",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/numero-de-mortos-por-terremotos-na-venezuela-sobe-para-2645",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/numero-de-mortos-por-terremotos-na-venezuela-sobe-para-2645 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Oitavas de final começam hoje com Canadá e Marrocos, Paraguai e França",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/oitavas-de-final-comecam-hoje-com-canada-e-marrocos-paraguai-e-franca",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/oitavas-de-final-comecam-hoje-com-canada-e-marrocos-paraguai-e-franca img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Karol Conká e Linn da Quebrada veem arte como ação de resistência",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/karol-conka-e-linn-da-quebrada-veem-arte-como-acao-de-resistencia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/karol-conka-e-linn-da-quebrada-veem-arte-como-acao-de-resistencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Como uma vitória : apesar da eliminação, Cabo Verde festeja grande jogo contra Argentina",
-        "link": "https://www.gazetaesportiva.com/cabo-verde/como-uma-vitoria-apesar-da-eliminacao-cabo-verde-festeja-grande-jogo-contra-argentina/",
-        "summary": "Aplausos, tambores e buzinas: a derrota de Cabo Verde para a Argentina na prorrogação foi celebrada na madrugada em Praia como se fosse uma vitória, embora tenha marcado o fim do sonho dos 'Tubarões Azuis' na Copa do Mun",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B98R6J2__v1__HighRes__FblWc2026Match86ArgCpv.webp",
+        "title": "Há 14 anos, Corinthians conquistava a Libertadores; relembre gols da campanha invicta",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/ha-14-anos-corinthians-conquistava-a-libertadores-relembre-gols-da-campanha-invicta/",
+        "summary": "Confira todos os gols marcados pelo Corinthians na campanha invicta da Libertadores de 2012, que terminou com o primeiro título da história do clube de Parque São Jorge. O post Há 14 anos, Corinthians conquistava a Liber",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/orinth.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com Gabigol no banco, Santos está escalado para amistoso de intertemporada",
-        "link": "https://www.gazetaesportiva.com/times/santos/com-gabigol-no-banco-santos-esta-escalado-para-amistoso-de-intertemporada/",
-        "summary": "O Santos está escalado para o duelo de logo mais diante do União São João, neste sábado, em amistoso de intertemporada disputado durante a pausa do calendário para a Copa do Mundo de 2026. A bola rola para Santos e União",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55371230677_6a0df5a69a_o-1.webp",
+        "title": "Com dúvida no meio, Brasil fecha preparação para oitavas; veja provável escalação",
+        "link": "https://www.gazetaesportiva.com/times/brasil/com-duvida-no-meio-brasil-fecha-preparacao-para-oitavas-veja-provavel-escalacao/",
+        "summary": "A Seleção Brasileira encerrou a preparação para enfrentar a Noruega pelas oitavas de final da Copa do Mundo. Enquanto Raphinha segue em transição física após lesão e ainda não ficará à disposição, Carlo Ancelotti mantém ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260703__B97U33V__v1__HighRes__FblWc2026TrainingBra.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fizeram uma partidaça , comemora técnico da Colômbia após classificação para oitavas da Copa",
-        "link": "https://www.gazetaesportiva.com/times/colombia/fizeram-uma-partidaca-comemora-tecnico-da-colombia-apos-classificacao-para-oitavas-da-copa/",
-        "summary": "O técnico da Colômbia, o argentino Néstor Lorenzo, classificou a vitória de sua equipe por 1 a 0 sobre Gana na sexta-feira (3), que garantiu a vaga nas oitavas de final da Copa do Mundo de 2026, como uma \"partidaça\". O p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B98V6TP__v1__HighRes__FblWc2026Match87ColGha.webp",
+        "title": "Cuca avalia impossibilidade de reforços e garante extrair o máximo do Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/cuca-avalia-impossibilidade-de-reforcos-e-garante-extrair-o-maximo-do-santos/",
+        "summary": "O treinador afirmou que está adaptado à realidade santista e destacou vai \"extrair o máximo\" do elenco que tem, devido a impossibilidade da chegada de novos reforços devido ao transferban. O post Cuca avalia impossibilid",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55303236492_c071d225d4_o.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos da corrida sprint do GP da Grã-Bretanha de F1",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-da-corrida-sprint-do-gp-da-gra-bretanha-de-f1/",
-        "summary": "O post Veja fotos da corrida sprint do GP da Grã-Bretanha de F1 apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99D2TX__v1__HighRes__776432944.webp",
+        "title": "Vasco segue rotina de treino do CT Moacyr Barbosa",
+        "link": "https://www.gazetaesportiva.com/times/vasco/vasco-segue-rotina-de-treino-do-ct-moacyr-barbosa/",
+        "summary": "Comissão técnica permanente do clube comanda trabalhos do elenco vascaíno de olho no segundo semestre da temporada. O post Vasco segue rotina de treino do CT Moacyr Barbosa apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Vas.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Kimi Antonelli vence corrida sprint do GP da Grã-Bretanha de F1",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/kimi-antonelli-vence-corrida-sprint-do-gp-da-gra-bretanha-de-f1/",
-        "summary": "O piloto italiano Kimi Antonelli (Mercedes), líder do Mundial de Fórmula 1, venceu a corrida sprint do Grande Prêmio da Grã-Bretanha neste sábado (4), em Silverstone, chegando à frente do britânico Lewis Hamilton (Ferrar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99C3FE__v1__HighRes__776432944.webp",
+        "title": "Serena Williams desiste do torneio de duplas de Wimbledon devido a lesão no joelho",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/serena-williams-desiste-duplas-wimbledon/",
+        "summary": "Serena Williams anunciou sua desistência do torneio de duplas de Wimbledon ao lado da irmã Venus após não se recuperar de uma lesão no joelho sofrida na estreia da chave de simples. A americana, de 44 anos, afirmou estar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260630__B8UQ2LW__v4__HighRes__TopshotTennisGbrWimbledon.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Canadá promete ser o pesadelo de uma seleção marroquina sem pontos fracos",
-        "link": "https://www.gazetaesportiva.com/canada/canada-promete-ser-o-pesadelo-de-uma-selecao-marroquina-sem-pontos-fracos/",
-        "summary": "Jesse Marsch admitiu que o Marrocos chega como favorito para o confronto das oitavas de final da Copa do Mundo, mas garantiu que o Canadá pretende dificultar a vida dos africanos. O treinador também confirmou que Alphons",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260628__B8LF9L2__v1__MidRes__FblWc2026Match73RsaCan.webp",
+        "title": "Atual campeã, Iga Swiatek cai na terceira rodada de Wimbledon",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/swiatek-eliminada-alexandra-eala-wimbledon/",
+        "summary": "A polonesa Iga Swiatek, número 3 do mundo e atual campeã de Wimbledon, foi eliminada na terceira rodada do torneio após perder para a filipina Alexandra Eala por 2 sets a 0. Com o resultado, Eala avançou às oitavas de fi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99J2PZ__v1__HighRes__TennisGbrWimbledon.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -277,9 +277,9 @@
         "cls": ""
       },
       {
-        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
+        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -287,9 +287,9 @@
         "cls": ""
       },
       {
-        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
-        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
+        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Vini Jr. ou Haaland? Veja quem vale mais – e quem ganha mais",
-        "link": "https://www.infomoney.com.br/esportes/vini-jr-ou-haaland-veja-quem-vale-mais-e-quem-ganha-mais/",
-        "summary": "Quando entram na conta os contratos de publicidade e outras receitas fora dos gramados, a diferença diminui The post Vini Jr. ou Haaland? Veja quem vale mais – e quem ganha mais appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-30T191712Z_1455250341_UP1EM6U1HKL3H_RTRMADP_3_SOCCER-WORLDCUP-CIV-NOR.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "SK Hynix avalia pagar taxa de 0,5% a bancos em megaoferta de ADRs nos EUA",
+        "link": "https://www.infomoney.com.br/mercados/sk-hynix-avalia-pagar-taxa-de-05-a-bancos-em-megaoferta-de-adrs-nos-eua/",
+        "summary": "Listagem da fabricante de chips pode levantar US$ 26,5 bilhões e se tornar uma das maiores vendas de ações da história The post SK Hynix avalia pagar taxa de 0,5% a bancos em megaoferta de ADRs nos EUA appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/459965956.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Durigan diz que Fazenda é a menos culpada por juros altos e defende ajuste fiscal",
-        "link": "https://www.infomoney.com.br/politica/durigan-diz-que-fazenda-e-a-menos-culpada-por-juros-altos-e-defende-ajuste-fiscal/",
-        "summary": "Segundo Durigan, o que \"machuca a dívida pública\" atualmente é a taxa de juros The post Durigan diz que Fazenda é a menos culpada por juros altos e defende ajuste fiscal appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Navios dão meia-volta em Ormuz e expõem tensão na reabertura do estreito",
+        "link": "https://www.infomoney.com.br/mundo/navios-dao-meia-volta-em-ormuz-e-expoem-tensao-na-reabertura-do-estreito/",
+        "summary": "Ao menos oito embarcações recuaram ao tentar deixar o Golfo Pérsico, em meio à disputa entre Irã e EUA sobre o controle da rota The post Navios dão meia-volta em Ormuz e expõem tensão na reabertura do estreito appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/459970555.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Turquia barra cruzeiro LGBTQ+ e obriga mudança de rota antes de chegada ao país",
-        "link": "https://www.infomoney.com.br/mundo/turquia-barra-cruzeiro-lgbtq/",
-        "summary": "Governo turco diz que decisão busca preservar \"valores familiares\" e \"padrões morais\". The post Turquia barra cruzeiro LGBTQ+ e obriga mudança de rota antes de chegada ao país appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Bosforo-Istambul.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Frio avança pelo país, com geada no Sul e alerta de chuva no Nordeste",
+        "link": "https://www.infomoney.com.br/brasil/frio-avanca-pelo-pais-com-geada-no-sul-e-alerta-de-chuva-no-nordeste/",
+        "summary": "Massa de ar polar derruba temperaturas neste sábado, perde força no domingo e nova frente fria chega na segundat The post Frio avança pelo país, com geada no Sul e alerta de chuva no Nordeste appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ATO20260704003.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Canadá x Marrocos?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-canada-marrocos/",
-        "summary": "Quem ganhar o jogo de hoje enfrenta França ou Paraguai nas quartas de final The post Onde assistir Canadá x Marrocos? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-canada-x-marrocos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Petróleo despenca com volta da oferta e reacende temor de excesso global",
+        "link": "https://www.infomoney.com.br/mundo/petroleo-despenca-com-volta-da-oferta-e-reacende-temor-de-excesso-global/",
+        "summary": "A reabertura de Ormuz e a retomada das exportações pressionam os preços e levantam alertas sobre uma nova sobra de petróleo no mercado The post Petróleo despenca com volta da oferta e reacende temor de excesso global app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/459971496.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Datafolha: 70% dos brasileiros defendem punir adolescentes infratores como adultos",
-        "link": "https://www.infomoney.com.br/brasil/datafolha-70-dos-brasileiros-defendem-punir-adolescentes-infratores-como-adultos/",
-        "summary": "Em 2022, parcela dos que apoiavam punição semelhante era de 65%; reeducação é escolhida por 27% The post Datafolha: 70% dos brasileiros defendem punir adolescentes infratores como adultos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Justica.jpg?fit=300%2C189&amp;quality=70&amp;strip=all",
+        "title": "1 em cada 5 adultos toma decisões sobre saúde com base no que vê nas redes sociais",
+        "link": "https://www.infomoney.com.br/saude/1-em-cada-5-adultos-toma-decisoes-sobre-saude-com-base-no-que-ve-nas-redes-sociais/",
+        "summary": "Pesquisa, nomeada \"Uso das redes sociais para obtenção de informações sobre saúde entre adultos nos EUA\" foi publicada no Journal of the American Medical Association (JAMA) The post 1 em cada 5 adultos toma decisões sobr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/julian-2MBnS4np8i0-unsplash.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Datafolha: brasileiro prefere pagar menos imposto do que ter serviço público gratuito",
-        "link": "https://www.infomoney.com.br/brasil/datafolha-brasileiro-prefere-pagar-menos-imposto-do-que-ter-servico-publico-gratuito/",
-        "summary": "Na preferência de pagar mais impostos e receber serviços públicos gratuitos, o porcentual é 59% nos eleitores de Lula e 29% nos do filho do ex-presidente Jair Bolsonaro The post Datafolha: brasileiro prefere pagar menos ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/impostometro-ACSP.jpg?fit=300%2C148&amp;quality=70&amp;strip=all",
+        "title": "Papa Leão pede aos EUA que acolham imigrantes em apelo de 4 de julho",
+        "link": "https://www.infomoney.com.br/mundo/papa-leao-pede-aos-eua-que-acolham-imigrantes-em-apelo-de-4-de-julho/",
+        "summary": "Papa Leão pede aos EUA que acolham imigrantes em apelo de 4 de julho The post Papa Leão pede aos EUA que acolham imigrantes em apelo de 4 de julho appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-23T203246Z_1_LYNXMPELBM0V6_RTROPTP_4_POPE-AUDIENCE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nostalgia analógica: o futuro que, para se reconectar, olha para trás",
-        "link": "https://exame.com/casual/nostalgia-analogica-o-futuro-que-para-se-reconectar-olha-para-tras/",
-        "summary": "Entre vinis, câmeras fotográficas de filme e crochê, jovens da Geração Z redescobrem o valor da espera e da imperfeição como resposta ao excesso digital",
+        "title": "Como o São João de Caruaru virou vitrine de economia circular para a Solar Coca-Cola",
+        "link": "https://exame.com/esg/como-o-sao-joao-de-caruaru-virou-vitrine-de-economia-circular-para-a-solar-coca-cola/",
+        "summary": "Projeto Recicla Solar recolheu 40 toneladas de resíduos na festa em 2026 e soma 175 toneladas destinadas para a reciclagem em três anos",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "'You got mail': AOL, pioneira da internet, está voltando para Wall Street",
-        "link": "https://exame.com/invest/mercados/you-got-mail-aol-pioneira-da-internet-esta-voltando-para-wall-street/",
-        "summary": "Empresa foi comprada pela italiana Bending Spoons, dona do Vimeo, que pode captar US$ 18 bi na bolsa",
+        "title": "Municípios brasileiros tiveram desempenho melhor que as capitais em Saúde e Proteção ocial",
+        "link": "https://exame.com/saude/municipios-brasileiros-tiveram-desempenho-melhor-que-as-capitais-em-saude-e-protecao-ocial/",
+        "summary": "Pesquisa avaliou 47 indicadores oficiais sobre qualidade dos serviços públicos em oito áreas e mostra que todas as capitais brasileiras ficaram abaixo da média nacional nos quesitos de Saúde e Proteção Social",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Os melhores restaurantes de peixes e frutos do mar no Brasil",
-        "link": "https://exame.com/casual/os-melhores-restaurantes-de-peixes-e-frutos-do-mar-no-brasil/",
-        "summary": "Confira as 29 casas que servem bons insumos do mar, segundo o ranking da Casual EXAME",
+        "title": "Canetas emagrecedoras devem movimentar R$ 20 bi em 2026, prevê estudo",
+        "link": "https://exame.com/invest/mercados/canetas-emagrecedoras-devem-movimentar-r-20-bi-em-2026-preve-estudo/",
+        "summary": "Estudo da InfoPrice projeta mercado de R$ 20 bilhões para medicamentos GLP-1 e prevê queda nos preços com genéricos",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Blockchain é forte aliado no combate a crimes financeiros",
-        "link": "https://exame.com/future-of-money/blockchain-e-forte-aliado-no-combate-a-crimes-financeiros/",
-        "summary": "Rastreabilidade do blockchain e institucionalização do mercado podem tornar cripto um grande aliado das autoridades",
+        "title": "Putin parabeniza Trump pelo 250º aniversário do Dia da Independência dos EUA",
+        "link": "https://exame.com/mundo/putin-parabeniza-trump-pelo-250o-aniversario-do-dia-da-independencia-dos-eua/",
+        "summary": "O chefe de Estado russo expressou confiança no estabelecimento de laços construtivos, equitativos e mutuamente benéficos entre Moscou e Washington",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Micron inicia expansão de US$ 9,3 bilhões no Japão para produzir chips de IA",
-        "link": "https://exame.com/inteligencia-artificial/micron-inicia-expansao-de-r-50-bi-no-japao-para-produzir-chips-de-ia/",
-        "summary": "A fábrica em Hiroshima receberá subsídio de até ¥500 bilhões do governo japonês e deve começar entregas no verão de 2028",
+        "title": "Funeral público de Khamenei em Teerã reúne lamentos e clamores por vingança",
+        "link": "https://exame.com/mundo/funeral-publico-de-khamenei-em-teera-reune-lamentos-e-clamores-por-vinganca/",
+        "summary": "Religioso liderou o país por mais de 36 anos foi assassinado por Estados Unidos e Israel em 28 de fevereiro, no primeiro dia da guerra dos dois países contra o Irã",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como usar IA para escrever o currículo? Veja apps e dicas para não parecer um robô",
-        "link": "https://exame.com/tecnologia/examelab/como-usar-ia-para-curriculo/",
-        "summary": "Plataformas de inteligência artificial ajudam a montar e adaptar currículos para sistemas de triagem automática, mas o excesso de automação pode eliminar o candidato antes da entrevista",
+        "title": "Serena Williams desiste das duplas em Wimbledon por lesão no joelho",
+        "link": "https://exame.com/esporte/serena-williams-desiste-das-duplas-em-wimbledon-por-lesao-no-joelho/",
+        "summary": "Tenista de 44 anos se machucou na derrota da primeira rodada de simples e não teve tempo suficiente para se recuperar",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
