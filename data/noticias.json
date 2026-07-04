@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-04T13:43:04.262Z",
+  "updated": "2026-07-04T15:09:15.481Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 1 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "date": "04 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Motociclista morre após bater na traseira de caminhão e ser atropelado na Rodovia Santos Dumont, em Indaiatuba",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/motociclista-morre-apos-bater-na-traseira-de-caminhao-e-ser-atropelado-na-rodovia-santos-dumont-em-indaiatuba.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/03/paciente-furta-ambulancia-do-samu-em-campinas-e-e-abordado-em-valinhos-diz-pm.ghtml",
         "summary": "Paciente furtou ambulância do Samu em Campinas Gustavo Biano/EPTV Uma paciente furtou uma ambulância do Serviço de Atendimento Móvel de Urgência (Samu) na UPA Carlos Lourenço, em Campinas (SP), na tarde desta sexta-feira",
         "image": "https://s2-g1.glbimg.com/7M7hCE5wEO2AWq-QPixroi5IiJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/Bjb9dwQfaSSn4AhQuwiA/furta-samu.jpg",
-        "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Funcionário de concessionária é atropelado por moto durante atendimento na Anhanguera",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/03/funcionario-de-concessionaria-e-atropelado-por-moto-durante-atendimento-na-anhanguera.ghtml",
-        "summary": "Foto de arquivo do Hospital PUC-Campinas Arquivo pessoal Um funcionário da concessionária Motiva AutoBAn ficou ferido após ser atropelado por uma motocicleta na noite desta sexta-feira (3), no Km 96 da Rodovia Anhanguera",
-        "image": "https://s2-g1.glbimg.com/6O1jSHQ0adPSYBo3VjyN0_JGFVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/oWSTI0SOeyi90cuBarBg/copia-de-1200px-x-900px.jpg",
         "date": "04 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Publicação propõe alternativas para exploração de terras raras no país",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Operação no Rio desarticula esquema de desvio de combustível",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-no-rio-desarticula-esquema-de-desvio-de-combustivel",
+        "summary": "p Operação contra o desvio de combustíveis que age em Duque de Caxias, na Baixada Fluminense resultou na desarticulação de um esquema de furto de gasolina e derivados, no fechamento de umdesvio de combustíveis, conhecido",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Anistia: conselheiro quer que empresas paguem por apoio à ditadura",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/anistia-conselheiro-quer-que-empresas-paguem-por-apoio-ditadura",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/anistia-conselheiro-quer-que-empresas-paguem-por-apoio-ditadura img src= https://cdn.jsdelivr.net/gh/sergiosd",
@@ -156,26 +176,6 @@
         "title": "Oitavas de final começam hoje com Canadá e Marrocos, Paraguai e França",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/oitavas-de-final-comecam-hoje-com-canada-e-marrocos-paraguai-e-franca",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/oitavas-de-final-comecam-hoje-com-canada-e-marrocos-paraguai-e-franca img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mega-Sena sorteia prêmio de R$ 33 milhões neste sábado",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-sorteia-premio-de-r-33-milhoes-neste-sabado",
-        "summary": "p strong As seis dezenas do concurso 3.027 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço da Sorte, localizado na Avenida Paulista, nº 750, em São Paulo. /strong img src= https://agenciab",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Regras do período de defeso eleitoral começam a valer neste sábado",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/regras-do-periodo-de-defeso-eleitoral-comecam-valer-neste-sabado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/regras-do-periodo-de-defeso-eleitoral-comecam-valer-neste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Agência Brasil",
@@ -247,6 +247,16 @@
     ],
     "negocios": [
       {
+        "title": "Publicação propõe alternativas para exploração de terras raras no país",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
         "title": "Ibovespa volta aos 174 mil pontos com aposta na Selic, e dólar cai",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/ibovespa-volta-aos-174-mil-pontos-com-aposta-na-selic-e-dolar-cai",
         "summary": "p Em um dia de feriado nos Estados Unidos, a bolsa voltou a fechar acima dos 174 mil pontos pela primeira vez em um mês. strong O dólar recuou e retornou ao nível de R$ 5,16. /strong img src= https://agenciabrasil.ebc.co",
@@ -267,9 +277,9 @@
         "cls": ""
       },
       {
-        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
-        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
+        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -277,9 +287,9 @@
         "cls": ""
       },
       {
-        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
+        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -297,14 +307,44 @@
         "cls": ""
       },
       {
-        "title": "Aneel leiloa mais quatro lotes de transmissão de energia",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aneel-leiloa-mais-quatro-lotes-de-transmissao-de-energia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aneel-leiloa-mais-quatro-lotes-de-transmissao-de-energia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
-        "image": null,
-        "date": "03 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Vini Jr. ou Haaland? Veja quem vale mais – e quem ganha mais",
+        "link": "https://www.infomoney.com.br/esportes/vini-jr-ou-haaland-veja-quem-vale-mais-e-quem-ganha-mais/",
+        "summary": "Quando entram na conta os contratos de publicidade e outras receitas fora dos gramados, a diferença diminui The post Vini Jr. ou Haaland? Veja quem vale mais – e quem ganha mais appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-30T191712Z_1455250341_UP1EM6U1HKL3H_RTRMADP_3_SOCCER-WORLDCUP-CIV-NOR.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Durigan diz que Fazenda é a menos culpada por juros altos e defende ajuste fiscal",
+        "link": "https://www.infomoney.com.br/politica/durigan-diz-que-fazenda-e-a-menos-culpada-por-juros-altos-e-defende-ajuste-fiscal/",
+        "summary": "Segundo Durigan, o que \"machuca a dívida pública\" atualmente é a taxa de juros The post Durigan diz que Fazenda é a menos culpada por juros altos e defende ajuste fiscal appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Turquia barra cruzeiro LGBTQ+ e obriga mudança de rota antes de chegada ao país",
+        "link": "https://www.infomoney.com.br/mundo/turquia-barra-cruzeiro-lgbtq/",
+        "summary": "Governo turco diz que decisão busca preservar \"valores familiares\" e \"padrões morais\". The post Turquia barra cruzeiro LGBTQ+ e obriga mudança de rota antes de chegada ao país appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Bosforo-Istambul.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Onde assistir Canadá x Marrocos?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-canada-marrocos/",
+        "summary": "Quem ganhar o jogo de hoje enfrenta França ou Paraguai nas quartas de final The post Onde assistir Canadá x Marrocos? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-canada-x-marrocos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "Datafolha: 70% dos brasileiros defendem punir adolescentes infratores como adultos",
@@ -327,49 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Disputa por suplências de Tebet e Marina abre nova tensão na chapa de Haddad em SP",
-        "link": "https://www.infomoney.com.br/politica/disputa-por-suplencias-de-tebet-e-marina-abre-nova-tensao-na-chapa-de-haddad-em-sp/",
-        "summary": "PT, PSB, PSOL, PDT, PV e PCdoB pressionam por espaço nas vagas que podem levar ao Senado em caso de ida das ex-ministras para o governo The post Disputa por suplências de Tebet e Marina abre nova tensão na chapa de Hadda",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/52444488335_aff6aba7ef_c.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Funeral de líder supremo reúne multidão no Irã em meio a tensão com EUA",
-        "link": "https://www.infomoney.com.br/mundo/funeral-de-lider-supremo-reune-multidao-no-ira-em-meio-a-tensao-com-eua/",
-        "summary": "Khamenei governou o Irã por décadas antes de ser morto aos 86 anos em um ataque aéreo em 28 de fevereiro, nos momentos iniciais da guerra iraniana The post Funeral de líder supremo reúne multidão no Irã em meio a tensão ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-04T095043Z_1781444622_RC2X6MACUGKT_RTRMADP_3_IRAN-CRISIS-KHAMENEI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Churrasqueira, esportes e mais: 5 atrativos populares ao escolher o barco ideal",
-        "link": "https://www.infomoney.com.br/mercados/churrasqueira-esportes-o-que-precisa-ter-barco-ideal/",
-        "summary": "Quem quer comprar um barco procura por experiências e recursos que tornem o bem único The post Churrasqueira, esportes e mais: 5 atrativos populares ao escolher o barco ideal appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/14320.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fila da perícia médica do INSS cai 68% e chega ao menor patamar em 34 meses",
-        "link": "https://www.infomoney.com.br/brasil/fila-da-pericia-medica-do-inss-cai-68-e-chega-ao-menor-patamar-em-34-meses/",
-        "summary": "Segundo o Ministério da Previdência Social, há 391 mil pedidos por espera de avaliação de médicos peritos The post Fila da perícia médica do INSS cai 68% e chega ao menor patamar em 34 meses appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/Meu-INSS.png?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "O renascimento da Polaroid que faz fotos gigantes",
-        "link": "https://exame.com/casual/o-renascimento-da-polaroid-que-faz-fotos-gigantes/",
-        "summary": "Documentário da Polaroid Foundation acompanha a maior câmera instantânea do mundo em sessões com artistas contemporâneos, e a mesma câmera também apareceu numa sessão recente com rappers",
+        "title": "Nostalgia analógica: o futuro que, para se reconectar, olha para trás",
+        "link": "https://exame.com/casual/nostalgia-analogica-o-futuro-que-para-se-reconectar-olha-para-tras/",
+        "summary": "Entre vinis, câmeras fotográficas de filme e crochê, jovens da Geração Z redescobrem o valor da espera e da imperfeição como resposta ao excesso digital",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como esta farmacêutica brasileira fatura R$ 780 milhões com um mercado esquecido pela indústria",
-        "link": "https://exame.com/negocios/como-esta-farmaceutica-brasileira-fatura-r-780-milhoes-com-um-mercado-esquecido-pela-industria/",
-        "summary": "Líder histórica em contracepção e menopausa, a Libbs acelera lançamentos numa área que a indústria global deixou parada por décadas — e trouxe da Dinamarca sua aposta mais recente",
+        "title": "'You got mail': AOL, pioneira da internet, está voltando para Wall Street",
+        "link": "https://exame.com/invest/mercados/you-got-mail-aol-pioneira-da-internet-esta-voltando-para-wall-street/",
+        "summary": "Empresa foi comprada pela italiana Bending Spoons, dona do Vimeo, que pode captar US$ 18 bi na bolsa",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Impacto social deixou de ser apenas filantropia e virou estratégia",
-        "link": "https://exame.com/esg/impacto-social-deixou-de-ser-apenas-filantropia-e-virou-estrategia/",
-        "summary": "CMO da Casa do Zezinho, ONG que atende milhares de crianças em alta vulnerabilidade, avalia o futuro do investimento social privado e empresarial",
+        "title": "Os melhores restaurantes de peixes e frutos do mar no Brasil",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-peixes-e-frutos-do-mar-no-brasil/",
+        "summary": "Confira as 29 casas que servem bons insumos do mar, segundo o ranking da Casual EXAME",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Se o Brasil perder para a Noruega no domingo, está fora da Copa? Entenda",
-        "link": "https://exame.com/pop/se-o-brasil-perder-para-a-noruega-no-domingo-esta-fora-da-copa-entenda/",
-        "summary": "Confronto contra a Noruega faz parte da fase mata-mata da Copa do Mundo e quem perder é eliminado do torneio",
+        "title": "Blockchain é forte aliado no combate a crimes financeiros",
+        "link": "https://exame.com/future-of-money/blockchain-e-forte-aliado-no-combate-a-crimes-financeiros/",
+        "summary": "Rastreabilidade do blockchain e institucionalização do mercado podem tornar cripto um grande aliado das autoridades",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Japão eleva imposto de moradia para estrangeiros em meio a recorde migratório",
-        "link": "https://exame.com/mercado-imobiliario/japao-eleva-imposto-de-moradia-para-estrangeiros-em-meio-a-recorde-migratorio/",
-        "summary": "Segundo a Agência de Serviços de Imigração do Japão, as novas tarifas entram em vigor em 1º de outubro de 2026",
+        "title": "Micron inicia expansão de US$ 9,3 bilhões no Japão para produzir chips de IA",
+        "link": "https://exame.com/inteligencia-artificial/micron-inicia-expansao-de-r-50-bi-no-japao-para-produzir-chips-de-ia/",
+        "summary": "A fábrica em Hiroshima receberá subsídio de até ¥500 bilhões do governo japonês e deve começar entregas no verão de 2028",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Eleições 2026: veja como é definido o local de votação e como consultar o seu",
-        "link": "https://exame.com/eleicoes/guia-do-eleitor/eleicoes-2026-veja-como-e-definido-o-local-de-votacao-e-como-consultar-o-seu/",
-        "summary": "Consulta do local de votação pode ser feita gratuitamente pelo portal do Tribunal Superior Eleitoral, informando o nome completo ou o número do título eleitoral",
+        "title": "Como usar IA para escrever o currículo? Veja apps e dicas para não parecer um robô",
+        "link": "https://exame.com/tecnologia/examelab/como-usar-ia-para-curriculo/",
+        "summary": "Plataformas de inteligência artificial ajudam a montar e adaptar currículos para sistemas de triagem automática, mas o excesso de automação pode eliminar o candidato antes da entrevista",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
