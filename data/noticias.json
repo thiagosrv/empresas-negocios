@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-04T19:20:51.603Z",
+  "updated": "2026-07-04T21:02:43.832Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Frente fria reduz temperaturas e aumenta a nebulosidade na região de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/frente-fria-reduz-temperaturas-e-aumenta-a-nebulosidade-na-regiao-de-campinas.ghtml",
+        "summary": "Veja a previsão do tempo para o final de semana na região de Campinas A passagem de uma frente fria pelo litoral deve provocar queda nas temperaturas e aumento da nebulosidade na região de Campinas (SP) a partir deste fi",
+        "image": "https://s2-g1.glbimg.com/JQMVz9QLntgMEgH4ZNDGOJA9AgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/p/yZVTGiTQmHlAf9bHODFg/frio-campinas.png",
+        "date": "04 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Paciente que furtou ambulância do Samu em Campinas queria jogar veículo em rio em SP, diz PM",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/paciente-que-furtou-ambulancia-do-samu-em-campinas-queria-jogar-veiculo-em-rio-em-sp-diz-pm.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/cidades-regiao-recebem-imigrantes-refugiados-acima-media-baixa-estrutura-acolhimento.ghtml",
         "summary": "Nove cidades da região recebem imigrantes e refugiados acima da média com baixa estrutura Nove cidades da região administrativa de Campinas (SP) receberam, de janeiro de 2025 a abril de 2026, imigrantes e refugiados acim",
         "image": "https://s2-g1.glbimg.com/V5mfeGisSfWTGMIsBIG5mm8Ipf0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/f/QyMh6uTxetZsTw2779kA/whatsapp-image-2020-03-04-at-14.07.15.jpeg",
-        "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Galinha de apoio emocional ajuda adolescente autista a enfrentar ansiedade: 'Feita para ele', diz mãe",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/galinha-de-apoio-emocional-ajuda-adolescente-autista-a-enfrentar-ansiedade-feita-para-ele-diz-mae.ghtml",
-        "summary": "Galinha de apoio emocional ajuda adolescente autista a enfrentar ansiedade em Indaiatuba A rotina do adolescente Nicolas Silva, de 14 anos, em Campinas (SP), tem uma companhia especial: a galinha garnisé Pops. O animal v",
-        "image": "https://s2-g1.glbimg.com/YbKqfzE9rD5glVwoaevwrfqAOHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Z/8LqAsRRfWIFtB9rGELCg/pops.png",
         "date": "04 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Ounahi brilha com dois gols, Marrocos bate Canadá e vai às quartas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ounahi-brilha-com-dois-gols-marrocos-bate-canada-e-vai-quartas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ounahi-brilha-com-dois-gols-marrocos-bate-canada-e-vai-quartas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Professora criou Ara Ketu inconformada com injustiças na periferia",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/professora-criou-ara-ketu-inconformada-com-injusticas-na-periferia",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/professora-criou-ara-ketu-inconformada-com-injusticas-na-periferia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -134,7 +144,7 @@
       },
       {
         "title": "Bairro boêmio do Rio, Lapa ganha Distrito de Arte e Cultura",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/bairro-boemio-do-rio-lapa-ganha-distrito-de-arte-e-cultura",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/bairro-boemio-do-rio-lapa-ganha-distrito-de-arte-e-cultura",
         "summary": "p strong Tradicional bairro boêmio do Rio de Janeiro, a Lapa ganhou o Distrito de Arte e Cultura, criado por meio de decreto. Entre as intervenções previstas está a implantação do Boulevard Selarón, no entorno da Escadar",
         "image": null,
         "date": "04 de jul. de 2026",
@@ -171,77 +181,127 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Inmet alerta para chuva intensa em cidades do Nordeste e do Norte",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/inmet-alerta-para-chuva-intensa-em-cidades-do-nordeste-e-do-norte",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/inmet-alerta-para-chuva-intensa-em-cidades-do-nordeste-e-do-norte img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Marrocos despacha o Canadá e avança às quartas da Copa",
-        "link": "https://www.gazetaesportiva.com/times/marrocos/marrocos-despacha-o-canada-e-avanca-as-quartas-da-copa/",
-        "summary": "Marrocos confirmou o favoritismo e derrotou o Canadá por 2 a 0 neste sábado, no NRG Stadium, em Houston, pelas oitavas de final da Copa do Mundo. Após um primeiro tempo equilibrado, os marroquinos foram mais eficientes n",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99W9LU__v1__HighRes__FblWc2026Match90CanMar.webp",
+        "title": "Saiba classificados e confrontos das quartas de final da Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/saiba-classificados-e-confrontos-das-quartas-de-final-da-copa-do-mundo/",
+        "summary": "A Copa do Mundo de 2026 começou a definir os primeiros classificados às quartas de final. O Marrocos foi a primeira seleção a avançar após vencer o Canadá por 3 a 0, enquanto os demais confrontos das oitavas seguem em di",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/12/AFP__20251205__879L8EN__v1__HighRes__FblWc2026Draw.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Um jardim dentro do Garden : revelados novos detalhes do casamento de Taylor Swift",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/detalhes-casamento-taylor-swift-travis-kelce-msg/",
-        "summary": "Novos detalhes do casamento de Taylor Swift e Travis Kelce, realizado na sexta-feira (3) no Madison Square Garden, em Nova York, vieram à tona. A cerimônia reuniu cerca de 1.000 convidados sob rígidas medidas de privacid",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260702__B9497T4__v1__HighRes__SuperBowlKansasCityChiefsVSanFrancisco49ersGame.webp",
+        "title": "Lamine-Nuno Mendes, Rodri-Vitinha e CR7-Laporte: os duelos de Espanha-Portugal",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/espanha-x-portugal-duelos-oitavas-copa-2026/",
+        "summary": "Espanha e Portugal protagonizam um dos confrontos mais aguardados das oitavas de final da Copa do Mundo de 2026, nesta segunda-feira (6), em Dallas. A partida reúne duelos individuais de alto nível, como o embate entre L",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99M6G3__v1__HighRes__FblWc2026ComboPorEsp.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos da vitória do Angel City sobre o Orlando Pride pela NWSL",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-angel-city-sobre-o-orlando-pride-pela-nwsl/",
-        "summary": "Melhores momentos da vitória do Angel City sobre o Orlando Pride pela NWSL O post Melhores momentos da vitória do Angel City sobre o Orlando Pride pela NWSL apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Ang.webp",
+        "title": "Palmeiras vence jogo-treino contra o Primavera; veja lances",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-jogo-treino-contra-o-primavera-veja-lances/",
+        "summary": "O Palmeiras disputou neste sábado (04), na Academia de Futebol, o segundo jogo-treino da intertemporada e derrotou o Primavera por 3 a ; Murilo e as Crias da Academia Victor Gabriel e Felipe Teresa marcaram os gols. O po",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Palm.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Zverev avança às oitavas e iguala sua melhor campanha em Wimbledon",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-vence-giron-oitavas-wimbledon/",
-        "summary": "Alexander Zverev confirmou o favoritismo e derrotou o americano Marcos Giron por 3 sets a 0 para avançar às oitavas de final de Wimbledon. Campeão de Roland Garros, o alemão busca alcançar pela primeira vez as quartas de",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B99T7JU__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Técnico da Noruega vê Brasil favorito e mantém dúvida na escalação para oitavas da Copa",
+        "link": "https://www.gazetaesportiva.com/noruega/tecnico-noruega-brasil-favorito-oitavas-copa/",
+        "summary": "Neste sábado, véspera do confronto decisivo pelas oitavas de final da Copa do Mundo, o técnico da Noruega, Stale Solbakken, reconheceu o favoritismo do Brasil, mas admitiu que os noruegueses têm chance de classificar, o ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260630__B8UA6DF__v1__MidRes__FblWc2026Match78CivNor.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Torcida da Espanha toma conta das ruas de Los Angeles",
-        "link": "https://www.gazetaesportiva.com/times/espanha/torcida-da-espanha-toma-conta-das-ruas-de-los-angeles/",
-        "summary": "Confira a atmosfera incrível criada pelos torcedores da Espanha, que fazem a festa nas ruas de Los Angeles antes do duelo contra a Áustria na fase de 32 equipes da Copa do Mundo. O post Torcida da Espanha toma conta das ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Espa.webp",
+        "title": "Santos vence o União São João no Pacaembu; veja os gols",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/santos-vence-o-uniao-sao-joao-no-pacaembu-veja-os-gols/",
+        "summary": "Com gol de Juninho (Robinho Jr), o Santos venceu o União São João por 3 a 0 em amistoso disputado na Mercado Livre Arena Pacaembu; Moisés e João Ananias fizeram os outros gols. O post Santos vence o União São João no Pac",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Sant.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja galeria de fotos do último treino da Seleção antes do jogo contra a Noruega",
-        "link": "https://www.gazetaesportiva.com/times/brasil/veja-galeria-de-fotos-do-ultimo-treino-da-selecao-antes-do-jogo-contra-a-noruega/",
-        "summary": "O post Veja galeria de fotos do último treino da Seleção antes do jogo contra a Noruega apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/04JUL2026TREINOREDBULL06TAFFARELRAPHINHA.webp",
+        "title": "Sindicato FIFPro pede medidas contra insultos a jogadores",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/fifpro-pede-combate-racismo-insultos-jogadores-copa-2026/",
+        "summary": "O FIFPro, sindicato mundial dos jogadores profissionais, fez um apelo durante a Copa do Mundo de 2026 por medidas mais rígidas contra insultos e ataques discriminatórios direcionados aos atletas, especialmente nas redes ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260630__B8QK9T8__v3__HighRes__FblWc2026Match75NedMar.webp",
         "date": "04 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Siga Paraguai x França e ASSISTA na CazéTV, dispon...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16938691/paraguai-x-franca-ao-vivo-siga-tempo-real-jogo-copa-do-mundo",
+        "summary": "Duelo é válo pelas oitavas de final da competição",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Marrocos vence Canadá, elimina o primeiro país-sed...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16956919/marrocos-vence-canada-elimina-primeiro-pais-sede-copa-2026-garante-vaga-quartas",
+        "summary": "Duelo foi válido pelas oitavas de final da competição",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Escalação da Seleção: Ancelotti repete teste com M...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16956635/escalacao-da-selecao-ancelotti-repete-teste-martinelli-indica-brasil-encarar-noruega",
+        "summary": "Brasil vai encarar a Noruega no domingo (5), em Nova Jersey, pelas oitavas de final",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Técnico da Noruega faz comparação exótica entre Vi...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16957276/tecnico-da-noruega-faz-comparacao-exotica-entre-vini-jr-e-haaland-antes-de-brasil-x-noruega-na-copa-do-mundo",
+        "summary": "Duelo neste final de semana em Nova Jersey vale vaga nas quartas de final",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Como Ancelotti tentou (e conseguiu) parar Haaland",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16943919/como-ancelotti-tentou-conseguiu-parar-haaland-real-madrid-antes-brasil-x-noruega",
+        "summary": "null",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Haaland? Brasil já sofreu com 9 da Noruega que ofu...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16947397/haaland-brasil-sofreu-9-noruega-ofuscou-ronaldo-causou-churrasco-madrugada-pais",
+        "summary": "null",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,6 +367,46 @@
         "cls": ""
       },
       {
+        "title": "Oasis divulga primeiro trailer do documentário sobre a turnê Live 25",
+        "link": "https://www.infomoney.com.br/mundo/oasis-divulga-primeiro-trailer-do-documentario-sobre-a-turne-live-25/",
+        "summary": "Um dos principais atrativos do longa é trazer as primeiras entrevistas conjuntas dos dois irmãos em mais de 25 anos The post Oasis divulga primeiro trailer do documentário sobre a turnê Live 25 appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-21T143655Z_1438592521_RC2RMGAPAMU0_RTRMADP_3_AUCTION-PROPSTORE-MUSIC.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Venezuela contabiliza 2.954 mortos e mais de 16 mil feridos após terremotos",
+        "link": "https://www.infomoney.com.br/mundo/venezuela-contabiliza-2-954-mortos-e-mais-de-16-mil-feridos-apos-terremotos/",
+        "summary": "O duplo terremoto com magnitudes 7,2 e 7,5 devastou majoritariamente o Estado de La Guaira, no norte do país The post Venezuela contabiliza 2.954 mortos e mais de 16 mil feridos após terremotos appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-01T022943Z_1573091493_RC2M4MAY6MTS_RTRMADP_3_VENEZUELA-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Unidade momentânea em funeral esconde divisão na cúpula do Irã",
+        "link": "https://www.infomoney.com.br/business/global/unidade-momentanea-em-funeral-esconde-divisao-na-cupula-do-ira/",
+        "summary": "A ausência do aiatolá Mojtaba Khamenei levantou dúvidas, nos círculos políticos iranianos, sobre quem de fato está comandando o país e permitiu que divisões internas se aprofundassem The post Unidade momentânea em funera",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-03T132926Z_1449600321_RC2A6MAN8YDZ_RTRMADP_3_IRAN-CRISIS-KHAMENEI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "ASSISTA AOS GOLS: Marrocos vence Canadá por 3 a 0 e avança para as quartas da Copa",
+        "link": "https://www.infomoney.com.br/esportes/assista-aos-gols-marrocos-vence-canada-por-3-a-0-e-avanca-para-as-quartas-da-copa/",
+        "summary": "O Marrocos enfrentará nas quartas de final o vencedor do confronto das oitavas de final deste sábado entre Paraguai e França, no dia 9 de julho The post ASSISTA AOS GOLS: Marrocos vence Canadá por 3 a 0 e avança para as ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-04T185945Z_1472927968_UP1EM741GDHJP_RTRMADP_3_SOCCER-WORLDCUP-CAN-MAR.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "date": "04 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Beyoncé lança nova música guardada há 13 anos",
         "link": "https://www.infomoney.com.br/mundo/beyonce-lanca-nova-musica-guardada-ha-13-anos/",
         "summary": "Segundo informações da revista Variety, Morning Dew (Donk) foi gravada em 2013, mas nunca lançada oficialmente The post Beyoncé lança nova música guardada há 13 anos appeared first on InfoMoney.",
@@ -317,9 +417,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Netanyahu pediu reunião na casa Branca, disse Trump, segundo site",
+        "title": "Trump diz que Netanyahu pediu reunião na Casa Branca, afirma site",
         "link": "https://www.infomoney.com.br/mundo/netanyahu-pediu-reuniao-na-casa-branca-disse-trump-segundo-site/",
-        "summary": "Um integrante do governo de Israel afirmou que, em razão da agenda internacional de Trump, o encontro poderá ficar para a semana seguinte The post Netanyahu pediu reunião na casa Branca, disse Trump, segundo site appeare",
+        "summary": "Um integrante do governo de Israel afirmou que, em razão da agenda internacional de Trump, o encontro poderá ficar para a semana seguinte The post Trump diz que Netanyahu pediu reunião na Casa Branca, afirma site appeare",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-15T221035Z_1_LYNXMPEM5E1YM_RTROPTP_4_ISRAEL-PALESTINIANS-TRUMP-NETANYAHU.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de jul. de 2026",
         "source": "InfoMoney",
@@ -327,49 +427,9 @@
         "cls": "brasil"
       },
       {
-        "title": "A nova aposta da Microsoft: ser o “canivete suíço” da IA corporativa",
-        "link": "https://www.infomoney.com.br/business/global/a-nova-aposta-da-microsoft-ser-o-canivete-suico-da-ia-corporativa/",
-        "summary": "Investimento de US$ 2,5 bilhões mira adoção do Copilot e soluções sob medida The post A nova aposta da Microsoft: ser o “canivete suíço” da IA corporativa appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MICROSOFTS-NEXT-BIG-BET-ISNT-ON-A-MODEL-BUT-ON-BECOMING-THE-SWISS-ARMY-KNIFE-OF-ENTERPRISE-AI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Por que Haaland usa um nome na camisa na Noruega e outro no City?",
-        "link": "https://www.infomoney.com.br/esportes/por-que-haaland-usa-um-nome-na-camisa-na-noruega-e-outro-no-city/",
-        "summary": "Escolha do atacante ao jogar pela Noruega mistura tradição familiar e identidade nacional The post Por que Haaland usa um nome na camisa na Noruega e outro no City? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-06-23T012207Z_431626861_UP1EM6N03SUG7_RTRMADP_3_SOCCER-WORLDCUP-NOR-SEN.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Milhares protestam na Alemanha enquanto o partido de extrema direita AfD mira o poder",
-        "link": "https://www.infomoney.com.br/mundo/milhares-protestam-na-alemanha-enquanto-o-partido-de-extrema-direita-afd-mira-o-poder/",
-        "summary": "A polícia estimou que cerca de 15 mil pessoas participaram das manifestações na cidade e nos arredores The post Milhares protestam na Alemanha enquanto o partido de extrema direita AfD mira o poder appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-04T125242Z_1023639612_RC207MAW9ZNV_RTRMADP_3_GERMANY-POLITICS-AFD-PROTEST.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Onde assistir Paraguai x França?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-paraguai-franca/",
-        "summary": "Os times se enfrentam pela terceira vez em Copas do Mundo The post Onde assistir Paraguai x França? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-paraguai-x-franca.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "04 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Gustavo Franco: Um plebiscito contra a fadiga",
-        "link": "https://exame.com/exame-in/gustavo-franco-um-plebiscito-contra-a-fadiga/",
-        "summary": "Economista analisa desconforto crescente entre o Palácio do Planalto e o Banco Central às vésperas do pleito",
+        "title": "Gavekal: SpaceX enriqueceu muita gente muito rápido - e isso também tem um lado ruim",
+        "link": "https://exame.com/invest/mercados/gavekal-spacex-enriqueceu-muita-gente-muito-rapido-e-isso-tambem-tem-um-lado-ruim/",
+        "summary": "Louis Gave, da Gavekal, vê no IPO da SpaceX um risco pouco discutido: a fuga de talentos ricos",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Serviços concedidos de SP terão integração com sistema de monitoramento",
-        "link": "https://exame.com/brasil/infraestrutura/servicos-concedidos-de-sp-terao-integracao-com-sistema-de-monitoramento/",
-        "summary": "A expectativa é incorporar ao Muralha Paulista informações geradas por mais de 4 mil câmeras de monitoramento em tempo real",
+        "title": "Contagem regressiva? Mais de 80% dos jogos da Copa já foram disputados",
+        "link": "https://exame.com/esporte/contagem-regressiva-mais-de-80-dos-jogos-da-copa-ja-foram-disputados/",
+        "summary": "Restam apenas 16 jogos até a final, concentrados nas fases mais decisivas do torneio",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Meta diz que novo modelo de IA alcançou o GPT-5.5 em capacidades",
-        "link": "https://exame.com/inteligencia-artificial/meta-diz-que-novo-modelo-de-ia-alcancou-gpt-5-5/",
-        "summary": "Alexandr Wang afirmou em reunião interna que o Watermelon usa dez vezes mais computação que modelo anterior e se aproxima de rivais como OpenAI e Anthropic",
+        "title": "Calor extremo cancela desfiles e altera celebrações dos 250 anos da Independência dos EUA",
+        "link": "https://exame.com/mundo/calor-extremo-cancela-desfiles-e-altera-celebracoes-dos-250-anos-da-independencia-dos-eua/",
+        "summary": "Temperaturas de até 38°C e sensação térmica próxima de 46°C levaram ao cancelamento de eventos em Washington, Filadélfia e outras cidades; milhões de americanos seguem sob alerta",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Seleção brasileira encara Haaland, calor e desfalques por vaga nas quartas",
-        "link": "https://exame.com/esporte/selecao-brasileira-encara-haaland-calor-e-desfalques-por-vaga-nas-quartas/",
-        "summary": "Passar para as quartas de final significa uma inédita vitória sobre a Noruega",
+        "title": "Incêndio florestal mobiliza mais de 1.000 bombeiros em Portugal",
+        "link": "https://exame.com/mundo/incendio-florestal-mobiliza-mais-de-1-000-bombeiros-em-portugal/",
+        "summary": "Chamas no norte do país deixaram ao menos nove feridos e levaram o governo português a solicitar apoio internacional em meio à onda de calor extremo",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Vini Jr. x Haaland: quem vale mais e quem faturou mais antes do duelo na Copa",
-        "link": "https://exame.com/esporte/vini-jr-x-haaland-quem-vale-mais-e-quem-faturou-mais-antes-do-duelo-na-copa/",
-        "summary": "Astros de Brasil e Noruega se enfrentam nas oitavas de final da Copa do Mundo de 2026 neste domingo, 5",
+        "title": "Teste da Unicamp acha princípio ativo do Mounjaro em canetas do Paraguai",
+        "link": "https://exame.com/ciencia/teste-da-unicamp-acha-principio-ativo-do-mounjaro-em-canetas-do-paraguai/",
+        "summary": "Análise feita a pedido da Folha de S.Paulo testou cinco marcas vendidas ilegalmente em redes sociais no Brasil",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quase 1 milhão de investidores perderam US$ 3,8 bilhões com criptomoeda de Trump",
-        "link": "https://exame.com/invest/mercados/quase-1-milhao-de-investidores-perderam-us-38-bilhoes-com-criptomoeda-de-trump/",
-        "summary": "Estudo da Nansen aponta que cerca de dois terços dos compradores da criptomoeda $TRUMP acumularam prejuízos, enquanto o presidente dos EUA obteve centenas de milhões de dólares com o projeto",
+        "title": "Marrocos derrota o Canadá e vai para as quartas de final da Copa do Mundo de 2026",
+        "link": "https://exame.com/esporte/marrocos-derrota-o-canada-e-vai-para-as-quartas-de-final-da-copa-do-mundo-de-2026/",
+        "summary": "Com dois gols de Ounahi e um de Rahimi, seleção africana elimina um dos países-sede e aguarda o vencedor do duelo entre França e Paraguai",
         "image": null,
         "date": "04 de jul. de 2026",
         "source": "Exame",
