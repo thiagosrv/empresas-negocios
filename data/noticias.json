@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05T03:52:50.535Z",
+  "updated": "2026-07-05T07:31:36.171Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Camisas de futebol viram vestidos e corsets nas mãos de estilista do interior de SP; Anitta e Rafa Kalimann aderem",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/camisas-de-futebol-viram-vestidos-e-corsets-nas-maos-de-estilista-do-interior-de-sp-anitta-e-rafa-kalimann-aderem.ghtml",
+        "summary": "Camisas de futebol viram vestidos e corsets nas mãos de estilista do interior de SP O que para muita gente é apenas uma camisa de futebol antiga, para a estilista Ana Matos, de Campinas (SP), pode virar um vestido, um co",
+        "image": "https://s2-g1.glbimg.com/ibyfvniAsiPGk2zSXl98Mvjc5GE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/AQr1bbQXGxZbPoAeXMtw/design-sem-nome-4-.png",
+        "date": "05 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Homem é preso após gata ser morta com tiro de espingarda de pressão em Monte Mor",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/homem-e-preso-apos-gata-ser-morta-com-tiro-de-espingarda-de-pressao-em-monte-mor.ghtml",
@@ -53,14 +63,64 @@
         "cls": "brasil"
       },
       {
-        "title": "Como este besouro pode 'enganar' uma colônia inteira de cupins",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/04/como-este-besouro-pode-enganar-uma-colonia-inteira-de-cupins.ghtml",
-        "summary": "Como este besouro pode 'enganar' uma colônia inteira de cupins À primeira vista, parece que um cupim está montado nas costas de um besouro. Mas a imagem engana. O que lembra um operário da colônia faz parte do próprio co",
-        "image": "https://s2-g1.glbimg.com/n43fJDhS7657cE2nbUYJm_Ylm3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/T/MbppRxTBa4ShAla9khZA/imagens-para-materia-41-.jpg",
+        "title": "Parque Ecológico e Jardim Botânico de Americana terão horário especial neste domingo",
+        "link": "https://jornalamericanense.com.br/blog/parque-ecologico-e-jardim-botanico-de-americana-terao-horario-especial-neste-domingo/",
+        "summary": "Alteração no funcionamento ocorre em razão da partida da Seleção Brasileira pela Copa do Mundo Os visitantes do Parque Ecológico Municipal Engenheiro Cid Almeida Franco (Zoo Americana) e do Jardim Botânico Municipal Pref",
+        "image": null,
         "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana conquista Selo Ouro e Selo Inovação do Facilita SP por modernização dos serviços públicos",
+        "link": "https://jornalamericanense.com.br/cidades/americana-conquista-selo-ouro-e-selo-inovacao-do-facilita-sp-por-modernizacao-dos-servicos-publicos/",
+        "summary": "Reconhecimento estadual destaca avanços na desburocratização, digitalização e agilidade na abertura de empresas no município A Prefeitura de Americana recebeu, nesta quinta-feira (2), dois importantes reconhecimentos do ",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Por que Fifa recuou em ideia de mudar horários de Brasil x Noruega e México x Inglaterra",
+        "link": "https://jornalamericanense.com.br/esportes/por-que-fifa-recuou-em-ideia-de-mudar-horarios-de-brasil-x-noruega-e-mexico-x-inglaterra/",
+        "summary": "Entidade chegou a estudar mudanças por causa da previsão de tempestades, mas desistiu após divergências entre emissoras, seleções e departamento de competições A Federação Internacional de Futebol (Fifa) decidiu manter o",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "DAE retoma bombeamento após conclusão de reparo em adutora que abastece a região do Zanaga",
+        "link": "https://jornalamericanense.com.br/cidades/dae-retoma-bombeamento-apos-conclusao-de-reparo-em-adutora-que-abastece-a-regiao-do-zanaga/",
+        "summary": "O Departamento de Água e Esgoto (DAE) de Americana retomou, às 19h30 desta quinta-feira (2), o bombeamento de água para a região do Antônio Zanaga após concluir o reparo emergencial em uma adutora localizada na Avenida A",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Polícia Civil identifica segundo envolvido e obtém prisão preventiva de dupla por roubo nas imediações da Festa do Peão de Americana",
+        "link": "https://jornalamericanense.com.br/policia/policia-civil-identifica-segundo-envolvido-e-obtem-prisao-preventiva-de-dupla-por-roubo-nas-imediacoes-da-festa-do-peao-de-americana/",
+        "summary": "Atualização das investigações esclarece crime ocorrido em junho e aponta atuação de grupo especializado em furtos e roubos durante grandes eventos A Polícia Civil de São Paulo, por meio da Delegacia de Investigações Gera",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Guarda Municipal resgata cão preso em barracão abandonado em Americana",
+        "link": "https://jornalamericanense.com.br/policia/guarda-municipal-resgata-cao-preso-em-barracao-abandonado-em-americana/",
+        "summary": "Animal foi localizado após denúncia ao Centro de Segurança e apresentava sinais de fraqueza e dificuldade para se locomover A Guarda Municipal de Americana resgatou, na tarde de quinta-feira (2), um cão que ficou preso e",
+        "image": null,
+        "date": "03 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Veja os números da mega-sena sorteados neste sábado (4)",
@@ -182,6 +242,66 @@
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "França vence Paraguai e vai encarar Marrocos nas q...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16958184/mbappe-marca-franca-vence-paraguai-jogo-libertadores-vai-quartas-copa-mundo-contra-marrocos",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Mbappé diz que Paraguai não quis futebol e rebate ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16958873/mbappe-diz-paraguai-nao-quis-futebol-se-vao-nos-mandar-ir-a-m***-vamos-manda-los-tambem",
+        "summary": "\"A gente sabia o tipo de jogo que teria pela frente, mas acho que fez muito bem\", avaliou o craque e camisa 10",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Ancelotti confirma Raphinha no banco e mantém dúvi...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16958102/selecao-brasileira-carlo-ancelotti-confirma-raphinha-banco-mantem-duvida-nao-temos-ninguem-como-lucas-paqueta",
+        "summary": "Martinelli treinou os dois últimos dias na vaga do machucado Paquetá, mas Ancelotti preferiu não confirmar qual deles inicia como titular",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Bruno Guimarães lembra frustração com 2022 e prome...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16958080/bruno-guimaraes-lembra-frustracao-2022-promete-sacrificio-ganhar-copa-e-o-que-me-falta",
+        "summary": "Jogador concedeu entrevista coletiva neste sábado (4), véspera do confronto diante da Noruega",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "O que Ancelotti planeja para Brasil x Noruega",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16956635/escalacao-da-selecao-ancelotti-repete-teste-martinelli-indica-brasil-encarar-noruega",
+        "summary": "null",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Técnico da Noruega faz comparação exótica entre Vi...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16957276/tecnico-da-noruega-faz-comparacao-exotica-entre-vini-jr-e-haaland-antes-de-brasil-x-noruega-na-copa-do-mundo",
+        "summary": "Duelo neste final de semana em Nova Jersey vale vaga nas quartas de final",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
