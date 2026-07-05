@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T14:47:19.481Z",
+  "updated": "2026-07-05T16:12:45.738Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Internado, cacique Raoni tem saúde estável e respira sem aparelhos",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "China cria mecanismos financeiros na África para não depender de dólar",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar",
+        "summary": "p strong A China vem ampliando a infraestrutura financeira na África para não depender do dólar, o que permite comercializar bens e serviços por meio das moedas africanas e da chinesa, o yuan. /strong img src= https://ag",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Um Defeito de Cor não é uma contra-história , diz Ana Maria Gonçalves",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -161,29 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Brasil enfrenta a Noruega hoje pelas oitavas de final da Copa do Mundo",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Veja os números da mega-sena sorteados neste sábado (4)",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/veja-os-numeros-da-mega-sena-sorteados-neste-sabado-4",
-        "summary": "p A Caixa Econômica Federal sorteou na noite deste sábado (4) os seis números do concurso 3.027 de Mega-Sena. São eles: img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1695944 o=rss style= width:1px; height:1px; dis",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Leclerc vence GP de Silverstone e quebra jejum de quase dois anos na F1",
+        "link": "https://www.gazetaesportiva.com/motor/formula-1/leclerc-vence-gp-silverstone-f1-resultado/",
+        "summary": "Charles Leclerc venceu o GP de Silverstone da Fórmula 1, conquistando sua primeira vitória desde outubro de 2024. O piloto da Ferrari liderou a corrida após ultrapassar Kimi Antonelli logo na largada, enquanto George Rus",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BA38X__v1__HighRes__76432945.webp",
+        "date": "05 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos do GP de Silverstone da F1",
+        "link": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-do-gp-de-silverstone-da-f1/",
+        "summary": "Veja uma galeria de fotos do Grande Prêmio da Inglaterra, no Autódromo de Silverstone, neste domingo, pela Fórmula 1. O post Veja fotos do GP de Silverstone da F1 apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9B68E8__v1__HighRes__76432945.webp",
+        "date": "05 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Inglaterra e Tuchel, preparados para o tempero picante do México e sua torcida",
         "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-mexico-tuchel-copa-2026/",
@@ -225,27 +245,77 @@
         "cls": "startups"
       },
       {
-        "title": "Entenda por que Victor Sá não esteve no jogo-treino do São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/entenda-por-que-victor-sa-nao-esteve-no-jogo-treino-do-sao-paulo/",
-        "summary": "Recém-contratado pelo São Paulo, Victor Sá ficou fora do jogo-treino contra o RB Bragantino para aprimorar a parte física. Atacante não atua desde março após lesão no quadril. O post Entenda por que Victor Sá não esteve ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/imagem_2026-07-04_211611670.webp",
+        "title": "Gabriel Magalhães contra Haaland: quem leva a melh...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16947748/gabriel-magalhaes-x-haaland-quem-leva-a-melhor-antes-brasil-x-noruega",
+        "summary": "null",
+        "image": null,
         "date": "05 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       },
       {
-        "title": "Vozinha supera Casillas e se torna o goleiro com mais seguidores nas redes sociais",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/vozinha-supera-casillas-e-se-torna-o-goleiro-com-mais-seguidores-nas-redes-sociais/",
-        "summary": "O goleiro Vozinha, de Cabo Verde, se despediu da Copa do Mundo na última sexta-feira após eliminação para a Argentina na prorrogação. O atleta de 40 anos foi destaque pela atuação no empate sem gols contra a Espanha, na ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B98T4QZ__v1__MidRes__FblWc2026Match86ArgCpv.webp",
+        "title": "A história de como Bruno Guimarães foi da lateral ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16949086/copa-do-mundo-brasil-historia-como-bruno-guimaraes-foi-da-lateral-para-destaque-selecao",
+        "summary": "null",
+        "image": null,
         "date": "05 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Sabia? O dia que Kane jogou no México, rival da In...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16957231/dia-kane-jogou-mexico-rival-inglaterra-copa-passou-longe-holofotes",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Inglaterra se apega até em suco de beterraba para ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16959540/inglaterra-se-apega-ate-suco-beterraba-para-enfrentar-altitude-mexico-copa-do-mundo",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Vingança? Inglaterra volta ao Estádio Azteca 40 an...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16959246/vinganca-inglaterra-volta-estadio-azteca-40-anos-apos-sofrer-com-la-mano-de-dios-de-maradona-ainda-doi",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Negócios, dinheiro e até documentários: as semelha...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16952756/negocios-dinheiros-documentarios-semelhancas-diferencas-pais-neymar-haaland",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "China cria mecanismos financeiros na África para não depender de dólar",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar",
+        "summary": "p strong A China vem ampliando a infraestrutura financeira na África para não depender do dólar, o que permite comercializar bens e serviços por meio das moedas africanas e da chinesa, o yuan. /strong img src= https://ag",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Publicação propõe alternativas para exploração de terras raras no país",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais",
@@ -277,16 +347,6 @@
         "cls": ""
       },
       {
-        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
-        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
-        "image": null,
-        "date": "03 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
         "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
@@ -297,9 +357,9 @@
         "cls": ""
       },
       {
-        "title": "Balança comercial tem superávit de US$ 9,8 bilhões em junho",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/balanca-comercial-tem-superavit-de-us-98-bilhoes-em-junho",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/balanca-comercial-tem-superavit-de-us-98-bilhoes-em-junho img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
+        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -307,69 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Prédio de luxo bloqueia vista para o mar em Maceió e gera onda de críticas",
-        "link": "https://www.infomoney.com.br/brasil/predio-de-luxo-bloqueia-vista-para-o-mar-em-maceio-e-gera-onda-de-criticas/",
-        "summary": "Edifício muda paisagem na chegada à capital alagoana; unidades custam entre R$ 1,4 milhão e R$ 8,8 milhões The post Prédio de luxo bloqueia vista para o mar em Maceió e gera onda de críticas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/maceio-construcao-e1783262368961.png?fit=300%2C141&amp;quality=70&amp;strip=all",
+        "title": "Ao menos 8, incluindo crianças, são baleadas durante festa de 4 de Julho em NY",
+        "link": "https://www.infomoney.com.br/mundo/ao-menos-8-incluindo-criancas-sao-baleadas-durante-festa-de-4-de-julho-em-ny/",
+        "summary": "Entre ​os feridos estavam dois homens, duas mulheres e quatro crianças — com idades de 14, 12, 7 e 6 anos —, ‌segundo a ABC ​News The post Ao menos 8, incluindo crianças, são baleadas durante festa de 4 de Julho em NY ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T025247Z_414501207_RC2D7MAZX5U1_RTRMADP_3_USA-250-NEW-YORK.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Governo de SP responde PSOL-Rede e diz que canais divulgam ações de interesse público",
-        "link": "https://www.infomoney.com.br/politica/governo-de-sp-responde-psol-rede-e-diz-que-canais-divulgam-acoes-de-interesse-publico/",
-        "summary": "Federação PSOL-Rede acusa Tarcísio de promover a Sabesp mesmo já sendo uma empresa privada The post Governo de SP responde PSOL-Rede e diz que canais divulgam ações de interesse público appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/tarcisio-de-freitas.jpg?fit=300%2C166&amp;quality=70&amp;strip=all",
+        "title": "Comunistas podem ganhar terreno nos EUA, diz Trump em discurso de 4 de Julho",
+        "link": "https://www.infomoney.com.br/mundo/comunistas-podem-ganhar-terreno-nos-euam-diz-trump-em-discurso-de-4-de-julho/",
+        "summary": "Em tom de campanha, o presidente americano disse que o que chama de \"surgimento do comunismo\" é um \"câncer\" que precisa ser \"extirpado rapidamente\" The post Comunistas podem ganhar terreno nos EUA, diz Trump em discurso ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T035749Z_320536811_RC2F7MAUXTRT_RTRMADP_3_USA-250-TRUMP.jpg?fit=300%2C189&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Navio de carga britânico é atacado no Mar Vermelho, próximo à costa do Iêmen",
-        "link": "https://www.infomoney.com.br/mundo/navio-de-carga-britanico-e-atacado-no-mar-vermelho-proximo-a-costa-do-iemen/",
-        "summary": "Os houthis ameaçaram voltar a atacar navios, embora não tenham realizado novas investidas The post Navio de carga britânico é atacado no Mar Vermelho, próximo à costa do Iêmen appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Brasil envia 6 toneladas de vacinas e insumos em pacote de ajuda a Venezuela",
+        "link": "https://www.infomoney.com.br/brasil/brasil-envia-6-toneladas-de-vacinas-e-insumos-em-pacote-de-ajuda-a-venezuela/",
+        "summary": "Pelo menos 2.954 pessoas morreram e 16.592 ficaram feridas nos terremotos que sacudiram a Venezuela em 24 de junho The post Brasil envia 6 toneladas de vacinas e insumos em pacote de ajuda a Venezuela appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-26T010937Z_1774542907_RC2A1MAASXM2_RTRMADP_3_VENEZUELA-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "7 países da Opep+ vão elevar produção em 188 mil barris por dia a partir de agosto",
-        "link": "https://www.infomoney.com.br/mercados/7-paises-da-opep-vao-elevar-producao-em-188-mil-barris-por-dia-a-partir-de-agosto/",
-        "summary": "Os países também confirmaram a intenção de compensar integralmente qualquer volume produzido acima do acordado desde janeiro de 2024 The post 7 países da Opep+ vão elevar produção em 188 mil barris por dia a partir de ag",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T111734Z_1_LYNXMPEM2A0PZ_RTROPTP_4_IRAN-CRISIS-OIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Como o risco geopolítico começa a entrar na conta do Boticário",
+        "link": "https://www.infomoney.com.br/business/grupo-boticario-espera-pressao-de-juros-apos-anos-de-crescimento-solido-diz-ceo/",
+        "summary": "Ao IM Entrevista, primeira pessoa a ocupar o cargo fora da família fundadora fala sobre o mercado de cosméticos, concorrência, economia e escala 6x1 The post Como o risco geopolítico começa a entrar na conta do Boticário",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/FAB_9662_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Multidão protesta contra hotel de luxo ligado à família Trump na Albânia",
-        "link": "https://www.infomoney.com.br/mundo/multidao-protesta-contra-hotel-de-luxo-ligado-a-familia-trump-na-albania/",
-        "summary": "Manifestação de sábado (4) foi a 35ª consecutiva contra empreendimento turístico avaliado em US$ 4,6 bilhões em área de reserva natural na costa da Albânia, projeto conduzido por Ivanka Trump e Jared Kushner The post Mul",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-04T205355Z_1497688792_RC277MACK1V4_RTRMADP_3_ALBANIA-PROTESTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Financiamento imobiliário após os 50: veja limites, prazos e custos",
+        "link": "https://www.infomoney.com.br/minhas-financas/primeiro-imovel-depois-dos-50-e-possivel-veja-o-que-muda-no-financiamento/",
+        "summary": "Especialistas ouvidos pelo InfoMoney afirmam que o principal desafio para o público que tem mais de 50 anos não costuma ser conseguir crédito The post Financiamento imobiliário após os 50: veja limites, prazos e custos a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/money-2724245_640.jpg?fit=300%2C172&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Datafolha: Haddad tem maior rejeição entre eleitores de SP, com 47%",
-        "link": "https://www.infomoney.com.br/politica/datafolha-haddad-tem-maior-rejeicao-entre-eleitores-de-sp-com-47/",
-        "summary": "Tarcísio de Freitas, governador candidato à reeleição, é rejeitado por 29% dos entrevistados na pesquisa The post Datafolha: Haddad tem maior rejeição entre eleitores de SP, com 47% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-06T122100Z_1_LYNXMPELA50OS_RTROPTP_4_MACRO-SEGURO-DEFESO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Sensação da Copa, Vozinha vira goleiro mais seguido do mundo",
+        "link": "https://www.infomoney.com.br/esportes/sensacao-da-copa-vozinha-vira-goleiro-mais-seguido-do-mundo/",
+        "summary": "Cabo-verdiano ultrapassou Iker Casillas entre os goleiros e também superou o número de seguidores da conta oficial de Portugal no Instagram The post Sensação da Copa, Vozinha vira goleiro mais seguido do mundo appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/vozinha-instagram.png?fit=298%2C300&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Vale investe em naming rights, mas sem mudar nome do Mercado Central de BH",
-        "link": "https://exame.com/marketing/vale-investe-em-naming-rights-mas-sem-mudar-nome-do-mercado-central-de-bh/",
-        "summary": "Mineradora adquiriu os direitos de nomeação do espaço, mas abriu mão de renomeá-lo para preservar a identidade de um dos cartões-postais de MG",
+        "title": "Opinião: o varejo chinês mostra ao nacional que presença digital não basta",
+        "link": "https://exame.com/bussola/opiniao-o-varejo-chines-prova-ao-nacional-que-presenca-digital-nao-basta/",
+        "summary": "O avanço das plataformas chinesas mostra que ter apenas presença online já não basta para fidelizar o novo consumidor brasileiro",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Possível rival do Brasil nas quartas sai de México x Inglaterra; veja horário",
-        "link": "https://exame.com/esporte/possivel-rival-do-brasil-nas-quartas-sai-de-mexico-x-inglaterra-veja-horario/",
-        "summary": "Duelo acontece no Estádio Azteca, na Cidade do México, horas depois da Seleção Brasileira entrar em campo",
+        "title": "Com banda e fogos, mexicanos tentam atrapalhar sono da Inglaterra; assista",
+        "link": "https://exame.com/esporte/com-banda-e-fogos-mexicanos-tentam-atrapalhar-sono-da-inglaterra-assista/",
+        "summary": "Mesmo com esquema de segurança reforçado e autorizado pela Fifa, delegação inglesa não escapou da torcida na madrugada deste domingo, 5",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cabo Verde recebe seleção com festa após campanha histórica na Copa; assista",
-        "link": "https://exame.com/esporte/cabo-verde-recebe-selecao-com-festa-apos-campanha-historica-na-copa-assista/",
-        "summary": "Recepção à seleção coincidiu com o Dia da Independência do país, celebrado em 5 de julho",
+        "title": "Expediente até 15h e licença de 14 meses: ‘A vida não é só trabalho’, dizem brasileiras na Noruega",
+        "link": "https://exame.com/carreira/expediente-ate-15h-e-licenca-de-14-meses-a-vida-nao-e-so-trabalho-dizem-brasileiras-na-noruega/",
+        "summary": "Brasileiras que vivem no país europeu contam como jornadas mais curtas, segurança e equilíbrio entre carreira e família mudaram sua relação com o trabalho",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Com qual uniforme o Brasil vai jogar contra a Noruega?",
-        "link": "https://exame.com/esporte/com-qual-uniforme-o-brasil-vai-jogar-contra-a-noruega/",
-        "summary": "Para encarar os noruegueses, a Fifa definiu que a Seleção Brasileira utilizará a camisa amarela",
+        "title": "Ele transformou esta empresa em um império de R$ 130 bilhões comprando marcas esquecidas da internet",
+        "link": "https://exame.com/negocios/ele-transformou-esta-empresa-em-um-imperio-de-r-130-bilhoes-comprando-marcas-esquecidas-da-internet/",
+        "summary": "Fundada com 40 mil dólares após um fracasso, a Bending Spoons fez 50 aquisições e virou uma das maiores estreias de tecnologia de 2026",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "GRF mira R$ 170 milhões em 2026 com moradias populares em Mato Grosso",
-        "link": "https://exame.com/negocios/grf-mira-r-170-milhoes-em-2026-com-moradias-populares-em-mato-grosso/",
-        "summary": "Fundada em 2018, a incorporadora já entregou mais de 700 casas e aposta em projetos financiáveis pelo Minha Casa, Minha Vida para acelerar crescimento",
+        "title": "Negociação em casa: como conseguir o que quer sem brigar",
+        "link": "https://exame.com/carreira/negociacao-em-casa-como-conseguir-o-que-quer-sem-brigar/",
+        "summary": "Técnicas de negócios podem funcionar com amigos e familiares — se você souber evitar armadilhas e escolher as palavras certas",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Os melhores restaurantes de culinária italiana em São Paulo",
-        "link": "https://exame.com/casual/os-melhores-restaurantes-de-culinaria-italiana-em-sao-paulo/",
-        "summary": "A capital paulista é a cidade com maior número de restaurantes listados do país, com 33 casas, sendo 8 dedicadas à cozinha italiana",
+        "title": "Iranianos prestam homenagens a Ali Khamenei em funeral com ausência de novo líder supremo",
+        "link": "https://exame.com/mundo/iranianos-prestam-homenagens-a-ali-khamenei-em-funeral-com-ausencia-de-novo-lider-supremo/",
+        "summary": "A oração no enorme complexo da Grande Mosalla durou cerca de 10 minutos e foi conduzida por Ja'far Sobhani, um aiatolá de 97 anos",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
