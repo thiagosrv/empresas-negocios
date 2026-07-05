@@ -1,12 +1,22 @@
 {
-  "updated": "2026-07-05T20:17:33.593Z",
+  "updated": "2026-07-05T22:05:23.349Z",
   "feeds": {
     "campinas": [
       {
+        "title": "Campinas emplaca 2,2 mil veículos eletrificados em cinco meses de 2026 e lidera no interior do Brasil",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/campinas-emplaca-22-mil-veiculos-eletrificados-em-2026-e-mantem-lideranca-no-interior-do-brasil.ghtml",
+        "summary": "Carro elétrico João Pantoja/Rede Amazônica Campinas (SP) reforçou a posição de principal mercado de veículos eletrificados do interior do Brasil. Dados da Associação Brasileira do Veículo Elétrico (ABVE) mostram que a ci",
+        "image": "https://s2-g1.glbimg.com/Pmv-xitUwjUV6qkmTYYlEYzPYS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/R/oVtbxARJiqkL35i78Izw/whatsapp-image-2025-08-20-at-09.20.03.jpeg",
+        "date": "05 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
         "title": "FOTOS: com direito a churrasco, torcedores se reúnem para Brasil x Noruega em telão em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/fotos-brasil-noruega-copa-do-mundo-em-campinas.ghtml",
-        "summary": "Torcedores de Campinas se reúnem na Praça Arautos da Paz para jogo contra a Noruega Gustavo Biano/EPTV Com direito a churrasquinho, torcedores brasileiros se reuniram na Praça Arautos da Paz, no bairro Taquaral, em Campi",
-        "image": "https://s2-g1.glbimg.com/iHoJnuEFXGDZTQqPolTuE_HJgno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/y/mdOk8UQaeBhgOJJ8C7lg/whatsapp-image-2026-07-05-at-16.27.39.jpeg",
+        "summary": "Multidão se reúne na Praça Arautos da Paz, em Campinas, para Brasil x Noruega Gustavo Biano/EPTV Com direito a churrasquinho, torcedores brasileiros se reuniram na Praça Arautos da Paz, no bairro Taquaral, em Campinas (S",
+        "image": "https://s2-g1.glbimg.com/WCCThtx4s2EOXUjVP1BvJmbAW_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/k/iuruxMSBKcfLLGXCLpRQ/whatsapp-image-2026-07-05-at-17.27.17.jpeg",
         "date": "05 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/homem-e-preso-apos-gata-ser-morta-com-tiro-de-espingarda-de-pressao-em-monte-mor.ghtml",
         "summary": "Delegacia de Monte Mor (SP) Jorge Talmon/EPTV Um homem foi preso por maus-tratos a animais após uma gata morrer atingida por um disparo de espingarda de pressão em Monte Mor (SP), na tarde deste sábado (4). O crime ocorr",
         "image": "https://s2-g1.glbimg.com/kU9fflZoHhKf2sdPM61H0eMV3kw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/5/Y/KmuNscSmOjGSYRAKAfTg/whatsapp-image-2023-12-08-at-08.42.44-1-.jpeg",
-        "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Frente fria reduz temperaturas e aumenta a nebulosidade na região de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/frente-fria-reduz-temperaturas-e-aumenta-a-nebulosidade-na-regiao-de-campinas.ghtml",
-        "summary": "Veja a previsão do tempo para o final de semana na região de Campinas A passagem de uma frente fria pelo litoral deve provocar queda nas temperaturas e aumento da nebulosidade na região de Campinas (SP) a partir deste fi",
-        "image": "https://s2-g1.glbimg.com/JQMVz9QLntgMEgH4ZNDGOJA9AgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/p/yZVTGiTQmHlAf9bHODFg/frio-campinas.png",
         "date": "04 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,63 +185,123 @@
     ],
     "esportes": [
       {
-        "title": "Auger-Aliassime vence Fokina e vai enfrentar Djokovic nas quartas de Wimbledon",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/auger-aliassime-vence-fokina-e-vai-enfrentar-djokovic-nas-quartas-de-wimbledon/",
-        "summary": "Félix Auger-Aliassime garantiu vaga nas quartas de final de Wimbledon após vencer o espanhol Alejandro Davidovich em uma longa batalha de cinco sets, por 3 a 2, em 4 horas e 26 minutos de jogo. O canadense teve dificulda",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BM6AH__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Sinner vence e segue em busca de seu segundo título de Wimbledon",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/sinner-vence-e-segue-em-busca-de-seu-segundo-titulo-de-wimbledon/",
+        "summary": "Jannik Sinner avançou às quartas de final de Wimbledon ao vencer o japonês Shintaro Mochizuki por 3 sets a 0, com parciais de 6-3, 7-6 e 6-3. Atual número 1 do mundo e campeão da edição anterior, o italiano segue na busc",
+        "image": null,
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Capitão do Palmeiras, Gómez exalta seleção do Paraguai após eliminação na Copa: Maior orgulho",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/capitao-do-palmeiras-gomez-exalta-selecao-do-paraguai-apos-eliminacao-na-copa-maior-orgulho/",
-        "summary": "A seleção do Paraguai se despediu da Copa do Mundo no último sábado depois de perder para a França pelo placar de 1 a 0, em duelo disputado no Lincoln Financial Field, em Filadélfia (EUA). O zagueiro Gustavo Gómez, capit",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B9AC7RH__v2__MidRes__TopshotFblWc2026Match89ParFra.webp",
+        "title": "França mostra que também está pronta para a batalha na Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/franca/franca-mostra-que-tambem-esta-pronta-para-a-batalha-na-copa-do-mundo/",
+        "summary": "A França venceu o Paraguai por 1 a 0 e garantiu vaga nas quartas de final da Copa do Mundo de 2026 em uma partida muito mais difícil do que o esperado. Diante de uma defesa paraguaia fechada e de um jogo físico, os franc",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B9AE68B__v1__HighRes__FblWc2026Match89ParFra.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cristiano Ronaldo confirma última participação em Copas do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/portugal/cristiano-ronaldo-confirma-ultima-participacao-em-copas-do-mundo/",
-        "summary": "Cristiano Ronaldo confirmou que a Copa do Mundo de 2026 será a última de sua carreira. Às vésperas do duelo entre Portugal e Espanha pelas oitavas de final, o camisa 7 revelou que não pretende disputar outro Mundial e co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260703__B94M39T__v4__MidRes__FblWc2026Match83PorCro.webp",
+        "title": "França pede à Fifa que cartão amarelo aplicado a Olise seja anulado",
+        "link": "https://www.gazetaesportiva.com/times/franca/franca-pede-a-fifa-que-cartao-amarelo-aplicado-a-olise-seja-anulado/",
+        "summary": "A Federação Francesa de Futebol solicitou à Fifa a anulação do cartão amarelo recebido por Michael Olise na vitória sobre o Paraguai pelas oitavas de final da Copa do Mundo. O meia foi advertido após um desentendimento c",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B9AC7XF__v1__MidRes__FblWc2026Match89ParFra.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Unai Simón reflete sobre histórico recorde de jogos sem sofrer gols na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/espanha/unai-simon-reflete-sobre-historico-recorde-de-jogos-sem-sofrer-gols-na-copa-do-mundo/",
-        "summary": "Unai Simón se tornou o goleiro com a maior sequência sem sofrer gols na história da Copa do Mundo. O astro espanhol superou os 517 minutos de Walter Zenga na Itália 1990, um recorde que permanecia intacto por mais de trê",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Unai-Simon.webp",
+        "title": "Rogers: Harry Kane é o nosso líder e inspiração",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/rogers-harry-kane-e-o-nosso-lider-e-inspiracao/",
+        "summary": "Morgan Rogers exaltou a liderança de Harry Kane antes do duelo da Inglaterra contra o México pelas oitavas de final da Copa do Mundo, no Estádio Azteca. O post Rogers: Harry Kane é o nosso líder e inspiração apareceu pri",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Harry-Kane.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Número 1 do mundo, Sabalenka perde para Osaka e cai nas oitavas de Wimbledon",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/numero-1-do-mundo-sabalenka-perde-para-osaka-e-cai-nas-oitavas-de-wimbledon/",
-        "summary": "Naomi Osaka surpreendeu ao eliminar a número 1 do mundo, Aryna Sabalenka, nas oitavas de final de Wimbledon. A japonesa venceu por 2 sets a 0, com parciais de 6-2 e 7-6, avançando pela primeira vez às quartas de final do",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BJ67K__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Vai sair? Mauricio despista sobre futuro no Palmeiras após eliminação do Paraguai na Copa",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/mauricio-despista-futuro-palmeiras/",
+        "summary": "A proximidade da abertura da janela de transferências aumenta os rumores no mercado da bola. Convocado pelo Paraguai para disputar sua primeira Copa do Mundo, o meio-campista Mauricio, do Palmeiras, entrou na mira da Ata",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B9AD4H8__v1__MidRes__FblWc2026Match89ParFra.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Maxi Scheib vence GP1000 em Curvelo e assume liderança do campeonato",
-        "link": "https://www.gazetaesportiva.com/motor/maxi-scheib-vence-gp1000-moto1000gp-curvelo/",
-        "summary": "O chileno Maxi Scheib conquistou neste domingo a vitória na corrida principal da GP1000 by Motul durante a terceira etapa do MOTO1000GP, disputada em Curvelo (MG). O piloto da JD43 Liquimoly teve um fim de semana dominan",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-05-152812.webp",
+        "title": "Carlos Queiroz deixa cargo de técnico de Gana após eliminação nos 16-avos da Copa",
+        "link": "https://www.gazetaesportiva.com/times/gana/carlos-queiroz-deixa-gana-eliminacao-copa-do-mundo-2026/",
+        "summary": "O técnico português Carlos Queiroz anunciou sua saída da seleção de Gana após a eliminação para a Colômbia na fase mata-mata da Copa do Mundo de 2026. Aos 73 anos, o treinador encerra uma curta passagem pelos Black Stars",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B98V9JF__v1__HighRes__FblWc2026Match87ColGha.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Brasil x Noruega AO VIVO: siga e ASSISTA na CazéTV...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16948902/brasil-x-noruega-ao-vivo-siga-tempo-real-copa-do-mundo",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Bruno Guimarães faz Brasil perder 1º pênalti em te...",
+        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16962053/copa-do-mundo-bruno-guimaraes-brasil-perder-penalti-tempo-normal-desde-zico",
+        "summary": "Volante desperdiçou uma cobrança aos 13 minutos do primeiro tempo",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Goleiro da Noruega, Orjan Nyland está desempregado...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16962346/goleiro-noruega-orjan-nyland-desempregado-busca-clube-apos-copa-do-mundo",
+        "summary": "Decisivo contra a Seleção, goleiro foi destaque norueguês e, aos 35 anos, busca próximo destino",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "México x Inglaterra: onde assistir, horário, palpi...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16956280/mexico-x-inglaterra-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-copa-do-mundo",
+        "summary": "Equipes se enfrentam neste domingo (5) pelas oitavas de final",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Sabia? O dia que Kane jogou no México, rival da In...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16957231/dia-kane-jogou-mexico-rival-inglaterra-copa-passou-longe-holofotes",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Inglaterra se apega até em suco de beterraba para ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16959540/inglaterra-se-apega-ate-suco-beterraba-para-enfrentar-altitude-mexico-copa-do-mundo",
+        "summary": "null",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -287,6 +347,16 @@
         "cls": ""
       },
       {
+        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "03 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
         "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
         "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
@@ -297,14 +367,54 @@
         "cls": ""
       },
       {
-        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "03 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Onde assistir México x Inglaterra?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-mexico-x-inglaterra/",
+        "summary": "Partida pelas oitavas de final ocorre às 21h deste domingo (5) The post Onde assistir México x Inglaterra? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-mexico-x-inglaterra.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Trump ligou para presidente da Fifa por revisão de cartão de Balogun, diz fonte",
+        "link": "https://www.infomoney.com.br/esportes/trump-ligou-para-presidente-da-fifa-por-revisao-de-cartao-de-balogun-diz-fonte/",
+        "summary": "A Fifa anunciou neste domingo que Balogun estará apto para jogar pela seleção dos EUA na partida das oitavas de final contra a Bélgica, na próxima segunda-feira The post Trump ligou para presidente da Fifa por revisão de",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-06T205247Z_1521940461_RC2KCEA54JK1_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Trump se encontrará com presidentes da Ucrânia e Síria na 4ª durante cúpula da Otan",
+        "link": "https://www.infomoney.com.br/mundo/trump-se-encontrara-com-presidentes-da-ucrania-e-siria-na-4a-durante-cupula-da-otan/",
+        "summary": "Seu primeiro encontro será com o anfitrião da cúpula, o presidente turco, Tayyip Erdogan. Trump também dará uma entrevista coletiva, informou a Casa Branca The post Trump se encontrará com presidentes da Ucrânia e Síria ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/459630763.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Copa do Mundo: com pouco tempo de recuperação, Argentina e Egito jogarão na 3ª",
+        "link": "https://www.infomoney.com.br/esportes/copa-do-mundo-com-pouco-tempo-de-recuperacao-argentina-e-egito-jogarao-na-3a/",
+        "summary": "O intervalo curto entre as partidas gerou preocupações para ambas as seleções, mas principalmente para a Argentina The post Copa do Mundo: com pouco tempo de recuperação, Argentina e Egito jogarão na 3ª appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T032205Z_1230909015_UP1EM6M08UCXU_RTRMADP_3_SOCCER-WORLDCUP-NZL-EGY_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Calendário econômico: inflação no Brasil e ata do Fomc são os destaques da semana",
+        "link": "https://www.infomoney.com.br/mercados/calendario-economico-inflacao-no-brasil-e-ata-do-fomc-sao-os-destaques-da-semana/",
+        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico: inflação no Brasil e ata do Fomc são os destaques da semana appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-26T201009Z_1_LYNXMPELAP166_RTROPTP_3_USA-FED-BEIGEBOOK.jpg?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "Fumaça tóxica: Incêndios florestais assolam Portugal, Grécia e Espanha",
@@ -317,59 +427,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Veja escalação do Brasil para jogo de hoje com a Noruega nas oitavas da Copa do Mundo",
-        "link": "https://www.infomoney.com.br/esportes/veja-escalacao-do-brasil-para-duelo-com-a-noruega-nas-oitavas-da-copa-do-mundo/",
-        "summary": "A principal novidade na equipe comandada pelo técnico Carlo Ancelotti é a presença de Gabriel Martinelli entre os titulares The post Veja escalação do Brasil para jogo de hoje com a Noruega nas oitavas da Copa do Mundo a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-29T191858Z_287872351_UP1EM6T1GSHQE_RTRMADP_3_SOCCER-WORLDCUP-BRA-JPN.jpg?fit=300%2C198&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Atacante dos EUA Balogun poderá enfrentar a Bélgica apesar de cartão vermelho",
-        "link": "https://www.infomoney.com.br/esportes/atacante-dos-eua-balogun-podera-enfrentar-a-belgica-apesar-de-cartao-vermelho/",
-        "summary": "Balogun marcou seu terceiro gol na Copa do Mundo na vitória por 2 a 0 The post Atacante dos EUA Balogun poderá enfrentar a Bélgica apesar de cartão vermelho appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T233438Z_1_LYNXMPEM5L1OA_RTROPTP_4_SOCCER-WORLDCUP-USA_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Onde assistir Brasil x Noruega?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-brasil-noruega/",
-        "summary": "Partida ocorre às 17h deste domingo (5) em Nova Jersey The post Onde assistir Brasil x Noruega? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-brasil-x-noruega.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Trump exibe nova nota de US$ 100 com assinatura presidencial inédita",
-        "link": "https://www.infomoney.com.br/mercados/trump-exibe-nova-nota-de-us-100-com-assinatura-presidencial-inedita/",
-        "summary": "A medida representa uma ruptura com a tradição do papel-moeda americano, que historicamente exibe apenas as assinaturas do secretário do Tesouro e do tesoureiro dos Estados Unidos The post Trump exibe nova nota de US$ 10",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IMG_9310.jpeg?fit=300%2C163&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bandidos, trapaceiros : Imprensa estrangeira critica Paraguai após jogo com a França",
-        "link": "https://www.infomoney.com.br/esportes/bandidos-trapaceiros-imprensa-estrangeira-critica-paraguai-apos-jogo-com-a-franca/",
-        "summary": "Comentaristas da BBC e o jornal americano The Athletic criticaram estilo fechado da equipe, e veículo paraguaio rebate chamando Kylian Mbappé de \"vencedor rancoroso\" The post Bandidos, trapaceiros : Imprensa estrangeira ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T005716Z_1240725704_UP1EM741QZG37_RTRMADP_3_USA-WEATHER.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "'Espero que amanhã não seja minha última partida', diz Cristiano Ronaldo",
-        "link": "https://exame.com/esporte/espero-que-amanha-nao-seja-minha-ultima-partida-diz-cristiano-ronaldo/",
-        "summary": "Antes do jogo contra a Espanha, capitão de Portugal disse não se abalar com críticas e afirmou que só vai parar quando quiser",
+        "title": "Sinner avança às quartas de Wimbledon e segue na busca pelo bicampeonato",
+        "link": "https://exame.com/esporte/sinner-avanca-as-quartas-de-wimbledon-e-segue-na-busca-pelo-bicampeonato/",
+        "summary": "Número 1 do mundo derrota o japonês Shintaro Mochizuki em sets diretos e enfrentará o alemão Jan-Lennard Struff por uma vaga nas semifinais",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Auger-Aliassime vence Davidovich e vai às quartas de Wimbledon",
-        "link": "https://exame.com/esporte/auger-aliassime-vence-davidovich-e-vai-as-quartas-de-wimbledon/",
-        "summary": "Canadense supera espanhol em cinco sets e enfrentará Novak Djokovic por uma vaga nas semifinais do Grand Slam britânico",
+        "title": "Presidente interina da Venezuela descarta convulsão social após terremotos",
+        "link": "https://exame.com/mundo/presidente-interina-da-venezuela-descarta-convulsao-social-apos-terremotos/",
+        "summary": "Delcy Rodríguez afirma que país está unido diante da tragédia, enquanto número de mortos sobe para 3.342, segundo o governo",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Árbitro de Brasil x Noruega já deu cartão 'envergonhado' e quase se aposentou por lesão",
-        "link": "https://exame.com/esporte/arbitro-de-brasil-x-noruega-ja-deu-cartao-envergonhado-e-quase-se-aposentou-por-lesao/",
-        "summary": "Nesta Copa do Mundo, o americano apitou o empate por 2 a 2 entre Holanda e Japão e a vitória da Espanha por 1 a 0 sobre o Uruguai",
+        "title": "Quantos pênaltis o Brasil já errou em Copas do Mundo?",
+        "link": "https://exame.com/esporte/quantos-penaltis-o-brasil-ja-errou-em-copas-do-mundo/",
+        "summary": "O primeiro caso ocorreu na Copa do Mundo de 1934, na estreia brasileira naquela edição do torneio",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Wimbledon: número 1 do mundo, Sabalenka perde para Osaka e cai nas oitavas",
-        "link": "https://exame.com/esporte/wimbledon-numero-1-do-mundo-sabalenka-perde-para-osaka-e-cai-nas-oitavas/",
-        "summary": "Eliminação é a mais precoce da bielorrussa em um Grand Slam desde a queda na terceira rodada de Roland Garros, em 2022",
+        "title": "Trump pediu revisão, e Fifa anula suspensão de Balogun pela 1ª vez desde 1962",
+        "link": "https://exame.com/esporte/trump-pediu-revisao-e-fifa-anula-suspensao-de-balogun-pela-1a-vez-desde-1962/",
+        "summary": "Atacante dos Estados Unidos é liberado para enfrentar a Bélgica após intervenção incomum da entidade; decisão gera reação da federação belga",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Trump se reunirá com Zelensky e presidente da Síria durante cúpula da Otan",
-        "link": "https://exame.com/mundo/trump-se-reunira-com-zelensky-e-presidente-da-siria-durante-cupula-da-otan/",
-        "summary": "Encontros bilaterais ocorrerão na quarta-feira, na Turquia, e terão como foco a guerra na Ucrânia e a situação no Oriente Médio",
+        "title": "Brasil x Noruega: o retrospecto dos países em disputa por pênaltis",
+        "link": "https://exame.com/esporte/brasil-x-noruega-o-retrospecto-dos-paises-em-disputa-por-penaltis/",
+        "summary": "A primeira disputa brasileira aconteceu nas quartas de final da Copa do Mundo de 1986",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Haaland joga hoje? Veja escalação confirmada da Noruega",
-        "link": "https://exame.com/esporte/haaland-joga-hoje-veja-escalacao-confirmada-da-noruega/",
-        "summary": "Noruega e Brasil se enfrentam neste domingo, 5, às 17h, pelas oitavas de final da Copa do Mundo",
+        "title": "Sabalenka diz que quer 'ficar bêbada' após eliminação em Wimbledon",
+        "link": "https://exame.com/esporte/sabalenka-diz-que-quer-ficar-bebada-apos-eliminacao-em-wimbledon/",
+        "summary": "Número 1 do mundo caiu nas oitavas de final para Naomi Osaka e teve sua pior campanha em um Grand Slam desde Roland Garros de 2022",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
