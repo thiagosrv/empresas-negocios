@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05T18:07:08.325Z",
+  "updated": "2026-07-05T20:17:33.593Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "FOTOS: com direito a churrasco, torcedores se reúnem para Brasil x Noruega em telão em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/fotos-brasil-noruega-copa-do-mundo-em-campinas.ghtml",
+        "summary": "Torcedores de Campinas se reúnem na Praça Arautos da Paz para jogo contra a Noruega Gustavo Biano/EPTV Com direito a churrasquinho, torcedores brasileiros se reuniram na Praça Arautos da Paz, no bairro Taquaral, em Campi",
+        "image": "https://s2-g1.glbimg.com/iHoJnuEFXGDZTQqPolTuE_HJgno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/y/mdOk8UQaeBhgOJJ8C7lg/whatsapp-image-2026-07-05-at-16.27.39.jpeg",
+        "date": "05 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Mulher de 38 anos morre após moto bater de frente com carro em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/mulher-de-38-anos-morre-apos-moto-bater-de-frente-com-carro-em-campinas.ghtml",
@@ -53,14 +63,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Paciente que furtou ambulância do Samu em Campinas queria jogar veículo em rio em SP, diz PM",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/04/paciente-que-furtou-ambulancia-do-samu-em-campinas-queria-jogar-veiculo-em-rio-em-sp-diz-pm.ghtml",
-        "summary": "Paciente furta ambulância do Samu durante atendimento em Campinas A paciente que furtou uma ambulância do Serviço de Atendimento Móvel de Urgência (Samu) durante atendimento em uma unidade de saúde de Campinas (SP) na ta",
-        "image": "https://s2-g1.glbimg.com/zpr-HFAzBPnxbdWDFZlxU7mOLY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/G/MLNnkdSjaRKMiUANxitg/vlcsnap-2026-07-04-13h15m20s740.png",
-        "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "title": "Anel perdido, tortura e ameaças: quem é a empresária acusada de agredir empregada grávida no Maranhão",
+        "link": "https://jornalamericanense.com.br/policia/anel-perdido-tortura-e-ameacas-quem-e-a-empresaria-acusada-de-agredir-empregada-gravida-no-maranhao/",
+        "summary": "Empresária e policial militar viraram réus por tortura, tentativa de homicídio qualificado e tentativa de aborto após denúncias de violência contra jovem doméstica de 19 anos A Justiça do Maranhão recebeu denúncia do Min",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Ex-mulher do goleiro Bruno é localizada após três dias desaparecida e dá entrada em hospital de Belo Horizonte",
+        "link": "https://jornalamericanense.com.br/policia/ex-mulher-do-goleiro-bruno-e-localizada-apos-tres-dias-desaparecida-e-da-entrada-em-hospital-de-belo-horizonte/",
+        "summary": "Dayanne Rodrigues, de 39 anos, era procurada desde quinta-feira; Polícia Civil investigava o caso como desaparecimento voluntário e ainda não divulgou detalhes sobre seu estado de saúde A Polícia Civil de Minas Gerais in",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Brasil encara Noruega em duelo que reúne dois dos jogadores mais valiosos do futebol mundial",
+        "link": "https://jornalamericanense.com.br/esportes/brasil-encara-noruega-em-duelo-que-reune-dois-dos-jogadores-mais-valiosos-do-futebol-mundial/",
+        "summary": "Vini Jr. e Haaland lideram o ranking financeiro das seleções, enquanto confronto das oitavas coloca frente a frente elencos avaliados em quase R$ 9 bilhões A Seleção Brasileira terá neste domingo (5), às 17h (horário de ",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana recebe encontro do Tribunal de Contas para debater gestão pública e fiscalização",
+        "link": "https://jornalamericanense.com.br/blog/americana-recebe-encontro-do-tribunal-de-contas-para-debater-gestao-publica-e-fiscalizacao/",
+        "summary": "Evento reúne prefeitos, gestores municipais e especialistas do TCE-SP para discutir boas práticas administrativas e orientar municípios da região de Campinas A cidade de Americana será sede, nesta segunda-feira (6), do 1",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Rock Day Americana reúne milhares de fãs e consolida nova fase do festival no Clube dos Cavaleiros",
@@ -83,44 +123,24 @@
         "cls": "servicos"
       },
       {
-        "title": "Americana conquista Selo Ouro e Selo Inovação do Facilita SP por modernização dos serviços públicos",
-        "link": "https://jornalamericanense.com.br/cidades/americana-conquista-selo-ouro-e-selo-inovacao-do-facilita-sp-por-modernizacao-dos-servicos-publicos/",
-        "summary": "Reconhecimento estadual destaca avanços na desburocratização, digitalização e agilidade na abertura de empresas no município A Prefeitura de Americana recebeu, nesta quinta-feira (2), dois importantes reconhecimentos do ",
+        "title": "Operação Lei Seca promove ações educativas durante jogo do Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-lei-seca-promove-acoes-educativas-durante-jogo-do-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-lei-seca-promove-acoes-educativas-durante-jogo-do-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Por que Fifa recuou em ideia de mudar horários de Brasil x Noruega e México x Inglaterra",
-        "link": "https://jornalamericanense.com.br/esportes/por-que-fifa-recuou-em-ideia-de-mudar-horarios-de-brasil-x-noruega-e-mexico-x-inglaterra/",
-        "summary": "Entidade chegou a estudar mudanças por causa da previsão de tempestades, mas desistiu após divergências entre emissoras, seleções e departamento de competições A Federação Internacional de Futebol (Fifa) decidiu manter o",
+        "title": "PM reforça a segurança em pontos de concentração de torcedores no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/pm-reforca-seguranca-em-pontos-de-concentracao-de-torcedores-no-rio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/pm-reforca-seguranca-em-pontos-de-concentracao-de-torcedores-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "DAE retoma bombeamento após conclusão de reparo em adutora que abastece a região do Zanaga",
-        "link": "https://jornalamericanense.com.br/cidades/dae-retoma-bombeamento-apos-conclusao-de-reparo-em-adutora-que-abastece-a-regiao-do-zanaga/",
-        "summary": "O Departamento de Água e Esgoto (DAE) de Americana retomou, às 19h30 desta quinta-feira (2), o bombeamento de água para a região do Antônio Zanaga após concluir o reparo emergencial em uma adutora localizada na Avenida A",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Polícia Civil identifica segundo envolvido e obtém prisão preventiva de dupla por roubo nas imediações da Festa do Peão de Americana",
-        "link": "https://jornalamericanense.com.br/policia/policia-civil-identifica-segundo-envolvido-e-obtem-prisao-preventiva-de-dupla-por-roubo-nas-imediacoes-da-festa-do-peao-de-americana/",
-        "summary": "Atualização das investigações esclarece crime ocorrido em junho e aponta atuação de grupo especializado em furtos e roubos durante grandes eventos A Polícia Civil de São Paulo, por meio da Delegacia de Investigações Gera",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Concerto de banda em igreja no Rio chama atenção para encontro mundial",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Um Defeito de Cor não é uma contra-história , diz Ana Maria Gonçalves",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quatro em cada 10 brasileiros nunca ouviram falar em economia circular",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/quatro-em-cada-dez-brasileiros-nunca-ouviram-falar-em-economia-circular",
-        "summary": "p strong Quatro em cada dez brasileiros (39%) nunca ouviram falar sobre o conceito de economia circular. /strong Os dados constam de uma pesquisa encomendada pelo Movimento Plástico Transforma ao QualiBest, e mostram ain",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Fifa suspende expulsão, e Balogun é liberado para enfrentar a Bélgica nas oitavas",
-        "link": "https://www.gazetaesportiva.com/times/estados-unidos/fifa-suspende-expulsao-e-balogun-e-liberado-para-enfrentar-a-belgica-nas-oitavas/",
-        "summary": "A Fifa confirmou que Folarin Balogun poderá atuar normalmente contra a Bélgica pelas oitavas de final da Copa do Mundo de 2026. Expulso na vitória sobre a Bósnia e Herzegovina, o atacante recebeu suspensão de uma partida",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260703__2284419977__v1__MidRes__UsaVBosniaAndHerzegovinaRoundOf32FifaWorldCup.webp",
+        "title": "Auger-Aliassime vence Fokina e vai enfrentar Djokovic nas quartas de Wimbledon",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/auger-aliassime-vence-fokina-e-vai-enfrentar-djokovic-nas-quartas-de-wimbledon/",
+        "summary": "Félix Auger-Aliassime garantiu vaga nas quartas de final de Wimbledon após vencer o espanhol Alejandro Davidovich em uma longa batalha de cinco sets, por 3 a 2, em 4 horas e 26 minutos de jogo. O canadense teve dificulda",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BM6AH__v1__HighRes__TennisGbrWimbledon.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Newcastle anuncia contratação de atacante da Costa do Marfim",
-        "link": "https://www.gazetaesportiva.com/newcastle/bazoumana-toure-newcastle-contratacao-hoffenheim/",
-        "summary": "O Newcastle confirmou a contratação do atacante Bazoumana Touré, de 20 anos. O marfinense chega após passagem pelo Hoffenheim, da Alemanha, e assinou contrato de longa duração com o clube inglês. Considerado uma promessa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/X2Twitter.com_HMeq0zUXAAAEEqV.webp",
+        "title": "Capitão do Palmeiras, Gómez exalta seleção do Paraguai após eliminação na Copa: Maior orgulho",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/capitao-do-palmeiras-gomez-exalta-selecao-do-paraguai-apos-eliminacao-na-copa-maior-orgulho/",
+        "summary": "A seleção do Paraguai se despediu da Copa do Mundo no último sábado depois de perder para a França pelo placar de 1 a 0, em duelo disputado no Lincoln Financial Field, em Filadélfia (EUA). O zagueiro Gustavo Gómez, capit",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260704__B9AC7RH__v2__MidRes__TopshotFblWc2026Match89ParFra.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cruzeiro vence amistoso contra o Defensor-URU; veja lances",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/cruzeiro-vence-amistoso-contra-o-defensor-uru-veja-lances/",
-        "summary": "Com gols de Kaio Jorge e Felipe Morais, o Cruzeiro venceu o Defensor-URU por 2 a 0 em amistoso realizado na Arena Independência O post Cruzeiro vence amistoso contra o Defensor-URU; veja lances apareceu primeiro em Gazet",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Cruze.webp",
+        "title": "Cristiano Ronaldo confirma última participação em Copas do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/portugal/cristiano-ronaldo-confirma-ultima-participacao-em-copas-do-mundo/",
+        "summary": "Cristiano Ronaldo confirmou que a Copa do Mundo de 2026 será a última de sua carreira. Às vésperas do duelo entre Portugal e Espanha pelas oitavas de final, o camisa 7 revelou que não pretende disputar outro Mundial e co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260703__B94M39T__v4__MidRes__FblWc2026Match83PorCro.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Guarani anuncia rescisão com atacante em menos de um ano de contrato",
-        "link": "https://www.gazetaesportiva.com/times/guarani/guarani-anuncia-rescisao-com-atacante-em-menos-de-um-ano-de-contrato/",
-        "summary": "O Guarani anunciou a rescisão de contrato do atacante Dentinho em comum acordo. Contratado em agosto do ano passado, o jogador de 37 anos deixa o clube após disputar 13 partidas e marcar apenas um gol. Com passagens por ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55334541389_8345423af7_o.webp",
+        "title": "Unai Simón reflete sobre histórico recorde de jogos sem sofrer gols na Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/espanha/unai-simon-reflete-sobre-historico-recorde-de-jogos-sem-sofrer-gols-na-copa-do-mundo/",
+        "summary": "Unai Simón se tornou o goleiro com a maior sequência sem sofrer gols na história da Copa do Mundo. O astro espanhol superou os 517 minutos de Walter Zenga na Itália 1990, um recorde que permanecia intacto por mais de trê",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Unai-Simon.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Djokovic avança às quartas de final de Wimbledon e supera recorde de Federer",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/djokovic-avanca-as-quartas-de-final-de-wimbledon-e-supera-recorde-de-federer/",
-        "summary": "Novak Djokovic avançou às quartas de final de Wimbledon ao derrotar o russo Roman Safiullin por 3 sets a 1, com parciais de 7-6, 6-3, 3-6 e 6-3. Aos 39 anos, o sérvio alcançou sua 106ª vitória no torneio, superando o rec",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BB4MJ__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Número 1 do mundo, Sabalenka perde para Osaka e cai nas oitavas de Wimbledon",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/numero-1-do-mundo-sabalenka-perde-para-osaka-e-cai-nas-oitavas-de-wimbledon/",
+        "summary": "Naomi Osaka surpreendeu ao eliminar a número 1 do mundo, Aryna Sabalenka, nas oitavas de final de Wimbledon. A japonesa venceu por 2 sets a 0, com parciais de 6-2 e 7-6, avançando pela primeira vez às quartas de final do",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BJ67K__v1__HighRes__TennisGbrWimbledon.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-san-diego-wave-sobre-o-gotham-pela-nwsl/",
-        "summary": "Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL O post Melhores momentos da vitória do San Diego Wave sobre o Gotham pela NWSL apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/San-Di.webp",
+        "title": "Maxi Scheib vence GP1000 em Curvelo e assume liderança do campeonato",
+        "link": "https://www.gazetaesportiva.com/motor/maxi-scheib-vence-gp1000-moto1000gp-curvelo/",
+        "summary": "O chileno Maxi Scheib conquistou neste domingo a vitória na corrida principal da GP1000 by Motul durante a terceira etapa do MOTO1000GP, disputada em Curvelo (MG). O piloto da JD43 Liquimoly teve um fim de semana dominan",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-05-152812.webp",
         "date": "05 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -287,6 +287,16 @@
         "cls": ""
       },
       {
+        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
+        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
+        "image": null,
+        "date": "03 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
         "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
@@ -297,14 +307,34 @@
         "cls": ""
       },
       {
-        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
-        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
-        "image": null,
-        "date": "03 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Fumaça tóxica: Incêndios florestais assolam Portugal, Grécia e Espanha",
+        "link": "https://www.infomoney.com.br/mundo/fumaca-toxica-incendios-florestais-assolam-portugal-grecia-e-espanha/",
+        "summary": "Na área de Vouzela, no centro de Portugal, mais de 1,2 mil bombeiros, apoiados por quase 400 veículos e 15 aeronaves, tentam apagar um incêndio que começou na quinta-feira The post Fumaça tóxica: Incêndios florestais ass",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-04T185604Z_1192726910_RC247MACBX60_RTRMADP_3_EUROPE-WEATHER-PORTUGAL-WILDFIRE.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja escalação do Brasil para jogo de hoje com a Noruega nas oitavas da Copa do Mundo",
+        "link": "https://www.infomoney.com.br/esportes/veja-escalacao-do-brasil-para-duelo-com-a-noruega-nas-oitavas-da-copa-do-mundo/",
+        "summary": "A principal novidade na equipe comandada pelo técnico Carlo Ancelotti é a presença de Gabriel Martinelli entre os titulares The post Veja escalação do Brasil para jogo de hoje com a Noruega nas oitavas da Copa do Mundo a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-29T191858Z_287872351_UP1EM6T1GSHQE_RTRMADP_3_SOCCER-WORLDCUP-BRA-JPN.jpg?fit=300%2C198&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Atacante dos EUA Balogun poderá enfrentar a Bélgica apesar de cartão vermelho",
+        "link": "https://www.infomoney.com.br/esportes/atacante-dos-eua-balogun-podera-enfrentar-a-belgica-apesar-de-cartao-vermelho/",
+        "summary": "Balogun marcou seu terceiro gol na Copa do Mundo na vitória por 2 a 0 The post Atacante dos EUA Balogun poderá enfrentar a Bélgica apesar de cartão vermelho appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T233438Z_1_LYNXMPEM5L1OA_RTROPTP_4_SOCCER-WORLDCUP-USA_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "05 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "Onde assistir Brasil x Noruega?",
@@ -320,7 +350,7 @@
         "title": "Trump exibe nova nota de US$ 100 com assinatura presidencial inédita",
         "link": "https://www.infomoney.com.br/mercados/trump-exibe-nova-nota-de-us-100-com-assinatura-presidencial-inedita/",
         "summary": "A medida representa uma ruptura com a tradição do papel-moeda americano, que historicamente exibe apenas as assinaturas do secretário do Tesouro e do tesoureiro dos Estados Unidos The post Trump exibe nova nota de US$ 10",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458680932.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IMG_9310.jpeg?fit=300%2C163&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
@@ -337,39 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Djokovic supera Safiullin e alcança mais um marco em Wimbledon para chegar às quartas",
-        "link": "https://www.infomoney.com.br/esportes/djokovic-supera-safiullin-e-alcanca-mais-um-marco-em-wimbledon-para-chegar-as-quartas/",
-        "summary": "Djokovic agora espera o vencedor do confronto entre terceiro cabeça-de-chave, Félix Auger-Aliassime, ou o espanhol Alejandro Davidovich Fokina, para conhecer seu adversário The post Djokovic supera Safiullin e alcança ma",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-31T220349Z_1107252308_UP1EL5V1JTS1V_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Flávio Bolsonaro chega aos Estados Unidos para audiência sobre tarifas",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-chega-aos-estados-unidos-para-audiencia-sobre-tarifas/",
-        "summary": "A audiência foi anunciada pelo Escritório do Representante Comercial dos EUA (United States Trade Representative, o USTR) The post Flávio Bolsonaro chega aos Estados Unidos para audiência sobre tarifas appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/3c682b00-4f25-11f1-ba22-c1799d8d7d19.jpg.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "F1: Charles Leclerc vence GP da Inglaterra encerrado com safety car; Bortoleto pontua",
-        "link": "https://www.infomoney.com.br/esportes/f1-charles-leclerc-vence-gp-da-inglaterra-encerrado-com-safety-car-bortoleto-pontua/",
-        "summary": "George Russell, da Mercedes, ficou com a segunda posição e ganhou fôlego na disputa da competição The post F1: Charles Leclerc vence GP da Inglaterra encerrado com safety car; Bortoleto pontua appeared first on InfoMoney",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/442126919.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "05 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Torcedores do Brasil adaptam 'Dança do Créu' para provocar noruegueses na Copa",
-        "link": "https://exame.com/esporte/torcedores-do-brasil-adaptam-danca-do-creu-para-provocar-noruegueses-na-copa/",
-        "summary": "Brasileiros transformaram o tradicional \"remo viking\" da torcida da Noruega em uma versão com o funk carioca antes do duelo pelas oitavas de final",
+        "title": "'Espero que amanhã não seja minha última partida', diz Cristiano Ronaldo",
+        "link": "https://exame.com/esporte/espero-que-amanha-nao-seja-minha-ultima-partida-diz-cristiano-ronaldo/",
+        "summary": "Antes do jogo contra a Espanha, capitão de Portugal disse não se abalar com críticas e afirmou que só vai parar quando quiser",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quanto ganha e qual é a fortuna de Erling Haaland, artilheiro da Noruega na Copa",
-        "link": "https://exame.com/negocios/quanto-ganha-e-qual-e-a-fortuna-de-erling-haaland-artilheiro-da-noruega-na-copa/",
-        "summary": "Principal ameaça ao Brasil nesta tarde de domingo, Erling Haaland é dono de um dos contratos mais valiosos da história do esporte",
+        "title": "Auger-Aliassime vence Davidovich e vai às quartas de Wimbledon",
+        "link": "https://exame.com/esporte/auger-aliassime-vence-davidovich-e-vai-as-quartas-de-wimbledon/",
+        "summary": "Canadense supera espanhol em cinco sets e enfrentará Novak Djokovic por uma vaga nas semifinais do Grand Slam britânico",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Noruega nunca perdeu para o Brasil; confira o retrospecto",
-        "link": "https://exame.com/esporte/noruega-nunca-perdeu-para-o-brasil-confira-o-retrospecto/",
-        "summary": "Seleção Brasileira tenta quebrar tabu no confronto de hoje, no MetLife Stadium, valendo vaga nas quartas de final",
+        "title": "Árbitro de Brasil x Noruega já deu cartão 'envergonhado' e quase se aposentou por lesão",
+        "link": "https://exame.com/esporte/arbitro-de-brasil-x-noruega-ja-deu-cartao-envergonhado-e-quase-se-aposentou-por-lesao/",
+        "summary": "Nesta Copa do Mundo, o americano apitou o empate por 2 a 2 entre Holanda e Japão e a vitória da Espanha por 1 a 0 sobre o Uruguai",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como superar o medo de errar",
-        "link": "https://exame.com/carreira/como-superar-o-medo-de-errar/",
-        "summary": "O FOMU, ou o medo de errar, em português, pode levar a cautela excessiva. Leia as dicas de um especialista da Kellogg sobre como lidar com o risco e assumir os seus erros",
+        "title": "Wimbledon: número 1 do mundo, Sabalenka perde para Osaka e cai nas oitavas",
+        "link": "https://exame.com/esporte/wimbledon-numero-1-do-mundo-sabalenka-perde-para-osaka-e-cai-nas-oitavas/",
+        "summary": "Eliminação é a mais precoce da bielorrussa em um Grand Slam desde a queda na terceira rodada de Roland Garros, em 2022",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Presidente eleito da Colômbia anuncia bloco para reforçar segurança urbana",
-        "link": "https://exame.com/mundo/presidente-eleito-da-colombia-anuncia-bloco-para-reforcar-seguranca-urbana/",
-        "summary": "Abelardo de la Espriella diz que decretará a criação da força no dia da posse para combater extorsão, roubos e homicídios nas principais cidades do país",
+        "title": "Trump se reunirá com Zelensky e presidente da Síria durante cúpula da Otan",
+        "link": "https://exame.com/mundo/trump-se-reunira-com-zelensky-e-presidente-da-siria-durante-cupula-da-otan/",
+        "summary": "Encontros bilaterais ocorrerão na quarta-feira, na Turquia, e terão como foco a guerra na Ucrânia e a situação no Oriente Médio",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Qual é a fortuna de Vini Jr., artilheiro do Brasil na Copa do Mundo",
-        "link": "https://exame.com/negocios/qual-e-a-fortuna-de-vini-jr-artilheiro-do-brasil-na-copa-do-mundo/",
-        "summary": "Craque da seleção brasileira nesta tarde de domingo, Vinícius Júnior é hoje um dos jogadores mais bem pagos do mundo",
+        "title": "Haaland joga hoje? Veja escalação confirmada da Noruega",
+        "link": "https://exame.com/esporte/haaland-joga-hoje-veja-escalacao-confirmada-da-noruega/",
+        "summary": "Noruega e Brasil se enfrentam neste domingo, 5, às 17h, pelas oitavas de final da Copa do Mundo",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
