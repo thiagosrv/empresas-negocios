@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05T12:19:34.299Z",
+  "updated": "2026-07-05T14:47:19.481Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Mulher de 38 anos morre após moto bater de frente com carro em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/mulher-de-38-anos-morre-apos-moto-bater-de-frente-com-carro-em-campinas.ghtml",
+        "summary": "Mulher morre após batida entre moto e carro em Campinas Uma mulher morreu após a moto em que ela estava bater de frente com um carro na antiga Rodovia Santos Dumont, em Campinas (SP), na madrugada deste domingo (5). Segu",
+        "image": "https://s2-g1.glbimg.com/RFGl5QBSq-7A6x7sAwTzIFoZaxo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/F/qe9QnHQOuMZ2XQ0MVdNQ/design-sem-nome-20-.png",
+        "date": "05 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Região de Campinas faz quase 13 cirurgias eletivas de vesícula por dia em meio a alta pós-pandemia",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/regiao-de-campinas-faz-quase-13-cirurgias-eletivas-de-vesicula-por-dia-em-meio-a-alta-pos-pandemia.ghtml",
@@ -15,7 +25,7 @@
       {
         "title": "Camisas de futebol viram vestidos e corsets nas mãos de estilista do interior de SP; Anitta e Rafa Kalimann aderem",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/camisas-de-futebol-viram-vestidos-e-corsets-nas-maos-de-estilista-do-interior-de-sp-anitta-e-rafa-kalimann-aderem.ghtml",
-        "summary": "Camisas de futebol viram vestidos e corsets nas mãos de estilista do interior de SP O que para muita gente é apenas uma camisa de futebol antiga, para a estilista Ana Matos, de Campinas (SP), pode virar um vestido, um co",
+        "summary": "Camisas de futebol viram vestidos e corsets nas mãos de estilista do interior de SP O que para muita gente é uma camisa de futebol antiga, para a estilista Ana Matos, de Campinas (SP), pode virar um vestido, um corset ou",
         "image": "https://s2-g1.glbimg.com/ibyfvniAsiPGk2zSXl98Mvjc5GE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/AQr1bbQXGxZbPoAeXMtw/design-sem-nome-4-.png",
         "date": "05 de jul. de 2026",
         "source": "G1 Campinas",
@@ -53,13 +63,113 @@
         "cls": "brasil"
       },
       {
-        "title": "Suspeito de se passar por policial civil é preso em Nova Odessa após perseguição e troca de tiros",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/04/suspeito-de-se-passar-por-policial-civil-e-preso-em-nova-odessa-apos-perseguicao-e-troca-de-tiros.ghtml",
-        "summary": "Homens fingiam ser policiais civis e faziam falsas prisões no interior de SP Um homem suspeito de se passar por policial civil foi preso na noite de sexta-feira (3) após uma perseguição que começou em Pirassununga (SP) e",
-        "image": "https://s2-g1.glbimg.com/5v4Uc4FFaLVkXNlwIwMEi4z-Q-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/P/pKTwXVRsAFTQ5SxdMyeg/copia-de-1200px-x-900px-3-.jpg",
+        "title": "Parque Ecológico e Jardim Botânico de Americana terão horário especial neste domingo",
+        "link": "https://jornalamericanense.com.br/blog/parque-ecologico-e-jardim-botanico-de-americana-terao-horario-especial-neste-domingo/",
+        "summary": "Alteração no funcionamento ocorre em razão da partida da Seleção Brasileira pela Copa do Mundo Os visitantes do Parque Ecológico Municipal Engenheiro Cid Almeida Franco (Zoo Americana) e do Jardim Botânico Municipal Pref",
+        "image": null,
         "date": "04 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana conquista Selo Ouro e Selo Inovação do Facilita SP por modernização dos serviços públicos",
+        "link": "https://jornalamericanense.com.br/cidades/americana-conquista-selo-ouro-e-selo-inovacao-do-facilita-sp-por-modernizacao-dos-servicos-publicos/",
+        "summary": "Reconhecimento estadual destaca avanços na desburocratização, digitalização e agilidade na abertura de empresas no município A Prefeitura de Americana recebeu, nesta quinta-feira (2), dois importantes reconhecimentos do ",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Por que Fifa recuou em ideia de mudar horários de Brasil x Noruega e México x Inglaterra",
+        "link": "https://jornalamericanense.com.br/esportes/por-que-fifa-recuou-em-ideia-de-mudar-horarios-de-brasil-x-noruega-e-mexico-x-inglaterra/",
+        "summary": "Entidade chegou a estudar mudanças por causa da previsão de tempestades, mas desistiu após divergências entre emissoras, seleções e departamento de competições A Federação Internacional de Futebol (Fifa) decidiu manter o",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "DAE retoma bombeamento após conclusão de reparo em adutora que abastece a região do Zanaga",
+        "link": "https://jornalamericanense.com.br/cidades/dae-retoma-bombeamento-apos-conclusao-de-reparo-em-adutora-que-abastece-a-regiao-do-zanaga/",
+        "summary": "O Departamento de Água e Esgoto (DAE) de Americana retomou, às 19h30 desta quinta-feira (2), o bombeamento de água para a região do Antônio Zanaga após concluir o reparo emergencial em uma adutora localizada na Avenida A",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Polícia Civil identifica segundo envolvido e obtém prisão preventiva de dupla por roubo nas imediações da Festa do Peão de Americana",
+        "link": "https://jornalamericanense.com.br/policia/policia-civil-identifica-segundo-envolvido-e-obtem-prisao-preventiva-de-dupla-por-roubo-nas-imediacoes-da-festa-do-peao-de-americana/",
+        "summary": "Atualização das investigações esclarece crime ocorrido em junho e aponta atuação de grupo especializado em furtos e roubos durante grandes eventos A Polícia Civil de São Paulo, por meio da Delegacia de Investigações Gera",
+        "image": null,
+        "date": "04 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Guarda Municipal resgata cão preso em barracão abandonado em Americana",
+        "link": "https://jornalamericanense.com.br/policia/guarda-municipal-resgata-cao-preso-em-barracao-abandonado-em-americana/",
+        "summary": "Animal foi localizado após denúncia ao Centro de Segurança e apresentava sinais de fraqueza e dificuldade para se locomover A Guarda Municipal de Americana resgatou, na tarde de quinta-feira (2), um cão que ficou preso e",
+        "image": null,
+        "date": "03 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Um Defeito de Cor não é uma contra-história , diz Ana Maria Gonçalves",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quatro em cada 10 brasileiros nunca ouviram falar em economia circular",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/quatro-em-cada-dez-brasileiros-nunca-ouviram-falar-em-economia-circular",
+        "summary": "p strong Quatro em cada dez brasileiros (39%) nunca ouviram falar sobre o conceito de economia circular. /strong Os dados constam de uma pesquisa encomendada pelo Movimento Plástico Transforma ao QualiBest, e mostram ain",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Atriz chilena Paulina Garcia será a homenageada no Bonito Cinesur",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur",
+        "summary": "p Importante espaço de integração, exibição e debate do audiovisual sul-americano, o festival de cinema Bonito Cinesur chega à sua quarta edição apresentando 32 produções cinematográficas, a partir do dia 24 de julho. im",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil mira fim de tabus contra Noruega e europeus em Copas do Mundo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-mira-fim-de-tabus-contra-noruega-e-europeus-em-copas-do-mundo",
+        "summary": "p São Paulo - Além da classificação às quartas de final da Copa do Mundo, o Brasil mira o fim de dois tabus no jogo deste domingo (5), às 17h (horário de Brasília), contra a Noruega, em Nova Jersey (Estados Unidos). A se",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil enfrenta a Noruega hoje pelas oitavas de final da Copa do Mundo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "05 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -71,59 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "De pênalti, França vence retranca do Paraguai e se classifica na Copa",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/de-penalti-franca-vence-retranca-do-paraguai-e-se-classifica-na-copa",
-        "summary": "p Finalista das últimas duas Copas do Mundo, a França continua na briga para chegar à decisão pela terceira vez consecutiva e repetir o feito do Brasil entre 1994 e 2002. Neste sábado (4), os Bleus ( Azuis , na tradução ",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ancelotti dá pista de Martinelli para vaga de Paquetá contra Noruega",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ancelotti-da-pista-de-martinelli-para-vaga-de-paqueta-contra-noruega",
-        "summary": "p O técnico Carlo Ancelotti tem se acostumado a fazer mistério quanto às escalações que vem mandando a campo na Copa do Mundo. Se foi assim na fase de grupos, não seria diferente para um duelo eliminatório como o deste d",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bruno Guimarães projeta duelo com Odegaard e alerta sobre bola parada",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/bruno-guimaraes-projeta-duelo-com-odegaard-e-alerta-sobre-bola-parada",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/bruno-guimaraes-projeta-duelo-com-odegaard-e-alerta-sobre-bola-parada img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Zona norte é região do Rio com maiores temperaturas, aponta estudo",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/zona-norte-e-regiao-do-Rio-com-maiores-temperaturas-aponta-estudo",
-        "summary": "p strong A zona norte da cidade do Rio de Janeiro é a região na capital fluminense com maiores índices de temperatura da superfície terrestre, aponta estudo solicitado pelo Grupo de Atuação Especializada em Meio Ambiente",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ounahi brilha com dois gols, Marrocos bate Canadá e vai às quartas",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ounahi-brilha-com-dois-gols-marrocos-bate-canada-e-vai-quartas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ounahi-brilha-com-dois-gols-marrocos-bate-canada-e-vai-quartas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Inglaterra e Tuchel, preparados para o tempero picante do México e sua torcida",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-mexico-tuchel-copa-2026/",
+        "summary": "O técnico da Inglaterra, Thomas Tuchel, demonstrou confiança antes do confronto contra o México pelas oitavas de final da Copa do Mundo de 2026, minimizando fatores como altitude e pressão da torcida local. Em tom bem-hu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9AG4BT__v1__HighRes__FblWc2026PresserEng.webp",
+        "date": "05 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Real Madrid oficializa contratação de lateral da seleção holandesa",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-contrata-denzel-dumfries/",
+        "summary": "O Real Madrid oficializou a contratação do lateral direito Denzel Dumfries, vindo da Inter de Milão, com contrato até junho de 2030. O holandês, titular em todos os jogos de sua seleção na última Copa do Mundo, chega apó",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260630__B8QF4KX__v1__HighRes__FblWc2026Match75NedMar.webp",
+        "date": "05 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Relembre em fotos o último jogo entre Brasil e Noruega na Copa do Mundo",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/relembre-em-fotos-o-ultimo-jogo-entre-brasil-e-noruega-na-copa-do-mundo/",
@@ -163,86 +243,6 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Com problemas nas laterais, Cuca testa Menino improvisado pela direita",
-        "link": "https://www.gazetaesportiva.com/times/santos/com-problemas-nas-laterais-cuca-testa-menino-improvisado-pela-direita/",
-        "summary": "O Santos convive com escassez nas laterais do elenco e, diante da impossibilidade de contratar por conta do transfer ban, o técnico Cuca precisou buscar alternativas dentro do próprio grupo. A principal novidade foi a ut",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55369831752_dd5346a09a_o-1.webp",
-        "date": "05 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Murilo valoriza testes do Palmeiras e projeta grande 2º semestre",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/murilo-valoriza-testes-do-palmeiras-e-projeta-grande-2o-semestre/",
-        "summary": "Murilo destacou a importância dos jogos-treino realizados pelo Palmeiras durante a pausa para a Copa do Mundo e afirmou que o período tem sido fundamental para a evolução física, mental e coletiva da equipe. O zagueiro p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/04072026_cg_palmeiras_0396_62.webp",
-        "date": "05 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Gabriel Magalhães contra Haaland: quem leva a melh...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16947748/gabriel-magalhaes-x-haaland-quem-leva-a-melhor-antes-brasil-x-noruega",
-        "summary": "null",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "A história de como Bruno Guimarães foi da lateral ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16949086/copa-do-mundo-brasil-historia-como-bruno-guimaraes-foi-da-lateral-para-destaque-selecao",
-        "summary": "null",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Sabia? O dia que Kane jogou no México, rival da In...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16957231/dia-kane-jogou-mexico-rival-inglaterra-copa-passou-longe-holofotes",
-        "summary": "null",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Inglaterra se apega até em suco de beterraba para ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16959540/inglaterra-se-apega-ate-suco-beterraba-para-enfrentar-altitude-mexico-copa-do-mundo",
-        "summary": "null",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Vingança? Inglaterra volta ao Estádio Azteca 40 an...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16959246/vinganca-inglaterra-volta-estadio-azteca-40-anos-apos-sofrer-com-la-mano-de-dios-de-maradona-ainda-doi",
-        "summary": "null",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Negócios, dinheiro e até documentários: as semelha...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16952756/negocios-dinheiros-documentarios-semelhancas-diferencas-pais-neymar-haaland",
-        "summary": "null",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
       }
     ],
     "negocios": [
@@ -277,9 +277,9 @@
         "cls": ""
       },
       {
-        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
+        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -287,9 +287,9 @@
         "cls": ""
       },
       {
-        "title": "Exportações aos EUA crescem pela primeira vez após tarifaço de Trump",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/exportacoes-aos-eua-crescem-pela-primeira-vez-apos-tarifaco-de-trump",
-        "summary": "p O valor das exportações brasileiras aos Estados Unidos cresceu 3,7% em junho de 2026, marcando a primeira alta desde julho de 2025, quando o governo do presidente Donald Trump impôs uma sobretaxa de 50% sobre produtos ",
+        "title": "Projeção de superávit comercial é elevada para US$ 90 bilhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-de-superavit-comercial-e-elevada-para-us-90-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "03 de jul. de 2026",
         "source": "Agência Brasil",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Por que a seleção da Noruega encomendou 300 kg de salmão para a Copa",
-        "link": "https://www.infomoney.com.br/esportes/por-que-a-selecao-da-noruega-encomendou-300-kg-de-salmao-para-a-copa/",
-        "summary": "Chamado de 'superalimento', item contém proteínas, ômega-3, vitaminas A, D e B12 e antioxidantes The post Por que a seleção da Noruega encomendou 300 kg de salmão para a Copa appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-16T225328Z_1131998764_UP1EM6G1QNSH8_RTRMADP_3_SOCCER-WORLDCUP-IRQ-NOR.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Prédio de luxo bloqueia vista para o mar em Maceió e gera onda de críticas",
+        "link": "https://www.infomoney.com.br/brasil/predio-de-luxo-bloqueia-vista-para-o-mar-em-maceio-e-gera-onda-de-criticas/",
+        "summary": "Edifício muda paisagem na chegada à capital alagoana; unidades custam entre R$ 1,4 milhão e R$ 8,8 milhões The post Prédio de luxo bloqueia vista para o mar em Maceió e gera onda de críticas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/maceio-construcao-e1783262368961.png?fit=300%2C141&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Em discurso, Trump se vangloria de supostamente vencer guerra contra o Irã",
-        "link": "https://www.infomoney.com.br/mundo/em-discurso-trump-se-vangloria-de-supostamente-vencer-guerra-contra-o-ira/",
-        "summary": "\"Tivemos um sucesso tremendo\", disse Trump sobre as Forças Armadas dos EUA, em evento de 250 anos da independência do país The post Em discurso, Trump se vangloria de supostamente vencer guerra contra o Irã appeared firs",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T040549Z_999558019_RC2G7MAFA4MC_RTRMADP_3_USA-250-TRUMP.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Governo de SP responde PSOL-Rede e diz que canais divulgam ações de interesse público",
+        "link": "https://www.infomoney.com.br/politica/governo-de-sp-responde-psol-rede-e-diz-que-canais-divulgam-acoes-de-interesse-publico/",
+        "summary": "Federação PSOL-Rede acusa Tarcísio de promover a Sabesp mesmo já sendo uma empresa privada The post Governo de SP responde PSOL-Rede e diz que canais divulgam ações de interesse público appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/tarcisio-de-freitas.jpg?fit=300%2C166&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Último encontro entre Brasil e Noruega teve decisão polêmica da arbitragem",
-        "link": "https://www.infomoney.com.br/esportes/ultimo-encontro-brasil-noruega-decisao-polemica-arbitragem/",
-        "summary": "Os brasileiros se viram em desvantagem em um problema que se resolveu somente no dia seguinte The post Último encontro entre Brasil e Noruega teve decisão polêmica da arbitragem appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/brasil-noruega-penalti-1998.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Navio de carga britânico é atacado no Mar Vermelho, próximo à costa do Iêmen",
+        "link": "https://www.infomoney.com.br/mundo/navio-de-carga-britanico-e-atacado-no-mar-vermelho-proximo-a-costa-do-iemen/",
+        "summary": "Os houthis ameaçaram voltar a atacar navios, embora não tenham realizado novas investidas The post Navio de carga britânico é atacado no Mar Vermelho, próximo à costa do Iêmen appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/hormuz-estreito-guerra-ira-eua-petroleo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Datafolha: 45% dos eleitores aprovam gestão de Tarcísio em SP; 20% rejeitam",
-        "link": "https://www.infomoney.com.br/politica/datafolha-45-dos-eleitores-aprovam-gestao-de-tarcisio-em-sp-20-rejeitam/",
-        "summary": "Governador tenta a reeleição em outubro, tendo como principal adversário o petista Fernando Haddad The post Datafolha: 45% dos eleitores aprovam gestão de Tarcísio em SP; 20% rejeitam appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/tarcisio-freitas-sao-paulo-politica02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "7 países da Opep+ vão elevar produção em 188 mil barris por dia a partir de agosto",
+        "link": "https://www.infomoney.com.br/mercados/7-paises-da-opep-vao-elevar-producao-em-188-mil-barris-por-dia-a-partir-de-agosto/",
+        "summary": "Os países também confirmaram a intenção de compensar integralmente qualquer volume produzido acima do acordado desde janeiro de 2024 The post 7 países da Opep+ vão elevar produção em 188 mil barris por dia a partir de ag",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T111734Z_1_LYNXMPEM2A0PZ_RTROPTP_4_IRAN-CRISIS-OIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Datafolha: Tarcísio lidera em SP com 46%, contra 30% de Haddad",
-        "link": "https://www.infomoney.com.br/politica/datafolha-tarcisio-lidera-em-sp-com-46-contra-30-de-haddad/",
-        "summary": "Pesquisa mostra cenário polarizado entre o atual governador e o ex-ministro da Fazenda do governo Lula, com chances de resolução em 1º turno The post Datafolha: Tarcísio lidera em SP com 46%, contra 30% de Haddad appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/tarcisio-freitas-sao-paulo-politica.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Multidão protesta contra hotel de luxo ligado à família Trump na Albânia",
+        "link": "https://www.infomoney.com.br/mundo/multidao-protesta-contra-hotel-de-luxo-ligado-a-familia-trump-na-albania/",
+        "summary": "Manifestação de sábado (4) foi a 35ª consecutiva contra empreendimento turístico avaliado em US$ 4,6 bilhões em área de reserva natural na costa da Albânia, projeto conduzido por Ivanka Trump e Jared Kushner The post Mul",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-04T205355Z_1497688792_RC277MACK1V4_RTRMADP_3_ALBANIA-PROTESTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "As empresas aprenderam a contratar; o desafio agora é fazer os talentos ficarem",
-        "link": "https://www.infomoney.com.br/carreira/as-empresas-aprenderam-a-contratar-o-desafio-agora-e-fazer-as-pessoas-ficarem/",
-        "summary": "Mobilidade profissional cresce, permanência diminui e empresas descobrem que um bom processo seletivo já não basta para reter talentos The post As empresas aprenderam a contratar; o desafio agora é fazer os talentos fica",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ChatGPT-Image-3-de-jul.-de-2026-14_01_49.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: Haddad tem maior rejeição entre eleitores de SP, com 47%",
+        "link": "https://www.infomoney.com.br/politica/datafolha-haddad-tem-maior-rejeicao-entre-eleitores-de-sp-com-47/",
+        "summary": "Tarcísio de Freitas, governador candidato à reeleição, é rejeitado por 29% dos entrevistados na pesquisa The post Datafolha: Haddad tem maior rejeição entre eleitores de SP, com 47% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-06T122100Z_1_LYNXMPELA50OS_RTROPTP_4_MACRO-SEGURO-DEFESO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "05 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como o calor extremo está mudando o calendário das coleções de moda no mundo",
-        "link": "https://exame.com/casual/como-o-calor-extremo-esta-mudando-o-calendario-das-colecoes-de-moda-no-mundo/",
-        "summary": "Fábricas na Ásia registram perdas de produtividade, grifes revisam metas climáticas e as próprias passarelas já mostram roupas pensadas para temperaturas que superam recordes históricos",
+        "title": "Vale investe em naming rights, mas sem mudar nome do Mercado Central de BH",
+        "link": "https://exame.com/marketing/vale-investe-em-naming-rights-mas-sem-mudar-nome-do-mercado-central-de-bh/",
+        "summary": "Mineradora adquiriu os direitos de nomeação do espaço, mas abriu mão de renomeá-lo para preservar a identidade de um dos cartões-postais de MG",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Pesquisa Datafolha: Tarcísio tem 46% e Haddad, 30% na disputa pelo governo de SP",
-        "link": "https://exame.com/brasil/pesquisa-datafolha-tarcisio-tem-46-e-haddad-30-na-disputa-pelo-governo-de-sp/",
-        "summary": "Num eventual segundo turno, o cenário se mantém favorável a Tarcísio, que aparece com 53% ante 37% de Haddad",
+        "title": "Possível rival do Brasil nas quartas sai de México x Inglaterra; veja horário",
+        "link": "https://exame.com/esporte/possivel-rival-do-brasil-nas-quartas-sai-de-mexico-x-inglaterra-veja-horario/",
+        "summary": "Duelo acontece no Estádio Azteca, na Cidade do México, horas depois da Seleção Brasileira entrar em campo",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Nova descoberta pode explicar como o Alzheimer avança no cérebro",
-        "link": "https://exame.com/ciencia/nova-descoberta-pode-explicar-como-o-alzheimer-avanca-no-cerebro/",
-        "summary": "Pesquisa identificou uma proteína que transporta a Tau entre neurônios e pode abrir caminho para terapias contra a doença",
+        "title": "Cabo Verde recebe seleção com festa após campanha histórica na Copa; assista",
+        "link": "https://exame.com/esporte/cabo-verde-recebe-selecao-com-festa-apos-campanha-historica-na-copa-assista/",
+        "summary": "Recepção à seleção coincidiu com o Dia da Independência do país, celebrado em 5 de julho",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Estudo investiga como o ciclo menstrual pode influenciar efeito das vacinas",
-        "link": "https://exame.com/ciencia/estudo-investiga-como-o-ciclo-menstrual-pode-influenciar-efeito-das-vacinas/",
-        "summary": "Mulheres vacinadas em diferentes fases do ciclo apresentaram respostas distintas, segundo análise com quase 1.500 participantes",
+        "title": "Com qual uniforme o Brasil vai jogar contra a Noruega?",
+        "link": "https://exame.com/esporte/com-qual-uniforme-o-brasil-vai-jogar-contra-a-noruega/",
+        "summary": "Para encarar os noruegueses, a Fifa definiu que a Seleção Brasileira utilizará a camisa amarela",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cientistas descobrem uso inesperado para 'supervermes' que devoram carne",
-        "link": "https://exame.com/ciencia/cientistas-descobrem-uso-inesperado-para-supervermes-que-devoram-carne/",
-        "summary": "Método pode reduzir para poucas horas um processo de preparação de esqueletos realizado por museus",
+        "title": "GRF mira R$ 170 milhões em 2026 com moradias populares em Mato Grosso",
+        "link": "https://exame.com/negocios/grf-mira-r-170-milhoes-em-2026-com-moradias-populares-em-mato-grosso/",
+        "summary": "Fundada em 2018, a incorporadora já entregou mais de 700 casas e aposta em projetos financiáveis pelo Minha Casa, Minha Vida para acelerar crescimento",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cientistas criam célula sintética que 'imita' quase todas as funções da vida",
-        "link": "https://exame.com/ciencia/cientistas-criam-celula-sintetica-que-imita-quase-todas-as-funcoes-da-vida/",
-        "summary": "Pesquisadores afirmam que o avanço pode ajudar a entender os mecanismos essenciais da vida e abrir caminho para novas aplicações científicas",
+        "title": "Os melhores restaurantes de culinária italiana em São Paulo",
+        "link": "https://exame.com/casual/os-melhores-restaurantes-de-culinaria-italiana-em-sao-paulo/",
+        "summary": "A capital paulista é a cidade com maior número de restaurantes listados do país, com 33 casas, sendo 8 dedicadas à cozinha italiana",
         "image": null,
         "date": "05 de jul. de 2026",
         "source": "Exame",
