@@ -1,11 +1,41 @@
 {
-  "updated": "2026-07-06T20:03:59.661Z",
+  "updated": "2026-07-06T22:17:16.565Z",
   "feeds": {
     "campinas": [
       {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "06 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Motociclista morre em acidente na Anhanguera em Americana; via foi interditada",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/06/batida-entre-moto-carro-e-caminhao-deixa-um-morto-e-interdita-anhanguera-em-americana.ghtml",
+        "summary": "Foto de arquivo de trecho da Rodovia Anhanguera (SP-330), em Americana (SP) Reprodução/Google Maps Um motociclista morreu após se envolver em uma batida com um carro e um caminhão na Rodovia Anhanguera (SP-330), em Ameri",
+        "image": "https://s2-g1.glbimg.com/2vJerLWr2UTK7mZMVYLT8yl3wsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/d/gWQB8STIaM4BNcT6uEbA/design-sem-nome-2026-04-21t154638.759.jpg",
+        "date": "06 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "VÍDEO: motorista de aplicativo atropela cachorro e deixa local sem prestar socorro em Valinhos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/06/video-motorista-de-aplicativo-atropela-cachorro-e-deixa-local-sem-prestar-socorro-em-valinhos.ghtml",
+        "summary": "Motorista de aplicativo atropela cachorro e deixa local sem prestar socorro em Valinhos Um motorista de aplicativo atropelou um cachorro após pegar um passageiro na manhã desta sábado (4), no Jardim Universo, em Valinhos",
+        "image": "https://s2-g1.glbimg.com/cgJH2sEWpgdtQanjQ3Kv6d7WcB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/2vnjVyQBqNmHqXo6CFXw/1200px-x-800px-4-.jpg",
+        "date": "06 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
         "title": "Viracopos recebe carros de corrida que disputarão etapa do Campeonato Mundial de Endurance; FOTOS",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/06/viracopos-recebe-carros-de-corrida-que-disputarao-etapa-do-campeonato-mundial-de-endurance-fotos.ghtml",
-        "summary": "Viracopos recebe carros de corrida que disputarão etapa do Campeonato Mundial de Endurance Equipamentos e carros que serão utilizados na competição automobilística World Endurance Championship (WEC) 2026 desembarcaram du",
+        "summary": "Viracopos recebe carros de corrida que disputarão etapa do Campeonato Mundial de Endurance Equipamentos e carros que serão utilizados na competição automobilística World Endurance Championship (WEC) 2026 desembarcaram no",
         "image": "https://s2-g1.glbimg.com/BOxZvOu-KKKIs075X6e1GKpUaXo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/T/GLOtgpQuSz9ZhBR4amcg/design-sem-nome-30-.png",
         "date": "06 de jul. de 2026",
         "source": "G1 Campinas",
@@ -27,36 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/nova-especie-de-mosca-pode-viver-entre-1-milhao-de-vespas-sem-ser-atacada.ghtml",
         "summary": "Nova espécie de mosca intriga cientistas ao viver entre até 1 milhão de vespas Rodrigo de Vilhena Perez Dios Uma nova espécie de mosca descrita por pesquisadores do Museu de Zoologia da Universidade de São Paulo (USP) ch",
         "image": "https://s2-g1.glbimg.com/1D4p7s920p489AhyO8kt5Q2pLh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/1/8qJBmBTC62e9u7KAgeJQ/brevialata-deceptrix-lateral-1-.jpg.jpeg",
-        "date": "06 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Carreta da Tomografia realiza cerca de 1,6 mil exames em Águas de Lindóia",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-aguas-de-lindoia-aguas-de-lindoia-destino-de-experiencias/noticia/2026/07/06/carreta-da-tomografia-realiza-cerca-de-16-mil-exames-em-aguas-de-lindoia.ghtml",
-        "summary": "Carreta da Tomografia realiza cerca de 1,6 mil exames em Águas de Lindóia Crédito: Divulgação. Moradores de dez municípios da região estão sendo atendidos pela Carreta da Tomografia, instalada em Águas de Lindóia por mei",
-        "image": "https://s2-g1.glbimg.com/aw6d23s4PPp7OL4lmATFGeqpf0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/8/xkkPj1TAKzOWQnfzW1Aw/foto-5.png",
-        "date": "06 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Águas de Lindóia amplia oferta de consultas com médicos especialistas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-aguas-de-lindoia-aguas-de-lindoia-destino-de-experiencias/noticia/2026/07/06/aguas-de-lindoia-amplia-oferta-de-consultas-com-medicos-especialistas.ghtml",
-        "summary": "Águas de Lindóia amplia oferta de consultas com médicos especialistas Crédito: Divulgação A rede municipal de saúde de Águas de Lindóia ampliou a oferta de consultas especializadas com a contratação de novos médicos para",
-        "image": "https://s2-g1.glbimg.com/8Tz6phrIo-41ZDw8MZW6dzeL4Wc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/P0Tht6RcOmVZj6RoN0sw/foto-4.png",
-        "date": "06 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Termalismo Social leva tratamentos com águas termais a pacientes do SUS",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-aguas-de-lindoia-aguas-de-lindoia-destino-de-experiencias/noticia/2026/07/06/termalismo-social-leva-tratamentos-com-aguas-termais-a-pacientes-do-sus.ghtml",
-        "summary": "Termalismo Social leva tratamentos com águas termais a pacientes do SUS Crédito: Divulgação As propriedades terapêuticas das águas minerais de Águas de Lindóia deixaram de ser apenas um atrativo turístico para se consoli",
-        "image": "https://s2-g1.glbimg.com/ky-WYoFU1z2YXvbW6aRpYV1ZPr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/n/5XL0zmRymOXMa26sd8gg/foto-3.png",
         "date": "06 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "PGR pede que Flávio Bolsonaro seja ouvido por calúnia contra Lula",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pgr-pede-que-flavio-bolsonaro-seja-ouvido-por-calunia-contra-lula",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pgr-pede-que-flavio-bolsonaro-seja-ouvido-por-calunia-contra-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Espanha bate Portugal em possível adeus de Cristiano Ronaldo às Copas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-bate-portugal-em-possivel-adeus-de-cristiano-ronaldo-copas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-bate-portugal-em-possivel-adeus-de-cristiano-ronaldo-copas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Maricá, no litoral do Rio, registra tremor de terra de magnitude 3.0",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/marica-no-litoral-do-rio-registra-tremor-de-terra-de-magnitude-30",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/marica-no-litoral-do-rio-registra-tremor-de-terra-de-magnitude-30 img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "title": "Rodoviários do Rio e empresários não chegam a acordo em nova audiência",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rodoviarios-do-rio-e-empresarios-nao-chegam-acordo-em-nova-audiencia",
+        "summary": "p Terminou sem acordo mais uma audiência de conciliação entre o sindicato dos donos de empresas do município do Rio de Janeiro, a Rio Ônibus, e os empregados do transporte rodoviário nesta segunda-feira (6), no Tribunal ",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Com críticas, adeus do Brasil à Copa estampa jornais mundo afora",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/com-criticas-adeus-do-brasil-copa-estampa-jornais-mundo-afora",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/com-criticas-adeus-do-brasil-copa-estampa-jornais-mundo-afora img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Leverkusen lança parceria com Instituto Bola pra Frente, de Jorginho",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/leverkusen-lanca-parceria-com-instituto-bola-pra-frente-de-jorginho",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/leverkusen-lanca-parceria-com-instituto-bola-pra-frente-de-jorginho img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Enare: inscrição para residência médica com pré-requisito segue até 4ª",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enare-inscricao-para-residencia-medica-com-pre-requisito-segue-ate-4a",
-        "summary": "p strong As inscrições para o Exame Nacional de Residência (Enare) 2026/2027 que exigem pré-requisito, como ano adicional de estudo e outra residência em área profissional da saúde (multiprofissional e uniprofissional) p",
+        "title": "Receita lança canal único de atendimento digital",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-lanca-canal-unico-de-atendimento-digital",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-lanca-canal-unico-de-atendimento-digital img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "STF dá 48h para tribunais explicarem pagamentos acima do limite a juiz",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/stf-da-48h-para-tribunais-explicarem-pagamentos-acima-do-limite-juiz",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/stf-da-48h-para-tribunais-explicarem-pagamentos-acima-do-limite-juiz img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "Banco Central e Receita Federal são autorizados a realizar concursos",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-federal-e-banco-central-sao-autorizados-realizar-concursos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-federal-e-banco-central-sao-autorizados-realizar-concursos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Entenda audiência nos EUA sobre tarifas de 25% a produtos brasileiros",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/entenda-audiencia-nos-eua-sobre-tarifas-de-25-produtos-brasileiros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/entenda-audiencia-nos-eua-sobre-tarifas-de-25-produtos-brasileiros img src= https://cdn.jsdelivr.net/gh/sergiosd",
+        "title": "Reforma tributária põe em risco crédito de 66,2% das notas fiscais",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reforma-tributaria-poe-em-risco-credito-de-662-das-notas-fiscais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reforma-tributaria-poe-em-risco-credito-de-662-das-notas-fiscais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,129 +185,79 @@
     ],
     "esportes": [
       {
-        "title": "Argentino Paredes comenta eliminação do Brasil: Não surpreende",
-        "link": "https://www.gazetaesportiva.com/times/brasil/paredes-eliminacoes-copa-nao-surpreendem/",
-        "summary": "O meio-campista argentino Leandro Paredes comentou que as eliminações na Copa do Mundo, incluindo a do Brasil para a Noruega, não são mais surpreendentes devido ao alto nível de competitividade entre as seleções. A Argen",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__2284368549__v1__HighRes__ArgentinaTrainingSessionFifaWorldCup2026.webp",
+        "title": "Última Copa de CR7 tem recorde e atuação apagada em despedida",
+        "link": "https://www.gazetaesportiva.com/times/portugal/ultima-copa-de-cr7-tem-recorde-e-atuacao-apagada-em-despedida/",
+        "summary": "A eliminação de Portugal para a Espanha marcou a despedida de CR7 com a camisa da seleção portuguesa. Confira os números do ídolo. O post Última Copa de CR7 tem recorde e atuação apagada em despedida apareceu primeiro em",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9FD7RF__v1__MidRes__FblWc2026Match93PorEsp.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo vence Mauaense e pega o Vasco nas oitavas da Copa do Brasil feminina",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-vence-mauaense-e-pega-o-vasco-nas-oitavas-da-copa-do-brasil-feminina/",
-        "summary": "O São Paulo bateu o Mauaense por 3 a 0 nesta segunda-feira, em Mauá (SP), e enfrentará o Vasco nas oitavas da Copa do Brasil feminina. O post São Paulo vence Mauaense e pega o Vasco nas oitavas da Copa do Brasil feminina",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55293805995_47b3cf401b_k-1.webp",
+        "title": "Veja fotos de Cristiano Ronaldo após a eliminação de Portugal",
+        "link": "https://www.gazetaesportiva.com/times/portugal/veja-fotos-de-cristiano-ronaldo-apos-a-eliminacao-de-portugal/",
+        "summary": "Confira uma galeria de Cristiano Ronaldo em seus últimos momentos na Copa do Mundo. O post Veja fotos de Cristiano Ronaldo após a eliminação de Portugal apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9FE99P__v1__MidRes__FblWc2026Match93PorEsp.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Premiê britânico interveio para impedir mudança de horário de México x Inglaterra",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/premie-britanico-interveio-para-impedir-mudanca-de-horario-de-mexico-x-inglaterra/",
-        "summary": "O primeiro-ministro do Reino Unido, Keir Starmer, admitiu ter atuado junto à Federação Inglesa para impedir que a Fifa antecipasse o horário do jogo entre Inglaterra e México pelas oitavas de final da Copa do Mundo. A pr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9C86YA__v4__HighRes__TopshotFblWc2026Match92MexEng.webp",
+        "title": "Tudo pronto para 75ª Prova Ciclística Internacional 9 de Julho",
+        "link": "https://www.gazetaesportiva.com/videos/tudo-pronto-para-75a-prova-ciclistica-internacional-9-de-julho/",
+        "summary": "O post Tudo pronto para 75ª Prova Ciclística Internacional 9 de Julho apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/julho.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fifa rejeita recurso da Bélgica contra revogação da suspensão de Balogun",
-        "link": "https://www.gazetaesportiva.com/times/belgica/fifa-rejeita-recurso-da-belgica-contra-revogacao-da-suspensao-de-balogun/",
-        "summary": "A Fifa rejeitou o recurso da Federação Belga de Futebol contra a liberação de Folarin Balogun para as oitavas de final da Copa do Mundo. A entidade alegou que a Bélgica não tinha legitimidade para recorrer da decisão que",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__2284779857__v1__HighRes__UsaTrainingSessionFifaWorldCup2026.webp",
+        "title": "Inglaterra ganha embalo na Copa após batalha no Estádio Azteca",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-ganha-embalo-na-copa-apos-batalha-no-estadio-azteca/",
+        "summary": "A Inglaterra continuou sua caminhada na Copa do Mundo com uma vitória inesquecível e de tirar o fôlego sobre o México, um resultado aclamado como seu maior triunfo fora de casa. O post Inglaterra ganha embalo na Copa apó",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9C87B6__v4__HighRes__TopshotFblWc2026Match92MexEng.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sabino inicia transição física em reapresentação do São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sabino-inicia-transicao-fisica-em-reapresentacao-do-sao-paulo/",
-        "summary": "O São Paulo ganhou a novidade de Sabino no treino desta segunda-feira, que inaugurou a quarta semana de intertemporada do clube. O post Sabino inicia transição física em reapresentação do São Paulo apareceu primeiro em G",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55378164926_bc8a8af319_o.webp",
+        "title": "Athletico-PR anuncia a renovação do atacante Leozinho até o final de 2028",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-anuncia-a-renovacao-do-atacante-leozinho-ate-o-final-de-2028/",
+        "summary": "O Athletico-PR anunciou a renovação de contrato do atacante Leozinho até dezembro de 2028. Contratado junto ao Ituano em 2025, o jogador de 27 anos soma 43 partidas e quatro gols pelo clube, que ocupa a quarta colocação ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/leo.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Luiz Araújo descarta saída do Flamengo após rumores: Desejo é permanecer",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/luiz-araujo-descarta-saida-do-flamengo-apos-rumores-desejo-e-permanecer/",
-        "summary": "Luiz Araújo garantiu que permanecerá no Flamengo, encerrando os rumores de transferência que o ligavam a clubes como São Paulo, Cruzeiro e Atlético-MG. O atacante afirmou que nunca recebeu propostas concretas e que está ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55157775249_1f658bc74b_o.webp",
+        "title": "Santos se reapresenta após amistoso e abre terceira semana de intertemporada",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-se-reapresenta-apos-amistoso-e-abre-terceira-semana-de-intertemporada/",
+        "summary": "O Santos se reapresentou nesta segunda-feira e iniciou a preparação para a sequência da temporada no CT Rei Pelé. O elenco ganhou folga no domingo após vencer o União São João por 3 a 0, no último sábado, em amistoso dis",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55378500913_20de57f9a2_k.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Portugal x Espanha AO VIVO: siga e ASSISTA na Cazé...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16952624/portugal-x-espanha-ao-vivo-siga-tempo-real-copa-do-mundo",
-        "summary": "Bola rola nesta segunda-feira (6), às 16h (de Brasília), em Dallas",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem sobe e desce na Seleção Brasileira já de olho na Copa do Mundo de 2030",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16965208/selecao-brasileira-copa-do-mundo-2030-quem-sobe-quem-desce",
-        "summary": "Seleção Brasileira deu adeus à Copa do Mundo após ser eliminada pela Noruega",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Ancelotti fica? Quem volta? Perguntas e respostas ...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16964983/ancelotti-fica-quem-volta-perguntas-respostas-futuro-selecao-brasileira-copa-do-mundo",
-        "summary": "Brasil deixa a Copa do Mundo em baixa após eliminação para Noruega, nas oitavas de final, com dois gols de Haaland",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "'Cornetômetro': gol de Neymar foi pico de reações ...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16966528/cornetometro-gol-neymar-pico-reacoes-negativas-brasil-x-noruega-redes",
-        "summary": "Camisa 10 não foi poupado das críticas na eliminação da Seleção na Copa do Mundo",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Bruno Guimarães era pior que Vini Jr e mais 2 em c...",
-        "link": "https://www.espn.com.br/futebol/selecao-brasileira/artigo/_/id/16963859/bruno-guimaraes-era-pior-que-vini-jr-e-mais-2-em-campo-em-penaltis-em-recorte-que-ancelotti-usou-para-decidir-compare",
-        "summary": "Bruno Guimarães perdeu pênalti com o jogo empatado, e Brasil perdeu depois para a Noruega na Copa do Mundo",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Zico critica Brasil e diz que Seleção 'entregou a ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16965784/copa-do-mundo-zico-critica-brasil-e-diz-que-selecao-entregou-a-bola-para-noruega-em-eliminacao-ninguem-esperava-uma-situacao-dessa",
-        "summary": "Brasil perdeu por 2 a 1 para a Noruega e deu adeus à Copa do Mundo",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
       {
-        "title": "Receita Federal e Banco Central são autorizados a realizar concursos",
+        "title": "Receita lança canal único de atendimento digital",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-lanca-canal-unico-de-atendimento-digital",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-lanca-canal-unico-de-atendimento-digital img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
+        "image": null,
+        "date": "06 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Banco Central e Receita Federal são autorizados a realizar concursos",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-federal-e-banco-central-sao-autorizados-realizar-concursos",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-federal-e-banco-central-sao-autorizados-realizar-concursos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
@@ -357,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Ibovespa volta aos 174 mil pontos com aposta na Selic, e dólar cai",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/ibovespa-volta-aos-174-mil-pontos-com-aposta-na-selic-e-dolar-cai",
-        "summary": "p Em um dia de feriado nos Estados Unidos, a bolsa voltou a fechar acima dos 174 mil pontos pela primeira vez em um mês. strong O dólar recuou e retornou ao nível de R$ 5,16. /strong img src= https://agenciabrasil.ebc.co",
-        "image": null,
-        "date": "03 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Mbappé reage a ataques racistas de senadora do Paraguai: Desprezível e indigna",
-        "link": "https://www.infomoney.com.br/esportes/mbappe-reage-a-ataques-racistas-de-senadora-do-paraguai-desprezivel-e-indigna/",
-        "summary": "Celeste Amarilla insultou o francês após a eliminação paraguaia na Copa The post Mbappé reage a ataques racistas de senadora do Paraguai: Desprezível e indigna appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-14T175227Z_1_LYNXMPEM5D0JJ_RTROPTP_4_SOCCER-WORLDCUP-GROUPI-FRANCE.jpg?fit=300%2C216&amp;quality=70&amp;strip=all",
+        "title": "Jaqueta preta do CEO da Nvidia será leiloada com lance mínimo de R$ 220 mil",
+        "link": "https://www.infomoney.com.br/mercados/jaqueta-preta-do-ceo-da-nvidia-sera-leiloada-com-lance-minimo-de-r-220-mil/",
+        "summary": "Peça autografada por Jensen Huang pode alcançar até US$ 60 mil em leilão da Sotheby’s; renda será destinada a projetos educacionais The post Jaqueta preta do CEO da Nvidia será leiloada com lance mínimo de R$ 220 mil app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-03T203908Z_1083261173_RC2SVIAHEADT_RTRMADP_3_NVIDIA-OPENAI.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Novartis faz aposta bilionária em biotech britânica de remédios contra câncer",
-        "link": "https://www.infomoney.com.br/business/novartis-faz-aposta-bilionaria-em-biotech-britanica-de-remedios-contra-cancer/",
-        "summary": "Pelos termos do acordo, a Novartis pagará US$ 1,1 bilhão à vista pela Myrucx Bio e poderá desembolsar até US$ 400 milhões adicionais, condicionados ao cumprimento de metas The post Novartis faz aposta bilionária em biote",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1166383621.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Bélgica x Estados Unidos?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-belgica-estados-unidos/",
+        "summary": "O jogo das oitavas de final acontece no Estádio de Seattle, nos Estados Unidos, às 21h The post Onde assistir Bélgica x Estados Unidos? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-belgica-x-estados-unidos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Itamaraty vê riscos financeiros e jurídicos em ação dos EUA sobre PCC e CV",
-        "link": "https://www.infomoney.com.br/politica/itamaraty-ve-riscos-financeiros-e-juridicos-em-acao-dos-eua-sobre-pcc-e-cv/",
-        "summary": "Ministério afirma que enquadramento foi unilateral e não teve comunicação formal The post Itamaraty vê riscos financeiros e jurídicos em ação dos EUA sobre PCC e CV appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-17-081506.png?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "title": "Bem-vindo à cidade de luxo erguida pelo boom da IA em Taiwan",
+        "link": "https://www.infomoney.com.br/business/global/bem-vindo-a-cidade-de-luxo-erguida-pelo-boom-da-ia-em-taiwan/",
+        "summary": "Fortunas, prédios de luxo e taxas de natalidade estão em alta na cidade no centro da cadeia de chips de Taiwan The post Bem-vindo à cidade de luxo erguida pelo boom da IA em Taiwan appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/TAIWAN-AI-BOOMTOWN-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O farol do futebol mundial deixou de existir? Imprensa internacional avalia; veja",
-        "link": "https://www.infomoney.com.br/esportes/o-farol-do-futebol-mundial-deixou-de-existir-ou-so-esta-sem-direcao/",
-        "summary": "A história mostra que a identidade brasileira nos campos pode estar além da repetição de fórmulas The post O farol do futebol mundial deixou de existir? Imprensa internacional avalia; veja appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T221127Z_1895367941_UP1EM751PN1TC_RTRMADP_3_SOCCER-WORLDCUP-BRA-NOR.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
+        "title": "Ancelotti presenteou técnico da Noruega após derrota do Brasil; veja",
+        "link": "https://www.infomoney.com.br/esportes/ancelotti-presenteou-tecnico-da-noruega-apos-derrota-do-brasil-veja/",
+        "summary": "Seleção Brasileira foi amplamente dominada pelos noruegueses e deu adeus à Copa do Mundo The post Ancelotti presenteou técnico da Noruega após derrota do Brasil; veja appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T201049Z_1023954648_UP1EM751K20AM_RTRMADP_3_SOCCER-WORLDCUP-BRA-NOR.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Sánchez reconhece vitória de Fujimori na eleição presidencial do Peru",
-        "link": "https://www.infomoney.com.br/mundo/sanchez-reconhece-vitoria-de-fujimori-na-eleicao-presidencial-do-peru/",
-        "summary": "Candidata da direita, Fujimori obteve 50,135% dos votos e venceu a apertada disputa pela presidência The post Sánchez reconhece vitória de Fujimori na eleição presidencial do Peru appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/keiko-fujimori-sanchez.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA AO GOL: Espanha marca nos acréscimos e elimina Portugal de Cristiano Ronaldo",
+        "link": "https://www.infomoney.com.br/esportes/jogo-espanha-portugal-copa-2026/",
+        "summary": "Mikel Merino entrou aos 39 minutos do segundo tempo e seis minutos depois fez o gol da classificação da Espanha The post ASSISTA AO GOL: Espanha marca nos acréscimos e elimina Portugal de Cristiano Ronaldo appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T212800Z_649879885_UP1EM761LQJIT_RTRMADP_3_SOCCER-WORLDCUP-POR-ESP.jpg?fit=300%2C189&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Petróleo fecha em queda com aumento da oferta global e negociações no Oriente Médio",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-06072026/",
-        "summary": "O barril do WTI recuou para US$ 68,55 e o Brent para US$ 71,99 em dia de tráfego de navios normalizado, compensando as incertezas sobre as tarifas cobradas pelo Irã The post Petróleo fecha em queda com aumento da oferta ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "Governo autoriza concursos para Receita e Banco Central; editais saem em até 6 meses",
+        "link": "https://www.infomoney.com.br/carreira/concursos-receita-federal-e-banco-central/",
+        "summary": "Portarias publicadas pelo Ministério da Gestão liberam novas seleções para cargos de níveis médio e superior The post Governo autoriza concursos para Receita e Banco Central; editais saem em até 6 meses appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Concurso-Dataprev.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Os sistemas descartáveis que drenam a produtividade das PMEs",
-        "link": "https://exame.com/bussola/os-sistemas-descartaveis-que-drenam-a-produtividade-das-pmes/",
-        "summary": "Excesso de cliques e telas em softwares corporativos tradicionais reduz eficiência e afeta o crescimento de pequenas e médias empresas",
+        "title": "Moura Dubeux atinge R$ 1 bi em lançamentos e em vendas no segundo trimestre",
+        "link": "https://exame.com/invest/mercados/moura-dubeux-atinge-r-1-bi-em-lancamentos-e-em-vendas-no-segundo-trimestre/",
+        "summary": "A companhia totalizou R$ 1 bilhão de lançamentos no período, distribuídos em 6 novos empreendimentos",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -437,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após recorde com ônibus elétricos, BYD vai expandir produção no Brasil",
-        "link": "https://exame.com/esg/apos-recorde-com-onibus-eletricos-byd-vai-expandir-producao-no-brasil/",
-        "summary": "Em entrevista à EXAME, diretor de veículos comerciais conta sobre entrega inédita de 265 ônibus em Sâo Paulo e a estratégia que une capital estrangeiro e expertise brasileira",
+        "title": "China vence a Copa do Mundo dos robôs humanoides pela segunda vez seguida",
+        "link": "https://exame.com/tecnologia/china-vence-a-copa-do-mundo-dos-robos-humanoides-pela-segunda-vez-seguida/",
+        "summary": "A equipe Tsinghua Vulcan garantiu o título no torneio, encerrado no domingo, 5, em Incheon, na Coreia do Sul",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -447,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Claude fica fora do ar e Anthropic investiga falhas no chatbot",
-        "link": "https://exame.com/inteligencia-artificial/claude-fica-fora-do-ar-e-anthropic-investiga-falhas-no-chatbot/",
-        "summary": "Downdetector registrava mais de 900 notificações no Brasil e 5,4 mil nos EUA na tarde desta segunda-feira",
+        "title": "China aposta no hidrogênio verde e amplia investimentos para acelerar transição energética",
+        "link": "https://exame.com/ciencia/china-aposta-no-hidrogenio-verde-e-amplia-investimentos-para-acelerar-transicao-energetica/",
+        "summary": "Nos últimos anos, o hidrogênio passou a ganhar espaço em aplicações como lançamentos de foguetes, transporte, pesquisa científica e processos industriais",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -457,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Acesso livre ao Fable 5 acaba amanhã; veja como aproveita a IA que assustou o governo dos EUA",
-        "link": "https://exame.com/inteligencia-artificial/acesso-livre-ao-fable-5-acaba-amanha-veja-como-aproveita-a-ia-que-assustou-o-governo-dos-eua/",
-        "summary": "Anthropic vai tirar o Fable 5 dos planos padrão após 7 de julho e passará a cobrar por créditos de uso até ampliar capacidade",
+        "title": "Parque da LEGO na China bate recorde de público em apenas um ano",
+        "link": "https://exame.com/pop/parque-da-lego-na-china-bate-recorde-de-publico-em-apenas-um-ano/",
+        "summary": "O LEGOLAND Shanghai Resort, primeiro parque da marca na China, ultrapassou a marca de 2 milhões de visitantes em seu primeiro ano de operação",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -467,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Só conhecimento técnico não basta: cinco formas de se preparar para o novo mercado de trabalho",
-        "link": "https://exame.com/carreira/so-conhecimento-tecnico-nao-basta-cinco-formas-de-se-preparar-para-o-novo-mercado-de-trabalho/",
-        "summary": "Com a automação avançando, empresas passam a valorizar profissionais capazes de unir conhecimento técnico, adaptação e habilidades comportamentais",
+        "title": "Espanha faz gol no apagar das luzes, elimina Portugal e garante vaga nas quartas de final",
+        "link": "https://exame.com/esporte/espanha-faz-gol-no-apagar-das-luzes-elimina-portugal-e-garante-vaga-nas-quartas-de-final/",
+        "summary": "Merino marcou para os espanholes aos 45' da segunda etapa e garantiu a vaga na próxima fase do torneio",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -477,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil diz que governo Trump baseou proposta de tarifaço em alegações 'espúrias' e sem provas",
-        "link": "https://exame.com/brasil/brasil-diz-que-governo-trump-baseou-proposta-de-tarifaco-em-alegacoes-espurias-e-sem-provas/",
-        "summary": "USTR propôs tarifa de 12,5% ao país com base no suposto uso local de trabalho forçado",
+        "title": "Miami Heat confirma Antetokounmpo como novo reforço",
+        "link": "https://exame.com/esporte/miami-heat-confirma-antetokounmpo-como-novo-reforco/",
+        "summary": "Campeão da NBA com os Bucks na temporada 2020/21, Antetokounmpo demonstrava insatisfação com a falta de perspectivas competitivas da franquia nos últimos anos",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
