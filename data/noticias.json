@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-06T14:30:05.522Z",
+  "updated": "2026-07-06T17:46:43.642Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Campinas sanciona reajuste salarial de 4,39% para servidores municipais; vale-refeição passa para R$ 2.150",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/06/campinas-sanciona-reajuste-salarial-de-439percent-para-servidores-municipais-vale-refeicao-passa-para-r-2150.ghtml",
+        "summary": "O prédio da Prefeitura de Campinas Carlos Bassan/PMC A Prefeitura de Campinas (SP) sancionou a lei que reajusta em 4,39% os salários dos servidores municipais e aumenta o valor do vale-refeição. A medida foi publicada no",
+        "image": "https://s2-g1.glbimg.com/lricV2YQhRa20x1868wNKeWHj0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/m/KfqilnRwGAcpcFU7saaQ/51269515710-e3553c01a3-k.jpg",
+        "date": "06 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Nova espécie de mosca pode viver entre 1 milhão de vespas sem ser atacada",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/nova-especie-de-mosca-pode-viver-entre-1-milhao-de-vespas-sem-ser-atacada.ghtml",
@@ -53,14 +63,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Por que pinguins estão mudando o calendário de reprodução na Antártica?",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/por-que-pinguins-estao-mudando-o-calendario-de-reproducao-na-antartica.ghtml",
-        "summary": "Imagem de um Pinguim-de-Adélia (Pygoscelis adeliae) alanvannorman / iNaturalist Os pinguins da Antártica estão mudando o calendário de reprodução. Um estudo publicado na revista científica Journal of Animal Ecology mostr",
-        "image": "https://s2-g1.glbimg.com/pt2MBkh4ka556csuv4kxhGITnR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/g/gpBFaFR5StRhZzOTgfQw/imagens-para-materia-43-.jpg",
+        "title": "Bebê é encontrado mamando no peito da mãe após mulher ser vítima de feminicídio",
+        "link": "https://jornalamericanense.com.br/policia/bebe-e-encontrado-mamando-no-peito-da-mae-apos-mulher-ser-vitima-de-feminicidio/",
+        "summary": "Um caso de feminicídio foi registrado em Cataguases, na Zona da Mata de Minas Gerais. Um bebê de 1 ano foi encontrado mamando no peito da mãe, de 44 anos, que já estava morta dentro de casa. Outra criança, de 2 anos, tam",
+        "image": null,
         "date": "06 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Cerca de 2 mil atletas participam da 5ª Corrida e Caminhada Suzano Faz Bem em Americana",
+        "link": "https://jornalamericanense.com.br/esportes/cerca-de-2-mil-atletas-participam-da-5a-corrida-e-caminhada-suzano-faz-bem-em-americana/",
+        "summary": "A 5ª edição da Corrida e Caminhada Suzano Faz Bem, promovida em Americana pela Suzano, maior produtora mundial de celulose e referência global na fabricação de bioprodutos desenvolvidos a partir do eucalipto, reuniu cerc",
+        "image": null,
+        "date": "06 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Brasil é eliminado pela Noruega e dá adeus à Copa do Mundo de 2026 nas oitavas de final",
@@ -103,29 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Americana recebe encontro do Tribunal de Contas para debater gestão pública e fiscalização",
-        "link": "https://jornalamericanense.com.br/blog/americana-recebe-encontro-do-tribunal-de-contas-para-debater-gestao-publica-e-fiscalizacao/",
-        "summary": "Evento reúne prefeitos, gestores municipais e especialistas do TCE-SP para discutir boas práticas administrativas e orientar municípios da região de Campinas A cidade de Americana será sede, nesta segunda-feira (6), do 1",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Rock Day Americana reúne milhares de fãs e consolida nova fase do festival no Clube dos Cavaleiros",
-        "link": "https://jornalamericanense.com.br/cultura/rock-day-americana-reune-milhares-de-fas-e-consolida-nova-fase-do-festival-no-clube-dos-cavaleiros/",
-        "summary": "Com shows de Paralamas do Sucesso, CPM 22 e Raimundos, quarta edição levou mais de 16 horas de música, estrutura ampliada e ações solidárias ao novo palco do evento O Rock Day Americana encerrou sua quarta edição em gran",
-        "image": null,
-        "date": "05 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Mercado financeiro reduz projeção da inflação para 5,30%",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-financeiro-reduz-projecao-da-inflacao-para-530",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-financeiro-reduz-projecao-da-inflacao-para-530 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "title": "STF dá 48h para tribunais explicarem pagamentos acima do limite a juiz",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/stf-da-48h-para-tribunais-explicarem-pagamentos-acima-do-limite-juiz",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/stf-da-48h-para-tribunais-explicarem-pagamentos-acima-do-limite-juiz img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Copernicus: emissão global de gases por incêndios é a menor em 24 anos",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/copernicus-emissao-global-de-gases-por-incendios-e-menor-em-24-anos",
-        "summary": "p O observatório europeu Copernicus divulgou, nesta segunda-feira (6), que o primeiro semestre de 2026 registrou o menor nível global de emissões de gases do efeito estufa decorrentes de incêndios, desde o início da séri",
+        "title": "Entenda audiência nos EUA sobre tarifas de 25% a produtos brasileiros",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/entenda-audiencia-nos-eua-sobre-tarifas-de-25-produtos-brasileiros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/entenda-audiencia-nos-eua-sobre-tarifas-de-25-produtos-brasileiros img src= https://cdn.jsdelivr.net/gh/sergiosd",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Pé-de-Meia 2026: nascidos em novembro e dezembro recebem 4ª parcela",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pe-de-meia-2026-nascidos-em-novembro-e-dezembro-recebem-4a-parcela",
-        "summary": "p Os estudantes beneficiários do programa Pé-de-Meia de 2026 nascidos em novembro e dezembro recebem nesta segunda-feira (6) a quarta parcela do incentivo frequência, desde que tenham o registro de 80% de presença nas au",
+        "title": "PND 2026: prazo de inscrição é prorrogado até sexta-feira",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-prazo-de-inscricao-e-prorrogado-ate-sexta-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-prazo-de-inscricao-e-prorrogado-ate-sexta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Espanha e Portugal, EUA e Bélgica jogam hoje pelas oitavas da Copa",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-e-portugal-eua-e-belgica-jogam-hoje-pelas-oitavas-da-copa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-e-portugal-eua-e-belgica-jogam-hoje-pelas-oitavas-da-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Avião de companhia argentina identifica impacto de drone no Galeão",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/aviao-de-companhia-argentina-identifica-impacto-de-drone-no-galeao",
+        "summary": "p Um avião da companhia Aerolíneas Argentinas, que realizava o voo AR-1268 (Buenos Aires-Rio de Janeiro), teve danos causados pelo impacto de um drone na região do motor. img src= https://agenciabrasil.ebc.com.br/ebc.png",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Clássico centenário mexe com rivalidade Portugal x Espanha no Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/classico-centenario-mexe-com-rivalidade-portugal-x-espanha-no-brasil",
-        "summary": "p strong Quando Portugal e Espanha se enfrentaram pela primeira vez no futebol, em 19 de dezembro de 1921, a rivalidade entre os vizinhos da Península Ibérica já existia a quilômetros dali. Mais precisamente em Santos, n",
+        "title": "Moraes manda Exército entregar armas registradas em nome de Bolsonaro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-manda-exercito-entregar-armas-registradas-em-nome-de-bolsonaro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-manda-exercito-entregar-armas-registradas-em-nome-de-bolsonaro img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Com um a menos, Inglaterra derruba México no Azteca e segue na Copa",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/com-um-menos-inglaterra-derruba-mexico-no-azteca-e-segue-na-copa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/com-um-menos-inglaterra-derruba-mexico-no-azteca-e-segue-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Prouni 2026: inscrição gratuita para o 2º semestre começa nesta terça",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-inscricao-gratuita-para-o-2o-semestre-comeca-nesta-terca",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-inscricao-gratuita-para-o-2o-semestre-comeca-nesta-terca img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Uefa critica a Fifa por anular punição a Balogun: Ultrapassou todos os limites",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/uefa-critica-fifa-suspensao-punicao-balogun/",
-        "summary": "A UEFA criticou duramente a decisão da Fifa de suspender a punição automática aplicada ao atacante Folarin Balogun após sua expulsão na Copa do Mundo de 2026. Em comunicado oficial, a entidade europeia afirmou que a medi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260702__063_2284257536__v3__HighRes__UsaVBosniaAndHerzegovinaRoundOf32FifaWor-1.webp",
+        "title": "De virada e com direito a goleada, Bahia bate o Montevideo City Torque na Fonte Nova; veja os bastidores",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/de-virada-e-com-direito-a-goleada-bahia-bate-o-montevideo-city-torque-na-fonte-nova-veja-os-bastidores/",
+        "summary": "Os gols do triunfo tricolor foram marcados por Willian José, Rodrigo Nestor (duas vezes) e Everaldo, mostrando o forte ritmo ofensivo da equipe na preparação para a sequência das competições. O post De virada e com direi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Bahia-bate-o-Monte.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja as novidades do mercado da bola desta segunda-feira, dia 6",
-        "link": "https://www.gazetaesportiva.com/futebol/veja-as-novidades-do-mercado-da-bola-desta-segunda-feira-dia-6/",
-        "summary": "Com a pausa no calendário para a disputa da Copa do Mundo e a abertura da janela de transferências, os clubes intensificam os movimentos nos bastidores em busca de reforços e ajustes nos elencos para a sequência da tempo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/842x561_2.webp",
+        "title": "São Paulo define mando de campo para enfrentar o Athletico-PR após a Copa",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-define-mando-de-campo-para-enfrentar-o-athletico-pr-apos-a-copa/",
+        "summary": "O São Paulo definiu onde mandará a partida contra o Athletico-PR, pela 19ª rodada do Campeonato Brasileiro, após a Copa do Mundo. Saiba detalhes na matéria. O post São Paulo define mando de campo para enfrentar o Athleti",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55103234764_f616b98b9d_o-1.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Monaco anuncia Filipe Luís, ex-Flamengo, como novo técnico",
-        "link": "https://www.gazetaesportiva.com/times/monaco/filipe-luis-anunciado-como-tecnico-do-monaco/",
-        "summary": "O Monaco anunciou a contratação de Filipe Luís como novo treinador da equipe. Aos 40 anos, o ex-comandante do Flamengo assinou contrato até junho de 2028 e iniciará sua primeira experiência internacional na carreira. O b",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/03/55098373144_30da129a44_o.webp",
+        "title": "Primeira entrevista de Filipe Luís como técnico do Monaco",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/primeira-entrevista-de-filipe-luis-como-tecnico-do-monaco/",
+        "summary": "Um sonho realizado! Filipe Luís abre o jogo em sua apresentação oficial no Monaco, detalha como o projeto do clube o conquistou e fala sobre a expectativa de colocar sua filosofia em prática no futebol francês. O post Pr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Filipe-Luis-como-tecnico.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Portugal-Espanha, duelo de destaque nas oitavas após abalo provocado por interferência de Trump",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/espanha-portugal-cristiano-lamine-yamal-oitavas-copa-2026/",
-        "summary": "As oitavas de final da Copa do Mundo de 2026 terão como destaque o clássico entre Espanha e Portugal, marcado pelo encontro de gerações entre Cristiano Ronaldo e Lamine Yamal. A partida acontece em Dallas e reúne uma das",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BH7ZV__v2__HighRes__TopshotFblWc2026TrainingPor.webp",
+        "title": "Clipe oficial do hino da Espanha para a Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/clipe-oficial-do-hino-da-espanha-para-a-copa-do-mundo/",
+        "summary": "Assista ao clipe oficial do hino da Espanha para a Copa do Mundo. A música se tornou uma das mais populares do torneio e celebra a La Roja e todo o seu elenco. O post Clipe oficial do hino da Espanha para a Copa do Mundo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Clipe-oficial.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Campeões brasileiros e recordistas prometem disputa acirrada na Prova 9 de Julho",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/ciclismo/destaques-corrida-9-de-julho/prova-9-de-julho-favoritos-edicao-2025/",
-        "summary": "A 75ª Prova Ciclística Internacional 9 de Julho reunirá alguns dos principais nomes do ciclismo brasileiro na próxima quinta-feira, em São Paulo. Entre os destaques estão o campeão brasileiro João Pedro Rossi, o tetracam",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/467536_1209641_466946_1207756_chamorro_vence_a_9_de_julho_em_2023.webp",
+        "title": "Dest avisa rivais: A autoconfiança do Estado Unidos está no nível máximo",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/dest-avisa-rivais-a-autoconfianca-do-estado-unidos-esta-no-nivel-maximo/",
+        "summary": "Sergiño Dest abre o jogo sobre a mentalidade vencedora do elenco americano e garante foco total no mata-mata do Mundial. O post Dest avisa rivais: A autoconfiança do Estado Unidos está no nível máximo apareceu primeiro e",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/ghw4cjzx-1920ddd.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tottenham anuncia a contratação de Tonali; saiba detalhes",
-        "link": "https://www.gazetaesportiva.com/times/tottenham/tottenham-anuncia-contratacao-sandro-tonali/",
-        "summary": "O Tottenham anunciou a contratação do volante italiano Sandro Tonali, de 26 anos, em uma das maiores negociações da atual janela de transferências. Vindo do Newcastle, o meio-campista chega ao clube londrino por um valor",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HMiVrC3WYAAwWmA-1.webp",
+        "title": "Tim Ream elogia Pochettino por abraçar a cultura americana",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/tim-ream-elogia-pochettino-por-abracar-a-cultura-americana/",
+        "summary": "O capitão da seleção dos EUA (USMNT), Tim Ream, diz que Mauricio Pochettino se dedicou de corpo e alma à vida como técnico da seleção nacional. O post Tim Ream elogia Pochettino por abraçar a cultura americana apareceu p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/estadotim.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Cristiano Ronaldo confirma última Copa antes de jogo contra Espanha",
-        "link": "https://www.infomoney.com.br/esportes/cristiano-ronaldo-confirma-ultima-copa-antes-de-jogo-contra-espanha/",
-        "summary": "Jogador de 41 anos está disputando sua sexta Copa do Mundo, recorde entre atletas The post Cristiano Ronaldo confirma última Copa antes de jogo contra Espanha appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T210547Z_1_LYNXMPEM640G7_RTROPTP_4_SOCCER-WORLDCUP-POR-ESP-PREVIEW_rec.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Café tem relação com a calvície, como sugerem posts nas redes sociais?",
+        "link": "https://www.infomoney.com.br/consumo/cafe-tem-relacao-com-a-calvicie-como-sugerem-posts-nas-redes-sociais/",
+        "summary": "Segundo as mensagens, a indústria teria passado a utilizar \"produtos químicos tóxicos\" autorizados pela Agência Nacional de Vigilância Sanitária (Anvisa) The post Café tem relação com a calvície, como sugerem posts nas r",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/towfiqu-barbhuiya-FGqEuM0wuKk-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com bancos, PETR4, VALE3 e varejistas",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06072026/",
-        "summary": "Bolsas dos EUA começam semana de forma mista The post Ibovespa Hoje Ao Vivo: Bolsa cai com bancos, PETR4, VALE3 e varejistas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-10-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Elasticidade da demanda ditará o rumo das canetas emagrecedoras no Brasil; entenda",
+        "link": "https://www.infomoney.com.br/mercados/elasticidade-da-demanda-ditara-o-rumo-das-canetas-emagrecedoras-no-brasil-entenda/",
+        "summary": "Cortes nos preços de cópias autorizadas de semaglutida dão início à competição no mercado de GLP-1 no Brasil The post Elasticidade da demanda ditará o rumo das canetas emagrecedoras no Brasil; entenda appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/haberdoedas-TzKc7FGaL7Y-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Oreo do BTS? Edição limitada do biscoito começa a ser vendida em agosto",
-        "link": "https://www.infomoney.com.br/consumo/oreo-bts-biscoito-edicao-limitada-desenvolvido-parceria-grupo/",
-        "summary": "Novo sabor foi desenvolvido em parceria com o grupo sul-coreano The post Oreo do BTS? Edição limitada do biscoito começa a ser vendida em agosto appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/OREO-BTS-Talent-Visual_Global_Horizontal.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Moraes ameaça afastar presidentes de tribunais e pede explicações sobre penduricalhos",
+        "link": "https://www.infomoney.com.br/politica/moraes-ameaca-afastar-presidentes-de-tribunais-e-pede-explicacoes-sobre-penduricalhos/",
+        "summary": "Ministro dá prazo de 48 horas para sete TJs apresentarem folhas de pagamento e detalharem verbas pagas a magistrados The post Moraes ameaça afastar presidentes de tribunais e pede explicações sobre penduricalhos appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-02T124443Z_520883081_RC2OJGA4Y5FB_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Apple sai do pódio e chips dominam seleção de ações internacionais; veja ranking",
-        "link": "https://www.infomoney.com.br/onde-investir/carteira-recomendada-bdr-julho-2026/",
-        "summary": "Amazon segue isolada na liderança das carteiras compiladas pelo InfoMoney, mas com três mudanças entre as mais recomendadas; confira o ranking The post Apple sai do pódio e chips dominam seleção de ações internacionais; ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-26T145001Z_49985133_RC2LEGA0KV76_RTRMADP_3_MICRON-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Governo decide enviar observador para audiência nos EUA que ouvirá Flávio Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/governo-decide-enviar-observador-para-audiencia-nos-eua-que-ouvira-flavio-bolsonaro/",
+        "summary": "Itamaraty não trata a audiência pública como canal de negociação, mas espaço para ouvir a sociedade civil e empresariado The post Governo decide enviar observador para audiência nos EUA que ouvirá Flávio Bolsonaro appear",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-02T130230Z_1573548033_RC2R1GASYA1I_RTRMADP_3_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Defesa de Bolsonaro deve entregar armas nesta segunda, após decisão de Moraes",
-        "link": "https://www.infomoney.com.br/politica/defesa-de-bolsonaro-deve-entregar-armas-nesta-segunda-apos-decisao-de-moraes/",
-        "summary": "Advogados afirmam que seis das oito armas listadas na decisão permanecem sob custódia do Exército e serão levadas à Polícia Federal; outras duas já haviam sido entregues em 2023 por determinação do TCU The post Defesa de",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-12T152748Z_1_LYNXNPEL8B0PZ_RTROPTP_4_POLITICA-BOLSONARO-CONDENADO-SAIBAMAIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Exportações brasileiras de frango atingem recordes em 2026 em volume e receita",
+        "link": "https://www.infomoney.com.br/business/exportacoes-brasileiras-de-frango-atingem-recordes-em-2026-em-volume-e-receita/",
+        "summary": "As ‌exportações no primeiro semestre totalizaram ⁠2,94 milhões de toneladas, um aumento de 12,9% em relação ao mesmo período do ano anterior, informou a ABPA The post Exportações brasileiras de frango atingem recordes em",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/2018-06-19_17-39-33_linha-de-operaA§Aµes-de-frango-em-rio-verde-go3-min.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Jogadores do Cabo Verde são recebidos como heróis ao retornar da Copa",
-        "link": "https://www.infomoney.com.br/esportes/jogadores-do-cabo-verde-sao-recebidos-como-herois-ao-retornar-da-copa/",
-        "summary": "Seleção retornou ao seu país após derrota de 3 a 2 para a Argentina nas oitavas de final The post Jogadores do Cabo Verde são recebidos como heróis ao retornar da Copa appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T091256Z_1_LYNXMPEM650KD_RTROPTP_4_SOCCER-WORLDCUP-CPV-HOMECOMING_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Starbucks retoma expansão no Brasil após crise com antiga operadora, diz jornal",
+        "link": "https://www.infomoney.com.br/business/starbucks-retoma-expansao-no-brasil-apos-crise-com-antiga-operadora-diz-jornal/",
+        "summary": "Com operação reorganizada após a troca de comando, Starbucks aposta em expansão e em lojas voltadas à convivência e ao trabalho The post Starbucks retoma expansão no Brasil após crise com antiga operadora, diz jornal app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/422477839.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Copa do mundo 2030: quais são as cidades favoritas para sediar o campeonato?",
-        "link": "https://exame.com/esporte/copa-do-mundo-2030-quais-sao-as-cidades-favoritas-para-sediar-o-campeonato/",
-        "summary": "Espanha, Portugal e Marrocos dividem 101 dos 104 jogos da Copa 2030. Veja quais estádios disputam a grande final e o peso de cada sede na candidatura",
+        "title": "Ele começou com uma sorveteria de 39 metros e hoje fatura R$ 100 milhões vendendo picolé a 1 real",
+        "link": "https://exame.com/negocios/ele-comecou-com-uma-sorveteria-de-39-metros-e-hoje-fatura-r-100-milhoes-vendendo-picole-a-1-real/",
+        "summary": "Fundada em Brasília, a Gelattos saltou de sete para 32 lojas depois da pandemia apostando no \"atacadão de sorvete\" — e agora usa a Copa do Mundo para atravessar o inverno, o período mais difícil do setor",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Entenda briga entre Trump e Meloni: de aliados a troca de ataques",
-        "link": "https://exame.com/mundo/entenda-briga-entre-trump-e-meloni-de-aliados-a-troca-de-ataques/",
-        "summary": "Presidente dos EUA voltou a ironizar a premiê italiana dias antes de um novo encontro entre os dois; troca de críticas começou após a cúpula do G7",
+        "title": "Chaveamento das quartas de final da Copa do Mundo: veja as seleções já classificadas",
+        "link": "https://exame.com/esporte/chaveamento-das-quartas-de-final-da-copa-do-mundo-veja-as-selecoes-ja-classificadas/",
+        "summary": "Mata-mata começa a ganhar forma, e quatro equipes já garantiram presença entre as oito melhores do Mundial de 2026",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ibovespa recua pressionado por Petrobras, Vale e bancos; dólar fica estável",
-        "link": "https://exame.com/invest/mercados/ibovespa-recua-pressionado-por-petrobras-vale-e-bancos-dolar-fica-estavel/",
-        "summary": "Nos EUA, S P 500 e Nasdaq mantêm o movimento positivo, na esteira de uma semana de fortes ganhos em Wall Street",
+        "title": "Fifa revela novo design da Trionda para a reta final da Copa do Mundo",
+        "link": "https://exame.com/esporte/fifa-revela-novo-design-da-trionda-para-a-reta-final-da-copa-do-mundo/",
+        "summary": "A bola do Mundial sofrerá mudanças a partir das semifinais e deixará as cores vermelha, verde e azul para adotar o dourado e o preto",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Henderson está fora da Copa? Jogador se machuca em comemoração da vitória da Inglaterra",
-        "link": "https://exame.com/esporte/henderson-esta-fora-da-copa-jogador-se-machuca-em-comemoracao-da-vitoria-da-inglaterra/",
-        "summary": "Volante caiu sobre uma placa de publicidade após vitória sobre o México, deixou o gramado de maca e foi levado ao hospital",
+        "title": "Quais profissionais estão em falta no Brasil com o avanço da inteligência artificial",
+        "link": "https://exame.com/inteligencia-artificial/quais-profissionais-estao-em-falta-no-brasil-com-o-avanco-da-inteligencia-artificial/",
+        "summary": "A transformação digital ampliou a demanda por especialistas em tecnologia, dados e inteligência artificial, enquanto empresas enfrentam dificuldades para preencher vagas",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mondelēz lança Oreo especial BTS, inspirada em sobremesa coreana",
-        "link": "https://exame.com/marketing/mondelez-lanca-oreo-especial-bts-inspirada-em-sobremesa-coreana/",
-        "summary": "Edição limitada desenvolvida em parceria com o grupo sul-coreano chega ao país em agosto",
+        "title": "Herói da Noruega contra o Brasil está sem clube e disputou só nove jogos em 2026",
+        "link": "https://exame.com/esporte/heroi-da-noruega-contra-o-brasil-esta-sem-clube-e-disputou-so-nove-jogos-em-2026/",
+        "summary": "Orjan Nyland defendeu pênalti de Bruno Guimarães, fez milagres nas oitavas da Copa do Mundo e agora pode mudar de patamar após eliminar a Seleção",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Microsoft corta 4.800 funcionários e mira vendas e Xbox em ajuste ligado à IA",
-        "link": "https://exame.com/tecnologia/microsoft-corta-4-800-funcionarios-e-mira-vendas-e-xbox-em-ajuste-ligado-a-ia/",
-        "summary": "Demissões atingem 2,1% da força de trabalho da empresa; memorando interno diz que vagas eliminadas não serão substituídas por IA",
+        "title": "Quanto tempo dura a faculdade de Economia e o que acontece em cada ano do curso",
+        "link": "https://exame.com/carreira/quanto-tempo-dura-a-faculdade-de-economia-e-o-que-acontece-em-cada-ano-do-curso/",
+        "summary": "Descubra a duração do curso de Ciências Econômicas e o que é estudado em cada etapa dessa jornada acadêmica",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
