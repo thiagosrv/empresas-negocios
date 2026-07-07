@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-06T22:17:16.565Z",
+  "updated": "2026-07-07T00:12:37.731Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Advogados são condenados após deixarem de repassar a cliente R$ 239 mil de ação ganha; polícia investiga outros casos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/06/advogados-condenados-deixarem-repassar-acao-ganha-cliente-policia-investiga-outros-casos.ghtml",
+        "summary": "Polícia investiga pai e filha advogados por desvios contra clientes em Campinas O escritório de advocacia Cremasco, de Campinas (SP), e os advogados José Antonio Cremasco e Thais Proença Cremasco foram condenados a pagar",
+        "image": "https://s2-g1.glbimg.com/bZoDN5CoHhrrS37iZ24_Xe7eBAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/L/H7zVl6SoqI9A5xuZSgUg/copia-de-design-sem-nome-7-.png",
         "date": "06 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Dólar cai a R$ 5,13, e bolsa recua em dia de ajuste no mercado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-r-513-e-bolsa-recua-em-dia-de-ajuste-no-mercado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-r-513-e-bolsa-recua-em-dia-de-ajuste-no-mercado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "06 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Cacique Raoni apresenta boa evolução clínica e vai para enfermaria",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/cacique-raoni-apresenta-boa-evolucao-clinica-e-vai-para-enfermaria",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/cacique-raoni-apresenta-boa-evolucao-clinica-e-vai-para-enfermaria img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "06 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Espanha bate Portugal em possível adeus de Cristiano Ronaldo às Copas",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-bate-portugal-em-possivel-adeus-de-cristiano-ronaldo-copas",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/espanha-bate-portugal-em-possivel-adeus-de-cristiano-ronaldo-copas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Banco Central e Receita Federal são autorizados a realizar concursos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-federal-e-banco-central-sao-autorizados-realizar-concursos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-federal-e-banco-central-sao-autorizados-realizar-concursos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Reforma tributária põe em risco crédito de 66,2% das notas fiscais",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reforma-tributaria-poe-em-risco-credito-de-662-das-notas-fiscais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reforma-tributaria-poe-em-risco-credito-de-662-das-notas-fiscais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "06 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Última Copa de CR7 tem recorde e atuação apagada em despedida",
-        "link": "https://www.gazetaesportiva.com/times/portugal/ultima-copa-de-cr7-tem-recorde-e-atuacao-apagada-em-despedida/",
-        "summary": "A eliminação de Portugal para a Espanha marcou a despedida de CR7 com a camisa da seleção portuguesa. Confira os números do ídolo. O post Última Copa de CR7 tem recorde e atuação apagada em despedida apareceu primeiro em",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9FD7RF__v1__MidRes__FblWc2026Match93PorEsp.webp",
+        "title": "Ancelotti quebra o silêncio após eliminação do Brasil: A dor é grande, mas a confiança não muda",
+        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-pronunciamento-eliminacao-brasil-copa-do-mundo-2026/",
+        "summary": "Carlo Ancelotti quebrou o silêncio após a eliminação da Seleção Brasileira para a Noruega nas oitavas de final da Copa do Mundo de 2026. Em mensagem publicada nas redes sociais, o treinador lamentou a derrota, destacou a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BQ4K9__v1__HighRes__FblWc2026Match91BraNor.webp",
+        "date": "07 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Brusque bate o Figueirense e assume a liderança da Série C",
+        "link": "https://www.gazetaesportiva.com/times/brusque/brusque-bate-o-figueirense-e-assume-a-lideranca-da-serie-c/",
+        "summary": "Nesta segunda-feira, o Brusque venceu o Figueirense por 3 a 1, no Estádio Augusto Bauer, pela 13ª rodada da Série C do Campeonato Brasileiro e assumiu a ponta da tabela da competição nacional. O post Brusque bate o Figue",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/0e5a8b7d-1999-4d42-b92d-bd5e7dfe2a83.jpg.avif",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos de Cristiano Ronaldo após a eliminação de Portugal",
-        "link": "https://www.gazetaesportiva.com/times/portugal/veja-fotos-de-cristiano-ronaldo-apos-a-eliminacao-de-portugal/",
-        "summary": "Confira uma galeria de Cristiano Ronaldo em seus últimos momentos na Copa do Mundo. O post Veja fotos de Cristiano Ronaldo após a eliminação de Portugal apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9FE99P__v1__MidRes__FblWc2026Match93PorEsp.webp",
+        "title": "Botafogo-SP vence Avaí e deixa o Z4 da Série B do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/botafogo-sp/botafogo-sp-vence-avai-e-deixa-o-z4-da-serie-b-do-brasileiro/",
+        "summary": "Nesta segunda-feira, o Botafogo-SP venceu o Avaí por 3 a 1, na Arena NicNet, em Ribeirão Preto, pela 16ª rodada da Série B do Campeonato Brasileiro e deixou a zona de rebaixamento. O post Botafogo-SP vence Avaí e deixa o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/SnapInsta.to_729424331_18598047664061433_351745580436833636_n.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tudo pronto para 75ª Prova Ciclística Internacional 9 de Julho",
-        "link": "https://www.gazetaesportiva.com/videos/tudo-pronto-para-75a-prova-ciclistica-internacional-9-de-julho/",
-        "summary": "O post Tudo pronto para 75ª Prova Ciclística Internacional 9 de Julho apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/julho.webp",
+        "title": "Ex-Flamengo, Jorge Jesus é o favorito para assumir a seleção de Portugal",
+        "link": "https://www.gazetaesportiva.com/times/portugal/ex-flamengo-jorge-jesus-e-o-favorito-para-assumir-a-selecao-de-portugal/",
+        "summary": "Jorge Jesus está próximo de assumir o comando da seleção de Portugal após a saída de Roberto Martínez. Escolhido pelo presidente da Federação Portuguesa de Futebol, Pedro Proença, o ex-treinador do Flamengo deve liderar ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/G50PiVrWIAAdUQi.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Inglaterra ganha embalo na Copa após batalha no Estádio Azteca",
-        "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-ganha-embalo-na-copa-apos-batalha-no-estadio-azteca/",
-        "summary": "A Inglaterra continuou sua caminhada na Copa do Mundo com uma vitória inesquecível e de tirar o fôlego sobre o México, um resultado aclamado como seu maior triunfo fora de casa. O post Inglaterra ganha embalo na Copa apó",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9C87B6__v4__HighRes__TopshotFblWc2026Match92MexEng.webp",
+        "title": "Wimbledon interrompe duelo entre Zverev e Lehecka por conta de toque de recolher",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/wimbledon-interrompe-duelo-entre-zverev-e-lehecka-por-conta-de-toque-de-recolher/",
+        "summary": "A partida entre Alexander Zverev e Jiri Lehecka, válida pelas oitavas de final de Wimbledon, foi suspensa devido ao toque de recolher do torneio. O alemão vencia por dois sets a zero e estava próximo de garantir vaga iné",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9FC26C__v1__MidRes__TennisGbrWimbledon.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Athletico-PR anuncia a renovação do atacante Leozinho até o final de 2028",
-        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-anuncia-a-renovacao-do-atacante-leozinho-ate-o-final-de-2028/",
-        "summary": "O Athletico-PR anunciou a renovação de contrato do atacante Leozinho até dezembro de 2028. Contratado junto ao Ituano em 2025, o jogador de 27 anos soma 43 partidas e quatro gols pelo clube, que ocupa a quarta colocação ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/leo.webp",
-        "date": "06 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos se reapresenta após amistoso e abre terceira semana de intertemporada",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-se-reapresenta-apos-amistoso-e-abre-terceira-semana-de-intertemporada/",
-        "summary": "O Santos se reapresentou nesta segunda-feira e iniciou a preparação para a sequência da temporada no CT Rei Pelé. O elenco ganhou folga no domingo após vencer o União São João por 3 a 0, no último sábado, em amistoso dis",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55378500913_20de57f9a2_k.webp",
+        "title": "Ancelotti iguala Tite e Dunga em aproveitamento na Copa; veja ranking",
+        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-iguala-tite-e-dunga-em-aproveitamento-na-copa-veja-ranking/",
+        "summary": "Apesar da eliminação nas oitavas de final da Copa do Mundo de 2026, Carlo Ancelotti encerrou sua primeira campanha à frente da Seleção Brasileira com o melhor aproveitamento do Brasil em Mundiais desde 2006. O treinador ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BP7TU__v1__MidRes__FblWc2026Match91BraNor.webp",
         "date": "06 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Dólar cai a R$ 5,13, e bolsa recua em dia de ajuste no mercado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-r-513-e-bolsa-recua-em-dia-de-ajuste-no-mercado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-r-513-e-bolsa-recua-em-dia-de-ajuste-no-mercado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "06 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Receita lança canal único de atendimento digital",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-lanca-canal-unico-de-atendimento-digital",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Publicação propõe alternativas para exploração de terras raras no país",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicacao-propoe-alternativas-para-exploracao-de-terras-raras-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "04 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Lotofácil hoje, concurso 3728: confira o resultado sorteado nesta segunda (6)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3728-confira-o-resultado-sorteado-nesta-segunda-6/",
+        "summary": "O prêmio para este concurso é de R$ 2 milhões The post Lotofácil hoje, concurso 3728: confira o resultado sorteado nesta segunda (6) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "07 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
-        "title": "Jaqueta preta do CEO da Nvidia será leiloada com lance mínimo de R$ 220 mil",
-        "link": "https://www.infomoney.com.br/mercados/jaqueta-preta-do-ceo-da-nvidia-sera-leiloada-com-lance-minimo-de-r-220-mil/",
-        "summary": "Peça autografada por Jensen Huang pode alcançar até US$ 60 mil em leilão da Sotheby’s; renda será destinada a projetos educacionais The post Jaqueta preta do CEO da Nvidia será leiloada com lance mínimo de R$ 220 mil app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-03T203908Z_1083261173_RC2SVIAHEADT_RTRMADP_3_NVIDIA-OPENAI.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "title": "Quina hoje, concurso 7058: confira o resultado sorteado nesta segunda (6)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7058-confira-o-resultado-sorteado-nesta-segunda-6/",
+        "summary": "O prêmio estimado para este concurso é de R$ 6.072.172,55 The post Quina hoje, concurso 7058: confira o resultado sorteado nesta segunda (6) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "07 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mercado Livre anuncia 28 mil vagas no setor de logística; saiba como se candidatar",
+        "link": "https://www.infomoney.com.br/carreira/mercado-livre-anuncia-28-mil-vagas-no-setor-de-logistica-saiba-como-se-candidatar/",
+        "summary": "As novas posições ampliarão a equipe de logística da companhia no país, de 49.800, em 2025, para mais de 78.100 funcionários até o encerramento deste ano, um crescimento superior a 50% The post Mercado Livre anuncia 28 m",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/mercado-livre-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Bélgica x Estados Unidos?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-belgica-estados-unidos/",
-        "summary": "O jogo das oitavas de final acontece no Estádio de Seattle, nos Estados Unidos, às 21h The post Onde assistir Bélgica x Estados Unidos? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-belgica-x-estados-unidos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Martínez confirma saída da seleção de Portugal; Jorge Jesus desponta como favorito",
+        "link": "https://www.infomoney.com.br/esportes/martinez-confirma-saida-da-selecao-de-portugal-jorge-jesus-desponta-como-favorito/",
+        "summary": "Portugal chegou à América do Norte como uma das seleções apontadas entre as favoritas, mas não convenceu em nenhuma das partidas até a eliminação The post Martínez confirma saída da seleção de Portugal; Jorge Jesus despo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T224818Z_1_LYNXMPEM651M2_RTROPTP_4_SOCCER-WORLDCUP-POR-ESP.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Bem-vindo à cidade de luxo erguida pelo boom da IA em Taiwan",
-        "link": "https://www.infomoney.com.br/business/global/bem-vindo-a-cidade-de-luxo-erguida-pelo-boom-da-ia-em-taiwan/",
-        "summary": "Fortunas, prédios de luxo e taxas de natalidade estão em alta na cidade no centro da cadeia de chips de Taiwan The post Bem-vindo à cidade de luxo erguida pelo boom da IA em Taiwan appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/TAIWAN-AI-BOOMTOWN-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Daniel Stieler renuncia à presidência do conselho da Vale",
+        "link": "https://www.infomoney.com.br/business/daniel-stieler-renuncia-a-presidencia-do-conselho-da-vale/",
+        "summary": "Stieler ​atuou ​como membro do ⁠conselho ​desde 2021 ​e como presidente ​do ⁠colegiado desde 2023 The post Daniel Stieler renuncia à presidência do conselho da Vale appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ancelotti presenteou técnico da Noruega após derrota do Brasil; veja",
-        "link": "https://www.infomoney.com.br/esportes/ancelotti-presenteou-tecnico-da-noruega-apos-derrota-do-brasil-veja/",
-        "summary": "Seleção Brasileira foi amplamente dominada pelos noruegueses e deu adeus à Copa do Mundo The post Ancelotti presenteou técnico da Noruega após derrota do Brasil; veja appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T201049Z_1023954648_UP1EM751K20AM_RTRMADP_3_SOCCER-WORLDCUP-BRA-NOR.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
+        "title": "Por que técnico do Egito ergueu bandeira palestina após classificação na Copa",
+        "link": "https://www.infomoney.com.br/esportes/por-que-tecnico-do-egito-ergueu-bandeira-palestina-apos-classificacao-na-copa/",
+        "summary": "Vídeo de Hossam Hassan com a bandeira palestina após a vitória do Egito sobre a Austrália chamou atenção para a postura política do técnico The post Por que técnico do Egito ergueu bandeira palestina após classificação n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-03T210859Z_1658161784_UP1EM731MQXIF_RTRMADP_3_SOCCER-WORLDCUP-AUS-EGY.jpg?fit=300%2C216&amp;quality=70&amp;strip=all",
         "date": "06 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "ASSISTA AO GOL: Espanha marca nos acréscimos e elimina Portugal de Cristiano Ronaldo",
-        "link": "https://www.infomoney.com.br/esportes/jogo-espanha-portugal-copa-2026/",
-        "summary": "Mikel Merino entrou aos 39 minutos do segundo tempo e seis minutos depois fez o gol da classificação da Espanha The post ASSISTA AO GOL: Espanha marca nos acréscimos e elimina Portugal de Cristiano Ronaldo appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T212800Z_649879885_UP1EM761LQJIT_RTRMADP_3_SOCCER-WORLDCUP-POR-ESP.jpg?fit=300%2C189&amp;quality=70&amp;strip=all",
-        "date": "06 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Governo autoriza concursos para Receita e Banco Central; editais saem em até 6 meses",
-        "link": "https://www.infomoney.com.br/carreira/concursos-receita-federal-e-banco-central/",
-        "summary": "Portarias publicadas pelo Ministério da Gestão liberam novas seleções para cargos de níveis médio e superior The post Governo autoriza concursos para Receita e Banco Central; editais saem em até 6 meses appeared first on",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Concurso-Dataprev.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "06 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Moura Dubeux atinge R$ 1 bi em lançamentos e em vendas no segundo trimestre",
-        "link": "https://exame.com/invest/mercados/moura-dubeux-atinge-r-1-bi-em-lancamentos-e-em-vendas-no-segundo-trimestre/",
-        "summary": "A companhia totalizou R$ 1 bilhão de lançamentos no período, distribuídos em 6 novos empreendimentos",
+        "title": "Reforma tributária: 66% das notas fiscais têm falhas que podem comprometer créditos, diz estudo",
+        "link": "https://exame.com/economia/reforma-tributaria-66-das-notas-fiscais-tem-falhas-que-podem-comprometer-creditos-diz-estudo/",
+        "summary": "O levantamento aponta que a adaptação da cadeia de fornecedores ainda está em estágio inicial",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "China vence a Copa do Mundo dos robôs humanoides pela segunda vez seguida",
-        "link": "https://exame.com/tecnologia/china-vence-a-copa-do-mundo-dos-robos-humanoides-pela-segunda-vez-seguida/",
-        "summary": "A equipe Tsinghua Vulcan garantiu o título no torneio, encerrado no domingo, 5, em Incheon, na Coreia do Sul",
+        "title": "Balogun joga hoje? Jogador teve expulsão revertida pela Fifa após 'bronca' de Trump",
+        "link": "https://exame.com/esporte/balogun-joga-hoje-jogador-teve-expulsao-revertida-pela-fifa-apos-bronca-de-trump/",
+        "summary": "O atacante foi confirmado no time titular dos Estados Unidos para o duelo contra a Bélgica pelas oitavas de final da Copa do Mundo",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "China aposta no hidrogênio verde e amplia investimentos para acelerar transição energética",
-        "link": "https://exame.com/ciencia/china-aposta-no-hidrogenio-verde-e-amplia-investimentos-para-acelerar-transicao-energetica/",
-        "summary": "Nos últimos anos, o hidrogênio passou a ganhar espaço em aplicações como lançamentos de foguetes, transporte, pesquisa científica e processos industriais",
+        "title": "Isabel Johansen: a história da ex-jogadora que conquistou Haaland antes da fama",
+        "link": "https://exame.com/pop/isabel-johansen-a-historia-da-ex-jogadora-que-conquistou-haaland-antes-da-fama/",
+        "summary": "Aos 22 anos, Isabel Johansen vive uma nova fase profissional enquanto acompanha de perto a trajetória de Haaland dentro e fora dos gramados",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Parque da LEGO na China bate recorde de público em apenas um ano",
-        "link": "https://exame.com/pop/parque-da-lego-na-china-bate-recorde-de-publico-em-apenas-um-ano/",
-        "summary": "O LEGOLAND Shanghai Resort, primeiro parque da marca na China, ultrapassou a marca de 2 milhões de visitantes em seu primeiro ano de operação",
+        "title": "Estados Unidos x Bélgica: veja as escalações confirmadas para o jogo de hoje da Copa",
+        "link": "https://exame.com/esporte/estados-unidos-x-belgica-veja-as-escalacoes-confirmadas-para-o-jogo-de-hoje-da-copa/",
+        "summary": "O confronto é válido pelas oitavas de final da Copa do Mundo de 2026, e a bola vai rolar às 21h, no Lumen Field, em Seattle",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Espanha faz gol no apagar das luzes, elimina Portugal e garante vaga nas quartas de final",
-        "link": "https://exame.com/esporte/espanha-faz-gol-no-apagar-das-luzes-elimina-portugal-e-garante-vaga-nas-quartas-de-final/",
-        "summary": "Merino marcou para os espanholes aos 45' da segunda etapa e garantiu a vaga na próxima fase do torneio",
+        "title": "Trump diz que Walmart vai cortar preço da carne moída como 'ato patriótico'",
+        "link": "https://exame.com/agro/trump-diz-que-walmart-vai-cortar-preco-da-carne-moida-como-ato-patriotico/",
+        "summary": "A manifestação de Trump ocorre em um momento em que a Casa Branca tenta demonstrar aos eleitores que está atuando para conter o custo de vida antes das eleições legislativas de meio de mandato",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Miami Heat confirma Antetokounmpo como novo reforço",
-        "link": "https://exame.com/esporte/miami-heat-confirma-antetokounmpo-como-novo-reforco/",
-        "summary": "Campeão da NBA com os Bucks na temporada 2020/21, Antetokounmpo demonstrava insatisfação com a falta de perspectivas competitivas da franquia nos últimos anos",
+        "title": "Justin Bieber pode dividir palco com Madonna, Shakira e BTS na final da Copa do Mundo",
+        "link": "https://exame.com/pop/justin-bieber-pode-dividir-palco-com-madonna-shakira-e-bts-na-final-da-copa-do-mundo/",
+        "summary": "Show do intervalo da decisão do Mundial promete reunir alguns dos maiores nomes da música em uma estreia histórica para a FIFA",
         "image": null,
         "date": "06 de jul. de 2026",
         "source": "Exame",
