@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-08T00:14:19.759Z",
+  "updated": "2026-07-08T03:48:29.011Z",
   "totalOk": 3,
   "items": [
+    {
+      "title": "Endrick lamenta eliminação do Brasil na Copa e promete: &#8220;Voltaremos mais fortes&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/endrick-se-pronuncia-apos-eliminacao-do-brasil-e-promete-voltaremos-mais-fortes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "08 de jul. de 2026",
+      "isoDate": "2026-07-08",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f406.png"
+    },
     {
       "title": "Ancelotti publica recado após eliminação do Brasil: &#8220;A dor é grande, mas a confiança não muda&#8221;",
       "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-pronunciamento-eliminacao-brasil-copa-do-mundo-2026/",
@@ -11,7 +22,7 @@
       "isoDate": "2026-07-07",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil expõe seus problemas de identidade e qualidade na Copa do Mundo",
@@ -22,7 +33,7 @@
       "isoDate": "2026-07-07",
       "category": "Copa do Mundo",
       "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Pai vê Neymar como inspiração de jovens craques e faz pedido: &#8220;Continue a jogar futebol&#8221;",
@@ -33,7 +44,7 @@
       "isoDate": "2026-07-07",
       "category": "Copa do Mundo",
       "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Bruno Guimarães desabafa após pênalti perdido em queda do Brasil na Copa: &#8220;Pior dor dos meus 28 anos&#8221;",
@@ -55,7 +66,7 @@
       "isoDate": "2026-07-07",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Martinelli admite decepção com eliminação do Brasil na Copa: “Parecia tão próximo”",
@@ -66,17 +77,6 @@
       "isoDate": "2026-07-07",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Argentino Paredes comenta eliminação do Brasil: &#8220;Não surpreende&#8221;",
-      "link": "https://www.gazetaesportiva.com/times/brasil/paredes-eliminacoes-copa-nao-surpreendem/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "06 de jul. de 2026",
-      "isoDate": "2026-07-06",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
@@ -88,7 +88,7 @@
       "isoDate": "2026-07-06",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
