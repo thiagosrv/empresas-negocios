@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T00:20:02.242Z",
+  "updated": "2026-07-09T05:05:31.377Z",
   "totalOk": 3,
   "items": [
     {
@@ -89,6 +89,17 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
+      "link": "https://www.gazetaesportiva.com/times/avai/avai-3x0-chapecoense-final-copa-sul-sudeste/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "04 de jun. de 2026",
+      "isoDate": "2026-06-04",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26bd.png"
     },
     {
       "title": "Melhores momentos: São Paulo 2 x 0 Boston River pela Copa Sul-Americana",
@@ -187,7 +198,7 @@
       "isoDate": "2026-04-28",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Freytes supera má fase após buscar psicólogo e ressalta apoio no Fluminense: &#8220;Me ajudou muito&#8221;",
@@ -232,17 +243,6 @@
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2694.png"
-    },
-    {
-      "title": "Filipe Luís rebate críticas e analisa volta do Flamengo principal",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/filipe-luis-flamengo-vasco/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "22 de jan. de 2026",
-      "isoDate": "2026-01-22",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png"
     },
     {
       "title": "Anselmi confirma acerto de ídolo do Botafogo com time rival",
