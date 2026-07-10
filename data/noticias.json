@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-10T16:59:19.226Z",
+  "updated": "2026-07-10T18:39:20.613Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Furtos e roubos contra motoristas de aplicativo aumentam 48% em Campinas; categoria cria rede de proteção",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/10/furtos-e-roubos-contra-motoristas-de-aplicativo-aumentam-48percent-em-campinas-categoria-cria-rede-de-protecao.ghtml",
+        "summary": "Roubos e furtos contra motoristas de aplicativo sobem 48% em Campinas Dados da Secretaria de Segurança Pública (SSP) mostram que os registros de furtos e roubos contra motoristas de aplicativo cresceram 48% em Campinas (",
+        "image": "https://s2-g1.glbimg.com/EMM8SlChqrma78h0KvkJZHtjwdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/um1MmqT4OQMvUYhcaXAQ/capas-ana-3-.jpg",
+        "date": "10 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Terra da Gente percorre Rio Uruguai em busca de um dos peixes mais velozes do Brasil",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/10/terra-da-gente-percorre-rio-uruguai-em-busca-de-um-dos-peixes-mais-velozes-do-brasil.ghtml",
@@ -48,16 +58,6 @@
         "summary": "Imagem de arquivo de José Antonio Cremasco Reprodução/EPTV O advogado José Antonio Cremasco, acusado de deixar de repassar a clientes dinheiro de ações ganhas, descumpriu por três vezes prazos para pagamento de uma supos",
         "image": "https://s2-g1.glbimg.com/y7C8-N0D_xiAwpkW5L7jpQEm2Cc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/c/QhjFVFTDaPOj0AvD439w/copia-de-area-1-40-.png",
         "date": "10 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mulher é morta esfaqueada após briga por dívida em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/09/mulher-morre-esfaqueada-em-apartamento-em-campinas-suspeito-e-amigo-da-familia-da-vitima.ghtml",
-        "summary": "Mulher é morta a facadas em apartamento no Cambuí em Campinas Uma mulher, de 57 anos, foi morta a facadas em um apartamento no bairro Cambuí, em Campinas (SP), na tarde desta quinta-feira (9). Um homem é suspeito do crim",
-        "image": "https://s2-g1.glbimg.com/bUDgiHqCeNAGc-DLjIa_fDI4xPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/WFJuOzRPW78P26CWiSQA/vlcsnap-2026-07-09-19h45m16s447.png",
-        "date": "09 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Dino bloqueia R$ 119 milhões de Valdemar por suspeitas em emendas",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/dino-bloqueia-r-119-milhoes-de-valdemar-por-suspeitas-em-emendas",
+        "summary": "p strong O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (10) o bloqueio de R$ 119 milhões em bens que estão em nome do presidente do PL, Valdemar Costa Neto. /strong img src= http",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Jogadores do Egito são recebidos como heróis após atuação na Copa",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -171,83 +181,73 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "PND 2026 tem último dia de inscrição nesta sexta-feira",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-tem-ultimo-dia-para-inscricao-nesta-sexta-feira",
-        "summary": "p strong A segunda edição da Prova Nacional Docente - PND 2026 - tem inscrições abertas até às 23h59 desta sexta-feira (10). /strong O prazo, que terminaria no último dia 3, foi prorrogado pelo Instituto Nacional de Estu",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Corinthians começa a retirar cadeiras do setor sul da Arena",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-comeca-a-retirar-cadeiras-do-setor-sul-da-arena/",
-        "summary": "Veja detalhes da reforma na Neo Química Arena que iniciou nesta sexta. O Corinthians irá remover as cadeiras do setor sul. O post Corinthians começa a retirar cadeiras do setor sul da Arena apareceu primeiro em Gazeta Es",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/178369899006a9d51e04213572ef0720dd27a84792.webp",
+        "title": "Cristiano Ronaldo nunca será um problema para Portugal, diz Jorge Jesus",
+        "link": "https://www.gazetaesportiva.com/times/portugal/cristiano-ronaldo-nunca-sera-um-problema-para-portugal-diz-jorge-jesus/",
+        "summary": "Apresentado como novo técnico de Portugal, Jorge Jesus afirmou que Cristiano Ronaldo “nunca será um problema” para a seleção, apesar das críticas recebidas pelo desempenho do atacante na Copa do Mundo de 2026. O treinado",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9V87XK__v1__HighRes__FblPorPresser.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Guarani anuncia contratação de Éverton Brito",
-        "link": "https://www.gazetaesportiva.com/times/guarani/guarani-anuncia-contratacao-de-everton-brito/",
-        "summary": "O Guarani anunciou a contratação do atacante Éverton Brito, que assinou contrato até novembro de 2027. A chegada do jogador faz parte da negociação que levou Guilherme Parede para o América-MG. Revelado pelo Palmeiras, É",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55353805816_a730161ee9_k.webp",
+        "title": "Sinner vence Djokovic e vai enfrentar Zverev na final de Wimbledon",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sinner-vence-djokovic-e-vai-enfrentar-zverev-na-final-de-wimbledon/",
+        "summary": "O tenista italiano Jannik Sinner, número 1 do mundo e campeão de Wimbledon em 2025, buscará o bicampeonato no torneio londrino após derrotar nas semifinais desta sexta-feira o sérvio Novak Djokovic, que com esta derrota ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9VN74A__v1__HighRes__TennisGbrWimbledon.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Thierry Henry comemora com Mbappé após vitória sobre o Marrocos",
-        "link": "https://www.gazetaesportiva.com/times/franca/thierry-henry-comemora-com-mbappe-apos-vitoria-sobre-o-marrocos/",
-        "summary": "Thierry Henry comemora com Mbappé após vitória sobre o Marrocos O post Thierry Henry comemora com Mbappé após vitória sobre o Marrocos apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Thierry-He.webp",
+        "title": "São Paulo faz últimos ajustes e fecha preparação para jogos-treino",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-faz-ultimos-ajustes-e-fecha-preparacao-para-jogos-treino/",
+        "summary": "O São Paulo finalizou a preparação para os jogos-treino deste sábado contra Primavera e Santo André, no SuperCT, e deve ter um reforço para as atividades. Confira. O post São Paulo faz últimos ajustes e fecha preparação ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/img_9641-jpg-1229x1536-1.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Zverev vai à final de Wimbledon após recente título de Roland Garros",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-vai-a-final-de-wimbledon-apos-recente-titulo-de-roland-garros/",
-        "summary": "Alexander Zverev venceu o britânico Arthur Féry por 3 sets a 0 e avançou à final de Wimbledon pela primeira vez na carreira. O alemão disputará o título contra Jannik Sinner ou Novak Djokovic e pode conquistar o torneio ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9V6669__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Manzambi vai desfalcar Suíça contra Argentina devido a lesão",
+        "link": "https://www.gazetaesportiva.com/times/argentina/manzambi-vai-desfalcar-suica-contra-argentina-devido-a-lesao/",
+        "summary": "O meio-campista Johan Manzambi, destaque da Suíça na Copa do Mundo de 2026, está fora das quartas de final contra a Argentina. O jogador de 20 anos sofreu uma lesão no joelho esquerdo durante um treino e não se recuperou",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260707__2285102793__v1__HighRes__SwitzerlandVColombiaRoundOf16FifaWorldCup202.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Luisa Stefani faz história e avança à final de Wimbledon ao lado de canadense",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/luisa-stefani-faz-historia-e-avanca-a-final-de-wimbledon-ao-lado-de-canadense/",
-        "summary": "Luisa Stefani e Gabriela Dabrowski derrotaram Shuko Aoyama e Chan Hao-ching por 2 sets a 0 e garantiram vaga na final de duplas femininas de Wimbledon. A brasileira disputará sua primeira decisão na modalidade no torneio",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/lui.webp",
+        "title": "Veja galeria de fotos do treino do São Paulo nesta sexta-feira",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-sexta-feira-8/",
+        "summary": "O post Veja galeria de fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/img_9638-jpg-1229x1536-1.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Dibu Martínez exibe novo visual em treino da Argentina",
-        "link": "https://www.gazetaesportiva.com/times/argentina/dibu-martinez-exibe-novo-visual-em-treino-da-argentina/",
-        "summary": "Dibu Martínez exibe novo visual em treino da Argentina O post Dibu Martínez exibe novo visual em treino da Argentina apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Dib.webp",
+        "title": "Meia celebra gol decisivo pelo Palmeiras e prega cautela para volta das quartas do Brasileiro sub-20",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/meia-celebra-gol-decisivo-pelo-palmeiras-brasileiro-sub-20/",
+        "summary": "O Palmeiras abriu vantagem na decisão das quartas de final do Campeonato Brasileiro sub-20. O meio-campista Vinicius Lima saiu do banco de reservas para anotar o gol que deu a vitória por 1 a 0 às Crias da Academia sobre",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/vinicius-palmeiras-brasileiro-sub-20.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Como conversa de duas horas com técnico fez Lukaku...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16984262/como-conversa-duas-horas-tecnico-fez-lukaku-se-reencontrar-belgica-aceita-papel-reserva-comecar-como-titular-seria-autodestrutivo",
-        "summary": "null",
+        "title": "Siga Espanha x Bélgica e ASSISTA na CazéTV, dispon...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16976056/espanha-x-belgica-siga-tempo-real-jogo-copa-do-mundo",
+        "summary": "Duelo em Los Angeles vale uma vaga na semifinal do Mundial",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "ESPN Brasil",
@@ -255,29 +255,9 @@
         "cls": "startups"
       },
       {
-        "title": "De 'não nos respeitam' a 'falaria no restaurante',...",
-        "link": "https://www.espn.com.br/disneyplus/artigo/_/id/16984051/yamal-x-courtois-virou-duelo-particular-espanha-copa-e-o-que-assistir-no-disneyplus",
-        "summary": "null",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Técnico da Espanha admite Yamal ainda 'abaixo' na ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16983711/copa-do-mundo-tecnico-espanha-admite-lamine-yamal-ainda-abaixo-promete-melhor-esta-por-vir",
-        "summary": "Coletiva foi realizada nesta quinta-feira (9), véspera da partida da Espanha contra Bélgica",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Gustavo Hofman: Espanha é favorita contra a Bélgic...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16982258/copa-do-mundo-espanha-acordou-favorita-belgica-o-que-explica-mudanca",
-        "summary": "null",
+        "title": "Sinner 'atropela' Djokovic, aumenta retrospecto po...",
+        "link": "https://www.espn.com.br/tenis/artigo/_/id/16985523/sinner-atropela-djokovic-aumenta-retrospecto-positivo-sobre-servio-avanca-final-wimbledon",
+        "summary": "Sinner vai encarar Zverev na decisão",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "ESPN Brasil",
@@ -297,6 +277,26 @@
       {
         "title": "Além da 'caça' a Messi: cinco números de Mbappé em...",
         "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16983244/alem-caca-messi-cinco-numeros-mbappe-copas-impressionam-apos-franca-x-marrocos",
+        "summary": "null",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Técnico de Marrocos faz promessa ousada para a Cop...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16984096/tecnico-marrocos-faz-promessa-ousada-copa-mundo-2030-acredito-nisso",
+        "summary": "null",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Quanto presidente da Fifa já viajou na Copa do Mun...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16981365/quanto-presidente-fifa-ja-viajou-copa-do-mundo-ver-jogos-investigamos",
         "summary": "null",
         "image": null,
         "date": "10 de jul. de 2026",
@@ -367,49 +367,39 @@
         "cls": ""
       },
       {
-        "title": "Saiba quem é Tuca, apontada por Dino como quem dava suporte para Valdemar em emendas",
-        "link": "https://www.infomoney.com.br/politica/saiba-quem-e-tuca-apontada-por-dino-como-quem-dava-suporte-para-valdemar-em-emendas/",
-        "summary": "Responsável pelo controle e pela destinação de verbas parlamentares, servidora é próxima de Arthur Lira e Hugo Motta e era tratada como chefe de Poder na Esplanada The post Saiba quem é Tuca, apontada por Dino como quem ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Captura-de-tela-2026-01-18-101308.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "title": "ANP vai mediar disputa entre Petrobras e PPSA para acesso a infraestruturas de gás",
+        "link": "https://www.infomoney.com.br/business/anp-vai-mediar-disputa-entre-petrobras-e-ppsa-para-acesso-a-infraestruturas-de-gas/",
+        "summary": "Empresas disputam por acesso a gasodutos de escoamento e instalações de tratamento e processamento de gás natural do pré-sal The post ANP vai mediar disputa entre Petrobras e PPSA para acesso a infraestruturas de gás app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-15T191150Z_1_LYNXMPEM4E1EG_RTROPTP_3_BRAZIL-PETROBRAS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Depois de céu e inferno no 1º semestre, fluxo estrangeiro se recupera em julho?",
-        "link": "https://www.infomoney.com.br/mercados/depois-de-ceu-e-inferno-no-1o-semestre-fluxo-estrangeiro-se-recupera-em-julho/",
-        "summary": "Estudo da Elos Ayta mostra que praticamente toda a entrada líquida de capital estrangeiro do 1º semestre aconteceu entre janeiro e março; segundo trimestre registrou uma das maiores saídas trimestrais da série histórica ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Ibovespa.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Anvisa determina apreensão de lotes falsificados de Mounjaro",
+        "link": "https://www.infomoney.com.br/saude/anvisa-determina-apreensao-de-lotes-falsificados-de-mounjaro/",
+        "summary": "Alerta teria partido da própria Eli Lilly, farmacêutica detentora do registro do Mounjaro, que identificou no mercado nacional unidades com características divergentes do padrão original de fábrica The post Anvisa determ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/haberdoedas-TzKc7FGaL7Y-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Fechou o valor do Valdemar: mensagens mostram atuação de presidente do PL em emendas",
-        "link": "https://www.infomoney.com.br/politica/fechou-o-valor-do-valdemar-mensagens-mostram-atuacao-de-presidente-do-pl-em-emendas/",
-        "summary": "Diálogos identificados pela PF mostra atuação de Valdemar na Câmara mesmo sem mandato de deputado The post Fechou o valor do Valdemar: mensagens mostram atuação de presidente do PL em emendas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/02/pl_imprensa_mcajr_abr_2311222328.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Entre montanhas e o Pacífico: o refúgio de Ancelotti após eliminação na Copa",
+        "link": "https://www.infomoney.com.br/esportes/refugio-de-ancelotti/",
+        "summary": "Na casa em West Vancouver, o técnico da seleção brasileira costuma passar períodos de descanso com a família The post Entre montanhas e o Pacífico: o refúgio de Ancelotti após eliminação na Copa appeared first on InfoMon",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Refugio-de-Ancelotti-em-British-Columbia-Canada.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e retoma os 177 mil pontos",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10072026/",
-        "summary": "Bolsas dos EUA têm leves ganhos e devem encerrar semana em alta The post Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e retoma os 177 mil pontos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-27-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "STF determina bloqueio de bens de Valdemar Costa Neto por emendas irregulares",
-        "link": "https://www.infomoney.com.br/politica/stf-determina-bloqueio-de-bens-de-valdemar-costa-neto-por-emendas-irregulares/",
-        "summary": "STF bloqueia bens de Valdemar Costa Neto por suspeita de direcionamento irregular de R$119 mi em emendas The post STF determina bloqueio de bens de Valdemar Costa Neto por emendas irregulares appeared first on InfoMoney.",
+        "title": "Valdemar nega atuação irregular em emendas após bloqueio de bens pelo STF",
+        "link": "https://www.infomoney.com.br/politica/valdemar-nega-atuacao-irregular-em-emendas-apos-bloqueio-de-bens-pelo-stf/",
+        "summary": "Dino apontou influência “espantosa” do presidente do PL sobre servidores da Câmara The post Valdemar nega atuação irregular em emendas após bloqueio de bens pelo STF appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/1_vcn-28-08-23-1-34201887-42001905-59005407.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
@@ -417,19 +407,29 @@
         "cls": "brasil"
       },
       {
-        "title": "Espanha x Bélgica: modelo matemático aponta possível resultado do jogo; veja",
-        "link": "https://www.infomoney.com.br/esportes/espanha-x-belgica-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
-        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta sexta-feira, 10 The post Espanha x Bélgica: modelo matemático aponta possível resultado do jogo; veja appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/1007_Espanha_Belgica.png?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Ações da SK Hynix disparam 14% em estreia nos EUA impulsionadas por euforia com IA",
+        "link": "https://www.infomoney.com.br/mercados/acoes-da-sk-hynix-disparam-14-em-estreia-nos-eua-impulsionadas-por-euforia-com-ia/",
+        "summary": "Fabricante sul-coreana de chips é a mais recente empresa a aproveitar a onda de interesse dos investidores em companhias vistas como grandes beneficiárias da revolução da IA The post Ações da SK Hynix disparam 14% em est",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T160447Z_1_LYNXMPEM690YJ_RTROPTP_4_SK-HYNIX-LISTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nubank recebe autorização para iniciar operações como banco no México",
-        "link": "https://exame.com/invest/mercados/nubank-recebe-autorizacao-para-iniciar-operacoes-como-banco-no-mexico/",
-        "summary": "Com mais de 15 milhões de clientes, a instituição deve se tornar o maior banco digital do país e reforça aposta em produtos 100% digitais",
+        "title": "Passageiro da Ryanair é parcialmente sugado para fora da janela durante voo na Grécia",
+        "link": "https://www.infomoney.com.br/mundo/passageiro-da-ryanair-e-parcialmente-sugado-para-fora-da-janela-durante-voo-na-grecia/",
+        "summary": "A companhia aérea informou que uma pessoa recebeu atendimento médico, mas não deu mais detalhes sobre a causa do incidente The post Passageiro da Ryanair é parcialmente sugado para fora da janela durante voo na Grécia ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T141643Z_1_LYNXMPEM690SV_RTROPTP_4_RYANAIR-GREECE-EMERGENCY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "10 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "CEO da Nvidia diz que sua equipe substituiu a programação de códigos por agentes de IA autônomos",
+        "link": "https://exame.com/inteligencia-artificial/ceo-da-nvidia-diz-que-sua-equipe-substituiu-a-programacao-de-codigos-por-agentes-de-ia-autonomos/",
+        "summary": "Para Jensen Huang, CEO da Nvidia, a inteligência artificial redefine o papel do engenheiro de software, uma vez que eles preferem programar agentes de IA a escrever códigos da forma tradicional",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -437,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Adeus à Panini: por que o álbum da Copa do Mundo pode nunca mais ser o mesmo",
-        "link": "https://exame.com/esporte/adeus-a-panini-por-que-o-album-da-copa-do-mundo-pode-nunca-mais-ser-o-mesmo/",
-        "summary": "Após mais de cinco décadas, a Panini perderá a licença oficial da Copa do Mundo; entenda o que muda para colecionadores",
+        "title": "Como criar apresentações em minutos usando todo o potencial da inteligência artificial",
+        "link": "https://exame.com/inteligencia-artificial/como-criar-apresentacoes-em-minutos-usando-todo-o-potencial-da-inteligencia-artificial/",
+        "summary": "Entenda como usar a IA para reduzir o tempo de produção de apresentações sem abrir mão da qualidade do conteúdo",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -447,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Espanha x Bélgica: veja horário e onde assistir ao jogo das quartas da Copa do Mundo hoje",
-        "link": "https://exame.com/esporte/espanha-x-belgica-veja-horario-e-onde-assistir-ao-jogo-das-quartas-da-copa-do-mundo-hoje/",
-        "summary": "A partida será disputada no SoFi Stadium, em Los Angeles, nos Estados Unidos",
+        "title": "Yamal joga hoje? Veja a escalação confirmada da Espanha para enfrentar a Bélgica",
+        "link": "https://exame.com/esporte/yamal-joga-hoje-veja-a-escalacao-confirmada-da-espanha-para-enfrentar-a-belgica/",
+        "summary": "Luis de la Fuente mantém a base da equipe que eliminou Portugal e aposta na força do meio-campo para buscar vaga na semifinal da Copa do Mundo",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -457,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Wagner Moura na Marvel? Ator pode viver o vilão que mudou a história dos X-Men",
-        "link": "https://exame.com/pop/wagner-moura-na-marvel-ator-pode-viver-o-vilao-que-mudou-a-historia-dos-x-men/",
-        "summary": "Especulação indica que o brasileiro é o principal nome para viver o icônico Sr. Sinistro no reboot dos X-Men, dirigido por Jake Schreier",
+        "title": "EUA preveem que El Niño será um dos mais fortes da história neste ano",
+        "link": "https://exame.com/mundo/eua-preveem-que-el-nino-sera-um-dos-mais-fortes-da-historia-neste-ano/",
+        "summary": "Atualização da agência dos Estados Unidos aponta aumento das chances de um dos episódios mais intensos desde 1950 e manutenção do fenômeno até 2027",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -467,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como essa aluna de 18 anos da Rio International School é aprovada em 10 universidades dos EUA",
-        "link": "https://exame.com/carreira/como-essa-aluna-de-18-anos-da-rio-international-school-e-aprovada-em-10-universidades-dos-eua/",
-        "summary": "Jovem carioca superou barreiras com o idioma e conquistou vaga na California State University",
+        "title": "A nova NR-1 interfere no modelo de trabalho híbrido?",
+        "link": "https://exame.com/bussola/a-nova-nr-1-interfere-no-modelo-de-trabalho-hibrido/",
+        "summary": "A inclusão dos riscos psicossociais no PGR obriga empresas a adotarem novos cuidados contínuos com a saúde mental das equipes remotas e presenciais",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -477,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem é Tielemans, que superou De Bruyne e Lukaku e virou capitão da Bélgica",
-        "link": "https://exame.com/esporte/quem-e-tielemans-que-superou-de-bruyne-e-lukaku-e-virou-capitao-da-belgica/",
-        "summary": "Mesmo com nomes consagrados no elenco, o meio-campista assumiu a capitania da seleção belga, que encara a Espanha nas quartas de final da Copa",
+        "title": "Qual é o profissional que ‘lê’ a chuva antes que ela vire crise?",
+        "link": "https://exame.com/esg/qual-e-o-profissional-que-le-a-chuva-antes-que-ela-vire-crise/",
+        "summary": "Quando energia e resiliência urbana dependem de disponibilidade hídrica, a engenharia de recursos hídricos se torna o pilar da segurança operacional",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
