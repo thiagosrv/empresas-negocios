@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T14:41:19.813Z",
+  "updated": "2026-07-10T16:59:19.226Z",
   "feeds": {
     "campinas": [
       {
@@ -33,16 +33,6 @@
         "cls": "brasil"
       },
       {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
-        "date": "10 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
         "title": "Moradores de Paulínia precisam deixar casas por conta de rachaduras após falha em esgoto",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/10/moradores-de-paulinia-precisam-deixar-casas-por-conta-de-rachaduras-apos-falha-em-esgoto.ghtml",
         "summary": "Três casas são isoladas após rachaduras no Jardim Flamboyant, em Paulínia Oito moradores de Paulínia (SP) precisaram deixar as suas casas por conta de rachaduras e trincas que surgiram nos imóveis nesta semana. Ao todo, ",
@@ -58,6 +48,16 @@
         "summary": "Imagem de arquivo de José Antonio Cremasco Reprodução/EPTV O advogado José Antonio Cremasco, acusado de deixar de repassar a clientes dinheiro de ações ganhas, descumpriu por três vezes prazos para pagamento de uma supos",
         "image": "https://s2-g1.glbimg.com/y7C8-N0D_xiAwpkW5L7jpQEm2Cc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/c/QhjFVFTDaPOj0AvD439w/copia-de-area-1-40-.png",
         "date": "10 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mulher é morta esfaqueada após briga por dívida em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/09/mulher-morre-esfaqueada-em-apartamento-em-campinas-suspeito-e-amigo-da-familia-da-vitima.ghtml",
+        "summary": "Mulher é morta a facadas em apartamento no Cambuí em Campinas Uma mulher, de 57 anos, foi morta a facadas em um apartamento no bairro Cambuí, em Campinas (SP), na tarde desta quinta-feira (9). Um homem é suspeito do crim",
+        "image": "https://s2-g1.glbimg.com/bUDgiHqCeNAGc-DLjIa_fDI4xPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/WFJuOzRPW78P26CWiSQA/vlcsnap-2026-07-09-19h45m16s447.png",
+        "date": "09 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Dia da Saúde Ocular chama atenção para doenças que afetam a visão",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/dia-da-saude-ocular-chama-atencao-para-doencas-que-afetam-visao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/dia-da-saude-ocular-chama-atencao-para-doencas-que-afetam-visao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Jogadores do Egito são recebidos como heróis após atuação na Copa",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Tráfego diminui em Ormuz à medida que tensões com Irã se intensificam",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/trafego-diminui-em-ormuz-medida-que-tensoes-com-ira-se-intensificam",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/trafego-diminui-em-ormuz-medida-que-tensoes-com-ira-se-intensificam img src= https://cdn.jsdelivr.net/gh/sergios",
+        "title": "Rádio Nacional estreia programa Bem-Viver Amazônia neste sábado",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/radio-nacional-estreia-programa-bem-viver-amazonia-neste-sabado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/radio-nacional-estreia-programa-bem-viver-amazonia-neste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Preço de alimentos recua, e inflação oficial de junho fica em 0,16%",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/preco-de-alimentos-recua-e-inflacao-oficial-de-junho-fica-em-016",
-        "summary": "p Os preços dos alimentos tiveram a primeira queda desde novembro de 2025 e ajudaram a inflação oficial fechar o mês de junho em 0,16%. O resultado mensal do Índice Nacional de Preços ao Consumidor Amplo (IPCA) é o a hre",
+        "title": "INSS fará mutirão de perícia médica neste fim de semana",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/inss-fara-mutirao-de-pericia-medica-neste-fim-de-semana",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/inss-fara-mutirao-de-pericia-medica-neste-fim-de-semana img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Prouni 2026: último dia de inscrição para o 2º semestre é hoje",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-ultimo-dia-de-inscricao-para-o-2o-semestre-e-hoje",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-ultimo-dia-de-inscricao-para-o-2o-semestre-e-hoje img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Alertas de desmatamento na Amazônia caem 35% em junho de 2026",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/alertas-de-desmatamento-na-amazonia-caem-35-em-junho-de-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/alertas-de-desmatamento-na-amazonia-caem-35-em-junho-de-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Rio: procurador diz que há ambiente institucional voltado à corrupção",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/rio-procurador-diz-que-ha-ambiente-institucional-voltado-corrupcao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/rio-procurador-diz-que-ha-ambiente-institucional-voltado-corrupcao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "CNI pede negociação para evitar tarifas dos EUA",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cni-pede-negociacao-para-evita-tarifas-dos-eua",
+        "summary": "p strong Em carta conjunta, a Confederação Nacional da Indústria (CNI), a Amcham e o U.S. Chamber pedem para autoridades defenderem a relação comercial estratégica entre os países e propor uma agenda de negociação estrut",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Região histórica do Rio, Praça Onze será revitalizada",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/regiao-historica-do-rio-praca-onze-sera-revitalizada",
-        "summary": "p Uma das regiões históricas mais importantes do Rio de Janeiro vai ser totalmente revitalizada, com a criação da Praça Onze Maravilha, que receberá investimentos de R$ 1,7 bilhão previstos para os próximos 20 anos. A ex",
+        "title": "PND 2026 tem último dia de inscrição nesta sexta-feira",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-tem-ultimo-dia-para-inscricao-nesta-sexta-feira",
+        "summary": "p strong A segunda edição da Prova Nacional Docente - PND 2026 - tem inscrições abertas até às 23h59 desta sexta-feira (10). /strong O prazo, que terminaria no último dia 3, foi prorrogado pelo Instituto Nacional de Estu",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Quem é o maior de cada país na história do futebol?",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/quem-e-o-maior-de-cada-pais-na-historia-do-futebol/",
-        "summary": "Quem é o maior de cada país na história do futebol? O post Quem é o maior de cada país na história do futebol? apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Que.webp",
+        "title": "Corinthians começa a retirar cadeiras do setor sul da Arena",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-comeca-a-retirar-cadeiras-do-setor-sul-da-arena/",
+        "summary": "Veja detalhes da reforma na Neo Química Arena que iniciou nesta sexta. O Corinthians irá remover as cadeiras do setor sul. O post Corinthians começa a retirar cadeiras do setor sul da Arena apareceu primeiro em Gazeta Es",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/178369899006a9d51e04213572ef0720dd27a84792.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Oitavo detido por suposto plano contra evento de MMA na Casa Branca",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/lutas/oitavo-suspeito-preso-plano-atentado-casa-branca/",
-        "summary": "As autoridades dos Estados Unidos prenderam o oitavo suspeito envolvido em um suposto plano para atacar um evento de MMA realizado na Casa Branca em comemoração ao aniversário do presidente Donald Trump. Segundo o Depart",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260709__2285378478__v1__HighRes__ConstructionContinuesAtTheWhiteHouse-1.webp",
+        "title": "Guarani anuncia contratação de Éverton Brito",
+        "link": "https://www.gazetaesportiva.com/times/guarani/guarani-anuncia-contratacao-de-everton-brito/",
+        "summary": "O Guarani anunciou a contratação do atacante Éverton Brito, que assinou contrato até novembro de 2027. A chegada do jogador faz parte da negociação que levou Guilherme Parede para o América-MG. Revelado pelo Palmeiras, É",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55353805816_a730161ee9_k.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Espanha enfrenta Bélgica nas quartas de final da Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/espanha-belgica-quartas-copa-do-mundo-2026/",
-        "summary": "Espanha e Bélgica se enfrentam nesta sexta-feira pelas quartas de final da Copa do Mundo de 2026, em Los Angeles. Embalada por uma campanha sólida e ainda sem sofrer gols no torneio, a seleção espanhola tenta voltar às s",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9FD7R8__v1__HighRes__FblWc2026Match93PorEsp.webp",
+        "title": "Thierry Henry comemora com Mbappé após vitória sobre o Marrocos",
+        "link": "https://www.gazetaesportiva.com/times/franca/thierry-henry-comemora-com-mbappe-apos-vitoria-sobre-o-marrocos/",
+        "summary": "Thierry Henry comemora com Mbappé após vitória sobre o Marrocos O post Thierry Henry comemora com Mbappé após vitória sobre o Marrocos apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Thierry-He.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cruzeiro confirma transferência de Christian para o futebol russo",
-        "link": "https://www.gazetaesportiva.com/times/cruzeiro/christian-deixa-cruzeiro-acerta-krasnodar/",
-        "summary": "O Cruzeiro confirmou a venda do meia Christian para o Krasnodar, da Rússia. O jogador de 25 anos, que chegou ao clube em janeiro de 2025 vindo do Athletico-PR, viajou para realizar exames médicos e concluir a transferênc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55182853774_d1b0829e7c_o-scaled-aspect-ratio-512-320.webp",
+        "title": "Zverev vai à final de Wimbledon após recente título de Roland Garros",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-vai-a-final-de-wimbledon-apos-recente-titulo-de-roland-garros/",
+        "summary": "Alexander Zverev venceu o britânico Arthur Féry por 3 sets a 0 e avançou à final de Wimbledon pela primeira vez na carreira. O alemão disputará o título contra Jannik Sinner ou Novak Djokovic e pode conquistar o torneio ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9V6669__v1__HighRes__TennisGbrWimbledon.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do confronto entre Brasil e Polônia pela Ligas das Nações de Vôlei",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/veja-fotos-do-confronto-entre-brasil-e-polonia-pela-ligas-das-nacoes-de-volei/",
-        "summary": "O post Veja fotos do confronto entre Brasil e Polônia pela Ligas das Nações de Vôlei apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/v0lrpn4oqrjm3o9jmmxo.webp",
+        "title": "Luisa Stefani faz história e avança à final de Wimbledon ao lado de canadense",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/luisa-stefani-faz-historia-e-avanca-a-final-de-wimbledon-ao-lado-de-canadense/",
+        "summary": "Luisa Stefani e Gabriela Dabrowski derrotaram Shuko Aoyama e Chan Hao-ching por 2 sets a 0 e garantiram vaga na final de duplas femininas de Wimbledon. A brasileira disputará sua primeira decisão na modalidade no torneio",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/lui.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Portugal confirma Jorge Jesus como técnico após eliminação na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/jorge-jesus-novo-tecnico-portugal/",
-        "summary": "Portugal anunciou Jorge Jesus como novo técnico da seleção após a eliminação na Copa do Mundo. Aos 71 anos, o treinador assume uma seleção nacional pela primeira vez na carreira e substitui Roberto Martínez, após passage",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/03/2RW1R9W.webp",
+        "title": "Dibu Martínez exibe novo visual em treino da Argentina",
+        "link": "https://www.gazetaesportiva.com/times/argentina/dibu-martinez-exibe-novo-visual-em-treino-da-argentina/",
+        "summary": "Dibu Martínez exibe novo visual em treino da Argentina O post Dibu Martínez exibe novo visual em treino da Argentina apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Dib.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
     ],
     "negocios": [
       {
+        "title": "CNI pede negociação para evitar tarifas dos EUA",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cni-pede-negociacao-para-evita-tarifas-dos-eua",
+        "summary": "p strong Em carta conjunta, a Confederação Nacional da Indústria (CNI), a Amcham e o U.S. Chamber pedem para autoridades defenderem a relação comercial estratégica entre os países e propor uma agenda de negociação estrut",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
         "title": "Inflação usada para corrigir salários acumula 4,33% em 12 meses",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/inflacao-usada-para-corrigir-salarios-acumula-433-em-12-meses",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/inflacao-usada-para-corrigir-salarios-acumula-433-em-12-meses img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
@@ -357,79 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Fintechs são notificadas por operar recursos de bets ilegais",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fintechs-sao-notificadas-por-operar-recursos-de-bets-ilegais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fintechs-sao-notificadas-por-operar-recursos-de-bets-ilegais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "09 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Lula reúne ministros para debater minerais críticos em meio a risco de tarifa dos EUA",
-        "link": "https://www.infomoney.com.br/politica/lula-reune-ministros-para-debater-minerais-criticos-em-meio-a-risco-de-tarifa-dos-eua/",
-        "summary": "Exploração foi discutida no último encontro entre Lula e Donald Trump, no início de maio, na Casa Branca The post Lula reúne ministros para debater minerais críticos em meio a risco de tarifa dos EUA appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55287354868_e5093065c3_k_776c8c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Saiba quem é Tuca, apontada por Dino como quem dava suporte para Valdemar em emendas",
+        "link": "https://www.infomoney.com.br/politica/saiba-quem-e-tuca-apontada-por-dino-como-quem-dava-suporte-para-valdemar-em-emendas/",
+        "summary": "Responsável pelo controle e pela destinação de verbas parlamentares, servidora é próxima de Arthur Lira e Hugo Motta e era tratada como chefe de Poder na Esplanada The post Saiba quem é Tuca, apontada por Dino como quem ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Captura-de-tela-2026-01-18-101308.png?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Jogadores do Egito são recebidos como heróis após atuação na Copa do Mundo",
-        "link": "https://www.infomoney.com.br/mercados/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa-do-mundo/",
-        "summary": "País conseguiu atingiu melhor campanha de sua história ao chegar nas oitavas de final da competição The post Jogadores do Egito são recebidos como heróis após atuação na Copa do Mundo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T122258Z_1_LYNXMPEM690OM_RTROPTP_4_SOCCER-WORLDCUP-EGYPT-TEAM-ARRIVAL_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Depois de céu e inferno no 1º semestre, fluxo estrangeiro se recupera em julho?",
+        "link": "https://www.infomoney.com.br/mercados/depois-de-ceu-e-inferno-no-1o-semestre-fluxo-estrangeiro-se-recupera-em-julho/",
+        "summary": "Estudo da Elos Ayta mostra que praticamente toda a entrada líquida de capital estrangeiro do 1º semestre aconteceu entre janeiro e março; segundo trimestre registrou uma das maiores saídas trimestrais da série histórica ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Ibovespa.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "SK Hynix levanta US$ 26,5 bi nos EUA e ADR indica salto de 17%",
-        "link": "https://www.infomoney.com.br/mercados/sk-hynix-levanta-us-265-bi-nos-eua-e-adr-indica-salto-de-17/",
-        "summary": "Demanda por chips de IA impulsiona maior listagem americana de estrangeira The post SK Hynix levanta US$ 26,5 bi nos EUA e ADR indica salto de 17% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460397645.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Fechou o valor do Valdemar: mensagens mostram atuação de presidente do PL em emendas",
+        "link": "https://www.infomoney.com.br/politica/fechou-o-valor-do-valdemar-mensagens-mostram-atuacao-de-presidente-do-pl-em-emendas/",
+        "summary": "Diálogos identificados pela PF mostra atuação de Valdemar na Câmara mesmo sem mandato de deputado The post Fechou o valor do Valdemar: mensagens mostram atuação de presidente do PL em emendas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/02/pl_imprensa_mcajr_abr_2311222328.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Motta oficializa perda de mandato de deputados Dayany Bittencourt e Paulão",
-        "link": "https://www.infomoney.com.br/politica/motta-oficializa-perda-de-mandato-de-deputados-dayany-bittencourt-e-paulao/",
-        "summary": "Presidente da Câmara declarou a cassação de Dayany Bittencourt (União-CE) e Paulão (PT-AL) após decisões da Justiça Eleitoral que determinaram a retotalização dos votos em seus estados; Nivaldo Albuquerque também assume ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/img20260305133533834.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e retoma os 177 mil pontos",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10072026/",
+        "summary": "Bolsas dos EUA têm leves ganhos e devem encerrar semana em alta The post Ibovespa Hoje Ao Vivo: Bolsa dispara 2% e retoma os 177 mil pontos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-27-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Desconto na cota é o suficiente? veja como identificar um FII realmente barato",
-        "link": "https://www.infomoney.com.br/onde-investir/desconto-na-cota-e-o-suficiente-veja-como-identificar-um-fii-realmente-barato/",
-        "summary": "Um P/VP baixo, por si só, não é garantia de potencial de valorização The post Desconto na cota é o suficiente? veja como identificar um FII realmente barato appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-Tela-2026-07-09-as-11.52.11.png?fit=300%2C160&amp;quality=70&amp;strip=all",
+        "title": "STF determina bloqueio de bens de Valdemar Costa Neto por emendas irregulares",
+        "link": "https://www.infomoney.com.br/politica/stf-determina-bloqueio-de-bens-de-valdemar-costa-neto-por-emendas-irregulares/",
+        "summary": "STF bloqueia bens de Valdemar Costa Neto por suspeita de direcionamento irregular de R$119 mi em emendas The post STF determina bloqueio de bens de Valdemar Costa Neto por emendas irregulares appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/1_vcn-28-08-23-1-34201887-42001905-59005407.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "IA e juros guiam gestoras globais e Brasil é destaque em minerais críticos",
-        "link": "https://www.infomoney.com.br/onde-investir/ia-e-juros-guiam-gestoras-globais-e-brasil-e-destaque-em-minerais-criticos/",
-        "summary": "Pesquisa da XP com 37 casas mostra o que os gestores veem como oportunidade nos mercados locais e internacionais The post IA e juros guiam gestoras globais e Brasil é destaque em minerais críticos appeared first on InfoM",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T112635Z_1_LYNXMPEM5L0R5_RTROPTP_4_BRAZIL-EU-MINERALS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Espanha x Bélgica: modelo matemático aponta possível resultado do jogo; veja",
+        "link": "https://www.infomoney.com.br/esportes/espanha-x-belgica-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/",
+        "summary": "Cálculo estatístico da Fundação Getúlio Vargas projeta a seleção que tem mais chances de ganhar partida desta sexta-feira, 10 The post Espanha x Bélgica: modelo matemático aponta possível resultado do jogo; veja appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/1007_Espanha_Belgica.png?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O que faz um brasileiro se sentir próspero? Não é só dinheiro",
-        "link": "https://exame.com/negocios/brasileiro-prospero-dinheiro/",
-        "summary": "Pesquisa do Sicredi com o Datafolha mostra que prosperidade envolve renda, mas também propósito, relações, saúde mental e comunidade",
+        "title": "Nubank recebe autorização para iniciar operações como banco no México",
+        "link": "https://exame.com/invest/mercados/nubank-recebe-autorizacao-para-iniciar-operacoes-como-banco-no-mexico/",
+        "summary": "Com mais de 15 milhões de clientes, a instituição deve se tornar o maior banco digital do país e reforça aposta em produtos 100% digitais",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -437,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Deputado quer proibir jogadores que atuam no exterior de defender a Seleção Brasileira",
-        "link": "https://exame.com/brasil/deputado-quer-proibir-jogadores-que-atuam-no-exterior-de-defender-a-selecao-brasileira/",
-        "summary": "PL apresentado na Câmara prevê que apenas atletas e comissão técnica vinculados a clubes brasileiros possam representar o país",
+        "title": "Adeus à Panini: por que o álbum da Copa do Mundo pode nunca mais ser o mesmo",
+        "link": "https://exame.com/esporte/adeus-a-panini-por-que-o-album-da-copa-do-mundo-pode-nunca-mais-ser-o-mesmo/",
+        "summary": "Após mais de cinco décadas, a Panini perderá a licença oficial da Copa do Mundo; entenda o que muda para colecionadores",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -447,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Aprenda como organizar fotos com IA sem perder privacidade",
-        "link": "https://exame.com/tecnologia/examelab/como-organizar-fotos-com-a-ia-sem-perder-privacidade/",
-        "summary": "Aprenda a usar a inteligência artificial do iPhone e do Android para limpar a galeria, eliminar duplicadas e categorizar imagens sem que seus arquivos alimentem bancos de dados externos",
+        "title": "Espanha x Bélgica: veja horário e onde assistir ao jogo das quartas da Copa do Mundo hoje",
+        "link": "https://exame.com/esporte/espanha-x-belgica-veja-horario-e-onde-assistir-ao-jogo-das-quartas-da-copa-do-mundo-hoje/",
+        "summary": "A partida será disputada no SoFi Stadium, em Los Angeles, nos Estados Unidos",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -457,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ações da SoftBank disparam após lançamento do GPT-5.6 da OpenAI",
-        "link": "https://exame.com/inteligencia-artificial/acoes-da-softbank-disparam-apos-lancamento-do-gpt-5-6-da-openai/",
-        "summary": "Conglomerado japonês subiu mais de 11% e liderou ganhos do Nikkei 225 em sessão puxada por apostas em inteligência artificia",
+        "title": "Wagner Moura na Marvel? Ator pode viver o vilão que mudou a história dos X-Men",
+        "link": "https://exame.com/pop/wagner-moura-na-marvel-ator-pode-viver-o-vilao-que-mudou-a-historia-dos-x-men/",
+        "summary": "Especulação indica que o brasileiro é o principal nome para viver o icônico Sr. Sinistro no reboot dos X-Men, dirigido por Jake Schreier",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -467,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Bitcoin sobe 4% em 7 dias e supera os US$ 64 mil; a retomada começou?",
-        "link": "https://exame.com/future-of-money/bitcoin-sobe-4-em-7-dias-e-supera-os-us-64-mil-a-retomada-comecou/",
-        "summary": "Especialistas dizem que o pior do pessimismo parece ter passado, enquanto a maior das criptomoedas busca romper uma resistência importante",
+        "title": "Como essa aluna de 18 anos da Rio International School é aprovada em 10 universidades dos EUA",
+        "link": "https://exame.com/carreira/como-essa-aluna-de-18-anos-da-rio-international-school-e-aprovada-em-10-universidades-dos-eua/",
+        "summary": "Jovem carioca superou barreiras com o idioma e conquistou vaga na California State University",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -477,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Irã ameaça retaliar Israel caso infraestrutura do país seja atacada",
-        "link": "https://exame.com/mundo/ira-ameaca-retaliar-israel-caso-infraestrutura-do-pais-seja-atacada/",
-        "summary": "A nova ameaça amplia o discurso adotado por Teerã desde a retomada dos ataques americanos",
+        "title": "Quem é Tielemans, que superou De Bruyne e Lukaku e virou capitão da Bélgica",
+        "link": "https://exame.com/esporte/quem-e-tielemans-que-superou-de-bruyne-e-lukaku-e-virou-capitao-da-belgica/",
+        "summary": "Mesmo com nomes consagrados no elenco, o meio-campista assumiu a capitania da seleção belga, que encara a Espanha nas quartas de final da Copa",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
