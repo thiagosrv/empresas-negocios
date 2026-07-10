@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-10T20:26:48.268Z",
+  "updated": "2026-07-10T22:09:24.817Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "'Perdemos uma amiga, uma protetora de animais': mulher morta a facadas em Campinas era vice-presidente de ONG",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/10/perdemos-uma-amiga-uma-protetora-de-animais-mulher-morta-a-facadas-em-campinas-era-vice-presidente-de-ong.ghtml",
+        "summary": "Maria Aparecida foi morta a facadas nesta quinta-feira (09) Acervo pessoal Maria Aparecida Martinelli Cezar, de 57 anos, foi morta a facadas na tarde desta quinta-feira (9), em um apartamento do bairro Cambuí, em Campina",
+        "image": "https://s2-g1.glbimg.com/GCYJLoHMTADONjuXi5r_MOsIpZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/v/vsiHU7SUWD0a5q6lgRwg/design-sem-nome-35-.png",
+        "date": "10 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Estupro durante jogo do Brasil: polícia conclui inquérito e indicia pai e mãe de adolescente no interior de SP",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/10/estupro-durante-jogo-do-brasil-policia-conclui-inquerito-e-indicia-pai-e-mae-de-adolescente-no-interior-de-sp.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/10/tres-encontros-em-100-anos-ave-perdida-e-reencontrada-na-indonesia.ghtml",
         "summary": "O lorikeet-de-testa-azul (Charmosynopsis toxopei) John C. Mittermeier/ Divulgação/ REUTERS O lóri-de-Buru ou lóri-de-testa-azul (Charmosyna toxopei), endêmico da Indonésia, voltou a ser registrado em uma região montanhos",
         "image": "https://s2-g1.glbimg.com/dtulbeFBIZoIsfgylUlusYCSJlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/U/AvHAxpRxAxn1NujIJKeg/a-2026-07-10t110400.310.jpg",
-        "date": "10 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Princípio de incêndio atinge ônibus do transporte público no Centro de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/10/principio-de-incendio-atinge-onibus-do-transporte-publico-no-centro-de-campinas.ghtml",
-        "summary": "Ônibus do transporte público tem princípio de incêndio no centro de Campinas (SP) Empresa Municipal de Desenvolvimento de Campinas (Emdec) Um princípio de incêndio atingiu um ônibus do transporte público de Campinas (SP)",
-        "image": "https://s2-g1.glbimg.com/Ajj5TZn5KsqfWhan8Ct2merLv9A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/i/LqIY3PS5q1Awm07QG9KA/capas-ana-8-.png",
         "date": "10 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,59 +123,59 @@
         "cls": "servicos"
       },
       {
+        "title": "Dataprev abre inscrições de concurso para 212 vagas",
+        "link": "https://agenciabrasil.ebc.com.br/concursos/noticia/2026-07/dataprev-abre-inscricoes-de-concurso-para-212-vagas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/concursos/noticia/2026-07/dataprev-abre-inscricoes-de-concurso-para-212-vagas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Espanha vai à semifinal e frustra sonho belga; Merino decide outra vez",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/merino-decide-outra-vez-espanha-vai-semifinal-e-frustra-sonho-belga",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/merino-decide-outra-vez-espanha-vai-semifinal-e-frustra-sonho-belga img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Início de financiamentos do Move Brasil é adiado para 27 de julho",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/inicio-de-financiamentos-do-move-brasil-e-adiado-para-27-de-julho",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/inicio-de-financiamentos-do-move-brasil-e-adiado-para-27-de-julho img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mercedes Sosa: evento no Rio celebra legado da Voz da América Latina",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/mercedes-sosa-evento-no-rio-celebra-legado-da-voz-da-america-latina",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/mercedes-sosa-evento-no-rio-celebra-legado-da-voz-da-america-latina img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Observatório do CNDH prepara proposta contra discurso de ódio no país",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/conselho-debate-enfrentamento-discurso-de-odio",
+        "summary": "p O Conselho Nacional de Direitos Humanos (CNDH) encerrou nesta sexta-feira (10), em Belém, uma missão voltada ao enfrentamento do discurso de ódio, do extremismo e do neonazismo. A iniciativa integra os trabalhos do Obs",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Antes do Brasileirão Feminino, Palmeiras e Flamengo decidem Ladies Cup",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/antes-do-brasileirao-feminino-palmeiras-e-flamengo-decidem-ladies-cup",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/antes-do-brasileirao-feminino-palmeiras-e-flamengo-decidem-ladies-cup img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TRE-RJ vai pedir que tropas federais atuem no estado nas eleições",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/tre-rj-vai-pedir-que-tropas-federais-atuem-no-estado-nas-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/tre-rj-vai-pedir-que-tropas-federais-atuem-no-estado-nas-eleicoes img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Stefani avança pela 1ª vez à final de duplas femininas de Wimbledon",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/stefani-avanca-pela-1a-vez-final-de-duplas-femininas-de-wimbledon",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/stefani-avanca-pela-1a-vez-final-de-duplas-femininas-de-wimbledon img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dino bloqueia R$ 119 milhões de Valdemar por suspeitas em emendas",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/dino-bloqueia-r-119-milhoes-de-valdemar-por-suspeitas-em-emendas",
-        "summary": "p strong O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (10) o bloqueio de R$ 119 milhões em bens que estão em nome do presidente do PL, Valdemar Costa Neto. /strong img src= http",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Jogadores do Egito são recebidos como heróis após atuação na Copa",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/jogadores-do-egito-sao-recebidos-como-herois-apos-atuacao-na-copa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Rádio Nacional estreia programa Bem-Viver Amazônia neste sábado",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/radio-nacional-estreia-programa-bem-viver-amazonia-neste-sabado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/radio-nacional-estreia-programa-bem-viver-amazonia-neste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,127 +185,77 @@
     ],
     "esportes": [
       {
-        "title": "Haaland-mania chega ao Peru, com centenas de bebês registrados com nome do astro norueguês",
-        "link": "https://www.gazetaesportiva.com/noruega/haaland-mania-chega-ao-peru-com-centenas-de-bebes-registrados-com-nome-do-astro-noruegues/",
-        "summary": "A Copa do Mundo de 2026 provocou uma curiosa \"Haaland-mania\" no Peru. Segundo o órgão de registro civil do país, 468 recém-nascidos foram registrados com o sobrenome “Haaland”, enquanto outros 91 receberam o nome complet",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__2285536465__v1__HighRes__NorwayTrainingSessionFifaWorldCup2026.webp",
+        "title": "Fizemos o suficiente para vencer com mais tranquilidade , diz técnico da Espanha",
+        "link": "https://www.gazetaesportiva.com/times/espanha/fizemos-o-suficiente-para-vencer-com-mais-tranquilidade-diz-tecnico-da-espanha/",
+        "summary": "O técnico da Espanha, Luis de la Fuente, se mostrou radiante após sua equipe garantir uma vaga nas semifinais da Copa do Mundo ao vencer a Bélgica por 2 a 1 nas quartas de final, nesta sexta-feira (10), graças a um gol d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9W62AT__v1__HighRes__FblWc2026Match98EspBel.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Djokovic gostaria de jogar em Wimbledon pelo menos mais uma vez",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/djokovic-gostaria-de-jogar-em-wimbledon-pelo-menos-mais-uma-vez/",
-        "summary": "Eliminado por Jannik Sinner nas semifinais de Wimbledon, Novak Djokovic afirmou que pretende disputar o torneio londrino pelo menos mais uma vez. O sérvio reconheceu a superioridade do rival e lamentou a derrota. O post ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9VH477__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Vasco anuncia contratação do técnico português Pedro Emanuel",
+        "link": "https://www.gazetaesportiva.com/times/vasco/vasco-anuncia-contratacao-do-tecnico-portugues-pedro-emanuel/",
+        "summary": "O Vasco anunciou nesta sexta-feira a contratação do técnico português Pedro Emanuel. Aos 51 anos, o treinador assinou contrato com o Cruz-Maltino até dezembro de 2027 e chega para substituir Renato Gaúcho, que deixou o c",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Site_Contratacao_TreinadorPedroEmanuel_KV26.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Milan anuncia contratação de zagueiro espanhol",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/milan-anuncia-contratacao-de-zagueiro-espanhol/",
-        "summary": "O Milan anunciou a contratação do zagueiro espanhol Mario Gila, ex-Lazio. O jogador assinou contrato até junho de 2031 e vestirá a camisa 34. Revelado nas categorias de base do Real Madrid, Gila estreou no time principal",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HM4uixXW8AAdXUk.webp",
+        "title": "Veja fotos dos treinos do Palmeiras desta sexta-feira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-dos-treinos-do-palmeiras-desta-sexta-feira/",
+        "summary": "O Palmeiras treinou em dois períodos nesta sexta-feira e seguiu a preparação para a intertemporada. Veja fotos das atividades. O post Veja fotos dos treinos do Palmeiras desta sexta-feira apareceu primeiro em Gazeta Espo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/10072026_cg_palmeiras_4649_38.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Muchova x Noskova, uma final de Wimbledon 100% tcheca valendo título inédito de Grand Slam",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/muchova-x-noskova-uma-final-de-wimbledon-100-tcheca-valendo-titulo-inedito-de-grand-slam/",
-        "summary": "Karolina Muchova e Linda Noskova disputarão neste sábado a final feminina de Wimbledon em busca do primeiro título de Grand Slam de suas carreiras. A experiente Muchova, de 29 anos e atual número 9 do mundo, chega à deci",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260709__B9RN4AG__v1__HighRes__TennisGbrWimbledon.webp",
+        "title": "Courtois se lesiona contra a Espanha, e falha de reserva elimina Bélgica da Copa",
+        "link": "https://www.gazetaesportiva.com/times/belgica/courtois-lesao-lammens-falha-belgica/",
+        "summary": "A eliminação da Bélgica para a Espanha por 2 a 1 teve como ponto decisivo a saída de Thibaut Courtois no segundo tempo. O goleiro, que vinha sendo fundamental com boas defesas, deixou o campo lesionado aos 26 minutos e d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9W26CC__v1__HighRes__FblWc2026Match98EspBel.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do duelo entre Espanha e Bélgica pela Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-do-duelo-entre-espanha-e-belgica-pela-copa-do-mundo/",
-        "summary": "O post Veja fotos do duelo entre Espanha e Bélgica pela Copa do Mundo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9VW6GV__v1__HighRes__FblWc2026Match98EspBel.webp",
+        "title": "Bastidores do emocionante retorno de Daley Blind ao Ajax",
+        "link": "https://www.gazetaesportiva.com/times/ajax/bastidores-do-emocionante-retorno-de-daley-blind-ao-ajax/",
+        "summary": "Bastidores do emocionante retorno de Daley Blind ao Ajax O post Bastidores do emocionante retorno de Daley Blind ao Ajax apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Dale.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Após rescisão, meia formado na base do Palmeiras assina com o Cruzeiro; veja detalhes",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/apos-rescisao-meia-formado-na-base-do-palmeiras-assina-com-o-cruzeiro-veja-detalhes/",
-        "summary": "O Cruzeiro anunciou nesta sexta-feira a contratação do meio-campista Felipe Goto, formado nas categorias de base do Palmeiras. Ele rescindiu com o Verdão na última terça-feira e assinou um vínculo profissional com a Rapo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HM4xhgOWkAA0SV3.webp",
+        "title": "Manchester United desiste de contratar Éderson após exames médicos",
+        "link": "https://www.gazetaesportiva.com/times/manchester-united/manchester-united-desiste-de-contratar-ederson-apos-exames-medicos/",
+        "summary": "A transferência do volante brasileiro Éderson para o Manchester United não será mais concretizada. Depois de encaminhar um acordo com a Atalanta, o clube inglês decidiu desistir da contratação após os exames médicos real",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260510__B2F49MT__v1__HighRes__FblItaSerieaAcMilanAtalanta-1.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Siga Espanha x Bélgica e ASSISTA na CazéTV, dispon...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16976056/espanha-x-belgica-siga-tempo-real-jogo-copa-do-mundo",
-        "summary": "Duelo em Los Angeles vale uma vaga na semifinal do Mundial",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Sinner 'atropela' Djokovic, aumenta retrospecto po...",
-        "link": "https://www.espn.com.br/tenis/artigo/_/id/16985523/sinner-atropela-djokovic-aumenta-retrospecto-positivo-sobre-servio-avanca-final-wimbledon",
-        "summary": "Sinner vai encarar Zverev na decisão",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Como parar Messi? Técnico da Suíça dá resposta sin...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16985580/como-parar-messi-tecnico-suica-resposta-sincerona",
-        "summary": "Murat Yakin vai desafiar um dos artilheiros da Copa do Mundo",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Como churrasco virou 'amuleto de sorte' para Argen...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16981174/500-kg-carne-como-churrasco-virou-amuleto-sorte-argentina-copa-do-mundo",
-        "summary": "null",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "'Pela última de Leo': como vitória 'impossível' na...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16980591/copa-do-mundo-como-virada-impossivel-oitavas-virou-combustivel-atraves-musica-para-argentina-sonhar-com-tetra",
-        "summary": "null",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Jorge Jesus diz que usará 'zero' do trabalho de Ma...",
-        "link": "https://www.espn.com.br/futebol/artigo/_/id/16985417/jorge-jesus-diz-que-usara-zero-trabalho-roberto-martinez-indica-revolucao-portugal-apos-novo-fracasso-copas",
-        "summary": "Português que fez sucesso no Flamengo e foi campeão saudita neste ano assume uma seleção pela primeira vez na carreira",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Prazo de crédito antecipado para exportadores é ampliado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/prazo-de-credito-antecipado-para-exportadores-e-ampliado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/prazo-de-credito-antecipado-para-exportadores-e-ampliado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "CNI pede negociação para evitar tarifas dos EUA",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cni-pede-negociacao-para-evita-tarifas-dos-eua",
@@ -357,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Operação apura fraudes em benefícios do INSS para indígenas na Bahia",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/operacao-apura-fraudes-em-beneficios-do-inss-para-indigenas-na-bahia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/operacao-apura-fraudes-em-beneficios-do-inss-para-indigenas-na-bahia img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "09 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Petróleo fecha em queda apesar de avanço semanal com guerra no Oriente Médio",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-apesar-de-avanco-semanal-com-guerra-no-oriente-medio/",
-        "summary": "O petróleo oscilou no pregão, depois que o presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira que governo americano e o Irã concordaram em continuar as negociações de paz The post Petróleo fecha em qu",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "Declan Rice é isolado por causa de vírus e deve aumentar baixas da Inglaterra",
+        "link": "https://www.infomoney.com.br/esportes/declan-rice-e-isolado-por-causa-de-virus-e-deve-aumentar-baixas-da-inglaterra/",
+        "summary": "Depois de não conseguir reverter a expulsão de Quansah e confirmar problemas musculares em Ghéhi, agora é o experiente volante Declan Rice o problema da vez The post Declan Rice é isolado por causa de vírus e deve aument",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T023830Z_57651958_UP1EM7607C5G7_RTRMADP_3_SOCCER-WORLDCUP-MEX-ENG.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Alertas de desmatamento na Amazônia caem 35% em junho de 2026",
-        "link": "https://www.infomoney.com.br/brasil/alertas-de-desmatamento-na-amazonia-caem-35-em-junho-de-2026/",
-        "summary": "Queda nos avisos ocorre em relação ao mesmo mês do ano passado The post Alertas de desmatamento na Amazônia caem 35% em junho de 2026 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/banco_da_amazonia.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Adolescente morre em comemoração da vitória da França nas quartas de final da Copa",
+        "link": "https://www.infomoney.com.br/esportes/adolescente-morre-em-comemoracao-da-vitoria-da-franca-nas-quartas-de-final-da-copa/",
+        "summary": "Uma adolescente de 17 anos morreu em meio às festividades, segundo informações do corpo de bombeiros nesta sexta-feira The post Adolescente morre em comemoração da vitória da França nas quartas de final da Copa appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-09T232238Z_1321952040_UP1EM791SXOPJ_RTRMADP_3_SOCCER-WORLDCUP-FRA-MAR-FANS-PARIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Flávio defende Valdemar e acusa PF de constranger adversários do governo",
-        "link": "https://www.infomoney.com.br/politica/flavio-defende-valdemar-e-acusa-pf-de-constranger-adversarios-do-governo/",
-        "summary": "Senador e presidenciável disse ser ‘natural’ atuação política do presidente do PL junto a deputados federais do partido The post Flávio defende Valdemar e acusa PF de constranger adversários do governo appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-01T100422Z_2111443088_RC2VDKASHUXG_RTRMADP_3_USA-ELECTION-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Vini Jr. fala pela primeira vez após eliminação do Brasil: frustração é absurda",
+        "link": "https://www.infomoney.com.br/esportes/vini-jr-fala-pela-primeira-vez-apos-eliminacao-do-brasil-frustracao-e-absurda/",
+        "summary": "O jogador afirmou que precisou de alguns dias para refletir antes de falar sobre a despedida do Mundial The post Vini Jr. fala pela primeira vez após eliminação do Brasil: frustração é absurda appeared first on InfoMoney",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/vini-jr-pronunciamento.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TRE-DF bloqueia R$ 227 mil de ex-esposa de Bolsonaro por dívida de campanha",
-        "link": "https://www.infomoney.com.br/politica/tre-df-bloqueia-r-227-mil-de-ex-esposa-de-bolsonaro-por-divida-de-campanha/",
-        "summary": "Medida foi determinada após a ex-candidata não quitar débito decorrente da reprovação das contas da campanha de 2022 ao Distrito Federal The post TRE-DF bloqueia R$ 227 mil de ex-esposa de Bolsonaro por dívida de campanh",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Cristina-Valle.webp?fit=300%2C274&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA AOS GOLS: Merino marca, Espanha elimina Bélgica e pega França na semi",
+        "link": "https://www.infomoney.com.br/esportes/jogo-belgica-espanha-copa-2026/",
+        "summary": "Merino, esteve novamente no lugar certo na hora certa, enquanto Lammens recebeu uma missão ingrata e falhou no momento em que sua seleção mais precisava dele The post ASSISTA AOS GOLS: Merino marca, Espanha elimina Bélgi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T210543Z_92304360_UP1EM7A1MLIRE_RTRMADP_3_SOCCER-WORLDCUP-ESP-BEL.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "PF aprofunda investigação sobre fábrica de dossiês de Vorcaro contra desafetos",
-        "link": "https://www.infomoney.com.br/politica/pf-aprofunda-investigacao-sobre-fabrica-de-dossies-de-vorcaro-contra-desafetos/",
-        "summary": "PF entende que o \"time\" de Thiago Miranda tinha o mesmo \"modo de agir\" que a \"milícia privada\" do ex-dono do Master The post PF aprofunda investigação sobre fábrica de dossiês de Vorcaro contra desafetos appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Daniel-Vorcaro.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Por que o Ibovespa subiu quase 3% e chegou ao maior valor desde 14 de maio nesta 6ª?",
+        "link": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-subiu-quase-3-e-chegou-ao-maior-valor-desde-14-de-maio-nesta-6a/",
+        "summary": "Embora o presidente Donald Trump tenha dito que o cessar-fogo entre Estados Unidos e Irã acabou, a queda dos futuros de petróleo desta sexta denota que o mercado entende a escalada do conflito como temporária The post Po",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-23-161256.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Educação financeira infantil: o que ensinar aos filhos em cada fase da vida",
-        "link": "https://www.infomoney.com.br/minhas-financas/educacao-financeira-infantil-o-que-ensinar-aos-filhos-em-cada-fase-da-vida/",
-        "summary": "De cofrinhos a investimentos, especialistas explicam como adaptar o aprendizado conforme a idade e por que o exemplo dos pais pesa mais do que o discurso The post Educação financeira infantil: o que ensinar aos filhos em",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_259403771.jpg?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "title": "Tráfego diminui no Estreito de Ormuz à medida que tensões com Irã se intensificam",
+        "link": "https://www.infomoney.com.br/mundo/trafego-diminui-no-estreito-de-ormuz-a-medida-que-tensoes-com-ira-se-intensificam/",
+        "summary": "Empresas de navegação e governos estão monitorando o Estreito de Ormuz após os ataques iranianos desta semana a navios comerciais e os ataques retaliatórios dos EUA contra o Irã The post Tráfego diminui no Estreito de Or",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-24T193633Z_1_LYNXMPEM5N1FC_RTROPTP_4_IRAN-CRISIS-CHINA-REFINERIES-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "10 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Superando a síndrome do impostor antes de ela se tornar um problema de gestão",
-        "link": "https://exame.com/bussola/superando-a-sindrome-do-impostor-antes-de-ela-se-tornar-um-problema-de-gestao/",
-        "summary": "Perfeccionismo e centralização são sinais de que a síndrome do impostor atingiu o topo. Veja como isso impacta os negócios e o clima organizacional",
+        "title": "Lula vê tarifaço de Trump como provável e esperará anúncio para decidir sobre reação",
+        "link": "https://exame.com/brasil/lula-ve-tarifaco-de-trump-como-provavel-e-esperara-anuncio-para-decidir-sobre-reacao/",
+        "summary": "Lei que estipula medidas de reciprocidade a serem adotadas, prevê princípio da proporcionalidade e direito de defesa",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -437,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Porque os hobbies formam um 'currículo invisível' que forma líderes na universidade",
-        "link": "https://exame.com/carreira/porque-os-hobbies-formam-um-curriculo-invisivel-que-forma-lideres-na-universidade/",
-        "summary": "Pesquisas em psicologia organizacional mostram que atividades de lazer melhoram desempenho acadêmico e profissional",
+        "title": "Javier Milei virá ao Brasil para dar apoio a Flávio Bolsonaro, diz jornal",
+        "link": "https://exame.com/mundo/javier-milei-vira-ao-brasil-para-dar-apoio-a-flavio-bolsonaro-diz-jornal/",
+        "summary": "Encontro previsto em Brasília ocorre enquanto Bolsonaro cumpre prisão domiciliar e tenta reverter sua condenação no STF",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -447,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Copa chega a quase 100% de ocupação nos estádios e mais de 6 milhões de torcedores",
-        "link": "https://exame.com/esporte/copa-chega-a-quase-100-de-ocupacao-nos-estadios-e-mais-de-6-milhoes-de-torcedores/",
-        "summary": "6.259.584 pessoas estiveram presentes nos 96 jogos disputados até o fim das oitavas de final",
+        "title": "França x Espanha: veja o horário e a data da partida da semifinal da Copa",
+        "link": "https://exame.com/esporte/franca-x-espanha-veja-o-horario-e-a-data-da-partida-da-semifinal-da-copa/",
+        "summary": "As duas equipes fizeram valer o favoritismo e estão entre as quatro melhores do Mundial",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -457,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cinco estratégias que estão transformando a contratação de talentos nas empresas",
-        "link": "https://exame.com/carreira/cinco-estrategias-que-estao-transformando-a-contratacao-de-talentos-nas-empresas/",
-        "summary": "Processos estruturados, tecnologia como apoio e onboarding bem-feito estão entre as práticas que reduzem erros e turnover",
+        "title": "Sistema Swift anuncia rede de pagamentos internacionais blockchain com Itaú e mais 16 bancos",
+        "link": "https://exame.com/future-of-money/sistema-swift-anuncia-rede-de-pagamentos-internacionais-blockchain-com-itau-e-mais-16-bancos/",
+        "summary": "Instituições financeiras envolvidas no piloto poderão fazer transações 24/7 em ambiente digital com depósitos tokenizados",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -467,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Conheça os unicórnios de inteligência artificial que já valem bilhões de dólares",
-        "link": "https://exame.com/inteligencia-artificial/conheca-os-unicornios-de-inteligencia-artificial-que-ja-valem-bilhoes-de-dolares/",
-        "summary": "Startups de inteligência artificial conquistam avaliações bilionárias ao desenvolver modelos, chips, robôs e soluções para empresas",
+        "title": "Calor e crescimento industrial levam demanda de energia da China a novo recorde",
+        "link": "https://exame.com/mundo/calor-e-crescimento-industrial-levam-demanda-de-energia-da-china-a-novo-recorde/",
+        "summary": "Pico de consumo foi impulsionado pela atividade industrial, expansão dos serviços e altas temperaturas registradas no verão",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
@@ -477,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Veja jogadores que ainda estão na disputa pela Chuteira de Ouro",
-        "link": "https://exame.com/esporte/veja-jogadores-que-ainda-estao-na-disputa-pela-chuteira-de-ouro/",
-        "summary": "A disputa pela artilharia segue acirrada nesta reta final da Copa do Mundo, e grandes craques estão na disputa pelo prêmio",
+        "title": "Isenção de visto impulsiona turismo e leva China a recorde de circulação nas fronteiras",
+        "link": "https://exame.com/casual/isencao-de-visto-impulsiona-turismo-e-leva-china-a-recorde-de-circulacao-nas-fronteiras/",
+        "summary": "Fluxo internacional cresce 10,8% no semestre, impulsionado pela expansão das políticas de isenção de visto e pela digitalização dos serviços migratórios",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
