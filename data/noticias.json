@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-11T20:55:17.429Z",
+  "updated": "2026-07-11T21:54:52.701Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Polícia aguarda DNA para confirmar identidade de mulher morta após Porsche pegar fogo após batida",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/policia-aguarda-dna-para-confirmar-identidade-de-mulher-morta-apos-porsche-pegar-fogo-apos-batida.ghtml",
+        "summary": "Acidente com Porsche em Campinas deixa dois mortos carbonizados A Polícia Civil aguarda o resultado do exame de DNA para confirmar a identidade da mulher que morreu carbonizada após uma Porsche Cayman bater contra uma ár",
+        "image": "https://s2-g1.glbimg.com/rvytOEh5JKTCDpWEGQs6Qs_taH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/XwZEk7Rra8PjOX9zf3oA/copia-de-1200px-x-900px-5-.jpg",
+        "date": "11 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "ÁUDIO: falha no sistema hidráulico faz avião voltar a Viracopos após decolar rumo a Manaus",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/audio-falha-no-sistema-hidraulico-faz-aviao-voltar-a-viracopos-apos-decolar-rumo-a-manaus.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/cnpem-cria-alternativa-com-nanocelulose-para-substituir-derivados-de-petroleo-em-cosmeticos-e-medicamentos.ghtml",
         "summary": "CNPEM cria alternativa com nanocelulose para substituir derivados de petróleo Pesquisadores do Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), em Campinas (SP), desenvolveram uma nova tecnologia para produzir",
         "image": "https://s2-g1.glbimg.com/WyhVGmj-K97dzjblzr-7hdQzbIQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/j1WJD8SXODctmJd6exJA/emulsoes-multiplas-cnpem.png",
-        "date": "11 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Porsche bate em árvore, pega fogo e deixa dois mortos carbonizados em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/acidente-com-porsche-em-campinas-deixa-dois-mortos-carbonizados.ghtml",
-        "summary": "Acidente com Porsche em Campinas deixa dois mortos carbonizados Duas pessoas morreram carbonizadas após um carro de luxo Porsche Cayman bater contra uma árvore e entrar em chamas na noite desta sexta-feira (10), na altur",
-        "image": "https://s2-g1.glbimg.com/II4lYCuta4JoL6eFEhWDUmynsdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/a/yKoP76TUaKSMttkJpaBA/copia-de-1200px-x-900px.png",
         "date": "11 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "UnB vai sediar encontro nacional de pesquisadores negros",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/unb-vai-sediar-encontro-nacional-de-pesquisadores-negros",
+        "summary": "p strong Entre os dias 28 e 31 de julho, o campus Darcy Ribeiro da Universidade de Brasília (UnB) acolherá o 14º Congresso Nacional de Pesquisadores(as) Negros(as), o Copene. /strong img src= https://agenciabrasil.ebc.co",
+        "image": null,
+        "date": "11 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Temporais se interiorizam em Santa Catarina",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/temporais-se-interiorizam-em-santa-catarina",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/temporais-se-interiorizam-em-santa-catarina img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
@@ -171,19 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Defesa Civil alerta para temporal em Santa Catarina",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/defesa-civil-alerta-para-temporal-em-santa-catarina",
-        "summary": "p A Secretaria de Estado da Proteção e Defesa Civil emitiu alerta para a possibilidade de “temporal com raios, rajadas de vento, granizo e alagamentos” no início da tarde deste sábado (11) para as regiões do meio-oeste e",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "São Paulo vence Primavera e Santo André em jogos-treino",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-vence-primavera-santo-andre-jogos-treino/",
+        "summary": "O São Paulo venceu dois jogos-treino no SuperCT durante a intertemporada da Copa do Mundo, superando o Primavera por 1 a 0 pela manhã e o Santo André por 4 a 1 à tarde. O técnico Dorival Júnior aproveitou os confrontos p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/3168-768x549-1.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Paolo Maldini é o novo diretor técnico da Itália; Leonardo será consultor",
+        "link": "https://www.gazetaesportiva.com/times/italia/paolo-maldini-e-o-novo-diretor-tecnico-da-italia-leonardo-sera-consultor/",
+        "summary": "A Federação Italiana de Futebol anunciou Paolo Maldini como novo diretor técnico da entidade, responsável tanto pela seleção principal quanto pelas categorias de base. O ex-jogador Leonardo, campeão mundial com o Brasil ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/1125488341.avif",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos dos jogos-treino do São Paulo contra Primavera e Santo André",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-dos-jogos-treino-do-sao-paulo-contra-primavera-e-santo-andre/",
+        "summary": "Veja uma galeria de fotos dos jogos-treino de intertemporada realizados pelo São Paulo neste sábado, contra Primavera e Santo André. O post Veja fotos dos jogos-treino do São Paulo contra Primavera e Santo André apareceu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/2919-1-768x568-1.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Treino do Santos: veja imagens da atividade deste sábado no CT Rei Pelé",
+        "link": "https://www.gazetaesportiva.com/times/santos/treino-do-santos-veja-imagens-da-atividade-deste-sabado-no-ct-rei-pele/",
+        "summary": "Treino do Santos: veja imagens da atividade deste sábado no CT Rei Pelé. O post Treino do Santos: veja imagens da atividade deste sábado no CT Rei Pelé apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55387042653_9764758865_c.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Santos faz treino técnico e físico e avança na preparação para enfrentar o Botafogo",
         "link": "https://www.gazetaesportiva.com/times/santos/santos-treino-tecnico-fisico-preparacao-botafogo-brasileirao/",
@@ -203,53 +243,13 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Flamengo vence Benfica em amistoso e levanta o Troféu do Algarve",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-benfica-trofeu-algarve-amistoso/",
-        "summary": "O Flamengo venceu o Benfica por 2 a 1 neste sábado (11), em amistoso disputado no Estádio do Algarve, em Portugal, e conquistou o simbólico Troféu do Algarve. O jogo foi decidido com gols de Samuel Lino e Wallace Yan par",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HM-JlH6XUAA_uMU.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Bidu exalta intensidade da intertemporada no Corinthians e celebra amistoso: Competir é sempre bom",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/bidu-exalta-intensidade-da-intertemporada-no-corinthians-e-celebra-amistoso-competir-e-sempre-bom/",
-        "summary": "Após duas semanas de treinos em meio à intertemporada, o Corinthians enfim volta a entrar em campo neste domingo, em amistoso contra Cascavel, às 16h (de Brasília). Matheus Bidu ressaltou a intensidade das atividades de ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246271.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Vasco intensifica treinos a uma semana do retorno do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/vasco/vasco-intensifica-treinos-a-uma-semana-do-retorno-do-brasileirao/",
-        "summary": "Vasco intensifica treinos a uma semana do retorno do Brasileirão O post Vasco intensifica treinos a uma semana do retorno do Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Vasc.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Junior Alonso recebe homenagem e se despede do Atlético-MG",
-        "link": "https://www.gazetaesportiva.com/times/atletico-mg/junior-alonso-recebe-homenagem-e-se-despede-do-atletico-mg/",
-        "summary": "Junior Alonso recebe homenagem e se despede do Atlético-MG O post Junior Alonso recebe homenagem e se despede do Atlético-MG apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/ior-Alons.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
       {
-        "title": "Publicadas regras que restringem publicidade de bets no país",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Novas regras proíbem publicidade de bets com promessa de ganho fácil",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/Novas-regras-proibem-publicidade-de-bets-com-promessa-de-ganho-f%C3%A1cil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/Novas-regras-proibem-publicidade-de-bets-com-promessa-de-ganho-f%C3%A1cil img src= https://cdn.jsdelivr.net/gh/sergio",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Agência Brasil",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Espingarda de Bolsonaro apreendida foi customizada com pintura da bandeira do Brasil",
+        "link": "https://www.infomoney.com.br/brasil/espingarda-de-bolsonaro-apreendida-foi-customizada-com-pintura-da-bandeira-do-brasil/",
+        "summary": "O Supremo Tribunal Federal (STF) determinou a apreensão de todas as armas registradas em nome de Jair Bolsonaro The post Espingarda de Bolsonaro apreendida foi customizada com pintura da bandeira do Brasil appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/2024-09-07T195119Z_1502958456_RC2VV9A7N82G_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Moraes concede liberdade provisória a Márcio Canella, flagrado com fuzil no carro",
+        "link": "https://www.infomoney.com.br/mercados/moraes-concede-liberdade-provisoria-a-marcio-canella-flagrado-com-fuzil-no-carro/",
+        "summary": "Canella é investigado sob suspeita de atuar como \"braço político\" de um esquema de lavagem de dinheiro que, segundo a Polícia Federal, movimentou R$ 7,6 bilhões de recursos do crime organizado The post Moraes concede lib",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MARCIO-CANELLA.webp?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Trump deixa ordem para atacar Irã caso seja assassinado; decisão caberia a Vance",
         "link": "https://www.infomoney.com.br/mundo/trump-deixa-ordem-para-atacar-ira-caso-seja-assassinado-decisao-caberia-a-vance/",
         "summary": "Trump escreveu neste sábado em sua rede social que o Irã fez ameaças de assassiná-lo e afirmou que \"mil mísseis estão prontos e apontados para a República Islâmica do Irã The post Trump deixa ordem para atacar Irã caso s",
@@ -347,24 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Mudança no tempo derruba as temperaturas no Sudeste e Sul",
-        "link": "https://www.infomoney.com.br/brasil/mudanca-no-tempo-derruba-as-temperaturas-no-sudeste-e-sul/",
-        "summary": "O frio será sentido primeiro no Rio Grande do Sul, em Santa Catarina e no Paraná, onde pode haver chuva e temporais, depois, alcançará o sul e o leste de São Paulo, incluindo a capital paulista The post Mudança no tempo ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/frio_sp05.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Terremoto na Venezuela: número de mortos sobe para 4.333 e cerca de 17 mil seguem desalojados",
+        "link": "https://exame.com/mundo/terremoto-na-venezuela-numero-de-mortos-sobe-para-4-333-e-cerca-de-17-mil-seguem-desalojados/",
+        "summary": "Balanço oficial aponta 16.740 feridos após terremotos de magnitudes 7,2 e 7,5",
+        "image": null,
         "date": "11 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "AGU rejeita argumentos da Enel e processo para cassar concessão em SP deve continuar",
-        "link": "https://www.infomoney.com.br/brasil/agu-rejeita-argumentos-da-enel-e-processo-para-cassar-concessao-em-sp-deve-continuar/",
-        "summary": "Enel apontou erro no método usado pela Aneel para medir o restabelecimento de energia após os apagões de 2025, mas AGU diz que metodologia aplicada é válida The post AGU rejeita argumentos da Enel e processo para cassar ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-16T140254Z_1_LYNXMPEK9F0K7_RTROPTP_3_VIETNAM-RENEWABLES-ENEL.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "title": "VNL 2026: veja os jogos de vôlei feminino deste domingo, 12",
+        "link": "https://exame.com/esporte/vnl-2026-veja-os-jogos-de-volei-feminino-deste-domingo-12/",
+        "summary": "Rodada terá nove partidas; Brasil encerra a terceira semana da Liga das Nações contra os Estados Unidos",
+        "image": null,
         "date": "11 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Noruega x Inglaterra: projeção da FGV aponta possível resultado do jogo; veja",
+        "link": "https://exame.com/esporte/noruega-x-inglaterra-projecao-da-fgv-aponta-possivel-resultado-do-jogo-veja/",
+        "summary": "Estudo da FGV/EMAp combina métodos estatísticos para estimar probabilidades e placares do confronto deste sábado, 11",
+        "image": null,
+        "date": "11 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Vai ter Copa do Mundo neste domingo? Veja os próximos jogos do torneio",
+        "link": "https://exame.com/esporte/vai-ter-copa-do-mundo-neste-domingo-veja-os-proximos-jogos-do-torneio/",
+        "summary": "Após 27 dias seguidos de partidas, torneio faz pausa antes dos confrontos que definirão os semifinalistas",
+        "image": null,
+        "date": "11 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Os jogadores que podem liderar a Seleção na próxima Copa do Mundo — e encerrar jejum desde 2002",
@@ -380,46 +420,6 @@
         "title": "Flamengo bate o Benfica em jogo com confusão e conquista o Troféu do Algarve",
         "link": "https://exame.com/esporte/flamengo-bate-o-benfica-em-jogo-com-confusao-e-conquista-o-trofeu-do-algarve/",
         "summary": "Leonardo Jardim e Marco Silva discutiram durante o primeiro tempo; Prestianni, do Benfica, também causou vaias",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Se passar, Inglaterra pode perder um de seus principais craques na semifinal da Copa",
-        "link": "https://exame.com/esporte/se-passar-inglaterra-pode-perder-um-de-seus-principais-craques-na-semifinal-da-copa/",
-        "summary": "Do lado da Noruega, apenas Antonio Nusa corre risco de suspensão para uma possível semifinal",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "'Free Willy' vai ganhar novo filme; veja tudo o que já sabemos sobre o reboot",
-        "link": "https://exame.com/pop/free-willy-vai-ganhar-novo-filme-veja-tudo-o-que-ja-sabemos-sobre-o-reboot/",
-        "summary": "Warner Bros. prepara uma nova versão do clássico dos anos 1990 em meio à onda de reboots de Hollywood",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Noruega x Inglaterra pode ser cancelado devido a calor extremo nos EUA",
-        "link": "https://exame.com/esporte/noruega-x-inglaterra-pode-ser-cancelado-devido-a-calor-extremo/",
-        "summary": "Previsão indica sensação térmica de até 44°C no horário da partida entre Noruega e Inglaterra",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Noruega x Inglaterra: veja as escalações do confronto das quartas de final da Copa do Mundo",
-        "link": "https://exame.com/esporte/noruega-x-inglaterra-veja-as-escalacoes-do-confronto-das-quartas-de-final-da-copa-do-mundo/",
-        "summary": "Noruegueses e ingleses confirmam os titulares para o duelo que vale vaga nas semifinais da Copa do Mundo de 2026",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
