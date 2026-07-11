@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T13:36:35.822Z",
+  "updated": "2026-07-11T14:58:20.867Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Morre Peppino di Capri, ícone da música italiana, aos 86 anos",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-peppino-di-capri-icone-da-musica-italiana-aos-86-anos",
+        "summary": "p strong O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes da música italiana do século 20, morreu neste sábado (11), aos 86 anos, na ilha de Capri, no sul da Itália, onde nasceu e viveu. /s",
+        "image": null,
+        "date": "11 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil perde por 3 a 0 para Tailândia na Liga das Nações de Vôlei",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-por-3-0-para-tailandia-na-liga-das-nacoes-de-volei",
+        "summary": "p strong A seleção feminina de vôlei perdeu para a Tailândia por 3 sets a 0 (25/15, 25/16 e 25/17). O jogo, válido pela terceira semana da Liga das Nações, ocorreu na madrugada deste sábado (11/7) em Osaka, no Japão. /st",
+        "image": null,
+        "date": "11 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Publicadas regras que restringem publicidade de bets no país",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "11 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Entenda o papel das escolas no combate à violência contra meninas",
         "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/entenda-o-papel-das-escolas-no-combate-violencia-contra-meninas",
         "summary": "p O Colégio Cruzeiro, escola de elite do Rio de Janeiro, acionou a Polícia Civil por conta de lista de cunho sexual com nomes de estudantes, todas adolescentes, feita em plataforma em online /em . img src= https://agenci",
@@ -151,39 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "ITA recebe inscrições para o vestibular de 2027 até domingo",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricao-para-vestibular-do-ita-termina-na-noite-de-domingo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricao-para-vestibular-do-ita-termina-na-noite-de-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mirando recordes de todos os tipos, França amplia status de favorita",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/mirando-recordes-de-todos-os-tipos-franca-amplia-status-de-favorita",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/mirando-recordes-de-todos-os-tipos-franca-amplia-status-de-favorita img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Congresso avança na aprovação de projetos para proteção às mulheres",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-avanca-na-aprovacao-de-projetos-para-protecao-mulheres",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-avanca-na-aprovacao-de-projetos-para-protecao-mulheres img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "São Paulo vence São Bernardo, mantém invencibilidade e volta à vice-liderança no Paulista sub-20",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-vence-sao-bernardo-mantem-invencibilidade-e-volta-a-vice-lideranca-no-paulista-sub-20/",
+        "summary": "A equipe sub-20 do São Paulo voltou a vencer pelo Campeonato Paulista neste sábado. Pela quinta rodada da competição, no Estádio Humberto de Alencar Castelo Branco, o Tricolor bateu o EC São Bernardo por 3 a 1, com gols ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55374550745_fa33bbf5dc_o.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Vasco oficializa a contratação do lateral esquerdo Paulinho",
+        "link": "https://www.gazetaesportiva.com/times/vasco/vasco-oficializa-a-contratacao-do-lateral-esquerdo-paulinho/",
+        "summary": "O Vasco anunciou neste sábado a contratação do lateral-esquerdo Paulinho, de 22 anos. Revelado pelo América-MG, o jogador assinou contrato até dezembro de 2029 e será apresentado oficialmente na segunda-feira. O post Vas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/TSB_2428-1024x683-1.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atlético de Madrid anuncia contratação de Morten Hjulmand; saiba detalhes",
+        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-anuncia-contratacao-de-morten-hjulmand-saiba-detalhes/",
+        "summary": "O Atlético de Madrid anunciou a contratação do volante dinamarquês Morten Hjulmand, de 27 anos. Ex-capitão do Sporting CP, o meio-campista assinou contrato até 2031 após se destacar no futebol português e pela seleção da",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/dSQJI1Npdx_FICHAJE_WEB_ESP.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Meia da África do Sul na Copa do Mundo, Jayden Adams morre aos 25 anos",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/meia-da-africa-do-sul-na-copa-do-mundo-jayden-adams-morre-aos-25-anos/",
+        "summary": "O meio-campista sul-africano Jayden Adams, que representou seu país na atual Copa do Mundo, morreu neste sábado, aos 25 anos, informou o ministro dos Esportes da África do Sul, Gayton McKenzie. Foi com profundo choque e ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260619__pedersen-czechiav260618_npAjs__v1__HighRes__CzechiaVSouthAfricaGroupA.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Ex-Liverpool, Jürgen Klopp aceita proposta para assumir a Alemanha",
         "link": "https://www.gazetaesportiva.com/times/alemanha/ex-liverpool-jurgen-klopp-aceita-proposta-para-assumir-a-alemanha/",
@@ -202,106 +242,6 @@
         "date": "11 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Relembre em fotos o bicampeonato invicto do Palmeiras na Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/relembre-em-fotos-o-bicampeonato-invicto-do-palmeiras-na-copa-do-brasil/",
-        "summary": "Relembre em fotos o bicampeonato invicto do Palmeiras na Copa do Brasil O post Relembre em fotos o bicampeonato invicto do Palmeiras na Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/pal18.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Inglaterra de Kane encara Noruega de Haaland nas quartas de final da Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-de-kane-encara-noruega-de-haaland-nas-quartas-de-final-da-copa-do-mundo/",
-        "summary": "A Inglaterra de Harry Kane, que sonha em conquistar seu segundo título mundial, 60 anos após o primeiro, enfrenta a Noruega e sua máquina de gols, Erling Haaland, nas quartas de final do torneio, neste sábado (11), em Mi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BW87Y__v1__HighRes__FblWc2026Match91BraNor.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem deve ser a prioridade do Santos em uma renovação de contrato para 2027? Vote!",
-        "link": "https://www.gazetaesportiva.com/times/santos/quem-deve-ser-a-prioridade-do-santos-em-uma-eventual-renovacao-de-contrato-para-2027-vote/",
-        "summary": "O mês de julho não marca apenas o retorno do Santos aos gramados após a disputa da Copa do Mundo, como também traz questões contratuais a serem resolvidas. Ao todo, nove jogadores ligados ao Peixe podem firmar um pré-con",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55384355880_bdd90ae304_o-1.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Liderada por Messi, Argentina desafia monopólio europeu na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/argentina/liderada-por-messi-argentina-desafia-monopolio-europeu-na-copa-do-mundo/",
-        "summary": "Só a Argentina pode impedir que o troféu da Copa do Mundo retorne à Europa. Os atuais campeões continuam na disputa graças a um esforço heroico, lágrimas e uma boa dose da magia de Messi, mas um grande desafio os aguarda",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260707__B9JL9XV__v1__HighRes__FblWc2026Match95ArgEgy.webp",
-        "date": "11 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que Haaland escolheu jogar pela Noruega mesmo ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16984349/copa-do-mundo-por-que-haaland-escolheu-jogar-pela-noruega-mesmo-tendo-nascido-na-inglaterra-agora-rival",
-        "summary": "Centroavante é a principal arma da Noruega para tentar chegar à semifinal da Copa",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Kane e Bellingham atingem marca e superam dupla le...",
-        "link": "https://www.espn.com.br/disneyplus/artigo/_/id/16973687/kane-bellingham-superaram-dupla-lendaria-da-inglaterra-assistir-disney-plus",
-        "summary": "Principais nomes da equipe confirmam expectativas e lideram campanha rumo ao bicampeonato",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Scaloni diz que 'há pessoas que não querem que Arg...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16988027/scaloni-pessoas-nao-querem-argentina-venca-copa-nega-favorecimento-var",
-        "summary": "Argentina encara a Suíça neste sábado (11), valendo vaga na semifinal da Copa do Mundo",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Como parar Messi? A resposta de técnico da Suíça a...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16985580/como-parar-messi-tecnico-suica-resposta-sincerona",
-        "summary": "null",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que 'clima de vingança' foi tema de coletiva d...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16988168/copa-do-mundo-por-que-clima-de-vinganca-foi-tema-coletiva-suica-rendeu-resposta-sincera-xhaka-vamos-para",
-        "summary": "Suíça volta a enfrentar a Argentina em Copas do Mundo após mais de uma década e com chance de ir à semifinal",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Maior da história? Qual o tamanho de Conor McGrego...",
-        "link": "https://www.espn.com.br/mma/artigo/_/id/16988177/maior-da-historia-qual-o-tamanho-de-conor-mcgregor-no-ufc",
-        "summary": "null",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -367,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Musk ironiza Sam Altman após Apple acusar OpenAI de roubo de segredo industrial",
+        "link": "https://www.infomoney.com.br/business/musk-ironiza-sam-altman-apos-apple-acusar-openai-de-roubo-de-segredo-industrial/",
+        "summary": "Após Apple abrir processo judicial contra a criadora do ChatGPT sob a acusação de roubo de segredos industriais, Musk afirmou que rival Altman \"leva a trapaça a um nível totalmente novo\" The post Musk ironiza Sam Altman ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/sam-altman-elon-musk.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil tem janela de 3 anos para se tornar competitivo em data centers, segundo setor",
+        "link": "https://www.infomoney.com.br/business/brasil-tem-janela-de-3-anos-para-se-tornar-competitivo-em-data-centers-segundo-setor/",
+        "summary": "Executivo diz que oportunidade vem da limitação momentânea que por que passam países como os EUA e os europeus com restrição de crescimento dada a limitação energética para sua expansão The post Brasil tem janela de 3 an",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2025-12-21T230421Z_1895107206_RC274HA8C64G_RTRMADP_3_CHINA-ENERGYSTORAGE.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Duas apostas de MG acertam as 15 dezenas da Lotofácil; prêmio é de R$ 911,5 mil",
+        "link": "https://www.infomoney.com.br/consumo/duas-apostas-de-mg-acertam-as-15-dezenas-da-lotofacil-premio-e-de-r-9115-mil/",
+        "summary": "Os números sorteados foram: 07 – 16 – 24 – 25 – 03 – 19 – 08 – 22 – 02 – 20 – 11 – 23 – 18 – 13 – 17 The post Duas apostas de MG acertam as 15 dezenas da Lotofácil; prêmio é de R$ 911,5 mil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Lotofacil-da-Independencia-1.jpg?fit=300%2C177&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Aposta de Ponta Grossa (PR) acerta as 5 dezenas da Quina e vai receber R$ 10,7 mi",
+        "link": "https://www.infomoney.com.br/consumo/aposta-de-ponta-grossa-pr-acerta-as-5-dezenas-da-quina-e-vai-receber-r-107-mi/",
+        "summary": "As dezenas sorteadas foram 15 – 50 – 63 – 19 – 42 The post Aposta de Ponta Grossa (PR) acerta as 5 dezenas da Quina e vai receber R$ 10,7 mi appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Novo líder supremo do Irã promete vingança por morte de Ali Khamenei",
         "link": "https://www.infomoney.com.br/mercados/novo-lider-supremo-do-ira-promete-vinganca-por-morte-de-ali-khamenei/",
         "summary": "Mensagem por escrito de Mojtaba foi publicada após o encerramento do funeral de quatro dias do pai; novo aiatolá ainda não fez aparições públicas desde que assumiu o cargo The post Novo líder supremo do Irã promete vinga",
@@ -387,49 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Trump diz que há milhares de mísseis prontos para acertar Irã caso seja assassinado",
-        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ha-milhares-de-misseis-prontos-para-acertar-ira-caso-seja-assassinado/",
-        "summary": "A manifestação ocorreu após o funeral do líder supremo iraniano, aiatolá Ali Khamenei, quando pessoas presentes no evento pediram o assassinato do líder norte-americano The post Trump diz que há milhares de mísseis pront",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Iraniano-com-cartaz-pedindo-morte-de-Trump.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "11 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Kane confirma partida de golfe com Trump e diz que o presidente dos EUA joga bem",
-        "link": "https://www.infomoney.com.br/esportes/kane-confirma-partida-de-golfe-com-trump-e-diz-que-o-presidente-dos-eua-joga-bem/",
-        "summary": "Partida aconteceu em Palm Beach, na Flórida, há cerca de 18 meses; Atacante da Inglaterra disse que foi \"uma experiência surreal\" só de conhecê-lo e, obviamente, de jogar golfe com ele The post Kane confirma partida de g",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T205724Z_654632452_UP1EM6H1LNY7D_RTRMADP_3_SOCCER-WORLDCUP-ENG-CRO.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "11 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "FIFA vende pedaços do gramado da final da Copa do Mundo por R$ 2,3 mil",
-        "link": "https://www.infomoney.com.br/esportes/fifa-vende-pedacos-do-gramado-da-final-da-copa-do-mundo-por-r-23-mil/",
-        "summary": "Federação internacional de futebol vende pen drive que contém fragmento original do icônico gramado da final, que será disputada em 19 de julho The post FIFA vende pedaços do gramado da final da Copa do Mundo por R$ 2,3 ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Estadio-New-York-New-Jersey.jpg?fit=300%2C183&amp;quality=70&amp;strip=all",
-        "date": "11 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Biólogos homenageiam Vozinha e batizam nova espécie de molusco com seu nome",
-        "link": "https://www.infomoney.com.br/esportes/biologos-homenageiam-vozinha-e-batizam-nova-especie-de-molusco-com-seu-nome/",
-        "summary": "Molusco, descoberto por pesquisadores espanhóis, se caracteriza pela coloração vermelho-vivo, além de características específicas dos tubérculos do manto, das mandíbulas e da rádula The post Biólogos homenageiam Vozinha ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Goleiro-Vozinha.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
-        "date": "11 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Argentina x Suíça: capitão suíço afirma que time 'tentará incomodar a Argentina'",
-        "link": "https://exame.com/esporte/argentina-x-suica-capitao-suico-afirma-que-time-tentara-incomodar-a-argentina/",
-        "summary": "Capitão suíço esteve em campo na eliminação de 2014 e garante que o confronto pelas quartas de final será \"completamente diferente\"",
+        "title": "Quem foi Jayden Adams, jogador que ajudou a África do Sul a fazer história na Copa antes de morrer",
+        "link": "https://exame.com/esporte/quem-foi-jayden-adams-jogador-que-ajudou-a-africa-do-sul-a-fazer-historia-na-copa-antes-de-morrer/",
+        "summary": "Meio-campista do Mamelodi Sundowns disputou a Copa do Mundo de 2026 e era apontado como um dos principais nomes da nova geração sul-africana",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
@@ -437,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após funeral de Khamenei, líder do Irã promete vingança pela morte do pai: 'É a vontade da nação'",
-        "link": "https://exame.com/mundo/apos-funeral-de-khamenei-lider-do-ira-promete-vinganca-pela-morte-do-pai-e-a-vontade-da-nacao/",
-        "summary": "Líder iraniano promete responder à morte do pai, enquanto Donald Trump afirma que mísseis estão prontos para atingir a República Islâmica",
+        "title": "Thiago Monteiro vence na volta ao circuito e avança no quali de Gstaad",
+        "link": "https://exame.com/esporte/thiago-monteiro-vence-na-volta-ao-circuito-e-avanca-no-quali-de-gstaad/",
+        "summary": "Após dois meses afastado por lesão, brasileiro supera Pierre-Hugues Herbert em partida de 3h08",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
@@ -447,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Alerta do Inmet prevê chuva intensa, ventos de até 100 km/h e granizo em SC",
-        "link": "https://exame.com/brasil/alerta-do-inmet-preve-chuva-intensa-ventos-de-ate-100-km-h-e-granizo-em-sc/",
-        "summary": "Todos os 295 municípios de Santa Catarina estão sob alerta para temporais neste sábado",
+        "title": "Morre Jayden Adams, jogador da África do Sul que participou da Copa do Mundo 2026, aos 25 anos",
+        "link": "https://exame.com/esporte/morre-jayden-adams-jogador-da-africa-do-sul-que-participou-da-copa-do-mundo-de-2026-aos-25-anos/",
+        "summary": "Morte do atleta foi confirmada por familiares e representantes",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
@@ -457,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Peppino di Capri, cantor e compositor do sucesso 'Champagne', morre aos 86 anos",
-        "link": "https://exame.com/pop/peppino-di-capri-cantor-e-compositor-do-sucesso-champagne-morre-aos-86-anos/",
-        "summary": "Cantor e compositor italiano morreu aos 86 anos, na ilha de Capri, onde nasceu, e terá funeral neste domingo",
+        "title": "Scaloni rebate acusações de favorecimento na Copa e reacende rivalidade entre Brasil e Argentina",
+        "link": "https://exame.com/esporte/scaloni-rebate-acusacoes-de-favorecimento-na-copa-e-reacende-rivalidade-entre-brasil-e-argentina/",
+        "summary": "Após reclamações contra decisões do VAR, treinador da Argentina diz que a seleção transforma críticas em reação dentro de campo",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
@@ -467,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Maioria dos motoristas de app depende de financiamento para comprar carro, diz estudo",
-        "link": "https://exame.com/invest/minhas-financas/maioria-dos-motoristas-de-app-depende-de-financiamento-para-comprar-carro-diz-estudo/",
-        "summary": "Pesquisa da GigU mostra a forte dependência do crédito entre motoristas de aplicativo e taxistas que planejam renovar a frota",
+        "title": "Noruega x Inglaterra terá arbitro francês: conheça Clément Turpin",
+        "link": "https://exame.com/esporte/noruega-x-inglaterra-tera-arbitro-frances-conheca-clement-turpin/",
+        "summary": "Árbitro já foi duramente criticado pelo técnico da Inglaterra em partidas anteriores",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
@@ -477,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Audi RS e-tron GT e BMW M4 refletem sabor da diversidade dos supercarros",
-        "link": "https://exame.com/casual/audi-rs-e-tron-gt-e-bmw-m4-refletem-sabor-da-diversidade-dos-supercarros/",
-        "summary": "Em nova versão Performance, elétrico das quatro argolas pode chegar a 925 cv; rival mantém essência do seis-cilindros em linha com tração traseira",
+        "title": "Os melhores destinos do mundo para quem viaja para fora pela primeira vez",
+        "link": "https://exame.com/casual/os-melhores-do-mundo-para-quem-viaja-para-fora-pela-primeira-vez/",
+        "summary": "Levantamento avalia segurança, custo, mobilidade e domínio de inglês em 40 destinos ao redor do mundo",
         "image": null,
         "date": "11 de jul. de 2026",
         "source": "Exame",
