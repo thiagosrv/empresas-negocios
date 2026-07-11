@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T00:02:04.958Z",
+  "updated": "2026-07-11T04:15:52.921Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "ITA recebe inscrições para o vestibular de 2027 até domingo",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricao-para-vestibular-do-ita-termina-na-noite-de-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricao-para-vestibular-do-ita-termina-na-noite-de-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mirando recordes de todos os tipos, França amplia status de favorita",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/mirando-recordes-de-todos-os-tipos-franca-amplia-status-de-favorita",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/mirando-recordes-de-todos-os-tipos-franca-amplia-status-de-favorita img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Congresso avança na aprovação de projetos para proteção às mulheres",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-avanca-na-aprovacao-de-projetos-para-protecao-mulheres",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-avanca-na-aprovacao-de-projetos-para-protecao-mulheres img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
@@ -161,29 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "CNE define regras para garantir 200 dias letivos do calendário escolar",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/cne-define-regras-para-garantir-200-dias-letivos-do-calendario-escolar",
-        "summary": "p O Conselho Nacional de Educação (CNE) publicou a a href= https://www.gov.br/mec/pt-br/cne/2026/abril-de-2026/pceb003_26.pdf target= _blank resolução /a para strong garantir o cumprimento dos 200 dias letivos e o direit",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Anvisa determina apreensão de lotes falsificados do Mounjaro",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-determina-apreensao-de-lotes-falsificados-do-mounjaro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-determina-apreensao-de-lotes-falsificados-do-mounjaro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Inglaterra define premiação milionária ao elenco caso vença a Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-define-premiacao-milionaria-ao-elenco-caso-venca-a-copa-do-mundo/",
+        "summary": "A seleção da Inglaterra estabeleceu um acordo de premiação para recompensar jogadores e comissão técnica caso conquiste o título da Copa do Mundo de 2026. O elenco dividirá um bônus de 15 milhões de libras esterlinas, va",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260706__B9C77NK__v2__HighRes__TopshotFblWc2026Match92MexEng.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Scaloni nega suposto favorecimento à Argentina na Copa",
+        "link": "https://www.gazetaesportiva.com/times/argentina/scaloni-nega-suposto-favorecimento-a-argentina-na-copa/",
+        "summary": "O técnico da Argentina, Lionel Scaloni, rebateu as acusações de favorecimento da arbitragem às vésperas do confronto contra a Suíça pelas quartas de final da Copa do Mundo. Em coletiva, o treinador destacou que, com o us",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260711__B9WB3JP__v2__HighRes__FblWc2026PresserArg.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Com gol nos acréscimos, Sport busca empate contra o Botafogo-SP pela Série B",
+        "link": "https://www.gazetaesportiva.com/times/sport/sport-botafogo-sp-empate-3x3-serie-b-2026/",
+        "summary": "Sport e Botafogo-SP fizeram um jogo eletrizante na Ilha do Retiro, nesta sexta-feira (10), pela 17ª rodada da Série B do Brasileirão 2026. Os visitantes abriram 2 a 0 ainda no primeiro tempo com Zé Hugo e Rafael Gava, ma",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55386164864_373a5055af_o.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Vai atrás? Entenda o que o Palmeiras pensa sobre o retorno de Gabriel Jesus",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/vai-atras-entenda-o-que-o-palmeiras-pensa-sobre-o-retorno-de-gabriel-jesus/",
+        "summary": "O Palmeiras não tem interesse em repatriar Gabriel Jesus neste momento. Contudo, o clube mantém o atacante no radar e avalia a contratação para as próximas janelas. O post Vai atrás? Entenda o que o Palmeiras pensa sobre",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260215__97MZ8JG__v1__HighRes__776452864.webp",
+        "date": "11 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Vila Nova perde do Juventude e desperdiça chance de assumir a ponta da Série B",
         "link": "https://www.gazetaesportiva.com/times/juventude/vila-nova-perde-do-juventude-e-desperdica-chance-de-assumir-a-ponta-da-serie-b/",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/corinthians/imprensa-mexicana-coloca-memphis-do-corinthians-no-radar-do-tigres/",
         "summary": "Nos últimos dias, veículos e perfis especializados do México passaram a repercutir um possível interesse do Tigres na contratação do atacante do Corinthians, que vive um momento de indefinição sobre seu futuro no clube p",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/245186-2.webp",
-        "date": "10 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Avaí anuncia contratação de atacante do Tombense",
-        "link": "https://www.gazetaesportiva.com/times/avai/avai-contrata-juan-rocha-reforco-serie-b/",
-        "summary": "O Avaí anunciou a contratação do atacante Juan Rocha, de 21 anos, com vínculo até o fim de novembro. O jogador chega do Tombense, onde disputou 17 partidas e marcou quatro gols, para reforçar o clube catarinense, que viv",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HM5R8jNWwAAxBZc.webp",
-        "date": "10 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "EC São Bernardo x São Paulo: saiba onde assistir ao jogo pelo Paulista sub-20",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/ec-sao-bernardo-x-sao-paulo-saiba-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
-        "summary": "São Paulo e São Bernardo duelam neste sábado, em duelo válido pela sexta rodada do Campeonato Paulista sub-20. A bola rola às 10h (de Brasília), no Estádio Taboão, em São Bernardo do Campo (SP). Onde assistir ao vivo? Yo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55374550745_fa33bbf5dc_o.webp",
-        "date": "10 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Benfica x Flamengo: veja prováveis escalações e onde assistir ao amistoso internacional",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/benfica-x-flamengo-veja-provaveis-escalacoes-e-onde-assistir-ao-amistoso-internacional/",
-        "summary": "Flamengo e Benfica se enfrentam neste sábado pelo Troféu do Algarve, em Portugal. A partida marca o terceiro amistoso da intertemporada rubro-negra, que busca manter a preparação para o segundo semestre da temporada. O p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55220079660_ad296d9eee_k.webp",
-        "date": "10 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Capivariano: saiba onde assistir ao duelo pelo Paulista sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-capivariano-saiba-onde-assistir-ao-duelo-pelo-paulista-sub-20/",
-        "summary": "Palmeiras e Capivariano se enfrentam neste sábado, pela sexta rodada do Campeonato Paulista. Saiba onde assistir ao duelo. O post Palmeiras x Capivariano: saiba onde assistir ao duelo pelo Paulista sub-20 apareceu primei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/FTM-4842.webp",
         "date": "10 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,119 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Bancos privados resistem a fechar operação para salvar BRB, que avalia ir ao STF",
-        "link": "https://www.infomoney.com.br/politica/bancos-privados-resistem-a-fechar-operacao-para-salvar-brb-que-avalia-ir-ao-stf/",
-        "summary": "Acordo mediado pelo ministro Luiz Fux, do Supremo Tribunal Federal (STF), prevê a entrada de um grupo de bancos na operação como fiadores The post Bancos privados resistem a fechar operação para salvar BRB, que avalia ir",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-10T143921Z_1_LYNXNPEL390SM_RTROPTP_4_BANCO-MASTER-M-A-BANCO-BRASILIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
+        "title": "Atacante que perdeu gol em eliminação da Colômbia na Copa recebe ameaças de morte",
+        "link": "https://www.infomoney.com.br/esportes/atacante-que-perdeu-gol-em-eliminacao-da-colombia-na-copa-recebe-ameacas-de-morte/",
+        "summary": "A Federação Colombiana de Futebol (FCF) repreendeu \"categoricamente as ameaças contra a vida e a integridade\" do jogador e sua família The post Atacante que perdeu gol em eliminação da Colômbia na Copa recebe ameaças de ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T231127Z_886307554_UP1EM771SF1P9_RTRMADP_3_SOCCER-WORLDCUP-SWI-COL.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "EUA ampliam sanções ao núcleo financeiro do líder supremo do Irã",
-        "link": "https://www.infomoney.com.br/mundo/eua-ampliam-sancoes-ao-nucleo-financeiro-do-lider-supremo-do-ira/",
-        "summary": "Tesouro mira operador ligado a Khamenei e casas de câmbio após ataques em Ormuz The post EUA ampliam sanções ao núcleo financeiro do líder supremo do Irã appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-04T131920Z_2036087163_RC2SMLA808K8_RTRMADP_3_IRAN-CRISIS-KHOMEINI-ANNIVERSARY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
+        "title": "Flávio Bolsonaro cobra governo Lula por sobretaxa da China sobre carne brasileira",
+        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-cobra-governo-lula-por-sobretaxa-da-china-sobre-carne-brasileira/",
+        "summary": "Somada à tarifa de 12% já cobrada dentro da cota, a taxação pode chegar a 67% sobre o volume excedente, de acordo com Flávio The post Flávio Bolsonaro cobra governo Lula por sobretaxa da China sobre carne brasileira appe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/flavio-bolsonaro-live-.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Apple processa OpenAI e dois ex-funcionários por suposto roubo de segredos comerciais",
-        "link": "https://www.infomoney.com.br/business/apple-processa-openai-e-dois-ex-funcionarios-por-suposto-roubo-de-segredos-comerciais/",
-        "summary": "Empresa acusa dona do ChatGPT e dois ex-funcionários de usar informações sigilosas para avançar em hardware de consumo The post Apple processa OpenAI e dois ex-funcionários por suposto roubo de segredos comerciais appear",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T214714Z_1_LYNXMPEM691B1_RTROPTP_4_APPLE-OPENAI-LAWSUIT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
+        "title": "Javier Milei diz que virá ao Brasil para demonstrar apoio a Flávio Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/javier-milei-diz-que-vira-ao-brasil-para-demonstrar-apoio-a-flavio-bolsonaro/",
+        "summary": "O libertário planeja visitar São Paulo no próximo dia 25, quando ocorrerá a convenção do PL, que deve oficializar Flávio como presidenciável The post Javier Milei diz que virá ao Brasil para demonstrar apoio a Flávio Bol",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/FLAVIOBOLSONAROMILEI.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Declan Rice é isolado por causa de vírus e deve aumentar baixas da Inglaterra",
-        "link": "https://www.infomoney.com.br/esportes/declan-rice-e-isolado-por-causa-de-virus-e-deve-aumentar-baixas-da-inglaterra/",
-        "summary": "Depois de não conseguir reverter a expulsão de Quansah e confirmar problemas musculares em Ghéhi, agora é o experiente volante Declan Rice o problema da vez The post Declan Rice é isolado por causa de vírus e deve aument",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T023830Z_57651958_UP1EM7607C5G7_RTRMADP_3_SOCCER-WORLDCUP-MEX-ENG.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
+        "title": "Haddad, sobre taxa de juros: Banco Central está criando problema desnecessariamente",
+        "link": "https://www.infomoney.com.br/politica/haddad-sobre-taxa-de-juros-banco-central-esta-criando-problema-desnecessariamente/",
+        "summary": "Haddad disse ainda que a Selic não precisava ter alcançado 15% no ano passado e que o BC deveria ter iniciado o ciclo de cortes mais cedo The post Haddad, sobre taxa de juros: Banco Central está criando problema desneces",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-03-20T020746Z_661092987_RC208KAX0NNV_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Adolescente morre em comemoração da vitória da França nas quartas de final da Copa",
-        "link": "https://www.infomoney.com.br/esportes/adolescente-morre-em-comemoracao-da-vitoria-da-franca-nas-quartas-de-final-da-copa/",
-        "summary": "Uma adolescente de 17 anos morreu em meio às festividades, segundo informações do corpo de bombeiros nesta sexta-feira The post Adolescente morre em comemoração da vitória da França nas quartas de final da Copa appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-09T232238Z_1321952040_UP1EM791SXOPJ_RTRMADP_3_SOCCER-WORLDCUP-FRA-MAR-FANS-PARIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
+        "title": "Haddad diz que Doria e Tarcísio não queriam ser governadores de SP: de passagem",
+        "link": "https://www.infomoney.com.br/politica/haddad-diz-que-doria-e-tarcisio-nao-queriam-ser-governadores-de-sp-de-passagem/",
+        "summary": "\"Perdoe-me a sinceridade, mas eu acredito no que estou falando: tanto Doria quanto Tarcísio não queriam ser governadores, na minha opinião\", disse Haddad The post Haddad diz que Doria e Tarcísio não queriam ser governado",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-02-102602.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Vini Jr. fala pela primeira vez após eliminação do Brasil: frustração é absurda",
-        "link": "https://www.infomoney.com.br/esportes/vini-jr-fala-pela-primeira-vez-apos-eliminacao-do-brasil-frustracao-e-absurda/",
-        "summary": "O jogador afirmou que precisou de alguns dias para refletir antes de falar sobre a despedida do Mundial The post Vini Jr. fala pela primeira vez após eliminação do Brasil: frustração é absurda appeared first on InfoMoney",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/vini-jr-pronunciamento.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de jul. de 2026",
+        "title": "Passa de 4 mil número de mortos nos terremotos na Venezuela",
+        "link": "https://www.infomoney.com.br/mundo/passa-de-4-mil-numero-de-mortos-nos-terremotos-na-venezuela/",
+        "summary": "O número de ⁠feridos ​nos ​terremotos de ⁠24 ​de junho permaneceu ​inalterado em 16.740 The post Passa de 4 mil número de mortos nos terremotos na Venezuela appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-03T230151Z_2133546861_RC2C6MALNHTL_RTRMADP_3_VENEZUELA-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula conversa por telefone com presidente da Venezuela e promete ajuda na recontrução do país",
+        "title": "Técnico da Noruega revela a estratégia para eliminar a Inglaterra na Copa",
+        "link": "https://exame.com/esporte/tecnico-da-noruega-revela-a-estrategia-para-eliminar-a-inglaterra-na-copa/",
+        "summary": "Técnico Stale Solbakken afirma que a seleção precisa manter seu estilo de jogo para buscar uma vaga nas semifinais",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Após crise com Michelle, Flávio Bolsonaro promete vouchers para creches e microcrédito a mulheres",
+        "link": "https://exame.com/brasil/apos-crise-com-michelle-flavio-bolsonaro-promete-vouchers-para-creches-e-microcredito-a-mulheres/",
+        "summary": "Ato ocorreu nesta sexta-feira, durante evento do PL em Fortaleza",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Sobre o que é 'A Odisseia'? O clássico que inspirou o novo filme de Christopher Nolan",
+        "link": "https://exame.com/pop/sobre-o-que-e-a-odisseia-o-classico-que-inspirou-o-novo-filme-de-christopher-nolan/",
+        "summary": "Escrito por Homero, o poema acompanha a longa jornada de Odisseu após a Guerra de Troia e segue influenciando livros, séries, filmes e a cultura pop",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Netanyahu revela ser torcedor da Argentina na Copa do Mundo: 'Milei é um grande amigo de Israel'",
+        "link": "https://exame.com/mundo/netanyahu-revela-ser-torcedor-da-argentina-na-copa-do-mundo-milei-e-um-grande-amigo-de-israel/",
+        "summary": "Premier israelense associa apoio à seleção argentina à relação com Javier Milei e descarta influência de Lionel Messi",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Apple processa OpenAI e acusa dona do ChatGPT de roubo de segredos comerciais",
+        "link": "https://exame.com/inteligencia-artificial/apple-processa-openai-alegando-roubo-de-segredos-comerciais/",
+        "summary": "Processo apresentado na Califórnia marca uma mudança na relação entre as empresas, que anunciaram uma parceria para integrar o ChatGPT ao iPhone em 2024",
+        "image": null,
+        "date": "10 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Lula conversa por telefone com presidente da Venezuela e promete ajuda na reconstrução do país",
         "link": "https://exame.com/mundo/lula-conversa-por-telefone-com-presidente-da-venezuela-e-promete-ajuda-na-recontrucao-do-pais/",
         "summary": "Em telefonema com Delcy Rodríguez, presidente afirmou que o Brasil seguirá apoiando a população venezuelana",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Lula vê tarifaço de Trump como provável e esperará anúncio para decidir sobre reação",
-        "link": "https://exame.com/brasil/lula-ve-tarifaco-de-trump-como-provavel-e-esperara-anuncio-para-decidir-sobre-reacao/",
-        "summary": "Lei que estipula medidas de reciprocidade a serem adotadas, prevê princípio da proporcionalidade e direito de defesa",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Javier Milei virá ao Brasil para dar apoio a Flávio Bolsonaro, diz jornal",
-        "link": "https://exame.com/mundo/javier-milei-vira-ao-brasil-para-dar-apoio-a-flavio-bolsonaro-diz-jornal/",
-        "summary": "Encontro previsto em Brasília ocorre enquanto Bolsonaro cumpre prisão domiciliar e tenta reverter sua condenação no STF",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "França x Espanha: veja o horário e a data da partida da semifinal da Copa",
-        "link": "https://exame.com/esporte/franca-x-espanha-veja-o-horario-e-a-data-da-partida-da-semifinal-da-copa/",
-        "summary": "As duas equipes fizeram valer o favoritismo e estão entre as quatro melhores do Mundial",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Sistema Swift anuncia rede de pagamentos internacionais blockchain com Itaú e mais 16 bancos",
-        "link": "https://exame.com/future-of-money/sistema-swift-anuncia-rede-de-pagamentos-internacionais-blockchain-com-itau-e-mais-16-bancos/",
-        "summary": "Instituições financeiras envolvidas no piloto poderão fazer transações 24/7 em ambiente digital com depósitos tokenizados",
-        "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Calor e crescimento industrial levam demanda de energia da China a novo recorde",
-        "link": "https://exame.com/mundo/calor-e-crescimento-industrial-levam-demanda-de-energia-da-china-a-novo-recorde/",
-        "summary": "Pico de consumo foi impulsionado pela atividade industrial, expansão dos serviços e altas temperaturas registradas no verão",
         "image": null,
         "date": "10 de jul. de 2026",
         "source": "Exame",
