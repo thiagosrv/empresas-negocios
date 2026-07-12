@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T07:30:00.491Z",
+  "updated": "2026-07-12T09:54:17.709Z",
   "feeds": {
     "campinas": [
       {
@@ -13,7 +13,7 @@
         "cls": "brasil"
       },
       {
-        "title": "Quem é estudante que morreu após Porsche pegar fogo ao bater contra árvore em Campinas",
+        "title": "Quem era estudante que morreu após Porsche pegar fogo ao bater contra árvore em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/quem-e-estudante-que-morreu-apos-porsche-pegar-fogo-ao-colidir-com-arvore-em-campinas.ghtml",
         "summary": "Arthur Rodrigues de Souza, estudante de medicina que morreu após Porsche entrar em chamas ao bater contra árvore Reprodução/EPTV Arthur Rodrigues de Souza, de 20 anos, foi uma das duas vítimas que morreram carbonizadas a",
         "image": "https://s2-g1.glbimg.com/yjWAThTlqE7JrAmBmgytrwdVO9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/n/TbT9o1SGmuXDuB0RBM4g/copia-de-1200px-x-900px-14-.jpg",
@@ -33,9 +33,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Polícia pede exame de DNA para tentar identificar mulher que morreu após Porsche pegar fogo",
+        "title": "Polícia Civil busca identificar vítima de acidente com Porsche em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/policia-aguarda-dna-para-confirmar-identidade-de-mulher-morta-apos-porsche-pegar-fogo-apos-batida.ghtml",
-        "summary": "Acidente com Porsche em Campinas deixa dois mortos carbonizados A Polícia Civil aguarda o resultado do exame de DNA para confirmar a identidade da mulher que morreu carbonizada após uma Porsche Cayman bater contra uma ár",
+        "summary": "Acidente com Porsche em Campinas deixa dois mortos carbonizados A Polícia Civil pediu exames para tentar identificar uma das vítimas do acidente com uma Porsche Cayman que bateu contra uma árvore e pegar fogo na noite de",
         "image": "https://s2-g1.glbimg.com/rvytOEh5JKTCDpWEGQs6Qs_taH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/XwZEk7Rra8PjOX9zf3oA/copia-de-1200px-x-900px-5-.jpg",
         "date": "11 de jul. de 2026",
         "source": "G1 Campinas",
@@ -243,6 +243,66 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
+      },
+      {
+        "title": "Messi passa em branco pela 1ª vez na Copa, mas Arg...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16992315/copa-do-mundo-messi-passa-em-branco-primeira-vez-argentina-conta-com-golaco-prorrogacao-vence-suica-vai-semi-contra-inglaterra",
+        "summary": "Após empate em 1 a 1 no tempo normal, atuais campeões do mundo brilharam no tempo-extra e garantiram a vaga",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Por que jogador da Suíça foi expulso? Novidade no ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16992916/por-que-jogador-suica-foi-expulso-contra-argentina-novidade-var-copa-explica",
+        "summary": "Embolo levou cartão polêmico e complicou o jogo contra a Argentina para a Suíça nas quartas da Copa do Mundo",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Argentina consagra semifinal que Fifa 'planejou' n...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16992773/copa-do-mundo-argentina-consagra-semifinal-fifa-planejou-e-nunca-aconteceu-na-historia",
+        "summary": "Atual campeã venceu a Suíça e avançou para mais uma semifinal de Copa do Mundo, agora contra rival histórico",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Tabela das semifinais da Copa do Mundo: jogos, datas, horários e onde assistir",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16988789/tabela-semifinais-copa-do-mundo-jogos-datas-horarios-onde-assistir",
+        "summary": "Tabela das semifinais da Copa do Mundo está definida, e ainda nesta semana serão conhecidas as duas finalistas",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Bellingham brilha em dia de Haaland sumido e põe I...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16990377/bellingham-ofusca-haaland-coloca-inglaterra-semifinal-copa-do-mundo-despacha-algoz-brasil",
+        "summary": "Noruega e Inglaterra decidiram neste sábado, em Miami, o terceiro semifinalista da Copa do Mundo de 2026",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Bellingham entra para 'clube' que só tem Pelé, Mar...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16991759/bellingham-entra-clube-pele-maradona-garrincha-e-mais-cinco-copas-do-mundo",
+        "summary": "Camisa 8 do Real Madrid marcou duas vezes e decidiu para a Inglaterra contra a Noruega",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
       }
     ],
     "negocios": [
@@ -307,6 +367,36 @@
         "cls": ""
       },
       {
+        "title": "Fraude, ganância e carisma: livro revisita personagens das grandes crises financeiras",
+        "link": "https://www.infomoney.com.br/mercados/fraude-ganancia-e-carisma-livro-revisita-personagens-das-grandes-crises-financeiras/",
+        "summary": "\"Aventureiros e Larápios\" conta a história de fraudadores, vítimas, autoengano e por que nenhum sistema de controle consegue eliminar totalmente novas fraudes The post Fraude, ganância e carisma: livro revisita personage",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Midia-87.jpg?fit=300%2C160&amp;quality=70&amp;strip=all",
+        "date": "12 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Copa do Mundo Feminina de 2027 anima marcas e patrocinadores no Brasil",
+        "link": "https://www.infomoney.com.br/esportes/copa-do-mundo-feminina-de-2027-anima-marcas-e-patrocinadores-no-brasil/",
+        "summary": "Empresas apostam em torneio em casa e no avanço do futebol feminino para ativar público The post Copa do Mundo Feminina de 2027 anima marcas e patrocinadores no Brasil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/54878925636_a4b4b9cf04_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "12 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "O que funciona contra o crime? Pesquisadora questiona plano de Flávio Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/o-que-funciona-contra-o-crime-pesquisadora-questiona-plano-de-flavio-bolsonaro/",
+        "summary": "Para a pesquisadora Carolina Grillo, do GENI-UFF, propostas como ampliação de presídios, endurecimento de penas e redução da maioridade penal aprofundam estratégias adotadas há décadas no Brasil sem resultados consistent",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-09-215156-1.png?fit=300%2C164&amp;quality=70&amp;strip=all",
+        "date": "12 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "ASSISTA AOS GOLS: Argentina vence Suíça na prorrogação e chega às semifinais da Copa",
         "link": "https://www.infomoney.com.br/esportes/jogo-argentina-suica-copa-2026/",
         "summary": "A Argentina enfrentará a Inglaterra, que venceu a Noruega por 2 x 1 na prorrogação, na próxima quarta-feira, em Atlanta, por uma vaga na final The post ASSISTA AOS GOLS: Argentina vence Suíça na prorrogação e chega às se",
@@ -337,39 +427,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Lotofácil hoje, concurso 3733: confira o resultado sorteado neste sábado (11)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3733-confira-o-resultado-sorteado-neste-sabado-11/",
-        "summary": "Para apostar na Lotofácil é preciso marcar entre 15 e 20 números, dentre os 25 disponíveis no bilhete. O apostador fatura se acertar 11, 12, 13, 14 ou 15 números The post Lotofácil hoje, concurso 3733: confira o resultad",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "12 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quina hoje, concurso 7063: confira o resultado sorteado neste sábado (11)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7063-confira-o-resultado-sorteado-neste-sabado-11/",
-        "summary": "Para tentar a sorte na Quina, o apostador pode marcar de 5 a 15 números dentre os 80 disponíveis no bilhete The post Quina hoje, concurso 7063: confira o resultado sorteado neste sábado (11) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
-        "date": "12 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mega-Sena hoje, concurso 3030: confira o resultado sorteado neste sábado (11)",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3030-confira-o-resultado-sorteado-neste-sabado-11/",
-        "summary": "Os sorteios da Mega-Sena ocorrem três vezes por semana, às terças, quintas e sábados The post Mega-Sena hoje, concurso 3030: confira o resultado sorteado neste sábado (11) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/20230622_182658.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "12 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Argentina ganha da Suíça na prorrogação e encara Inglaterra na semi da Copa",
-        "link": "https://exame.com/esporte/argentina-ganha-da-suica-na-prorrogacao-e-encara-inglaterra-na-semi-da-copa/",
-        "summary": "Em noite apagada de Messi, atuais campeões do mundo jogaram com um a mais desde os 25 do segundo tempo",
+        "title": "Semifinais da Copa do Mundo serão as mais 'pesadas' desde 1990; entenda",
+        "link": "https://exame.com/esporte/semifinais-da-copa-do-mundo-serao-as-mais-pesadas-desde-1990-entenda/",
+        "summary": "Os duelos que decidirão os finalistas do torneio serão realizados nos dias 13 e 14, terça e quarta-feira",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
@@ -377,51 +437,51 @@
         "cls": "startups"
       },
       {
-        "title": "Messi confirmado: veja as escalações de Argentina e Suíça pelas quartas da Copa",
-        "link": "https://exame.com/esporte/messi-confirmado-veja-as-escalacoes-de-argentina-e-suica-pelas-quartas-da-copa/",
-        "summary": "Argentinos e suíços entram em campo com força total em busca de uma vaga na semifinal da Copa do Mundo de 2026",
+        "title": "Os nomes que podem ganhar espaço no Brasil para a Copa de 2030",
+        "link": "https://exame.com/esporte/os-nomes-que-podem-ganhar-espaco-no-brasil-para-a-copa-de-2030/",
+        "summary": "Com a eliminação no Mundial de 2026, a Seleção inicia a preparação visando 2030 e novos jogadores devem ganhar espaço",
         "image": null,
-        "date": "11 de jul. de 2026",
+        "date": "12 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Irã anuncia fechamento do Estreito de Ormuz por tempo indeterminado",
-        "link": "https://exame.com/mundo/ira-anuncia-fechamento-do-estreito-de-ormuz-por-tempo-indeterminado/",
-        "summary": "IRGC anunciou o fechamento após disparar um tiro de advertência contra uma embarcação que tentava atravessar a via por uma rota não autorizada",
+        "title": "O que faz um suplente de senador e como ele é escolhido?",
+        "link": "https://exame.com/blog/o-que-faz-um-suplente-de-senador-e-como-ele-e-escolhido/",
+        "summary": "A existência dos suplentes garante a continuidade da representação dos estados no Senado Federal",
         "image": null,
-        "date": "11 de jul. de 2026",
+        "date": "12 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Não deu para os vikings: Inglaterra derrota Noruega e segue para semifinal da Copa",
-        "link": "https://exame.com/esporte/nao-deu-para-os-vikings-inglaterra-derrota-noruega-e-segue-para-semifinal-da-copa/",
-        "summary": "Os ingleses chegaram à semifinal de uma Copa do Mundo somente pela 4ª vez em sua história",
+        "title": "Argentina e Inglaterra voltam a se enfrentar 40 anos após 'Gol do Século' e 'Mão de Deus'",
+        "link": "https://exame.com/esporte/argentina-e-inglaterra-voltam-a-se-enfrentar-40-anos-apos-gol-do-seculo-e-mao-de-deus/",
+        "summary": "O reencontro entre argentinos e ingleses será na próxima quarta-feira, 15 de julho, às 16h",
         "image": null,
-        "date": "11 de jul. de 2026",
+        "date": "12 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "O que é a 'maldição de Mick Jagger'? Presença do cantor em Noruega x Inglaterra preocupa torcida",
-        "link": "https://exame.com/pop/o-que-e-a-maldicao-de-mick-jagger-presenca-do-cantor-em-noruega-x-inglaterra-preocupa-torcida/",
-        "summary": "Conhecida desde a Copa de 2010, a superstição envolvendo Mick Jagger voltou aos holofotes após o cantor aparecer nas arquibancadas em Miami",
+        "title": "Como Messi, Mbappé e Cristiano Ronaldo estão construindo impérios fora dos gramados",
+        "link": "https://exame.com/esporte/como-messi-mbappe-e-cristiano-ronaldo-estao-construindo-imperios-fora-dos-gramados/",
+        "summary": "A nova disputa das estrelas do futebol acontece no mercado de investimentos, com estratégias diferentes para cada jogador",
         "image": null,
-        "date": "11 de jul. de 2026",
+        "date": "12 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Terremoto na Venezuela: número de mortos sobe para 4.333 e cerca de 17 mil seguem desalojados",
-        "link": "https://exame.com/mundo/terremoto-na-venezuela-numero-de-mortos-sobe-para-4-333-e-cerca-de-17-mil-seguem-desalojados/",
-        "summary": "Balanço oficial aponta 16.740 feridos após terremotos de magnitudes 7,2 e 7,5",
+        "title": "Fundo partidário e fundo eleitoral: entenda a diferença e a distribuição",
+        "link": "https://exame.com/brasil/fundo-partidario-e-fundo-eleitoral-entenda-a-diferenca-e-a-distribuicao/",
+        "summary": "Enquanto o Fundo Partidário financia o funcionamento permanente dos partidos políticos, o fundo eleitoral é destinado exclusivamente às campanhas eleitorais",
         "image": null,
-        "date": "11 de jul. de 2026",
+        "date": "12 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
