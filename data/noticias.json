@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:14:11.527Z",
+  "updated": "2026-07-12T13:36:33.162Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Argentina elimina Suíça e enfrenta Inglaterra na semifinal",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/argentina-elimina-suica-e-enfrenta-inglaterra-na-semifinal",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/argentina-elimina-suica-e-enfrenta-inglaterra-na-semifinal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Catadoras de mangaba resistem à especulação imobiliária em Aracaju",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/catadoras-de-mangaba-resistem-especulacao-imobiliaria-em-aracaju",
+        "summary": "p strong Um dos principais ícones culturais e ambientais de Sergipe, a mangaba se tornou, nos últimos anos, símbolo de resistência nas comunidades extrativistas que dependem da proteção de seus territórios para garantir ",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasileiro Guto Miguel é campeão de duplas em Wimbledon Juvenil",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasileiro-guto-miguel-e-campeao-de-duplas-em-wimbledon-juvenil",
         "summary": "p strong O Brasil concretizou um sábado histórico em Wimbledon com a conquista de um título e um vice-campeonato nas chaves de duplas do torneio juvenil. /strong img src= https://agenciabrasil.ebc.com.br/ebc.png?id=16965",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Basquete Feminino: TV Brasil transmite neste domingo semifinal da LBF",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/basquete-feminino-tv-brasil-transmite-neste-domingo-semifinal-da-lbf",
-        "summary": "p strong Cerrado BRB e Sampaio Basquete abrem a disputa por uma vaga na grande final da Liga de Basquete Feminino (LBF) neste domingo (12), no Sesi Taguatinga, em Brasília (DF). A TV Brasil exibe todas as emoções do conf",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Jayden Adams, jogador da seleção sul-africana, morre aos 25 anos",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/copa-do-mundo-2026-morre-jogador-jayden-adams-da-africa-do-sul",
-        "summary": "p strong Jayden Adams, meia do Mamelodi Sundowns e da seleção da África do Sul, morreu neste sábado (11), aos 25 anos. br / br / O corpo do jogador, que disputou a Copa do Mundo de 2026 pela seleção sul-africana, foi enc",
-        "image": null,
-        "date": "11 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Flaco é o 1º jogador do Palmeiras a dar uma assistência em Copa desde Arce",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/flaco-e-o-1o-jogador-do-palmeiras-a-dar-uma-assistencia-em-copa-desde-arce/",
-        "summary": "O atacante Flaco López se tornou o primeiro jogador do Palmeiras a dar uma assistência em Copas desde o lateral Francisco Arce, do Paraguai, em 1998. O post Flaco é o 1º jogador do Palmeiras a dar uma assistência em Copa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9XR4FR__v1__MidRes__FblWc2026Match100ArgSui.webp",
+        "title": "Cavani rescinde contrato e deixa o Boca Juniors após três temporadas",
+        "link": "https://www.gazetaesportiva.com/times/boca-juniors/cavani-deixa-boca-juniors-rescisao-contrato/",
+        "summary": "O atacante uruguaio Edinson Cavani não faz mais parte do elenco do Boca Juniors. Após três temporadas no clube argentino, o jogador de 39 anos rescindiu seu contrato. Sua passagem foi marcada por lesões, irregularidade e",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/08/cavani_bocajrs_240825.webp",
         "date": "12 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians volta a jogar em Cascavel após dois anos; relembre",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-volta-a-jogar-em-cascavel-apos-dois-anos-relembre/",
-        "summary": "O Corinthians volta a jogar no Estádio Olímpico Regional Jacy Miguel Scanagatta neste domingo, quando enfrenta o Cascavel em amistoso de intertemporada, às 16h (horário de Brasília). O retorno do Timão à casa cascavelens",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/218453-1.webp",
+        "title": "Técnico da Suíça critica expulsão de Embolo contra a Argentina",
+        "link": "https://www.gazetaesportiva.com/times/suica/tecnico-da-suica-critica-expulsao-de-embolo-contra-a-argentina/",
+        "summary": "O técnico da Suíça, Murat Yakin, criticou a expulsão de Breel Embolo na derrota por 3 a 1 para a Argentina nas quartas de final da Copa do Mundo de 2026. O treinador considerou a decisão arbitral decisiva para o resultad",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__2285705975__v1__MidRes__ArgentinaVSwitzerlandQuarterFinalFifaWorldCup.webp",
         "date": "12 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Desfalque de Gabigol cria dor de cabeça para Cuca armar o ataque do Santos",
-        "link": "https://www.gazetaesportiva.com/times/santos/desfalque-de-gabigol-cria-dor-de-cabeca-para-cuca-armar-o-ataque-do-santos/",
-        "summary": "Sem Gabigol, suspenso pelo terceiro cartão amarelo, o Santos terá mudanças no ataque diante do Botafogo. Rony e Thaciano disputam a vaga deixada pelo camisa 9, enquanto Cuca avalia as últimas atividades da intertemporada",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/04/cuca-santos1404.webp",
+        "title": "Vamos com tudo , diz Julián Álvarez após garantir vaga nas semifinais",
+        "link": "https://www.gazetaesportiva.com/times/argentina/vamos-com-tudo-diz-julian-alvarez-apos-garantir-vaga-nas-semifinais/",
+        "summary": "Julián Álvarez destacou a união e a força da seleção argentina após a vitória por 3 a 1 sobre a Suíça, que garantiu vaga nas semifinais da Copa do Mundo de 2026. Autor de um dos gols da classificação, o atacante afirmou ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9XQ63V__v1__MidRes__FblWc2026Match100ArgSui.webp",
         "date": "12 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ryan Francisco marca em jogo-treino e tenta retomar espaço no profissional do São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/ryan-francisco-retorno-sao-paulo-lesao/",
-        "summary": "Após se recuperar de uma lesão ligamentar no joelho, o jovem atacante Ryan Francisco voltou a ganhar destaque no São Paulo ao marcar em jogo-treino contra o Santo André. Promessa revelada em Cotia e artilheiro da Copinha",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55383895368_b83561366f_o.webp",
+        "title": "Estamos acostumados a sofrer , diz Thiago Almada após classificação da Argentina",
+        "link": "https://www.gazetaesportiva.com/times/argentina/estamos-acostumados-a-sofrer-diz-thiago-almada-apos-classificacao-da-argentina/",
+        "summary": "Thiago Almada celebrou a classificação da Argentina para as semifinais da Copa do Mundo de 2026 após a vitória por 3 a 1 sobre a Suíça, conquistada na prorrogação. O meio-campista destacou a dificuldade da partida, o cos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9XR6KN__v2__MidRes__FblWc2026Match100ArgSui.webp",
         "date": "12 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasil perde dos EUA e vai às quartas da Liga das Nações de Vôlei como terceiro",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-perde-dos-eua-e-vai-as-quartas-da-liga-das-nacoes-de-volei-como-terceiro/",
-        "summary": "Depois de perder para a Tailândia, a Seleção Brasileira feminina de vôlei encerrou a fase classificatória da Liga das Nações com duas derrotas consecutivas. Na madrugada deste domingo, com o retorno das titulares, o Bras",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/SnapInsta.to_745305198_18605489647013024_3757800200832520636_n.webp",
+        "title": "Conor McGregor x Max Holloway no UFC 329: veja fotos da luta",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/lutas/conor-mcgregor-x-max-holloway-no-ufc-329-veja-fotos-da-luta/",
+        "summary": "O post Conor McGregor x Max Holloway no UFC 329: veja fotos da luta apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__2285712488__v1__MidRes__Ufc329McgregorVHolloway2.webp",
         "date": "12 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Scaloni avalia classificação da Argentina e projeta Inglaterra: Precisamos melhorar",
-        "link": "https://www.gazetaesportiva.com/times/argentina/scaloni-argentina-inglaterra-semifinal-copa-do-mundo-2026/",
-        "summary": "Após a classificação da Argentina sobre a Suíça, Lionel Scaloni reconheceu que a equipe sofreu mais do que esperava, afirmou que o desempenho precisa evoluir e projetou o confronto diante da Inglaterra na semifinal da Co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9XN24F__v1__HighRes__FblWc2026Match100ArgSui.webp",
+        "title": "Após 36 anos, semifinais da Copa voltam a reunir apenas campeões mundiais",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/semifinais-copa-do-mundo-2026-selecoes-campeas/",
+        "summary": "Após 36 anos, a Copa do Mundo volta a ter semifinais disputadas exclusivamente por seleções campeãs mundiais. França, Espanha, Argentina e Inglaterra garantiram vaga entre os quatro melhores do torneio e também estabelec",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9XN79R__v2__HighRes__TopshotFblWc2026Match100ArgSui.webp",
         "date": "12 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Mega-Sena: ninguém acerta as 6 dezenas e prêmio estimado acumula para R$ 25 milhões",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-concurso-3030-ninguem-acerta-as-6-dezenas-e-premio-estimado-acumula-para-r-25-milhoes/",
-        "summary": "As dezenas sorteadas foram: 06 - 11 - 25 - 45 - 48 - 58 The post Mega-Sena: ninguém acerta as 6 dezenas e prêmio estimado acumula para R$ 25 milhões appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_mega-sena_Rafa-Neddermeyer-Agencia-Brasil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Pequenos negócios têm fonte de renda como pontos de retirada; veja como se tornar um",
+        "link": "https://www.infomoney.com.br/business/pequenos-negocios-tem-fonte-de-renda-como-pontos-de-retirada-veja-como-se-tornar-um/",
+        "summary": "Marketplaces também oferecem opção de cadastro para parceiros de entrega para tornar operação logística ainda mais eficiente The post Pequenos negócios têm fonte de renda como pontos de retirada; veja como se tornar um a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/mercado-livre-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "12 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Você tem direito a 30 dias de férias. Então por que continua cansado?",
-        "link": "https://www.infomoney.com.br/carreira/voce-tem-direito-a-30-dias-de-ferias-entao-por-que-continua-cansado/",
-        "summary": "Brasileiros usam, em média, apenas 20 dias de descanso por ano, sentem dificuldade para se desconectar e transformam as férias em um período de recuperação física e mental. The post Você tem direito a 30 dias de férias. ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ChatGPT-Image-9-de-jul.-de-2026-14_14_16.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Após ataques da direita , Damares decide deixar equipe de plano de governo de Flávio",
+        "link": "https://www.infomoney.com.br/politica/apos-ataques-da-direita-damares-decide-deixar-equipe-de-plano-de-governo-de-flavio/",
+        "summary": "Senadora disse que pode contribuir numa eventual transição da Presidência e confirma que senador não a procurou desde escalada da crise com Michelle Bolsonaro The post Após ataques da direita , Damares decide deixar equi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/damares-alves.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "12 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Herdou um precatório? O maior desafio pode ser esperar pelo dinheiro",
-        "link": "https://www.infomoney.com.br/minhas-financas/herdou-um-precatorio-o-maior-desafio-pode-ser-esperar-pelo-dinheiro/",
-        "summary": "Especialista avalia que, apesar dos valores parecerem altos, a espera pelo pegamento pode acabar pesando na escolhe The post Herdou um precatório? O maior desafio pode ser esperar pelo dinheiro appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/cropped-alvaro-serrano-hjwKMkehBco-unsplash-1.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "title": "França x Espanha e Argentina x Inglaterra: o Raio-X das 4 semifinalistas da Copa",
+        "link": "https://www.infomoney.com.br/esportes/franca-x-espanha-e-argentina-x-inglaterra-o-raio-x-das-4-semifinalistas-da-copa/",
+        "summary": "Semifinais reúnem as quatro primeiras colocadas do ranking da Fifa, sete títulos mundiais e alguns dos maiores artilheiros da Copa de 2026 The post França x Espanha e Argentina x Inglaterra: o Raio-X das 4 semifinalistas",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-12-100618.png?fit=300%2C196&amp;quality=70&amp;strip=all",
         "date": "12 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Fraude, ganância e carisma: livro revisita personagens das grandes crises financeiras",
-        "link": "https://www.infomoney.com.br/mercados/fraude-ganancia-e-carisma-livro-revisita-personagens-das-grandes-crises-financeiras/",
-        "summary": "\"Aventureiros e Larápios\" conta a história de fraudadores, vítimas, autoengano e por que nenhum sistema de controle consegue eliminar totalmente novas fraudes The post Fraude, ganância e carisma: livro revisita personage",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Midia-87.jpg?fit=300%2C160&amp;quality=70&amp;strip=all",
+        "title": "Brasileirão recomeça nesta semana; veja o calendário dos próximos jogos",
+        "link": "https://www.infomoney.com.br/esportes/brasileirao-calendario-jogos-2026/",
+        "summary": "Após a derrota da Copa do Mundo, o campeonato nacional vira o foco dos torcedores brasileiros The post Brasileirão recomeça nesta semana; veja o calendário dos próximos jogos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/54960731298_f25e73b553_b-1.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
         "date": "12 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Copa do Mundo Feminina de 2027 anima marcas e patrocinadores no Brasil",
-        "link": "https://www.infomoney.com.br/esportes/copa-do-mundo-feminina-de-2027-anima-marcas-e-patrocinadores-no-brasil/",
-        "summary": "Empresas apostam em torneio em casa e no avanço do futebol feminino para ativar público The post Copa do Mundo Feminina de 2027 anima marcas e patrocinadores no Brasil appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/54878925636_a4b4b9cf04_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ministros do STF adiam Código de Ética para depois das eleições",
+        "link": "https://www.infomoney.com.br/politica/ministros-do-stf-adiam-codigo-de-etica-para-depois-das-eleicoes/",
+        "summary": "Avaliação é que o ambiente eleitoral dificulta a construção de consenso sobre o tema, sensível para a imagem do tribunal The post Ministros do STF adiam Código de Ética para depois das eleições appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55270631785_a0b9caed88_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "12 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O que funciona contra o crime? Pesquisadora questiona plano de Flávio Bolsonaro",
-        "link": "https://www.infomoney.com.br/politica/o-que-funciona-contra-o-crime-pesquisadora-questiona-plano-de-flavio-bolsonaro/",
-        "summary": "Para a pesquisadora Carolina Grillo, do GENI-UFF, propostas como ampliação de presídios, endurecimento de penas e redução da maioridade penal aprofundam estratégias adotadas há décadas no Brasil sem resultados consistent",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-09-215156-1.png?fit=300%2C164&amp;quality=70&amp;strip=all",
+        "title": "Crocantes e práticas: frutas liofilizadas viram febre, mas é preciso moderação",
+        "link": "https://www.infomoney.com.br/saude/crocantes-e-praticas-frutas-liofilizadas-viram-febre-snack-fitness-mas-e-preciso-moderacao/",
+        "summary": "Alternativa promete praticidade e nutrientes, mas nutricionista alerta que pequenas porções concentram açúcares e calorias The post Crocantes e práticas: frutas liofilizadas viram febre, mas é preciso moderação appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-12-094222.png?fit=300%2C166&amp;quality=70&amp;strip=all",
         "date": "12 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Por que a memória da inteligência artificial se tornou uma das principais apostas das empresas",
-        "link": "https://exame.com/inteligencia-artificial/por-que-a-memoria-da-inteligencia-artificial-se-tornou-uma-das-principais-apostas-das-empresas/",
-        "summary": "Recursos de memória persistente prometem tornar assistentes virtuais mais úteis e personalizados, mas também ampliam o debate sobre privacidade, transparência e controle das informações armazenadas",
+        "title": "Militares dos EUA negam bloqueio do Estreito de Ormuz anunciado pelo Irã",
+        "link": "https://exame.com/mundo/militares-dos-eua-negam-bloqueio-do-estreito-de-ormuz-anunciado-pelo-ira/",
+        "summary": "Washington afirma que o tráfego marítimo segue normal, apesar da escalada das tensões no Oriente Médio",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Eles trocaram a CLT por um negócio de R$ 390 milhões contra perrengue em viagens",
-        "link": "https://exame.com/negocios/eles-trocaram-a-clt-por-um-negocio-de-r-390-milhoes-contra-perrengue-em-viagens/",
-        "summary": "Após ganhar espaço no seguro-viagem, a insurtech recebeu aporte de R$ 35 milhões para crescer no Brasil e no exterior",
+        "title": "Que horas estreia o 4º episódio da 3ª temporada de 'A Casa do Dragão'?",
+        "link": "https://exame.com/pop/que-horas-estreia-o-4o-episodio-da-3a-temporada-de-a-casa-do-dragao-2/",
+        "summary": "Novo capítulo da série é lançado simultaneamente na HBO e na HBO Max toda semana",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "'É um desafio para muitas pessoas chegar até o fim do mês', diz CEO do maior supermercado do Brasil",
-        "link": "https://exame.com/negocios/e-um-desafio-para-muitas-pessoas-chegar-ate-o-fim-do-mes-diz-ceo-do-maior-supermercado-do-brasil/",
-        "summary": "Pablo Lorenzo comanda o Grupo Carrefour Brasil, líder do varejo alimentar com 123,5 bilhões de reais em vendas",
+        "title": "Julián Álvarez cresce na hora decisiva e vira arma da Argentina na reta final da Copa",
+        "link": "https://exame.com/esporte/julian-alvarez-cresce-na-hora-decisiva-e-vira-arma-da-argentina-na-reta-final-da-copa/",
+        "summary": "O atacante Julián Álvarez foi eleito o melhor jogador (Superior Player of the Match) na partida de ontem, 11 de julho, na Copa do Mundo",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "O país do surfe: como o Brasil virou o maior mercado e a maior potência da WSL",
-        "link": "https://exame.com/casual/o-pais-do-surfe-como-o-brasil-virou-o-maior-mercado-e-a-maior-potencia-da-wsl/",
-        "summary": "Sob o comando de Ivan Martinho, o escritório local da WSL transforma o país no epicentro financeiro do surfe mundial, movimentando milhões com o Vivo Rio Pro",
+        "title": "Por que a Geração Z sente saudade de uma época que não viveu",
+        "link": "https://exame.com/pop/por-que-a-geracao-z-sente-saudade-de-uma-epoca-que-nao-viveu/",
+        "summary": "Pesquisa mostra que jovens são os mais impactados por conteúdos nostálgicos e ajudam a transformar músicas, séries e filmes antigos em novos sucessos",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Deixamos o inventário para depois, mas já se passaram 12 anos. E agora?",
-        "link": "https://exame.com/mercado-imobiliario/deixamos-o-inventario-para-depois-mas-ja-se-passaram-12-anos-e-agora/",
-        "summary": "Especialista responde dúvida de leitores; envie você também suas perguntas",
+        "title": "Morre Sheikh Hamad bin Khalifa, ex-emir que governou o Catar por 18 anos",
+        "link": "https://exame.com/mundo/morre-sheikh-hamad-bin-khalifa-ex-emir-que-governou-o-catar-por-18-anos/",
+        "summary": "Ex-líder chegou ao poder em 1995 e conduziu a transformação econômica e política que projetou o país globalmente",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "90% dos projetos renováveis foram mais baratos que usinas fósseis em 2025",
-        "link": "https://exame.com/esg/90-dos-projetos-renovaveis-foram-mais-baratos-que-usinas-fosseis-em-2025/",
-        "summary": "Energia solar e eólica mantiveram vantagem econômica em novos empreendimentos, enquanto sistemas com baterias ganham espaço no mercado",
+        "title": "Messi segue vivo pelo bicampeonato: os números da campanha argentina",
+        "link": "https://exame.com/esporte/messi-segue-vivo-pelo-bicampeonato-os-numeros-da-campanha-argentina/",
+        "summary": "Classificada para a semifinal da Copa do Mundo, seleção de Lionel Scaloni avançou com duas prorrogações",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
