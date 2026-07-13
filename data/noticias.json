@@ -1,22 +1,12 @@
 {
-  "updated": "2026-07-13T15:43:45.754Z",
+  "updated": "2026-07-13T17:57:59.692Z",
   "feeds": {
     "campinas": [
       {
         "title": "Campinas ganha hospital do SUS para ampliar cirurgias e aliviar unidades de alta complexidade",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/campinas-ganha-hospital-do-sus-para-ampliar-cirurgias-e-aliviar-unidades-de-alta-complexidade.ghtml",
-        "summary": "O Hospital São Leopoldo Mandic foi inaugurado nesta segunda-feira (13) com 23 leitos destinados ao Sistema Único de Saúde (SUS), em Campinas (SP). A unidade vai oferecer cirurgias e internações de média complexidade e de",
+        "summary": "Campinas ganha hospital do SUS para ampliar cirurgias e aliviar outras unidades O Hospital São Leopoldo Mandic foi inaugurado nesta segunda-feira (13) com 23 leitos destinados ao Sistema Único de Saúde (SUS), em Campinas",
         "image": "https://s2-g1.glbimg.com/sn2Q_kei8YhhyobxgDeG3ZRwRAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/C2wlJfRzWC4hhZJo6a6A/whatsapp-image-2026-07-13-at-11.57.57.jpeg",
-        "date": "13 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
         "date": "13 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -63,6 +53,46 @@
         "cls": "brasil"
       },
       {
+        "title": "VÍDEO: câmera flagra homem ateando fogo a loja na região central de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/video-camera-flagra-homem-ateando-fogo-a-loja-na-regiao-central-de-campinas.ghtml",
+        "summary": "Câmera flagra homem ateando fogo a loja na região central de Campinas Câmeras de segurança registraram o momento em que um homem ateou fogo a uma loja de fotografia na Rua Doutor Quirino, na região central de Campinas (S",
+        "image": "https://s2-g1.glbimg.com/dM4948hArYXremLllGWSmkNLppU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/GqW7NPTeuHBtpqaK7F9g/video-icnendio.png",
+        "date": "13 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Reforma Tributária: 01/08 marca início da exigência de obrigações acessórias e penalidades",
+        "link": "https://jornalamericanense.com.br/economia/reforma-tributaria-01-08-marca-inicio-da-exigencia-de-obrigacoes-acessorias-e-penalidades/",
+        "summary": "A entrada em vigor das obrigações acessórias da Reforma Tributária, em 1º de agosto de 2026, marca uma nova fase da transição do sistema tributário brasileiro. A partir dessa data, o foco das empresas deixa de estar apen",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Inscrições para a 4ª Corrida Pernas da Alegria – Edição Florescer já estão abertas",
+        "link": "https://jornalamericanense.com.br/esportes/inscricoes-para-a-4a-corrida-pernas-da-alegria-edicao-florescer-ja-estao-abertas/",
+        "summary": "O Instituto Pernas da Alegria está com inscrições abertas para a 4ª Corrida Pernas da Alegria – Edição Florescer, que será realizada no dia 20 de setembro de 2026, na FIDAM (Feira Industrial de Americana), em Americana (",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Cachorro é resgatado de dentro de manilha a 3 metros de profundidade em Americana; caso é investigado como maus-tratos",
+        "link": "https://jornalamericanense.com.br/policia/cachorro-e-resgatado-de-dentro-de-manilha-a-3-metros-de-profundidade-em-americana-caso-e-investigado-como-maus-tratos/",
+        "summary": "Um cachorro foi resgatado pela Guarda Civil Municipal (GCM) de Americana após ser encontrado preso dentro de uma manilha, fechada com uma tampa de ferro, na região da Represa do Cillos. O caso, tratado como crime de maus",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Radares com inteligência artificial começam a multar motoristas por uso de celular e falta de cinto no Rodoanel",
         "link": "https://jornalamericanense.com.br/brasil/radares-com-inteligencia-artificial-comecam-a-multar-motoristas-por-uso-de-celular-e-falta-de-cinto-no-rodoanel/",
         "summary": "Tecnologia instalada nos trechos Sul e Leste identifica infrações em tempo real e imagens passam a embasar autuações aplicadas pela Polícia Militar Rodoviária. Após um período de testes, os radares equipados com inteligê",
@@ -93,34 +123,44 @@
         "cls": "servicos"
       },
       {
-        "title": "Pai agride filha de 3 anos com chute em plena rua, vídeo revolta moradores e leva à prisão preventiva",
-        "link": "https://jornalamericanense.com.br/policia/pai-agride-filha-de-3-anos-com-chute-em-plena-rua-video-revolta-moradores-e-leva-a-prisao-preventiva/",
-        "summary": "Investigação apontou histórico de violência contra as crianças da família; Justiça determinou a prisão do suspeito e medidas de proteção para a mãe e os dois menores. Uma cena de violência contra uma criança de apenas tr",
-        "image": "https://jornalamericanense.com.br/wp-content/uploads/2026/07/WhatsApp-Video-2026-07-10-at-11.14.22.mp4",
-        "date": "10 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "title": "Operação em Costa Barros, no RJ, tem ônibus feitos de barricada",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-em-costa-barros-tem-onibus-feitos-de-barricada",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-em-costa-barros-tem-onibus-feitos-de-barricada img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "5 formas simples para economizar água durante o período de estiagem",
-        "link": "https://jornalamericanense.com.br/brasil/5-formas-simples-para-economizar-agua-durante-o-periodo-de-estiagem/",
-        "summary": "Nível dos mananciais que abastecem a Grande São Paulo são afetados pela falta de chuvas que vai até setembro Com a chegada do período de estiagem na região sudeste, entre junho e setembro, o nível dos mananciais que abas",
+        "title": "Após 36 anos, Copa volta a reunir apenas campeões nas semifinais",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/apos-36-anos-copa-volta-reunir-apenas-campeoes-nas-semifinais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/apos-36-anos-copa-volta-reunir-apenas-campeoes-nas-semifinais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
-        "date": "10 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "13 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Muralha Digital ajuda Guarda Municipal a localizar carro suspeito de furtos em Americana",
-        "link": "https://jornalamericanense.com.br/policia/muralha-digital-ajuda-guarda-municipal-a-localizar-carro-suspeito-de-furtos-em-americana/",
-        "summary": "Sistema de monitoramento identificou a entrada do veículo na cidade e permitiu a abordagem; automóvel, objetos e celulares foram apreendidos para investigação A tecnologia da Muralha Digital voltou a contribuir com o tra",
+        "title": "Rio Grande do Sul: chuvas deixam 720 desabrigados em Eldorado do Sul",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-grande-do-sul-chuvas-deixam-720-desabrigados-em-eldorado-do-sul",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-grande-do-sul-chuvas-deixam-720-desabrigados-em-eldorado-do-sul img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
-        "date": "09 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "13 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mulheres da Amazônia se unem para enfrentar as mudanças climáticas",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-da-amazonia-se-unem-para-enfrentar-mudancas-climaticas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-da-amazonia-se-unem-para-enfrentar-mudancas-climaticas img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Inscrições para o Fies do segundo semestre começam na terça-feira",
@@ -141,107 +181,127 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Fotografia feita há 17 anos inspira campanha vencedora do Leão de Ouro",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/fotografia-feita-ha-17-anos-inspira-campanha-vencedora-do-leao-de-ouro",
-        "summary": "p Uma fotografia feita sem qualquer pretensão artística além do registro do cotidiano ganhou, 17 anos depois, um dos maiores reconhecimentos da publicidade mundial. img src= https://agenciabrasil.ebc.com.br/ebc.png?id=16",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cidade do Rio proíbe publicidade de bets em espaços públicos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cidade-do-rio-proibe-publicidade-de-bets-em-espacos-publicos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cidade-do-rio-proibe-publicidade-de-bets-em-espacos-publicos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ator Rui Rezende morre aos 87 anos, no Rio de Janeiro",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/ator-rui-rezende-morre-aos-87-anos-no-rio-de-janeiro",
-        "summary": "p strong O ator Rui Rezende morreu, neste domingo (12), aos 87 anos no Rio de Janeiro. Ele estava internado desde o início do mês no Hospital São Francisco da Providência de Deus, na zona norte da cidade. /strong img src",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Caminhos da Reportagem destaca semelhanças entre Brasil e Cabo Verde",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/caminhos-da-reportagem-destaca-semelhancas-entre-brasil-e-cabo-verde",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/caminhos-da-reportagem-destaca-semelhancas-entre-brasil-e-cabo-verde img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Neymar reage a vídeo de IA sugerindo sua participação na Copa de 2030",
-        "link": "https://www.gazetaesportiva.com/times/brasil/neymar-reage-a-video-de-ia-sugerindo-sua-participacao-na-copa-de-2030/",
-        "summary": "Neymar comentou um vídeo criado por inteligência artificial que imagina sua participação na Copa do Mundo de 2030. Na publicação, diferentes versões do camisa 10 conversam sobre o sonho de conquistar o Mundial, encerrand",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__B9BW3K9__v1__HighRes__FblWc2026Match91BraNor.webp",
+        "title": "Xabi Alonso pede fome de vitória em primeira coletiva à frente do Chelsea",
+        "link": "https://www.gazetaesportiva.com/times/chelsea/xabi-alonso-chelsea-fome-vitoria-objetivo-europa/",
+        "summary": "O técnico espanhol Xabi Alonso iniciou sua trajetória no comando do Chelsea destacando a necessidade de “fome de vitória” no elenco. Em sua primeira coletiva, o treinador de 44 anos deixou claro que um dos principais obj",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/xabi-alonso-chelsea1307.webp",
         "date": "13 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Macron anuncia um minuto de silêncio antes do jogo França-Espanha pelo 10º aniversário do ataque em Nice",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/minuto-silencio-franca-espanha-vitimas-atentado-nice/",
-        "summary": "Um minuto de silêncio será realizado antes da semifinal da Copa do Mundo entre França e Espanha, nesta terça-feira, em homenagem às vítimas do atentado ocorrido em Nice em 14 de julho de 2016. O anúncio foi feito pelo pr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260713__C2267XW__v1__HighRes__FrancePoliticsDefence.webp",
+        "title": "Veja fotos do treino do Palmeiras desta segunda-feira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-segunda-feira-13-07-26/",
+        "summary": "Com retorno do trio paraguaio, o Palmeiras treinou nesta segunda-feira e seguiu a preparação para o retorno do Brasileirão. Veja fotos. O post Veja fotos do treino do Palmeiras desta segunda-feira apareceu primeiro em Ga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/13072026_cg_palmeiras_7019_64.webp",
         "date": "13 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Croácia anuncia Slaven Bilic como novo treinador",
-        "link": "https://www.gazetaesportiva.com/times/croacia/slaven-bilic-novo-tecnico-croacia/",
-        "summary": "A Federação Croata de Futebol anunciou Slaven Bilic como novo treinador da seleção nacional após a saída de Zlatko Dalic. Aos 57 anos, Bilic retorna ao comando da Croácia depois de ter dirigido a equipe entre 2006 e 2012",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260713__C22F82Y__v1__HighRes__FblCroPresser.webp",
+        "title": "Novo técnico do Liverpool, Iraola se diz pronto para magia de Anfield",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/novo-tecnico-do-liverpool-iraola-se-diz-pronto-para-magia-de-anfield/",
+        "summary": "Em sua primeira entrevista como técnico do Liverpool, o espanhol Andoni Iraola disse, nesta segunda-feira (13), que está pronto para viver a \"magia\" de Anfield. O post Novo técnico do Liverpool, Iraola se diz pronto para",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260713__B9ZM6CE__v2__MidRes__TopshotFblEngPrLiverpoolIraola.webp",
         "date": "13 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Pentacampeão pela Seleção, Kléberson é internado após sentir dores no peito",
-        "link": "https://www.gazetaesportiva.com/times/brasil/kleberson-internado-dores-peito-curitiba/",
-        "summary": "O ex-volante Kléberson, campeão mundial com a Seleção Brasileira em 2002, foi internado em Curitiba após sentir dores no peito. Exames apontaram obstrução de 50% em três artérias, mas os médicos descartaram infarto. O ex",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/r1346205_1296x729_16-9.webp",
+        "title": "Vitor Roque treina em tempo integral e se aproxima de retorno ao Palmeiras após lesão",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitor-roque-treina-em-tempo-integral-retorno-palmeiras-apos-lesao/",
+        "summary": "Vitor Roque avançou em seu processo de transição física e treinou em tempo integral com o elenco do Palmeiras na manhã desta segunda-feira, em atividade realizada na Academia de Futebol. O atacante vive a expectativa de ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/13072026_cg_palmeiras_6921_53.webp",
         "date": "13 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Titular da França, Digne encaminha retorno ao PSG após dez anos",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/titular-da-franca-digne-encaminha-retorno-ao-psg-apos-dez-anos/",
-        "summary": "O Paris Saint-Germain está perto de repatriar o lateral-esquerdo Lucas Digne, atualmente no Aston Villa. O clube francês pretende acionar a cláusula de rescisão de 10 milhões de euros do jogador após a Copa do Mundo. Dig",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260705__2284734272__v1__HighRes__ParaguayVFranceRoundOf16FifaWorldCup2026.webp",
+        "title": "Flamengo monta estratégia para tentar contratar Almada; entenda",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-negociacao-thiago-almada-estrategia/",
+        "summary": "O Flamengo mantém otimismo na tentativa de contratar Thiago Almada e acredita ter vantagem na negociação diante das dificuldades financeiras do River Plate para garantir a proposta feita ao Atlético de Madrid. O clube ca",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__2285792760__v1__HighRes__ArgentinaVSwitzerlandQuarterFinalFifaWorldCu.webp",
         "date": "13 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Roma renova contrato com Paulo Dybala até 2027",
-        "link": "https://www.gazetaesportiva.com/times/roma/roma-renova-contrato-paulo-dybala-2027/",
-        "summary": "A Roma confirmou a renovação de contrato de Paulo Dybala até 2027, garantindo a permanência do atacante argentino para a próxima temporada. Apesar das especulações sobre uma possível saída, o camisa 21 seguirá no clube i",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HIhVXUqWwAAErzo-1.webp",
+        "title": "Com trio paraguaio de volta, Palmeiras se reapresenta e inicia última semana sem jogos",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-reapresentacao-trio-paraguaio/",
+        "summary": "O Palmeiras se reapresentou na manhã desta segunda-feira na Academia de Futebol e deu início à última semana de intertemporada. Para a atividade, o técnico Abel Ferreira contou com os retornos do zagueiro Gustavo Gómez, ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/13072026_cg_palmeiras_7256_83.webp",
         "date": "13 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Titular da Inglaterra superou ironia de Courtois, ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16996924/titular-inglaterra-superou-ironia-courtois-bateu-recorde-copas-vai-tentar-maior-feito-parar-messi",
+        "summary": "null",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Ex-Inglaterra: 'Vamos colocar Messi para dormir e ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16997481/copa-do-mundo-inglaterra-argentina-joe-cole-vamos-ter-que-colocar-messi-para-dormir-e-iremos-a-final",
+        "summary": "null",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Fifa atende pedido da Argentina e define camisa 'd...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16997844/fifa-atende-pedido-argentina-define-camisa-sorte-jogo-inglaterra-copa-mundo",
+        "summary": "Argentina vai jogar com sua 'camisa da sorte' contra a Inglaterra na semifinal da Copa do Mundo 2026",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Como França, Argentina, Espanha e Inglaterra se sa...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16994235/copa-do-mundo-semifinais-franca-argentina-espanha-inglaterra-se-sairam-em-outras-edicoes",
+        "summary": "null",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Boto prevê 'janela modesta' no Flamengo, explica s...",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/16996401/flamengo-jose-boto-janela-modesta-futuro-pulgar-plata-evertton-araujo-maior-venda-futura",
+        "summary": "null",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Flamengo tenta 'atravessar' River Plate para contr...",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/16998167/flamengo-thiago-almada-tenta-atravessar-river-plate-para-contratar",
+        "summary": "Meia-atacante pertence ao Atlético de Madrid e está em negociação com River Plate e Flamengo",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,69 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Dólar forte está de volta? Como o mercado pode reagir e quais ações devem ganhar",
-        "link": "https://www.infomoney.com.br/mercados/dolar-forte-esta-de-volta-como-o-mercado-pode-reagir-e-quais-acoes-devem-ganhar/",
-        "summary": "BofA e Genial apontam que a combinação de juros mais altos nos EUA, fluxo para tecnologia americana e incertezas domésticas favorece a moeda americana; exportadoras brasileiras aparecem entre as principais beneficiadas T",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/dolar_moeda_0803221210.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Engenheiro nascido no Irã é condenado nos EUA por exportar tecnologia ao Irã",
+        "link": "https://www.infomoney.com.br/mundo/engenheiro-nascido-no-ira-e-condenado-nos-eua-por-exportar-tecnologia-ao-ira/",
+        "summary": "Mahdi Sadeghi foi considerado culpado por júri federal em Boston de conspirar para burlar sanções e enviar chips da Analog Devices a empresa ligada à Guarda Revolucionária The post Engenheiro nascido no Irã é condenado n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-03-24T181156Z_780189050_RC25VHAVA5TW_RTRMADP_3_IRAN-CRISIS-PAUSE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Semifinais da Copa: veja quais são os jogos, datas e horários até a final",
-        "link": "https://www.infomoney.com.br/esportes/chaveamento-copa-do-mundo-classificacao-semifinais/",
-        "summary": "França e Argentina são as favoritas para repetirem a final da última Copa The post Semifinais da Copa: veja quais são os jogos, datas e horários até a final appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/montagem-infomoney.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Quem paga pelos cuidados na velhice? Veja o gasto que não pode faltar no planejamento",
+        "link": "https://www.infomoney.com.br/minhas-financas/quem-paga-pelos-cuidados-na-velhice-veja-o-gasto-que-nao-pode-faltar-no-planejamento/",
+        "summary": "Ignorar os cuidados de longo prazo pode gerar endividamento e afetar toda a família, dizem especialistas The post Quem paga pelos cuidados na velhice? Veja o gasto que não pode faltar no planejamento appeared first on In",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Envelhecimento.png?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "13 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Processo da Apple contra OpenAI já ameaça projeto de concorrente do iPhone",
-        "link": "https://www.infomoney.com.br/business/processo-da-apple-contra-openai-ja-ameaca-projeto-de-concorrente-do-iphone/",
-        "summary": "Disputa por propriedade intelectual pode esfriar contratações e atrasar estratégia da empresa de Sam Altman em hardware The post Processo da Apple contra OpenAI já ameaça projeto de concorrente do iPhone appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460431862.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Bolsas da Europa fecham perto da estabilidade com foco no Irã e avanço do petróleo",
+        "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-perto-da-estabilidade-com-foco-no-ira-e-avanco-do-petroleo/",
+        "summary": "Os índices europeus registraram ganhos leves sob o impulso de petroleiras diante do avanço da commodity, enquanto aéreas e o setor de tecnologia limitaram os avanços do pregão The post Bolsas da Europa fecham perto da es",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C192&amp;quality=70&amp;strip=all",
         "date": "13 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "SUZB3: JPMorgan reitera preferência por Suzano em meio a riscos climáticos do El Niño",
-        "link": "https://www.infomoney.com.br/mercados/suzb3-jpmorgan-reitera-preferencia-por-suzano-em-meio-a-riscos-climaticos-do-el-nino/",
-        "summary": "Suzano aparece como a empresa mais protegida e a principal beneficiária em um cenário de preços mais elevados The post SUZB3: JPMorgan reitera preferência por Suzano em meio a riscos climáticos do El Niño appeared first ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/12/Bobinas-Divulgacao-Suzano.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Administradora do CACR11 anuncia renúncia; entenda o que acontece com FII",
+        "link": "https://www.infomoney.com.br/onde-investir/administradora-do-cacr11-anuncia-renuncia-entenda-o-que-acontece-com-fii/",
+        "summary": "A BRL Trust, atual administradora do fundo, comunicou formalmente sua renúncia ao cargo The post Administradora do CACR11 anuncia renúncia; entenda o que acontece com FII appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/pexels-sevenstormphotography-443383-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "13 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O que se sabe sobre a greve dos caminhoneiros, anunciada nesta segunda-feira (13)",
-        "link": "https://www.infomoney.com.br/politica/o-que-se-sabe-sobre-a-greve-dos-caminhoneiros-anunciada-nesta-segunda-feira-13/",
-        "summary": "Categoria pressiona Senado para votação da Medida Provisória do Piso do Frete, que perde validade na quinta-feira (16) The post O que se sabe sobre a greve dos caminhoneiros, anunciada nesta segunda-feira (13) appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/11/CDG20221101017-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Maior impacto da guerra para América Latina e Caribe foi na inflação, diz Cepal",
+        "link": "https://www.infomoney.com.br/economia/maior-impacto-da-guerra-para-america-latina-e-caribe-foi-na-inflacao-diz-cepal/",
+        "summary": "Choque da alta acelerada do barril do petróleo e de outros produtos básicos gerou pressões inflacionárias na região, capturadas pelas recentes divulgações dos índices de preços ao consumidor (IPCs) de abril The post Maio",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-28T150652Z_1_LYNXMPEM5R0FH_RTROPTP_4_IRAN-CRISIS-FERTILIZERS.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "13 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Messi se prepara para esperado primeiro confronto contra Inglaterra na Copa do Mundo",
-        "link": "https://www.infomoney.com.br/esportes/messi-se-prepara-para-esperado-primeiro-confronto-contra-inglaterra-na-copa-do-mundo/",
-        "summary": "Craque argentino passou duas décadas enfrentando grandes seleções mundiais, do Brasil à França; ingleses nunca estiveram no caminho The post Messi se prepara para esperado primeiro confronto contra Inglaterra na Copa do ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-13T133612Z_1_LYNXMPEM6C0QY_RTROPTP_4_SOCCER-WORLDCUP-ARG-SWI_rec_redd.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Processo de 12 estados dos EUA ameaça fusão de US$ 110 bi entre Paramount e Warner",
+        "link": "https://www.infomoney.com.br/business/processo-de-12-estados-dos-eua-ameaca-fusao-de-us-110-bi-entre-paramount-e-warner/",
+        "summary": "Contestação aponta risco de preços mais altos, menos conteúdo e concentração no cinema e na TV The post Processo de 12 estados dos EUA ameaça fusão de US$ 110 bi entre Paramount e Warner appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444375630.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Quanto vai custar o pedágio Free Flow na Imigrantes e Anchieta?",
-        "link": "https://exame.com/brasil/quanto-vai-custar-o-pedagio-free-flow-na-imigrantes-e-anchieta/",
-        "summary": "Com a adequação do free flow nas rodovias Anchieta e Imigrantes, a taxa a ser paga pelos motorista também muda, respeitando a cobrança apenas pelo trecho percorrido",
+        "title": "Accor faz check-in em nova fase de sustentabilidade com metas para 450 hotéis",
+        "link": "https://exame.com/esg/accor-faz-check-in-em-nova-fase-de-sustentabilidade-com-metas-para-450-hoteis/",
+        "summary": "Programa Hosting Change reúne metas de descarbonização, alimentação saudável, diversidade e impacto na cadeia de suprimentos para unidades próprias, administradas e franqueadas",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Free Flow na Anchieta-Imigrantes: entenda a cobrança a partir de agosto",
-        "link": "https://exame.com/brasil/free-flow-na-anchieta-imigrantes-entenda-a-cobranca-a-partir-de-agosto/",
-        "summary": "O sistema Free Flow começa a operar na Anchieta-Imigrantes em 1º de agosto. Entenda como será a cobrança, quanto custa o pedágio, como pagar e o que muda para os motoristas",
+        "title": "Pobreza? Prêmio da Copa ao campeão é bem menor que o da Premier League",
+        "link": "https://exame.com/esporte/pobreza-premio-da-copa-ao-campeao-e-bem-menor-que-o-da-premier-league/",
+        "summary": "Premier League, La Liga e Ligue 1 são as que melhor remuneram os clubes",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "O que está por trás da ação da Apple contra a OpenAI, segundo especialistas",
-        "link": "https://exame.com/inteligencia-artificial/o-que-esta-por-tras-da-acao-da-apple-contra-a-openai-segundo-especialistas/",
-        "summary": "Especialistas avaliam as acusações, a defesa da OpenAI e os possíveis efeitos do caso para o mercado de tecnologia",
+        "title": "11 novidades da música para ouvir nesta semana",
+        "link": "https://exame.com/casual/11-novidades-da-musica-para-ouvir-nesta-semana/",
+        "summary": "São destaques lançamentos de Rolling Stones, Green Day e U2, e parcerias internacionais na MPB, com Ney Matogrosso e Oswaldo Montenegro; confira",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Temendo rivais que operam robotaxis, Uber pede lei em defesa dos motoristas humanos",
-        "link": "https://exame.com/tecnologia/temendo-rivais-que-operam-robotaxis-uber-pede-lei-em-defesa-dos-motoristas-humanos/",
-        "summary": "Segundo a Wired, empresa pressiona por regras que favorecem um modelo híbrido de corridas com motoristas e carros autônomos",
+        "title": "PIS/Pasep: pagamento para quem nasceu em setembro e outubro será em 15 de julho",
+        "link": "https://exame.com/invest/minhas-financas/pis-pasep-pagamento-para-quem-nasceu-em-setembro-e-outubro-sera-em-15-de-julho/",
+        "summary": "Abono salarial será liberado para um novo grupo de trabalhadores, enquanto novas regras de acesso passam a valer neste ano",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Precisamos agir agora': o alerta de 200 economistas sobre a inteligência artificial",
-        "link": "https://exame.com/inteligencia-artificial/precisamos-agir-agora-o-alerta-de-200-economistas-sobre-a-inteligencia-artificial/",
-        "summary": "Carta assinada por 200 economistas e líderes de tecnologia pede novas políticas para enfrentar os impactos da IA",
+        "title": "Além da conta PJ: Cora aposta em crédito e inteligência artificial para ampliar apoio à PMEs",
+        "link": "https://exame.com/negocios/pj-cora-credito-inteligencia-artificial-pmes/",
+        "summary": "Sustentável, lucrativa e em expansão, empresa entra em uma nova fase, usando a inteligência artificial para se consolidar como a principal parceira de quem empreende no Brasil",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "O funcionário que a Coca-Cola FEMSA Brasil procura, já trabalha lá: são159 promoções desde 2025",
-        "link": "https://exame.com/carreira/o-funcionario-que-a-coca-cola-femsa-brasil-procura-ja-trabalha-la-sao159-promocoes-desde-2025/",
-        "summary": "Gabriela Meier, gerente de RH, detalha os programas de formação interna, parentalidade e saúde mental da companhia",
+        "title": "Frio em SP: semana começa com baixas temperaturas na capital e em outras regiões",
+        "link": "https://exame.com/brasil/frio-em-sp-semana-comeca-com-baixas-temperaturas-na-capital-e-em-outras-regioes/",
+        "summary": "Frio aumenta em São Paulo nesta semana, com chances de garoa. Veja a previsão do tempo na capital e em outras regiões do Brasil",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
