@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T04:32:18.024Z",
+  "updated": "2026-07-13T08:18:54.591Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Análise: Corinthians esbarra nos próprios erros e encerra preparação sem convencer",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-cascavel-preparacao-brasileirao/",
+        "summary": "O Corinthians empatou por 1 a 1 com o Cascavel no último amistoso antes da retomada da temporada. Em análise, o Timão mostrou dificuldades na construção das jogadas, voltou a falhar defensivamente e deixou mais trabalho ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246285.webp",
+        "date": "13 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Diego Forlán assume a seleção uruguaia após fracasso na Copa do Mundo",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/diego-forlan-assume-selecao-uruguaia-interino/",
         "summary": "O Uruguai anunciou Diego Forlán como técnico interino da seleção principal após a saída de Marcelo Bielsa. Ídolo da Celeste, o ex-atacante de 47 anos também assumirá de forma definitiva o comando da seleção sub-20. O con",
@@ -235,13 +245,63 @@
         "cls": "startups"
       },
       {
-        "title": "Copa do Mundo faz uma pausa antes das semifinais que (quase) todo mundo queria",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/semifinais-copa-do-mundo-2026-franca-espanha-argentina-inglaterra/",
-        "summary": "As semifinais da Copa do Mundo de 2026 estão definidas e reúnem quatro das maiores potências do futebol mundial. França e Espanha se enfrentam em um duelo que muitos consideram uma final antecipada, enquanto Argentina e ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9XM8CF__v1__HighRes__FblWc2026Match54RsaKor.webp",
+        "title": "Corinthians fica no empate com o Cascavel em amist...",
+        "link": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/16995666/corinthians-cascavel-cria-do-terrao-amistoso-pre-temporada-antes-brasileirao",
+        "summary": "null",
+        "image": null,
         "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "'Não é bom para nós e para o Corinthians': Hugo So...",
+        "link": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/16996637/corinthians-hugo-souza-abre-jogo-salarios-atrasados-nao-e-bom",
+        "summary": "Corinthians entrou em campo neste domingo (12) e ficou no empate por 1 a 1 com o Cascavel",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Hulk faz 1º, e Flu vence Bahia na volta de Thiago ...",
+        "link": "https://www.espn.com.br/futebol/artigo/_/id/16995975/hulk-marca-primeiro-thiago-silva-reestreia-fluminense-vence-bahia-amistoso-antes-volta-brasileirao",
+        "summary": "null",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Rogério Ceni detona arbitragem de Fluminense x Bah...",
+        "link": "https://www.espn.com.br/futebol/artigo/_/id/16996335/rogerio-ceni-detona-arbitragem-fluminense-x-bahia-nao-compensa-viajar-2-mil-km-para-ser-otario",
+        "summary": "Treinador disse que o árbitro foi \"contratado para fazer o resultado acontecer\" no Maracanã",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Zé Elias se revolta e reclama da arbitragem e VAR ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16996610/copa-do-mundo-ze-elias-revolta-arbitragem-e-var-jogos-argentina-vergonhoso",
+        "summary": "Zé Elias vê a arbitragem adotando critérios diferentes nos jogos da Argentina na Copa do Mundo",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Infantino admite possibilidade de Copa do Mundo pa...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16994784/infantino-admite-possibilidade-copa-do-mundo-passar-ter-64-selecoes-em-2030-toda-nacao-deve-ter-oportunidade-sonhar",
+        "summary": "null",
+        "image": null,
+        "date": "12 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,6 +367,26 @@
         "cls": ""
       },
       {
+        "title": "Adeus, IPCA+8%? Como investidor é afetado se Tesouro puxar o gatilho da intervenção",
+        "link": "https://www.infomoney.com.br/onde-investir/ipca-8-intervencao-tesouro-consequencias-investidor/",
+        "summary": "Entrada do governo recomprando títulos indexados à inflação teria impactos para quem tem os papéis e para fundos de renda fixa de maior prazo; veja outras consequências e quais são as apostas do mercado The post Adeus, I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "13 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "O combate ao crime ainda procura “chefões” que já não existem, diz pesquisadora",
+        "link": "https://www.infomoney.com.br/politica/o-combate-ao-crime-ainda-procura-chefoes-que-ja-nao-existem-diz-pesquisadora/",
+        "summary": "Carolina Grillo afirma que Estado insiste em enxergar facções como estruturas piramidais, enquanto organizações criminosas operam em redes flexíveis, com lideranças facilmente substituídas The post O combate ao crime ain",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-09-215156-2.png?fit=300%2C164&amp;quality=70&amp;strip=all",
+        "date": "13 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "ONU expressa preocupação com escalada de ataques EUA-Irã; Teerã alega autodefesa",
         "link": "https://www.infomoney.com.br/mundo/onu-expressa-preocupacao-com-escalada-de-ataques-eua-ira-teera-alega-autodefesa/",
         "summary": "Guterres afirmou que \"um retorno a hostilidades em grande escala teria consequências catastróficas The post ONU expressa preocupação com escalada de ataques EUA-Irã; Teerã alega autodefesa appeared first on InfoMoney.",
@@ -347,24 +427,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Pequenos negócios têm ganho extra como bases de encomendas on-line",
-        "link": "https://www.infomoney.com.br/business/pequenos-negocios-tem-ganho-extra-como-bases-de-encomendas-on-line/",
-        "summary": "Empreendedores se associam a grandes redes de comércio eletrônico como pontos de coleta e distribuição de pacotes The post Pequenos negócios têm ganho extra como bases de encomendas on-line appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_112344183.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "12 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "7.7 vende mais que Black Friday? Para o Meli, sim – e 'culpa' pode ser da Anitta",
+        "link": "https://exame.com/invest/mercados/7-7-vende-mais-que-black-friday-para-o-meli-sim-e-culpa-pode-ser-da-anitta/",
+        "summary": "Com a cantora como nova embaixadora, e-commerce do Mercado Livre registra maior dia de vendas da história no Brasil",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Renan Calheiros: Valdemar sabia da proximidade tóxica com Arthur Lira",
-        "link": "https://www.infomoney.com.br/politica/renan-calheiros-valdemar-sabia-da-proximidade-toxica-com-arthur-lira/",
-        "summary": "Tuca é 'nitroglicerina', complementa Calheiros The post Renan Calheiros: Valdemar sabia da proximidade tóxica com Arthur Lira appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/01/Sen.-Renan-Calheiros-MDB-AL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "12 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Por que a Apple processou adona do ChatGPT? Entenda disputa pelo 'novo iPhone'",
+        "link": "https://exame.com/tecnologia/por-que-a-apple-processou-adona-do-chatgpt-entenda-disputa-pelo-novo-iphone/",
+        "summary": "Fabricante do iPhone acusa a OpenAI de roubar segredos por meio de ex-funcionários para construir um aparelho de IA sem tela — que promete substituir o smartphone",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "CEO da Microsoft diz que usar IA pode custar o segredo que torna sua empresa única",
+        "link": "https://exame.com/inteligencia-artificial/ceo-da-microsoft-diz-que-usar-ia-pode-custar-o-segredo-que-torna-sua-empresa-unica/",
+        "summary": "Satya Nadella cunhou o \"paradoxo reverso da informação\" para alertar que empresas que usam IA pagam a tecnologia duas vezes: uma com dinheiro e outra com algo ainda mais valioso",
+        "image": null,
+        "date": "13 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Tumba de 3.000 anos é descoberta no sul do Egito",
@@ -390,36 +480,6 @@
         "title": "Veja qual time tem mais jogadores nas semifinais da Copa do Mundo",
         "link": "https://exame.com/esporte/veja-qual-time-tem-mais-jogadores-nas-semifinais-da-copa-do-mundo/",
         "summary": "Duelos serão realizados na terça e na quarta-feira para definir os finalistas",
-        "image": null,
-        "date": "12 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Morre Rui Rezende, o lobisomem de 'Roque Santeiro'",
-        "link": "https://exame.com/casual/morre-rui-rezende-o-lobisomem-de-roque-santeiro/",
-        "summary": "Veterano da TV brasileira estava internado desde o início de julho",
-        "image": null,
-        "date": "12 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EUA iniciam nova rodada de ataques ao Irã neste domingo",
-        "link": "https://exame.com/mundo/eua-iniciam-nova-rodada-de-ataques-ao-ira-neste-domingo/",
-        "summary": "Americanos dizem que objetivo é acabar com capacidade iraniana de barrar navios em Ormuz",
-        "image": null,
-        "date": "12 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "'Tem o futebol dentro dele': Rodri defende Lamine Yamal antes de Espanha x França",
-        "link": "https://exame.com/esporte/tem-o-futebol-dentro-dele-rodri-defende-lamine-yamal-antes-de-espanha-x-franca/",
-        "summary": "Rodri saiu em defesa de Lamine Yamal às vésperas da semifinal entre Espanha e França pela Copa do Mundo de 2026",
         "image": null,
         "date": "12 de jul. de 2026",
         "source": "Exame",
