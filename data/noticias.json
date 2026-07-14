@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-13T23:59:50.241Z",
+  "updated": "2026-07-14T03:24:36.542Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "'Nem dar uma volta à noite': moradores relatam sensação de insegurança com tiroteios na região",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/moradores-relatam-sensacao-inseguranca-tiroteios-regiao.ghtml",
+        "summary": "Região de Campinas contabiliza casos com tiros em cidades em 2026 A quantidade de casos de tiroteios em 2026 tem trazido sensação de insegurança a moradores da região administrativa de Campinas (SP). De acordo com levant",
+        "image": "https://s2-g1.glbimg.com/N25QiKwu07m7U1DOlolbKRYDeyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/3/ee413vSYO3vGsM0EUtgg/vlcsnap-2026-07-13-22h19m54s889.png",
+        "date": "14 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Novo vídeo mostra homem deixando loja de foto após causar incêndio; polícia investiga",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/novo-video-mostra-homem-deixando-loja-foto-causar-incendio-policia-investiga.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/mae-e-presa-suspeita-de-aliciar-a-propria-filha-para-abusos-em-americana.ghtml",
         "summary": "Novo prédio da Delegacia de Americana abrange três unidades, entre elas a DDM. Reprodução/EPTV A Polícia Civil de Americana (SP) prendeu, nesta segunda-feira (13), uma mulher suspeita de aliciar a própria filha para abus",
         "image": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg",
-        "date": "13 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO: ônibus fica destruído após pegar fogo em Indaiatuba",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/13/video-onibus-fica-destruido-pegar-fogo-indaiatuba.ghtml",
-        "summary": "VÍDEO: ônibus fica destruído após pegar fogo em Indaiatuba Um ônibus utilizado para transporte de funcionários de uma empresa ficou destruído após pegar fogo no Jardim Paulista 2, em Indaiatuba (SP), na tarde desta segun",
-        "image": "https://s2-g1.glbimg.com/Is8_qFnclNRMA9aWM093Rxy8SAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/1/DVLgNiSxeJZaKrt8Zwzg/sem-nome-1200-x-900-px-1-.jpg",
         "date": "13 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "TJSP absolve empresário Thiago Brennand de acusação de estupro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tjsp-absolve-empresario-thiago-brennand-de-acusacao-de-estupro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tjsp-absolve-empresario-thiago-brennand-de-acusacao-de-estupro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Invictas, seleções do Brasil jogam oitavas do Mundial de vôlei sentado",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/invictas-selecoes-do-brasil-jogam-oitavas-do-mundial-de-volei-sentado",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/invictas-selecoes-do-brasil-jogam-oitavas-do-mundial-de-volei-sentado img src= https://cdn.jsdelivr.net/gh/sergiosdli",
@@ -171,137 +181,67 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Homem é morto durante ação do serviço de imigração dos EUA no Maine",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/homem-e-morto-durante-acao-do-servico-de-imigracao-dos-eua-no-maine",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/homem-e-morto-durante-acao-do-servico-de-imigracao-dos-eua-no-maine img src= https://cdn.jsdelivr.net/gh/sergios",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Lamine pode fazer a diferença, mas outros também , adverte Deschamps",
-        "link": "https://www.gazetaesportiva.com/times/franca/lamine-pode-fazer-a-diferenca-mas-outros-tambem-adverte-deschamps/",
-        "summary": "O técnico da França, Didier Deschamps, advertiu nesta segunda-feira (13) que o foco de sua equipe na semifinal da Copa do Mundo contra a Espanha não deve ser só Lamine Yamal: \"Ele pode fazer a diferença, mas outros jogad",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9W42HA__v1__HighRes__FblWc2026Match98EspBel.webp",
-        "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "França x Espanha: veja onde assistir e prováveis escalações da semifinal da Copa",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/franca-x-espanha-veja-onde-assistir-e-provaveis-escalacoes-da-semifinal-da-copa/",
-        "summary": "França e Espanha se enfrentam nesta terça-feira (13), às 16h (de Brasília), no AT T Stadium, em Dallas, pela semifinal da Copa do Mundo 2026. A seleção francesa chega com 100% de aproveitamento, enquanto a Espanha se des",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260712__B9YJ79E__v3__HighRes__ComboFblWc2026Match101FraEsp.webp",
-        "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos x América-MG: veja onde assistir e informações do jogo pelo Brasileirão sub-17",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-x-america-mg-veja-onde-assistir-e-informacoes-do-jogo-pelo-brasileirao-sub-17/",
-        "summary": "Nesta terça-feira, pela oitava rodada do Campeonato Brasileiro sub-17, o Santos enfrenta o América-MG, no CT Rei Pelé, em Santos (SP) às 15h (de Brasília). O post Santos x América-MG: veja onde assistir e informações do ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55330522626_865c24d3dc_k.webp",
-        "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Flamengo: saiba onde assistir ao jogo pelo Brasileiro sub-17",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-saiba-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-        "summary": "Palmeiras e Flamengo se enfrentam nesta terça-feira, em duelo válido pela oitava rodada do Campeonato Brasileiro sub-17. A bola rola a partir das 11h (de Brasília), no Nubank Parque, em São Paulo (SP). O post Palmeiras x",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/FTM-5116.webp",
-        "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo acerta empréstimo de Alan Franco ao Tigres, do México",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-acerta-emprestimo-de-alan-franco-ao-tigres-do-mexico/",
-        "summary": "O zagueiro Alan Franco está de saída do São Paulo. O Tricolor aceitou uma proposta do Tigres, do México, e acertou o empréstimo do jogador de 31 anos, que, inicialmente, ficará cedido ao clube mexicano até julho de 2027.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/55245905562_fb7e339d47_o-1.webp",
-        "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos quita salário pendente do elenco, mas segue com atraso nos direitos de imagem",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-quita-salario-elenco-direitos-imagem-atrasados/",
-        "summary": "O Santos regularizou o pagamento do único salário CLT que estava pendente com o elenco profissional. Apesar disso, o clube ainda possui atrasos nos direitos de imagem dos jogadores e busca alternativas para equilibrar a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/01/55020378357_104516c373_o.webp",
-        "date": "13 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Inglaterra com mais do que o dobro da Argentina: q...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16999231/inglaterra-dobro-argentina-quanto-cada-semifinalista-viajou-copa-do-mundo",
-        "summary": "null",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Como França, Argentina, Espanha e Inglaterra se sa...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16994235/copa-do-mundo-semifinais-franca-argentina-espanha-inglaterra-se-sairam-em-outras-edicoes",
-        "summary": "null",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
-        "cls": "startups"
-      },
-      {
-        "title": "Deschamps prevê 'semi espetacular' e tira pressão ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16999467/franca-didier-deschamps-preve-semi-espetacular-tira-pressao-espanha-favorita",
-        "summary": "null",
-        "image": null,
+        "title": "Harry Kane minimiza atrito entre Tuchel e Bellingham antes de Inglaterra x Argentina",
+        "link": "https://www.gazetaesportiva.com/times/inglaterra/harry-kane-minimiza-atrito-entre-tuchel-e-bellingham-antes-de-inglaterra-x-argentina/",
+        "summary": "Harry Kane minimizou a troca de declarações entre Thomas Tuchel e Jude Bellingham após a classificação da Inglaterra à semifinal da Copa do Mundo. O capitão dos Three Lions defendeu a união do elenco, afirmou que as crít",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/47110094316-1080pnbcstations.webp",
         "date": "14 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "'Tudo menos futebol': como Espanha alivia pressão ...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16998613/tudo-menos-futebol-como-espanha-alivia-pressao-semifinal-com-franca-series-videogames",
-        "summary": "null",
-        "image": null,
+        "title": "Athletico-PR entra na fase final da instalação do novo gramado da Arena da Baixada",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-entra-na-fase-final-da-instalacao-do-novo-gramado-da-arena-da-baixada/",
+        "summary": "O Athletico informou que a instalação do novo gramado sintético da Arena da Baixada entrou na reta final. O clube divulgou novas imagens do estádio e confirmou que, nos próximos dias, o campo receberá o chamado material ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/GRAMADO-2880X1600-scaled-1.webp",
         "date": "14 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "'Somos a França e não temos medo de ninguém': a re...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16999448/copa-do-mundo-resposta-jogador-psg-provocacao-yamal-somos-a-franca-nao-temos-medo-de-ninguem",
-        "summary": "null",
-        "image": null,
+        "title": "Figueirense empata com o Volta Redonda e fica distante do G8 na Série C",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/figueirense-empata-com-o-volta-redonda-e-fica-distante-do-g8-na-serie-c/",
+        "summary": "Figueirense e Volta Redonda empataram sem gols nesta segunda-feira, no Estádio Orlando Scarpelli, pela 14ª rodada da Série C do Campeonato Brasileiro. O time catarinense criou as melhores oportunidades da partida, acerto",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55377366776_15ef6a110f_k.webp",
         "date": "14 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "A incrível história de como 'camisa da sorte' da A...",
-        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16998213/incrivel-historia-camisa-sorte-argentina-feita-improviso-escudos-recortados",
-        "summary": "null",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "ESPN Brasil",
-        "tag": "ESPN",
+        "title": "Ceará fica no empate com o Athletic e segue no Z4 da Série B",
+        "link": "https://www.gazetaesportiva.com/times/ceara/ceara-fica-no-empate-com-o-athletic-e-segue-no-z4-da-serie-b/",
+        "summary": "Nesta segunda-feira, o Ceará empatou com o Athletic por 0 a 0, no Estádio Presidente Vargas, em Fortaleza (CE), pela 17ª rodada da Série B do Campeonato Brasileiro e segue dentro da zona de rebaixamento. O post Ceará fic",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HNJbu4ZXEAAsIzQ-2.webp",
+        "date": "14 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "América-RN e CSA vencem e avançam às oitavas da Série D",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-d/america-rn-e-csa-vencem-e-avancam-as-oitavas-da-serie-d/",
+        "summary": "Estão definidos os últimos dois classificados para as oitavas de final da Série D do Campeonato Brasileiro. Nesta segunda-feira, América-RN e CSA venceram Trem e Betim, respectivamente, e confirmaram presença na próxima ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55361404053_39b376dcec_o.webp",
+        "date": "14 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Alan Franco se despede do São Paulo: Uma das maiores honras da minha carreira",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/alan-franco-se-despede-do-sao-paulo-uma-das-maiores-honras-da-minha-carreira/",
+        "summary": "Alan Franco se despediu do São Paulo nesta segunda-feira e confirmou sua transferência para o Tigres, do México. O zagueiro argentino de 31 anos deixa o Tricolor após três temporadas, 152 jogos disputados e as conquistas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55305456342_b18bf9b305_k.webp",
+        "date": "14 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
         "cls": "startups"
       }
     ],
@@ -367,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Damares pede fim do “fogo amigo” e sai em defesa de Michelle Bolsonaro",
-        "link": "https://www.infomoney.com.br/politica/damares-pede-fim-do-fogo-amigo-e-sai-em-defesa-de-michelle-bolsonaro/",
-        "summary": "Senadora diz sofrer ataques de aliados e fala em violência política The post Damares pede fim do “fogo amigo” e sai em defesa de Michelle Bolsonaro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/damares-alves.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "13 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Empresário anuncia encerramento de agência dias após ser alvo da PF no caso Master",
-        "link": "https://www.infomoney.com.br/politica/empresario-anuncia-encerramento-de-agencia-dias-apos-ser-alvo-da-pf-no-caso-master/",
-        "summary": "Empresário afirma que empresa encerra atividades após dez anos e fala em \"novo ciclo\" The post Empresário anuncia encerramento de agência dias após ser alvo da PF no caso Master appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-13-192202.png?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "13 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Espanha aposta no controle do meio-campo para conter quarteto ofensivo da França",
-        "link": "https://www.infomoney.com.br/esportes/espanha-aposta-no-controle-do-meio-campo-para-conter-quarteto-ofensivo-da-franca/",
-        "summary": "Dominar a posse de bola será a arma da seleção espanhola contra o poder de fogo do ataque francês, diz o ponta Álex Baena The post Espanha aposta no controle do meio-campo para conter quarteto ofensivo da França appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Espanha-Copa-do-Mundo.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "13 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
         "title": "Aluguel acumula alta de 5,24% no semestre e segue pressionando orçamento",
         "link": "https://www.infomoney.com.br/minhas-financas/aluguel-acumula-alta-de-524-no-semestre-e-segue-pressionando-orcamento/",
         "summary": "Aumento fica acima da inflação, superando IPCA e IGP-M; demanda aquecida mantém os preços elevados nas principais capitais brasileiras The post Aluguel acumula alta de 5,24% no semestre e segue pressionando orçamento app",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2151015220.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "13 de jul. de 2026",
+        "date": "14 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Fifa define uniformes das semifinais da Copa do Mundo; veja como cada seleção jogará",
-        "link": "https://www.infomoney.com.br/esportes/uniformes-das-semifinais-copa-do-mundo/",
-        "summary": "França e Espanha abrem as semifinais nesta terça-feira (14) The post Fifa define uniformes das semifinais da Copa do Mundo; veja como cada seleção jogará appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-12-100618.png?fit=300%2C196&amp;quality=70&amp;strip=all",
-        "date": "13 de jul. de 2026",
+        "title": "YPF Energía Eléctrica pede IPO nos EUA com Itaú BBA entre coordenadores",
+        "link": "https://www.infomoney.com.br/mercados/ypf-energia-electrica-pede-ipo-nos-eua-com-itau-bba-entre-coordenadores/",
+        "summary": "A operação tem o Goldman Sachs, a BofA Securities e o Citigroup entre os coordenadores globais The post YPF Energía Eléctrica pede IPO nos EUA com Itaú BBA entre coordenadores appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "14 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Juiz de El Salvador que aplicou Lei Vini Jr. vai apitar semifinal França x Espanha",
-        "link": "https://www.infomoney.com.br/esportes/juiz-de-el-salvador-que-aplicou-lei-vini-jr-vai-apitar-semifinal-franca-x-espanha/",
-        "summary": "Iván Barton Cisneros expulsou o paraguaio Miguel Almirón após meia-atacante ter coberto a boca durante uma discussão com jogadores da Turquia na primeira fase da Copa do Mundo The post Juiz de El Salvador que aplicou Lei",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ivan-Cisneros.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "13 de jul. de 2026",
+        "title": "Carlos Bolsonaro diz que militarização foi um dos maiores erros do governo do pai",
+        "link": "https://www.infomoney.com.br/politica/carlos-bolsonaro-diz-que-militarizacao-foi-um-dos-maiores-erros-do-governo-do-pai/",
+        "summary": "Ele afirmou que o irmão, o senador e pré-candidato Flávio Bolsonaro (PL-RJ), não repetirá esse modelo The post Carlos Bolsonaro diz que militarização foi um dos maiores erros do governo do pai appeared first on InfoMoney",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-24T130234Z_204898995_RC20NIAA5ZZH_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "14 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Brasil enfrenta o Japão nas quartas de final da VNL feminina; veja o chaveamento",
-        "link": "https://exame.com/esporte/brasil-enfrenta-o-japao-nas-quartas-de-final-da-vnl-feminina-veja-o-chaveamento/",
-        "summary": "Seleção brasileira terminou a fase preliminar na terceira colocação e busca vaga na semifinal em Macau, na China",
+        "title": "Agentes de imigração dos EUA matam motorista colombiano de 26 anos",
+        "link": "https://www.infomoney.com.br/mundo/agentes-de-imigracao-dos-eua-matam-motorista-colombiano-de-26-anos/",
+        "summary": "É a segunda vez em uma semana que funcionários do Serviço de Imigração e Alfândega dos Estados Unidos (ICE, na sigla em inglês) recorreram ao uso de força letal The post Agentes de imigração dos EUA matam motorista colom",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-11T054129Z_2042965061_RC245HAQAKL7_RTRMADP_3_USA-TRUMP-IMMIGRATION-CHICAGO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "14 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Trump envia ao Congresso notificação formal de que conflito com Irã foi retomado",
+        "link": "https://www.infomoney.com.br/mundo/trump-envia-ao-congresso-notificacao-formal-de-que-conflito-com-ira-foi-retomado/",
+        "summary": "“Ordenei essa ação militar em consonância com minha responsabilidade de proteger os norte-americanos e a segurança nacional dos Estados Unidos\", disse Trump em carta The post Trump envia ao Congresso notificação formal d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/459630763.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "14 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Janja: críticas por gastos são misoginia e sou única primeira-dama que trabalha",
+        "link": "https://www.infomoney.com.br/politica/janja-criticas-por-gastos-sao-misoginia-e-sou-unica-primeira-dama-que-trabalha/",
+        "summary": "Janja disse que opta por se hospedar em embaixadas do Brasil e viaja de executiva por questão de segurança The post Janja: críticas por gastos são misoginia e sou única primeira-dama que trabalha appeared first on InfoMo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/raf09561_0-e1742903123486.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "14 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Uber faz 'faxina' em categorias e corta carros; veja modelos excluídos",
+        "link": "https://exame.com/invest/mercados/uber-faz-faxina-em-categorias-e-corta-carros-veja-modelos-excluidos/",
+        "summary": "No Uber Black, alguns modelos deixarão de ser aceitos independentemente do ano de fabricação",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -437,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Moraes autoriza Braga Netto a fazer curso à distância para reduzir pena por tentativa de golpe",
-        "link": "https://exame.com/brasil/moraes-autoriza-braga-netto-a-fazer-curso-a-distancia-para-reduzir-pena-por-tentativa-de-golpe/",
-        "summary": "Condenado a 26 anos de prisão pela tentativa de golpe de Estado, o general poderá reduzir parte da pena por meio de estudo e leitura",
+        "title": "Onde encontrar os filmes e séries de Sam Neill? Ator morreu nesta segunda-feira, 13",
+        "link": "https://exame.com/pop/onde-encontrar-os-filmes-e-series-de-sam-neill-ator-morreu-nesta-segunda-feira-13/",
+        "summary": "Astro de Jurassic Park construiu uma carreira de mais de cinco décadas entre blockbusters, dramas e séries de sucesso",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -447,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Flávio diz que Moraes quer ‘interferir nas eleições’ após ser impedido de visitar Jair Bolsonaro",
-        "link": "https://exame.com/brasil/flavio-diz-que-moraes-quer-interferir-nas-eleicoes-apos-ser-impedido-de-visitar-jair-bolsonaro/",
-        "summary": "Restrição vale até após o primeiro turno da eleição presidencial e inclui apuração sobre eventual propaganda eleitoral antecipada",
+        "title": "Último adeus nas telas: Sam Neill aparecerá em novo filme de 'Godzilla e Kong: Supernova'",
+        "link": "https://exame.com/pop/ultimo-adeus-nas-telas-sam-neill-aparecera-em-novo-filme-de-godzilla-e-kong-supernova/",
+        "summary": "Ícone de 'Jurassic Park' ainda poderá ser visto em três produções inéditas, incluindo o próximo capítulo do MonsterVerse",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -457,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Michael' fatura US$ 1 bilhão e se torna a segunda maior bilheteria do ano",
-        "link": "https://exame.com/pop/michael-fatura-us-1-bilhao-e-se-torna-a-segunda-maior-bilheteria-do-ano/",
-        "summary": "O longa faz parte da recente recuperação do tradicional estúdio hollywoodiano, que operava em prejuízo nos últimos anos",
+        "title": "Xbox amplia catálogo do Game Pass com Gears of War e novos títulos em julho",
+        "link": "https://exame.com/pop/xbox-amplia-catalogo-do-game-pass-com-gears-of-war-e-novos-titulos-em-julho/",
+        "summary": "Assinantes já podem aproveitar novos games, enquanto o calendário de julho segue cheio de estreias",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -467,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "O live-action de 'Moana' não é o sucesso de bilheteria que a Disney esperava",
-        "link": "https://exame.com/pop/o-live-action-de-moana-nao-e-o-sucesso-de-bilheteria-que-a-disney-esperava/",
-        "summary": "Apesar de liderar as bilheterias na estreia, remake arrecadou menos do que o previsto e reacendeu dúvidas sobre a estratégia da Disney para suas franquias mais populares",
+        "title": "Copa do Mundo 2026: os memes que dominaram as redes e marcaram o torneio",
+        "link": "https://exame.com/esporte/copa-do-mundo-2026-os-memes-que-dominaram-as-redes-e-marcaram-o-torneio/",
+        "summary": "Entre lances improváveis, decisões polêmicas e cenas inusitadas, a Copa de 2026 também ficou marcada por uma enxurrada de memes que atravessaram fronteiras",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
@@ -477,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Aos 96 anos, Fernanda Montenegro estreia no TikTok e YouTube",
-        "link": "https://exame.com/pop/aos-96-anos-fernanda-montenegro-estreia-no-tiktok-e-youtube/",
-        "summary": "No YouTube, a estreia do canal ocorreu com a publicação de uma entrevista concedida ao Canal Brasil",
+        "title": "Mentor do roubo milionário ao Museu do Louvre teria reclamado: 'Dava para levar mais'",
+        "link": "https://exame.com/pop/mentor-do-roubo-milionario-ao-museu-do-louvre-teria-reclamado-dava-para-levar-mais/",
+        "summary": "Acusados detalharam a ação contra o museu francês e afirmaram que o líder da operação esperava levar mais peças",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Exame",
