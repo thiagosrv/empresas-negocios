@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T03:24:36.542Z",
+  "updated": "2026-07-14T06:14:58.856Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "ECA completa 36 anos entre avanços e desafios para proteger crianças",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/eca-completa-36-anos-entre-avancos-e-desafios-para-proteger-criancas",
+        "summary": "p O Brasil comemorou nesta segunda-feira (13) os 36 anos da Lei 8.069, que instituiu o Estatuto da Criança e do Adolescente (ECA). A data abre a semana dedicada à legislação e estimula debates sobre políticas públicas vo",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "TJSP absolve empresário Thiago Brennand de acusação de estupro",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tjsp-absolve-empresario-thiago-brennand-de-acusacao-de-estupro",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tjsp-absolve-empresario-thiago-brennand-de-acusacao-de-estupro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
@@ -166,16 +176,6 @@
         "title": "Cantor e compositor João Bosco completa 80 anos",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/cantor-e-compositor-joao-bosco-completa-80-anos",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/cantor-e-compositor-joao-bosco-completa-80-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
-        "image": null,
-        "date": "13 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Rivalidade entre Argentina e Inglaterra extrapola as quatro linhas",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/rivalidade-entre-argentina-e-inlaterra-extrapola-as-quatro-linhas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/rivalidade-entre-argentina-e-inlaterra-extrapola-as-quatro-linhas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "13 de jul. de 2026",
         "source": "Agência Brasil",
@@ -242,6 +242,66 @@
         "date": "14 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Inglaterra com mais do que o dobro da Argentina: q...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16999231/inglaterra-dobro-argentina-quanto-cada-semifinalista-viajou-copa-do-mundo",
+        "summary": "null",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Como França, Argentina, Espanha e Inglaterra se sa...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16994235/copa-do-mundo-semifinais-franca-argentina-espanha-inglaterra-se-sairam-em-outras-edicoes",
+        "summary": "null",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Deschamps crava Mbappé 100% e é direto sobre parar...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16999621/didier-deschamps-crava-kylian-mbappe-100-para-franca-espanha-direto-sobre-parar-lamine-yamal-tambem-nao-facil-enfrentar-meus-jogadores",
+        "summary": "O treinador destacou que o camisa 10 deve estar completo para o embate",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "'Tudo menos futebol': como Espanha alivia pressão ...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16998613/tudo-menos-futebol-como-espanha-alivia-pressao-semifinal-com-franca-series-videogames",
+        "summary": "null",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "'Somos a França e não temos medo de ninguém': a re...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16999448/copa-do-mundo-resposta-jogador-psg-provocacao-yamal-somos-a-franca-nao-temos-medo-de-ninguem",
+        "summary": "null",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "A incrível história de como 'camisa da sorte' da A...",
+        "link": "https://www.espn.com.br/futebol/copa-do-mundo/artigo/_/id/16998213/incrivel-historia-camisa-sorte-argentina-feita-improviso-escudos-recortados",
+        "summary": "null",
+        "image": null,
+        "date": "14 de jul. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
