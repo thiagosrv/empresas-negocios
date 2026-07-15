@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-15T12:18:51.412Z",
+  "updated": "2026-07-15T14:55:40.320Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 1 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "date": "15 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Jovem que perdeu movimentos das pernas após ser atingida por galho em Curitiba recebe alta após polilaminina e apresenta pequenos movimentos, diz família",
+        "link": "https://g1.globo.com/pr/parana/noticia/2026/07/15/jovem-movimento-pernas-curitiba-galho-alta-hospitalar-polilaminina.ghtml",
+        "summary": "Vídeo mostra queda de galho que fez jovem perder movimentos em praça de Curitiba A jovem Ana Beatriz Stubinski, de 22 anos, que perdeu movimentos da perna depois que foi atingida por um galho que se soltou de uma árvore ",
+        "image": "https://s2-g1.glbimg.com/EteiQLZoiBhfqP13yzUz7shik1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/E/w8FpBRSMWviUoH2r0MqQ/novo-projeto-9-.jpg",
+        "date": "15 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Sabor de Casa: aprenda a fazer um shishbarak, tradicional sopa árabe",
+        "link": "https://g1.globo.com/sp/campinas-regiao/receitas/noticia/2026/07/15/sabor-de-casa-aprenda-a-fazer-um-shishbarak-tradicional-sopa-arabe.ghtml",
+        "summary": "Sabor de Casa: aprenda a fazer um Shishbarak, sopa árabe com cappeletti Reprodução EPTV Para aquecer os dias frios, a personal chef Rita Kraide, de Piracicaba (SP), ensina a preparar o shishbarak, uma tradicional sopa ár",
+        "image": "https://s2-g1.glbimg.com/mmbUSHWOr9-0mS0vfCOJziJbvKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/a/D6UjWQR8aN3bc2vpPXDA/design-sem-nome-87-.jpg",
+        "date": "15 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Onça-pintada é flagrada à espreita de capivara em plena luz do dia no Pantanal",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/15/onca-pintada-e-flagrada-a-espreita-de-capivara-em-plena-luz-do-dia-no-pantanal.ghtml",
+        "summary": "Onça-pintada é flagrada à espreita de capivara em plena luz do dia no Pantanal Uma onça-pintada foi filmada em plena caça a uma capivara durante um passeio de safári na Fazenda San Francisco, no Pantanal Sul-Mato-Grossen",
+        "image": "https://s2-g1.glbimg.com/liq1DgAmBE7BQTGKYXBX3J3Y5uY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/k/VSYPA9TYG3JNAcQDVYfQ/imagens-para-materia-2-.jpg",
+        "date": "15 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Peixes invasores e seus impactos ganham força com o aquecimento do planeta",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/15/peixes-invasores-e-seus-impactos-ganham-forca-com-o-aquecimento-do-planeta.ghtml",
@@ -17,46 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/playlist/videos-os-misterios-do-iceberg-de-campinas.ghtml",
         "summary": "No aniversário de 252 anos de Campinas, o g1 investiga lendas, personagens, fatos históricos e curiosidades que fazem parte do imaginário da cidade.",
         "image": "https://s2-g1.glbimg.com/gwqYLuHqDzYjxUDcYFPJzJkDIWY=/s01.video.glbimg.com/deo/vi/89/79/14777989",
-        "date": "15 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vigilância Sanitária interdita equipamento de esterilização do Hospital Mário Gattinho",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/15/vigilancia-sanitaria-interdita-equipamento-de-esterilizacao-do-hospital-mario-gattinho.ghtml",
-        "summary": "Fachada do Hospital Mário Gattinho, em Campinas (SP) Reprodução/EPTV A Vigilância Sanitária interditou uma termodesinfectora da Central de Material e Esterilização (CME) da Unidade Pediátrica Mário Gattinho, em Campinas ",
-        "image": "https://s2-g1.glbimg.com/r2LxDdsEl2AcfIIZu7KUUF1dMSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/S/4/uwNurmSO25gRyrwMkKXQ/vlcsnap-2024-04-11-19h21m46s675.png",
-        "date": "15 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Operação contra fraude de R$ 3,8 bilhões em ICMS mira grupos econômicos com advogados em SP e PR",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/15/operacao-contra-fraude-em-icms-mira-grupos-economicos-com-advogados-em-sp-e-pr.ghtml",
-        "summary": "Operação contra fraude de R$ 3,8 bilhões em ICMS mira grupos econômicos com advogados em SP e PR O Comitê Interinstitucional de Recuperação de Ativos (CIRA/SP) faz nesta quarta-feira (15) uma operação contra uma organiza",
-        "image": "https://s2-g1.glbimg.com/VoD9-mwQqFsolsiK51TyzfahcJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Q/5qHoCxQNy3xqFTaP8zoQ/whatsapp-image-2026-07-15-at-07.23.06.jpeg",
-        "date": "15 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bebê com doença rara completa um mês sem receber remédio de R$ 100 mil pelo SUS",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/15/bebe-doenca-rara-completa-um-mes-sem-receber-remedio-sus.ghtml",
-        "summary": "Acesso a medicamentos leva a 17 ações judiciais por dia no estado de SP A bebê Heloise, de um ano e dez meses, de Indaiatuba (SP), completa nesta quarta-feira (15) um mês sem um medicamento importado que garante a única ",
-        "image": "https://s2-g1.glbimg.com/Bmf0MpGXhor8yYpTnVF1jqHslvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/D/FBfVh6Q2AiR7Yg8xgWAA/capas-belly-4-.jpg",
-        "date": "15 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "'Extremamente amada': quem era mulher que morreu após Porsche explodir em acidente em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/15/extremamente-amada-quem-mulher-morreu-porsche-explodir-acidente-campinas.ghtml",
-        "summary": "'Extremamente amada': quem era mulher que morreu após Porsche explodir ao bater contra árvore Acervo Pessoal Lívia Bevilacqua Batista, de 20 anos, foi identificada nesta terça-feira (14) como a mulher que morreu após uma",
-        "image": "https://s2-g1.glbimg.com/hUHdVzntKJTKqc0Myj8QyKZ0MwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/3/FEZopAQFKNGlbDwkwhCg/capas-belly-1200-x-1000-px-.jpg",
         "date": "15 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "IRPF: lote especial restituição de restituição começa a ser pago hoje",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/irpf-lote-especial-restituicao-de-restituicao-comeca-ser-pago-hoje",
-        "summary": "p strong Começa a ser pago nesta quarta-feira (15) lote especial de restituição automática do Imposto de Renda para Pessoa Física (IRPF). O Ministério da Fazenda estima que aproximadamente 3,5 milhões de contribuintes re",
+        "title": "Unicef: 13,5 milhões de crianças não recebem vacina no 1° ano de vida",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/unicef-13%2C5-milhoes-de-criancas-nao-recebem-vacina-no-1-ano-de-vida",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/unicef-13%2C5-milhoes-de-criancas-nao-recebem-vacina-no-1-ano-de-vida img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "PF faz operação contra supostas fraudes envolvendo crédito consignado",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pf-faz-operacao-contra-supostas-fraudes-envolvendo-credito-consignado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pf-faz-operacao-contra-supostas-fraudes-envolvendo-credito-consignado img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Setor de serviços cai 0,4% em maio por recuo na área de transportes",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/setor-de-servicos-cai-04-em-maio-por-recuo-no-setor-de-transportes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/setor-de-servicos-cai-04-em-maio-por-recuo-no-setor-de-transportes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Rio de Janeiro funde secretarias de Agricultura e de Pesca",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/rio-de-janeiro-funde-secretarias-de-agricultura-e-de-pesca",
-        "summary": "p strong As secretarias de Agricultura, Pecuária e Abastecimento (Seapa) e de Desenvolvimento Regional do Interior, Pesca e Agricultura Familiar (Sedipaf) terão atuação conjunta no Rio de Janeiro. /strong A finalidade da",
+        "title": "Enare: inscrição para residência com pré-requisito termina hoje",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enare-inscricao-para-residencia-com-pre-requisito-termina-hoje",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enare-inscricao-para-residencia-com-pre-requisito-termina-hoje img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Trabalhadores nascidos em setembro e outubro recebem abono salarial",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/trabalhadores-nascidos-em-setembro-e-outubro-recebem-abono-salarial",
-        "summary": "p strong Os trabalhadores nascidos em setembro e em outubro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta quarta-feira (15) o abono salarial de 2026. Neste quarto lote, serão liberados R$ 5,4 bilh",
+        "title": "Artigo: Como dar conta da comunicação pública?",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/artigo-como-dar-conta-da-comunicacao-publica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/artigo-como-dar-conta-da-comunicacao-publica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/asse",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Rodoviários do Rio participam de audiência de conciliação",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rodoviarios-do-rio-participam-de-audiencia-de-conciliacao",
-        "summary": "p strong Rodoviários e patrões de empresas de ônibus da cidade do a href= https://agenciabrasil.ebc.com.br/tags/rio-de-janeiro target= _blank Rio de Janeiro /a participam nesta quarta-feira (15), às 11 h, de mais uma a h",
+        "title": "Tempestades atingem Rio Grande do Sul a partir desta quinta-feira",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/tempestades-atingem-rio-grande-do-sul-partir-desta-quinta-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/tempestades-atingem-rio-grande-do-sul-partir-desta-quinta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Mega-Sena acumula para R$ 30 milhões; confira os números sorteados",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-acumula-para-r-30-milhoes-confira-os-numeros-sorteados",
-        "summary": "p Nenhum apostador acertou as seis dezenas do Concurso 3.031 da Mega-Sena, realizado nesta terça-feira (14). strong O prêmio acumulou e está estimado em R$ 30 milhões para o próximo sorteio. /strong img src= https://agen",
+        "title": "Ingestão de água é importante no inverno para evitar doença dos rins",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ingestao-de-agua-e-importante-no-inverno-para-evitar-doenca-dos-rins",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/ingestao-de-agua-e-importante-no-inverno-para-evitar-doenca-dos-rins img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Arsenal define preço para vender Gabriel Jesus; veja os interessados",
-        "link": "https://www.gazetaesportiva.com/times/milan/arsenal-gabriel-jesus-mercado-da-bola/",
-        "summary": "O Arsenal está disposto a negociar Gabriel Jesus nesta janela de transferências e aceita ouvir propostas na casa de 20 milhões de libras (cerca de R$ 148 milhões). Milan, Juventus, Atlético de Madrid, Fenerbahçe e Besikt",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/12/AFP__20251210__87QT9HV__v1__HighRes__FblEurC1BruggeArsenal.webp",
+        "title": "Imprensa francesa lamenta derrota para a Espanha na semifinal da Copa",
+        "link": "https://www.gazetaesportiva.com/times/franca/franca-eliminada-espanha-repercussao-imprensa-francesa/",
+        "summary": "A derrota da França para a Espanha por 2 a 0, na semifinal da Copa do Mundo de 2026, dominou as capas dos principais jornais franceses. Veículos como L’Équipe, Le Parisien e La Dépêche du Midi destacaram o fim do sonho d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27U7ZX__v1__HighRes__FblWc2026Match101FraEsp.webp",
         "date": "15 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Caçando soquinhos com a Seleção da Inglaterra!",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/cacando-soquinhos-com-a-selecao-da-inglaterra/",
-        "summary": "Caçando soquinhos com a Seleção da Inglaterra! O post Caçando soquinhos com a Seleção da Inglaterra! apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/ingl.webp",
+        "title": "Por dentro da despedida de Franco Armani",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/por-dentro-da-despedida-de-franco-armani/",
+        "summary": "Por dentro da despedida de Franco Armani O post Por dentro da despedida de Franco Armani apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/spe.webp",
         "date": "15 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Quem vai fazer a grande final da Copa do Mundo?",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/quem-vai-fazer-a-grande-final-da-copa-do-mundo/",
-        "summary": "Quem vai fazer a grande FINAL da Copa do Mundo? O post Quem vai fazer a grande final da Copa do Mundo? apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/uem.webp",
+        "title": "Duelo de torcidas! Argentina e Inglaterra incendeiam a semifinal",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/duelo-de-torcidas-argentina-e-inglaterra-incendeiam-a-semifinal/",
+        "summary": "Duelo de torcidas! Argentina e Inglaterra incendeiam a semifinal O post Duelo de torcidas! Argentina e Inglaterra incendeiam a semifinal apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Due.webp",
         "date": "15 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-premiê espanhol Rajoy ironiza atenção dedicada a seu comentários sobre a seleção francesa",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/mariano-rajoy-ironiza-criticas-selecao-franca/",
-        "summary": "O ex-primeiro-ministro da Espanha, Mariano Rajoy, voltou a comentar a repercussão de sua declaração sobre a seleção francesa de futebol, criticada como racista e xenófoba. Em nova coluna publicada no jornal El Debate, o ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/73868149_Spanish-Prime-Minister-Mariano-Rajoy-attends-a-Popular-Party-PP-meeting-of-the-national-exe.webp",
+        "title": "Danilo completa 35 anos; relembre o gol do lateral que deu o título da Libertadores para Flamengo",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/danilo-completa-35-anos-relembre-o-gol-do-lateral-que-deu-o-titulo-da-libertadores-para-flamengo/",
+        "summary": "Danilo completa 35 anos, relembre o gol do lateral que deu o título da Libertadores para Flamengo O post Danilo completa 35 anos; relembre o gol do lateral que deu o título da Libertadores para Flamengo apareceu primeiro",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/06/3BCYMFG.webp",
         "date": "15 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Residência de Lamine Yamal sofre tentativa de roubo",
-        "link": "https://www.gazetaesportiva.com/times/espanha/tentativa-roubo-lamine-yamal-casa-espanha/",
-        "summary": "A casa do jogador Lamine Yamal, destaque da seleção espanhola, foi alvo de uma tentativa de roubo na madrugada de quarta-feira em Esplugues de Llobregat, próximo a Barcelona. Segundo a imprensa local, dois suspeitos enca",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27L734__v1__HighRes__FblWc2026Match101FraEsp.webp",
+        "title": "Espanha prefere encarar a Inglaterra ou a Argentina na final?",
+        "link": "https://www.gazetaesportiva.com/times/espanha/espanha-prefere-encarar-a-inglaterra-ou-a-argentina-na-final/",
+        "summary": "Espanha prefere encarar a Inglaterra ou a Argentina na final? O post Espanha prefere encarar a Inglaterra ou a Argentina na final? apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/spa.webp",
         "date": "15 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Maycon completa 29 anos; relembre gols e assistências pelo Corinthians",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/maycon-completa-29-anos-relembre-gols-e-assistencias-pelo-corinthians/",
-        "summary": "Maycon completa 29 anos; relembre gols e assistências pelo Corinthians O post Maycon completa 29 anos; relembre gols e assistências pelo Corinthians apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/May.webp",
+        "title": "Veja as capas dos jornais espanhóis após a classificação para a final da Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/capas-jornais-espanhois-final-copa-do-mundo-2026/",
+        "summary": "A classificação da Espanha para a final da Copa do Mundo de 2026 ganhou enorme destaque na imprensa do país. Os principais jornais esportivos e de circulação nacional estamparam capas celebrando a vaga da seleção espanho",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27U6G6__v1__HighRes__FblWc2026Match101FraEsp.webp",
         "date": "15 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Setor de serviços cai 0,4% em maio por recuo na área de transportes",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/setor-de-servicos-cai-04-em-maio-por-recuo-no-setor-de-transportes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/setor-de-servicos-cai-04-em-maio-por-recuo-no-setor-de-transportes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "15 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "IRPF: lote especial restituição de restituição começa a ser pago hoje",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/irpf-lote-especial-restituicao-de-restituicao-comeca-ser-pago-hoje",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Dólar cai para R$ 5,07, no menor nível em um mês",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-507-no-menor-nivel-em-um-mes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-507-no-menor-nivel-em-um-mes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/",
-        "image": null,
-        "date": "14 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "De empresário a trader: a virada que levou Henrique Pena ao mercado financeiro",
-        "link": "https://www.infomoney.com.br/mercados/de-empresario-trader-virada-que-levou-henrique-pena-ao-mercado-financeiro/",
-        "summary": "A mudança de rota que levou um empresário a encontrar no mercado financeiro uma nova profissão The post De empresário a trader: a virada que levou Henrique Pena ao mercado financeiro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Henrique-Pena-GainCast-episodio-258.jpeg?fit=300%2C173&amp;quality=70&amp;strip=all",
+        "title": "JPMorgan não vê real entre moedas mais atrativas da América Latina e cita preferidas",
+        "link": "https://www.infomoney.com.br/mercados/jpmorgan-nao-ve-real-entre-moedas-mais-atrativas-da-america-latina-e-cita-preferidas/",
+        "summary": "Enquanto elevou o peso colombiano e reiterou a preferência por peso mexicano e peso chileno, o banco optou por seguir neutro em relação ao real brasileiro, de olho nas eleições The post JPMorgan não vê real entre moedas ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "XP inaugura hub em Belém após alta de 150% no número de investidores no Norte",
-        "link": "https://www.infomoney.com.br/advisor/xp-inaugura-hub-em-belem-apos-alta-de-150-de-investidores-no-norte/",
-        "summary": "O volume absoluto ainda é menor que o do Sudeste, mas o ritmo de crescimento é superior The post XP inaugura hub em Belém após alta de 150% no número de investidores no Norte appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/HUB-da-XP-em-Belem.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Lula fez cartas na prisão, mas não tinha condenação e restrições como as de Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/lula-fez-cartas-na-prisao-mas-nao-tinha-condenacao-e-restricoes-como-as-de-bolsonaro/",
+        "summary": "Detenção do petista se deu sem o trânsito em julgado e numa cela da PF, enquanto Bolsonaro foi condenado no Supremo e está em domiciliar The post Lula fez cartas na prisão, mas não tinha condenação e restrições como as d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55351695918_db08e0a258_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Futuro cai com foco em pesquisa eleitoral e novas tarifas dos EUA",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-foco-em-pesquisa-eleitoral-e-novas-tarifas-dos-eua/",
-        "summary": "A pesquisa Genial/Quaest mostrou nesta quarta-feira que Lula conta com oito pontos percentuais de vantagem sobre Flávio The post Ibovespa Futuro cai com foco em pesquisa eleitoral e novas tarifas dos EUA appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/b3-bolsa-acoes.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Setor de serviços recua 0,4% em maio e frustra projeções de leve alta",
-        "link": "https://www.infomoney.com.br/economia/setor-de-servicos-recua-04-em-maio-e-frustra-projecoes-de-leve-alta/",
-        "summary": "A projeção média de economistas consultados pela Reuters era de alta de 0,1% na base de comparação mensal The post Setor de serviços recua 0,4% em maio e frustra projeções de leve alta appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-06T130355Z_1_LYNXMPEK450DU_RTROPTP_4_GLOBAL-BEAUTY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa cai na contramão do exterior e perde os 176 mil pontos",
         "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15072026/",
-        "summary": "Índices futuros dos EUA têm leves ganhos The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-hoje-ao-vivo-9.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "summary": "Bolsas dos EUA avançam com ganhos de ações de Big Techs The post Ibovespa Hoje Ao Vivo: Bolsa cai na contramão do exterior e perde os 176 mil pontos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Ibovespa-hoje-ao-vivo-10.png?fit=300%2C186&amp;quality=70&amp;strip=all",
         "date": "15 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Formação em tecnologia transforma trajetórias profissionais",
-        "link": "https://www.infomoney.com.br/business/formacao-em-tecnologia-transforma-trajetorias-profissionais/",
-        "summary": "Programa apoiado pelo Banco Toyota e pela Fundação Toyota do Brasil oferece capacitação gratuita, mentoria e foco em empregabilidade para jovens e adultos em situação de vulnerabilidade social The post Formação em tecnol",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2020/10/tecnologia-mundo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "FIIs pagam dividendos com yields de até 4,28% nesta quarta-feira; confira valores",
+        "link": "https://www.infomoney.com.br/onde-investir/fiis-pagam-dividendos-com-yields-de-ate-428-nesta-quarta-feira-confira-valores/",
+        "summary": "Mais de dez fundos imobiliários realizam pagamento de dividendos nesta quarta-feira The post FIIs pagam dividendos com yields de até 4,28% nesta quarta-feira; confira valores appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/dividendos-1.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
         "date": "15 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Inadimplência no agro avança e já atinge 8,8% dos produtores rurais",
-        "link": "https://exame.com/agro/inadimplencia-no-agro-avanca-e-ja-atinge-88-dos-produtores-rurais/",
-        "summary": "Norte lidera índice de atrasos, enquanto Agro Score aponta aumento do risco de crédito para produtores",
+        "title": "The Guardian diz que Trump tenta transformar autonomia do Brasil em delito comercial",
+        "link": "https://www.infomoney.com.br/politica/the-guardian-diz-que-trump-tenta-transformar-autonomia-do-brasil-em-delito-comercial/",
+        "summary": "Editorial do jornal britânico também criticou o pré-candidato à Presidência, Flávio Bolsonaro, a quem taxou de \"menos carismático\" que o pai The post The Guardian diz que Trump tenta transformar autonomia do Brasil em de",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/459503446.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Inglaterra se mantém unida e ignora o barulho antes de confronto contra a Argentina",
+        "link": "https://www.infomoney.com.br/esportes/inglaterra-se-mantem-unida-e-ignora-o-barulho-antes-de-confronto-contra-a-argentina/",
+        "summary": "Especulações da imprensa tem sido ignorada pelos ingleses, apontou o defensor Ezri Konsa The post Inglaterra se mantém unida e ignora o barulho antes de confronto contra a Argentina appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-15T010020Z_1_LYNXMPEM6E026_RTROPTP_4_SOCCER-WORLDCUP-NOR-ENG_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "15 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "'Plano está sendo cumprido', diz cônsul da França sobre investimento de R$ 100 bilhões no Brasil",
+        "link": "https://exame.com/negocios/plano-esta-sendo-cumprido-diz-consul-da-franca-sobre-investimento-de-r-100-bilhoes-no-brasil/",
+        "summary": "O aporte será realizado até 2030 em setores como energia, logística, infraestrutura e saúde, com participação de empresas francesas em projetos como a Linha 6-Laranja e no Porto de Santos",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Oferta de US$ 53 bilhões pelo PayPal expõe pressão sobre pagamentos digitais",
-        "link": "https://exame.com/tecnologia/oferta-de-us-53-bilhoes-pelo-paypal-expoe-pressao-sobre-pagamentos-digitais/",
-        "summary": "Stripe e Advent propõem US$ 60,50 por ação, enquanto carteiras de celular e sistemas instantâneos como o Pix reduzem o espaço ocupado por intermediários",
+        "title": "Prato feito fica 7,2% mais caro desde o início de 2026 no Brasil; veja preços por região",
+        "link": "https://exame.com/economia/prato-feito-fica-72-mais-caro-desde-o-inicio-de-2026-no-brasil-veja-precos-por-regiao/",
+        "summary": "Valor do PF aumenta nas cinco regiões do Brasil. Veja os novos valores e entenda como afeta o orçamento mensal das famílias",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Esquema de créditos falsos de ICMS causou prejuízo de R$ 3,8 bilhões",
-        "link": "https://exame.com/brasil/esquema-de-creditos-falsos-de-icms-causou-prejuizo-de-r-38-bilhoes/",
-        "summary": "Operação Distrato cumpre 38 mandados em São Paulo e Paraná contra esquema de comercialização de créditos falsos de ICMS",
+        "title": "Real Time Big Data: Cid Gomes tem 26% e Capitão Wagner, 22%, em corrida ao Senado no Ceará",
+        "link": "https://exame.com/brasil/real-time-big-data-cid-gomes-tem-26-e-capitao-wagner-22-em-corrida-ao-senado-no-ceara/",
+        "summary": "Com Júnior Mano no lugar de Cid Gomes, Capitão Wagner passa a liderar a disputa",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Tarifas de Trump: veja quais são as opções do governo Lula",
-        "link": "https://exame.com/mundo/tarifas-de-trump-veja-quais-sao-as-opcoes-do-governo-lula/",
-        "summary": "Brasil aguarda lista de produtos afetados para tentar ampliar exceções e proteger exportações estratégicas",
+        "title": "Sem clube, zagueiro da Inglaterra disputa semifinal da Copa 'desempregado'; entenda",
+        "link": "https://exame.com/esporte/sem-clube-zagueiro-da-inglaterra-disputa-semifinal-da-copa-desempregado-entenda/",
+        "summary": "Zagueiro inglês encerrou contrato com o Manchester City durante o Mundial e ainda não escolheu o próximo destino",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ânima compra FMU por R$ 410 milhões; BTG vê aquisição 'cara' e rebaixa ação",
-        "link": "https://exame.com/invest/mercados/anima-compra-fmu-por-r-410-milhoes-btg-ve-aquisicao-cara-e-rebaixa-acao/",
-        "summary": "Faculdade paulistana passou por recuperação judicial; aquisição eleva a base de alunos da Ânima para 391 mil",
+        "title": "Flávio Bolsonaro aposta em lives para fortalecer campanha e base bolsonarista",
+        "link": "https://exame.com/brasil/flavio-bolsonaro-aposta-em-lives-para-fortalecer-campanha-e-base-bolsonarista/",
+        "summary": "Inspirado no modelo de Jair Bolsonaro, pré-candidato do PL quer criar identidade própria para lives e reforçar comunicação direta com eleitores",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quantas Copas do Mundo a Inglaterra ganhou? Veja o histórico da seleção",
-        "link": "https://exame.com/esporte/quantas-copas-do-mundo-a-inglaterra-ganhou-veja-o-historico-da-selecao/",
-        "summary": "Os ingleses encaram a Argentina na semifinal da Copa do Mundo de 2026 nesta quarta-feira, 15",
+        "title": "Após declarações de Valdemar, Dino intima presidentes de 21 partidos a esclarecer uso de emendas",
+        "link": "https://exame.com/brasil/apos-declaracoes-de-valdemar-dino-intima-presidentes-de-21-partidos-a-esclarecer-uso-de-emendas/",
+        "summary": "Decisão ocorre após presidente do PL ter afirmado que dirigentes partidários participam da indicação de emendas",
         "image": null,
         "date": "15 de jul. de 2026",
         "source": "Exame",
