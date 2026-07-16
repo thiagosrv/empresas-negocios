@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-16T19:18:45.657Z",
+  "updated": "2026-07-16T21:05:33.777Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Campinas faz evento com adoção e serviços gratuitos em departamento de bem-estar animal",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/16/dpbea-faz-evento-com-adocao-e-servicos-gratuitos.ghtml",
+        "summary": "Evento DPBEA de portas abertas disponibiliza 14 cães e 8 gatos resgatados para adoção Divulgação O Departamento de Proteção e Bem-Estar Animal (DPBEA) realiza, neste sábado (18), a primeira edição do \"DPBEA de Portas Abe",
+        "image": "https://s2-g1.glbimg.com/L3M1Lq1cv5peTL2eaQHHuhV1ADw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/R7IjBASn2f1dyYmAsVSA/design-sem-nome-39-.png",
+        "date": "16 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Homem morre baleado após apontar arma para policial em abordagem em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/16/homem-morre-baleado-apontar-arma-policial-abordagem-campinas.ghtml",
@@ -53,13 +63,113 @@
         "cls": "brasil"
       },
       {
-        "title": "O que fazer em Campinas e região: agenda tem Elba Ramalho, Fábio Jr., Humberto Gessinger e mais",
-        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/07/16/o-que-fazer-em-campinas-e-regiao-agenda-tem-elba-ramalho-fabio-jr-humberto-gessinger-e-mais.ghtml",
-        "summary": "Agenda tem Elba Ramalho, Fábio Jr., Humberto Gessinger Arte/g1 Quinta-feira chegou e, com ela, a agenda de eventos para quem ainda não decidiu como aproveitar o fim de semana em Campinas (SP) e região. Tem shows, exposiç",
-        "image": "https://s2-g1.glbimg.com/xZsUOx90mZ-HiBxiwnMx0lfNoIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/1/DDL6LBRue7dzQCrfjaEw/agenda.png",
+        "title": "Jiboia Morgana recebe cuidados especiais da equipe do Parque Ecológico",
+        "link": "https://jornalamericanense.com.br/saude/jiboia-morgana-recebe-cuidados-especiais-da-equipe-do-parque-ecologico/",
+        "summary": "O Parque Ecológico Municipal Engenheiro Cid Almeida Franco – Zoo Americana dedicou cuidados especiais à jiboia Morgana nesta terça-feira (14). A espécie é mantida no local desde 2023, quando foi resgatada após ter sido a",
+        "image": null,
         "date": "16 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura de Americana avança na implantação do CAPS 24 horas",
+        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-avanca-na-implantacao-do-caps-24-horas/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, segue avançando no processo de implantação do Centro de Atenção Psicossocial III (CAPS III) no município, com funcionamento 24 horas por dia. No início do mês, ",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Rio Branco Forever 2026 promete noite temática à beira da piscina com clima retrô em Americana",
+        "link": "https://jornalamericanense.com.br/cultura/rio-branco-forever-2026-promete-noite-tematica-a-beira-da-piscina-com-clima-retro-em-americana/",
+        "summary": "Os amantes dos grandes sucessos das décadas de 1980, 1990 e 2000 já têm compromisso marcado em Americana. No dia 1º de agosto, o Rio Branco Forever retorna com uma edição especial, desta vez realizada na Sede Náutica do ",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Direito às férias: Quais as consequências do não cumprimento?",
+        "link": "https://jornalamericanense.com.br/economia/direito-as-ferias-quais-as-consequencias-do-nao-cumprimento/",
+        "summary": "A Consolidação das Leis do Trabalho (CLT) garante a todo empregado o direito a 30 dias de férias após 12 meses de trabalho, período conhecido como aquisitivo. O objetivo é assegurar o descanso necessário para a recuperaç",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Câmara de Americana aprova projeto para ampliar conscientização sobre câncer infantil antes do recesso parlamentar",
+        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-projeto-para-ampliar-conscientizacao-sobre-cancer-infantil-antes-do-recesso-parlamentar/",
+        "summary": "Na última sessão ordinária antes do recesso de julho, vereadores aprovaram cinco projetos de lei, 16 requerimentos e 21 moções; proposta prevê cartazes informativos sobre prevenção e diagnóstico precoce da doença. A Câma",
+        "image": null,
+        "date": "15 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Pitbull passa por reabilitação e está disponível para adoção no CCZ",
+        "link": "https://jornalamericanense.com.br/cidades/pitbull-passa-por-reabilitacao-e-esta-disponivel-para-adocao-no-ccz/",
+        "summary": "O cão Túlio, da raça pitbull, está disponível para adoção junto ao Centro de Controle de Zoonoses (CCZ) de Americana após passar por um processo de reabilitação e adestramento, que teve como objetivo promover a adaptação",
+        "image": null,
+        "date": "15 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Incidência de VSR em crianças de até 2 anos está em queda, diz Fiocruz",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/incidencia-de-vsr-em-criancas-de-ate-2-anos-esta-em-queda-diz-fiocruz",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/incidencia-de-vsr-em-criancas-de-ate-2-anos-esta-em-queda-diz-fiocruz img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Spray de pimenta para mulher é medida paliativa, diz promotora",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/spray-de-pimenta-para-mulher-e-medida-paliativa-diz-promotora",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/spray-de-pimenta-para-mulher-e-medida-paliativa-diz-promotora img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil encerra Jogos Parasul-Americanos com ouro no futebol de cegos",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-encerra-jogos-parasul-americanos-com-ouro-no-futebol-de-cegos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-encerra-jogos-parasul-americanos-com-ouro-no-futebol-de-cegos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mauro Vieira afirma que EUA queriam abertura total sem contrapartida",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/mauro-vieira-afirma-que-eua-queriam-abertura-total-sem-contrapartida",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/mauro-vieira-afirma-que-eua-queriam-abertura-total-sem-contrapartida img src= https://cdn.jsdelivr.net/gh/sergio",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Suframa cobra esclarecimentos após vazamento de gás",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/suframa-cobra-esclarecimentos-apos-vazamento-de-gas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/suframa-cobra-esclarecimentos-apos-vazamento-de-gas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -71,114 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Brasil não será afetado por rio atmosférico que atinge o Chile",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/brasil-nao-sera-afetado-por-rio-atmosferico-que-atinge-o-chile",
-        "summary": "p strong O fenômeno climatológico do rio atmosférico que atingiu o Chile esta semana não chega ao Brasil nos próximos 5 dias, de acordo com o Instituto Nacional de Meteorologia (Inmet). /strong O fenômeno trouxe chuvas i",
-        "image": null,
-        "date": "16 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "União pagou R$ 696,38 milhões em dívidas de estados e municípios",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/uniao-pagou-r-69638-milhoes-em-dividas-de-estados-e-municipios",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/uniao-pagou-r-69638-milhoes-em-dividas-de-estados-e-municipios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "16 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "MP de renegociação de dívidas rurais prevê punições contra fraudes",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mp-de-renegociacao-de-dividas-rurais-preve-punicoes-contra-fraudes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mp-de-renegociacao-de-dividas-rurais-preve-punicoes-contra-fraudes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "16 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Moraes assume presidência temporária do STF a partir desta sexta-feira",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-assume-presidencia-do-stf-partir-desta-sexta-feira",
-        "summary": "p O ministro Alexandre de Moraes assumirá, a partir desta sexta-feira (17), a presidência temporária do Supremo Tribunal Federal (STF). Desde o dia 2 de julho, no início do recesso da Corte, o cargo estava sendo ocupado ",
-        "image": null,
-        "date": "16 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Morre, aos 83 anos, o jornalista Renato Machado",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-aos-83-anos-o-jornalista-renato-machado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-aos-83-anos-o-jornalista-renato-machado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a",
-        "image": null,
-        "date": "16 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Barboza fala sobre reencontro com Marlon Freitas e brinca sobre Danilo",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/barboza-fala-sobre-reencontro-com-marlon-freitas-e-brinca-sobre-danilo/",
-        "summary": "Confira um trecho da entrevista coletiva de apresentação de Barboza no Palmeiras. O post Barboza fala sobre reencontro com Marlon Freitas e brinca sobre Danilo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/16072026_cg_palmeiras_0917_17.webp",
+        "title": "LeBron James mantém NBA em suspense sobre seu futuro time",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/basquete/lebron-james-futuro-nba-proximo-time/",
+        "summary": "LeBron James voltou a alimentar as especulações sobre seu futuro ao participar do Fanatics Fest, em Nova York. Sem revelar qual será seu próximo destino após deixar o Los Angeles Lakers, o astro de 41 anos afirmou estar ",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/10/nunca-aos-40-anos-lebron-james-bate-mais-um-recorde-na-nba.avif",
         "date": "16 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Barboza fala sobre tempo parado e plano de adaptação no Palmeiras",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/barboza-fala-sobre-tempo-parado-e-plano-de-adaptacao-no-palmeiras-2/",
-        "summary": "Confira um trecho da entrevista coletiva de apresentação de Barboza no Palmeiras. O post Barboza fala sobre tempo parado e plano de adaptação no Palmeiras apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Barboza-fala-sobre-tempo.webp",
-        "date": "16 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Arsenal acerta a contratação de atacante grego do Club Brugge",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-acerta-a-contratacao-de-atacante-grego-do-club-brugge/",
-        "summary": "O Arsenal chegou a um acordo para contratar o ponta-esquerda grego Christos Tzolis, destaque do Club Brugge na última temporada. Os Gunners pagarão 40 milhões de euros pelo jogador de 24 anos, que retorna ao futebol ingl",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/tzo1.webp",
-        "date": "16 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real",
+        "title": "Palmeiras vence o Corinthians de virada e vai à semi do Brasileiro sub-20",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-corinthians-brasileirao-sub-20/",
-        "summary": "Siga o placar em tempo real do confronto entre Palmeiras e Corinthians, pelo Campeonato Brasileiro sub-20. O post Palmeiras x Corinthians pelo Brasileirão sub-20: siga o placar em tempo real apareceu primeiro em Gazeta E",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/corpa.webp",
+        "summary": "Siga o placar em tempo real do confronto entre Palmeiras e Corinthians, pelo Campeonato Brasileiro sub-20. O post Palmeiras vence o Corinthians de virada e vai à semi do Brasileiro sub-20 apareceu primeiro em Gazeta Espo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-16-at-16.57.33.webp",
         "date": "16 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Trump assistirá no domingo à final da Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/trump-assistira-no-domingo-a-final-da-copa-do-mundo/",
-        "summary": "O presidente dos Estados Unidos, Donald Trump, acompanhará a final da Copa do Mundo entre Espanha e Argentina, no domingo. A confirmação foi feita pela Casa Branca, que também informou que o republicano participará de um",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260715__C2B776L__v1__HighRes__UsPoliticsTrump.webp",
+        "title": "Rodrigo Nestor busca titularidade no Bahia na volta do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/bahia/rodrigo-nestor-busca-titularidade-no-bahia-na-volta-do-brasileirao/",
+        "summary": "Rodrigo Nestor inicia a retomada da temporada em busca de maior espaço no Bahia. Contratado em 2025, o meio-campista ainda não conseguiu se firmar entre os titulares, mas chega embalado por boas atuações antes e durante ",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/10/54884079085_4f41b919d1_c.webp",
         "date": "16 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras segue preparação na Academia de olho na volta do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-segue-preparacao-na-academia-de-olho-na-volta-do-brasileirao/",
-        "summary": "Palmeiras segue preparação na Academia de olho na volta do Brasileirão O post Palmeiras segue preparação na Academia de olho na volta do Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/eir.webp",
+        "title": "Laura Pigossi avança para a final nas duplas do WTA de Kitzbuhel",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/laura-pigossi-avanca-para-a-final-nas-duplas-do-wta-de-kitzbuhel/",
+        "summary": "Laura Pigossi garantiu vaga na final de duplas do WTA 125 de Kitzbuhel, na Áustria, ao lado da espanhola Ivonne Cavalle-Reimers. A dupla venceu as austríacas Julia Grabher e Sinja Kraus por 2 sets a 0, com parciais de 6/",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Laura-Pigossi-Tenis-Caserta-Final-Duplas.webp",
+        "date": "16 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Juventus anuncia contratação de lateral turco",
+        "link": "https://www.gazetaesportiva.com/times/juventus/juventus-anuncia-contratacao-de-lateral-turco/",
+        "summary": "A Juventus anunciou a contratação do lateral-direito Zeki Çelik, capitão da seleção da Turquia. O jogador assinou contrato por três temporadas, válido até junho de 2029. Aos 29 anos, Çelik chega após passagens de destaqu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/agre72in85h5ihg5qxjf.webp",
+        "date": "16 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "À espera de Messi, Major League Soccer retorna com novas atrações",
+        "link": "https://www.gazetaesportiva.com/mls/a-espera-de-messi-major-league-soccer-retorna-com-novas-atracoes/",
+        "summary": "Enquanto Lionel Messi disputa a final da Copa do Mundo com a Argentina, a MLS retoma suas atividades nos Estados Unidos com duas grandes atrações: Robert Lewandowski e Antoine Griezmann. O polonês pode estrear pelo Chica",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27J9U8__v1__HighRes__ChicagoFireFcUnveilRobertLewandowski.webp",
         "date": "16 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -186,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Entenda a Lei de Reciprocidade, que o Brasil pode adotar contra os EUA",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/entenda-lei-de-reciprocidade-que-o-brasil-pode-adotar-contra-os-eua",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/entenda-lei-de-reciprocidade-que-o-brasil-pode-adotar-contra-os-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "União pagou R$ 696,38 milhões em dívidas de estados e municípios",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/uniao-pagou-r-69638-milhoes-em-dividas-de-estados-e-municipios",
@@ -237,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Projeção oficial de inflação sobe para 5,1%, com estouro da meta",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-oficial-de-inflacao-sobe-para-51-com-estouro-da-meta",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/projecao-oficial-de-inflacao-sobe-para-51-com-estouro-da-meta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "15 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "EUA concentrarão esforços antiterrorismo em grupos de esquerda, diz Rubio",
-        "link": "https://www.infomoney.com.br/mundo/eua-concentrarao-esforcos-antiterrorismo-em-grupos-de-esquerda-diz-rubio/",
-        "summary": "Em um discurso, Rubio afirmou que a ameaça do extremismo islâmico foi “severamente reduzida” graças a esforços internacionais coordenados The post EUA concentrarão esforços antiterrorismo em grupos de esquerda, diz Rubio",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/455474216.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Botafogo x Santos pelo Brasileirão?",
+        "link": "https://www.infomoney.com.br/esportes/botafogo-santos-onde-assistir/",
+        "summary": "Os times abrem a 19ª rodada do Brasileirão após a pausa ocasionada pela Copa do Mundo The post Onde assistir Botafogo x Santos pelo Brasileirão? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-botafogo-x-santos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "16 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Em meio a juros recordes, B3 lança índices que seguem Tesouro IPCA+",
-        "link": "https://www.infomoney.com.br/onde-investir/em-meio-a-juros-recordes-b3-lanca-indices-que-seguem-tesouro-ipca/",
-        "summary": "Indicadores acompanham carteiras de NTN-Bs com prazos de referência de dois, cinco e dez anos e servem de base para ETFs The post Em meio a juros recordes, B3 lança índices que seguem Tesouro IPCA+ appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Foi apenas o tarifaço? Os outros motivos que fizeram o Ibovespa cair 1,24% nesta 5ª",
+        "link": "https://www.infomoney.com.br/mercados/foi-apenas-o-tarifaco-os-outros-motivos-que-fazem-o-ibovespa-cair-nesta-quinta-feira/",
+        "summary": "Cenário para as commodities e pressão na Bolsa de Nova York também impactam os ativos The post Foi apenas o tarifaço? Os outros motivos que fizeram o Ibovespa cair 1,24% nesta 5ª appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/USATariffs.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Após tarifaço, Haddad diz que Tarcísio foi ingênuo ao apoiar Trump",
-        "link": "https://www.infomoney.com.br/politica/apos-tarifaco-haddad-diz-que-tarcisio-foi-ingenuo-ao-apoiar-trump/",
-        "summary": "Governador de São Paulo ainda não fez declarações públicas sobre o tema The post Após tarifaço, Haddad diz que Tarcísio foi ingênuo ao apoiar Trump appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-29T221947Z_1_LYNXMPEL9S189_RTROPTP_4_BRAZIL-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Vitória x Vasco?",
+        "link": "https://www.infomoney.com.br/esportes/vitoria-vasco-onde-assistir/",
+        "summary": "Os times retornam à disputa do Brasileirão The post Onde assistir Vitória x Vasco? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-vitoria-x-vasco-da-gama.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "16 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ânima sobe mais de 9% após forte queda na véspera e com aumento de participação",
-        "link": "https://www.infomoney.com.br/mercados/anima-sobe-mais-de-9-apos-forte-queda-na-vespera-e-com-aumento-de-participacao/",
-        "summary": "Ações sobem mais de 9% hoje, após queda superior a 30% The post Ânima sobe mais de 9% após forte queda na véspera e com aumento de participação appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/anima-unifacs.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Netflix desaponta em receita no 2T26 e reduz guidance para o ano; ação tomba 8% em NY",
+        "link": "https://www.infomoney.com.br/mercados/netflix-desaponta-em-receita-no-2t26-e-reduz-guidance-para-o-ano-acao-tomba-8-em-ny/",
+        "summary": "A receita da gigante de streaming ficou em US$ 12,56 bilhões, abaixo dos US$ 12,58 bilhões previstos pelos analistas The post Netflix desaponta em receita no 2T26 e reduz guidance para o ano; ação tomba 8% em NY appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-15T193801Z_1_LYNXMPEK4E0WW_RTROPTP_4_NETFLIX-AD-PLAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1%, aos 173 mil, com tarifaço dos EUA",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16072026/",
-        "summary": "Bolsas dos EUA operam mistas com tensão geopolítica no radar e novos dados econômicos The post Ibovespa Hoje Ao Vivo: Bolsa cai mais de 1%, aos 173 mil, com tarifaço dos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-ao-vivo-30.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "title": "Dólar hoje sobe 0,40%, a R$ 5,09, após EUA anunciarem tarifa sobre o Brasil",
+        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-16072026/",
+        "summary": "Moeda norte-americana tem sinais mistos ante as demais divisas. The post Dólar hoje sobe 0,40%, a R$ 5,09, após EUA anunciarem tarifa sobre o Brasil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tarcísio vai a convenção do PSD em gesto a Kassab, mas evitará Caiado",
-        "link": "https://www.infomoney.com.br/politica/tarcisio-vai-a-convencao-do-psd-em-gesto-a-kassab-mas-evitara-caiado/",
-        "summary": "Governador deve participar apenas do evento estadual em seu apoio, deixando o local antes da chegada do presidenciável para prevenir atritos com Flávio Bolsonaro The post Tarcísio vai a convenção do PSD em gesto a Kassab",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/AF820251211017.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Bolsas de NY fecham em queda com techs penalizadas após balanço da TSMC",
+        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-com-techs-penalizadas-apos-balanco-da-tsmc/",
+        "summary": "Uma forte correção no setor de semicondutores foi desencadeada pela reação negativa ao aumento dos investimentos da TSMC The post Bolsas de NY fecham em queda com techs penalizadas após balanço da TSMC appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O que Cannes revelou sobre a próxima fase da Creator Economy",
-        "link": "https://exame.com/marketing/o-que-cannes-revelou-sobre-a-proxima-fase-da-creator-economy/",
-        "summary": "Mais do que criatividade, o festival apontou que o futuro do marketing será definido pela força das comunidades e dos criadores de conteúdo",
+        "title": "Não adianta ser muito bom tecnicamente': o que a Robert Half avalia em quem quer ser C-level",
+        "link": "https://exame.com/carreira/nao-adianta-ser-muito-bom-tecnicamente-o-que-a-robert-half-avalia-em-quem-quer-ser-c-level/",
+        "summary": "Diretora de recrutamento executivo, Mariana Horno, detalha as habilidades que definem quem chega ao topo e o preço de ocupar a cadeira",
         "image": null,
         "date": "16 de jul. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Senado dos EUA aprova por unanimidade resolução contra perdão a fundador da FTX",
-        "link": "https://exame.com/future-of-money/senado-dos-eua-aprova-por-unanimidade-resolucao-contra-perdao-a-fundador-da-ftx/",
-        "summary": "Mercados de previsão apontam menos de 1% de chance de um indulto por Donald Trump até 31 de julho",
+        "title": "Aos 14 anos, jogando Minecraft, alunos dessa escola dominam a ferramenta que o mercado procura",
+        "link": "https://exame.com/carreira/aos-14-anos-jogando-minecraft-alunos-dessa-escola-dominam-a-ferramenta-que-o-mercado-procura/",
+        "summary": "O que um projeto de 9º ano revela sobre uma geração pronta para liderar com IA",
         "image": null,
         "date": "16 de jul. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Hora de completar o álbum da Copa: Panini libera compra de figurinhas avulsas",
-        "link": "https://exame.com/esporte/hora-de-completar-o-album-da-copa-panini-libera-compra-de-figurinhas-avulsas/",
-        "summary": "Para realizar o pedido, é necessário informar o Código do Álbum, disponível em cada exemplar da coleção",
+        "title": "UNICEF e parceiros lançam aliança para ampliar empregos verdes no Brasil",
+        "link": "https://exame.com/esg/unicef-e-parceiros-lancam-alianca-para-ampliar-empregos-verdes-no-brasil/",
+        "summary": "Iniciativa mira o descompasso entre formação e demanda por mão de obra qualificada na economia de baixo carbono, enquanto estimativas apontam potencial de até 1 milhão de vagas no país",
         "image": null,
         "date": "16 de jul. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Rock in Rio passa a neutralizar a pegada de carbono do fã — de casa à Cidade do Rock",
-        "link": "https://exame.com/esg/rock-in-rio-passa-a-neutralizar-a-pegada-de-carbono-do-fa-de-casa-a-cidade-do-rock/",
-        "summary": "Parceria amplia iniciativa adotada desde 2006 e prevê o uso de créditos de carbono, reflorestamento e energia renovável certificada para neutralizar cerca de 50 mil toneladas de CO2",
+        "title": "Novo tarifaço dos EUA afeta 18% das exportações brasileiras, diz governo Lula",
+        "link": "https://exame.com/economia/novo-tarifaco-dos-eua-afeta-18-das-exportacoes-brasileiras-diz-governo-lula/",
+        "summary": "Ministro afirma que medida dos EUA deve atingir US$ 7,4 bilhões em exportações brasileiras e relata impasses nas negociações com o governo Trump",
         "image": null,
         "date": "16 de jul. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Edge adquire Akaer para avançar na fabricação de drones militares no Brasil",
-        "link": "https://exame.com/economia/edge-adquire-akaer-para-avancar-na-fabricacao-de-drones-militares-no-brasil/",
-        "summary": "Empresas assinaram contrato nesta quarta-feira, que depende ainda de aprovação",
+        "title": "Netflix tem lucro de US$ 3,4 bi no trimestre, mas guidance decepciona Wall Street",
+        "link": "https://exame.com/invest/mercados/netflix-tem-lucro-de-us-34-bi-no-trimestre-mas-guidance-decepciona-wall-street/",
+        "summary": "No pós-mercado desta quinta-feira, as ações da companhia despencavam quase 8%",
         "image": null,
         "date": "16 de jul. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "A proibição de joias em campo que os jogadores driblaram durante décadas",
-        "link": "https://exame.com/casual/a-proibicao-de-joias-que-os-jogadores-driblaram-durante-decadas/",
-        "summary": "Craques como Pelé, Maradona e Ronaldinho jogaram anos com correntes e colares visíveis antes da regra virar rotina em campo",
+        "title": "Ibovespa cai 1,24% com pressão de Vale, bancos e Petrobras; dólar sobe para R$ 5,09",
+        "link": "https://exame.com/invest/mercados/ibovespa-cai-124-com-pressao-de-vale-bancos-e-petrobras-dolar-sobe-para-r-509/",
+        "summary": "A confirmação da tarifa adicional de 25% anunciada pelos Estados Unidos sobre diversos produtos brasileiros também pesou sobre a bolsa",
         "image": null,
         "date": "16 de jul. de 2026",
         "source": "Exame",
