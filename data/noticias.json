@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-18T08:50:52.894Z",
+  "updated": "2026-07-18T10:21:10.919Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "'Estava feliz por ter conseguido emprego', diz prima de jovem morta após cair de bicicleta e ser atropelada",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/18/estava-feliz-conseguido-emprego-prima-jovem-morta-cair-bicicleta-atropelada.ghtml",
+        "summary": "'Estava feliz por ter conseguido emprego', diz prima de jovem morta após cair de bicicleta e ser atropelada Acervo Pessoal Evelyn Dayane Souza, de 27 anos, que morreu na tarde desta quinta-feira (16) após cair da bicicle",
+        "image": "https://s2-g1.glbimg.com/FpgbQFSPkjod-OcQqUFW9n-eXms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/D1oRcISCuEdkgtkn6i4w/design-sem-nome-11-.jpg",
+        "date": "18 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Justiça adia depoimentos de acusados de integrar quadrilha transnacional que fabricava e vendia armas clandestinas",
         "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/18/justica-adia-depoimentos-de-acusados-de-integrar-quadrilha-transnacional-que-fabricava-e-vendia-armas-clandestinas.ghtml",
@@ -53,14 +63,64 @@
         "cls": "brasil"
       },
       {
-        "title": "Criança morre atropelada por caminhão em Indaiatuba",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/17/atropelamento-caminhao-indaiatuba.ghtml",
-        "summary": "Criança morre após ser atropelada por caminhão em Indaiatuba Comando Notícia Uma criança morreu atropelada por um caminhão no bairro Jardim Morada do Sol, em Indaiatuba (SP), na tarde desta sexta-feira (17), de acordo co",
-        "image": "https://s2-g1.glbimg.com/IDOvItp1mNAwVgR9uqSt9Sh0fdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/8V9sQ6SZqGsHo5PnmO2g/festival-sabor.jpg",
+        "title": "Final de semana será de sol, calor durante a tarde e tempo seco em Americana",
+        "link": "https://jornalamericanense.com.br/cidades/final-de-semana-sera-de-sol-calor-durante-a-tarde-e-tempo-seco-em-americana/",
+        "summary": "Os moradores de Americana podem esperar um final de semana de tempo firme e sem previsão de chuva. A atuação de uma massa de ar seco mantém o céu com poucas nuvens, favorecendo tardes mais quentes e madrugadas de tempera",
+        "image": null,
         "date": "17 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Menina foi mantida doente pela própria mãe durante 14 anos e hoje luta para alertar o mundo sobre abuso infantil",
+        "link": "https://jornalamericanense.com.br/saude/menina-foi-mantida-doente-pela-propria-mae-durante-14-anos-e-hoje-luta-para-alertar-o-mundo-sobre-abuso-infantil/",
+        "summary": "O que parecia ser uma infância marcada por uma doença misteriosa escondia, na verdade, um dos casos mais chocantes de abuso infantil já documentados na Holanda. Durante 14 anos, Nina Blom foi convencida de que estava gra",
+        "image": null,
+        "date": "17 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Aluno de escola de aviação morre após ritual de banho de óleo e instrutor é preso no Paraná",
+        "link": "https://jornalamericanense.com.br/policia/aluno-de-escola-de-aviacao-morre-apos-ritual-de-banho-de-oleo-e-instrutor-e-preso-no-parana/",
+        "summary": "Um ritual tradicional de comemoração em uma escola de aviação terminou em tragédia na noite de quinta-feira (16), em Ponta Grossa, nos Campos Gerais do Paraná. O engenheiro Gustavo Henrique Lara, de 27 anos, morreu após ",
+        "image": null,
+        "date": "17 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Jiboia Morgana recebe cuidados especiais da equipe do Parque Ecológico",
+        "link": "https://jornalamericanense.com.br/saude/jiboia-morgana-recebe-cuidados-especiais-da-equipe-do-parque-ecologico/",
+        "summary": "O Parque Ecológico Municipal Engenheiro Cid Almeida Franco – Zoo Americana dedicou cuidados especiais à jiboia Morgana nesta terça-feira (14). A espécie é mantida no local desde 2023, quando foi resgatada após ter sido a",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura de Americana avança na implantação do CAPS 24 horas",
+        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-avanca-na-implantacao-do-caps-24-horas/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, segue avançando no processo de implantação do Centro de Atenção Psicossocial III (CAPS III) no município, com funcionamento 24 horas por dia. No início do mês, ",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Rio Branco Forever 2026 promete noite temática à beira da piscina com clima retrô em Americana",
+        "link": "https://jornalamericanense.com.br/cultura/rio-branco-forever-2026-promete-noite-tematica-a-beira-da-piscina-com-clima-retro-em-americana/",
+        "summary": "Os amantes dos grandes sucessos das décadas de 1980, 1990 e 2000 já têm compromisso marcado em Americana. No dia 1º de agosto, o Rio Branco Forever retorna com uma edição especial, desta vez realizada na Sede Náutica do ",
+        "image": null,
+        "date": "16 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Anac alerta para risco de trote com óleo de avião após morte de piloto",
@@ -125,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Brasil perde para a Polônia e se complica na Liga das Nações",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-perde-para-a-polonia-e-se-complica-na-liga-das-nacoes/",
-        "summary": "A Seleção Brasileira masculina foi derrotada pela Polônia por 3 sets a 0, em Chicago, pela 11ª rodada da Liga das Nações de Vôlei. Com parciais de 25/22, 28/26 e 25/19, os poloneses conquistaram mais uma vitória e compli",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/klp2lkwo1rundpknwudc.webp",
+        "title": "Longe da elite de SP, Catanduvense leva 59 gols em 10 jogos; dirigente critica presidente sociopata",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/longe-da-elite-de-sp-catanduvense-leva-59-gols-em-10-jogos-dirigente-critica-presidente-sociopata/",
+        "summary": "O retorno do Grêmio Catanduvense ao futebol profissional terminou em desastre. Com dez derrotas em dez jogos e a pior campanha da quinta divisão paulista, o clube protagonizou a maior goleada da história do futebol profi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/647714901_1517397207053361_8421575527976645076_n-1.webp",
         "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Capdevila, campeão do mundo pela Espanha em 2010, pede ajuda para ir à final da Copa",
-        "link": "https://www.gazetaesportiva.com/times/espanha/capdevila-campeao-do-mundo-pela-espanha-em-2010-pede-ajuda-para-ir-a-final-da-copa/",
-        "summary": "O ex-jogador espanhol Joan Capdevila, campeão do mundo pela 'Roja' em 2010, pediu ajuda nas redes sociais para viajar aos Estados Unidos e assistir à final da Copa do Mundo, após ter sua solicitação de ESTA negada. O pos",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/snapinsta.com_.br-6a5aeafd5cb88.webp",
+        "title": "Santos aguarda Fifa para lucrar com vendas de Marcos Leonardo e Caio Henrique ao Ajax",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-fifa-marcos-leonardo-caio-henrique-ajax-mecanismo-solidariedade/",
+        "summary": "O Santos terá direito a cerca de R$ 5,5 milhões pelas transferências de Marcos Leonardo e Caio Henrique ao Ajax por meio do mecanismo de solidariedade da Fifa. O clube, porém, ainda aguarda o registro oficial das operaçõ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55252076246_aed206f0c9_k.webp",
         "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Internacional anuncia contratação por empréstimo do goleiro Matheus Cunha",
-        "link": "https://www.gazetaesportiva.com/times/internacional/internacional-anuncia-contratacao-por-emprestimo-do-goleiro-matheus-cunha/",
-        "summary": "O Internacional oficializou nesta sexta-feira a contratação do goleiro Matheus Cunha. O jogador de 25 anos chega ao Beira-Rio por empréstimo junto ao Cruzeiro, com vínculo válido até junho de 2027. O post Internacional a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Card_Bem_Vindo_Matheus_Cunha_Site_f447cdd15e.webp",
+        "title": "Gabriel Jesus perde espaço no Arsenal e entra na mira de clubes europeus; veja opções",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/gabriel-jesus-possiveis-destinos-saida-arsenal/",
+        "summary": "O Arsenal está disposto a negociar Gabriel Jesus nesta janela de transferências e aceita ouvir propostas na casa de 20 milhões de libras. Milan, Juventus, Atlético de Madrid, Everton, Fenerbahçe e Besiktas aparecem entre",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/02/AFP__20230903__33UA9AC__v1__HighRes__FblEngPrArsenalManUtd-scaled-aspect-ratio-512-320.webp",
         "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos bate Taubaté e conquista a primeira vitória no Paulistão feminino",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-bate-taubate-e-conquista-a-primeira-vitoria-no-paulistao-feminino/",
-        "summary": "O Santos conquistou sua primeira vitória no Paulistão Feminino ao bater o Taubaté por 1 a 0 nesta sexta-feira, no Estádio Bruno José Daniel. Rafa Andrade marcou nos acréscimos do primeiro tempo e garantiu os três pontos ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HNeORCkXcAAx4yz22.webp",
+        "title": "Kaio César destaca evolução do Corinthians na intertemporada e projeta retomada do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-destaca-evolucao-do-corinthians-na-intertemporada-e-projeta-retomada-do-brasileirao/",
+        "summary": "O Corinthians entra na reta final da preparação para o retorno do Campeonato Brasileiro. Na próxima quinta-feira, o Timão recebe o Remo, às 19h30, pela 19ª rodada, e o atacante Kaio César afirmou que o período de treinos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/WhatsApp-Image-2026-05-01-at-16.08.47-2.webp",
         "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fortaleza vence e ultrapassa o Novorizontino na Série B do Brasileiro",
-        "link": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-vence-e-ultrapassa-o-novorizontino-na-serie-b-do-brasileiro/",
-        "summary": "Nesta sexta-feira, o Fortaleza venceu o Novorizontino por 1 a 0, na Arena Castelão, em Fortaleza, pela 18ª rodada da Série B do Campeonato Brasileiro e ultrapassou o adversário na tabela de classificação. Vitinho anotou ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55400987023_acd02775b4_o-2.webp",
+        "title": "Confira o desempenho do São Paulo nos jogos-treino da intertemporada",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/confira-o-desempenho-do-sao-paulo-nos-jogos-treino-da-intertemporada/",
+        "summary": "Nesta sexta-feira, o São Paulo encerrou uma etapa importante da intertemporada antes de voltar às disputas oficiais de 2026. O Tricolor realizou seus últimos testes no SuperCT contra a Ferroviária, pela manhã, e contra o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55399530867_9b6236c7e8_o.webp",
         "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Carlos Vinícius desabafa após derrota do Grêmio: Estamos sem confiança",
-        "link": "https://www.gazetaesportiva.com/times/gremio/carlos-vinicius-desabafa-apos-derrota-do-gremio-estamos-sem-confianca/",
-        "summary": "Após a derrota por 2 a 1 para o Mirassol, Carlos Vinícius admitiu a falta de confiança do Grêmio e apontou o aspecto emocional como um dos principais problemas da equipe neste momento da temporada. O atacante lamentou a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55399900927_3c45b5aa1e_k.webp",
+        "title": "Leila minimiza meta de quase R$ 400 milhões em vendas e prioriza manutenção do elenco do Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-minimiza-meta-de-quase-r-400-milhoes-em-vendas-e-prioriza-manutencao-do-elenco-do-palmeiras/",
+        "summary": "O Palmeiras estabeleceu em seu orçamento para a temporada uma meta de arrecadação de R$ 399,5 milhões com negociações de jogadores. Às vésperas da abertura da janela de transferências, a presidente Leila Pereira minimizo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/17072026_cg_palmeiras_1965_5.webp",
         "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,9 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "VNL masculina 2026: veja os jogos de vôlei deste sábado, 18",
-        "link": "https://exame.com/esporte/vnl-masculina-2026-veja-os-jogos-de-volei-deste-sabado-18/",
-        "summary": "Rodada terá seis partidas; Brasil folga e volta à quadra no domingo contra a China",
+        "title": "Site elege os melhores jogos da Copa do Mundo de 2026",
+        "link": "https://exame.com/esporte/site-elege-os-melhores-jogos-da-copa-do-mundo-de-2026/",
+        "summary": "Finalista do Mundial, a Argentina teve seu jogo contra Cabo Verde eleito o melhor do torneio. Em compensação, o Brasil aparece pela primeira vez na 20ª posição",
         "image": null,
         "date": "18 de jul. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Um professor particular de IA para cada aluno: ficção ou já é realidade?",
-        "link": "https://exame.com/inteligencia-artificial/um-professor-particular-de-ia-para-cada-aluno-ficcao-ou-ja-e-realidade/",
-        "summary": "Plataformas educacionais já utilizam inteligência artificial para adaptar atividades, esclarecer dúvidas e acompanhar o desempenho dos estudantes de forma personalizada",
+        "title": "Messi lidera corrida pela Chuteira de Ouro da Copa; veja os concorrentes",
+        "link": "https://exame.com/esporte/messi-lidera-corrida-pela-chuteira-de-ouro-da-copa-veja-os-concorrentes/",
+        "summary": "O craque argentino tem 8 gols no torneio, mas pode perder a liderança dependendo da atuação na final",
         "image": null,
         "date": "18 de jul. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Recesso parlamentar adia decisões sobre pautas prioritárias no Congresso",
-        "link": "https://exame.com/esferabrasil/recesso-parlamentar-adia-decisoes-sobre-pautas-prioritarias-no-congresso/",
-        "summary": "Com parlamentares voltados às campanhas, propostas como o fim da escala 6x1, a PEC da Segurança Pública e mudanças no MEI ficam para o segundo semestre",
+        "title": "Quem ganha dinheiro toda vez que você faz uma pergunta ao ChatGPT?",
+        "link": "https://exame.com/inteligencia-artificial/quem-ganha-dinheiro-toda-vez-que-voce-faz-uma-pergunta-ao-chatgpt/",
+        "summary": "Uma simples interação com um chatbot movimenta uma cadeia bilionária que envolve fabricantes de chips, empresas de computação em nuvem, operadores de data centers e até o setor de energia",
         "image": null,
         "date": "18 de jul. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Atlético-MG provoca Flamengo após campanha de nova camisa",
-        "link": "https://exame.com/esporte/atletico-mg-provoca-flamengo-apos-campanha-de-nova-camisa/",
-        "summary": "A provocação faz referência ao \"Manto da Massa\", projeto criado pelo time mineiro em 2020",
+        "title": "Por que benefícios não funcionam sem uma boa cultura organizacional",
+        "link": "https://exame.com/bussola/por-que-beneficios-nao-funcionam-sem-uma-boa-cultura-organizacional/",
+        "summary": "Atualização da NR-1 exige mapeamento de riscos e muda o foco da saúde mental para a estrutura organizacional, além dos benefícios",
         "image": null,
         "date": "18 de jul. de 2026",
         "source": "Exame",
@@ -347,21 +407,21 @@
         "cls": "startups"
       },
       {
-        "title": "Oasis faz história e coloca 'Wonderwall' no topo do Spotify Global quase 30 anos após o lançamento",
-        "link": "https://exame.com/pop/oasis-faz-historia-e-coloca-wonderwall-no-topo-do-spotify-global-quase-30-anos-apos-o-lancamento/",
-        "summary": "Faixa ganhou força durante a Copa do Mundo de 2026, conquistou milhões de novos streams e alcançou o maior feito de sua trajetória no Spotify",
+        "title": "Netflix revela compra de empresa de IA de Ben Affleck por US$ 587 milhões",
+        "link": "https://exame.com/pop/netflix-revela-compra-de-empresa-de-ia-de-ben-affleck-por-us-587-milhoes/",
+        "summary": "Aquisição da InterPositive foi concluída em março de 2026 e paga integralmente em dinheiro",
         "image": null,
-        "date": "17 de jul. de 2026",
+        "date": "18 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Dia Mundial do Emoji: quais são os favoritos dos brasileiros?",
-        "link": "https://exame.com/pop/dia-mundial-do-emoji-quais-sao-os-favoritos-dos-brasileiros/",
-        "summary": "Levantamento mostra os emojis mais populares do país, como eles são usados e em quais situações aparecem com mais frequência",
+        "title": "STF decide em agosto sobre venda da primeira estatal de TI do Brasil",
+        "link": "https://exame.com/tecnologia/stf-decide-em-agosto-sobre-venda-da-celepar/",
+        "summary": "Em jogo está o futuro da paranaense Celepar, que guarda dados de saúde, educação e segurança de milhões de paranaenses — e um precedente para outros estados",
         "image": null,
-        "date": "17 de jul. de 2026",
+        "date": "18 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
