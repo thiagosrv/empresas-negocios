@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-18T03:20:07.657Z",
+  "updated": "2026-07-18T06:08:26.228Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem morre após bater motocicleta contra poste em Indaiatuba",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/18/homem-morre-bater-motocicleta-poste-indaiatuba.ghtml",
+        "summary": "Motociclista após bater contra poste em Indaiatuba Eu Amo Indaiatuba Um motociclista morreu na noite desta sexta-feira (17) após bater a moto contra um poste na Avenida Horst Frederico John Heer, no distrito Europark, em",
+        "image": "https://s2-g1.glbimg.com/vgvfnqKCf0taHs-7YF-ZOjyWOnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/e/VjGCuERnCYBmDRGuOfBw/copia-de-area-1-50-.png",
+        "date": "18 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Casa desocupada pega fogo e parte de telhado cai em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/17/casa-desocupada-pega-fogo-parte-de-telhado-cai-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/17/marido-diz-ter-sido-esfaqueado-por-esposa-apos-discussao-por-torcer-para-inglaterra-mulher-cita-ciume.ghtml",
         "summary": "Briga entre casal por torcida entre Inglaterra e Argentina acaba com ataques de faca em Itapira Divulgação/Guarda Civil Municipal de Campinas Um homem, de 50 anos, afirmou ter sido esfaqueado pela companheira, de 45 anos",
         "image": "https://s2-g1.glbimg.com/EQ8rQcXyMCfqigfVwgM8T9fUKMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/UjtzpaTU6ovP8pNDlmBw/1200px-x-800px-5-.jpg",
-        "date": "17 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Casa com rachadura por causa de obra externa? Saiba quais são os direitos do morador",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/17/casa-com-rachadura-por-causa-de-obra-externa-saiba-quais-sao-os-direitos-do-morador.ghtml",
-        "summary": "Famílias retiradas de casas com rachaduras em Paulínia cobram auxílio dos responsáveis O morador que tiver o imóvel danificado ou interditado por rachaduras causadas por fatores externos, como obras ou vazamentos, tem o ",
-        "image": "https://s2-g1.glbimg.com/k9xgY-4_eoiPZ6h29pFSdChWUwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/A/xVYs6xRca7ZYMsXugEFQ/design-sem-nome-2-.jpg-1-.jpeg",
         "date": "17 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -367,6 +367,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Recesso parlamentar adia decisões sobre pautas prioritárias no Congresso",
+        "link": "https://exame.com/esferabrasil/recesso-parlamentar-adia-decisoes-sobre-pautas-prioritarias-no-congresso/",
+        "summary": "Com parlamentares voltados às campanhas, propostas como o fim da escala 6x1, a PEC da Segurança Pública e mudanças no MEI ficam para o segundo semestre",
+        "image": null,
+        "date": "18 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Atlético-MG provoca Flamengo após campanha de nova camisa",
         "link": "https://exame.com/esporte/atletico-mg-provoca-flamengo-apos-campanha-de-nova-camisa/",
         "summary": "A provocação faz referência ao \"Manto da Massa\", projeto criado pelo time mineiro em 2020",
@@ -410,16 +420,6 @@
         "title": "O trocadilho de 3 mil anos que Christopher Nolan decidiu deixar de fora de 'A Odisseia'",
         "link": "https://exame.com/pop/o-trocadilho-de-3-mil-anos-que-christopher-nolan-decidiu-deixar-de-fora-de-a-odisseia/",
         "summary": "Um dos momentos mais comentados do poema original depende de um trocadilho em grego antigo. No cinema, Nolan escolheu outro caminho para contar a mesma história",
-        "image": null,
-        "date": "17 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Moraes mantém prisão domiciliar de Jair Bolsonaro, mas proíbe visitas por 30 dias",
-        "link": "https://exame.com/brasil/moraes-mantem-domiciliar-de-jair-bolsonaro-mas-proibe-visitas-por-30-dias/",
-        "summary": "Decisão preserva regime domiciliar, suspende visitas sociais e mantém veto a encontros com Flávio Bolsonaro",
         "image": null,
         "date": "17 de jul. de 2026",
         "source": "Exame",
