@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T09:07:02.167Z",
+  "updated": "2026-07-19T11:11:42.136Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Venda ilegal de documentos históricos preocupa Arquivo Nacional",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/venda-ilegal-de-documentos-historicos-preocupa-arquivo-nacional",
+        "summary": "p Nos últimos três anos, pelo menos dez casos de venda ilegal de documentos históricos brasileiros em leilões foram identificados pelo Arquivo Nacional. strong Segundo o órgão federal, responsável pela guarda dessa docum",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Prêmio de R$ 35 milhões será sorteado pela Mega-Sena neste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/premio-de-r-35-milhoes-sera-sorteado-pela-mega-sena-neste-sabado",
+        "summary": "p strong As seis dezenas do concurso 3.033 da Mega-Sena serão sorteadas, a partir das 11h (horário de Brasília), no Espaço da Sorte, localizado na Avenida Paulista, nº 750, em São Paulo. /strong img src= https://agenciab",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Inglaterra leva 3ª lugar e Mbappé vira maior artilheiro das Copas",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/inglaterra-leva-3a-lugar-e-mbappe-vira-maior-artilheiro-das-copas",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/inglaterra-leva-3a-lugar-e-mbappe-vira-maior-artilheiro-das-copas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Trilha na Rocinha mostra Mata Atlântica e recuperação florestal no Rio",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/trilha-na-rocinha-mostra-mata-atlantica-e-recuperacao-florestal-no-rio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/trilha-na-rocinha-mostra-mata-atlantica-e-recuperacao-florestal-no-rio img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Seleção masculina perde e pode dar adeus à Liga das Nações de vôlei",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/selecao-masculina-perde-e-pode-dar-adeus-liga-das-nacoes-de-volei",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/selecao-masculina-perde-e-pode-dar-adeus-liga-das-nacoes-de-volei img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Olise supera Pelé e se torna jogador com mais assistências em uma Copa desde 1966",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/olise-recorde-assistencias-copa-do-mundo-2026/",
-        "summary": "O francês Michael Olise entrou para a história da Copa do Mundo de 2026 ao registrar sete assistências durante o torneio. Com a marca, o atacante da França tornou-se o jogador com mais passes para gol em uma única edição",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27J9QQ__v1__HighRes__FblWc2026Match101FraEsp.webp",
+        "title": "Scaloni, o maestro inesperado que regeu a era mais gloriosa da Argentina",
+        "link": "https://www.gazetaesportiva.com/times/argentina/lionel-scaloni-busca-novo-capitulo-historico-argentina/",
+        "summary": "Lionel Scaloni chega à final da Copa do Mundo de 2026 consolidado como um dos maiores técnicos da história da seleção argentina. Inicialmente contestado quando assumiu o cargo de forma interina após o Mundial de 2018, o ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__2286649510__v1__HighRes__ArgentinaTrainingSessionFifaWorldCup2026-1.webp",
         "date": "19 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Rei Messi enfrenta Príncipe Yamal na final da Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/rei-messi-enfrenta-principe-yamal-na-final-da-copa-do-mundo/",
-        "summary": "Uma foto tirada em 2007 ganhou novo significado às vésperas da final da Copa do Mundo. Na imagem, Lionel Messi aparece dando banho em um bebê durante uma ação beneficente do Barcelona. Dezenove anos depois, aquele bebê é",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260715__C2BA42W__v3__MidRes__TopshotFblWc2026Match102EngArg.webp",
+        "title": "O controle espanhol contra a garra argentina: dois estilos frente a frente",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/o-controle-espanhol-contra-a-garra-argentina-dois-estilos-frente-a-frente/",
+        "summary": "Argentina e Espanha disputam a final da Copa do Mundo de 2026 carregando estilos de jogo distintos. Enquanto os espanhóis apostam na posse de bola e na força coletiva, os argentinos chegam à decisão impulsionados pela li",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260717__C2DN8KG__v1__MidRes__ComboFblWc2026Match104EspArgFinal.webp",
         "date": "19 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Acúmulo de transfer bans atrapalha planos do Corinthians por Wesley",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/acumulo-de-transfer-bans-atrapalha-planos-do-corinthians-por-wesley/",
-        "summary": "O novo transfer ban recebido pelo Corinthians pode atrasar os planos da diretoria para anunciar Wesley. Embora haja otimismo por um acordo com o Al-Nassr, o clube precisa regularizar suas pendências financeiras para volt",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HAGm7QYWEAAzIdF.webp",
+        "title": "Lionel Messi: uma final para coroar sua obra-prima com a Argentina",
+        "link": "https://www.gazetaesportiva.com/times/argentina/messi-busca-segundo-titulo-mundial-ultima-copa/",
+        "summary": "Lionel Messi está a apenas 90 minutos de encerrar sua trajetória em Copas do Mundo de forma histórica. Aos 39 anos, o craque argentino liderou a Argentina até a final da Copa do Mundo de 2026 e terá a oportunidade de con",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260717__C2HM8YM__v1__HighRes__FblWc2026PresserFansEspArg.webp",
         "date": "19 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "França confirma saída de Didier Deschamps após 14 anos no comando da seleção",
-        "link": "https://www.gazetaesportiva.com/times/franca/deschamps-deixa-selecao-francesa-apos-copa-2026/",
-        "summary": "A Federação Francesa de Futebol (FFF) confirmou a saída de Didier Deschamps do comando da seleção francesa após a disputa da Copa do Mundo de 2026. Depois de 14 anos à frente dos Bleus, o treinador encerra um ciclo marca",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JX6VQ__v1__HighRes__FblWc2026Match103FraEng.webp",
+        "title": "Joia da base volta a ganhar espaço no Santos e faz primeira atuação com Cuca",
+        "link": "https://www.gazetaesportiva.com/times/santos/joia-da-base-volta-a-ganhar-espaco-no-santos-e-faz-primeira-atuacao-com-cuca/",
+        "summary": "O atacante Nadson voltou a receber uma oportunidade no elenco profissional do Santos. Depois de meses atuando pelo time sub-20, o jovem entrou no segundo tempo da derrota por 2 a 1 para o Botafogo, nesta quinta-feira, pe",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55398585521_88868727db_k.webp",
         "date": "19 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "França x Inglaterra entra na lista de jogos com mais gols da história das Copas",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/franca-inglaterra-jogo-mais-gols-copa-2026/",
-        "summary": "A vitória da Inglaterra sobre a França por 6 a 4, na disputa do terceiro lugar da Copa do Mundo de 2026, entrou para a história dos Mundiais. Com 10 gols marcados, o confronto disputado no Hard Rock Stadium, em Miami, ig",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JY6YR__v1__HighRes__FblWc2026Match103FraEng.webp",
+        "title": "Relembre o desempenho do São Paulo após as Copas do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/relembre-o-desempenho-do-sao-paulo-apos-as-copas-do-mundo/",
+        "summary": "Ao longo das últimas edições do torneio, o São Paulo acumulou resultados variados em seus primeiros compromissos depois da pausa, com três vitórias, duas derrotas e um empate, desde 2002. O post Relembre o desempenho do ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55306591934_b18f143bd8_k.webp",
         "date": "19 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tuchel elogia Saka após hat-trick e explica escolhas na Inglaterra: “Os jogos têm demandas específicas”",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/tuchel-elogia-saka-inglaterra-franca-copa-2026/",
-        "summary": "O técnico Thomas Tuchel exaltou a atuação de Bukayo Saka na vitória da Inglaterra por 6 a 4 sobre a França, pela disputa do terceiro lugar da Copa do Mundo de 2026. Autor de um hat-trick, Saka recebeu elogios do treinado",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__2286675979__v1__HighRes__FranceVEnglandBronzeFinalFifaWorldCup2026.webp",
+        "title": "Palmeiras prepara Paulinho para jogar mais de 45 minutos no 2° semestre, mas mantém cautela",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-prepara-paulinho-para-poder-jogar-mais-de-45-minutos-em-retomada-mas-mantem-cautela/",
+        "summary": "Com contratação pontual para a sequência da temporada, o Palmeiras terá alguns reforços caseiros na retomada das competições após a Copa do Mundo. Durante o período sem jogos, o clube preparou o atacante Paulinho para au",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/16072026_cg_palmeiras_9848_5.webp",
         "date": "19 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "O RH já paga a academia. Agora precisa convencer as pessoas a treinar",
+        "link": "https://www.infomoney.com.br/carreira/o-rh-ja-paga-a-academia-agora-precisa-convencer-as-pessoas-a-treinar/",
+        "summary": "Especialistas afirmam que o desafio deixou de ser oferecer incentivos e passou a ser criar uma cultura capaz de transformar intenção em hábito. The post O RH já paga a academia. Agora precisa convencer as pessoas a trein",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/qualidade-de-vida-academia-bem-estar-musculacao.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Como novas regras tributárias vão reformar Construção Civil",
+        "link": "https://www.infomoney.com.br/business/mais-notas-menos-improviso-tributaria-faz-verdadeira-reforma-na-construcao-civil/",
+        "summary": "Com a reforma, a mudança parece técnica, mas, no caso da construção civil, altera profundamente a gestão do negócio; entenda The post Como novas regras tributárias vão reformar Construção Civil appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/engenheiros_final.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+        "date": "19 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Startups: Metade das empresas que demitiram por IA vai recontratar até 2027",
+        "link": "https://www.infomoney.com.br/business/startups-metade-das-empresas-que-demitiram-por-ia-vai-recontratar-ate-2027/",
+        "summary": "Consultoria diz que a IA \"não está madura o suficiente\" para substituir experiência, e empresas que cortaram cedo estão pagando o preço The post Startups: Metade das empresas que demitiram por IA vai recontratar até 2027",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/397033284.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "SpaceX e OpenAI antes da bolsa: Investidores capturam mais valorização pré-IPO?",
+        "link": "https://www.infomoney.com.br/mercados/spacex-e-openai-antes-da-bolsa-investidores-capturam-mais-valorizacao-pre-ipo/",
+        "summary": "Parte expressiva da geração de valor acontece fora dos mercados públicos e fica concentrada entre investidores que conseguem acessar essas oportunidades antecipadamente The post SpaceX e OpenAI antes da bolsa: Investidor",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458722360.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "19 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Quando sai o resultado da Vale (VALE3) do 2º tri de 2026?",
         "link": "https://www.infomoney.com.br/mercados/quando-sai-o-resultado-da-vale-vale3-do-2o-tri-de-2026/",
         "summary": "De acordo com a companhia, o relatório de produção e vendas do segundo trimestre será divulgado em 21 de julho, após o fechamento do mercado The post Quando sai o resultado da Vale (VALE3) do 2º tri de 2026? appeared fir",
@@ -327,49 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Após crises sucessivas, a Boeing tenta virar a página",
-        "link": "https://www.infomoney.com.br/business/global/apos-crises-sucessivas-a-boeing-tenta-virar-a-pagina/",
-        "summary": "A empresa abriu uma nova linha de produção para dar conta da forte demanda por seu 737 Max, embora os pedidos por seus novos aviões ainda fiquem atrás dos da rival Airbus The post Após crises sucessivas, a Boeing tenta v",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-18T130327Z_1_LYNXMPEL3H0AI_RTROPTP_4_CHINA-BOEING-RETORNA-COMERCIO_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "CFO da OpenAI: 4 perguntas que mostram se seu gasto com IA está valendo a pena",
-        "link": "https://www.infomoney.com.br/business/global/cfo-da-openai-4-perguntas-que-mostram-se-seu-gasto-com-ia-esta-valendo-a-pena/",
-        "summary": "Para Sarah Friar, CFOs devem avaliar se a inteligência artificial entrega trabalho relevante, confiável e escalável — e não apenas acompanhar métricas técnicas isoladas The post CFO da OpenAI: 4 perguntas que mostram se ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/OPENAIS-CFO-4-QUESTIONS-THAT-REVEAL-IF-YOUR-AI-SPEND-IS-PAYING-OFF.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Os jovens de 20 e poucos anos que comandam a máquina de guerra da Ucrânia",
-        "link": "https://www.infomoney.com.br/business/global/os-jovens-de-20-e-poucos-anos-que-comandam-a-maquina-de-guerra-da-ucrania/",
-        "summary": "Uma nova geração vem cortando a burocracia para acelerar o envio de armas à linha de frente. Mas a velha guarda reagiu, e agora o jovem ministro da Defesa da Ucrânia está fora do cargo The post Os jovens de 20 e poucos a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/UKRAINE-WAR-YOUTH-1-e1784322213759.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
-        "date": "19 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Jaqueta de CEO da Nvidia é vendida por US$ 1 mi — e o dinheiro vai para uma boa causa",
-        "link": "https://www.infomoney.com.br/business/global/jaqueta-de-ceo-da-nvidia-e-vendida-por-us-1-mi-e-o-dinheiro-vai-para-uma-boa-causa/",
-        "summary": "Peça icônica usada por Jensen Huang foi vendida na Sotheby’s por US$ 960 mil, e os recursos serão destinados a iniciativas para jovens inovadores de tecnologia The post Jaqueta de CEO da Nvidia é vendida por US$ 1 mi — e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/JENSEN-HUANGS-SIGNATURE-BLACK-LEATHER-JACKET-JUST-SOLD-AT-SOTHEBYS-FOR-NEARLY-1-MILLIONAND-THE-MONEY-IS-GOING-TO-YOUNG-TECH-BUILDERS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Saiba como a IA que está encurtando o caminho até novos remédios",
-        "link": "https://exame.com/inteligencia-artificial/saiba-como-a-ia-que-esta-encurtando-o-caminho-ate-novos-remedios/",
-        "summary": "Algoritmos capazes de analisar bilhões de moléculas em poucas horas estão acelerando a descoberta de novos medicamentos. No Brasil, universidades e empresas de biotecnologia apostam na combinação entre inteligência artif",
+        "title": "Para os CMOs, o legado pós-Copa desenha um cenário de patrocínio complexo e pulverizado",
+        "link": "https://exame.com/exame-in/para-os-cmos-o-legado-pos-copa-desenha-um-cenario-de-patrocinio-complexo-e-pulverizado/",
+        "summary": "Líderes de marketing da Ambev, Chevrolet, Flutter, iFood, Itaú, Visa e Volkswagen analisam a estratégia de suas marcas frente à fragmentação de audiência e aos novos desafios de ativação",
         "image": null,
         "date": "19 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "VNL masculina 2026: veja os jogos de vôlei deste domingo, 19",
-        "link": "https://exame.com/esporte/vnl-masculina-2026-veja-os-jogos-de-volei-deste-domingo-19/",
-        "summary": "Rodada terá nove partidas; Brasil enfrenta a China em seu último jogo da fase preliminar",
+        "title": "A inteligência artificial não sente empatia — mas já sabe identificá-la",
+        "link": "https://exame.com/carreira/a-inteligencia-artificial-nao-sente-empatia-mas-ja-sabe-identifica-la/",
+        "summary": "Estudo mostra que ChatGPT, Gemini e Claude avaliam conversas emocionais com desempenho próximo ao de especialistas",
         "image": null,
         "date": "19 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Argentina x Espanha: horário e onde assistir à final da Copa do Mundo hoje",
-        "link": "https://exame.com/esporte/argentina-x-espanha-horario-e-onde-assistir-a-final-da-copa-do-mundo-hoje/",
-        "summary": "Decisão acontece neste domingo, 19, às 16h, no MetLife Stadium, em Nova Jersey",
+        "title": "Após vender marca para gigante francesa, este italiano fará milhões com refri saudável no Brasil",
+        "link": "https://exame.com/negocios/apos-vender-marca-para-gigante-francesa-este-italiano-fara-milhoes-com-refri-saudavel-no-brasil/",
+        "summary": "Arturo Isola, fundador da Amazzoni Gin, investiu R$ 2 milhões na Bamba, marca de refrigerantes com fibra prebiótica",
         "image": null,
         "date": "19 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "China x Brasil na VNL masculina 2026: veja horário e onde assistir ao jogo de vôlei hoje",
-        "link": "https://exame.com/esporte/china-x-brasil-na-vnl-masculina-2026-veja-horario-e-onde-assistir-ao-jogo-de-volei-hoje/",
-        "summary": "Seleção de Bernardinho encerra a fase preliminar neste domingo, 19, às 14h, em Chicago",
+        "title": "Quem é o maior artilheiro da história da Argentina",
+        "link": "https://exame.com/esporte/quem-e-o-maior-artilheiro-da-historia-da-argentina/",
+        "summary": "O camisa 10 é o grande nome da Argentina e já anotou 125 gols com a camisa de seu país",
         "image": null,
         "date": "19 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Criatividade turbinada: como artistas e criadores estão transformando a IA em parceira de trabalho",
-        "link": "https://exame.com/inteligencia-artificial/criatividade-turbinada-como-artistas-e-criadores-estao-transformando-a-ia-em-parceira-de-trabalho/",
-        "summary": "De ilustradores a roteiristas, profissionais criativos estão incorporando a inteligência artificial ao processo de criação para testar ideias, acelerar etapas e explorar novas possibilidades — sem abrir mão da autoria",
+        "title": "Copa do Mundo impulsiona negócio bilionário da Livelo: ‘Pontos viram tudo, até figurinha’, diz CEO",
+        "link": "https://exame.com/negocios/copa-do-mundo-impulsiona-negocio-bilionario-da-livelo-pontos-viram-tudo-ate-figurinha-diz-ceo/",
+        "summary": "O Mundial impulsionou neste ano a venda de álbuns e televisores no Brasil e traz bons ventos para essa companhia brasileira que busca faturar R$ 11 bilhões até 2030",
         "image": null,
         "date": "19 de jul. de 2026",
         "source": "Exame",
@@ -417,11 +417,11 @@
         "cls": "startups"
       },
       {
-        "title": "Inglaterra e França fazem a disputa de terceiro lugar com mais gols da história das Copas do Mundo",
-        "link": "https://exame.com/esporte/inglaterra-e-franca-fazem-a-disputa-de-terceiro-lugar-com-mais-gols-da-historia-das-copas-do-mundo/",
-        "summary": "Vitória inglesa por 6 a 4 em Miami estabeleceu recordes na história da disputa pelo bronze e entrou para o seleto grupo dos confrontos mais movimentados dos Mundiais",
+        "title": "Guerra do Irã afasta países do golfo e EUA, diz estudo",
+        "link": "https://exame.com/mundo/guerra-do-ira-afasta-paises-do-golfo-e-eua-diz-estudo/",
+        "summary": "Da IA à segurança, países situados no Golfo Pérsico, que tomaram o lado americano no conflito, pagam preço da aliança em diversos setores",
         "image": null,
-        "date": "18 de jul. de 2026",
+        "date": "19 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
