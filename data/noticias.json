@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-19T06:34:03.598Z",
+  "updated": "2026-07-19T09:07:02.167Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Sofrimento mental atinge 1 em cada 3 trabalhadores dos canaviais da região de Campinas, aponta estudo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/19/sofrimento-mental-atinge-1-em-cada-3-trabalhadores-dos-canaviais-da-regiao-de-campinas-aponta-estudo.ghtml",
+        "summary": "Sofrimento mental atinge 1 em cada 3 trabalhadores dos canaviais da região de Campinas Um em cada três trabalhadores dos canaviais da Região Metropolitana de Campinas (RMC) apresenta sinais de sofrimento mental. O dado é",
+        "image": "https://s2-g1.glbimg.com/tiTzIXB8WrtKgcS5-Uca2SZU7a4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/H4R6O7Sg6yBRh4FWVsLw/whatsapp-image-2026-07-15-at-08.48.55.jpeg",
+        "date": "19 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Com expectativa de mudanças da Reforma Tributária, transferência de imóveis para herdeiros batem recorde em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/18/com-expectativa-de-mudancas-da-reforma-tributaria-transferencia-de-imoveis-para-herdeiros-batem-recorde-em-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/18/regiao-de-campinas-tem-106-mil-criancas-sem-nome-do-pai-desde-2016-mutirao-oferece-registro-gratuito.ghtml",
         "summary": "Campinas concentra 7,5 mil dos 14.771 sem paternidade na certidão na região Campinas (SP), Americana (SP), Sumaré (SP) e Artur Nogueira (SP) somam 10.652 registros de nascimento sem o nome do pai desde 2016. Os dados são",
         "image": "https://s2-g1.glbimg.com/GkeDcvYWm_6Agch9WlYAEbqQsIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/1/YfZhAQSeuhWWVyeXPlPQ/e1-1807-mutirao-paterni-cp004c1g-2026-07-18-10-15-20.mxf-snapshot-03.30.856.jpg",
-        "date": "18 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Homem é preso após tentar atear fogo em mulher e filha em Louveira, diz PM",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/18/homem-e-preso-apos-tentar-atear-fogo-em-mulher-e-filha-em-louveira-diz-pm.ghtml",
-        "summary": "Delegacia de Polícia Civil de Louveira (SP) Reprodução/Google Street View Um homem foi preso em flagrante na noite desta sexta-feira (17) após tentar atear fogo na mulher e na filha, em Louveira(SP). O crime ocorreu em u",
-        "image": "https://s2-g1.glbimg.com/Zz2x_OufZLEjPGgusmdD1YuYhTQ=/s.glbimg.com/jo/g1/f/original/2015/04/02/dsc_0161.jpg",
         "date": "18 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,36 @@
     ],
     "esportes": [
       {
+        "title": "Olise supera Pelé e se torna jogador com mais assistências em uma Copa desde 1966",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/olise-recorde-assistencias-copa-do-mundo-2026/",
+        "summary": "O francês Michael Olise entrou para a história da Copa do Mundo de 2026 ao registrar sete assistências durante o torneio. Com a marca, o atacante da França tornou-se o jogador com mais passes para gol em uma única edição",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260714__C27J9QQ__v1__HighRes__FblWc2026Match101FraEsp.webp",
+        "date": "19 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Rei Messi enfrenta Príncipe Yamal na final da Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/rei-messi-enfrenta-principe-yamal-na-final-da-copa-do-mundo/",
+        "summary": "Uma foto tirada em 2007 ganhou novo significado às vésperas da final da Copa do Mundo. Na imagem, Lionel Messi aparece dando banho em um bebê durante uma ação beneficente do Barcelona. Dezenove anos depois, aquele bebê é",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260715__C2BA42W__v3__MidRes__TopshotFblWc2026Match102EngArg.webp",
+        "date": "19 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Acúmulo de transfer bans atrapalha planos do Corinthians por Wesley",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/acumulo-de-transfer-bans-atrapalha-planos-do-corinthians-por-wesley/",
+        "summary": "O novo transfer ban recebido pelo Corinthians pode atrasar os planos da diretoria para anunciar Wesley. Embora haja otimismo por um acordo com o Al-Nassr, o clube precisa regularizar suas pendências financeiras para volt",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HAGm7QYWEAAzIdF.webp",
+        "date": "19 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "França confirma saída de Didier Deschamps após 14 anos no comando da seleção",
         "link": "https://www.gazetaesportiva.com/times/franca/deschamps-deixa-selecao-francesa-apos-copa-2026/",
         "summary": "A Federação Francesa de Futebol (FFF) confirmou a saída de Didier Deschamps do comando da seleção francesa após a disputa da Copa do Mundo de 2026. Depois de 14 anos à frente dos Bleus, o treinador encerra um ciclo marca",
@@ -210,36 +240,6 @@
         "summary": "O técnico Thomas Tuchel exaltou a atuação de Bukayo Saka na vitória da Inglaterra por 6 a 4 sobre a França, pela disputa do terceiro lugar da Copa do Mundo de 2026. Autor de um hat-trick, Saka recebeu elogios do treinado",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__2286675979__v1__HighRes__FranceVEnglandBronzeFinalFifaWorldCup2026.webp",
         "date": "19 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Mbappé minimiza artilharia na Copa e enaltece legado de Deschamps após 4° lugar: Não vai manchar",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/mbappe-minimiza-artilharia-na-copa-e-enaltece-legado-de-deschamps-apos-4-lugar-nao-vai-manchar/",
-        "summary": "Kylian Mbappé marcou dois gols na derrota da França por 6 a 4 contra a Inglaterra, neste sábado, resultado que deu o terceiro lugar da Copa do Mundo à seleção inglesa. Após o duelo disputado no Hard Rock Stadium, em Miam",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JY6WM__v1__MidRes__FblWc2026Match103FraEng.webp",
-        "date": "19 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Saka revela pedido de Bellingham antes de completar hat-trick pela Inglaterra: “Vá pegar o seu”",
-        "link": "https://www.gazetaesportiva.com/times/inglaterra/saka-hat-trick-inglaterra-franca-copa-do-mundo-2026/",
-        "summary": "Bukayo Saka brilhou na vitória da Inglaterra por 6 a 4 sobre a França, na disputa do terceiro lugar da Copa do Mundo de 2026. Autor de um hat-trick, o atacante revelou que foi incentivado por Jude Bellingham a cobrar o p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JX74Z__v1__HighRes__FblWc2026Match103FraEng.webp",
-        "date": "18 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Com terceiro lugar na Copa do Mundo, Inglaterra faz melhor campanha desde 1966",
-        "link": "https://www.gazetaesportiva.com/times/inglaterra/com-terceiro-lugar-na-copa-do-mundo-inglaterra-faz-melhor-campanha-desde-1966/",
-        "summary": "A Inglaterra venceu a França neste sábado e conquistou o terceiro lugar da Copa do Mundo em um jogo eletrizante de dez gols. Com o lugar garantido no pódio, os ingleses fizeram sua melhor campanha em Copas desde a conqui",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260718__C2JY8ZT__v1__MidRes__FblWc2026Match103FraEng.webp",
-        "date": "18 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,119 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Mbappé se torna o maior artilheiro da história da Copa do Mundo",
-        "link": "https://www.infomoney.com.br/esportes/mbappe-se-torna-o-maior-artilheiro-da-historia-da-copa-do-mundo/",
-        "summary": "Mesmo após derrota da França por 6 a 4 na disputa pelo terceiro lugar, jogador marca duas vezes e bate recorde The post Mbappé se torna o maior artilheiro da história da Copa do Mundo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-18T224100Z_1_LYNXMPEM6H0E8_RTROPTP_4_SOCCER-WORLDCUP-FRA-ENG_red3_final.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Quando sai o resultado da Vale (VALE3) do 2º tri de 2026?",
+        "link": "https://www.infomoney.com.br/mercados/quando-sai-o-resultado-da-vale-vale3-do-2o-tri-de-2026/",
+        "summary": "De acordo com a companhia, o relatório de produção e vendas do segundo trimestre será divulgado em 21 de julho, após o fechamento do mercado The post Quando sai o resultado da Vale (VALE3) do 2º tri de 2026? appeared fir",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
         "date": "19 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "STF barra venda de terreno de R$ 15 milhões de Jaques Wagner após operação da PF",
-        "link": "https://www.infomoney.com.br/politica/stf-barra-venda-de-terreno-de-r-15-milhoes-de-jaques-wagner-apos-operacao-da-pf/",
-        "summary": "Defesa do parlamentar afirma que negociação foi iniciada em 2024 e formalizada em 2025 The post STF barra venda de terreno de R$ 15 milhões de Jaques Wagner após operação da PF appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Jaques-Wagner.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "De estagiário a investidor: a estratégia para construir um portfólio de sucesso",
+        "link": "https://www.infomoney.com.br/business/de-estagiario-a-investidor-a-estrategia-para-construir-um-portfolio-de-sucesso/",
+        "summary": "Ex-presidente da Roche no México, Evandro Caitano trocou o crachá pelo risco e hoje aposta em academias, seguros e imóveis The post De estagiário a investidor: a estratégia para construir um portfólio de sucesso appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/IMG_4481.jpg-1.jpeg?fit=300%2C197&amp;quality=70&amp;strip=all",
         "date": "19 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Gol está perto de fechar acordo por jatos E2 da Embraer",
-        "link": "https://www.infomoney.com.br/business/gol-esta-perto-de-fechar-acordo-por-jatos-e2-da-embraer/",
-        "summary": "Encomenda de 20 aeronaves pode ser anunciada já na próxima semana, durante o Farnborough International Airshow The post Gol está perto de fechar acordo por jatos E2 da Embraer appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Foto-de-Iuri-Santos-1.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "title": "Após crises sucessivas, a Boeing tenta virar a página",
+        "link": "https://www.infomoney.com.br/business/global/apos-crises-sucessivas-a-boeing-tenta-virar-a-pagina/",
+        "summary": "A empresa abriu uma nova linha de produção para dar conta da forte demanda por seu 737 Max, embora os pedidos por seus novos aviões ainda fiquem atrás dos da rival Airbus The post Após crises sucessivas, a Boeing tenta v",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-18T130327Z_1_LYNXMPEL3H0AI_RTROPTP_4_CHINA-BOEING-RETORNA-COMERCIO_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Walmart retira quatro saladas da Taylor Farms à medida que recalls se ampliam",
-        "link": "https://www.infomoney.com.br/business/walmart-retira-quatro-saladas-da-taylor-farms-a-medida-que-recalls-se-ampliam/",
-        "summary": "Fazenda está associada a surto de ciclosporíase nos Estados Unidos The post Walmart retira quatro saladas da Taylor Farms à medida que recalls se ampliam appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460940708_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "CFO da OpenAI: 4 perguntas que mostram se seu gasto com IA está valendo a pena",
+        "link": "https://www.infomoney.com.br/business/global/cfo-da-openai-4-perguntas-que-mostram-se-seu-gasto-com-ia-esta-valendo-a-pena/",
+        "summary": "Para Sarah Friar, CFOs devem avaliar se a inteligência artificial entrega trabalho relevante, confiável e escalável — e não apenas acompanhar métricas técnicas isoladas The post CFO da OpenAI: 4 perguntas que mostram se ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/OPENAIS-CFO-4-QUESTIONS-THAT-REVEAL-IF-YOUR-AI-SPEND-IS-PAYING-OFF.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Missão anuncia Coronel Busnello como candidato ao governo do Rio de Janeiro",
-        "link": "https://www.infomoney.com.br/politica/missao-anuncia-coronel-busnello-como-candidato-ao-governo-do-rio-de-janeiro/",
-        "summary": "Anúncio do ex-sniper do Bope foi feito pelo pré-candidato à Presidência pelo partido, Renan Santos The post Missão anuncia Coronel Busnello como candidato ao governo do Rio de Janeiro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/renan-santos-politico-partido-missao04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Os jovens de 20 e poucos anos que comandam a máquina de guerra da Ucrânia",
+        "link": "https://www.infomoney.com.br/business/global/os-jovens-de-20-e-poucos-anos-que-comandam-a-maquina-de-guerra-da-ucrania/",
+        "summary": "Uma nova geração vem cortando a burocracia para acelerar o envio de armas à linha de frente. Mas a velha guarda reagiu, e agora o jovem ministro da Defesa da Ucrânia está fora do cargo The post Os jovens de 20 e poucos a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/UKRAINE-WAR-YOUTH-1-e1784322213759.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
         "date": "19 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ricardo Salles chama Marina Silva e Simone Tebet de forasteiras",
-        "link": "https://www.infomoney.com.br/politica/ricardo-salles-chama-marina-silva-e-simone-tebet-de-forasteiras/",
-        "summary": "Deputado federal também tratou presidente da Alesp como \"filhote\" de Valdemar Costa Neto The post Ricardo Salles chama Marina Silva e Simone Tebet de forasteiras appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/06/ricardo-salles_mcamgo_abr_220420211818-7.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "18 de jul. de 2026",
+        "title": "Jaqueta de CEO da Nvidia é vendida por US$ 1 mi — e o dinheiro vai para uma boa causa",
+        "link": "https://www.infomoney.com.br/business/global/jaqueta-de-ceo-da-nvidia-e-vendida-por-us-1-mi-e-o-dinheiro-vai-para-uma-boa-causa/",
+        "summary": "Peça icônica usada por Jensen Huang foi vendida na Sotheby’s por US$ 960 mil, e os recursos serão destinados a iniciativas para jovens inovadores de tecnologia The post Jaqueta de CEO da Nvidia é vendida por US$ 1 mi — e",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/JENSEN-HUANGS-SIGNATURE-BLACK-LEATHER-JACKET-JUST-SOLD-AT-SOTHEBYS-FOR-NEARLY-1-MILLIONAND-THE-MONEY-IS-GOING-TO-YOUNG-TECH-BUILDERS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Saiba como a IA que está encurtando o caminho até novos remédios",
+        "link": "https://exame.com/inteligencia-artificial/saiba-como-a-ia-que-esta-encurtando-o-caminho-ate-novos-remedios/",
+        "summary": "Algoritmos capazes de analisar bilhões de moléculas em poucas horas estão acelerando a descoberta de novos medicamentos. No Brasil, universidades e empresas de biotecnologia apostam na combinação entre inteligência artif",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "VNL masculina 2026: veja os jogos de vôlei deste domingo, 19",
+        "link": "https://exame.com/esporte/vnl-masculina-2026-veja-os-jogos-de-volei-deste-domingo-19/",
+        "summary": "Rodada terá nove partidas; Brasil enfrenta a China em seu último jogo da fase preliminar",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Argentina x Espanha: horário e onde assistir à final da Copa do Mundo hoje",
+        "link": "https://exame.com/esporte/argentina-x-espanha-horario-e-onde-assistir-a-final-da-copa-do-mundo-hoje/",
+        "summary": "Decisão acontece neste domingo, 19, às 16h, no MetLife Stadium, em Nova Jersey",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "China x Brasil na VNL masculina 2026: veja horário e onde assistir ao jogo de vôlei hoje",
+        "link": "https://exame.com/esporte/china-x-brasil-na-vnl-masculina-2026-veja-horario-e-onde-assistir-ao-jogo-de-volei-hoje/",
+        "summary": "Seleção de Bernardinho encerra a fase preliminar neste domingo, 19, às 14h, em Chicago",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Criatividade turbinada: como artistas e criadores estão transformando a IA em parceira de trabalho",
+        "link": "https://exame.com/inteligencia-artificial/criatividade-turbinada-como-artistas-e-criadores-estao-transformando-a-ia-em-parceira-de-trabalho/",
+        "summary": "De ilustradores a roteiristas, profissionais criativos estão incorporando a inteligência artificial ao processo de criação para testar ideias, acelerar etapas e explorar novas possibilidades — sem abrir mão da autoria",
+        "image": null,
+        "date": "19 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Inglaterra e França fazem a disputa de terceiro lugar com mais gols da história das Copas do Mundo",
         "link": "https://exame.com/esporte/inglaterra-e-franca-fazem-a-disputa-de-terceiro-lugar-com-mais-gols-da-historia-das-copas-do-mundo/",
         "summary": "Vitória inglesa por 6 a 4 em Miami estabeleceu recordes na história da disputa pelo bronze e entrou para o seleto grupo dos confrontos mais movimentados dos Mundiais",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Terremotos na Venezuela: mortos sobem para 5.119 e busca por desaparecidos continua",
-        "link": "https://exame.com/mundo/terremotos-na-venezuela-mortos-sobem-para-5-119-e-busca-por-desaparecidos-continua/",
-        "summary": "Quase um mês após o fenômeno, equipes ainda retiram corpos dos escombros de prédios que desabaram",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Saka entra para seleto grupo e marca o quarto hat-trick da Copa do Mundo de 2026",
-        "link": "https://exame.com/esporte/saka-entra-para-seleto-grupo-e-marca-apenas-o-quarto-hat-trick-da-copa-do-mundo-de-2026/",
-        "summary": "Atacante da Inglaterra brilhou contra a França e se juntou a Messi, Jonathan David e Dembélé na lista de jogadores que marcaram três gols em um jogo",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EUA lançam nova rodada de ataques ao Irã após morte de militares na Jordânia",
-        "link": "https://exame.com/mundo/eua-lancam-nova-rodada-de-ataques-ao-ira-apos-morte-de-militares-na-jordania/",
-        "summary": "Comando Central Americano diz que ofensiva mira capacidade iraniana de ameaçar o Estreito de Ormuz, enquanto Teerã promete 'lição inesquecível'",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Argentina x Espanha: horário e onde assistir à final da Copa do Mundo",
-        "link": "https://exame.com/esporte/argentina-x-espanha-horario-e-onde-assistir-a-final-da-copa-do-mundo/",
-        "summary": "Decisão acontece neste domingo, 19, às 16h, no MetLife Stadium, em Nova Jersey",
-        "image": null,
-        "date": "18 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Inglaterra vence França em jogo de dez gols e garante o terceiro lugar da Copa do Mundo",
-        "link": "https://exame.com/esporte/inglaterra-vence-franca-em-jogo-de-dez-gols-e-garante-o-terceiro-lugar-da-copa-do-mundo/",
-        "summary": "Ingleses abriram 4 a 0 no primeiro tempo, suportaram reação francesa liderada por Mbappé e fecharam a vitória por 6 a 4 em Miami",
         "image": null,
         "date": "18 de jul. de 2026",
         "source": "Exame",
