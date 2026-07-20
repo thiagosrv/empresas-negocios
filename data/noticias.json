@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-20T18:08:05.487Z",
+  "updated": "2026-07-20T20:24:16.077Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Vigilância, portaria ou tecnologia: qual a melhor opção?",
+        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/previl-seguranca/noticia/2026/07/20/vigilancia-portaria-ou-tecnologia-qual-a-melhor-opcao.ghtml",
+        "summary": "Ilustração destaca as soluções de vigilância, portaria e tecnologia para diferentes tipos de ambiente – Crédito: Divulgação / Previl. Com o aumento da preocupação com segurança em empresas, condomínios e espaços comercia",
+        "image": "https://s2-g1.glbimg.com/Zld3JjJpW-pF_ttyn2N8isBf1oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/G/MMbRFVRyG8ASbTWXx06w/1-8-.png",
+        "date": "20 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Acidente Voepass: Cenipa finaliza investigação e divulgará relatório nesta quinta",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/20/acidente-voepass-cenipa-finaliza-investigacao-divulgara-relatorio.ghtml",
@@ -53,14 +63,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Tutores de 'frentiscão' de Campinas voltam ao Brasil após morte do cachorro na Argentina: 'Buscar justiça'",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/20/tutores-de-frentiscao-de-campinas-voltam-ao-brasil-apos-morte-do-cachorro-na-argentina-buscar-justica.ghtml",
-        "summary": "Cachorro influenciador de Campinas morre na Argentina; família busca justiça Os tutores de Poze, um dos \"frentiscães\" de Campinas (SP), decidiram retornar ao Brasil após o cachorro ser encontrado morto durante uma viagem",
-        "image": "https://s2-g1.glbimg.com/ZKt1rtnirbBz832yW2dC5TbwhKg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/VgaicBQfqUoJ9BLZlRQw/frentiscao.png",
+        "title": "Nova UBS do Zanaga completa um ano com mais de 33 mil atendimentos",
+        "link": "https://jornalamericanense.com.br/saude/nova-ubs-do-zanaga-completa-um-ano-com-mais-de-33-mil-atendimentos/",
+        "summary": "A nova Unidade Básica de Saúde (UBS) “Doutor Newton Worschech”, no bairro Antônio Zanaga 2, completa um ano de funcionamento com mais de 33 mil atendimentos realizados. Inaugurada em 19 de julho de 2025, a unidade contri",
+        "image": null,
         "date": "20 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Polícia Civil prende mulher por venda ilegal de medicamento para emagrecimento em Americana",
+        "link": "https://jornalamericanense.com.br/policia/policia-civil-prende-mulher-por-venda-ilegal-de-medicamento-para-emagrecimento-em-americana/",
+        "summary": "Operação da DISE apreendeu 22 ampolas de tirzepatida, seringas, veículo e equipamentos utilizados na comercialização clandestina de produtos introduzidos ilegalmente no país. Uma operação da Delegacia de Investigações So",
+        "image": null,
+        "date": "20 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "GAMA recupera tubulação de cobre furtada e prende homem por receptação qualificada em Americana",
@@ -103,24 +123,44 @@
         "cls": "servicos"
       },
       {
-        "title": "Menina foi mantida doente pela própria mãe durante 14 anos e hoje luta para alertar o mundo sobre abuso infantil",
-        "link": "https://jornalamericanense.com.br/saude/menina-foi-mantida-doente-pela-propria-mae-durante-14-anos-e-hoje-luta-para-alertar-o-mundo-sobre-abuso-infantil/",
-        "summary": "O que parecia ser uma infância marcada por uma doença misteriosa escondia, na verdade, um dos casos mais chocantes de abuso infantil já documentados na Holanda. Durante 14 anos, Nina Blom foi convencida de que estava gra",
+        "title": "TSE abre prazo para solicitação de voto em trânsito",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tse-abre-prazo-para-solicitacao-de-voto-em-transito",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tse-abre-prazo-para-solicitacao-de-voto-em-transito img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.",
         "image": null,
-        "date": "17 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "20 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Aluno de escola de aviação morre após ritual de banho de óleo e instrutor é preso no Paraná",
-        "link": "https://jornalamericanense.com.br/policia/aluno-de-escola-de-aviacao-morre-apos-ritual-de-banho-de-oleo-e-instrutor-e-preso-no-parana/",
-        "summary": "Um ritual tradicional de comemoração em uma escola de aviação terminou em tragédia na noite de quinta-feira (16), em Ponta Grossa, nos Campos Gerais do Paraná. O engenheiro Gustavo Henrique Lara, de 27 anos, morreu após ",
+        "title": "Copa do Mundo 2030 celebrará centenário do torneio com 6 países-sede",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/copa-do-mundo-2030-celebrara-centenario-do-torneio-com-6-paises-sede",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/copa-do-mundo-2030-celebrara-centenario-do-torneio-com-6-paises-sede img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
-        "date": "17 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "20 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lei cria política para fortalecer indústria da saúde",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/lei-cria-politica-para-fortalecer-industria-da-saude",
+        "summary": "p strong Sancionado nesta segunda-feira (20), o Projeto de Lei n° 2583/20 pretende garantir a autonomia do Brasil na produção de medicamentos, vacinas, equipamentos e insumos médicos, fortalecendo a soberania nacional, i",
+        "image": null,
+        "date": "20 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Prouni 2026/2: prazo para confirmar informações termina na sexta",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-20262-prazo-para-confirmar-informacoes-termina-na-sexta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-20262-prazo-para-confirmar-informacoes-termina-na-sexta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "20 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Brasil terá 158,7 milhões de eleitores aptos a votar em outubro",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Anvisa aprova novo medicamento para linfoma não Hodgkin",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-aprova-novo-medicamento-para-linfoma-nao-hodgkin",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-aprova-novo-medicamento-para-linfoma-nao-hodgkin img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
-        "image": null,
-        "date": "20 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Escalada da guerra expõe fracasso do acordo entre Irã e EUA",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/escalada-da-guerra-expoe-fracasso-do-acordo-entre-ira-e-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/escalada-da-guerra-expoe-fracasso-do-acordo-entre-ira-e-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "20 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Governo Trump usa desmatamento para impor taxas ao Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/governo-trump-usa-desmatamento-para-impor-taxas-ao-brasil",
-        "summary": "p As justificativas dos Estados Unidos para taxar o Brasil em 25% sobre os produtos exportados incluem a acusação de que o Brasil permite o desmatamento. strong Para o secretário executivo do Observatório do Clima, Marci",
-        "image": null,
-        "date": "20 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Economia cresce 0,7% em maio, puxada por consumo das famílias, diz FGV",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/economia-cresce-07-em-maio-puxada-por-consumo-das-familias-diz-fgv",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/economia-cresce-07-em-maio-puxada-por-consumo-das-familias-diz-fgv img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "20 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Veja fotos do treino do Palmeiras desta segunda-feira",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-segunda-feira-20-07-2026/",
-        "summary": "Veja fotos do treino do Palmeiras desta segunda-feira. A equipe se prepara para enfrentar o Coritiba na retomada do Brasileirão. O post Veja fotos do treino do Palmeiras desta segunda-feira apareceu primeiro em Gazeta Es",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/20072026_cg_palmeiras_4768_58.webp",
+        "title": "Presidente da Conmebol projeta Copa do Mundo de 2030 com 64 seleções",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/presidente-da-conmebol-projeta-copa-do-mundo-de-2030-com-64-selecoes/",
+        "summary": "O presidente da Conmebol, Alejandro Domínguez, voltou a defender a ampliação da Copa do Mundo de 2030 para 64 seleções. Em publicação nas redes sociais, o dirigente destacou o centenário do torneio e afirmou que a edição",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260127__092_482LZ__v1__HighRes__FblPresidentAnniversary.webp",
         "date": "20 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Itália se reúne com Guardiola para convencê-lo a assumir seleção",
-        "link": "https://www.gazetaesportiva.com/times/italia/italia-se-reune-com-guardiola-para-convence-lo-a-assumir-selecao/",
-        "summary": "Paolo Maldini e Leonardo iniciaram a missão de reconstrução da seleção italiana e se reuniram com Pep Guardiola, em Barcelona, para apresentar o projeto da Azzurra visando a Copa do Mundo de 2030. Apesar do interesse da ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260519__B3DQ7AB__v1__HighRes__FblEngPrBournemouthManCity.webp",
+        "title": "Campeões mundiais desfilam pelas ruas de Madri lotadas de torcedores",
+        "link": "https://www.gazetaesportiva.com/times/espanha/campeoes-mundiais-desfilam-pelas-ruas-de-madri-lotadas-de-torcedores/",
+        "summary": "Recém-campeã da Copa do Mundo de 2026, a seleção da Espanha foi recebida por uma multidão em Madri nesta segunda-feira. Após serem homenageados pelo Rei Felipe VI e pelo primeiro-ministro Pedro Sánchez, os jogadores desf",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260720__C2PC9AW__v1__HighRes__FblWc2026EspSpain.webp",
         "date": "20 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras faz treino tático e prepara reforço caseiro para duelo contra o Coritiba",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-faz-treino-tatico-e-prepara-reforco-caseiro-para-duelo-contra-o-coritiba/",
-        "summary": "O Palmeiras treinou na manhã desta segunda-feira, na Academia de Futebol, e entrou na reta final da preparação para o confronto com o Coritiba, que acontece nesta quarta-feira. Para o duelo, Abel Ferreira deve ter o refo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/20072026_cg_palmeiras_4500_37.webp",
+        "title": "UCV x Santos: saiba onde assistir ao duelo pelos playoffs da Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/santos/ucv-x-santos-saiba-onde-assistir-ao-duelo-pelos-playoffs-da-sul-americana/",
+        "summary": "O Santos entra em campo nesta terça-feira para iniciar a disputa por uma vaga nas oitavas de final da Copa Sul-Americana. O Peixe enfrenta a Universidad Central, da Venezuela (UCV), às 21h30 (de Brasília), no Estádio Mis",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55250954187_8f4f52167d_k.webp",
         "date": "20 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Remo anuncia zagueiro emprestado pelo Santos até o final da temporada",
-        "link": "https://www.gazetaesportiva.com/times/santos/remo-anuncia-zagueiro-emprestado-pelo-santos-ate-o-final-da-temporada/",
-        "summary": "O Remo anunciou, nesta segunda-feira, a contratação do zagueiro Zé Ivaldo por empréstimo junto ao Santos. O defensor de 29 anos permanecerá no clube paraense até o fim da temporada, em busca de mais minutos em campo após",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55282770477_5bf5383484_k.webp",
+        "title": "Arthur avalia período de treinos do Palmeiras e projeta duelo contra o Coritiba: Time traiçoeiro",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/arthur-avalia-periodo-de-treinos-do-palmeiras-e-projeta-duelo-contra-o-coritiba-time-traicoeiro/",
+        "summary": "O Palmeiras se prepara para a retomada do Campeonato Brasileiro após a pausa do torneio para a disputa da Copa do Mundo. O lateral esquerdo Arthur, que foi uma das surpresas no primeiro semestre, avaliou o período de tre",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/20072026_cg_palmeiras_4717_56.webp",
         "date": "20 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Botafogo anuncia contratação de dois goleiros e um lateral esquerdo",
-        "link": "https://www.gazetaesportiva.com/times/botafogo/botafogo-anuncia-gabriel-batista-walerson-paulinho/",
-        "summary": "O Botafogo anunciou seus três primeiros reforços da janela de transferências do meio da temporada: os goleiros Gabriel Batista e Walerson, ambos com contrato até 2029, e o lateral-esquerdo Paulinho, que assinou até 2028.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/b5edf9ad3a6a47bf91429b8a67b15026.webp",
+        "title": "Corinthians estabelece meta de arrecadação com vendas e mira reforços após fim de transfer bans",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-estabelece-meta-de-arrecadacao-com-vendas-e-mira-reforcos-apos-fim-de-transfer-bans/",
+        "summary": "*Por João Germano O Corinthians vive um momento decisivo em meio ao mercado de transferências. Apesar da necessidade de reforçar o elenco, o clube também precisa resolver pendências financeiras relacionadas aos transfer ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/IMG_5800.webp",
         "date": "20 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sabalenka chega a 100 semanas como número 1 e se torna a 10ª tenista a alcançar a marca",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sabalenka-chega-a-100-semanas-como-numero-1-e-se-torna-a-10a-tenista-a-alcancar-a-marca/",
-        "summary": "A tetracampeã de Grand Slams Aryna Sabalenka atingiu mais um marco histórico na carreira. A belarussa completou 100 semanas como número 1 do ranking da WTA e se tornou apenas a décima tenista a alcançar essa marca desde ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260428__A9A42EY__v1__HighRes__MadridOpenTennisWtaEsp.webp",
+        "title": "Rudi Garcia deixa o cargo de técnico da seleção da Bélgica",
+        "link": "https://www.gazetaesportiva.com/times/belgica/rudi-garcia-deixa-o-cargo-de-tecnico-da-selecao-da-belgica/",
+        "summary": "A Federação Belga de Futebol anunciou a saída de Rudi Garcia ao fim de julho. O treinador francês encerra sua passagem pela seleção após levar os Diabos Vermelhos às quartas de final da Copa do Mundo de 2026 e manter uma",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260710__B9W62QN__v1__HighRes__FblWc2026Match98EspBel.webp",
         "date": "20 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "TCU arquiva investigação que questiona gastos em viagem de Janja a Nova York",
-        "link": "https://www.infomoney.com.br/politica/tcu-arquiva-investigacao-que-questiona-gastos-em-viagem-de-janja-a-nova-york/",
-        "summary": "Caso foi encerrado pelo TCU já ter conduzido outra investigação sobre os gastos da primeira-dama e ter considerado as prestações de conta regulares The post TCU arquiva investigação que questiona gastos em viagem de Janj",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/img_4443.jpg.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Dólar hoje fecha em baixa de 0,4%, a R$ 5,09, com investidores seguindo exterior",
+        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-20072026/",
+        "summary": "Os investidores globais seguiram monitorando o noticiário sobre o Oriente Médio, após Irã e Estados Unidos intensificarem seus ataques The post Dólar hoje fecha em baixa de 0,4%, a R$ 5,09, com investidores seguindo exte",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
         "date": "20 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Até 1.097%: As ações que batem o Ibovespa em cinco anos de perda para o CDI",
-        "link": "https://www.infomoney.com.br/onde-investir/ate-1-097-as-acoes-que-batem-o-ibovespa-em-cinco-anos-de-perda-para-o-cdi/",
-        "summary": "Setores regulados e small caps lideram ganhos em diferentes períodos na Bolsa; veja os papeis que bateram o índice em 5, 10, 15 e 20 anos The post Até 1.097%: As ações que batem o Ibovespa em cinco anos de perda para o C",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Juros futuros a partir de janeiro de 2028 fecham em alta em sessão de volatilidade",
+        "link": "https://www.infomoney.com.br/mercados/juros-futuros-a-partir-de-janeiro-de-2028-fecham-em-alta-em-sessao-de-volatilidade/",
+        "summary": "Os contratos mais longos registraram ganhos após uma sessão volátil impulsionada pelo conflito entre EUA e Irã, enquanto o mercado aguarda as decisões do Copom The post Juros futuros a partir de janeiro de 2028 fecham em",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/joelfotos-money-1194986_1280-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Juros altos favorecem a renda fixa, mas escolher o investimento certo faz diferença",
-        "link": "https://www.infomoney.com.br/onde-investir/juros-altos-favorecem-renda-fixa-escolher-investimento-certo-faz-diferenca/",
-        "summary": "Curso gratuito do InfoMoney reúne conceitos práticos para ajudar investidores a entender produtos, riscos e estratégias em um dos cenários mais favoráveis da última década The post Juros altos favorecem a renda fixa, mas",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Messi diz que derrota da Argentina para Espanha na final da Copa causou dor imensa",
+        "link": "https://www.infomoney.com.br/esportes/messi-diz-que-derrota-da-argentina-para-espanha-na-final-da-copa-causou-dor-imensa/",
+        "summary": "A Espanha venceu a Argentina por 1 x 0 na prorrogação da final disputada no domingo em East Rutherford, em Nova Jersey The post Messi diz que derrota da Argentina para Espanha na final da Copa causou dor imensa appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-20T000626Z_1032470865_RC2AHMAG26WI_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C220&amp;quality=70&amp;strip=all",
         "date": "20 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Raízen vende usina no Mato Grosso do Sul por R$ 760 milhões",
-        "link": "https://www.infomoney.com.br/business/raizen-vende-usina-no-mato-grosso-do-sul-por-r-760-milhoes/",
-        "summary": "Acordo com a Adecoagro Vale do Ivinhema S.A. inclui contratos com fornecedores The post Raízen vende usina no Mato Grosso do Sul por R$ 760 milhões appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/post-102-raizen-foto-site-raizen-49rhlx-918x474-1.png?fit=300%2C147&amp;quality=70&amp;strip=all",
+        "title": "Criptomoedas: bitcoin opera em alta com sinais de mediação no Oriente Médio",
+        "link": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-alta-com-sinais-de-mediacao-no-oriente-medio/",
+        "summary": "A criptomoeda avançou embalada pelo apetite ao risco e pela trégua geopolítica, enquanto ETFs do setor registraram nova sequência de entradas líquidas de capital The post Criptomoedas: bitcoin opera em alta com sinais de",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/yigit-ali-atasoy-z1jggXh29_Q-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "20 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Bitcoin entra em semana decisiva para próximo salto a US$ 70 mil; entenda",
-        "link": "https://www.infomoney.com.br/onde-investir/bitcoin-entra-em-semana-decisiva-para-proximo-salto-a-us-70-mil-entenda/",
-        "summary": "Semana pode definir se o ativo confirma alta ou devolve espaço até US$ 62 mil, em semana marcada por guerra no Oriente Médio e fuga de capital de ações de tecnologia The post Bitcoin entra em semana decisiva para próximo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-17T080654Z_180858490_RC22PGATT48E_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Classificação final da Copa: Brasil ficou em 11º e Iraque em último",
+        "link": "https://www.infomoney.com.br/esportes/classificacao-final-da-copa-brasil-ficou-em-11o-e-iraque-em-ultimo/",
+        "summary": "O ranking final reflete não apenas a campanha dos finalistas, mas também o desempenho de todas as equipes ao longo do torneio The post Classificação final da Copa: Brasil ficou em 11º e Iraque em último appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T225044Z_483878304_UP1EM751PRCTY_RTRMADP_3_SOCCER-WORLDCUP-BRA-NOR.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "20 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "A próxima aposta do Google em IA está no hardware — e se chama Frozen",
-        "link": "https://www.infomoney.com.br/business/a-proxima-aposta-do-google-em-ia-esta-no-hardware-e-se-chama-frozen/",
-        "summary": "Google estaria planejando novo chip para executar modelos Gemini com mais eficiência, diz The Information The post A próxima aposta do Google em IA está no hardware — e se chama Frozen appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-12T225146Z_1_LYNXMPEL4B0YM_RTROPTP_4_TECH-GOOGLE-IA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Dino encaminha à PF explicações de Kassab e Valdemar sobre destinação de emendas",
+        "link": "https://www.infomoney.com.br/politica/dino-encaminha-a-pf-explicacoes-de-kassab-e-valdemar-sobre-destinacao-de-emendas/",
+        "summary": "Presidente do PL mudou versão sobre a sua atuação na destinação de verba The post Dino encaminha à PF explicações de Kassab e Valdemar sobre destinação de emendas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55268377008_dba86148f0_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Opinião: agentes de IA precisam de maior controle e segurança",
-        "link": "https://exame.com/bussola/opiniao-agentes-de-ia-precisam-de-maior-controle-e-seguranca/",
-        "summary": "Com a IA agêntica assumindo tarefas operacionais, empresas precisam definir acessos, limites e responsabilidade humana para evitar riscos",
+        "title": "Inteligência artificial elimina 70% dos currículos já na primeira triagem",
+        "link": "https://exame.com/carreira/inteligencia-artificial-elimina-70-dos-curriculos-ja-na-primeira-triagem/",
+        "summary": "Antes de convencer o recrutador, o candidato precisa superar uma análise que não interpreta o que ficou implícito",
         "image": null,
         "date": "20 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Na abundância da inteligência, o que é humano se torna mais valioso",
-        "link": "https://exame.com/lideres-extraordinarios/na-abundancia-da-inteligencia-o-que-e-humano-se-torna-mais-valioso/",
-        "summary": "Em um mundo de respostas instantâneas, discernimento, confiança e caráter se tornam diferenciais reais",
+        "title": "Vaga na faculdade antes de acabar o ensino médio: Como funciona o Early Decision da Saint Paul?",
+        "link": "https://exame.com/carreira/vaga-na-faculdade-antes-de-acabar-o-ensino-medio-como-funciona-o-early-decision-da-saint-paul/",
+        "summary": "Modelo inspirado em universidades americanas reserva vaga para o 1º semestre de 2027 em três etapas",
         "image": null,
         "date": "20 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Geração Z troca médicos pelo TikTok — e a ansiedade dispara",
-        "link": "https://exame.com/tecnologia/geracao-z-troca-medicos-pelo-tiktok-e-a-ansiedade-dispara/",
-        "summary": "Um terço dos jovens diz ter o aplicativo como principal fonte de informação sobre saúde, e 1 em cada 11 relata ter tido problemas após seguir conselhos vistos na plataforma",
+        "title": "Estágios, trainees e IA: por que empresas precisam repensar a formação de jovens profissionais",
+        "link": "https://exame.com/inteligencia-artificial/estagios-trainees-e-ia-por-que-empresas-precisam-repensar-a-formacao-de-jovens-profissionais/",
+        "summary": "Estudo mostra que a maioria das empresas brasileiras ainda não definiu como adaptar programas de talentos ao avanço da inteligência artificial",
         "image": null,
         "date": "20 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "UE multa AliExpress em € 550 milhões por falhas contra produtos ilegais",
-        "link": "https://exame.com/tecnologia/ue-multa-aliexpress-em-e-550-milhoes-por-falhas-contra-produtos-ilegais/",
-        "summary": "Comissão afirma que plataforma manteve brinquedos inseguros, cosméticos perigosos e itens falsificados à venda; empresa terá até 20 de outubro de 2026 para apresentar plano de correção",
+        "title": "Com 25,2 milhões de participantes, Bolão do Mercado Pago entra no Guinness",
+        "link": "https://exame.com/marketing/com-252-milhoes-de-participantes-bolao-do-mercado-pago-entra-no-guinness/",
+        "summary": "Ao todo, a iniciativa registrou 966 milhões de palpites ao longo da Copa do Mundo",
         "image": null,
         "date": "20 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Google cria chip com Gemini integrado para baratear serviços de IA",
-        "link": "https://exame.com/inteligencia-artificial/google-cria-chip-com-gemini-integrado-para-baratear-servicos-de-ia/",
-        "summary": "Apelidado de \"Frozen v2\", o processador pode ser até dez vezes mais eficiente que os chips atuais da empresa e chegar em 2028, segundo o site The Information",
+        "title": "'Fit cultural' virou clichê no RH? Por que a Disney evita o termo ao contratar seus funcionários",
+        "link": "https://exame.com/carreira/fit-cultural-virou-cliche-no-rh-por-que-a-disney-evita-o-termo-ao-contratar-seus-funcionarios/",
+        "summary": "Head de RH da empresa para Brasil e Colômbia, Paula Valencia, explica o critério real por trás das contratações",
         "image": null,
         "date": "20 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Canais e comunidades do WhatsApp: o que são, como criar e quando usar cada um",
-        "link": "https://exame.com/tecnologia/examelab/canais-e-comunidades-do-whatsapp-o-que-sao-como-criar-e-quando-usar-cada-um/",
-        "summary": "Entenda as diferenças entre os dois recursos de comunicação em escala do mensageiro e veja como manter um fluxo de mensagens organizado",
+        "title": "US$ 497 bilhões e um novo endereço: BTG Pactual cruza o Prata e inicia operações no Uruguai",
+        "link": "https://exame.com/invest/btg-insights/us-497-bilhoes-e-um-novo-endereco-btg-pactual-cruza-o-prata-e-inicia-operacoes-no-uruguai/",
+        "summary": "Cifra corresponde aos ativos sob gestão do maior banco de investimentos da América Latina, que assumiu o HSBC local",
         "image": null,
         "date": "20 de jul. de 2026",
         "source": "Exame",
