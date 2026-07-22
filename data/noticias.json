@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T09:29:22.485Z",
+  "updated": "2026-07-22T11:50:00.868Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Polícia descarta hipótese de tiros e aponta acidente como causa da morte de motociclista em Engenheiro Coelho",
+        "link": "https://jornalamericanense.com.br/cidades/policia-descarta-hipotese-de-tiros-e-aponta-acidente-como-causa-da-morte-de-motociclista-em-engenheiro-coelho/",
+        "summary": "Delegado afirma que vítima morreu em decorrência de politraumatismo após queda na SP-147; investigação segue como acidente de trânsito A Polícia Civil descartou a hipótese de que o engenheiro civil Rodrigo Caetano da Sil",
+        "image": null,
+        "date": "22 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Operação da DISE prende suspeito por tráfico e apreende arma, drogas e munições em Santa Bárbara d Oeste",
         "link": "https://jornalamericanense.com.br/policia/operacao-da-dise-prende-suspeito-por-trafico-e-apreende-arma-drogas-e-municoes-em-santa-barbara-doeste/",
         "summary": "Investigação da Polícia Civil resultou na prisão em flagrante de homem de 24 anos conhecido como Cocão , durante ação no Jardim São Fernando A Polícia Civil, por meio da Delegacia de Investigações Sobre Entorpecentes (DI",
@@ -113,14 +123,54 @@
         "cls": "servicos"
       },
       {
-        "title": "Nova UBS do Zanaga completa um ano com mais de 33 mil atendimentos",
-        "link": "https://jornalamericanense.com.br/saude/nova-ubs-do-zanaga-completa-um-ano-com-mais-de-33-mil-atendimentos/",
-        "summary": "A nova Unidade Básica de Saúde (UBS) “Doutor Newton Worschech”, no bairro Antônio Zanaga 2, completa um ano de funcionamento com mais de 33 mil atendimentos realizados. Inaugurada em 19 de julho de 2025, a unidade contri",
+        "title": "Primeiros poemas da juventude já revelavam grandeza de Orides Fontela",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/primeiros-poemas-da-juventude-ja-revelavam-grandeza-de-orides-fontela",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/primeiros-poemas-da-juventude-ja-revelavam-grandeza-de-orides-fontela img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
-        "date": "20 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "22 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Orides Fontela: a radicalidade de uma vida dedicada à poesia",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/orides-fontela-radicalidade-de-uma-vida-dedicada-poesia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/orides-fontela-radicalidade-de-uma-vida-dedicada-poesia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "image": null,
+        "date": "22 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Acusado pelos EUA, Brasil é referência no combate ao trabalho forçado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/acusado-pelos-eua-brasil-e-referencia-no-combate-ao-trabalho-forcado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/acusado-pelos-eua-brasil-e-referencia-no-combate-ao-trabalho-forcado img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "22 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tarifaço: EUA distorcem tema das big techs, afirmam especialistas",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/tarifaco-eua-distorceram-tema-das-big-techs-afirmam-especialistas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/tarifaco-eua-distorceram-tema-das-big-techs-afirmam-especialistas img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "22 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Casa Paraty será palco da cultura caiçara viva em estreia na Flip 2026",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/casa-paraty-sera-palco-da-cultura-caicara-viva-em-estreia-na-flip-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/casa-paraty-sera-palco-da-cultura-caicara-viva-em-estreia-na-flip-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "22 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Mega-Sena não tem ganhador; prêmio sobe para R$ 62 milhões",
@@ -131,114 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Reciprocidade não é retaliação nem olho por olho , diz Alckmin",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reciprocidade-nao-e-retaliacao-nem-olho-por-olho-diz-alckmin",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reciprocidade-nao-e-retaliacao-nem-olho-por-olho-diz-alckmin img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "21 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fome mundial atinge 645 milhões de pessoas, diz relatório da ONU",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/fome-mundial-atinge-645-milhoes-de-pessoas-diz-relatorio-da-onu",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/fome-mundial-atinge-645-milhoes-de-pessoas-diz-relatorio-da-onu img src= https://cdn.jsdelivr.net/gh/sergiosd",
-        "image": null,
-        "date": "21 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Itamaraty pede a brasileiros que evitem viagens para o Oriente Médio",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/itamaraty-pede-brasileiros-que-evitem-viagens-para-o-oriente-medio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/itamaraty-pede-brasileiros-que-evitem-viagens-para-o-oriente-medio img src= https://cdn.jsdelivr.net/gh/sergiosd",
-        "image": null,
-        "date": "21 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Organizações cobram criação de Comissão da Verdade Indígena",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/organizacoes-cobram-criacao-de-comissao-da-verdade-indigena",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/organizacoes-cobram-criacao-de-comissao-da-verdade-indigena img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "21 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "ONU e Unicef lançam guia para orientar pais sobre perigo da machosfera",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/onu-e-unicef-lancam-guia-para-orientar-pais-sobre-perigo-da-machosfera",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/onu-e-unicef-lancam-guia-para-orientar-pais-sobre-perigo-da-machosfera img src= https://cdn.jsdelivr.net/gh/s",
-        "image": null,
-        "date": "21 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Atuações do Santos: Bontempo comanda goleada, Menino vai bem e Miguelito decepciona",
-        "link": "https://www.gazetaesportiva.com/times/santos/atuacoes-do-santos-bontempo-comanda-goleada-menino-vai-bem-e-miguelito-decepciona/",
-        "summary": "O Santos teve uma atuação convincente na goleada por 4 a 1 sobre a Universidad Central, na Venezuela, e encaminhou a classificação às oitavas de final da Copa Sul-Americana. Mesmo sem Neymar e Gabigol, o time de Cuca con",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260722__C2TT6KK__v1__HighRes__FblSudamericanaUcentralvenSantos.webp",
+        "title": "Liverpool poupa Alisson da pré-temporada após participação na Copa do Mundo",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/alisson-fora-pre-temporada-liverpool-estados-unidos/",
+        "summary": "Alisson não participará da pré-temporada do Liverpool nos Estados Unidos. Após defender a Seleção Brasileira na Copa do Mundo de 2026, o goleiro recebeu um período extra de descanso e se reapresentará diretamente na Ingl",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/03/3A14W94.webp",
         "date": "22 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Formado no Palmeiras, zagueiro de 18 anos chega ao Genoa, da Itália",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/fred-stradiotto-chega-ao-genoa-apos-saida-do-palmeiras/",
-        "summary": "O zagueiro Fred Stradiotto, de 18 anos, foi liberado pelo Palmeiras e iniciou uma nova etapa da carreira no Genoa, da Itália. Apesar de não ter atuado pelo time profissional alviverde, o defensor passou pelas categorias ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/TNO_4460.webp",
+        "title": "Há 75 anos, Palmeiras conquistava a Copa Rio; relembre em fotos",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-75-anos-palmeiras-conquistava-a-copa-rio-relembre-em-fotos/",
+        "summary": "Há 75 anos, Palmeiras conquistava a Copa Rio; relembre em fotos O post Há 75 anos, Palmeiras conquistava a Copa Rio; relembre em fotos apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/palm1-2.webp",
         "date": "22 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Diretoria do Corinthians elenca prioridades em meio à crise financeira",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/diretoria-do-corinthians-elenca-prioridades-em-meio-a-crise-financeira/",
-        "summary": "O Corinthians definiu uma ordem de prioridades para reorganizar as finanças antes de voltar ao mercado da bola. A diretoria pretende quitar os direitos de imagem atrasados do elenco e resolver os quatro transfer bans ati",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/245549.webp",
+        "title": "Incrível! Thaciano perde grande chance para o Santos; veja",
+        "link": "https://www.gazetaesportiva.com/times/santos/incrivel-thaciano-perde-grande-chance-para-o-santos-veja/",
+        "summary": "Incrível! Thaciano perde grande chance para o Santos; veja O post Incrível! Thaciano perde grande chance para o Santos; veja apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Thaciano.webp",
         "date": "22 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Análise: Santos convence na Venezuela, mas goleada sobre UCV não pode iludir",
-        "link": "https://www.gazetaesportiva.com/times/santos/analise-santos-convence-na-venezuela-mas-goleada-sobre-ucv-nao-pode-iludir/",
-        "summary": "Análise: O Santos precisava de uma resposta depois de uma sequência de resultados que não acompanhavam a evolução apresentada dentro de campo. Na Venezuela, ela veio. A goleada por 4 a 1 sobre a Universidad Central, nest",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260722__C2TT6LF__v1__HighRes__FblSudamericanaUcentralvenSantos.webp",
+        "title": "Melhores momentos da vitória do Vila Nova sobre o Fortaleza pela Série B",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-vila-nova-sobre-o-fortaleza-pela-serie-b/",
+        "summary": "Melhores momentos da vitória do Vila Nova sobre o Fortaleza pela Série B O post Melhores momentos da vitória do Vila Nova sobre o Fortaleza pela Série B apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-21-233445.webp",
         "date": "22 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cuca valoriza goleada e elogia elenco do Santos após atrasos: Poderiam ter ido à Justiça",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-valoriza-goleada-e-elogia-elenco-do-santos-apos-atrasos-poderiam-ter-ido-a-justica/",
-        "summary": "Após a goleada por 4 a 1 sobre a Universidad Central, na Venezuela, pelo jogo de ida dos playoffs da Copa Sul-Americana, o técnico Cuca comemorou o desempenho do Santos, exaltou a resposta da equipe em campo e voltou a a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55252228933_97a09cf52b_k.webp",
+        "title": "Gabriel Bontempo aproveita rebote e abre placar para o Santos na Sul-Americana; confira",
+        "link": "https://www.gazetaesportiva.com/times/santos/gabriel-bontempo-aproveita-rebote-e-abre-placar-para-o-santos-na-sul-americana-confira/",
+        "summary": "Gabriel Bontempo aproveita rebote e abre placar para o Santos na Sul-Americana; confira O post Gabriel Bontempo aproveita rebote e abre placar para o Santos na Sul-Americana; confira apareceu primeiro em Gazeta Esportiva",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Gabriel-Bontempo.webp",
         "date": "22 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cuca confirma Neymar contra a Chapecoense e explica ausência em goleada do Santos",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-confirma-retorno-neymar-chapecoense/",
-        "summary": "Após a goleada por 4 a 1 sobre a Universidad Central (UCV), na noite desta terça-feira, pelo jogo de ida dos playoffs da Copa Sul-Americana, o técnico Cuca confirmou que Neymar estará à disposição do Santos para o duelo ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55402174559_004a7e6b74_k.webp",
+        "title": "Victor Sá relembra vida na Rússia e elogia recepção no São Paulo: Fácil de lidar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/victor-sa-relembra-vida-na-russia-e-elogia-recepcao-no-sao-paulo-facil-de-lidar/",
+        "summary": "O novo reforço do São Paulo, Victor Sá, relembrou sua passagem pelo Krasnodar da Rússia e falou sobre a recepção no Tricolor. O post Victor Sá relembra vida na Rússia e elogia recepção no São Paulo: Fácil de lidar aparec",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/20260721_133422.jpg.webp",
         "date": "22 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Acusado pelos EUA, Brasil é referência no combate ao trabalho forçado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/acusado-pelos-eua-brasil-e-referencia-no-combate-ao-trabalho-forcado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/acusado-pelos-eua-brasil-e-referencia-no-combate-ao-trabalho-forcado img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "22 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Reciprocidade não é retaliação nem olho por olho , diz Alckmin",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/reciprocidade-nao-e-retaliacao-nem-olho-por-olho-diz-alckmin",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Modelo do Pix desafia controle financeiro dos EUA sobre o Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/modelo-do-pix-desafia-controle-financeiro-dos-eua-sobre-o-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/modelo-do-pix-desafia-controle-financeiro-dos-eua-sobre-o-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "21 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Com tarifaços em série, exportações brasileiras para os EUA caíram ao menor patamar",
-        "link": "https://www.infomoney.com.br/politica/com-tarifacos-em-serie-exportacoes-brasileiras-para-os-eua-cairam-ao-menor-patamar/",
-        "summary": "Apenas 9,4% das vendas do Brasil para o exterior foram para o país, segundo a Amcham Brasil. Produtos sobretaxados puxaram queda The post Com tarifaços em série, exportações brasileiras para os EUA caíram ao menor patama",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T234320Z_1_LYNXMPEM2A1K2_RTROPTP_4_USA-TRUMP-TARIFFS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "O que os exportadores afetados pelo tarifaço dos EUA buscam na reunião com o governo",
+        "link": "https://www.infomoney.com.br/politica/o-que-os-exportadores-afetados-pelo-tarifaco-dos-eua-buscam-na-reuniao-com-o-governo/",
+        "summary": "Executivo vai se encontrar com associações de alguns dos segmentos mais atingidos pela nova tarifa, como móveis e açúcar The post O que os exportadores afetados pelo tarifaço dos EUA buscam na reunião com o governo appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/presidente-lula-politica-pt.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "22 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tarifas dos EUA, AGE da Vale e balanços de Google, Tesla e WEG: os destaques hoje",
-        "link": "https://www.infomoney.com.br/mercados/tarifas-eua-age-vale-google-tesla-weg-agenda-22072026/",
-        "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (22) The post Tarifas dos EUA, AGE da Vale e balanços de Google, Tesla e WEG: os destaques hoje appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/USATariffs.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Vale, WEG, Santander, Braskem, Oncoclínicas e mais ações para acompanhar hoje",
+        "link": "https://www.infomoney.com.br/mercados/vale-weg-santander-braskem-oncoclinicas-e-mais-acoes-para-acompanhar-hoje/",
+        "summary": "Confira os principais destaques do noticiário corporativo desta quarta-feira The post Vale, WEG, Santander, Braskem, Oncoclínicas e mais ações para acompanhar hoje appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-17-115206-e1770668490299.png?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "22 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dow Jones Futuro opera em baixa com Wall Street de olho em Alphabet e Tesla",
-        "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-opera-em-baixa-com-wall-street-de-olho-em-alphabet-e-tesla/",
-        "summary": "A atenção dos investidores também está voltada para os desdobramentos da guerra entre os EUA e o Irã The post Dow Jones Futuro opera em baixa com Wall Street de olho em Alphabet e Tesla appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-14T203455Z_1_LYNXMPEK5D0PS_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Onda de calor na Europa reduz a projeção da safra de grãos",
+        "link": "https://www.infomoney.com.br/economia/onda-de-calor-na-europa-reduz-a-projecao-da-safra-de-graos/",
+        "summary": "Estimativa foi reduzida para 286,6 milhões de toneladas nos 27 países da UE e no Reino Unido, 9 milhões de toneladas a menos que a projeção anterior The post Onda de calor na Europa reduz a projeção da safra de grãos app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Milho-na-Europa.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "22 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nova política para uso de shorts nos escritórios gera debate acalorado no Japão",
-        "link": "https://www.infomoney.com.br/business/global/nova-politica-para-uso-de-shorts-nos-escritorios-gera-debate-acalorado-no-japao/",
-        "summary": "O governo de Tóquio está permitindo que funcionários usem shorts pela primeira vez neste verão, levantando questões delicadas sobre etiqueta — e pernas peludas The post Nova política para uso de shorts nos escritórios ge",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/SELECT-JAPAN-WORKERS-SHORTS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "PSDB contesta Valdemar e desconhece indicação de emendas pela presidência do partido",
+        "link": "https://www.infomoney.com.br/politica/psdb-contesta-valdemar-e-desconhece-indicacao-de-emendas-pela-presidencia-do-partido/",
+        "summary": "Após declaração de Valdemar, o ministro do STF Flávio Dino passou a exigir esclarecimentos de todos os partidos sobre as \"emendas de lideranças\" The post PSDB contesta Valdemar e desconhece indicação de emendas pela pres",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/1_vcn-28-08-23-1-34201887-42001905-59005407.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "22 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Datafolha deve medir impacto eleitoral do tarifaço na disputa entre Lula e Flávio",
-        "link": "https://www.infomoney.com.br/politica/datafolha-pode-medir-impacto-eleitoral-do-tarifaco-na-disputa-entre-lula-e-flavio/",
-        "summary": "Pesquisa divulgada na sexta-feira será a primeira do instituto após anúncio da sobretaxa de 25% sobre produtos brasileiros The post Datafolha deve medir impacto eleitoral do tarifaço na disputa entre Lula e Flávio appear",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/montagem-1120x720-1.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Após citar dados falsos sobre urnas, Flávio diz não duvidar do processo eleitoral",
+        "link": "https://www.infomoney.com.br/politica/apos-citar-dados-falsos-sobre-urnas-flavio-diz-nao-duvidar-do-processo-eleitoral/",
+        "summary": "Em nota, o senador disse também que o envio de observadores internacionais \"reforça a transparência no sistema eleitoral\" The post Após citar dados falsos sobre urnas, Flávio diz não duvidar do processo eleitoral appeare",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/flavio-bolsonaro-pl-politica-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "22 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Antes da economia, direita escolheu redução da maioridade penal para abrir a campanha",
-        "link": "https://www.infomoney.com.br/politica/antes-da-economia-direita-escolheu-reducao-da-maioridade-penal-para-abrir-a-campanha/",
-        "summary": "Convenção da União Progressista em São Paulo reforça aposta em pautas de endurecimento penal, tema que Tarcísio e Flávio Bolsonaro pretendem explorar nacionalmente The post Antes da economia, direita escolheu redução da ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-10.06.06.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Oncoclínicas tenta afastar ruído e diz que disputa judicial não muda recuperação",
+        "link": "https://www.infomoney.com.br/mercados/oncoclinicas-tenta-afastar-ruido-e-diz-que-disputa-judicial-nao-muda-recuperacao/",
+        "summary": "Oncoclínicas destacou ainda que a controvérsia não modifica as informações divulgadas em fato relevante em 14 de julho The post Oncoclínicas tenta afastar ruído e diz que disputa judicial não muda recuperação appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Oncoclinicas-2.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "22 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Os destinos europeus que decidiram dizer 'menos turistas, por favor'",
-        "link": "https://exame.com/casual/os-destinos-europeus-que-decidiram-dizer-menos-turistas-por-favor/",
-        "summary": "Barcelona, Amsterdã e Malta adotam medidas para reduzir a lotação em pontos turísticos",
+        "title": "Perdigão vai sortear ingressos para o primeiro jogo da NFL no Rio de Janeiro",
+        "link": "https://exame.com/marketing/perdigao-vai-sortear-ingressos-para-o-primeiro-jogo-da-nfl-no-rio-de-janeiro/",
+        "summary": "Patrocinadora da NFL no Brasil, marca lança promoção que levará consumidores ao duelo entre Baltimore Ravens e Dallas Cowboys no Maracanã",
         "image": null,
         "date": "22 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que a maioria das pessoas é destra? Animal do tamanho de um polegar pode explicar",
-        "link": "https://exame.com/ciencia/por-que-a-maioria-das-pessoas-e-destra-animal-do-tamanho-de-um-polegar-pode-explicar/",
-        "summary": "Fósseis de um animal marinho da Austrália indicam que a lateralidade surgiu muito antes dos primeiros vertebrados",
+        "title": "Nike corta vendas online na China e derruba ações de varejistas",
+        "link": "https://exame.com/invest/mercados/nike-corta-vendas-online-na-china-e-derruba-acoes-de-varejistas/",
+        "summary": "Nike quer controlar melhor preços e experiência da marca no terceiro maior mercado global",
         "image": null,
         "date": "22 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "O que realmente acontece quando você envia um documento para uma IA?",
-        "link": "https://exame.com/inteligencia-artificial/o-que-realmente-acontece-quando-voce-envia-um-documento-para-uma-ia/",
-        "summary": "Ao anexar um arquivo, a inteligência artificial não apenas \"lê\" o conteúdo. Entender como esse processo funciona ajuda a usar a tecnologia com mais eficiência e segurança",
+        "title": "WEG bate expectativas com lucro de R$ 1,56 bi e mercado interno menos fraco",
+        "link": "https://exame.com/invest/mercados/weg-wege3-lucro-2t26-supera-expectativas/",
+        "summary": "Câmbio e falta de projetos solares pesaram, mas atividade industrial no Brasil surpreendeu",
         "image": null,
         "date": "22 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Nasceu entre 2001 e 2005? Veja os clipes e músicas que marcaram o Brasil e no mundo",
-        "link": "https://exame.com/pop/nasceu-entre-2001-e-2005-veja-os-clipes-e-musicas-que-marcaram-o-brasil-e-no-mundo/",
-        "summary": "Skank, Ivete Sangalo, Evanescence, Green Day e Avril Lavigne marcaram uma época com músicas que seguem vivas na memória do público",
+        "title": "Gigante das academias cria nova rede com unidades em contêineres e treino a R$ 19",
+        "link": "https://exame.com/negocios/gigante-das-academias-cria-nova-rede-com-unidades-em-conteineres-e-treino-a-r-19/",
+        "summary": "Filho dos fundadores da Academia Gaviões, empresário Leandro Aguiar aposta em automação e franquias em espaços compactos para faturar R$ 10 milhões no primeiro ano de operação",
         "image": null,
         "date": "22 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "7 lições que o Brasil pode aprender com a vitória da Espanha na Copa",
-        "link": "https://exame.com/esporte/7-licoes-que-o-brasil-pode-aprender-com-a-vitoria-da-espanha-na-copa/",
-        "summary": "Após mais uma campanha decepcionante em Copa do Mundo, a Seleção volta sua atenção para o ciclo de 2030 e pode se inspirar na seleção espanhola",
+        "title": "Pesquisa Gerp: Flávio Bolsonaro tem 46% e Lula, 45%, no segundo turno",
+        "link": "https://exame.com/brasil/pesquisa-gerp-flavio-bolsonaro-tem-46-e-lula-45-no-segundo-turno/",
+        "summary": "Senador e atual presidente registram empate técnico no embate direto",
         "image": null,
         "date": "22 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Nasceu entre 1996 e 2000? Veja as músicas que faziam sucesso no Brasil e no mundo no ano nesta época",
-        "link": "https://exame.com/pop/nasceu-entre-1996-e-2000-veja-as-musicas-que-faziam-sucesso-no-brasil-e-no-mundo-no-ano-nesta-epoca/",
-        "summary": "Do pop internacional ao sertanejo, pagode e axé, relembre os sucessos que marcaram o fim dos anos 1990 e o início dos anos 2000",
+        "title": "Anvisa proíbe venda de azeite extra virgem e doces artesanais; veja quais",
+        "link": "https://exame.com/brasil/anvisa-proibe-venda-de-azeite-extra-virgem-e-doces-artesanais-veja-quais/",
+        "summary": "Agência determinou apreensão dos produtos após reprovação em laudo e fabricação sem regularização; medidas foram publicadas no Diário Oficial da União",
         "image": null,
         "date": "22 de jul. de 2026",
         "source": "Exame",
