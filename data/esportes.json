@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-23T14:31:04.847Z",
+  "updated": "2026-07-23T16:45:59.928Z",
   "totalOk": 3,
   "items": [
+    {
+      "title": "Léo Figueiró assume o comando da Seleção Feminina Brasileira de Basquete",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/basquete/leo-figueiro-selecao-brasileira-feminina-basquete/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "23 de jul. de 2026",
+      "isoDate": "2026-07-23",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
+    },
     {
       "title": "Veja fotos do confronto entre Brasil e Japão pelas quartas de final da Liga das Nações de Vôlei",
       "link": "https://www.gazetaesportiva.com/mais-esportes/volei/veja-fotos-do-confronto-entre-brasil-e-japao-pelas-quartas-de-final-da-liga-das-nacoes-de-volei/",
@@ -11,7 +22,7 @@
       "isoDate": "2026-07-22",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "De virada, Brasil vence Japão e avança às semifinais da Liga das Nações de Vôlei",
@@ -77,18 +88,7 @@
       "isoDate": "2026-07-20",
       "category": "Libertadores",
       "categoryColor": "#f39c12",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Bons vizinhos? Torcer contra Messi e Argentina, um fenômeno efervescente na América Latina",
-      "link": "https://www.gazetaesportiva.com/times/argentina/bons-vizinhos-torcer-contra-messi-e-argentina-um-fenomeno-efervescente-na-america-latina/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "18 de jul. de 2026",
-      "isoDate": "2026-07-18",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ea-1f1f8.png"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
