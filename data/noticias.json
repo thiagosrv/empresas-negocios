@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-25T06:20:46.236Z",
+  "updated": "2026-07-25T09:01:55.604Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Relatório final sobre acidente da Voepass pode ser 'marco histórico' para mudanças nas culturas das companhias, dizem especialistas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/25/relatorio-final-acidente-voepass-pode-ser-marco-historico-mudancas-culturas-companhias.ghtml",
+        "summary": "Tragédia da Voepass: vídeo mostra como foi acidente de avião em Vinhedo O relatório final do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) sobre a queda do avião da Voepass em Vinhedo (SP), que re",
+        "image": "https://s2-g1.glbimg.com/7vqdwADmBOAa5PB5P5_e877GhBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/H/RiLZX3QJi03z1I8cS5FA/whatsapp-image-2026-07-23-at-17.32.13-1-.jpeg",
+        "date": "25 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Há 1 ano, ex-funcionário revelou falhas na rotina de manutenções da Voepass: 'Poderia ter sido evitado'",
         "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/25/ha-1-ano-ex-funcionario-revelou-falhas-na-rotina-de-manutencoes-da-voepass-poderia-ter-sido-evitado.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/07/24/tebet-associa-movimento-red-pill-a-extrema-direita-e-diz-que-falta-vontade-politica-para-combater-violencia-contra-mulher.ghtml",
         "summary": "Simone Tebet associa movimento red pill à extrema direita A pré-candidata ao Senado Federal Simone Tebet (PSB) associou o movimento Red Pill à extrema-direita e afirmou que falta vontade política para combater a violênci",
         "image": "https://s2-g1.glbimg.com/NiSJbZPAMEdCkIx1idCF2DBR5xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/P/8Mw9iZQwAwGwzZhUkgYg/54538398078-c9eb5a2c44-o.jpg",
-        "date": "24 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Assistência técnica e pós-venda se tornam estratégias de negócio",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/ancora-group/noticia/2026/07/24/assistencia-tecnica-e-pos-venda-se-tornam-estrategias-de-negocio.ghtml",
-        "summary": "Assistência técnica e pós-venda se tornam estratégias de negócio Crédito: Divulgação. Mais do que solucionar eventuais problemas, uma estrutura eficiente de pós-venda ajuda empresas a manter a produtividade, reduzir cust",
-        "image": "https://s2-g1.glbimg.com/Rd2kXxLiZHK2pTksERct2bPAYFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/h/8c24ViToS7IvVqwfY0Wg/1.png",
         "date": "24 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "Flamengo x São Paulo: saiba onde assistir ao jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/flamengo-x-sao-paulo-saiba-onde-assistir-ao-jogo-pelo-brasileirao/",
+        "summary": "Neste domingo, Flamengo e São Paulo se enfrentam pela 20ª rodada do Campeonato Brasileiro. O jogo será realizado no Estádio do Maracanã, no Rio de Janeiro (RJ), a partir das 18h30 (de Brasília). O post Flamengo x São Pau",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55066590718_ab92f69265_o.webp",
+        "date": "25 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "São Paulo x Osasco Sporting: veja informações e onde assistir ao jogo pelo Paulista sub-20",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-osasco-sporting-veja-informacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
+        "summary": "O time Sub-20 do São Paulo terá pela frente o Osasco Sporting, neste domingo, às 15h (de Brasília), no Estádio Bruno José Daniel, em Santo André (SP), pela oitava rodada do Campeonato Paulista da categoria. O post São Pa",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55374550745_fa33bbf5dc_o-1.webp",
+        "date": "25 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Fortaleza anuncia Paulo Autuori como técnico um dia após demissão de Carpini",
         "link": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-anuncia-paulo-autuori-como-tecnico-um-dia-apos-demissao-de-carpini/",
         "summary": "O Fortaleza anunciou na noite desta sexta-feira a contratação de Paulo Autuori, que assume agora o cargo de técnico do clube. Ele assina com o Leão do Pici até o final de 2026 após uma passagem pelo Sporting Cristal, do ",
@@ -220,26 +240,6 @@
         "summary": "O Fortaleza oficializou nesta sexta-feira que chegou a um acordo com o Internacional pela transferência de Calebe. O meio-campista chega ao Colorado por empréstimo válido até junho de 2027. A pouco, o clube gaúcho também",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-24-at-21.45.24.webp",
         "date": "25 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Murilo destaca vantagem em esquema com três zagueiros no Palmeiras e projeta reencontro com a torcida",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/murilo-destaca-vantagem-em-esquema-com-tres-zagueiros-no-palmeiras-e-projeta-reencontro-com-a-torcida/",
-        "summary": "Murilo aprovou o esquema de três zagueiros utilizado por Abel Ferreira no Palmeiras na vitória por 3 a 1 sobre o Coritiba na última quarta-feira, na 19ª rodada do Campeonato Brasileiro. O defensor entende que a formação ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/24072026_cg_palmeiras_6690_23.webp",
-        "date": "25 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos vence o América-MG com gol no fim e fica próximo do G8 do Brasileiro feminino",
-        "link": "https://www.gazetaesportiva.com/times/santos/america-mg-x-santos-acompanhe-o-placar-do-duelo-pelo-brasileirao-feminino-em-tempo-real/",
-        "summary": "O Santos visitou o América-MG e venceu a equipe mineira por 1 a 0 na noite desta sexta-feira, com um gol marcado por Laryh já no final do segundo tempo. O duelo na Arena Independência foi válido pela 13ª rodada do Campeo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/IMG_5843-1.webp",
-        "date": "24 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Verde: IPCA+8% em título público ainda é pouco prêmio para risco eleitoral",
+        "link": "https://www.infomoney.com.br/onde-investir/verde-ipca8-em-titulo-publico-ainda-e-pouco-premio-para-risco-eleitoral/",
+        "summary": "Gestor aponta acelerador fiscal e a competição dos ativos isentos como causas do juro real alto, mas diz que a curva não paga a turbulência que pode vir mais perto da eleição The post Verde: IPCA+8% em título público ain",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-Macroeconomia-em-Transicao-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "25 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula chega mais forte ao 2º semestre, mas disputa tem interrogação, dizem analistas",
+        "link": "https://www.infomoney.com.br/politica/lula-chega-mais-forte-ao-2o-semestre-mas-disputa-tem-interrogacao-dizem-analistas/",
+        "summary": "Especialistas apontam melhora do cenário para o presidente após mudanças na percepção econômica, mas avaliam que campanha curta, debates e mobilização do eleitor ainda podem alterar a disputa The post Lula chega mais for",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-13h20-learning-session-01-7.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Pré-candidato à Presidência promete dar iPhone a quem fizer curso de empreendedorismo",
         "link": "https://www.infomoney.com.br/politica/pre-candidato-a-presidencia-promete-dar-iphone-a-quem-fizer-curso-de-empreendedorismo/",
         "summary": "Leonardo Avalanche (PRTB) também prometeu em seu plano de governo que dará um ano de internet gratuita para quem concluir um curso de empreendedorismo The post Pré-candidato à Presidência promete dar iPhone a quem fizer ",
@@ -347,24 +367,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Paramount e Warner concordam em adiar fusão em meio a questionamentos judiciais",
-        "link": "https://www.infomoney.com.br/business/paramount-e-warner-concordam-em-adiar-fusao-em-meio-a-questionamentos-judiciais/",
-        "summary": "A Paramount informou que não concluirá a aquisição da Warner até que uma decisão judicial seja tomada sobre as alegações dos estados ou até 1º de junho de 2027 The post Paramount e Warner concordam em adiar fusão em meio",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-08T221037Z_1_LYNXMPEM671FU_RTROPTP_4_WARNER-BROS-DIS-M-A-PARAMOUNT-BRITAIN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Athletico-PR x Internacional: que horas e onde assistir ao jogo do Brasileirão hoje",
+        "link": "https://exame.com/esporte/athletico-pr-x-internacional-que-horas-e-onde-assistir-ao-jogo-do-brasileirao-hoje/",
+        "summary": "Equipes se enfrentam neste sábado, 25, pela 20ª rodada do Campeonato Brasileiro",
+        "image": null,
         "date": "25 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Defesa de Bolsonaro recorre contra restrição a visitas e manifestos políticos",
-        "link": "https://www.infomoney.com.br/mercados/defesa-de-bolsonaro-recorre-contra-restricao-a-visitas-e-manifestos-politicos/",
-        "summary": "Decisão de Moraes, tomada em 17 de julho, suspendeu por 30 dias o direito de visitas de Bolsonaro The post Defesa de Bolsonaro recorre contra restrição a visitas e manifestos políticos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-27T133645Z_534196090_RC20DKA2MIK9_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Existe um botão invisível que deixa a IA mais criativa; conheça a 'temperatura’",
+        "link": "https://exame.com/inteligencia-artificial/existe-um-botao-invisivel-que-deixa-a-ia-mais-criativa-conheca-a-temperatura/",
+        "summary": "Presente nos bastidores dos modelos de inteligência artificial, o parâmetro \"temperatura\" influencia o grau de criatividade das respostas e pode fazer a mesma pergunta gerar resultados completamente diferentes",
+        "image": null,
         "date": "25 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Por que ChatGPT, Claude e outras IAs são obcecadas com o Japão?",
+        "link": "https://exame.com/inteligencia-artificial/por-que-chatgpt-claude-e-outras-ias-sao-obcecadas-com-o-japao/",
+        "summary": "Estudo revela que modelos de IA como ChatGPT, Claude e DeepSeek têm viés cultural que os faz priorizar o Japão em respostas genéricas",
+        "image": null,
+        "date": "25 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Justiça suspende credenciamento do Uber Moto em São Paulo",
@@ -390,36 +420,6 @@
         "title": "Curtume catarinense bate recorde em selo ambiental e amplia presença global",
         "link": "https://exame.com/negocios/curtume-catarinense-bate-recorde-em-selo-ambiental-e-amplia-presenca-global/",
         "summary": "Nova unidade fabril da Viposa conquista a maior nota do Brasil no LEED Platinum e grupo já exporta 70% da produção para montadoras premium e marcas icônicas de bolsas",
-        "image": null,
-        "date": "24 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "China reduz casos criminais em 16,5% e atinge menor número de homicídios da história",
-        "link": "https://exame.com/mundo/china-reduz-casos-criminais-em-165-e-atinge-menor-numero-de-homicidios-da-historia/",
-        "summary": "As violações de segurança pública também diminuíram, com queda de 11,3%",
-        "image": null,
-        "date": "24 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "VNL feminina 2026: quem o Brasil pode enfrentar na final se vencer a Itália?",
-        "link": "https://exame.com/esporte/vnl-feminina-2026-quem-o-brasil-pode-enfrentar-na-final-se-vencer-a-italia/",
-        "summary": "A seleção brasileira de vôlei enfrenta a Itália na semifinal da competição e pode encarar a Turquia ou a China na decisão",
-        "image": null,
-        "date": "24 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Empresa chinesa inaugura fábrica de transformadores em Minas Gerais e deve gerar 300 empregos",
-        "link": "https://exame.com/negocios/empresa-chinesa-inaugura-fabrica-de-transformadores-em-minas-gerais-e-deve-gerar-300-empregos/",
-        "summary": "Os transformadores produzidos na fábrica atendem equipamentos com potência entre 10 e 300 kVA, utilizados na distribuição de energia elétrica",
         "image": null,
         "date": "24 de jul. de 2026",
         "source": "Exame",
