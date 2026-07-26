@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-26T12:06:38.161Z",
+  "updated": "2026-07-26T14:39:00.840Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Relatório final da Voepass: empresa fingia consertar aviões para burlar prazo de segurança, diz Cenipa",
+        "title": "Carro bate em praça de pedágio, derruba teto e deixa três feridos em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/carro-bate-em-pedagio-e-tres-pessoas-ficam-feridas-em-campinas.ghtml",
+        "summary": "Acidente em praça de pedágio deixa feridos em Campinas Um carro bateu na praça de pedágio da Rodovia Governador Adhemar Pereira de Barros (SP-340), em Campinas (SP), neste domingo (26). Três pessoas ficaram feridas e par",
+        "image": "https://s2-g1.glbimg.com/0QPApzGmsWQr-IUT1wp7JBW0ILU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/9/D7sStQRMKYcZeeSnTiBA/design-sem-nome-28-.png",
+        "date": "26 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Voepass fingia consertar aviões para burlar prazo de segurança, diz relatório final do Cenipa",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/relatorio-final-da-voepass-empresa-fingia-consertar-avioes-para-burlar-prazo-de-seguranca-diz-cenipa.ghtml",
         "summary": "Queda de avião da Voepass em Vinhedo: ex-piloto denuncia falhas O relatório final do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) sobre a queda do voo 2283 da Voepass, que matou 62 pessoas em Vin",
         "image": "https://s2-g1.glbimg.com/RiSQlDBfimThMbdp359RyKnJiI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/u/r/H0yg7RQxGM59i3BCgsjw/000-36cc9f4.jpg",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/25/biologo-se-dedica-a-criacao-de-abelhas-sem-ferrao-e-aproxima-criancas-da-natureza.ghtml",
         "summary": "Assista à integra do Terra da Gente deste sábado (25) Neste sábado (25), o Terra da Gente foi ao bairro Bosque de Barão, ao lado da Mata de Santa Genebra, em Campinas (SP), para mostrar como funciona, na prática, a criaç",
         "image": "https://s2-g1.glbimg.com/dQ8Cx_sG8Z5tYN9quXw40rOPxW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/A/v8XgZlQKeUrxLKcNmFiw/a-2026-07-24t112459.049.jpg",
-        "date": "25 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Caminhão tomba na marginal da Rodovia Santos Dumont após batida em Indaiatuba",
-        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/07/25/caminhao-tomba-na-marginal-da-rodovia-santos-dumont-apos-batida-em-indaiatuba.ghtml",
-        "summary": "Caminhão tomba na marginal da Rodovia Santos Dumont após batida em Indaiatuba Reprodução EPTV Um caminhão carregado com peças agrícolas tombou na marginal da Rodovia Santos Dumont na noite de sexta-feira (24), em Indaiat",
-        "image": "https://s2-g1.glbimg.com/piOmQ8_-CVNi79-_whI7YJlNbIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/v/z19BNERIecyT0JCXf3yA/capas-belly-29-.png",
         "date": "25 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "Cesárea aumenta risco de câncer de placenta após mola gestacional",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/cesarea-aumenta-risco-de-cancer-de-placenta-apos-mola-gestacional",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/cesarea-aumenta-risco-de-cancer-de-placenta-apos-mola-gestacional img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Entenda a mola gestacional, que pode evoluir para câncer de placenta",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/entenda-mola-gestacional-que-pode-evoluir-para-cancer-de-placenta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/entenda-mola-gestacional-que-pode-evoluir-para-cancer-de-placenta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rádio Nacional transmite neste domingo duelo entre Cruzeiro e Botafogo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/radio-nacional-transmite-neste-domingo-duelo-entre-cruzeiro-e-botafogo",
+        "summary": "p strong Cruzeiro e Botafogo entram em campo neste domingo (26) pela 20ª rodada do Campeonato Brasileiro Masculino Série A, e a Rádio Nacional transmite, a partir das 15h30, todas as emoções do primeiro compromisso dos c",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Nascido há 100 anos, Moacir Santos fundiu ancestralidade e erudição",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/nascido-ha-100-anos-moacir-santos-fundiu-ancestralidade-e-erudicao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/nascido-ha-100-anos-moacir-santos-fundiu-ancestralidade-e-erudicao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Maior evento científico da América Latina começa neste domingo",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/maior-evento-cientifico-da-america-latina-comeca-neste-domingo",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/maior-evento-cientifico-da-america-latina-comeca-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
@@ -141,49 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Homenagem a Luana Barbosa marca a 11ª Marcha das Mulheres Negras em SP",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/homenagem-luana-barbosa-marca-11a-marcha-das-mulheres-negras-em-sp",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/homenagem-luana-barbosa-marca-11a-marcha-das-mulheres-negras-em-sp img src= https://cdn.jsdelivr.net/gh/sergi",
-        "image": null,
-        "date": "25 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dupla Calderashi avança à final do WTT Star Contender em São Paulo",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/dupla-calderashi-avanca-final-do-wtt-star-contender-em-sao-paulo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/dupla-calderashi-avanca-final-do-wtt-star-contender-em-sao-paulo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "25 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "PL oficializa candidatura de Flávio Bolsonaro à Presidência",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pl-oficializa-candidatura-de-flavio-bolsonaro-presidencia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pl-oficializa-candidatura-de-flavio-bolsonaro-presidencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
-        "image": null,
-        "date": "25 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Escritora Nathacha Appanah é um dos destaques internacionais da Flip",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/escritora-nathacha-appanah-e-um-dos-destaques-internacionais-da-flip",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/escritora-nathacha-appanah-e-um-dos-destaques-internacionais-da-flip img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "25 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Brasil sofre virada da Turquia e amarga quinto vice da Liga das Nações de Vôlei",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-perde-turquia-vice-liga-das-nacoes-volei/",
+        "summary": "O Brasil foi derrotado pela Turquia por 3 sets a 1 na final da Liga das Nações de Vôlei Feminino e ficou com o vice-campeonato pela quinta vez na história da competição. Após vencer o primeiro set, a seleção brasileira s",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/x8novybvaedgz1kivtlq.webp",
+        "date": "26 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos do confronto entre Brasil e Turquia pela final da Liga das Nações de Vôlei",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-do-confronto-entre-brasil-e-turquia-pela-final-da-liga-das-nacoes-de-volei/",
+        "summary": "O post Veja fotos do confronto entre Brasil e Turquia pela final da Liga das Nações de Vôlei apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/jedwsquoixykcmwklbvc.webp",
+        "date": "26 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Há 95 anos, nascia Telê Santana: relembre a carreira do mestre",
         "link": "https://www.gazetaesportiva.com/fotos/fotos-destaque/ha-95-anos-nascia-tele-santana-relembre-a-carreira-do-mestre/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-busca-fim-jejum-contra-flamengo-no-maracana/",
         "summary": "O São Paulo enfrenta o Flamengo neste domingo (26), às 18h30, no Maracanã, pela 20ª rodada do Brasileirão. O Tricolor busca encerrar um jejum de vitórias sobre o Rubro-Negro no Rio de Janeiro pelo Campeonato Brasileiro q",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/54650403591_ffd65a1047_o.webp",
-        "date": "26 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cuca abre disputa por posições no Santos e elogia Caballero: Vai jogar bastante",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-abre-disputa-por-posicoes-no-santos-e-elogia-caballero-vai-jogar-bastante/",
-        "summary": "O técnico Cuca deixou claro que a disputa por vagas no time titular do Santos está longe de estar definida. Após o empate por 2 a 2 com a Chapecoense, neste sábado, na Vila Belmiro, o treinador afirmou que nenhum jogador",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55419531495_4798fedbfa_c.webp",
-        "date": "26 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Atuações do Santos: Neymar salva, Rollheiser vai mal e defesa falha contra a Chapecoense",
-        "link": "https://www.gazetaesportiva.com/times/santos/atuacoes-do-santos-neymar-salva-rollheiser-vai-mal-e-defesa-falha-contra-a-chapecoense/",
-        "summary": "O Santos deixou escapar uma vitória importante na luta para se afastar da zona de rebaixamento ao empatar por 2 a 2 com a Chapecoense, neste sábado, na Vila Belmiro, pela 20ª rodada do Campeonato Brasileiro. Depois de co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55419504179_4c6933a12c_o.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Do ovo ao tijolo, tráfico e milícias do Rio instauram monopólio e sequestram economia",
-        "link": "https://www.infomoney.com.br/economia/do-ovo-ao-tijolo-trafico-e-milicias-do-rio-instauram-monopolio-e-sequestram-economia/",
-        "summary": "Estudo daa Federação das Indústrias do Estado do Rio de Janeiro (Firjan) calcula que esse domínio custa cerca de R$ 21,4 bilhões por ano à economia formal fluminense The post Do ovo ao tijolo, tráfico e milícias do Rio i",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/favela-da-rocinha-rio-moradia-brasil-e1771767512739.jpg?fit=300%2C157&amp;quality=70&amp;strip=all",
+        "title": "Com respiro técnico e foco em dados, fluxo estrangeiro dá sinal de retomada na B3",
+        "link": "https://www.infomoney.com.br/mercados/com-respiro-tecnico-e-foco-em-dados-fluxo-estrangeiro-da-sinal-de-retomada-na-b3/",
+        "summary": "Primeira quinzena de julho teve saldo positivo de R$ 2,351 bilhões; explicações vão da recente safra de indicadores ao valuation atrativa da Bolsa The post Com respiro técnico e foco em dados, fluxo estrangeiro dá sinal ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_02.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Chuvas no RS deixam 682 desalojados e novos temporais estão previstos para hoje",
-        "link": "https://www.infomoney.com.br/brasil/chuvas-no-rs-deixam-682-desalojados-e-novos-temporais-estao-previstos-para-hoje/",
-        "summary": "Centro de Monitoramento da Defesa Civil do RS prevê tempestades isoladas neste domingo (26) The post Chuvas no RS deixam 682 desalojados e novos temporais estão previstos para hoje appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Rio-Taquari.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Quina hoje, concurso 7075: confira o resultado sorteado neste domingo (26)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7075-confira-o-resultado-sorteado-neste-domingo-26/",
+        "summary": "Os números sorteados foram: 02 – 04 – 20 – 50 - 73 The post Quina hoje, concurso 7075: confira o resultado sorteado neste domingo (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Quina-26-de-julho.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "26 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "IA muda o research, mas fator humano ganha peso",
-        "link": "https://www.infomoney.com.br/advisor/ia-muda-research-mas-fator-humano-ganha-peso/",
-        "summary": "Especialistas afirmam que algoritmos automatizam tarefas e aceleram a análise, mas interpretação, contexto e confiança seguem decisivos no mercado financeiro The post IA muda o research, mas fator humano ganha peso appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-ls5-trader-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Lotofácil hoje, concurso 3745: confira o resultado sorteado neste domingo (26)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3745-confira-o-resultado-sorteado-neste-domingo-26/",
+        "summary": "Os números sorteados foram: 01 - 02 - 04 - 05 - 06 - 07 - 08 - 09 - 10 - 12 - 13 - 19 - 21 - 22 - 24 The post Lotofácil hoje, concurso 3745: confira o resultado sorteado neste domingo (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Lotofacil-2607-e1785075685522.jpeg?fit=300%2C170&amp;quality=70&amp;strip=all",
         "date": "26 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "EUA suspendem ataques aéreos ao Irã, mas tensão permanece em meio a negociações",
-        "link": "https://www.infomoney.com.br/mundo/eua-suspendem-ataques-aereos-ao-ira-mas-tensao-permanece-em-meio-a-negociacoes/",
-        "summary": "Mesmo com a suspensão dos ataques entre EUA e Irã, outros focos de tensão continuam ativos na região; noo sábado, os rebeldes houthis do Iêmen anunciaram ataques com mísseis e drones contra a Arábia Saudita The post EUA ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Estreito-de-Ormuz.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Mega-Sena hoje, concurso 3036: confira o resultado sorteado neste domingo (26)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3036-confira-o-resultado-sorteado-neste-domingo/",
+        "summary": "As dezenas sorteadas foram: Os números sorteados foram: 05 - 12 - 21- 33 - 43 - 50 The post Mega-Sena hoje, concurso 3036: confira o resultado sorteado neste domingo (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Mega-Sena-26-de-julho.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all",
         "date": "26 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Após resistência em 2022, Janja muda postura e busca aproximação com evangélicos",
-        "link": "https://www.infomoney.com.br/politica/apos-resistencia-em-2022-janja-muda-postura-e-busca-aproximacao-com-evangelicos/",
-        "summary": "Apesar do esforço, posicionamentos da primeira-dama, como sua defesa da aprovação do projeto de lei que criminaliza a misoginia, ainda são empecilhos The post Após resistência em 2022, Janja muda postura e busca aproxima",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/raf09561_0-e1742903123486.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "13 trilhões por cento de inflação: Milei critica BC argentino e pede reforma",
+        "link": "https://www.infomoney.com.br/economia/13-trilhoes-por-cento-de-inflacao-milei-critica-bc-argentino-em-artigo-e-pede-reforma/",
+        "summary": "Milei explica em artigo que autoridade monetária historicamente falhou em seu objetivo de manter o poder da moeda local, muito por conta de seu uso político; ele propõe simplificar mandato, garantir autonomia e proibir o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/2025-01-30T235944Z_1_LYNXNPEL0T154_RTROPTP_4_ARGENTINA-JUROS-CORTE.jpg?fit=300%2C198&amp;quality=70&amp;strip=all",
         "date": "26 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "FIIs de renda urbana ainda têm muito espaço para crescer, diz gestor do RBVA11",
-        "link": "https://www.infomoney.com.br/onde-investir/fiis-de-renda-urbana-ainda-tem-muito-espaco-para-crescer-diz-gestor-do-rbva11/",
-        "summary": "Os fundos imobiliários de renda urbana devem desempenhar um papel importante na expansão da indústria de FIIs The post FIIs de renda urbana ainda têm muito espaço para crescer, diz gestor do RBVA11 appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/real-estate-6688945_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Incêndios na França e Espanha já obrigaram a evacuação de 300 mil pessoas",
+        "link": "https://www.infomoney.com.br/mundo/incendios-na-franca-e-espanha-ja-obrigaram-a-evacuacao-de-300-mil-pessoas/",
+        "summary": "Na França, diante da ameaça do fogo que já consumiu 100 mil hectares, 55 mil novas evacuações foram ordenadas na noite de sábado, elevando o número de pessoas deslocadas para 220 mil The post Incêndios na França e Espanh",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Incendios-Espanha.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
         "date": "26 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "IA poderá ajudar África a criar 40 milhões de empregos, diz estudo",
-        "link": "https://exame.com/mundo/ia-podera-ajudar-africa-a-criar-40-milhoes-de-empregos-diz-estudo/",
-        "summary": "No continente, a inteligência artificial promete revolucionar os empregos, mas há o desafio de incluir o vasto setor informal",
+        "title": "Melissa Vargas nasceu na Turquia? Veja altura e onde joga a algoz do Brasil na VNL",
+        "link": "https://exame.com/esporte/melissa-vargas-nasceu-na-turquia-veja-altura-e-onde-joga-a-algoz-do-brasil-na-vnl/",
+        "summary": "Oposta marcou 33 pontos na final contra a seleção brasileira, foi eleita a melhor jogadora da Liga das Nações de 2026 e atua por um dos principais clubes da Europa",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Startup brasileira 'tokeniza' US$ 1,8 bilhão em imóveis de luxo nos EUA",
-        "link": "https://exame.com/mercado-imobiliario/startup-brasileira-tokeniza-us-18-bilhao-em-imoveis-de-luxo-nos-eua/",
-        "summary": "Mannah digitaliza fundos imobiliários de empreendimentos premium da Flórida, oferecendo acesso regulado a investidores qualificados na América Latina",
+        "title": "Além do DNA: gravidez pode deixar marca no cérebro dos filhos para o resto da vida",
+        "link": "https://exame.com/ciencia/alem-do-dna-gravidez-pode-deixar-marca-no-cerebro-dos-filhos-para-o-resto-da-vida/",
+        "summary": "Pesquisa identificou DNA materno em cérebros de crianças e sugere que essas células podem persistir até a velhice",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem são os oficiais dos EUA barrados pelo Itamaraty por 'lobby' contra as urnas",
-        "link": "https://exame.com/mundo/quem-sao-os-oficiais-dos-eua-barrados-pelo-itamaraty-por-lobby-contra-as-urnas/",
-        "summary": "Riley Barnes e Samuel Samson tiveram vistos negados após pedido para tratar de \"integridade eleitoral\"",
+        "title": "VNL: Turquia derrota o Brasil e conquista o título da Liga das Nações Feminina",
+        "link": "https://exame.com/esporte/vnl-turquia-derrota-o-brasil-e-conquista-o-titulo-da-liga-das-nacoes-feminina/",
+        "summary": "Seleção feminina é superada por 3 sets a 1 na final, conquista a medalha de prata pela quinta vez e adia sonho de levantar o troféu da VNL",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ryan Gosling é confirmado como Motoqueiro Fantasma no MCU",
-        "link": "https://exame.com/pop/ryan-gosling-e-confirmado-como-motoqueiro-fantasma-no-mcu/",
-        "summary": "Após anos de rumores, Ryan Gosling foi anunciado na San Diego Comic-Con como o novo Motoqueiro Fantasma. O filme será dirigido por Shawn Levy e chega aos cinemas em 2028",
+        "title": "Setor financeiro tem desafios extras para implementar IA",
+        "link": "https://exame.com/future-of-money/setor-financeiro-tem-desafios-extras-para-implementar-ia/",
+        "summary": "Apesar da exigência cada vez maior por agilidade, mecanismos de governança que garantam o uso responsável da tecnologia são essenciais",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "5 lições de vendas de Caio Carneiro: 'Você não está fazendo uma venda, está sofrendo uma compra'",
-        "link": "https://exame.com/negocios/voce-nao-esta-fazendo-uma-venda-esta-sofrendo-uma-compra-diz-caio-carneiro/",
-        "summary": "No novo episódio do reality da EXAME, o dono da maior escola de vendas do país mostra como pequenas empresas podem estruturar processos comerciais, revisar preços e criar cultura de vendas",
+        "title": "Efeito Mounjaro? Investida da Eli Lilly dispara 67% em estreia na bolsa",
+        "link": "https://exame.com/invest/mercados/efeito-mounjaro-investida-da-eli-lilly-dispara-67-em-estreia-na-bolsa/",
+        "summary": "Cofundada por Nobel de Química, Scribe capta US$ 128,7 milhões em IPO na Nasdaq",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Não há para onde correr': o ciclo ruim da pecuária deve chegar aos frigoríficos",
-        "link": "https://exame.com/agro/nao-ha-para-onde-correr-o-ciclo-ruim-da-pecuaria-deve-chegar-aos-frigorificos/",
-        "summary": "Banco vê deterioração simultânea dos mercados de bovinos, frango e suínos no Brasil e nos EUA",
+        "title": "Pantera Negra 3 ganha data de estreia e novo protagonista; veja detalhes",
+        "link": "https://exame.com/pop/pantera-negra-3-ganha-data-de-estreia-e-novo-protagonista-veja-detalhes/",
+        "summary": "Marvel confirma David Jonsson como T'Challa II, filho do herói vivido por Chadwick Boseman, e mantém Ryan Coogler na direção do terceiro filme da franquia",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
