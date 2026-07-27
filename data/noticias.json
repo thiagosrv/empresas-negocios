@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-26T22:02:08.544Z",
+  "updated": "2026-07-27T00:03:46.433Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "'Informações falsas': presidente da Anac diz que agência foi enganada pela Voepass",
+        "link": "https://g1.globo.com/fantastico/noticia/2026/07/26/presidente-da-anac-diz-que-agencia-foi-enganada-pela-voepass.ghtml",
+        "summary": "Anac diz ter sido enganada pela Voepass O relatório final do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) sobre a queda do avião da Voepass, que matou 62 pessoas em agosto de 2024, aponta que uma",
+        "image": "https://s2-g1.glbimg.com/DuvkAiY7BhXmHGkyMEiykWz-B5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/L/Ep0pYrScepVWHt2jdBIA/globo-canal-4-20260726-2000-frame-62511.jpeg",
+        "date": "26 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Encontre seu emprego: região de Piracicaba inicia semana com 1,2 mil vagas abertas",
         "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/26/encontre-seu-emprego-regiao-de-piracicaba-inicia-semana-com-12-mil-vagas-abertas.ghtml",
@@ -53,14 +63,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Cirurgia em paciente errada: o que se sabe sobre o caso da idosa que morreu 3 dias após operação em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/cirurgia-em-paciente-errada-o-que-se-sabe-sobre-o-caso-da-idosa-que-morreu-3-dias-apos-operacao-em-campinas.ghtml",
-        "summary": "O que se sabe sobre caso da idosa que morreu 3 dias após passar por cirurgia por engano Jandira Marina Dias Braga, de 76 anos, morreu três dias após passar por uma cirurgia destinada a outro paciente no Hospital Beneficê",
-        "image": "https://s2-g1.glbimg.com/t8TaaQx1GjOAq0M39ygSWdtMgU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/UhOnSUT6y4zydPhHBxOA/denuncia-troca-cirurgia-3-.png",
+        "title": "HM alerta para maior risco de infarto e AVC no inverno e reforça importância do atendimento rápido",
+        "link": "https://jornalamericanense.com.br/saude/hm-alerta-para-maior-risco-de-infarto-e-avc-no-inverno-e-reforca-importancia-do-atendimento-rapido/",
+        "summary": "As baixas temperaturas do inverno exigem atenção redobrada com a saúde do coração. Diante do aumento do risco de infarto e acidente vascular cerebral (AVC) nesta época do ano, o Hospital Municipal Dr. Waldemar Tebaldi, e",
+        "image": null,
         "date": "26 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Faixa da Avenida Brasil será interditada para obras de manutenção em galeria pluvial nesta segunda-feira",
+        "link": "https://jornalamericanense.com.br/cidades/faixa-da-avenida-brasil-sera-interditada-para-obras-de-manutencao-em-galeria-pluvial-nesta-segunda-feira/",
+        "summary": "Intervenção em frente à Cobasi ocorrerá das 7h às 16h e exigirá atenção redobrada dos motoristas no sentido bairro-Centro Motoristas que trafegam pela Avenida Brasil, em Americana, devem ficar atentos às alterações no tr",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Região de Campinas reúne mais de 3,4 mil vagas de emprego; Americana oferece 84 oportunidades",
+        "link": "https://jornalamericanense.com.br/cidades/regiao-de-campinas-reune-mais-de-34-mil-vagas-de-emprego-americana-oferece-84-oportunidades/",
+        "summary": "Postos de atendimento ao trabalhador recebem candidaturas para vagas em 14 municípios, com oportunidades para diferentes níveis de escolaridade, pessoas com deficiência, estagiários e jovens aprendizes. Quem está em busc",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Nova lei autoriza venda de spray de pimenta para mulheres maiores de 18 anos em todo o país",
@@ -93,34 +123,34 @@
         "cls": "servicos"
       },
       {
-        "title": "Nova tarifa dos EUA eleva para até 37,5% taxação sobre produtos brasileiros e amplia tensão comercial",
-        "link": "https://jornalamericanense.com.br/brasil/nova-tarifa-dos-eua-eleva-para-ate-375-taxacao-sobre-produtos-brasileiros-e-amplia-tensao-comercial/",
-        "summary": "Sobretaxa de 12,5% entra em vigor nesta sexta-feira (24) sob alegação de falhas no combate ao trabalho forçado; governo brasileiro contesta decisão e promete recorrer à OMC O governo dos Estados Unidos anunciou nesta qui",
+        "title": "Alison vence 400m com barreiras com melhor marca mundial em 2026",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/alison-vence-400m-com-barreiras-com-melhor-marca-mundial-em-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/alison-vence-400m-com-barreiras-com-melhor-marca-mundial-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
-        "date": "24 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Sebrae Aqui Americana promove capacitação gratuita sobre compras públicas e acesso a crédito",
-        "link": "https://jornalamericanense.com.br/cidades/sebrae-aqui-americana-promove-capacitacao-gratuita-sobre-compras-publicas-e-acesso-a-credito/",
-        "summary": "O Sebrae Aqui Americana promove, nos dias 10 e 12 de agosto, a capacitação on-line e gratuita Compras Públicas e Acesso a Crédito , voltada a microempreendedores individuais (MEIs) e empresários de micro e pequenas empre",
+        "title": "Ex-presidente do STF, Octavio Gallotti morre aos 95 anos",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/ex-presidente-do-stf-octavio-gallotti-morre-aos-95-anos",
+        "summary": "p O Supremo Tribunal Federal (STF) manifestou neste domingo (26) profundo pesar pelo falecimento do ex-presidente e ministro aposentado Octavio Gallotti, 95 anos img src= https://agenciabrasil.ebc.com.br/ebc.png?id=16976",
         "image": null,
-        "date": "24 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Relatório final do Cenipa aponta falhas da Voepass, da tripulação e da Anac em acidente que matou 62 pessoas",
-        "link": "https://jornalamericanense.com.br/brasil/relatorio-final-do-cenipa-aponta-falhas-da-voepass-da-tripulacao-e-da-anac-em-acidente-que-matou-62-pessoas/",
-        "summary": "Investigação conclui que aeronave não deveria ter decolado em condições de chuva e identifica uma cultura de descumprimento de procedimentos de segurança na companhia aérea O Centro de Investigação e Prevenção de Acident",
+        "title": "Parada Brasília Orgulho traz campanha do voto contra o preconceito",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/parada-brasilia-orgulho-traz-campanha-do-voto-contra-o-preconceito",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/parada-brasilia-orgulho-traz-campanha-do-voto-contra-o-preconceito img src= https://cdn.jsdelivr.net/gh/sergi",
         "image": null,
-        "date": "24 de jul. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Julho das Pretas: mulheres negras marcham pelas ruas de todo país",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Unidade Popular formaliza candidatura de Samara Martins a presidente",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/unidade-popular-formaliza-candidatura-de-samara-martins-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Após ofensas de Milei a Lula, Itamaraty chama embaixador para consulta",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/apos-ofensas-de-milei-lula-itamaraty-chama-embaixador-para-consulta",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/apos-ofensas-de-milei-lula-itamaraty-chama-embaixador-para-consulta img src= https://cdn.jsdelivr.net/gh/sergios",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Da periferia para o mundo: concerto marca 20 anos de projeto no Recife",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/da-periferia-para-o-mundo-concerto-marca-20-anos-de-projeto-no-recife",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/da-periferia-para-o-mundo-concerto-marca-20-anos-de-projeto-no-recife img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "GP do Bahrein de F1 será realizado na Malásia no início de outubro",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/formula-1-substitui-gp-bahrein-por-gp-malasia/",
-        "summary": "A Fórmula 1 confirmou que o GP do Bahrein, cancelado devido aos conflitos no Oriente Médio, será substituído por uma corrida na Malásia entre os dias 2 e 4 de outubro, no circuito de Sepang. A prova receberá o nome de \"F",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260726__C38M64J__v1__HighRes__AutoPrixF1HunRace.webp",
+        "title": "Rafael valoriza empate com o Flamengo e vê evolução no São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/rafael-valoriza-empate-com-o-flamengo-e-ve-evolucao-no-sao-paulo/",
+        "summary": "O goleiro Rafael valorizou o empate do São Paulo por 1 a 1 com o Flamengo, neste domingo, no Maracanã, pela 20ª rodada do Campeonato Brasileiro. Após a partida, o camisa 23 destacou a dificuldade de enfrentar a equipe ca",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55412516746_240ab7ce00_o-2.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras tem Paulinho titular e Vitor Roque no Banco para pegar o Atlético-MG; veja escalações",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-atletico-mg-escalacoes-vitor-roque-retorno-brasileirao/",
-        "summary": "O Palmeiras recebe o Atlético-MG pela 20ª rodada do Campeonato Brasileiro, neste domingo, no Nubank Parque. Confira as escalações, desfalques, situação das equipes e a arbitragem da partida. O post Palmeiras tem Paulinho",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HOLry9aWkAE-JLL.webp",
+        "title": "Com gol no fim, Fluminense cede empate ao Grêmio e continua no G4 do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/com-gol-no-fim-fluminense-cede-empate-ao-gremio-e-continua-na-g4-do-brasileirao/",
+        "summary": "O Fluminense empatou por 1 a 1 com o Grêmio, neste domingo, na Arena do Grêmio, pela 20ª rodada do Brasileirão. Hulk abriu o placar para o Tricolor Carioca em cobrança de pênalti no segundo tempo, após toque de mão de Ka",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55421924050_972ddd3cb1_k.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Angileri comemora primeiro gol pelo Corinthians e valoriza empate com Bahia: Jogo difícil",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/angileri-comemora-primeiro-gol-pelo-corinthians-e-valoriza-empate-com-bahia-jogo-dificil/",
-        "summary": "Veja as palavras do lateral Fabrizio Angileri após o empate entre Bahia e Corinthians, pela 20ª rodada do Campeonato Brasileiro. O post Angileri comemora primeiro gol pelo Corinthians e valoriza empate com Bahia: Jogo di",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Image-92340.webp",
+        "title": "Bragantino pressiona, mas Coritiba segura empate sem gols fora de casa",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/rb-bragantino-x-coritiba-empate-sem-gols-brasileirao/",
+        "summary": "RB Bragantino e Coritiba ficaram no empate sem gols neste domingo, no Estádio Municipal Cicero De Souza Marques, pela 20ª rodada do Campeonato Brasileiro. Apesar de dominar as ações ofensivas e finalizar 20 vezes durante",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55420679907_6e87c156b0_o.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Técnico do Vasco valoriza novo espírito da equipe após ajustes no segundo tempo",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/tecnico-do-vasco-valoriza-novo-espirito-da-equipe-apos-ajustes-no-segundo-tempo/",
-        "summary": "Em coletiva de imprensa, o comandante vascaíno comentou sobre as duas etapas distintas do confronto. Ele explicou as alterações estratégicas que pressionaram o adversário e exaltou a determinação do elenco para buscar a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Tecnico.webp",
+        "title": "São Paulo empata com Flamengo e aumenta jejum de vitórias no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-empata-com-flamengo-e-aumenta-jejum-de-vitorias-no-brasileirao/",
+        "summary": "O São Paulo aumentou o jejum de vitórias no Campeonato Brasileiro. Neste domingo, o Tricolor buscou o empate com o Flamengo por 1 a 1, no Maracanã, no Rio de Janeiro, pela 20ª rodada da competição nacional e amargou o sé",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/snapinsta-1785107658447-2.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Angileri leva terceiro amarelo e desfalca Corinthians contra o Athletico-PR",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/angileri-leva-terceiro-amarelo-e-desfalca-corinthians-contra-o-athletico-pr/",
-        "summary": "O lateral Fabrizio Angileri recebeu o terceiro cartão amarelo e está suspenso para a partida contra o Athletico-PR. O post Angileri leva terceiro amarelo e desfalca Corinthians contra o Athletico-PR apareceu primeiro em ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/02/agenciacorinthians-foto-241121.webp",
+        "title": "Melhores momentos: San Diego Wave (W) 0 x 2 Seattle Reign pela NWSL",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-san-diego-wave-w-0-x-2-seattle-reign-pela-nwsl/",
+        "summary": "Melhores momentos: San Diego Wave (W) 0 x 2 Seattle Reign pela NWSL O post Melhores momentos: San Diego Wave (W) 0 x 2 Seattle Reign pela NWSL apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/4147ac9f-1920.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians sofre, empata com o Bahia e perde chance de encostar no G5 do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-sofre-empata-com-o-bahia-e-perde-chance-de-encostar-no-g5-do-brasileirao/",
-        "summary": "Confira os detalhes da partida entre Bahia e Corinthians, pela 20ª rodada do Campeonato Brasileiro. O post Corinthians sofre, empata com o Bahia e perde chance de encostar no G5 do Brasileirão apareceu primeiro em Gazeta",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55421384664_d7018ef773_k.webp",
+        "title": "Diniz valoriza empate e fala sobre forma física do Corinthians: Nos superamos",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-valoriza-empate-e-fala-sobre-forma-fisica-do-corinthians-nos-superamos/",
+        "summary": "O técnico Fernando Diniz valorizou o empate do Corinthians contra o Bahia e ainda alertou acerca da forma física da equipe; confira. O post Diniz valoriza empate e fala sobre forma física do Corinthians: Nos superamos ap",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246886.webp",
         "date": "26 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Jeff Bezos diz que trabalhar mais é a cura para a ansiedade: O estresse desaparece",
+        "link": "https://www.infomoney.com.br/business/global/jeff-bezos-diz-que-trabalhar-mais-e-a-cura-para-a-ansiedade-o-estresse-desaparece/",
+        "summary": "Fundador da Amazon afirma que agir é o verdadeiro antídoto para a ansiedade, e não a procrastinação The post Jeff Bezos diz que trabalhar mais é a cura para a ansiedade: O estresse desaparece appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/JEFF-BEZOS-SAYS-WORKING-HARDER-IS-THE-CURE-FOR-ANXIETY-THE-STRESS-GOES-AWAY-THE-SECOND-I-TAKE-THAT-FIRST-STEP-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "26 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Petróleo despenca após pausa dos EUA em ataques ao Irã",
+        "link": "https://www.infomoney.com.br/mercados/petroleo-despenca-apos-pausa-dos-eua-em-ataques-ao-ira/",
+        "summary": "Brent cai mais de 7% na abertura da semana com alívio de tensões no Oriente Médio, mas conflito já dura cinco meses e mercado segue volátil The post Petróleo despenca após pausa dos EUA em ataques ao Irã appeared first o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/petroleo-bolsa-acoes-1.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "26 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Presidente da Síria sinaliza acordo de segurança com Israel: Paz abrangente",
+        "link": "https://www.infomoney.com.br/mundo/presidente-da-siria-sinaliza-acordo-de-seguranca-com-israel-paz-abrangente/",
+        "summary": "Em entrevista à Al Jazeera, Ahmed al-Sharaa diz esperar que pacto abra caminho para paz abrangente e afasta possibilidade de intervenção militar no Líbano The post Presidente da Síria sinaliza acordo de segurança com Isr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-26T214656Z_1028723504_RC2NVKADR9OW_RTRMADP_3_SYRIA-ISRAEL.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "date": "26 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quero pacificar o país , diz Caiado ao prometer indulto a Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/quero-pacificar-o-pais-diz-caiado-ao-prometer-indulto-a-bolsonaro/",
+        "summary": "Oficializado pelo PSD, ex-governador de Goiás critica polarização e adversários, e diz que Brasil não pode optar pelos \"maiores rejeitados da política nacional\" The post Quero pacificar o país , diz Caiado ao prometer in",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/FTA20260726023.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "date": "26 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Trump usa Firework para celebrar bombardeio e Katy Perry reage: Completa violação",
         "link": "https://www.infomoney.com.br/mundo/trump-usa-firework-para-celebrar-bombardeio-e-katy-perry-reage-completa-violacao/",
         "summary": "Casa Branca publicou vídeo de ataque iraniano com música da cantora como trilha; episódio repete padrão com Sabrina Carpenter e Kesha The post Trump usa Firework para celebrar bombardeio e Katy Perry reage: Completa viol",
@@ -327,99 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Calendário econômico semanal: juros nos EUA e dados de trabalho no Brasil em destaque",
-        "link": "https://www.infomoney.com.br/mercados/calendario-economico-semanal-juros-nos-eua-e-dados-de-trabalho-no-brasil-em-destaque/",
-        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico semanal: juros nos EUA e dados de trabalho no Brasil em destaque appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-10T142108Z_1_LYNXMPEK490G1_RTROPTP_3_USA-ECONOMY-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Petróleo despenca 5% após EUA e Irã suspenderem ataques no Estreito de Ormuz",
+        "link": "https://exame.com/invest/mercados/petroleo-despenca-5-apos-eua-e-ira-suspenderem-ataques-no-estreito-de-ormuz/",
+        "summary": "Brent recua para cerca de US$ 92 no segundo dia sem trocas militares no Golfo Pérsico; futuros de Wall Street sobem antes de megabalanços e da decisão do Fed",
+        "image": null,
         "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Onde assistir Palmeiras x Atlético-MG?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-palmeiras-atletico-mg/",
-        "summary": "O líder do Campeonato Brasileiro joga com o 13º colocado The post Onde assistir Palmeiras x Atlético-MG? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-palmeiras-x-atletico-mg.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Poupança ou CDB? A conta que todo brasileiro deveria fazer",
+        "link": "https://exame.com/invest/minhas-financas/poupanca-ou-cdb-a-conta-que-todo-brasileiro-deveria-fazer/",
+        "summary": "O Brasil tem 60 milhões de investidores ativos e um recorde de aplicações em 2025. A poupança, pela primeira vez, está ficando para trás",
+        "image": null,
         "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Fed pode elevar os juros nesta semana e mercado já começa a se preparar",
-        "link": "https://www.infomoney.com.br/economia/fed-pode-elevar-os-juros-nesta-semana-e-mercado-ja-comeca-a-se-preparar/",
-        "summary": "Petróleo acima de US$ 100, guerra no Oriente Médio e tarifas de Trump ressuscitam o fantasma da inflação e deixam dirigentes do banco central americano divididos The post Fed pode elevar os juros nesta semana e mercado j",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T190008Z_118389025_RC2UVLA9XT8I_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "EUA deportam ex-jogador da NFL nascido no Quênia",
+        "link": "https://exame.com/mundo/eua-deportam-ex-jogador-da-nfl-nascido-no-quenia/",
+        "summary": "Caso ocorre em meio ao aumento das prisões de imigrantes durante o segundo mandato de Donald Trump",
+        "image": null,
         "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Olara Otunnu, diplomata de Uganda entra em disputa para comandar a ONU",
-        "link": "https://www.infomoney.com.br/mundo/olara-otunnu-diplomata-de-uganda-entra-em-disputa-para-comandar-a-onu/",
-        "summary": "Aos 75 anos, ele é o mais velho entre os atuais candidatos ao cargo hoje ocupado pelo português António Guterres The post Olara Otunnu, diplomata de Uganda entra em disputa para comandar a ONU appeared first on InfoMoney",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-26T133802Z_1433384960_RC2PZGAK4CBH_RTRMADP_3_UN-ASSEMBLY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Petróleo cai mais de 5% com expectativa de acordo EUA-Irã",
+        "link": "https://exame.com/mundo/petroleo-cai-mais-de-5-com-expectativa-de-acordo-eua-ira/",
+        "summary": "Brent e WTI recuaram mais de 5% na abertura dos mercados asiáticos após dois dias sem novos ataques entre Estados Unidos e Irã",
+        "image": null,
         "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Oposição define candidatos para enfrentar Bukele em 2027",
+        "link": "https://exame.com/mundo/oposicao-define-candidatos-para-enfrentar-bukele-em-2027/",
+        "summary": "Arena e FMLN realizam eleições internas para definir candidatos à Presidência, enquanto Nayib Bukele busca um terceiro mandato consecutivo",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Mortes de migrantes colocam atuação do ICE em xeque",
         "link": "https://exame.com/mundo/mortes-de-migrantes-colocam-atuacao-do-ice-em-xeque/",
         "summary": "Decisão foi anunciada após dois migrantes morrerem baleados por agentes e um terceiro morrer durante uma operação migratória neste mês",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Milei faz acusações contra Brasil, México e Partido Democrata",
-        "link": "https://exame.com/mundo/milei-faz-acusacoes-contra-brasil-mexico-e-partido-democrata/",
-        "summary": "Declarações ocorrem um dia após Milei participar de evento político no Brasil",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ex-presidente de Honduras retorna após indulto de Trump",
-        "link": "https://exame.com/mundo/ex-presidente-de-honduras-retorna-apos-indulto-de-trump/",
-        "summary": "Ex-presidente, condenado por tráfico de drogas nos Estados Unidos, afirmou que foi vítima de perseguição política e agora responderá a acusações de corrupção em seu país",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Cinco montanhistas morrem no pico mais alto da Europa",
-        "link": "https://exame.com/mundo/cinco-montanhistas-morrem-no-pico-mais-alto-da-europa/",
-        "summary": "Grupo da Bósnia e Herzegovina passou mal durante a subida ao Monte Elbrus, na Rússia; apenas dois integrantes conseguiram retornar",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O tesouro mais improvável da Antártida era uma caixa de uísque",
-        "link": "https://exame.com/casual/o-tesouro-mais-improvavel-da-antartida-era-uma-caixa-de-uisque/",
-        "summary": "Esquecidas sob o gelo desde 1907, garrafas levadas por Ernest Shackleton foram encontradas um século depois e permitiram recriar um destilado desaparecido",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Samara Martins é oficializada candidata da Unidade Popular",
-        "link": "https://exame.com/brasil/samara-martins-e-oficializada-candidata-da-unidade-popular/",
-        "summary": "Dentista do SUS e ex-candidata a vice-presidente em 2022, ela terá Bricio como vice na chapa da Unidade Popular",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
