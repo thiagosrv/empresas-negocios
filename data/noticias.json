@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T00:03:46.433Z",
+  "updated": "2026-07-27T04:39:34.974Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Calderano é campeão do WTT Star Contender e vice na duplas mistas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/calderano-e-campeao-do-wtt-star-contender-e-vice-na-duplas-mistas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/calderano-e-campeao-do-wtt-star-contender-e-vice-na-duplas-mistas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "26 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Alison vence 400m com barreiras com melhor marca mundial em 2026",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/alison-vence-400m-com-barreiras-com-melhor-marca-mundial-em-2026",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/alison-vence-400m-com-barreiras-com-melhor-marca-mundial-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
@@ -171,75 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Flip: Angela Davis cita pensadores brasileiros e critica gentrificação",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-angela-davis-cita-pensadores-brasileiros-e-critica-gentrificacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-angela-davis-cita-pensadores-brasileiros-e-critica-gentrificacao img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Rafael valoriza empate com o Flamengo e vê evolução no São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/rafael-valoriza-empate-com-o-flamengo-e-ve-evolucao-no-sao-paulo/",
-        "summary": "O goleiro Rafael valorizou o empate do São Paulo por 1 a 1 com o Flamengo, neste domingo, no Maracanã, pela 20ª rodada do Campeonato Brasileiro. Após a partida, o camisa 23 destacou a dificuldade de enfrentar a equipe ca",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55412516746_240ab7ce00_o-2.webp",
-        "date": "26 de jul. de 2026",
+        "title": "Paulo Turra isenta Neymar e diz que gestões são maior problema do Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/paulo-turra-isenta-neymar-e-diz-que-gestoes-sao-maior-problema-do-santos/",
+        "summary": "Paulo Turra defendeu Neymar e afirmou que o principal problema do Santos não é o atacante, mas sim questões de gestão que se arrastam há anos. Em participação no programa *Mesa Redonda*, o ex-técnico do Peixe disse que o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55419726860_a98bd80f93_o.webp",
+        "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com gol no fim, Fluminense cede empate ao Grêmio e continua no G4 do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/com-gol-no-fim-fluminense-cede-empate-ao-gremio-e-continua-na-g4-do-brasileirao/",
-        "summary": "O Fluminense empatou por 1 a 1 com o Grêmio, neste domingo, na Arena do Grêmio, pela 20ª rodada do Brasileirão. Hulk abriu o placar para o Tricolor Carioca em cobrança de pênalti no segundo tempo, após toque de mão de Ka",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55421924050_972ddd3cb1_k.webp",
-        "date": "26 de jul. de 2026",
+        "title": "Negociação avança, e Corinthians fica perto de renovar com Memphis Depay",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/negociacao-avanca-e-corinthians-fica-perto-de-renovar-com-memphis-depay/",
+        "summary": "O Corinthians está próximo de renovar o contrato de Memphis Depay. O atacante holandês, que tinha vínculo até 31 de julho e era alvo de clubes da França e da Arábia Saudita, deve assinar um novo acordo por duas temporada",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/03/MEMPHIS_DEPAY-CORINTHIANS-HOLANDA-3003.webp",
+        "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bragantino pressiona, mas Coritiba segura empate sem gols fora de casa",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/rb-bragantino-x-coritiba-empate-sem-gols-brasileirao/",
-        "summary": "RB Bragantino e Coritiba ficaram no empate sem gols neste domingo, no Estádio Municipal Cicero De Souza Marques, pela 20ª rodada do Campeonato Brasileiro. Apesar de dominar as ações ofensivas e finalizar 20 vezes durante",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55420679907_6e87c156b0_o.webp",
-        "date": "26 de jul. de 2026",
+        "title": "Brusque bate o Ituano em casa e dorme na liderança da Série C do Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/brusque-bate-o-ituano-em-casa-e-dorme-na-lideranca-da-serie-c-do-campeonato-brasileiro/",
+        "summary": "O Brusque venceu o Ituano por 1 a 0 neste domingo, pela 15ª rodada da Série C, na Arena Simon. O único gol da partida foi marcado por João Pedro, aos 18 minutos do primeiro tempo, com um toque de letra após assistência d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/SaveClip.App_756724674_18401494348094296_1958498565533029660_n.webp",
+        "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo empata com Flamengo e aumenta jejum de vitórias no Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-empata-com-flamengo-e-aumenta-jejum-de-vitorias-no-brasileirao/",
-        "summary": "O São Paulo aumentou o jejum de vitórias no Campeonato Brasileiro. Neste domingo, o Tricolor buscou o empate com o Flamengo por 1 a 1, no Maracanã, no Rio de Janeiro, pela 20ª rodada da competição nacional e amargou o sé",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/snapinsta-1785107658447-2.webp",
-        "date": "26 de jul. de 2026",
+        "title": "Abel evita cobrar reforços ao Palmeiras após fim de negociação com Danilo",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-evita-cobrar-reforcos-ao-palmeiras-apos-fim-de-negociacao-com-danilo/",
+        "summary": "Após a derrota por 2 a 1 para o Atlético-MG, Abel Ferreira também foi questionado sobre o elenco do Palmeiras e a possibilidade de novos reforços nesta janela de transferências. Nos últimos dias, o Botafogo recusou uma p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_destaque_6040_7.webp",
+        "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: San Diego Wave (W) 0 x 2 Seattle Reign pela NWSL",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-san-diego-wave-w-0-x-2-seattle-reign-pela-nwsl/",
-        "summary": "Melhores momentos: San Diego Wave (W) 0 x 2 Seattle Reign pela NWSL O post Melhores momentos: San Diego Wave (W) 0 x 2 Seattle Reign pela NWSL apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/4147ac9f-1920.webp",
-        "date": "26 de jul. de 2026",
+        "title": "Abel lamenta falta de eficiência do Palmeiras após derrota para o Atlético-MG",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-lamenta-falta-de-eficiencia-do-palmeiras-apos-derrota-para-o-atletico-mg/",
+        "summary": "O técnico Abel Ferreira deixou o Nubank Parque frustrado com a derrota do Palmeiras por 2 a 1 para o Atlético-MG, neste domingo, pela 20ª rodada do Campeonato Brasileiro. Apesar do revés, o treinador avaliou que sua equi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_destaque_6069_10.99.webp",
+        "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Diniz valoriza empate e fala sobre forma física do Corinthians: Nos superamos",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-valoriza-empate-e-fala-sobre-forma-fisica-do-corinthians-nos-superamos/",
-        "summary": "O técnico Fernando Diniz valorizou o empate do Corinthians contra o Bahia e ainda alertou acerca da forma física da equipe; confira. O post Diniz valoriza empate e fala sobre forma física do Corinthians: Nos superamos ap",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246886.webp",
-        "date": "26 de jul. de 2026",
+        "title": "Novorizontino goleia Londrina fora de casa e vence depois de três jogos sem vitória na Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-goleia-londrina-fora-de-casa-e-vence-depois-de-tres-jogos-sem-vitoria-na-serie-b/",
+        "summary": "O Novorizontino goleou o Londrina por 4 a 1 fora de casa, pela 20ª rodada da Série B. Paulinho Moccelin abriu o placar para o Londrina, mas Rômulo, Robson, Reidiney e Carlão marcaram para os visitantes e garantiram a vir",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55422101830_cfdf720b34_o.webp",
+        "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Itamaraty convoca embaixador da Argentina para transmitir repulsa por fala de Milei",
+        "link": "https://www.infomoney.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-transmitir-repulsa-por-fala-de-milei/",
+        "summary": "Presidente da Argentina chamou Lula de' presidiário' e Alexandre de Moraes de 'lixo' durante convenção do PL ocorrida em São Paulo The post Itamaraty convoca embaixador da Argentina para transmitir repulsa por fala de Mi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-25T164310Z_1638121206_RC24LMAG6KHF_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "27 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Aliado de Keiko Fujimori é eleito presidente do Senado no Peru",
+        "link": "https://www.infomoney.com.br/mundo/aliado-de-keiko-fujimori-e-eleito-presidente-do-senado-no-peru/",
+        "summary": "Miguel Torres vence com 30 votos em aliança com partido de direita, dois dias antes da posse presidencial; Congresso bicameral retorna após mais de três décadas The post Aliado de Keiko Fujimori é eleito presidente do Se",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-15T213213Z_725280890_RC2IEMAZ0MJU_RTRMADP_3_PERU-ELECTION_c593e5.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
+        "date": "27 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ministério da Saúde lança campanha sobre riscos de bets com retomada do Brasileirão",
+        "link": "https://www.infomoney.com.br/brasil/ministerio-da-saude-lanca-campanha-sobre-riscos-de-bets-com-retomada-do-brasileirao/",
+        "summary": "Pasta iniciou ação na TV, rádio e redes sociais; OMS estima que 1,2% da população adulta mundial sofre com transtorno de jogo The post Ministério da Saúde lança campanha sobre riscos de bets com retomada do Brasileirão a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/cropped-Apostas-em-bet-Joedson-Alves-Agencia-Brasil-e1732046853248.png?fit=300%2C220&amp;quality=70&amp;strip=all",
+        "date": "27 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Jeff Bezos diz que trabalhar mais é a cura para a ansiedade: O estresse desaparece",
         "link": "https://www.infomoney.com.br/business/global/jeff-bezos-diz-que-trabalhar-mais-e-a-cura-para-a-ansiedade-o-estresse-desaparece/",
         "summary": "Fundador da Amazon afirma que agir é o verdadeiro antídoto para a ansiedade, e não a procrastinação The post Jeff Bezos diz que trabalhar mais é a cura para a ansiedade: O estresse desaparece appeared first on InfoMoney.",
@@ -337,34 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Quero pacificar o país , diz Caiado ao prometer indulto a Bolsonaro",
-        "link": "https://www.infomoney.com.br/politica/quero-pacificar-o-pais-diz-caiado-ao-prometer-indulto-a-bolsonaro/",
-        "summary": "Oficializado pelo PSD, ex-governador de Goiás critica polarização e adversários, e diz que Brasil não pode optar pelos \"maiores rejeitados da política nacional\" The post Quero pacificar o país , diz Caiado ao prometer in",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/FTA20260726023.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "title": "Nvidia vai ser 'fiadora' da OpenAI em empréstimo de US$ 250 bi para data center",
+        "link": "https://exame.com/inteligencia-artificial/nvidia-vai-ser-fiadora-da-openai-em-emprestimo-de-us-250-bi-para-data-center/",
+        "summary": "Projeto em Ohio terá energia controlada pelo governo americano e será financiado pelo Japão, revela o Wall Street Journal",
+        "image": null,
         "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Trump usa Firework para celebrar bombardeio e Katy Perry reage: Completa violação",
-        "link": "https://www.infomoney.com.br/mundo/trump-usa-firework-para-celebrar-bombardeio-e-katy-perry-reage-completa-violacao/",
-        "summary": "Casa Branca publicou vídeo de ataque iraniano com música da cantora como trilha; episódio repete padrão com Sabrina Carpenter e Kesha The post Trump usa Firework para celebrar bombardeio e Katy Perry reage: Completa viol",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/montagem-infomoney_61278d.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
-        "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Morre Octavio Gallotti, ex-presidente do STF, aos 95 anos",
-        "link": "https://www.infomoney.com.br/politica/morre-octavio-gallotti-ex-presidente-do-stf-aos-95-anos/",
-        "summary": "Ministro integrou a Corte de 1984 a 2000 e presidiu o tribunal entre 1993 e 1995; velório será realizado nesta segunda no STF, e sepultamento no Rio na terça The post Morre Octavio Gallotti, ex-presidente do STF, aos 95 ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/luisotaviogallotti.144002.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
-        "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Petróleo despenca 5% após EUA e Irã suspenderem ataques no Estreito de Ormuz",
@@ -410,16 +420,6 @@
         "title": "Oposição define candidatos para enfrentar Bukele em 2027",
         "link": "https://exame.com/mundo/oposicao-define-candidatos-para-enfrentar-bukele-em-2027/",
         "summary": "Arena e FMLN realizam eleições internas para definir candidatos à Presidência, enquanto Nayib Bukele busca um terceiro mandato consecutivo",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Mortes de migrantes colocam atuação do ICE em xeque",
-        "link": "https://exame.com/mundo/mortes-de-migrantes-colocam-atuacao-do-ice-em-xeque/",
-        "summary": "Decisão foi anunciada após dois migrantes morrerem baleados por agentes e um terceiro morrer durante uma operação migratória neste mês",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
