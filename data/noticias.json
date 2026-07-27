@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-27T04:39:34.974Z",
+  "updated": "2026-07-27T08:34:25.784Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Acidente Voepass: o que são cegueira e surdez por desatenção de pilotos citadas pelo Cenipa em relatório final",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/27/acidente-voepass-o-que-sao-cegueira-e-surdez-por-desatencao-de-pilotos-citadas-pelo-cenipa-em-relatorio-final.ghtml",
+        "summary": "Relatório do Cenipa identifica uma dinâmica de alta carga de trabalho na cabine Ao investigar a queda do avião da Voepass que matou 62 pessoas em Vinhedo (SP), em agosto de 2024, o Centro de Investigação e Prevenção de A",
+        "image": "https://s2-g1.glbimg.com/U6OEAQg62eIpnroGOIb24eNTw_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/o/Sw9Lo8Qpmx5MtDPgfDzg/000-36dh6mb.jpg",
+        "date": "27 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "'Informações falsas': presidente da Anac diz que agência foi enganada pela Voepass",
         "link": "https://g1.globo.com/fantastico/noticia/2026/07/26/presidente-da-anac-diz-que-agencia-foi-enganada-pela-voepass.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/carro-bate-em-pedagio-e-tres-pessoas-ficam-feridas-em-campinas.ghtml",
         "summary": "Acidente em praça de pedágio deixa feridos em Campinas Um carro bateu na praça de pedágio da Rodovia Governador Adhemar Pereira de Barros (SP-340), em Campinas (SP), neste domingo (26). O motorista morreu. Parte do teto ",
         "image": "https://s2-g1.glbimg.com/kgXQkYc__O5ZsPSrkxlcVsOm0cw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/o1IrT3STOVuybVGKqvhA/whatsapp-image-2026-07-26-at-11.25.59.jpeg",
-        "date": "26 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Voepass fingia consertar aviões para burlar prazo de segurança, diz relatório final do Cenipa",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/26/relatorio-final-da-voepass-empresa-fingia-consertar-avioes-para-burlar-prazo-de-seguranca-diz-cenipa.ghtml",
-        "summary": "Queda de avião da Voepass em Vinhedo: ex-piloto denuncia falhas O relatório final do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) sobre a queda do voo 2283 da Voepass, que matou 62 pessoas em Vin",
-        "image": "https://s2-g1.glbimg.com/RiSQlDBfimThMbdp359RyKnJiI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/u/r/H0yg7RQxGM59i3BCgsjw/000-36cc9f4.jpg",
         "date": "26 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,46 @@
     ],
     "esportes": [
       {
+        "title": "Análise: Corinthians sofre, mas consegue segurar empate contra o Bahia",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-sofre-mas-consegue-segurar-empate-contra-o-bahia/",
+        "summary": "Confira a análise do Corinthians no duelo com o Bahia, pela 20ª rodada do Campeonato Brasileiro. O post Análise: Corinthians sofre, mas consegue segurar empate contra o Bahia apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246880.webp",
+        "date": "27 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações: Calleri salva o São Paulo no empate com o Flamengo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/atuacoes-calleri-salva-o-sao-paulo-no-empate-com-o-flamengo/",
+        "summary": "Calleri voltou a balançar as redes após longo jejum e foi decisivo para salvar o São Paulo de mais uma derrota no Campeonato Brasileiro. No Maracanã, o camisa 9 marcou de cabeça o gol que garantiu o empate do Tricolor po",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55422165965_80878d48b9_o.webp",
+        "date": "27 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações do Palmeiras: Carlos Miguel é vilão e ataque não decide contra o Atlético-MG",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-palmeiras-atletico-mg-carlos-miguel-falha-brasileirao-2026/",
+        "summary": "O Palmeiras controlou a posse de bola e foi superior durante boa parte da partida, mas voltou a sofrer com a falta de eficácia no ataque e erros defensivos. Carlos Miguel falhou no primeiro gol do Atlético-MG, enquanto A",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_6264_44.carlosmiguel.webp",
+        "date": "27 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Análise: Palmeiras controla o jogo, mas paga caro por erros e falta de contundência",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/analise-palmeiras-atletico-mg-erros-falta-contundencia-brasileirao-2026/",
+        "summary": "O Palmeiras foi superior em posse de bola e controle da partida, mas voltou a sofrer com a falta de contundência no ataque e erros individuais na defesa. A derrota por 2 a 1 para o Atlético-MG, no Nubank Parque, acendeu ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_6222_40.webp",
+        "date": "27 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Paulo Turra isenta Neymar e diz que gestões são maior problema do Santos",
         "link": "https://www.gazetaesportiva.com/times/santos/paulo-turra-isenta-neymar-e-diz-que-gestoes-sao-maior-problema-do-santos/",
         "summary": "Paulo Turra defendeu Neymar e afirmou que o principal problema do Santos não é o atacante, mas sim questões de gestão que se arrastam há anos. Em participação no programa *Mesa Redonda*, o ex-técnico do Peixe disse que o",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/corinthians/negociacao-avanca-e-corinthians-fica-perto-de-renovar-com-memphis-depay/",
         "summary": "O Corinthians está próximo de renovar o contrato de Memphis Depay. O atacante holandês, que tinha vínculo até 31 de julho e era alvo de clubes da França e da Arábia Saudita, deve assinar um novo acordo por duas temporada",
         "image": "https://static.gazetaesportiva.com/uploads/2026/03/MEMPHIS_DEPAY-CORINTHIANS-HOLANDA-3003.webp",
-        "date": "27 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Brusque bate o Ituano em casa e dorme na liderança da Série C do Campeonato Brasileiro",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/brusque-bate-o-ituano-em-casa-e-dorme-na-lideranca-da-serie-c-do-campeonato-brasileiro/",
-        "summary": "O Brusque venceu o Ituano por 1 a 0 neste domingo, pela 15ª rodada da Série C, na Arena Simon. O único gol da partida foi marcado por João Pedro, aos 18 minutos do primeiro tempo, com um toque de letra após assistência d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/SaveClip.App_756724674_18401494348094296_1958498565533029660_n.webp",
-        "date": "27 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Abel evita cobrar reforços ao Palmeiras após fim de negociação com Danilo",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-evita-cobrar-reforcos-ao-palmeiras-apos-fim-de-negociacao-com-danilo/",
-        "summary": "Após a derrota por 2 a 1 para o Atlético-MG, Abel Ferreira também foi questionado sobre o elenco do Palmeiras e a possibilidade de novos reforços nesta janela de transferências. Nos últimos dias, o Botafogo recusou uma p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_destaque_6040_7.webp",
-        "date": "27 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Abel lamenta falta de eficiência do Palmeiras após derrota para o Atlético-MG",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-lamenta-falta-de-eficiencia-do-palmeiras-apos-derrota-para-o-atletico-mg/",
-        "summary": "O técnico Abel Ferreira deixou o Nubank Parque frustrado com a derrota do Palmeiras por 2 a 1 para o Atlético-MG, neste domingo, pela 20ª rodada do Campeonato Brasileiro. Apesar do revés, o treinador avaliou que sua equi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/26072026_cg_palmeiras_destaque_6069_10.99.webp",
-        "date": "27 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Novorizontino goleia Londrina fora de casa e vence depois de três jogos sem vitória na Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-goleia-londrina-fora-de-casa-e-vence-depois-de-tres-jogos-sem-vitoria-na-serie-b/",
-        "summary": "O Novorizontino goleou o Londrina por 4 a 1 fora de casa, pela 20ª rodada da Série B. Paulinho Moccelin abriu o placar para o Londrina, mas Rômulo, Robson, Reidiney e Carlão marcaram para os visitantes e garantiram a vir",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55422101830_cfdf720b34_o.webp",
         "date": "27 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Quem são as pessoas que protestam na Índia?",
+        "link": "https://www.infomoney.com.br/business/global/quem-sao-as-pessoas-que-protestam-na-india/",
+        "summary": "Alguns dos jovens manifestantes que forçaram a saída do ministro da Educação do país descreveram a raiva profunda, a frustração e os desejos que os levaram às ruas The post Quem são as pessoas que protestam na Índia? app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/INDIA-PROTESTERS-1.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "date": "27 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vender a empresa por US$ 400 milhões? Ele preferiu doá-la",
+        "link": "https://www.infomoney.com.br/business/global/vender-a-empresa-por-us-400-milhoes-ele-preferiu-doa-la/",
+        "summary": "Após a morte de seu único herdeiro, Eddie Smith, dono da Grady-White Boats, buscou uma forma de deixar seu legado. Inspirado pela Patagonia, ele prometeu destinar os lucros futuros da empresa à caridade The post Vender a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/BOAT-COMPANY-CHARITY-1.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+        "date": "27 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasília já vê Lula como favorito, mas ainda não descartou Flávio, diz analista",
+        "link": "https://www.infomoney.com.br/politica/brasilia-ja-ve-lula-como-favorito-mas-ainda-nao-desistiu-de-flavio-diz-analista/",
+        "summary": "Segundo analista da XP, pesquisas esfriaram o entusiasmo com a candidatura de Flávio, mas partidos ainda apostam que ele chegará ao segundo turno The post Brasília já vê Lula como favorito, mas ainda não descartou Flávio",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-mapa-risco-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "27 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Itamaraty convoca embaixador da Argentina para transmitir repulsa por fala de Milei",
         "link": "https://www.infomoney.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-transmitir-repulsa-por-fala-de-milei/",
         "summary": "Presidente da Argentina chamou Lula de' presidiário' e Alexandre de Moraes de 'lixo' durante convenção do PL ocorrida em São Paulo The post Itamaraty convoca embaixador da Argentina para transmitir repulsa por fala de Mi",
@@ -337,34 +367,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Jeff Bezos diz que trabalhar mais é a cura para a ansiedade: O estresse desaparece",
-        "link": "https://www.infomoney.com.br/business/global/jeff-bezos-diz-que-trabalhar-mais-e-a-cura-para-a-ansiedade-o-estresse-desaparece/",
-        "summary": "Fundador da Amazon afirma que agir é o verdadeiro antídoto para a ansiedade, e não a procrastinação The post Jeff Bezos diz que trabalhar mais é a cura para a ansiedade: O estresse desaparece appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/JEFF-BEZOS-SAYS-WORKING-HARDER-IS-THE-CURE-FOR-ANXIETY-THE-STRESS-GOES-AWAY-THE-SECOND-I-TAKE-THAT-FIRST-STEP-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "A maioria das pessoas usa só uma pequena parte do que a IA consegue fazer; veja o que está faltando",
+        "link": "https://exame.com/inteligencia-artificial/a-maioria-das-pessoas-usa-so-uma-pequena-parte-do-que-a-ia-consegue-fazer-veja-o-que-esta-faltando/",
+        "summary": "Enquanto muitos usuários limitam a inteligência artificial a perguntas rápidas e geração de textos, ferramentas atuais já conseguem atuar como apoio em planejamento, análise de dados, aprendizado e organização da rotina",
+        "image": null,
+        "date": "27 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Petróleo despenca após pausa dos EUA em ataques ao Irã",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-despenca-apos-pausa-dos-eua-em-ataques-ao-ira/",
-        "summary": "Brent cai mais de 7% na abertura da semana com alívio de tensões no Oriente Médio, mas conflito já dura cinco meses e mercado segue volátil The post Petróleo despenca após pausa dos EUA em ataques ao Irã appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/petroleo-bolsa-acoes-1.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Focus, convenções partidárias, balanços de Vivo e TIM: o que move os mercados hoje",
+        "link": "https://exame.com/invest/mercados/focus-convencoes-partidarias-balancos-de-vivo-e-tim-o-que-move-os-mercados-hoje/",
+        "summary": "Semana traz decisão do Fed, balanços de big techs e da Vale",
+        "image": null,
+        "date": "27 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Presidente da Síria sinaliza acordo de segurança com Israel: Paz abrangente",
-        "link": "https://www.infomoney.com.br/mundo/presidente-da-siria-sinaliza-acordo-de-seguranca-com-israel-paz-abrangente/",
-        "summary": "Em entrevista à Al Jazeera, Ahmed al-Sharaa diz esperar que pacto abra caminho para paz abrangente e afasta possibilidade de intervenção militar no Líbano The post Presidente da Síria sinaliza acordo de segurança com Isr",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-26T214656Z_1028723504_RC2NVKADR9OW_RTRMADP_3_SYRIA-ISRAEL.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
-        "date": "26 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "São Paulo é mais barata que Tóquio e Singapura para construir data center",
+        "link": "https://exame.com/mercado-imobiliario/sao-paulo-e-mais-barata-que-toquio-e-singapura-para-construir-data-center/",
+        "summary": "São Paulo lidera investimentos em infraestrutura digital, enquanto o setor industrial, logístico e de habitação também registra crescimento acelerado",
+        "image": null,
+        "date": "27 de jul. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Nvidia vai ser 'fiadora' da OpenAI em empréstimo de US$ 250 bi para data center",
@@ -390,36 +420,6 @@
         "title": "Poupança ou CDB? A conta que todo brasileiro deveria fazer",
         "link": "https://exame.com/invest/minhas-financas/poupanca-ou-cdb-a-conta-que-todo-brasileiro-deveria-fazer/",
         "summary": "O Brasil tem 60 milhões de investidores ativos e um recorde de aplicações em 2025. A poupança, pela primeira vez, está ficando para trás",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EUA deportam ex-jogador da NFL nascido no Quênia",
-        "link": "https://exame.com/mundo/eua-deportam-ex-jogador-da-nfl-nascido-no-quenia/",
-        "summary": "Caso ocorre em meio ao aumento das prisões de imigrantes durante o segundo mandato de Donald Trump",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Petróleo cai mais de 5% com expectativa de acordo EUA-Irã",
-        "link": "https://exame.com/mundo/petroleo-cai-mais-de-5-com-expectativa-de-acordo-eua-ira/",
-        "summary": "Brent e WTI recuaram mais de 5% na abertura dos mercados asiáticos após dois dias sem novos ataques entre Estados Unidos e Irã",
-        "image": null,
-        "date": "26 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Oposição define candidatos para enfrentar Bukele em 2027",
-        "link": "https://exame.com/mundo/oposicao-define-candidatos-para-enfrentar-bukele-em-2027/",
-        "summary": "Arena e FMLN realizam eleições internas para definir candidatos à Presidência, enquanto Nayib Bukele busca um terceiro mandato consecutivo",
         "image": null,
         "date": "26 de jul. de 2026",
         "source": "Exame",
