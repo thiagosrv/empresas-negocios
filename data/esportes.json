@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T18:47:40.700Z",
+  "updated": "2026-07-27T20:42:34.214Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,6 +11,17 @@
       "isoDate": "2026-07-27",
       "category": "Copa do Mundo",
       "categoryColor": "#2980b9",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Parreira apresenta melhora, recebe alta da UTI e segue em recuperação",
+      "link": "https://www.gazetaesportiva.com/times/brasil/carlos-alberto-parreira-deixa-uti/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "27 de jul. de 2026",
+      "isoDate": "2026-07-27",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
@@ -22,7 +33,7 @@
       "isoDate": "2026-07-26",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Além da Austrália, Seleção deve fazer amistoso na Índia na próxima Data Fifa",
@@ -33,7 +44,7 @@
       "isoDate": "2026-07-24",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil x Itália: veja onde assistir ao duelo pela semifinal da Liga das Nações de vôlei feminino",
@@ -44,7 +55,7 @@
       "isoDate": "2026-07-24",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Léo Figueiró assume o comando da Seleção Feminina Brasileira de Basquete",
@@ -67,17 +78,6 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://static.gazetaesportiva.com/uploads/2026/07/chatgpt-image-3-de-jul.-de-2026-15-53-14.avif"
-    },
-    {
-      "title": "De virada, Brasil vence Japão e avança às semifinais da Liga das Nações de Vôlei",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-vence-japao-semifinal-liga-das-nacoes-volei/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "22 de jul. de 2026",
-      "isoDate": "2026-07-22",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
     },
     {
       "title": "Titular da Seleção Brasileira, Casemiro é anunciado pelo Inter Miami",
