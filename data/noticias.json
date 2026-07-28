@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-28T08:40:59.602Z",
+  "updated": "2026-07-28T11:21:35.287Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Assista ao Bom Dia Cidade Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "date": "28 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Velocidade e inclinação: como mureta de pedágio virou rampa e lançou carro contra cobertura no interior de SP",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/velocidade-e-inclinacao-como-mureta-de-pedagio-virou-rampa-e-lancou-carro-contra-cobertura-no-interior-de-sp.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/27/mulher-gravida-e-agredida-com-socos-e-chutes-pelo-companheiro-em-hortolandia.ghtml",
         "summary": "Arma de fogo calibre 32 e 14 munições foram encontradas dentro da casa do agressor. Policia Militar Uma mulher gestante, de 28 anos, foi agredida com socos e chutes pelo companheiro na noite deste domingo (26), no Jardim",
         "image": "https://s2-g1.glbimg.com/zAO-oiV-IhR77n27Rm8YnMfu9og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/g/PYUEUTSwirs5EnEzaIBw/design-sem-nome-2026-07-27t173601.400.jpg",
-        "date": "27 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Sem frear, motorista desviou de outros carros antes de derrubar cobertura de pedágio, diz testemunha",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/27/motorista-nao-tentou-frear-antes-de-derrubar-cobertura-de-pedagio-no-interior-de-sp-diz-testemunha.ghtml",
-        "summary": "Câmera flagra momento em que carro derruba teto de pedágio; motorista morreu O motorista de 24 anos que morreu ao derrubar a cobertura de um pedágio em Campinas (SP), no domingo (26), desviou de outros carros e não tento",
-        "image": "https://s2-g1.glbimg.com/knAjj94ux2tHr_Cb14PRJosONjU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/I/4dRuxxR5AOWPFGoReRRg/whatsapp-image-2026-07-26-at-11.26.01.jpeg",
         "date": "27 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Gastos com apostas online no Rio chegam a R$ 2,2 bilhões anualmente",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/gastos-com-apostas-online-no-rio-chegam-r-22-bilhoes-anualmente",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/gastos-com-apostas-online-no-rio-chegam-r-22-bilhoes-anualmente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Beneficiários com NIS de final 7 recebem Bolsa Família de julho",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-7-recebem-bolsa-familia-de-julho",
+        "summary": "p A Caixa Econômica Federal paga nesta segunda-feira (27) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 6. strong Neste mês, o valor médio do benefício está em R$ 679",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Galípolo recebe presidente do BRB em meio a demora em resgate",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/galipolo-recebe-presidente-do-brb-em-meio-demora-em-resgate",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/galipolo-recebe-presidente-do-brb-em-meio-demora-em-resgate img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "SP: Defesa Civil reforça ajuda a locais atingidos por temporais",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/sp-defesa-civil-reforca-ajuda-locais-atingidos-por-temporais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/sp-defesa-civil-reforca-ajuda-locais-atingidos-por-temporais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "27 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Saiba como vai funcionar a biometria nas eleições deste ano",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/saiba-como-vai-funcionar-a-biometria-nas-eleicoes-deste-ano",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/saiba-como-vai-funcionar-a-biometria-nas-eleicoes-deste-ano img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "27 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Maldini e Leonardo renunciam aos cargos na seleção italiana após veto a Pirlo",
-        "link": "https://www.gazetaesportiva.com/times/italia/maldini-e-leonardo-renunciam-aos-cargos-na-selecao-italiana-apos-veto-a-pirlo/",
-        "summary": "Paolo Maldini e Leonardo deixaram seus cargos na Federação Italiana de Futebol apenas 16 dias após assumirem funções na reestruturação da seleção nacional. A saída ocorre após a FIGC descartar a contratação de Andrea Pir",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/gettyimages-1125488341-2048x1463-1.webp",
+        "title": "Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-crb-sobre-o-vila-nova-pela-serie-b/",
+        "summary": "Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B O post Melhores momentos da vitória do CRB sobre o Vila Nova pela Série B apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/CR.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Neymar posta foto com Bontempo e brinca: Moleque do c",
-        "link": "https://www.gazetaesportiva.com/times/santos/neymar-posta-foto-com-bontempo-e-brinca-moleque-do-c/",
-        "summary": "Nesta segunda-feira, após o último treino do Santos antes de enfrentar o UCV, pelos playoffs das oitavas da Copa Sul-Americana, Neymar publicou uma foto ao lado de Gabriel Bontempo e brincou com o jovem: \"Moleque do c...",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55423398292_744b30a868_o-2.webp",
+        "title": "Zinédine Zidane é anunciado como técnico da França",
+        "link": "https://www.gazetaesportiva.com/times/franca/zinedine-zidane-novo-tecnico-selecao-franca/",
+        "summary": "A Federação Francesa de Futebol oficializou nesta terça-feira a contratação de Zinédine Zidane como novo técnico da seleção da França. Ídolo dos Bleus e campeão mundial como jogador em 1998, Zidane assume o cargo após o ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260728__C3CW3H9__v1__HighRes__FblFraZidaneFff.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Boto reclama de pênalti não marcado em Flamengo x São Paulo e questiona semiautomático",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/boto-reclama-de-penalti-nao-marcado-em-flamengo-x-sao-paulo-e-questiona-semiautomatico/",
-        "summary": "O diretor de futebol do Flamengo, José Boto, se manifestou nesta segunda-feira sobre decisões da arbitragem no empate por 1 a 1 diante do São Paulo, no Maracanã, pelo Campeonato Brasileiro. Em vídeo, o dirigente rubro-ne",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/jose_boto_1.jpg_554688468.webp",
+        "title": "Rio de Janeiro vai sediar a grande final do CBLOL 2026",
+        "link": "https://www.gazetaesportiva.com/esports/rio-de-janeiro-sera-sede-da-grande-final-do-cblol-2026/",
+        "summary": "A Riot Games confirmou que a final do CBLOL 2026 será disputada em 10 de outubro, na Arena Carioca 1, no Parque Olímpico do Rio de Janeiro. A cidade volta a receber a decisão do principal campeonato brasileiro de League ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/image-2.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos x UCV pela Sul-Americana: onde assistir ao vivo, estatísticas e prováveis escalações",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-x-ucv-pela-sul-americana-onde-assistir-ao-vivo-estatisticas-e-provaveis-escalacoes/",
-        "summary": "Santos enfrenta a UCV nesta terça-feira, na Vila Belmiro, pelo jogo de volta dos playoffs da Sul-Americana. Veja onde assistir, escalações e mais. O post Santos x UCV pela Sul-Americana: onde assistir ao vivo, estatístic",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55419309329_5321a3ca9a_o-1.webp",
+        "title": "Com Angileri suspenso, Diniz ganha dor de cabeça na lateral esquerda do Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/com-angileri-suspenso-diniz-ganha-dor-de-cabeca-na-lateral-esquerda-do-corinthians/",
+        "summary": "O técnico Fernando Diniz ganhou uma dor de cabeça para o confronto diante do Athletico-PR, marcado para as 19h30 (de Brasília) desta quinta. Angileri foi advertido com seu terceiro cartão amarelo contra o Bahia neste dom",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246867-1.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com Neymar, Santos divulga relacionados para confronto decisivo na Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/santos/com-neymar-santos-divulga-relacionados-para-confronto-decisivo-na-sul-americana/",
-        "summary": "O Santos divulgou a lista de relacionados para o duelo contra a Universidad Central, da Venezuela, pelo jogo de volta dos playoffs da Copa Sul-Americana. Principal dúvida da equipe, Neymar treinou normalmente na véspera ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55424539159_5939a091a6_k222.webp",
+        "title": "Neymar e Gabigol lideram ranking de cartões do Santos no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/santos/astros-do-ataque-lideram-ranking-de-cartoes-do-santos-no-brasileirao/",
+        "summary": "Neymar e Gabigol estão entre os jogadores do Santos com mais cartões no Brasileirão; camisa 10 é o atacante mais advertido. O post Neymar e Gabigol lideram ranking de cartões do Santos no Brasileirão apareceu primeiro em",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55419331046_855c84ea35_o-1.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Guarani bate Inter de Limeira, volta a vencer e vai à vice-liderança da Série C",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/guarani-bate-inter-de-limeira-volta-a-vencer-e-vai-a-vice-lideranca-da-serie-c/",
-        "summary": "O Guarani venceu a Inter de Limeira por 3 a 1 no Brinco de Ouro da Princesa, encerrou uma sequência de quatro jogos sem vitória e assumiu a vice-liderança da Série C do Campeonato Brasileiro. Lucca e Kauã Jesus marcaram ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-27-at-21.34.33.webp",
+        "title": "Calleri transforma Flamengo em maior vítima e finda longo jejum no São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-finda-longo-jejum-sao-paulo/",
+        "summary": "O atacante Jonathan Calleri foi um dos protagonistas do São Paulo no empate em 1 a 1 com o Flamengo no último domingo, no Maracanã, pela 20ª rodada do Campeonato Brasileiro. O argentino balançou as redes de cabeça e find",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55420799257_627f006111_o.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,26 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Gastos com apostas online no Rio chegam a R$ 2,2 bilhões anualmente",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/gastos-com-apostas-online-no-rio-chegam-r-22-bilhoes-anualmente",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/gastos-com-apostas-online-no-rio-chegam-r-22-bilhoes-anualmente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Beneficiários com NIS de final 7 recebem Bolsa Família de julho",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-7-recebem-bolsa-familia-de-julho",
+        "summary": "p A Caixa Econômica Federal paga nesta segunda-feira (27) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 6. strong Neste mês, o valor médio do benefício está em R$ 679",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Galípolo recebe presidente do BRB em meio a demora em resgate",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/galipolo-recebe-presidente-do-brb-em-meio-demora-em-resgate",
@@ -287,89 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Entregador pode acessar crédito para moto e bicicleta a partir de hoje",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/entregador-pode-acessar-credito-para-moto-e-bicicleta-a-partir-de-hoje",
-        "summary": "p As agências bancárias e instituições financeiras credenciadas começam a ofertar nesta segunda-feira (27), as linhas de financiamento de moto, motoneta, ciclomotor ou bicicleta elétrica produzidos no país, com condições",
-        "image": null,
-        "date": "27 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Durigan: dívida do Brasil é menor do que a de grandes economias",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "27 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Por que Tarcísio se tornou o ativo mais disputado pelos concorrentes à Presidência",
-        "link": "https://www.infomoney.com.br/politica/por-que-tarcisio-se-tornou-o-ativo-mais-disputado-pelos-concorrentes-a-presidencia/",
-        "summary": "Flávio Bolsonaro e Ronaldo Caiado disputam a associação com o governador de São Paulo, que tenta equilibrar alianças sem comprometer a própria reeleição The post Por que Tarcísio se tornou o ativo mais disputado pelos co",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-21-at-09.23.29.jpeg?fit=300%2C173&amp;quality=70&amp;strip=all",
+        "title": "As escolhas do JPMorgan em ações de “utilities” após desempenho abaixo do setor",
+        "link": "https://www.infomoney.com.br/mercados/as-escolhas-do-jpmorgan-em-acoes-de-utilities-apos-desempenho-abaixo-do-setor/",
+        "summary": "Com a disparada das taxas reais e a queda nos preços de energia no curto prazo, análise indica postura mais seletiva para o setor e divide apostas entre nomes táticos, estruturais e defensivos The post As escolhas do JPM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-30T193654Z_1_LYNXMPEM2T16K_RTROPTP_4_SPAIN-ENERGY-OUTAGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Oportunidades no radar: 5 ações para ficar de olho na temporada do 2T, segundo o BBA",
-        "link": "https://www.infomoney.com.br/mercados/oportunidades-no-radar-5-acoes-para-ficar-de-olho-na-temporada-do-2t-segundo-o-bba/",
-        "summary": "Embraer e Smart Fit devem estar entre os destaques da temporada, de acordo com os estrategistas The post Oportunidades no radar: 5 ações para ficar de olho na temporada do 2T, segundo o BBA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-29T141042Z_1_LYNXMPEK4S0MF_RTROPTP_4_BOLSA-IBOVESPA-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Tupy (TUPY3) contrata financiamento junto ao BNDES no valor de R$ 600 milhões",
+        "link": "https://www.infomoney.com.br/mercados/tupy-tupy3-contrata-financiamento-junto-ao-bndes-no-valor-de-r-600-milhoes/",
+        "summary": "As operações possuem o prazo total de 60 meses The post Tupy (TUPY3) contrata financiamento junto ao BNDES no valor de R$ 600 milhões appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-30-at-19.27.05.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tesouro IPCA+: quanto tempo é preciso para juntar R$ 100 mil começando do zero?",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-quanto-tempo-e-preciso-para-juntar-r-100-mil-comecando-do-zero/",
-        "summary": "Simulação mostra tempo parecido em todos os títulos do Tesouro IPCA+, mesmo com taxas diferentes The post Tesouro IPCA+: quanto tempo é preciso para juntar R$ 100 mil começando do zero? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/real_moeda_agencia_brasil.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Grupo Toky (TOKY3) aprova grupamento na proporção de 20 para 1",
+        "link": "https://www.infomoney.com.br/mercados/grupo-toky-toky3-aprova-grupamento-na-proporcao-de-20-para-1/",
+        "summary": "A operação tem como objetivo o enquadramento da cotação das ações de emissão da companhia em valor igual ou superior a R$ 1,00 por unidade The post Grupo Toky (TOKY3) aprova grupamento na proporção de 20 para 1 appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/tokstokdivulg.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BDRs ganham espaço na Bolsa como via de acesso a ETFs estrangeiros",
-        "link": "https://www.infomoney.com.br/onde-investir/bdrs-ganham-espaco-na-bolsa-como-via-de-acesso-a-etfs-estrangeiros/",
-        "summary": "Para head de alocação da HMC Capital, diferença de custo entre as estruturas passa despercebida The post BDRs ganham espaço na Bolsa como via de acesso a ETFs estrangeiros appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/viarami-etf-8282274_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Grande terremoto no sul do Japão causa falta de energia e interrompe transporte",
+        "link": "https://www.infomoney.com.br/mundo/grande-terremoto-no-sul-do-japao-causa-falta-de-energia-e-interrompe-transporte/",
+        "summary": "Em declarações à imprensa em seu gabinete em Tóquio, a primeira-ministra japonesa, Sanae Takaichi, disse que a extensão das vítimas e dos danos materiais estava sendo avaliada The post Grande terremoto no sul do Japão ca",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-28-074533.png?fit=300%2C203&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Astronauta Marcos Pontes se coloca à disposição para ser vice de Flávio Bolsonaro",
-        "link": "https://www.infomoney.com.br/politica/astronauta-marcos-pontes-se-coloca-a-disposicao-para-ser-vice-de-flavio-bolsonaro/",
-        "summary": "O senador Flávio Bolsonaro teve sua candidatura à Presidência homologada no último sábado, 25, durante convenção nacional do PL The post Astronauta Marcos Pontes se coloca à disposição para ser vice de Flávio Bolsonaro a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/marcos-pontes.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Bolsas da Ásia caem, índice Kospi tomba quase 11% e é suspenso temporariamente",
+        "link": "https://www.infomoney.com.br/mercados/bolsas-da-asia-caem-indice-kospi-tomba-quase-11-e-e-suspenso-temporariamente/",
+        "summary": "Movimento ocorre em meio a uma forte liquidação de ações de fabricantes de chips The post Bolsas da Ásia caem, índice Kospi tomba quase 11% e é suspenso temporariamente appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-03-154527.png?fit=300%2C203&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Johnson Johnson pagará US$ 5,5 bi para encerrar processos relacionados a talco",
-        "link": "https://www.infomoney.com.br/business/johnson-johnson-pagara-us-55-bi-para-encerrar-processos-relacionados-a-talco/",
-        "summary": "Os escritórios de advocacia dos demandantes confirmaram o acordo nesta segunda-feira The post Johnson Johnson pagará US$ 5,5 bi para encerrar processos relacionados a talco appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-23-161410.png?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28072026/",
+        "summary": "Futuros nos EUA operam mistos, de olho nas ações de chips The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-6-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "120 mil milhas em um ano: como o cartão TAP BTG Pactual Black acelera sua próxima viagem à Europa",
-        "link": "https://exame.com/carreira/120-mil-milhas-em-um-ano-como-o-cartao-tap-btg-pactual-black-acelera-sua-proxima-viagem-a-europa/",
-        "summary": "Com pontuação por dólar, bônus de 45 mil milhas e acúmulo que não expira enquanto estiver ativo, cartão TAP BTG Pactual Black mira viajantes frequentes",
+        "title": "'Tinder' do governo japonês resulta em 265 casamentos",
+        "link": "https://exame.com/mundo/app-de-namoro-com-ia-do-governo-japones-resulta-em-265-casamentos/",
+        "summary": "Aplicativo de namoro exige comprovação de estado civil e já formou 760 casais em relacionamentos sérios",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "O erro que quase todo mundo comete ao conversar com o ChatGPT",
-        "link": "https://exame.com/inteligencia-artificial/o-erro-que-quase-todo-mundo-comete-ao-conversar-com-o-chatgpt/",
-        "summary": "Especialistas em engenharia de prompts apontam que pequenas mudanças na forma de escrever podem melhorar significativamente os resultados",
+        "title": "Nestlé abre vagas para trainee: ‘Queremos preparar a juventude para o futuro do trabalho’, diz VP",
+        "link": "https://exame.com/carreira/nestle-abre-vagas-para-trainee-queremos-preparar-a-juventude-para-o-futuro-do-trabalho-diz-vp/",
+        "summary": "Neste ano, a multinacional oferece curso gratuito de IA para todos os candidatos: veja requisitos e como participar",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Da Augusta a Pinheiros: como o avanço imobiliário está mudando a boemia paulistana",
-        "link": "https://exame.com/mercado-imobiliario/da-augusta-a-pinheiros-como-o-avanco-imobiliario-esta-mudando-a-boemia-paulistana/",
-        "summary": "O Bar do Biu vai fechar após 40 anos e o Caracol retorna ao Centro; bares e restaurantes icônicos dão lugar a empreendimentos imobiliários",
+        "title": "Como este publicitário vai faturar R$ 15 mi transformando receitas culinárias em dados para marcas",
+        "link": "https://exame.com/negocios/como-este-publicitario-vai-faturar-r-15-mi-transformando-receitas-culinarias-em-dados-para-marcas/",
+        "summary": "Fundada em Maringá, no Paraná, plataforma combina audiência, conteúdo para marcas e inteligência artificial",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Reforma tributária acelera doação de imóveis a herdeiros: vale a pena antecipar?",
-        "link": "https://exame.com/mercado-imobiliario/reforma-tributaria-acelera-doacao-de-imoveis-a-herdeiros-vale-a-pena-antecipar/",
-        "summary": "Mudanças nas regras de tributação impulsionam o planejamento sucessório, mas especialistas alertam que a antecipação não é vantajosa para todas as famílias",
+        "title": "Governo aciona OMC contra novas tarifas impostas pelos EUA",
+        "link": "https://exame.com/brasil/governo-aciona-omc-contra-novas-tarifas-impostas-pelos-eua/",
+        "summary": "Pedido contesta duas sobretaxas anunciadas pelo governo Trump, que podem elevar a tarifa sobre parte das exportações brasileiras para 37,5%",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Lucro do FGTS: veja qual é o saldo do fundo e quem tem direito à distribuição",
-        "link": "https://exame.com/invest/minhas-financas/lucro-do-fgts-veja-qual-e-o-saldo-do-fundo-e-quem-tem-direito-a-distribuicao/",
-        "summary": "Conselho Curador se reúne nesta terça, 28, para definir a fatia do resultado que vai para as contas;",
+        "title": "Bolsa da Coreia do Sul vira 'termômetro de IA' para Wall Street",
+        "link": "https://exame.com/invest/mercados/bolsa-da-coreia-do-sul-vira-termometro-de-ia-para-wall-street/",
+        "summary": "Peso de Samsung e SK Hynix no Kospi aumenta ligação com ações de tecnologia dos EUA",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -417,11 +417,11 @@
         "cls": "startups"
       },
       {
-        "title": "Ter apenas um modelo de IA na empresa pode ser arriscado, alerta especialista",
-        "link": "https://exame.com/esferabrasil/ter-apenas-um-modelo-de-ia-na-empresa-pode-ser-arriscado-alerta-especialista/",
-        "summary": "Escolha de tecnologia deve ser consequência da estratégia, e não o ponto de partida",
+        "title": "BHP exporta presidente brasileiro para a Austrália e prepara nova fase da Samarco",
+        "link": "https://exame.com/exame-in/bhp-exporta-executivo-brasileiro-para-a-australia-e-inicia-nova-fase-no-brasil-apos-mariana/",
+        "summary": "Depois de liderar a operação brasileira durante a assinatura do acordo de reparação de Mariana, Emir Calluf Filho assume a diretoria global de Ética, Compliance e Direitos Humanos da BHP, na Austrália",
         "image": null,
-        "date": "27 de jul. de 2026",
+        "date": "28 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
