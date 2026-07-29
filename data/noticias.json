@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-29T15:50:52.404Z",
+  "updated": "2026-07-29T17:19:03.758Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Animal conhecido por apenas 9 exemplares pode ter desaparecido antes mesmo de ser estudado",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/29/animal-conhecido-por-apenas-9-exemplares-pode-ter-desaparecido-antes-mesmo-de-ser-estudado.ghtml",
+        "summary": "Juscelinomys candango, ou rato-candango (uma das úncias imagens conhecidas do animal) Felipe1455 / Wiki media commons Um pequeno roedor encontrado durante a construção de Brasília tornou-se um dos maiores mistérios da fa",
+        "image": "https://s2-g1.glbimg.com/A9-71WjwHb7sPScIaY4z1HIzsGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/e/UjNkVeSeCANyxOmGeTpQ/imagens-para-materia-11-.jpg",
+        "date": "29 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Justiça dá 90 dias para Estado reduzir superlotação em presídio de Americana",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/justica-da-90-dias-para-estado-reduzir-superlotacao-em-presidio-de-americana.ghtml",
@@ -17,16 +27,6 @@
         "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/29/cartas-de-vinho-do-interior-paulista-ao-sul-de-minas-saiba-como-rota-da-uva-impulsionou-tradicao-centenaria.ghtml",
         "summary": "'Cartas de Vinho': grupo já degustou mais de 1,6 mil vinhos em 23 anos de encontros A história da produção de vinhos no Brasil passa por trilhos, imigração e adaptação ao território. Depois das primeiras tentativas frust",
         "image": "https://s2-g1.glbimg.com/CB-iGRMvEJdLRb05lpJ6KMRqBSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/A/X1KBBDQJSKlBgKOPFXHA/andradas14.png",
-        "date": "29 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
         "date": "29 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Anvisa registra 5 novas canetas de semaglutida para tratar diabetes",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-registra-5-novas-canetas-de-semaglutida-para-tratar-diabetes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-registra-5-novas-canetas-de-semaglutida-para-tratar-diabetes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "29 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Anac limita a venda de passagens aéreas da Flybondi no Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/anac-limita-venda-de-passagens-aereas-da-flybondi-no-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/anac-limita-venda-de-passagens-aereas-da-flybondi-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "29 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "MP: ação em São José dos Campos mira lavagem de dinheiro ligada ao PCC",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/mp-acao-em-sao-jose-dos-campos-mira-lavagem-de-dinheiro-ligada-ao-pcc",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/mp-acao-em-sao-jose-dos-campos-mira-lavagem-de-dinheiro-ligada-ao-pcc img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "“Racismo foi reduzido a chamar alguém de macaco”, critica escritora",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/racismo-foi-reduzido-chamar-alguem-de-macaco-critica-escritora",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/racismo-foi-reduzido-chamar-alguem-de-macaco-critica-escritora img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Representação indígena vai além de candidatos eleitos, diz cineasta",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/representacao-indigena-vai-alem-de-candidatos-eleitos-diz-cineasta",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/representacao-indigena-vai-alem-de-candidatos-eleitos-diz-cineasta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Meia da Inglaterra na Copa rescinde com clube para assinar com o Chelsea​‌",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/meia-da-inglaterra-na-copa-rescinde-com-clube-para-assinar-com-o-chelsea/",
-        "summary": "Jordan Henderson rescindiu amigavelmente seu contrato com o Brentford e está perto de ser anunciado pelo Chelsea. Aos 36 anos, o ex-capitão do Liverpool assinará por duas temporadas e faz parte da nova estratégia dos Blu",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/07/Jordan_Henderson_signing_hero_j8iy0y.avif",
+        "title": "Cobrança de falta perfeita de Tel no teste dos Spurs em Sydney",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/cobranca-de-falta-perfeita-de-tel-no-teste-dos-spurs-em-sydney/",
+        "summary": "Uma pintura na Austrália! Mathys Tel marcou um golaço de falta no empate em 1 a 1 dos Spurs contra o Sydney FC durante a turnê de pré-temporada. O post Cobrança de falta perfeita de Tel no teste dos Spurs em Sydney apare",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/teste-dos-Spurs-em.webp",
         "date": "29 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bastidores: a assinatura do novo contrato de Khusanov com o Manchester City",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/bastidores-a-assinatura-do-novo-contrato-de-khusanov-com-o-manchester-city/",
-        "summary": "Bastidores: a assinatura do novo contrato de Khusanov com o Manchester City O post Bastidores: a assinatura do novo contrato de Khusanov com o Manchester City apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Khusanov.webp",
+        "title": "Newton revela conversa com dupla antes de fechar com o São Paulo e celebra: Impossível recusar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/newton-revela-conversa-com-dupla-antes-de-fechar-com-o-sao-paulo-e-celebra-impossivel-recusar/",
+        "summary": "Confira como foi a apresentação oficial de Newton como novo reforço do São Paulo. Ele é o terceiro contratado do clube nesta janela, junto de Victor Sá e Aurélio Buta. O post Newton revela conversa com dupla antes de fec",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-29-at-14.06.36.webp",
         "date": "29 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Jogadores e técnico Artur Jorge recebem visita emocionante na Toca 2",
-        "link": "https://www.gazetaesportiva.com/times/cruzeiro/jogadores-e-tecnico-artur-jorge-recebem-visita-emocionante-na-toca-2/",
-        "summary": "Jogadores e técnico Artur Jorge recebem visita emocionante na Toca 2 O post Jogadores e técnico Artur Jorge recebem visita emocionante na Toca 2 apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Jogado.webp",
+        "title": "Muito provavelmente vou me aposentar ao final da temporada, avisa Neuer",
+        "link": "https://www.gazetaesportiva.com/times/bayern/muito-provavelmente-vou-me-aposentar-ao-final-da-temporada-avisa-neuer/",
+        "summary": "Manuel Neuer indicou que deve encerrar a carreira ao fim da temporada 2026/27. Aos 40 anos, o goleiro renovou recentemente com o Bayern de Munique até 2027 e afirmou que a permanência por mais um ano foi motivada pela co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/03/NEUER_AFP__20260306__A2AM8WT__v1__MidRes__FblGerBundesligaBayernMunichMoenchengladbach.webp",
         "date": "29 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bastidores da viagem do Palmeiras para Salvador",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/bastidores-da-viagem-do-palmeiras-para-salvador/",
-        "summary": "O Palmeiras chegou a Salvador para o confronto com o Vitória, no Barradão, pela 21ª rodada do Campeonato Brasileiro; confira como foi a viagem. O post Bastidores da viagem do Palmeiras para Salvador apareceu primeiro em ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Basti.webp",
+        "title": "Goleiro que brilhou contra o Brasil na Copa do Mundo entra na mira de Juventus e PSG",
+        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/juventus-psg-disputa-zion-suzuki/",
+        "summary": "A Juventus intensificou as negociações para contratar o goleiro Zion Suzuki, do Parma, mas passou a enfrentar a concorrência do Paris Saint-Germain. Avaliado em cerca de 30 milhões de euros, o japonês de 23 anos é visto ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/destaque-do-japao-na-copa-zion-suzuki-e-alvo-de-cl-00919164-f48f9a1def867236294e07f7d57f2801-7.webp",
         "date": "29 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Mauricio Pochettino está perto de renovar com a seleção dos Estados Unidos, afirma jornal",
-        "link": "https://www.gazetaesportiva.com/times/estados-unidos/mauricio-pochettino-esta-perto-de-renovar-com-a-selecao-dos-estados-unidos-afirma-jornal/",
-        "summary": "Mauricio Pochettino está próximo de renovar seu contrato com a seleção dos Estados Unidos até a Copa do Mundo de 2030. Após conduzir os norte-americanos a uma campanha histórica no Mundial de 2026, o treinador argentino ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260702__2284262457__v1__HighRes__UsaVBosniaAndHerzegovinaRoundOf32FifaWorldCu.webp",
+        "title": "Mendoza prega respeito em reencontro com o Corinthians pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/mendoza-prega-respeito-em-reencontro-com-o-corinthians-pelo-brasileirao/",
+        "summary": "O Athletico-PR venceu o Internacional por 2 a 0 na última rodada do Brasileirão e ampliou a sua sequência positiva na competição, chegando ao quinto jogo de invencibilidade com quatro vitórias seguidas. Agora, o Furacão ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-29-at-12.54.59-1.webp",
         "date": "29 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Arsenal inicia pré-temporada em Girona",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-inicia-pre-temporada-em-girona/",
-        "summary": "Arsenal inicia pré-temporada em Girona O post Arsenal inicia pré-temporada em Girona apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Arse.webp",
+        "title": "Bastidores: O primeiro dia de Zidane como técnico da Seleção Francesa",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-o-primeiro-dia-de-zidane-como-tecnico-da-selecao-francesa/",
+        "summary": "O retorno do rei! Confira os detalhes inéditos da apresentação oficial de Zinedine Zidane no comando dos Les Bleus. O post Bastidores: O primeiro dia de Zidane como técnico da Seleção Francesa apareceu primeiro em Gazeta",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/6wl67inu-1920.webp",
         "date": "29 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Rússia acusa fundador do Telegram de apoiar terrorismo; empresário reage",
-        "link": "https://www.infomoney.com.br/mundo/russia-acusa-fundador-do-telegram-de-apoiar-terrorismo-empresario-reage/",
-        "summary": "Rússia acusa fundador do Telegram de apoiar terrorismo, que responde com gesto obsceno The post Rússia acusa fundador do Telegram de apoiar terrorismo; empresário reage appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/TechCrunch_Disrupt_Europe_Berlin_2013_10536888854.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Usiminas, Gerdau e CSN: o que esperar para os resultados das siderúrgicas no 2T26?",
+        "link": "https://www.infomoney.com.br/mercados/usiminas-gerdau-e-csn-o-que-esperar-para-os-resultados-das-siderurgicas-no-2t26/",
+        "summary": "Melhora operacional e maior poder de precificação devem impulsionar as siderúrgicas no período The post Usiminas, Gerdau e CSN: o que esperar para os resultados das siderúrgicas no 2T26? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-24-133955.png?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "29 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Democratas pressionam SEC por apuração sobre posts de Trump",
-        "link": "https://www.infomoney.com.br/mundo/democratas-pressionam-sec-por-apuracao-sobre-posts-de-trump/",
-        "summary": "A Trump Media ‌é controladora do Truth Social, a rede social criada por Trump The post Democratas pressionam SEC por apuração sobre posts de Trump appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460853080.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "STF autoriza cooperação internacional para rastrear patrimônio ligado ao Banco Master",
+        "link": "https://www.infomoney.com.br/politica/stf-autoriza-cooperacao-internacional-para-rastrear-patrimonio-ligado-ao-banco-master/",
+        "summary": "Polícia Federal quer localizar ativos no exterior, incluindo um iate de R$ 500 milhões, na investigação sobre supostas fraudes envolvendo Daniel Vorcaro The post STF autoriza cooperação internacional para rastrear patrim",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/whatsapp-image-2026-03-04-at-100014.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "29 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "UBS divulga lucro acima das expectativas e anuncia nova recompra de ações de US$3 bi",
-        "link": "https://www.infomoney.com.br/mercados/ubs-divulga-lucro-acima-das-expectativas-e-anuncia-nova-recompra-de-acoes-de-us3-bi/",
-        "summary": "O lucro líquido atribuível aos acionistas ficou em US$2,8 bilhões The post UBS divulga lucro acima das expectativas e anuncia nova recompra de ações de US$3 bi appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454418333.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "MG: Assessoria de Cleitinho entra em choque com Republicanos e reafirma candidatura",
+        "link": "https://www.infomoney.com.br/politica/mg-assessoria-de-cleitinho-entra-em-choque-com-republicanos-e-reafirma-candidatura/",
+        "summary": "Equipe do senador confirma disputa pelo governo, enquanto direção nacional da legenda mantém posição de que candidatura não existe e já trabalha com outro nome The post MG: Assessoria de Cleitinho entra em choque com Rep",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/cleitinho-azevedo-1.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "29 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Cheiro de gás foi detectado em shopping; sobe para 18 o número de mortos no Japão",
-        "link": "https://www.infomoney.com.br/mercados/cheiro-de-gas-foi-detectado-em-shopping-sobe-para-18-o-numero-de-mortos-no-japao/",
-        "summary": "Os tremores deixaram pelo menos 18 mortos The post Cheiro de gás foi detectado em shopping; sobe para 18 o número de mortos no Japão appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-28T225747Z_1_LYNXMPEM6R1UK_RTROPTP_4_JAPAN-QUAKE.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "Brasil já soma 1.709 novos assessores de investimento em 2026; veja perfil",
+        "link": "https://www.infomoney.com.br/advisor/brasil-ja-soma-1-709-novos-assessores-de-investimento-em-2026-veja-perfil/",
+        "summary": "Em junho, o país contabilizou 27.203 assessores de investimento; o número representa um crescimento de 2,8% de assessores vinculados nos últimos 12 meses The post Brasil já soma 1.709 novos assessores de investimento em ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/24379.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "29 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Austrália confirma propagação da gripe aviária H5N1 na população de aves nativas",
-        "link": "https://www.infomoney.com.br/mundo/australia-confirma-propagacao-da-gripe-aviaria-h5n1-na-populacao-de-aves-nativas/",
-        "summary": "Atualmente, ​não há casos de infecção na ⁠indústria avícola australiana The post Austrália confirma propagação da gripe aviária H5N1 na população de aves nativas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2021-07-06t172247z_1_lynxnpeh6512c_rtroptp_4_health-birdflu-china.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "A assessora que encontrou na corrida de montanha um diferencial para a carreira",
+        "link": "https://www.infomoney.com.br/advisor/a-assessora-que-encontrou-na-corrida-de-montanha-um-diferencial-para-a-carreira/",
+        "summary": "Cláudia Santaela é Senior Partner da W1 Capital, lidera uma equipe de 13 pessoas, atende clientes em São Paulo, Goiânia e Vitória e responde por uma carteira de cerca de R$ 96 milhões The post A assessora que encontrou n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Claudia1_Reproducao_Redes-sociais.png?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "29 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Bradesco BBI eleva Cogna para compra e elege ação como top pick do setor de educação",
-        "link": "https://www.infomoney.com.br/mercados/bradesco-bbi-eleva-cogna-para-compra-e-elege-acao-como-top-pick-do-setor-de-educacao/",
-        "summary": "BBI também rebaixou a recomendação de Ânima de compra para neutra The post Bradesco BBI eleva Cogna para compra e elege ação como top pick do setor de educação appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Cogna.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "IPO da Shein vem aí: como abertura de capital pode afetar ações de varejistas na B3?",
+        "link": "https://www.infomoney.com.br/mercados/ipo-da-shein-vem-ai-como-abertura-de-capital-pode-afetar-acoes-de-varejistas-na-b3/",
+        "summary": "Prospecto do IPO revela desaceleração das vendas da Shein em mercados desenvolvidos, mas analistas alertam que Brasil pode se tornar alvo prioritário da expansão da companhia The post IPO da Shein vem aí: como abertura d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-09-24T164045Z_1811632593_RC2FYGAVPDYK_RTRMADP_3_SHEIN-BRITAIN.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
         "date": "29 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Japão registra novo terremoto após tremor que deixou 18 mortos",
-        "link": "https://exame.com/mundo/japao-registra-novo-terremoto-apos-tremor-que-deixou-18-mortos/",
-        "summary": "Abalo de magnitude 5,8 ocorreu um dia após o terremoto de 7,1 que matou 18 pessoas; autoridades alertam para novas réplicas",
+        "title": "Endrick pode perder espaço no Real Madrid e empréstimo ganha força para a temporada",
+        "link": "https://exame.com/esporte/endrick-pode-perder-espaco-no-real-madrid-e-emprestimo-ganha-forca-para-a-temporada/",
+        "summary": "Mourinho aprova permanência de Gonzalo García, Mastantuono impressiona na pré-temporada e clube avalia ceder jovens para garantir mais minutos",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Neymar confirma aposentadoria da Seleção Brasileira após Copa do Mundo de 2026",
-        "link": "https://exame.com/esporte/neymar-confirma-aposentadoria-da-selecao-brasileira-apos-copa-do-mundo-de-2026/",
-        "summary": "Atacante confirma que não voltará a vestir a camisa do Brasil e encerra trajetória com 130 jogos, 80 gols e quatro Mundiais disputados",
+        "title": "Itália anuncia retorno de Roberto Mancini após crise na seleção e saída de Gattuso",
+        "link": "https://exame.com/esporte/italia-anuncia-retorno-de-roberto-mancini-apos-crise-na-selecao-e-saida-de-gattuso/",
+        "summary": "Técnico campeão da Eurocopa volta ao comando da Azzurra em meio a mudanças na federação e polêmica que provocou a saída de dirigentes",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Republicanos rebate Cleitinho e diz que senador nunca assumiu candidatura ao governo de MG",
-        "link": "https://exame.com/brasil/republicanos-rebate-cleitinho-e-diz-que-senador-nunca-assumiu-candidatura-ao-governo-de-mg/",
-        "summary": "Texto do partido expõe tensão com senador devido a sucessivos recuos; parlamentar lidera pesquisas de intenção de voto",
+        "title": "Ferrari acelera preparação de Rafael Câmara e Haas pode ser próximo destino do brasileiro",
+        "link": "https://exame.com/esporte/ferrari-acelera-preparacao-de-rafael-camara-e-haas-pode-ser-proximo-destino-do-brasileiro/",
+        "summary": "Piloto da Academia Ferrari participou de testes em Fiorano e surge como candidato a futuras atividades da equipe americana na Fórmula 1",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Jumanji: Mundo Aberto' ganha primeira trailer; veja o vídeo",
-        "link": "https://exame.com/pop/jumanji-mundo-aberto-ganha-primeira-trailer-veja-o-video/",
-        "summary": "Primeiro trailer mostra retorno de estrelas dos filmes anteriores, como Dwayne Johnson, Kevin Hart e Jack Black; filme estreia em dezembro",
+        "title": "Aston Martin antecipa estreia de motor da Honda em teste antes das 'férias' da F1",
+        "link": "https://exame.com/esporte/aston-martin-antecipa-estreia-de-motor-da-honda-em-teste-antes-das-ferias-da-f1/",
+        "summary": "Equipe permanecerá na Hungria para dia de filmagem e coleta de dados antes de levar a nova unidade de potência às pistas",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Bacio di Latte dá segundo pote de gelato grátis em nova edição de 'Bacio em Dobro'",
-        "link": "https://exame.com/marketing/bacio-di-latte-da-segundo-pote-de-gelato-gratis-em-nova-edicao-de-bacio-em-dobro/",
-        "summary": "Promoção acontece por um dia e é válida para compras em lojas físicas e pelos canais de delivery",
+        "title": "Defesa Civil emite alerta severo para fortes rajadas de vento em SP",
+        "link": "https://exame.com/brasil/defesa-civil-emite-alerta-severo-para-fortes-rajadas-de-vento-em-sp/",
+        "summary": "Frente fria atinge São Paulo entre quarta (29) e quinta-feira (30), com rajadas de até 90 km/h na Grande SP e na Baixada Santista. Veja o que pode acontecer e como se preparar",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Posso usar lucro do FGTS para pagar financiamento imobiliário?",
-        "link": "https://exame.com/mercado-imobiliario/posso-usar-lucro-do-fgts-para-pagar-financiamento-imobiliario/",
-        "summary": "O dinheiro do lucro não é sacado à parte, mas reforça o saldo que a Caixa autoriza a usar na amortização do imóvel",
+        "title": "Por que empresas brasileiras têm mais a ganhar com automação do que imaginam",
+        "link": "https://exame.com/lideres-extraordinarios/por-que-empresas-brasileiras-tem-mais-a-ganhar-com-automacao-do-que-imaginam/",
+        "summary": "A IA generativa não criou a automação de processos. Ela removeu as barreiras que impediam a maioria das empresas de usá-la",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
