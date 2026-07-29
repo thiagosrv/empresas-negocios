@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-28T22:08:32.076Z",
+  "updated": "2026-07-29T00:01:00.679Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Defesa Civil alerta para ventos fortes com chegada de frente fria em Campinas e região; chuva deve ser isolada",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/defesa-civil-alerta-para-ventos-fortes-com-chegada-de-frente-fria-em-campinas-e-regiao-chuva-deve-ser-isolada.ghtml",
+        "summary": "Tempo nublado em Campinas. Marcello Carvalho/g1 A Defesa Civil de Campinas (SP) emitiu um alerta para ventos fortes na região, por conta da chegada de uma frente fria entre esta quarta-feira (29) e quinta-feira (30). Seg",
+        "image": "https://s2-g1.glbimg.com/NU9JpVFyzmFiXqaXWtTdwhfUrVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/n/q/wYdVA8T3WMKfA1Jg0jSg/campinas-5.jpeg",
+        "date": "28 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Caminhão atravessa canteiro central, bate em carro e deixa quatro pessoas feridas em Indaiatuba",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/caminhao-atravessa-canteiro-central-bate-em-carro-e-deixa-quatro-pessoas-feridas-em-indaiatuba.ghtml",
@@ -13,17 +23,7 @@
         "cls": "brasil"
       },
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-        "date": "28 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO mostra resgate de criança que ficou 9 horas presa em lamaçal no meio de mata em Americana",
+        "title": "VÍDEO mostra resgate de criança que ficou 9 horas presa em lamaçal no meio de mata no interior de SP",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/28/video-mostra-resgate-de-crianca-que-ficou-presa-em-lamacal-no-meio-de-mata-em-americana.ghtml",
         "summary": "Criança é resgatada após ficar presa em lamaçal no meio de mata em americana O momento em que um menino de 11 anos foi resgatado após ficar nove horas preso em um lamaçal, em Americana (SP), foi registrado pela câmera co",
         "image": "https://s2-g1.glbimg.com/Tw1bhfh5MFxfrQinUORoAXEPHIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/6/yeyBqESEurbL0v5R5F9Q/design-sem-nome-2026-07-28t170425.622.jpg",
@@ -63,9 +63,69 @@
         "cls": "brasil"
       },
       {
-        "title": "Moraes dá 48h para Daniel Silveira explicar publicação de vídeo no X",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-da-48h-para-daniel-silveira-explicar-publicacao-de-video-no-x",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-da-48h-para-daniel-silveira-explicar-publicacao-de-video-no-x img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "Operação da DISE prende dois suspeitos e apreende drogas de alto valor em Sumaré",
+        "link": "https://jornalamericanense.com.br/policia/operacao-da-dise-prende-dois-suspeitos-e-apreende-drogas-de-alto-valor-em-sumare/",
+        "summary": "Ação da Polícia Civil encontrou porções de Dry , maconha, balanças de precisão, celulares e materiais utilizados para o preparo e distribuição de entorpecentes no Jardim Consteca A Polícia Civil de São Paulo, por meio da",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura abre inscrições para editais da Política Nacional Aldir Blanc com R$ 1 milhão em recursos",
+        "link": "https://jornalamericanense.com.br/cultura/prefeitura-abre-inscricoes-para-editais-da-politica-nacional-aldir-blanc-com-r-1-milhao-em-recursos/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, abriu inscrições para três editais de fomento à cultura que somam R$ 1,095 milhão em recursos destinados a projetos culturais. Os editais foram publ",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Orquestra de Americana reúne regente alemão e solista brasileiro em concerto nesta sexta-feira",
+        "link": "https://jornalamericanense.com.br/cultura/orquestra-de-americana-reune-regente-alemao-e-solista-brasileiro-em-concerto-nesta-sexta-feira/",
+        "summary": "A apresentação da Orquestra Sinfônica Municipal de Americana nesta sexta-feira (31), às 20h, reunirá no Teatro Municipal Lulu Benencase o maestro convidado Knut Andreas, regente da Orquestra Sinfônica Jovem de Berlim, e ",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "São Vicente promove feirão de emprego em Americana nesta quarta-feira",
+        "link": "https://jornalamericanense.com.br/cidades/sao-vicente-promove-feirao-de-emprego-em-americana-nesta-quarta-feira/",
+        "summary": "O São Vicente realiza nesta quarta-feira, 29 de julho, um feirão de empregos com mais de 70 oportunidades para atuação nas unidades de Americana. A seleção será realizada das 9h às 12h, na loja da Rua João Bernestein, 63",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "ExpoEmpresas será lançada nesta quarta com expectativa de movimentar R$ 6 milhões em negócios em Americana",
+        "link": "https://jornalamericanense.com.br/economia/expoempresas-sera-lancada-nesta-quarta-com-expectativa-de-movimentar-r-6-milhoes-em-negocios-em-americana/",
+        "summary": "A primeira edição da ExpoEmpresas acontece nos dias 25, 26 e 27 de agosto, nas dependências da Fidam. Antes da abertura da feira, porém, será realizado o lançamento oficial do evento nesta quarta-feira (29), às 19h, no T",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Bebê sorri ao ouvir a voz do pai durante ultrassom 3D e vídeo emociona milhões nas redes sociais",
+        "link": "https://jornalamericanense.com.br/saude/bebe-sorri-ao-ouvir-a-voz-do-pai-durante-ultrassom-3d-e-video-emociona-milhoes-nas-redes-sociais/",
+        "summary": "Um momento emocionante vivido por um casal que mora no Canadá conquistou a internet e já ultrapassou 42,7 milhões de visualizações. O vídeo, compartilhado por Lia Oliveira, mostra a reação da filha ainda na barriga duran",
+        "image": null,
+        "date": "27 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Diretor da OMS diz que Brasil é exemplo mundial por sistema de saúde",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/diretor-da-oms-diz-que-brasil-e-exemplo-mundial-por-sistema-de-saude",
+        "summary": "p strong O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, disse nesta segunda-feira (27) que o Sistema Único de Saúde (SUS) é um exemplo para o mundo por garantir atendimento universal a",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Agência Brasil",
@@ -73,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "De volta ao país após 3 anos, Copa Davis inicia venda de ingressos",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/de-volta-ao-pais-apos-3-anos-copa-davis-inicia-venda-de-ingressos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/de-volta-ao-pais-apos-3-anos-copa-davis-inicia-venda-de-ingressos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Paraná mantém dois mil pontos sob observação por conta do El Niño",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/parana-mantem-dois-mil-pontos-sob-observacao-por-conta-do-el-nino",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/parana-mantem-dois-mil-pontos-sob-observacao-por-conta-do-el-nino img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Agência Brasil",
@@ -83,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Eco Invest Brasil promove quinto leilão para financiar inovação",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/eco-invest-brasil-promove-quinto-leilao-para-financiar-inovacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/eco-invest-brasil-promove-quinto-leilao-para-financiar-inovacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "title": "Victor Gabriel é suspenso por STJD até que Gabriel Pec volte a treinar",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/victor-gabriel-e-suspenso-por-stjd-ate-que-gabriel-pec-volte-treinar",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/victor-gabriel-e-suspenso-por-stjd-ate-que-gabriel-pec-volte-treinar img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Agência Brasil",
@@ -93,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Policiais militares que descumpriam prisão domiciliar são presos no RJ",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/policiais-militares-que-descumpriam-prisao-domiciliar-sao-presos-no-rj",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/policiais-militares-que-descumpriam-prisao-domiciliar-sao-presos-no-rj img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Consumidores podem renegociar dívidas bancárias até 31 de agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/consumidores-podem-renegociar-dividas-bancarias-ate-31-de-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/consumidores-podem-renegociar-dividas-bancarias-ate-31-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Agência Brasil",
@@ -103,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Receita classifica mais 17 empresas como devedoras contumazes",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-classifica-mais-17-empresas-como-devedoras-contumazes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-classifica-mais-17-empresas-como-devedoras-contumazes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Holandês morre durante passeio de barco nas Cataratas do Iguaçu",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/holandes-morre-durante-passeio-de-barco-nas-cataratas-do-iguacu",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/holandes-morre-durante-passeio-de-barco-nas-cataratas-do-iguacu img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Agência Brasil",
@@ -113,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Vendas do Tesouro Direto atingem segundo melhor resultado da história",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/vendas-do-tesouro-direto-atingem-segundo-melhor-resultado-da-historia",
-        "summary": "p Impulsionadas pelo a href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/entenda-como-funciona-investir-no-tesouro-reserva target= _blank novo título Tesouro Reserva /a , as vendas de títulos públicos a pes",
+        "title": "Alckmin diz que Milei presta desserviço à Argentina",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/alckmin-diz-que-milei-presta-desservico-argentina",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/alckmin-diz-que-milei-presta-desservico-argentina img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Agência Brasil",
@@ -125,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Vasco de Pedro Emanuel finaliza ajustes para encarar o Medellín na Copa Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-de-pedro-emanuel-finaliza-ajustes-para-encarar-o-medellin-na-copa-sul-americana/",
-        "summary": "Cruz-Maltino recebe o Independiente Medellín em São Januário buscando vaga nas oitavas da CONMEBOL Sudamericana após empate na Colômbia. O post Vasco de Pedro Emanuel finaliza ajustes para encarar o Medellín na Copa Sul-",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/9ec6f3l4-1920.webp",
+        "title": "São Paulo fica perto de contratar lateral esquerdo Iago, do Bahia",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-fica-perto-de-contratar-lateral-iago-do-bahia-veja-detalhes/",
+        "summary": "O São Paulo está por detalhes de fechar a contratação do lateral esquerdo Iago Borduchi junto ao Bahia. Veja detalhes na matéria. O post São Paulo fica perto de contratar lateral esquerdo Iago, do Bahia apareceu primeiro",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55269290700_a58f817114_o.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-Corinthians rescinde com Guarani após passagem apagada",
-        "link": "https://www.gazetaesportiva.com/times/guarani/ex-corinthians-rescinde-com-guarani-apos-passagem-apagada/",
-        "summary": "Ralf, ex-volante do Corinthians, rescindiu seu contrato com o Guarani em comum acordo nesta terça-feira. Aos 42 anos, ele disputou apenas quatro partidas pelo Bugre, entrando no decorrer dos jogos em todas elas. Contrata",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HOVxS6rWMAAsDMa.webp",
+        "title": "Palmeiras anuncia venda de ingressos para as oitavas da Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-venda-de-ingressos-para-as-oitavas-da-libertadores/",
+        "summary": "O Palmeiras anunciou o cronograma de venda de ingressos para a partida contra o Cerro Porteño, do Paraguai, válida pelo jogo de ida das oitavas de final da Libertadores. O confronto será disputado no dia 12 de agosto (qu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/20052026_cg_palmeiras_0996_38.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ancelotti volta ao Brasil e inicia planejamento para o ciclo da Copa de 2030",
-        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-volta-ao-brasil-e-inicia-planejamento-para-o-ciclo-da-copa-de-2030/",
-        "summary": "Carlo Ancelotti voltou às atividades presenciais com a Comissão Técnica da Seleção Brasileira nesta terça-feira (28), na sede da CBF, no Rio de Janeiro. O treinador participou de uma reunião com o Departamento de Seleçõe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Whats_App_Image_2026_07_28_at_17_38_13_2_d339bb5322.webp",
+        "title": "Warriors renovam com Draymond Green após tentativa frustrada de contratar LeBron",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nba/warriors-renovam-com-draymond-green-apos-tentativa-frustrada-de-contratar-lebron/",
+        "summary": "Após fracassar na tentativa de contratar LeBron James, o Golden State Warriors renovou o contrato de Draymond Green por mais uma temporada, em acordo de US$ 28 milhões. O veterano havia recusado inicialmente a oferta par",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260720__2286827855__v1__HighRes__RivalsAtTheGameCasamigosAtTheBarFifaWorldCup.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Memphis tem data para se reapresentar ao Corinthians; saiba",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/memphis-tem-data-para-se-reapresentar-ao-corinthians-saiba/",
-        "summary": "Memphis Depay tem data para se reapresentar ao Corinthians, enquanto clube avança nas negociações pela renovação do atacante. O post Memphis tem data para se reapresentar ao Corinthians; saiba apareceu primeiro em Gazeta",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/memphis.webp",
+        "title": "Com Neymar no banco, Santos tem quatro mudanças para pegar a UCV; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/santos/escalacao-santos-ucv-neymar-banco-copa-sul-americana-2026/",
+        "summary": "O Santos está escalado para enfrentar a Universidad Central, na Vila Belmiro, pelo jogo de volta dos playoffs da Copa Sul-Americana. Cuca promoveu mudanças na equipe, deixou Neymar entre os reservas e busca confirmar a c",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HOWcNIFWQAA7IY3.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Real Madrid registra receita recorde de R$ 7,1 bilhões",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-registra-receita-recorde-de-r-71-bilhoes/",
-        "summary": "O Real Madrid registrou receitas operacionais recordes de € 1,221 bilhão (cerca de R$ 7,14 bilhões na cotação atual) na temporada 2025/2026, impulsionadas pelo seu estádio reformado e por acordos de patrocínio. O post Re",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/florentino-real-madrid.webp",
+        "title": "Jodar vence Fils em Washington; Cruz Hewitt conquista 1ª vitória no circuito profissional",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/jodar-vence-fils-em-washington-cruz-hewitt-conquista-1a-vitoria-no-circuito-profissional/",
+        "summary": "O ATP 500 de Washington teve como destaques as vitórias dos jovens Rafael Jodar e Cruz Hewitt. O espanhol de 19 anos surpreendeu o francês Arthur Fils, cabeça de chave e atual 22º do mundo, por 7-6 e 6-3, garantindo vaga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260728__2288043586__v1__HighRes__MubadalaCitiDcOpen2026Day2.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Zé Lucas exalta projeto do Cruzeiro e sonha com Libertadores: Quero fazer meu nome",
-        "link": "https://www.gazetaesportiva.com/times/cruzeiro/ze-lucas-exalta-projeto-do-cruzeiro-e-sonha-com-libertadores-quero-fazer-meu-nome/",
-        "summary": "Contratado junto ao Sport no último sábado, o jovem Zé Lucas oficialmente apresentado como reforço do Cruzeiro nesta terça-feira. O volante exaltou a escolga pelo clube mineiro e destacou algumas de suas principais carac",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55426662334_c6f1eda5c2_o.webp",
+        "title": "Fifa quer vender ações da Copa do Mundo para investidores privados",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/fifa-quer-vender-acoes-da-copa-do-mundo-para-investidores-privados/",
+        "summary": "Poucos dias após a Copa do Mundo de 2026, a Fifa anunciou o plano de criar a Fifa Forward Enterprise (FFE), uma empresa para administrar seus direitos comerciais, como transmissão, patrocínio, ingressos e licenciamento. ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__C2LH4EV__v5__HighRes__TopshotFblWc2026Match104EspArgFinal.webp",
         "date": "28 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -186,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Consumidores podem renegociar dívidas bancárias até 31 de agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/consumidores-podem-renegociar-dividas-bancarias-ate-31-de-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/consumidores-podem-renegociar-dividas-bancarias-ate-31-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "28 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Eco Invest Brasil promove quinto leilão para financiar inovação",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/eco-invest-brasil-promove-quinto-leilao-para-financiar-inovacao",
@@ -237,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "FGTS: 138 milhões de trabalhadores receberão R$ 13 bilhões de lucros",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/fgts-138-milhoes-de-trabalhadores-receberao-r-13-bilhoes-de-lucros",
-        "summary": "p strong O Conselho Curador do Fundo de Garantia do Tempo de Serviço (FGTS) aprovou nesta terça-feira (28) a distribuição de R$ 13,04 bilhões aos trabalhadores referentes ao resultado positivo obtido pelo fundo em 2025. ",
-        "image": null,
-        "date": "28 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Irritação de Trump com Netanyahu evidencia tensões em encontro de líderes",
-        "link": "https://www.infomoney.com.br/mundo/irritacao-de-trump-com-netanyahu-evidencia-tensoes-em-encontro-de-lideres/",
-        "summary": "O gabinete de Netanyahu não respondeu imediatamente aos pedidos de comentário sobre as declarações de Trump The post Irritação de Trump com Netanyahu evidencia tensões em encontro de líderes appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/2025-01-28T205327Z_1_LYNXNPEL0R0VK_RTROPTP_4_ISRAEL-PALESTINIANS-PLAN.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "title": "MRV recebe US$139 mi de venda de dois ativos nos EUA",
+        "link": "https://www.infomoney.com.br/mercados/mrv-recebe-us139-mi-de-venda-de-dois-ativos-nos-eua/",
+        "summary": "Empresa afirmou ⁠que ‌a cifra foi ⁠gerada pela venda dos empreendimentos Ten Oaks e Rayzor Ranch The post MRV recebe US$139 mi de venda de dois ativos nos EUA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Empreendimento-MRV-Credito_Divulgacao.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula pede para diretor da OMS mandar recado sobre SUS para Trump",
-        "link": "https://www.infomoney.com.br/politica/lula-pede-para-diretor-da-oms-mandar-recado-sobre-sus-para-trump/",
-        "summary": "Lula também pediu ao diretor da OMS que diga a Trump que \"qualquer pobre do Brasil pode fazer\" um tratamento contra o câncer The post Lula pede para diretor da OMS mandar recado sobre SUS para Trump appeared first on Inf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-02T130230Z_1573548033_RC2R1GASYA1I_RTRMADP_3_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Fifa revela plano de vender ações para criação de nova entidade comercial",
+        "link": "https://www.infomoney.com.br/esportes/fifa-revela-plano-de-vender-acoes-para-criacao-de-nova-entidade-comercial/",
+        "summary": "Entidade venderia participações minoritárias por meio do novo programa comercial The post Fifa revela plano de vender ações para criação de nova entidade comercial appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-03T010738Z_1036221102_UP1EM73034OXI_RTRMADP_3_SOCCER-WORLDCUP-POR-CRO.jpg?fit=300%2C211&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Casa Rosada minimiza crise com Brasil: sempre houve insultos de ambos os lados",
-        "link": "https://www.infomoney.com.br/mundo/casa-rosada-minimiza-crise-com-brasil-sempre-houve-insultos-de-ambos-os-lados/",
-        "summary": "Porta-voz Adrian Ravier assegurou que se trata de \"diferenças ideológicas e políticas\", mas esclareceu que \"a Argentina nunca as levou ao plano diplomático\" The post Casa Rosada minimiza crise com Brasil: sempre houve in",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-03T181410Z_1449167946_RC25FFA4AWRO_RTRMADP_3_MERCOSUR-SUMMIT.jpg?fit=300%2C221&amp;quality=70&amp;strip=all",
+        "title": "Netanyahu diz que reunião com Trump foi excelente",
+        "link": "https://www.infomoney.com.br/mundo/netanyahu-diz-que-reuniao-com-trump-foi-excelente/",
+        "summary": "Encontro é a primeira conversa presencial dos líderes desde que a guerra com o Irã começou The post Netanyahu diz que reunião com Trump foi excelente appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-24T175406Z_1_LYNXMPELBN0K9_RTROPTP_4_ISRAEL-PALESTINOS-INVESTIGACAO-ATAQUE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Acordo com Irã não prevê taxas nem pedágios para passagem por Ormuz, diz EUA",
-        "link": "https://www.infomoney.com.br/mundo/acordo-com-ira-nao-preve-taxas-nem-pedagios-para-passagem-por-ormuz-diz-eua/",
-        "summary": "A ​autoridade norte-americana disse que ⁠o ​Irã estava fazendo ​exigências irracionais que foram ​rejeitadas ⁠por Omã ⁠e pelos Estados Unidos The post Acordo com Irã não prevê taxas nem pedágios para passagem por Ormuz, ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T191614Z_1043438909_RC2R4LAN4FM4_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Trump proíbe novos robôs humanóides chineses para proteger desenvolvimento da IA",
+        "link": "https://www.infomoney.com.br/mundo/trump-proibe-novos-robos-humanoides-chineses-para-proteger-desenvolvimento-da-ia/",
+        "summary": "Governo divulgou medidas com foco em importações The post Trump proíbe novos robôs humanóides chineses para proteger desenvolvimento da IA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Robos-da-Ubtech-Reproducao.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Relação de juros e Bolsa dos EUA foi alterada drasticamente pela IA, dizem gestores",
-        "link": "https://www.infomoney.com.br/onde-investir/relacao-de-juros-e-bolsa-dos-eua-foi-alterada-drasticamente-pela-ia-dizem-gestores/",
-        "summary": "Especialistas avaliam que a corrida pela inteligência artificial sustenta a economia americana e mantém os juros elevados, mas cria desafios para mercados menos expostos à tecnologia The post Relação de juros e Bolsa dos",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/inteligencia-artificial-ai-ia-tecnologia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "BIS alerta para impacto da IA na política monetária de BCS",
+        "link": "https://www.infomoney.com.br/mundo/bis-alerta-para-impacto-da-ia-na-politica-monetaria-de-bcs/",
+        "summary": "\"Uma maior incerteza aumenta o risco de desajuste na condução da política econômica\", afirma banco The post BIS alerta para impacto da IA na política monetária de BCS appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/01/bis.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Crédito imobiliário cresce 23% no semestre enquanto Abecip revê previsões para 2026",
-        "link": "https://www.infomoney.com.br/minhas-financas/credito-imobiliario-cresce-23-no-semestre-enquanto-abecip-reve-previsoes-para-2026/",
-        "summary": "As operações financiadas por meio do FGTS são as principais responsáveis pela revisão das projeções para 2026 The post Crédito imobiliário cresce 23% no semestre enquanto Abecip revê previsões para 2026 appeared first on",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/imovel-leiloado-santander.png?fit=300%2C174&amp;quality=70&amp;strip=all",
+        "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
+        "link": "https://www.infomoney.com.br/esportes/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/",
+        "summary": "Plano quer criar uma empresa para gerenciar os direitos comerciais e operacionais das competições The post Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-20T000027Z_1640502143_UP1EM7K000QTQ_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
         "date": "28 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula provoca Trump por corte de verbas à OMS: 'tratamento de saúde não é para rico'",
-        "link": "https://exame.com/brasil/lula-provoca-trump-por-corte-de-verbas-a-oms-tratamento-de-saude-nao-e-para-rico/",
-        "summary": "O presidente brasileiro elogiou o SUS acompanhado do diretor-geral da OMS, Tedros Adhanom",
+        "title": "Dakota Johnson tem mudança radical no visual para interpretar Marilyn Monroe",
+        "link": "https://exame.com/pop/dakota-johnson-tem-mudanca-radical-no-visual-para-interpretar-marilyn-monroe/",
+        "summary": "Conhecida pela fidelidade à Gucci, Dakota Johnson apareceu com um novo acessório de luxo e reforçou a evolução de seu estilo pessoal",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Apple lança programa para alugar iPhones, Macs e iPads nos EUA",
-        "link": "https://exame.com/tecnologia/apple-lanca-programa-para-alugar-iphones-macs-e-ipads-nos-eua/",
-        "summary": "Segundo o New York Times, iniciativa busca reduzir o impacto da alta nos preços causada pela escassez de chips impulsionada pela inteligência artificial.",
+        "title": "Avião da Qantas completa o maior voo comercial da história após mais de 24 horas",
+        "link": "https://exame.com/ciencia/aviao-da-qantas-completa-o-maior-voo-comercial-da-historia-apos-mais-de-24-horas/",
+        "summary": "Airbus A350-1000ULR percorreu mais de 23 mil quilômetros em teste que prepara voos diretos entre Austrália e Londres",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Puxado por novo título, Tesouro Direto tem segundo melhor mês da história",
-        "link": "https://exame.com/invest/minhas-financas/puxado-por-novo-titulo-tesouro-direto-tem-segundo-melhor-mes-da-historia/",
-        "summary": "O salto foi puxado pelo Tesouro Reserva, título lançado recentemente e que funciona de forma parecida com as \"caixinhas\" oferecidas por bancos digitais",
+        "title": "Como as 'nuvens de fogo' podem intensificar incêndios florestais",
+        "link": "https://exame.com/ciencia/como-as-nuvens-de-fogo-podem-intensificar-incendios-florestais/",
+        "summary": "Fenômeno formado pelo calor extremo pode gerar tempestades, ventos fortes e novos focos de incêndio",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Sete em cada dez projetos empresariais de combate a incêndio têm erros graves",
-        "link": "https://exame.com/negocios/projetos-empresariais-combate-incendio-tem-erros/",
-        "summary": "Dado interno da Zeus do Brasil aponta falhas recorrentes em projetos de proteção contra incêndio e acende alerta para a gestão de riscos nas empresas",
+        "title": "Musk lança cartão de débito do X, antigo Twitter, apenas para 'convidados'",
+        "link": "https://exame.com/tecnologia/musk-lanca-cartao-de-debito-do-x-antigo-twitter-apenas-para-convidados/",
+        "summary": "Para atrair clientes, o serviço oferece rendimento de 6% sobre os depósitos e cashback de 3% em compras elegíveis",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Documentário sobre Stan Lee sofre pressão de empresas e quase é cancelado",
-        "link": "https://exame.com/pop/por-que-documentario-sobre-stan-lee-esta-causando-polemica-e-quase-foi-cancelado/",
-        "summary": "Lançado nos streamings nesta terça-feira (28), 'Stan Lee: The Final Chapter' retrata o quadrinista, então com mais de 90 anos, submetido a uma agenda exaustiva de convenções e longas sessões de autógrafos",
+        "title": "Elvis Presley ganha dupla homenagem no Brasil com turnê e exposição; confira as datas",
+        "link": "https://exame.com/brasil/elvis-presley-ganha-dupla-homenagem-no-brasil-com-turne-e-exposicao-confira-as-datas/",
+        "summary": "Os eventos antecipam as celebrações mundiais pelos 50 anos da morte do Rei do Rock, que serão marcadas em 2027",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Tarifa zero para Cingapura entra em vigor nesta semana; petróleo lidera exportações",
-        "link": "https://exame.com/economia/tarifa-zero-para-cingapura-entra-em-vigor-nesta-semana-petroleo-lidera-exportacoes/",
-        "summary": "O Acordo de Livre Comércio entre o Mercosul e Cingapura já zera as taxas de exportação do bloco sul-americano neste sábado, 1º",
+        "title": "EUA afirmam ter interceptado mísseis balísticos lançados pelo Irã",
+        "link": "https://exame.com/mundo/eua-afirmam-ter-interceptado-misseis-balisticos-lancados-pelo-ira/",
+        "summary": "As Forças Armadas dos EUA também disseram que as tropas na região permanecem \"vigilantes e em alto estado de prontidão\".",
         "image": null,
         "date": "28 de jul. de 2026",
         "source": "Exame",
