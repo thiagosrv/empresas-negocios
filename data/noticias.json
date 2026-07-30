@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-30T08:33:43.557Z",
+  "updated": "2026-07-30T11:10:32.116Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Avião que caiu e matou piloto em Mogi Mirim era considerado 'experimental' e tinha sido fabricado em 2004",
+        "title": "Assista ao Bom Dia Cidade Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "date": "30 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Avião que caiu e matou piloto em Mogi Mirim era experimental e foi fabricado em 2004",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/aviao-caiu-matou-piloto-mogi-mirim-considerado-experimental-tinha-sido-fabricado-2004.ghtml",
         "summary": "Avião de pequeno porte cai em Mogi Mirim O avião ultraleve modelo Conquest, da fabricante Donald Stipanich, que caiu e pegou fogo na tarde desta quarta-feira (29), em Mogi Mirim (SP), era considerado \"experimental\" e tin",
         "image": "https://s2-g1.glbimg.com/Zsb6ZguSDlt72vNMTpjgnnNxvS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/xRR7ikRcAyAs92HnPg5w/design-sem-nome-22-.jpg",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/galho-cai-e-atinge-dois-carros-durante-chuva-em-campinas-outras-cidades-registram-estragos.ghtml",
         "summary": "Galho cai e atinge dois carros durante chuva em Campinas; outras cidades registram estrago A chuva causou quedas de árvores e ventania na região de Campinas (SP) no fim da tarde desta quarta-feira (29). Em Paulínia (SP),",
         "image": "https://s2-g1.glbimg.com/dtchKnqQfbNFVpTcDHTl_iKaIi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/V/5MwBuaRSqGE9r1dHD8Eg/design-sem-nome-21-.jpg",
-        "date": "29 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Avião de pequeno porte cai, pega fogo e piloto morre em Mogi Mirim",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/aviao-mogi-mirim.ghtml",
-        "summary": "Avião de pequeno porte cai em Mogi Mirim Um avião de pequeno porte caiu e pegou fogo em Mogi Mirim (SP), por volta das 16h30 desta quarta-feira (29), na Rodovia Luiz Gonzaga de Amoedo Campos, na zona rural da cidade. O p",
-        "image": "https://s2-g1.glbimg.com/lQ--ZwzXMu2t2a1_v-RBPOxBF60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/90EoXERM2TSulKhWUmaQ/design-sem-nome-2026-07-29t170035.837.jpg",
         "date": "29 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Antiga sede dos Correios no centro do Rio vai a leilão nesta quinta",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/antiga-sede-dos-correios-no-centro-do-rio-vai-leilao-nesta-quinta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/antiga-sede-dos-correios-no-centro-do-rio-vai-leilao-nesta-quinta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "30 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Ventos provocam danos na Costa Verde e na região serrana do RJ",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventos-provocam-danos-na-costa-verde-e-na-regiao-serrana-do-rj",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventos-provocam-danos-na-costa-verde-e-na-regiao-serrana-do-rj img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Atuações do Palmeiras: Carlos Miguel aparece bem, e gringos lideram goleada sobre o Vitória",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-goleada-vitoria-brasileirao/",
-        "summary": "O Palmeiras goleou o Vitória por 4 a 0 na noite da última quarta-feira, em duelo válido pela 21ª rodada do Campeonato Brasileiro. Mauricio, Fabiano (contra), Jhon Arias e Ramón Sosa anotaram os gols que deram mais três p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_7546_95-1.webp",
+        "title": "Há 26 anos, Rubens Barrichello conquista sua primeira vitória na F1; relembre",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-26-anos-rubens-barrichello-conquista-sua-primeira-vitoria-na-f1-relembre/",
+        "summary": "Há 26 anos, Rubens Barrichello conquista sua primeira vitória na F1; relembre O post Há 26 anos, Rubens Barrichello conquista sua primeira vitória na F1; relembre apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/felipe-6.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Súmula: árbitro justifica expulsões de dupla do Vitória contra o Palmeiras; confira",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/sumula-arbitro-justifica-expulsoes-de-dupla-do-vitoria-contra-o-palmeiras-confira/",
-        "summary": "A goleada do Palmeiras por 4 a 0 sobre o Vitória nesta quarta-feira foi recheado de polêmica de arbitragem, com as expulsões de Cacá e Luan Cândido, do lado do Leão. O árbitro Alex Gomes Stefano, que apitou a partida no ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_6929_15-1.webp",
+        "title": "De letra, Thiago Mendes marca no final e classifica o Vasco na Sul-Americana; confira",
+        "link": "https://www.gazetaesportiva.com/times/vasco/de-letra-thiago-mendes-marca-no-final-e-classifica-o-vasco-na-sul-americana-confira/",
+        "summary": "De letra, Thiago Mendes marca no final e classifica o Vasco na Sul-Americana O post De letra, Thiago Mendes marca no final e classifica o Vasco na Sul-Americana; confira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260729__C3J43BE__v1__HighRes__FblSudamericanaVascoMedellin.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Abel vê lance de Mauricio no limite e concorda com expulsões em Vitória x Palmeiras: Seguiu as regras",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ve-lance-de-mauricio-no-limite-e-concorda-com-expulsoes-em-vitoria-x-palmeiras-seguiu-as-regras/",
-        "summary": "Abel Ferreira defendeu as decisões da arbitragem que resultaram nas expulsões de dois jogadores do Vitória na goleada do Palmeiras por 4 a 0, nesta quarta-feira, em dueloa da 21ª rodada do Campeonato Brasileiro. O treina",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_destaque_7180_34.webp",
+        "title": "Santos supera R$ 10 milhões em premiações e ganha fôlego para quitar pagamentos",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-supera-r-10-milhoes-premiacoes-quitar-pagamentos/",
+        "summary": "O Santos ultrapassou R$ 10 milhões em premiações com as campanhas na Copa Sul-Americana e na Copa do Brasil. A Gazeta Esportiva apurou que a diretoria pretende utilizar os valores recebidos para ajudar a regularizar os p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55252076246_aed206f0c9_k.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Presidente do Vitória protesta em relação às polêmicas de arbitragem na derrota para o Palmeiras",
-        "link": "https://www.gazetaesportiva.com/times/vitoria/presidente-vitoria-critica-arbitragem-derrota-palmeiras-brasileirao/",
-        "summary": "O Vitória foi derrotado por 4 a 0 pelo Palmeiras no Barradão, pela 21ª rodada do Brasileirão, em uma partida marcada por polêmicas de arbitragem. O clube baiano contestou principalmente a não expulsão de Maurício após um",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-30-at-00.23.54.webp",
+        "title": "Pedido de Dorival, Newton detalha como pode ajudar o São Paulo: Chego para somar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/pedido-de-dorival-newton-detalha-como-pode-ajudar-o-sao-paulo-chego-para-somar/",
+        "summary": "Com 1,88 de altura, Newton comenta características em campo e agradece a confiança do técnico Dorival Júnior em chegada ao São Paulo. O post Pedido de Dorival, Newton detalha como pode ajudar o São Paulo: Chego para soma",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HOacgSkWAAA51hX.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vitória x Palmeiras: veja fotos do jogo da 21ª rodada do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-x-palmeiras-veja-fotos-do-jogo-da-21a-rodada-do-brasileirao/",
-        "summary": "Vitória e Palmeiras se enfrentam nesta quarta-feira, pela 21ª rodada do Brasileirão. Veja fotos do jogo que acontece no Barradão. O post Vitória x Palmeiras: veja fotos do jogo da 21ª rodada do Brasileirão apareceu prime",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_destaque_7202_36.webp",
+        "title": "Abel vê Palmeiras preparado para resistir ao assédio do mercado e descarta perder peças-chave",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ve-palmeiras-preparado-para-resistir-ao-assedio-do-mercado-e-descarta-perder-pecas-chave/",
+        "summary": "A abertura da janela de transferências há dez dias tem movimentado o Palmeiras, que tem feito força para manter os principais jogadores de seu elenco. Após a goleada sobre o Vitória, o técnico Abel Ferreira revelou que n",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_7652_111.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Samuel Xavier lamenta empate do Fluminense com o Bahia: Injusto",
-        "link": "https://www.gazetaesportiva.com/times/fluminense/samuel-xavier-lamenta-empate-do-fluminense-com-o-bahia-injusto/",
-        "summary": "O Fluminense ficou no empate sem gols com o Bahia, nesta quarta-feira, no Maracanã, pela 21ª rodada do Campeonato Brasileiro. Após a partida, o lateral direito Samuel Xavier avaliou que o Tricolor das Laranjeiras foi sup",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55429559731_c85cebd038_o.webp",
+        "title": "Kaio César assume protagonismo e lidera estatísticas do Corinthians pós-Copa",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-assume-protagonismo-e-lidera-estatisticas-do-corinthians-pos-copa/",
+        "summary": "Kaio César vive seu melhor momento com a camisa do Corinthians e lidera diversas estatísticas do elenco desde a retomada do Brasileirão após a Copa do Mundo. O atacante se destaca em dribles, desarmes e duelos vencidos, ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246695.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Antiga sede dos Correios no centro do Rio vai a leilão nesta quinta",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/antiga-sede-dos-correios-no-centro-do-rio-vai-leilao-nesta-quinta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/antiga-sede-dos-correios-no-centro-do-rio-vai-leilao-nesta-quinta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "30 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Dólar cai para R$ 5,10, após juros serem mantidos nos EUA",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Produção de petróleo e gás no Brasil cresce 14% no 2º trimestre",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/producao-de-petroleo-e-gas-no-brasil-cresce-14-no-2o-trimestre",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/producao-de-petroleo-e-gas-no-brasil-cresce-14-no-2o-trimestre img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Brutalmente difícil : a brincadeira de infância que ensinou Jamie Dimon a investir",
-        "link": "https://www.infomoney.com.br/business/global/brutalmente-dificil-a-brincadeira-de-infancia-que-ensinou-jamie-dimon-a-investir/",
-        "summary": "Antes de Harvard, antes de Wall Street, houve um pai, relatórios anuais e simulações de investimento à mesa de jantar The post Brutalmente difícil : a brincadeira de infância que ensinou Jamie Dimon a investir appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/JPMORGAN-CEO-JAMIE-DIMON-SAYS-HIS-FATHER-TAUGHT-HIM-TO-INVEST-WITH-A-BRUTALLY-HARD-CHILDHOOD-GAME.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Usiminas (USIM5) vê lucro mais que triplicar no 2T, para R$ 428 milhões",
+        "link": "https://www.infomoney.com.br/mercados/usiminas-usim5-resultados-segundo-trimestre-2026/",
+        "summary": "A receita líquida somou R$ 6,131 bilhões no segundo trimestre de 2026 The post Usiminas (USIM5) vê lucro mais que triplicar no 2T, para R$ 428 milhões appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Por que empresas de IA estão recrutando eletricistas e carpinteiros aos milhares",
-        "link": "https://www.infomoney.com.br/business/global/empresas-de-ia-recrutam-eletricistas-e-carpinteiros-aos-milhares/",
-        "summary": "O futuro da inteligência artificial depende de encontrar mais mão de obra humana qualificada — para trabalhos bastante físicos The post Por que empresas de IA estão recrutando eletricistas e carpinteiros aos milhares app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/DATA-CENTERS-WORKERS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Intelbras (INTB3) tem alta de 16% no lucro no 2T e anuncia R$ 93 mi em proventos",
+        "link": "https://www.infomoney.com.br/mercados/intelbras-intb3-resultados-segundo-trimestre-2026/",
+        "summary": "Companhia registrou lucro líquido de R$ 158,3 milhões no segundo trimestre The post Intelbras (INTB3) tem alta de 16% no lucro no 2T e anuncia R$ 93 mi em proventos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/12/intelbras-solar.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como a Nestlé transformou um roubo de chocolate em uma aula de branding",
-        "link": "https://www.infomoney.com.br/business/global/como-a-nestle-transformou-um-roubo-de-chocolate-em-uma-aula-de-branding/",
-        "summary": "Ao transformar o roubo de 12 toneladas de KitKat em uma campanha global, a Nestlé gerou buzz avaliado em US$ 224 milhões em apenas 10 dias — e deu uma lição de branding, agilidade e ousadia criativa The post Como a Nestl",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/HOW-NESTLE-TURNED-A-CHOCOLATE-HEIST-INTO-A-MASTERCLASS-IN-BRAND-BUILDING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30072026/",
+        "summary": "Futuros nos EUA avançam com balanços de tecnologia e busca por recuperação The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-7-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Em 2022, governadores buscavam Lula e Bolsonaro; agora o movimento se inverteu",
-        "link": "https://www.infomoney.com.br/mercados/em-2022-governadores-buscavam-lula-e-bolsonaro-agora-o-movimento-se-inverteu/",
-        "summary": "Se em 2022 Lula e Bolsonaro eram os principais cabos eleitorais dos estados, a campanha de 2026 inverteu a lógica e transformou governadores em ativos estratégicos para a corrida ao Planalto The post Em 2022, governadore",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Design-sem-nome-34.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Lucro ajustado da Profarma sobe para R$ 31,7 mi no 2º tri",
+        "link": "https://www.infomoney.com.br/mercados/profarma-pfrm3-segundo-trimestre-2026/",
+        "summary": "A ​companhia apurou lucro antes de juros, impostos, ‌depreciação e ​amortização (Ebitda) ajustado de R$126,6 milhões The post Lucro ajustado da Profarma sobe para R$ 31,7 mi no 2º tri appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/medicine-1728381_1920.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Boa gestão, caixa e retorno: gestores traçam mapa da mina do crédito privado em 2026",
-        "link": "https://www.infomoney.com.br/onde-investir/boa-gestao-caixa-e-retorno-gestores-tracam-o-mapa-da-mina-do-credito-privado-no-ano/",
-        "summary": "Especialistas citam cenário difícil para a economia nos próximos meses, mas veem espaço para ganhos em papéis de empresas, com cautela e seletividade The post Boa gestão, caixa e retorno: gestores traçam mapa da mina do ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-15h20-learning-session-05-4.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Morgan vê alívio para ações do Brasil após Fed, mas aponta que limbo não acabou",
+        "link": "https://www.infomoney.com.br/mercados/morgan-stanley-ve-alivio-para-acoes-do-brasil-apos-fed-mas-aponta-que-limbo-nao-acabou/",
+        "summary": "Pausa do Fed favorece fluxo para emergentes e sustenta visão positiva para a América Latina, mas Morgan Stanley alerta que incertezas sobre inflação e juros nos EUA ainda limitam uma reprecificação mais forte da bolsa br",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-30-153647.png?fit=300%2C211&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mercado livre de energia reduz conta de luz de 73% das indústrias, aponta CNI",
-        "link": "https://www.infomoney.com.br/brasil/mercado-livre-de-energia-reduz-conta-de-luz-de-73-das-industrias-aponta-cni/",
-        "summary": "Cerca de 41% das empresas que migraram desde 2024 conseguiram diminuir o custo mais pesado e que compromete a competitividade do setor The post Mercado livre de energia reduz conta de luz de 73% das indústrias, aponta CN",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-14T210304Z_1_LYNXMPEL7D0X2_RTROPTP_4_BRAZIL.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "title": "Milhões de livros são comprados para alimentar IAs; e muitos deles, destruídos",
+        "link": "https://www.infomoney.com.br/business/milhoes-de-livros-sao-comprados-para-alimentar-ias-e-muitos-deles-destruidos/",
+        "summary": "Reportagem da 404 Media, veículo especializado em tecnologia, aponta para sinais de vendas em larga escala como indícios de treinamento de modelos de linguagem The post Milhões de livros são comprados para alimentar IAs;",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/pexels-pixabay-159711.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "As habilidades que a IA não substitui (e que mais devem valer no mercado até 2030)",
-        "link": "https://exame.com/inteligencia-artificial/as-habilidades-que-a-ia-nao-substitui-e-que-mais-devem-valer-no-mercado-ate-2030/",
-        "summary": "Enquanto a inteligência artificial assume tarefas repetitivas e analíticas, competências ligadas ao julgamento, à criatividade e às relações humanas tendem a ganhar ainda mais valor nos próximos anos",
+        "title": "Genial/Quaest: Empate técnico e alta indecisão marcam corrida ao Senado no Rio Grande do Sul",
+        "link": "https://exame.com/brasil/genial-quaest-empate-tecnico-e-alta-indecisao-marcam-corrida-ao-senado-no-rio-grande-do-sul/",
+        "summary": "Disputa pelas duas vagas gaúchas ao Senado apresenta alta taxa de indecisos e desconhecimento dos candidatos",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "A Hypera agora tem seu próprio Ozempic. E a empresa pode faturar R$ 1 bi com ele",
-        "link": "https://exame.com/invest/mercados/a-hypera-agora-tem-seu-proprio-ozempic-e-a-empresa-pode-faturar-r-1-bi-com-ele/",
-        "summary": "BTG estima que medicamentos GLP-1 podem chegar a 7% da receita da empresa até 2030, mas concorrência pressiona preços",
+        "title": "Ambev vai distribuir mais de R$ 1 bi em JCP; veja quem tem direito",
+        "link": "https://exame.com/invest/mercados/ambev-vai-distribuir-mais-de-r-1-bi-em-jcp-veja-quem-tem-direito/",
+        "summary": "A fabricante de bebidas encerrou junho com caixa líquido de R$ 15,4 bilhões",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Conheça os boletins que orientam as expectativas da economia",
-        "link": "https://exame.com/esferabrasil/conheca-os-boletins-que-orientam-as-expectativas-da-economia/",
-        "summary": "Relatórios econômicos como Focus e Prisma Fiscal funcionam como o termômetro do mercado, guiando decisões de investimentos e políticas públicas",
+        "title": "Genial/Quaest: Ciro tem 43% e Elmano, 33%, no 1º turno no Ceará",
+        "link": "https://exame.com/brasil/genial-quaest-ciro-tem-43-e-elmano-33-no-1o-turno-no-ceara/",
+        "summary": "A gestão estadual de Elmano de Freitas é aprovada por 52% dos entrevistados",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -397,31 +397,31 @@
         "cls": "startups"
       },
       {
-        "title": "Europa ameaça boicotar Copa do Mundo de 2030 após plano polêmico da Fifa",
-        "link": "https://exame.com/esporte/europa-ameaca-boicotar-copa-do-mundo-de-2030-apos-plano-polemico-da-fifa/",
-        "summary": "Contrária à ideia da criação de uma empresa que pode abrir brecha para investidores privados, Uefa e seus membros se posicionam contra o plano da Fifa",
+        "title": "A lição de Bill Gates que inspira a Engie antes de uma disputa de R$ 20 bilhões",
+        "link": "https://exame.com/exame-in/a-licao-de-bill-gates-que-inspira-a-engie-antes-de-uma-disputa-de-r-20-bilhoes/",
+        "summary": "Infraestrutura que leva energia das usinas aos consumidores se tornou peça central da transição energética — e um dos maiores desafios para o setor elétrico",
         "image": null,
-        "date": "29 de jul. de 2026",
+        "date": "30 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras lança moeda de R$ 75 mil sobre título intercontinental de 1951",
-        "link": "https://exame.com/esporte/palmeiras-lanca-moeda-de-r-75-mil-sobre-titulo-intercontinental-de-1951/",
-        "summary": "O título de 1951 segue como um dos temas mais discutidos da história do futebol brasileiro",
+        "title": "Motiva tem lucro de R$ 1,4 bilhão no 2º tri com impulso de concessão da Fernão Dias",
+        "link": "https://exame.com/invest/mercados/motiva-tem-lucro-de-r-14-bilhao-no-2o-tri-com-impulso-de-concessao-da-fernao-dias/",
+        "summary": "Operacional cresceu com o avanço das novas concessões, mas ambiente de juros altos manteve o resultado financeiro sob pressão",
         "image": null,
-        "date": "29 de jul. de 2026",
+        "date": "30 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "'American Horror Story 13' vai reunir toda a franquia, revela Ryan Murphy",
-        "link": "https://exame.com/pop/american-horror-story-13-vai-reunir-toda-a-franquia-revela-ryan-murphy/",
-        "summary": "Criador da série explica que a nova temporada vai reunir personagens de diferentes fases da antologia e deixa claro que o foco vai além de 'Coven'",
+        "title": "Genial/Quaest: Flávio Bolsonaro tem 32% e Lula, 30%, no Rio Grande do Sul",
+        "link": "https://exame.com/brasil/genial-quaest-flavio-bolsonaro-tem-32-e-lula-30-no-rio-grande-do-sul/",
+        "summary": "Levantamento mostra empate técnico na disputa pelo Planalto entre o eleitorado gaúcho e desaprovação de 55% para o atual governo federal",
         "image": null,
-        "date": "29 de jul. de 2026",
+        "date": "30 de jul. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
