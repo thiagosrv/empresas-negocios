@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-30T05:45:10.227Z",
+  "updated": "2026-07-30T08:33:43.557Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Avião que caiu e matou piloto em Mogi Mirim era considerado 'experimental' e tinha sido fabricado em 2004",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/aviao-caiu-matou-piloto-mogi-mirim-considerado-experimental-tinha-sido-fabricado-2004.ghtml",
+        "summary": "Avião de pequeno porte cai em Mogi Mirim O avião ultraleve modelo Conquest, da fabricante Donald Stipanich, que caiu e pegou fogo na tarde desta quarta-feira (29), em Mogi Mirim (SP), era considerado \"experimental\" e tin",
+        "image": "https://s2-g1.glbimg.com/Zsb6ZguSDlt72vNMTpjgnnNxvS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/xRR7ikRcAyAs92HnPg5w/design-sem-nome-22-.jpg",
+        "date": "30 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Mogi Mirim registrou rajadas de vento de 60 km/h no horário da queda de avião que matou piloto, diz Defesa Civil",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/mogi-mirim-registrou-rajadas-vento-horario-queda-aviao-matou-piloto.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/aviao-mogi-mirim.ghtml",
         "summary": "Avião de pequeno porte cai em Mogi Mirim Um avião de pequeno porte caiu e pegou fogo em Mogi Mirim (SP), por volta das 16h30 desta quarta-feira (29), na Rodovia Luiz Gonzaga de Amoedo Campos, na zona rural da cidade. O p",
         "image": "https://s2-g1.glbimg.com/lQ--ZwzXMu2t2a1_v-RBPOxBF60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/90EoXERM2TSulKhWUmaQ/design-sem-nome-2026-07-29t170035.837.jpg",
-        "date": "29 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO: ônibus municipal pega fogo e fica destruído em avenida de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/video-onibus-municipal-pega-fogo-e-fica-destruido-em-avenida-de-campinas.ghtml",
-        "summary": "Ônibus municipal pega fogo em Campinas; ninguém se feriu Um ônibus da linha 362 pegou fogo na tarde desta quarta-feira (29), em Campinas (SP). O incidente ocorreu na Avenida Doutor David Vicente, no cruzamento com a Rua ",
-        "image": "https://s2-g1.glbimg.com/jTs3R9KS_gq8_JmAJl5i1rlUdMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/r7KLwNSruibAsSi5WbpQ/incendio.png",
         "date": "29 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "Atuações do Palmeiras: Carlos Miguel aparece bem, e gringos lideram goleada sobre o Vitória",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-goleada-vitoria-brasileirao/",
+        "summary": "O Palmeiras goleou o Vitória por 4 a 0 na noite da última quarta-feira, em duelo válido pela 21ª rodada do Campeonato Brasileiro. Mauricio, Fabiano (contra), Jhon Arias e Ramón Sosa anotaram os gols que deram mais três p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_7546_95-1.webp",
+        "date": "30 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Súmula: árbitro justifica expulsões de dupla do Vitória contra o Palmeiras; confira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/sumula-arbitro-justifica-expulsoes-de-dupla-do-vitoria-contra-o-palmeiras-confira/",
+        "summary": "A goleada do Palmeiras por 4 a 0 sobre o Vitória nesta quarta-feira foi recheado de polêmica de arbitragem, com as expulsões de Cacá e Luan Cândido, do lado do Leão. O árbitro Alex Gomes Stefano, que apitou a partida no ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_6929_15-1.webp",
+        "date": "30 de jul. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Abel vê lance de Mauricio no limite e concorda com expulsões em Vitória x Palmeiras: Seguiu as regras",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ve-lance-de-mauricio-no-limite-e-concorda-com-expulsoes-em-vitoria-x-palmeiras-seguiu-as-regras/",
         "summary": "Abel Ferreira defendeu as decisões da arbitragem que resultaram nas expulsões de dois jogadores do Vitória na goleada do Palmeiras por 4 a 0, nesta quarta-feira, em dueloa da 21ª rodada do Campeonato Brasileiro. O treina",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/fluminense/samuel-xavier-lamenta-empate-do-fluminense-com-o-bahia-injusto/",
         "summary": "O Fluminense ficou no empate sem gols com o Bahia, nesta quarta-feira, no Maracanã, pela 21ª rodada do Campeonato Brasileiro. Após a partida, o lateral direito Samuel Xavier avaliou que o Tricolor das Laranjeiras foi sup",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/55429559731_c85cebd038_o.webp",
-        "date": "30 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Arias celebra goleada do Palmeiras e evita citar polêmicas contra o Vitória: Fizemos nosso trabalho",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/arias-celebra-goleada-do-palmeiras-e-evita-citar-polemicas-contra-o-vitoria-fizemos-nosso-trabalho/",
-        "summary": "O Palmeiras goleou o Vitória por 4 a 0 nesta quarta-feira em jogo que ficou marcado por duas expulsões dos donos da casa. Autor de um dos gols do Verdão no Barradão, em Salvador (BA), em duelo válido pela 21ª rodada do B",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_destaque_7155_33.webp",
-        "date": "30 de jul. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras aproveita expulsões, goleia o Vitória e amplia vantagem na liderança do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-x-palmeiras-21-rodada-brasileirao-29-07-2026/",
-        "summary": "O Palmeiras venceu o Vitória por 4 a 0 na noite desta quarta-feira, pela 21ª rodada do Campeonato Brasileiro, em partida marcada por polêmicas de arbitragem e pelas expulsões de dois jogadores do time baiano ainda no pri",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_destaque_7326_44.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Brutalmente difícil : a brincadeira de infância que ensinou Jamie Dimon a investir",
+        "link": "https://www.infomoney.com.br/business/global/brutalmente-dificil-a-brincadeira-de-infancia-que-ensinou-jamie-dimon-a-investir/",
+        "summary": "Antes de Harvard, antes de Wall Street, houve um pai, relatórios anuais e simulações de investimento à mesa de jantar The post Brutalmente difícil : a brincadeira de infância que ensinou Jamie Dimon a investir appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/JPMORGAN-CEO-JAMIE-DIMON-SAYS-HIS-FATHER-TAUGHT-HIM-TO-INVEST-WITH-A-BRUTALLY-HARD-CHILDHOOD-GAME.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Por que empresas de IA estão recrutando eletricistas e carpinteiros aos milhares",
+        "link": "https://www.infomoney.com.br/business/global/empresas-de-ia-recrutam-eletricistas-e-carpinteiros-aos-milhares/",
+        "summary": "O futuro da inteligência artificial depende de encontrar mais mão de obra humana qualificada — para trabalhos bastante físicos The post Por que empresas de IA estão recrutando eletricistas e carpinteiros aos milhares app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/DATA-CENTERS-WORKERS-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Como a Nestlé transformou um roubo de chocolate em uma aula de branding",
+        "link": "https://www.infomoney.com.br/business/global/como-a-nestle-transformou-um-roubo-de-chocolate-em-uma-aula-de-branding/",
+        "summary": "Ao transformar o roubo de 12 toneladas de KitKat em uma campanha global, a Nestlé gerou buzz avaliado em US$ 224 milhões em apenas 10 dias — e deu uma lição de branding, agilidade e ousadia criativa The post Como a Nestl",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/HOW-NESTLE-TURNED-A-CHOCOLATE-HEIST-INTO-A-MASTERCLASS-IN-BRAND-BUILDING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Em 2022, governadores buscavam Lula e Bolsonaro; agora o movimento se inverteu",
+        "link": "https://www.infomoney.com.br/mercados/em-2022-governadores-buscavam-lula-e-bolsonaro-agora-o-movimento-se-inverteu/",
+        "summary": "Se em 2022 Lula e Bolsonaro eram os principais cabos eleitorais dos estados, a campanha de 2026 inverteu a lógica e transformou governadores em ativos estratégicos para a corrida ao Planalto The post Em 2022, governadore",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Design-sem-nome-34.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Boa gestão, caixa e retorno: gestores traçam mapa da mina do crédito privado em 2026",
+        "link": "https://www.infomoney.com.br/onde-investir/boa-gestao-caixa-e-retorno-gestores-tracam-o-mapa-da-mina-do-credito-privado-no-ano/",
+        "summary": "Especialistas citam cenário difícil para a economia nos próximos meses, mas veem espaço para ganhos em papéis de empresas, com cautela e seletividade The post Boa gestão, caixa e retorno: gestores traçam mapa da mina do ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260724-15h20-learning-session-05-4.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Mercado livre de energia reduz conta de luz de 73% das indústrias, aponta CNI",
         "link": "https://www.infomoney.com.br/brasil/mercado-livre-de-energia-reduz-conta-de-luz-de-73-das-industrias-aponta-cni/",
         "summary": "Cerca de 41% das empresas que migraram desde 2024 conseguiram diminuir o custo mais pesado e que compromete a competitividade do setor The post Mercado livre de energia reduz conta de luz de 73% das indústrias, aponta CN",
@@ -317,54 +367,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Lotofácil hoje, concurso 3748: confira o resultado sorteado nesta quarta (29)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3748-confira-o-resultado-sorteado-nesta-quarta-29/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3748: confira o resultado sorteado nesta quarta (29) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/lotofacil2907.png?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "title": "As habilidades que a IA não substitui (e que mais devem valer no mercado até 2030)",
+        "link": "https://exame.com/inteligencia-artificial/as-habilidades-que-a-ia-nao-substitui-e-que-mais-devem-valer-no-mercado-ate-2030/",
+        "summary": "Enquanto a inteligência artificial assume tarefas repetitivas e analíticas, competências ligadas ao julgamento, à criatividade e às relações humanas tendem a ganhar ainda mais valor nos próximos anos",
+        "image": null,
         "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Quina hoje, concurso 7078: confira o resultado sorteado nesta quarta (29)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7078-confira-o-resultado-sorteado-nesta-quarta-29/",
-        "summary": "Os números sorteados foram: 55 – 16 – 71 – 66 – 31 The post Quina hoje, concurso 7078: confira o resultado sorteado nesta quarta (29) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/quina2907.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "A Hypera agora tem seu próprio Ozempic. E a empresa pode faturar R$ 1 bi com ele",
+        "link": "https://exame.com/invest/mercados/a-hypera-agora-tem-seu-proprio-ozempic-e-a-empresa-pode-faturar-r-1-bi-com-ele/",
+        "summary": "BTG estima que medicamentos GLP-1 podem chegar a 7% da receita da empresa até 2030, mas concorrência pressiona preços",
+        "image": null,
         "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Controladores do Bradesco vão subscrever até R$8 bi de aumento de capital",
-        "link": "https://www.infomoney.com.br/mercados/controladores-do-bradesco-vao-subscrever-ate-r8-bi-de-aumento-de-capital/",
-        "summary": "Administração aprovou um aumento de até R$10 bi The post Controladores do Bradesco vão subscrever até R$8 bi de aumento de capital appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Bradesco_Pau_dos_Ferros_RN.jpg?fit=300%2C174&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "The Natural One avalia opções estratégicas, incluindo a venda, segundo fontes",
-        "link": "https://www.infomoney.com.br/business/the-natural-one-avalia-opcoes-estrategicas-incluindo-a-venda-segundo-fontes/",
-        "summary": "Fabricante brasileira de sucos pretende expandir mais internacionalmente, além de outros planos de crescimento, afirmaram as fontes The post The Natural One avalia opções estratégicas, incluindo a venda, segundo fontes a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/08/Natural-One-sucos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pernambucanas anuncia ex-GPA como novo CEO",
-        "link": "https://www.infomoney.com.br/business/pernambucanas-anuncia-ex-gpa-como-novo-ceo/",
-        "summary": "Companhia também tem novo diretor financeiro e troca na presidência do conselho The post Pernambucanas anuncia ex-GPA como novo CEO appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/pernambucanas.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Conheça os boletins que orientam as expectativas da economia",
@@ -400,26 +420,6 @@
         "title": "'American Horror Story 13' vai reunir toda a franquia, revela Ryan Murphy",
         "link": "https://exame.com/pop/american-horror-story-13-vai-reunir-toda-a-franquia-revela-ryan-murphy/",
         "summary": "Criador da série explica que a nova temporada vai reunir personagens de diferentes fases da antologia e deixa claro que o foco vai além de 'Coven'",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "'Super Mario Galaxy: O Filme' já pode ser visto no streaming; saiba qual",
-        "link": "https://exame.com/pop/super-mario-galaxy-o-filme-ja-pode-ser-visto-no-streaming-saiba-qual/",
-        "summary": "O filme inspirado na franquia da Nintendo inicia sua fase no streaming e amplia o acesso para quem perdeu a estreia nos cinemas",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja quando o novo filme dos 'Minions' deve chegar ao streaming",
-        "link": "https://exame.com/pop/veja-quando-o-novo-filme-dos-minions-deve-chegar-ao-streaming/",
-        "summary": "Filme estreou nos cinemas e deve repetir a estratégia recente da Universal para lançamentos digitais e no streaming",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
