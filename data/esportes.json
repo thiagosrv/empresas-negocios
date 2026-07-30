@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T20:34:21.336Z",
+  "updated": "2026-07-30T22:18:40.588Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,7 +11,7 @@
       "isoDate": "2026-07-30",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja fotos do encontro de Ancelotti com técnicos das seleções de base na Granja Comary",
@@ -22,7 +22,7 @@
       "isoDate": "2026-07-30",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti fala sobre amistosos no início do novo ciclo da Seleção Brasileira",
@@ -33,7 +33,18 @@
       "isoDate": "2026-07-30",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ancelotti se reúne com técnicos da base e promete “novas caras” na Seleção",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-se-reune-com-tecnicos-da-base-e-promete-novas-caras-na-selecao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de jul. de 2026",
+      "isoDate": "2026-07-30",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e6-1f1fa.png"
     },
     {
       "title": "Gabriel Menino celebra evolução e descarta recado a Ancelotti após gol: &#8220;Estou focado no Santos&#8221;",
@@ -66,18 +77,7 @@
       "isoDate": "2026-07-29",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ancelotti volta ao Brasil e inicia planejamento para o ciclo da Copa de 2030",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-volta-ao-brasil-e-inicia-planejamento-para-o-ciclo-da-copa-de-2030/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "28 de jul. de 2026",
-      "isoDate": "2026-07-28",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Seleção sub-20 é convocada para amistosos contra a Bolívia; veja a lista",
@@ -88,7 +88,7 @@
       "isoDate": "2026-07-28",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
