@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-29T23:00:53.783Z",
+  "updated": "2026-07-30T02:42:13.755Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Mogi Mirim registrou rajadas de vento de 60 km/h no horário da queda de avião que matou piloto, diz Defesa Civil",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/mogi-mirim-registrou-rajadas-vento-horario-queda-aviao-matou-piloto.ghtml",
+        "summary": "Avião cai em Mogi Mirim Reprodução/Redes Sociais As rajadas de vento chegaram a 60,5 km/h em Mogi Mirim (SP) no momento em que um avião de pequeno porte caiu na tarde desta terça (29), provocando a morte do piloto Leonar",
+        "image": "https://s2-g1.glbimg.com/Zsb6ZguSDlt72vNMTpjgnnNxvS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/xRR7ikRcAyAs92HnPg5w/design-sem-nome-22-.jpg",
+        "date": "30 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Quem era piloto que morreu em queda de avião em Mogi Mirim",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/piloto-morreu-queda-aviao-mogi-mirim-gestor-seguranca-escola-aviacao.ghtml",
@@ -53,19 +63,49 @@
         "cls": "brasil"
       },
       {
-        "title": "Vaca quebra cancela e invade condomínio no interior de SP; VÍDEO",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/29/video-vaca-invade-condominio-residencial-em-mogi-mirim.ghtml",
-        "summary": "VÍDEO: vaca invade condomínio residencial em Mogi Mirim Câmeras de segurança registraram o momento em que uma vaca invadiu um condomínio em Mogi Mirim (SP), na manhã desta quarta-feira (29). O caso aconteceu na rua Maria",
-        "image": "https://s2-g1.glbimg.com/EaKfYadvE_zHJTWHcOjvwYKGyhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/Lt08SzRjKjBeF6NYUraQ/design-sem-nome-2-.png",
+        "title": "TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
         "date": "29 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Força-tarefa resgata 89 pessoas em condições degradantes de trabalho",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/forca-tarefa-resgata-89-pessoas-em-condicoes-degradantes-de-trabalho",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/forca-tarefa-resgata-89-pessoas-em-condicoes-degradantes-de-trabalho img src= https://cdn.jsdelivr.net/gh/ser",
+        "title": "PSB oficializa candidatura de Alckmin à Vice-Presidência da República",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/psb-oficializa-candidatura-de-geraldo-alckmin-vice-presidencia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/psb-oficializa-candidatura-de-geraldo-alckmin-vice-presidencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "29 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rio de Janeiro tem duas mortes e um desaparecido depois de ventania",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-de-janeiro-tem-duas-mortes-e-um-desaparecido-depois-de-ventania",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-de-janeiro-tem-duas-mortes-e-um-desaparecido-depois-de-ventania img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "29 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "29 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Defesa Civil reconhece situação de emergência em duas cidades gaúchas",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/defesa-civil-reconhece-situacao-de-emergencia-em-duas-cidades-gauchas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/defesa-civil-reconhece-situacao-de-emergencia-em-duas-cidades-gauchas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Agência Brasil",
@@ -81,105 +121,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dólar cai para R$ 5,10, após juros serem mantidos nos EUA",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pensão alimentícia será recebida de forma automática, via pix",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/divida-publica-sobe-261-em-junho-e-supera-r-92-trilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/divida-publica-sobe-261-em-junho-e-supera-r-92-trilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
-        "image": null,
-        "date": "29 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Grêmio x Bolívar: veja prováveis escalações e onde assistir ao duelo pela Copa Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/gremio/gremio-x-bolivar-onde-assistir-escalacoes-sul-americana-2026/",
-        "summary": "Grêmio e Bolívar se enfrentam nesta quinta-feira, às 19h (de Brasília), na Arena do Grêmio, em Porto Alegre (RS), pelo jogo de volta dos playoffs da Copa Sul-Americana. Após a derrota por 3 a 2 no confronto de ida, o Tri",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260723__C3293H9__v1__HighRes__FblSudamericanaBolivarGremio.webp",
-        "date": "29 de jul. de 2026",
+        "title": "Palmeiras aproveita expulsões, goleia o Vitória e amplia vantagem na liderança do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-x-palmeiras-21-rodada-brasileirao-29-07-2026/",
+        "summary": "O Palmeiras venceu o Vitória por 4 a 0 na noite desta quarta-feira, pela 21ª rodada do Campeonato Brasileiro, em partida marcada por polêmicas de arbitragem e pelas expulsões de dois jogadores do time baiano ainda no pri",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HOcTM33W0AA7Gna.webp",
+        "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vasco x Santos: saiba onde assistir ao jogo pelo Brasileirão sub-20",
-        "link": "https://www.gazetaesportiva.com/times/santos/vasco-x-santos-saiba-onde-assistir-ao-jogo-pelo-brasileirao-sub-20/",
-        "summary": "O Santos enfrenta o Vasco nesta quinta-feira, em São Januário, pelo jogo de volta da semifinal do Campeonato Brasileiro Sub-20. Veja onde assistir, horário da partida, como foi o duelo de ida e o que o Peixe precisa para",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55363215269_e63ae11181_o.webp",
-        "date": "29 de jul. de 2026",
+        "title": "Fluminense empata com o Bahia e amarga quinto jogo sem vencer no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/fluminense/fluminense-empata-com-o-bahia-e-amarga-quinto-jogo-sem-vencer-no-brasileirao/",
+        "summary": "Nesta quarta-feira, o Fluminense ficou no empate com o Bahia por 0 a 0, no Maracanã, no Rio de Janeiro, pela 21ª rodada do Campeonato Brasileiro e amargou o quinto jogo sem vencer na competição nacional. O post Fluminens",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55429674933_7682f5a408_o.webp",
+        "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "De Miñaur vence Tsitsipas em Washington e vai enfrentar Cruz Hewitt",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/de-minaur-vence-tsitsipas-em-washington-e-vai-enfrentar-cruz-hewitt/",
-        "summary": "O tenista australiano Alex de Miñaur iniciou a defesa de seu título no torneio de Washington (ATP 500) nesta quarta-feira com uma vitória sobre o grego Stefanos Tsitsipas, e com isso avançou para enfrentar na próxima rod",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260729__2288187354__v1__HighRes__MubadalaCitiDcOpen2026Day3.webp",
-        "date": "29 de jul. de 2026",
+        "title": "Bragantino vence Sporting Cristal e enfrentará o Atlético-MG nas oitavas da Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/bragantino/bragantino-vence-sporting-cristal-oitavas-sul-americana-atletico-mg/",
+        "summary": "Bragantino vence o Sporting Cristal em Bragança Paulista, avança às oitavas da Sul-Americana e encara o Atlético-MG na próxima fase. O post Bragantino vence Sporting Cristal e enfrentará o Atlético-MG nas oitavas da Sul-",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260730__C3J7349__v1__HighRes__FblSudamericanaBragantinoCristal.webp",
+        "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Kaio César será julgado pelo STJD e pode virar desfalque no Corinthians",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-sera-julgado-pelo-stjd-e-pode-virar-desfalque-no-corinthians/",
-        "summary": "O atacante Kaio César será julgado pelo STJD nesta quinta-feira por envolvimento na confusão entre Bahia e Corinthians, pela 20ª rodada do Brasileirão. Denunciado por ato desleal ou hostil, o jogador pode pegar de uma a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/246888.webp",
-        "date": "29 de jul. de 2026",
+        "title": "Veja as fotos de RB Bragantino x Sporting Cristal pela Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/bragantino/veja-as-fotos-de-rb-bragantino-x-sporting-cristal-pela-sul-americana/",
+        "summary": "O post Veja as fotos de RB Bragantino x Sporting Cristal pela Sul-Americana apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260730__C3J36LD__v1__MidRes__FblSudamericanaBragantinoCristal.webp",
+        "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ancelotti fala sobre decepção na Copa e promete renovação na Seleção",
-        "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-fala-sobre-decepcao-na-copa-e-promete-renovacao-na-selecao/",
-        "summary": "Carlo Ancelotti fez uma avaliação de seu primeiro ano no comando da Seleção Brasileira e reconheceu os erros que contribuíram para a eliminação precoce do Brasil na Copa do Mundo de 2026. O treinador destacou a decepção ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/24JUN2026BRASILXESCOCIA218-CARLO-ANCELOTTI.webp",
-        "date": "29 de jul. de 2026",
+        "title": "Porto atravessa Benfica e se aproxima de ex-lateral do Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/porto-avanca-contratacao-souza-tottenham/",
+        "summary": "O Porto avançou nas negociações para contratar o lateral-esquerdo Souza, de 20 anos, junto ao Tottenham. O clube português superou a concorrência do Benfica, alinhou condições com o jogador e segue em tratativas com a eq",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/2026-02-07T140202Z_1458822572_UP1EM2712ZCTR_RTRMADP_3_SOCCER-ENGLAND-MUN-TOT.webp",
+        "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Messi retorna aos treinos do Inter Miami",
-        "link": "https://www.gazetaesportiva.com/inter-miami/messi-retorna-aos-treinos-do-inter-miami/",
-        "summary": "Messi voltou aos treinos do Inter Miami após a Copa do Mundo e ainda não tem presença confirmada no próximo jogo da MLS. O post Messi retorna aos treinos do Inter Miami apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/AFP__20260525__2278046044__v1__HighRes__InterMiamiCfVPhiladelphiaUnion.webp",
-        "date": "29 de jul. de 2026",
+        "title": "Fluminense x Bahia: veja fotos do jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/fluminense/fluminense-x-bahia-veja-fotos-do-jogo-pelo-brasileirao/",
+        "summary": "O post Fluminense x Bahia: veja fotos do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55429726899_36d1ea7056_o.webp",
+        "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -247,6 +247,46 @@
         "cls": ""
       },
       {
+        "title": "Lotofácil hoje, concurso 3748: confira o resultado sorteado nesta quarta (29)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3748-confira-o-resultado-sorteado-nesta-quarta-29/",
+        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3748: confira o resultado sorteado nesta quarta (29) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/lotofacil2907.png?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7078: confira o resultado sorteado nesta quarta (29)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7078-confira-o-resultado-sorteado-nesta-quarta-29/",
+        "summary": "Os números sorteados foram: 55 – 16 – 71 – 66 – 31 The post Quina hoje, concurso 7078: confira o resultado sorteado nesta quarta (29) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/quina2907.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Controladores do Bradesco vão subscrever até R$8 bi de aumento de capital",
+        "link": "https://www.infomoney.com.br/mercados/controladores-do-bradesco-vao-subscrever-ate-r8-bi-de-aumento-de-capital/",
+        "summary": "Administração aprovou um aumento de até R$10 bi The post Controladores do Bradesco vão subscrever até R$8 bi de aumento de capital appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Bradesco_Pau_dos_Ferros_RN.jpg?fit=300%2C174&amp;quality=70&amp;strip=all",
+        "date": "29 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "The Natural One avalia opções estratégicas, incluindo a venda, segundo fontes",
+        "link": "https://www.infomoney.com.br/business/the-natural-one-avalia-opcoes-estrategicas-incluindo-a-venda-segundo-fontes/",
+        "summary": "Fabricante brasileira de sucos pretende expandir mais internacionalmente, além de outros planos de crescimento, afirmaram as fontes The post The Natural One avalia opções estratégicas, incluindo a venda, segundo fontes a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/08/Natural-One-sucos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "29 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Pernambucanas anuncia ex-GPA como novo CEO",
         "link": "https://www.infomoney.com.br/business/pernambucanas-anuncia-ex-gpa-como-novo-ceo/",
         "summary": "Companhia também tem novo diretor financeiro e troca na presidência do conselho The post Pernambucanas anuncia ex-GPA como novo CEO appeared first on InfoMoney.",
@@ -267,49 +307,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Vitória x Palmeiras: Onde assistir?",
-        "link": "https://www.infomoney.com.br/esportes/vitoria-palmeiras-onde-assistir-2/",
-        "summary": "O Vitória é o 13º colocado do Brasileirão, enquanto o Palmeiras é o líder The post Vitória x Palmeiras: Onde assistir? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-vitoria-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vento em SP supera 120 km/h e deixa mortos no litoral e no interior",
-        "link": "https://www.infomoney.com.br/brasil/vento-em-sp-supera-120-km-h-e-deixa-mortos-no-litoral-e-no-interior/",
-        "summary": "Frente fria atinge Estado com ventania recorde no interior e litoral; Defesa Civil ativa gabinete de crise após quedas de árvores, apagões e suspensão de travessias marítimas The post Vento em SP supera 120 km/h e deixa ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/AGF20260729028.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Qualcomm registra queda em lucro e receita citando aumento de custos com memória",
-        "link": "https://www.infomoney.com.br/mercados/qualcomm-registra-queda-em-lucro-e-receita-citando-aumento-de-custos-com-memoria/",
-        "summary": "Lucro ajustado por ação recuou 23%, para US$ 1,87, abaixo das projeções The post Qualcomm registra queda em lucro e receita citando aumento de custos com memória appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-06T171700Z_882554086_RC2KEGAJ7J9E_RTRMADP_3_QUALCOMM-BRITAIN-COURT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fifa abre processos contra Argentina por cânticos, atrasos e briga na final da Copa",
-        "link": "https://www.infomoney.com.br/esportes/fifa-abre-processos-contra-argentina-por-canticos-atrasos-e-briga-na-final-da-copa/",
-        "summary": "Entidade máxima do futebol notifica federação, atletas e comissão técnica por episódios que vão de supostos gestos discriminatórios a agressões The post Fifa abre processos contra Argentina por cânticos, atrasos e briga ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-19T220932Z_1412782405_UP1EM7J1PBX28_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C184&amp;quality=70&amp;strip=all",
-        "date": "29 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quando 'Toy Story 5' chega ao streaming? Veja a previsão para assistir em casa",
-        "link": "https://exame.com/pop/quando-toy-story-5-chega-ao-streaming-veja-a-previsao-para-assistir-em-casa/",
-        "summary": "Filme da Pixar segue a estratégia recente da Disney e deve levar alguns meses até desembarcar no Disney+",
+        "title": "Europa ameaça boicotar Copa do Mundo de 2030 após plano polêmico da Fifa",
+        "link": "https://exame.com/esporte/europa-ameaca-boicotar-copa-do-mundo-de-2030-apos-plano-polemico-da-fifa/",
+        "summary": "Contrária à ideia da criação de uma empresa que pode abrir brecha para investidores privados, Uefa e seus membros se posicionam contra o plano da Fifa",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -317,9 +317,9 @@
         "cls": "startups"
       },
       {
-        "title": "O final do último 'Homem-Aranha': tudo o que você precisa lembrar antes de ver 'Um Novo Dia'",
-        "link": "https://exame.com/pop/o-final-do-ultimo-homem-aranha-tudo-o-que-voce-precisa-lembrar-antes-de-ver-um-novo-dia/",
-        "summary": "Da crise do multiverso ao sacrifício final, relembre os momentos que levaram Peter Parker a um novo começo",
+        "title": "Palmeiras lança moeda de R$ 75 mil sobre título intercontinental de 1951",
+        "link": "https://exame.com/esporte/palmeiras-lanca-moeda-de-r-75-mil-sobre-titulo-intercontinental-de-1951/",
+        "summary": "O título de 1951 segue como um dos temas mais discutidos da história do futebol brasileiro",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -327,9 +327,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Homem-Aranha: Um Novo Dia' conquista os fãs nas primeiras sessões; veja as reações",
-        "link": "https://exame.com/pop/homem-aranha-um-novo-dia-conquista-os-fas-nas-primeiras-sessoes-veja-as-reacoes/",
-        "summary": "O novo capítulo do herói da Marvel começa sua trajetória nos cinemas cercado por reações entusiasmadas do público",
+        "title": "'American Horror Story 13' vai reunir toda a franquia, revela Ryan Murphy",
+        "link": "https://exame.com/pop/american-horror-story-13-vai-reunir-toda-a-franquia-revela-ryan-murphy/",
+        "summary": "Criador da série explica que a nova temporada vai reunir personagens de diferentes fases da antologia e deixa claro que o foco vai além de 'Coven'",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -337,9 +337,9 @@
         "cls": "startups"
       },
       {
-        "title": "Zidane poderá ganhar R$ 2,6 milhões mensais como treinador da França",
-        "link": "https://exame.com/esporte/zidane-podera-ganhar-r-26-milhoes-mensais-como-treinador-da-franca/",
-        "summary": "O ex-meia assumiu o comando da França e terá um salário fixo de 300 mil euros por mês",
+        "title": "'Super Mario Galaxy: O Filme' já pode ser visto no streaming; saiba qual",
+        "link": "https://exame.com/pop/super-mario-galaxy-o-filme-ja-pode-ser-visto-no-streaming-saiba-qual/",
+        "summary": "O filme inspirado na franquia da Nintendo inicia sua fase no streaming e amplia o acesso para quem perdeu a estreia nos cinemas",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -347,9 +347,9 @@
         "cls": "startups"
       },
       {
-        "title": "Arsenal mantém Bruno Guimarães como seu alvo principal para reforçar elenco",
-        "link": "https://exame.com/esporte/arsenal-mantem-bruno-guimaraes-como-seu-alvo-principal-para-reforcar-elenco/",
-        "summary": "O clube inglês quer a contratação do volante brasileiro, mas enfrenta dificuldades para fechar a negociação com o Newcastle",
+        "title": "Veja quando o novo filme dos 'Minions' deve chegar ao streaming",
+        "link": "https://exame.com/pop/veja-quando-o-novo-filme-dos-minions-deve-chegar-ao-streaming/",
+        "summary": "Filme estreou nos cinemas e deve repetir a estratégia recente da Universal para lançamentos digitais e no streaming",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
@@ -357,9 +357,9 @@
         "cls": "startups"
       },
       {
-        "title": "Entenda o plano da Fifa que que pode 'vender' parte da Copa do Mundo",
-        "link": "https://exame.com/esporte/entenda-o-plano-da-fifa-que-que-pode-vender-parte-da-copa-do-mundo/",
-        "summary": "A nova empresa, que ficaria encarregada da operação dos principais torneios da Fifa, teria ações negociadas com investidores",
+        "title": "Disco icônico dos Beatles ganhará versão especial de R$ 1.450",
+        "link": "https://exame.com/pop/disco-iconico-dos-beatles-ganhara-versao-especial-de-r-1-450/",
+        "summary": "Lançado originalmente em 3 de dezembro de 1965, Rubber Soul é considerado um dos marcos da evolução artística dos Beatles",
         "image": null,
         "date": "29 de jul. de 2026",
         "source": "Exame",
