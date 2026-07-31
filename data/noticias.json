@@ -1,12 +1,22 @@
 {
-  "updated": "2026-07-30T22:09:22.275Z",
+  "updated": "2026-07-31T00:05:30.930Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Comércio fecha semestre com saldo negativo de empregos em Campinas; serviços têm alta de 70%",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/comercio-semestre-saldo-negativo-empregos-servicos-tem-alta.ghtml",
+        "summary": "Setor de serviços lidera a criação de empregos formais em Campinas O comércio em Campinas (SP) encerrou o primeiro semestre de 2026 com saldo negativo de empregos, sendo que 179 postos de trabalho foram fechados. Os dado",
+        "image": "https://s2-g1.glbimg.com/6RuuFmWX13EKw08VCuQHIGEDmfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/y/KzqXtGTlAlaVKHpQ9c4g/vlcsnap-2026-04-29-15h44m45s730.png",
+        "date": "30 de jul. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Denúncias de 'pejotização' aumentam 52,4% e chegam a 13 por mês na região de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/denuncias-pejotizacao-aumentam-regiao-campinas.ghtml",
+        "summary": "Denúncias de 'pejotização' aumentam 52,4% e chegam a 13 por mês, segundo MPT As denúncias de \"pejotização\" na região de Campinas aumentaram 52,4% de janeiro a julho de 2026 em comparação com o mesmo período do ano passad",
+        "image": "https://s2-g1.glbimg.com/RLgJbHTLltP7tvjtOKxc8dWJkVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/oJqpZwT32lZ7bAarqW2g/vlcsnap-2026-07-30-19h12m06s225.png",
         "date": "30 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/07/30/upa-campinas-abre-processo-seletivo-vagas-medicos.ghtml",
         "summary": "Fachada do Hospital Mário Gatti, em Campinas (SP). Reprodução/EPTV A Rede Mário Gatti irá contratar 12 médicos para a Unidade de Pronto-Atendimento (UPA) Carlos Lourenço, em Campinas (SP), para repor o quadro de funcioná",
         "image": "https://s2-g1.glbimg.com/8JRODK4c5-ADjhp4OMDkHvQTU84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/F/AICCPEStAeinhdrnP25Q/2.png",
-        "date": "30 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Após acusação de tutor, donos de camping na Patagônia negam ter escondido corpo de 'frentiscão' de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/30/apos-acusacao-de-tutor-donos-de-camping-na-patagonia-negam-ter-escondido-corpo-de-frentiscao-de-campinas.ghtml",
-        "summary": "Veja a cronologia da morte do cachorro influencer Poze durante viagem à Argentina Os proprietários do camping Chacra Wharton, na Argentina, apontado pela família como o local onde o \"frentiscão\" Poze teria sido atacado p",
-        "image": "https://s2-g1.glbimg.com/ozjHJSP7lJQWNNAS0XcsvCd1fUw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Y/dDXnJ9Qcif0dabZrsZWA/nery.jpg",
         "date": "30 de jul. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Livro Escreviventes celebra Conceição Evaristo e Eliana Alves Cruz",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/livro-escreviventes-celebra-conceicao-evaristo-e-eliana-alves-cruz",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/livro-escreviventes-celebra-conceicao-evaristo-e-eliana-alves-cruz img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Tarifas dos EUA são inconsistentes com regras da OMC, diz Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/tarifas-dos-eua-sao-inconsistentes-com-regras-da-omc-diz-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/tarifas-dos-eua-sao-inconsistentes-com-regras-da-omc-diz-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Rede elétrica mais resiliente requer investimento de concessionárias",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rede-eletrica-mais-resiliente-requer-investimento-de-concessionarias",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rede-eletrica-mais-resiliente-requer-investimento-de-concessionarias img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "PCdoB oficializa apoio à candidatura de Lula",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pcdob-oficializa-apoio-candidatura-de-lula",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pcdob-oficializa-apoio-candidatura-de-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/ass",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "SP inicia campanha de multivacinação na segunda-feira (3)",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-inicia-campanha-de-multivacinacao-na-segunda-feira-3",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-inicia-campanha-de-multivacinacao-na-segunda-feira-3 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "title": "Mais de 200 mil continuam sem energia no Rio após vendaval",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mais-de-200-mil-continuam-sem-energia-no-rio-apos-vendaval",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mais-de-200-mil-continuam-sem-energia-no-rio-apos-vendaval img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Governo Central tem déficit de R$ 48,2 bilhões em junho",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-central-tem-deficit-de-r-482-bilhoes-em-junho",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-central-tem-deficit-de-r-482-bilhoes-em-junho img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
+        "title": "CMN institui regime especial para fundos de inovação no Eco Invest",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cmn-institui-regime-especial-para-fundos-de-inovacao-no-eco-invest",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cmn-institui-regime-especial-para-fundos-de-inovacao-no-eco-invest img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Eleições 2026: campanha Boto Fé no Voto quer combater desinformação",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/eleicoes-2026-campanha-boto-fe-no-voto-quer-combater-desinformacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/eleicoes-2026-campanha-boto-fe-no-voto-quer-combater-desinformacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "Dólar cai ao menor nível em quase dois meses, com alívio externo",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-ao-menor-nivel-em-quase-dois-meses-com-alivio-externo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-ao-menor-nivel-em-quase-dois-meses-com-alivio-externo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Federação do PT recorre ao TSE para retirar postagens de deep fake",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/federacao-do-pt-recorre-ao-tse-para-retirar-postagens-de-deep-fake",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/federacao-do-pt-recorre-ao-tse-para-retirar-postagens-de-deep-fake img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Governo paraguaio convoca embaixador do Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/apos-fala-de-lula-governo-paraguaio-convoca-embaixador-do-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/apos-fala-de-lula-governo-paraguaio-convoca-embaixador-do-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Com show de atacante grego, Benfica goleia o St. Gallen e avança na Liga Europa",
-        "link": "https://www.gazetaesportiva.com/times/benfica/com-show-de-atacante-grego-benfica-goleia-o-st-gallen-e-avanca-na-liga-europa/",
-        "summary": "O Benfica goleou o St. Gallen por 5 a 0 no Estádio da Luz, reverteu a derrota sofrida no jogo de ida e garantiu vaga na terceira e última fase das qualificatórias da Liga Europa. Grande destaque da partida, Pavlidis marc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/WhatsApp-Image-2026-07-30-at-17.57.27.webp",
+        "title": "Santos perde nos pênaltis, e Vasco pega o Palmeiras na final do Brasileirão sub-20",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-perde-nos-penaltis-e-vasco-pega-o-palmeiras-na-final-do-brasileirao-sub-20/",
+        "summary": "O Santos foi eliminado na semifinal do Campeonato Brasileiro Sub-20 ao perder para o Vasco nos pênaltis por 5 a 4, após derrota por 2 a 0 no tempo normal, em São Januário. O Cruz-Maltino enfrentará o Palmeiras na decisão",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HOgjxQeXkAAhjn_.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos se prepara para duelo contra o Remo pela Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/santos-se-prepara-para-duelo-contra-o-remo-pela-copa-do-brasil/",
-        "summary": "Na antevéspera do jogo em casa pela ida das oitavas de final, o técnico Cuca comandou treino no CT Rei Pelé. O post Santos se prepara para duelo contra o Remo pela Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/0p6hqaom-1920o-Remo-pela.webp",
+        "title": "Zakaria Labyad torce o joelho em jogo do Corinthians e sai no intervalo",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/zakaria-labyad-torce-o-joelho-em-jogo-do-corinthians-e-sai-no-intervalo/",
+        "summary": "O Corinthians ganhou mais uma preocupação para a temporada. O meia Zakaria Labyad sofreu uma lesão no joelho esquerdo durante a partida contra o Athletico-PR, pelo Brasileirão, e precisou deixar o campo de maca. O marroq",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Captura-de-tela-2026-07-30-202732.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Allan destaca adaptação tática no Palmeiras após volta de suspensão e projeta duelo pela Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/allan-destaca-adaptacao-tatica-no-palmeiras-apos-volta-de-suspensao-e-projeta-duelo-pela-copa-do-brasil/",
-        "summary": "Após cumprir dois jogos de suspensão, Allan voltou a ficar à disposição de Abel Ferreira na última quarta-feira e foi titular na goleada do Palmeiras por 4 a 0 sobre o Vitória, pela 21ª rodada do Campeonato Brasileiro. O",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/29072026_cg_palmeiras_7059_36-1.webp",
+        "title": "Palmeiras vence o Flamengo e avança à final da Copa do Brasil sub-15",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-o-flamengo-e-avanca-a-final-da-copa-do-brasil-sub-15/",
+        "summary": "O Palmeiras vence o Flamengo por 4 a 2, nesta quinta-feira, na Granja Comary, em Teresópolis (RJ) e avançou à final da Copa do Brasil sub-15. Gabriel Leite, Gabriel Bueno, Maicon Vinicius e Lucas Moraes anotaram os gols ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/30JUL2026COPADOBRASILSUB15PALMEIRASXFLAEMNGO-2-2000x1200-1.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vasco vira a chave e treina para clássico pela Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-vira-a-chave-e-treina-para-classico-pela-copa-do-brasil/",
-        "summary": "Um dia após garantir vaga nas oitavas da CONMEBOL Sudamericana, o elenco vascaíno voltou aos trabalhos de olho nas oitavas da Copa do Brasil contra o Fluminense. O post Vasco vira a chave e treina para clássico pela Copa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/4hmwknl2-1920vas.webp",
+        "title": "São Paulo x Botafogo-SP: prováveis escalações e onde assistir ao jogo pelo Paulista sub-20",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-botafogo-sp-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
+        "summary": "Confira informações e onde assistir ao duelo entre São Paulo e Botafogo-SP, pela nona rodada do Campeonato Paulista sub-20. O post São Paulo x Botafogo-SP: prováveis escalações e onde assistir ao jogo pelo Paulista sub-2",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/whatsapp-image-2026-07-18-at-17-18-10.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Dorival Júnior faz trabalhos táticos com o elenco do São Paulo",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/dorival-junior-faz-trabalhos-taticos-com-o-elenco-do-sao-paulo/",
-        "summary": "O Tricolor segue com os preparativos para enfrentar o Grêmio, pelo Campeonato Brasileiro, e nesta quinta-feira (30) fechou mais um dia de trabalho no SuperCT. O post Dorival Júnior faz trabalhos táticos com o elenco do S",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/trabalhos-taticos.webp",
+        "title": "Real Madrid contrata atacante Carlos Espí, do Levante",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-contrata-atacante-carlos-espi-do-levante/",
+        "summary": "O Real Madrid anunciou a contratação do atacante espanhol **Carlos Espí**, de 21 anos, junto ao Levante. O jogador assinou contrato por cinco temporadas, até junho de 2031. Considerado uma das revelações do futebol espan",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/ND-CARLOS-ESPI.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo FC apresenta a nova terceira camisa da temporada",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-fc-apresenta-a-nova-terceira-camisa-da-temporada/",
-        "summary": "Inspirado em elementos da alfaiataria, a New Balance e o São Paulo Futebol Clube apresentam a nova terceira camisa para a temporada 2026 O post São Paulo FC apresenta a nova terceira camisa da temporada apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/terceira-camisa.webp",
+        "title": "Neymar Jr é homenageado no Memorial do Santos",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/neymar-jr-e-homenageado-no-memorial-do-santos/",
+        "summary": "O Santos celebrou a trajetória de Neymar Jr com a inauguração de um espaço dedicado no Memorial das Conquistas do clube, com um busto e uma estátua em sua homenagem. O post Neymar Jr é homenageado no Memorial do Santos a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/trajetoria-de-Neymar-J.webp",
         "date": "30 de jul. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,26 @@
       }
     ],
     "negocios": [
+      {
+        "title": "CMN institui regime especial para fundos de inovação no Eco Invest",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cmn-institui-regime-especial-para-fundos-de-inovacao-no-eco-invest",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/cmn-institui-regime-especial-para-fundos-de-inovacao-no-eco-invest img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "30 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Dólar cai ao menor nível em quase dois meses, com alívio externo",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-ao-menor-nivel-em-quase-dois-meses-com-alivio-externo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-ao-menor-nivel-em-quase-dois-meses-com-alivio-externo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "30 de jul. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Governo Central tem déficit de R$ 48,2 bilhões em junho",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-central-tem-deficit-de-r-482-bilhoes-em-junho",
@@ -287,24 +307,54 @@
         "cls": ""
       },
       {
-        "title": "Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/arrecadacao-federal-cresce-77-em-junho-e-soma-r-2644-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/arrecadacao-federal-cresce-77-em-junho-e-soma-r-2644-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "30 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Mega-Sena hoje, concurso 3038: confira o resultado sorteado nesta quinta-feira (30)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3038-confira-o-resultado-sorteado-nesta-quinta-feira-30/",
+        "summary": "O prêmio principal para este concurso é de R$ 86.000.000,00 The post Mega-Sena hoje, concurso 3038: confira o resultado sorteado nesta quinta-feira (30) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/mega-sena-volantes.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "31 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
-        "title": "SP registra queda de 7,3% no número de homicídios no 1º semestre",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/sp-registra-queda-de-73-no-numero-de-homicidios-no-1o-semestre",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/sp-registra-queda-de-73-no-numero-de-homicidios-no-1o-semestre img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
+        "title": "Lula diz que filho será investigado “como qualquer pessoa” após abertura de inquérito",
+        "link": "https://www.infomoney.com.br/politica/lula-diz-que-filho-sera-investigado-como-qualquer-pessoa-apos-abertura-de-inquerito/",
+        "summary": "Presidente afirma que não pedirá tratamento diferenciado ao filho; André Mendonça autorizou investigação sobre suspeitas de tráfico de influência e corrupção The post Lula diz que filho será investigado “como qualquer pe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/lula-pt-politica-eleicoes-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "30 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vale (VALE3) anuncia o comissionamento do projeto Serra Sul +20",
+        "link": "https://www.infomoney.com.br/mercados/vale-vale3-anuncia-o-comissionamento-do-projeto-serra-sul-20/",
+        "summary": "O projeto contempla a expansão da capacidade de mina e usina do S11D The post Vale (VALE3) anuncia o comissionamento do projeto Serra Sul +20 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Trump diz que Conselho da Paz chegou a acordo sobre desarmamento em Gaza",
+        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-conselho-da-paz-chegou-a-acordo-sobre-desarmamento-em-gaza/",
+        "summary": "Presidente americano afirmou que a medida faz parte de um plano de 20 pontos; remoção das Forças israelenses está inclusa The post Trump diz que Conselho da Paz chegou a acordo sobre desarmamento em Gaza appeared first o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-30T224055Z_1_LYNXMPEM6T29W_RTROPTP_4_ISRAEL-PALESTINIANS-GAZA.jpeg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "EcoRodovias tem lucro líquido recorrente de R$ 52,9 mi no 2º tri, queda de 74%",
+        "link": "https://www.infomoney.com.br/mercados/ecorodovias-ecor3-resultados-segundo-trimestre-2026/",
+        "summary": "Já a receita líquida ajustada registrou alta de 1%, atingindo R$ 1,836 bilhão The post EcoRodovias tem lucro líquido recorrente de R$ 52,9 mi no 2º tri, queda de 74% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/pexels-pixabay-56832.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+        "date": "30 de jul. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "EXCLUSIVO: Erai Maggi lidera grupo do agro em negociação com presidente da Bolívia",
@@ -317,59 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Vale (VALE3) tem lucro líquido de US$ 1,37 bi no 2T26, queda anual de 35%",
-        "link": "https://www.infomoney.com.br/mercados/vale-vale3-resultados-segundo-trimestre-2026/",
-        "summary": "A mineradora divulgou seus resultados na noite desta quinta The post Vale (VALE3) tem lucro líquido de US$ 1,37 bi no 2T26, queda anual de 35% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T135815Z_1_LYNXMPEM5M0XS_RTROPTP_4_VALE-CHAIRMAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Santander anuncia OPA de permuta por Santander Brasil em operação de até R$ 6,4 bi",
-        "link": "https://www.infomoney.com.br/mercados/santander-anuncia-opa-de-permuta-por-acoes-santander-brasil-em-operacao-de-ate-r-64-bi/",
-        "summary": "Segundo o Santander, a transação faz parte da estratégia de simplificação societária e alocação de capital do grupo The post Santander anuncia OPA de permuta por Santander Brasil em operação de até R$ 6,4 bi appeared fir",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Captura-de-tela-2024-04-30-095140.png?fit=300%2C184&amp;quality=70&amp;strip=all",
-        "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vale (VALE3) aprova pagamento de cerca de R$ 2 por ação em proventos e recompra",
-        "link": "https://www.infomoney.com.br/mercados/vale-vale3-proventos-segundo-trimestre-2026/",
-        "summary": "O anúncio aconteceu com a divulgação dos resultados The post Vale (VALE3) aprova pagamento de cerca de R$ 2 por ação em proventos e recompra appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
-        "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Arena São Paulo: veja o que se sabe sobre nova casa de shows que custará R$ 1,5 bi",
-        "link": "https://www.infomoney.com.br/consumo/arena-sao-paulo-maior-casa-shows-fechada-america-sul/",
-        "summary": "O projeto será realizado no complexo Cidade Center Norte The post Arena São Paulo: veja o que se sabe sobre nova casa de shows que custará R$ 1,5 bi appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arena-sao-paulo-live-nation.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha",
-        "link": "https://www.infomoney.com.br/politica/mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha/",
-        "summary": "Defesa de Lulinha diz que recebeu 'com tranquilidade' a informação e afirma que o filho do presidente não obteve nenhum pagamento por negócios de empresários com o governo Lula The post Mendonça autoriza PF a abrir inqué",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/onecms_c87ba564faa34d8799c0c408a42d33d4.203401.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "30 de jul. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Tênis usado por Bieber em show do intervalo da final da Copa é leiloado por valor milionário",
-        "link": "https://exame.com/pop/tenis-usado-por-bieber-em-show-do-intervalo-da-final-da-copa-e-leiloado-por-valor-milionario/",
-        "summary": "As primeiras ofertas pelos tênis variavam entre US$ 2 mil e US$ 4 mil, valor considerado expressivo para um item usado por apenas alguns minutos durante a apresentação",
+        "title": "Lula diz que não vai proteger Lulinha em investigação da PF: 'Terá de provar que é inocente'",
+        "link": "https://exame.com/brasil/lula-diz-que-nao-vai-proteger-lulinha-em-investigacao-da-pf-tera-de-provar-que-e-inocente/",
+        "summary": "Presidente afirma que Fábio Luís, o Lulinha, terá de provar inocência e que, se culpado, \"vai pagar o que todo mundo paga quando erra\"",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Vale anuncia R$ 8,64 bi em dividendos e JCP; veja quem tem direito",
-        "link": "https://exame.com/invest/mercados/vale-anuncia-r-864-bi-em-dividendos-e-jcp-veja-quem-tem-direito/",
-        "summary": "Mineradora paga R$ 2,03 por ação em provento bruto; corte na B3 é em 11 de agosto e crédito, em 2 de setembro",
+        "title": "Sobre o que é 'Fúria', nova série brasileira da Netflix?",
+        "link": "https://exame.com/pop/sobre-o-que-e-furia-nova-serie-brasileira-da-netflix/",
+        "summary": "Com Vinicius Neri, MC Cabelinho, Claudia Raia e Eduardo Moscovis, produção mistura lutas, mistério e conflitos familiares",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "O pior conselho que um líder pode receber: 'não deixe a emoção tomar conta'",
-        "link": "https://exame.com/carreira/o-pior-conselho-que-um-lider-pode-receber-nao-deixe-a-emocao-tomar-conta/",
-        "summary": "Intuitivamente, sabemos algo que durante séculos a ciência tentou ignorar: viver é uma experiência corporal",
+        "title": "Santander de saída da B3? Entenda OPA que fez papel do banco disparar 9% em NY",
+        "link": "https://exame.com/invest/mercados/santander-de-saida-da-b3-entenda-opa-que-fez-papel-do-banco-disparar-9-em-ny/",
+        "summary": "Banco espanhol quer lançar BDR no país e propõe permuta por ações em circulação na bolsa brasileira",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mendonça autoriza PF a investigar Lulinha por tráfico de influência",
-        "link": "https://exame.com/brasil/mendonca-autoriza-pf-a-investigar-lulinha-por-trafico-de-influencia/",
-        "summary": "Defesa do filho do presidente nega qualquer irregularidade",
+        "title": "Trump anuncia acordo para desarmamento do Hamas em Gaza",
+        "link": "https://exame.com/mundo/trump-anuncia-acordo-para-desarmamento-do-hamas-em-gaza/",
+        "summary": "De acordo com o presidente, o acordo deve abrir caminho para que Gaza passe a ser governada por um novo governo palestino, que atuará em conjunto com o Conselho de Paz",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Wagner Moura confirma participação em novo filme de 'Onze Homens e Um Segredo'",
-        "link": "https://exame.com/pop/wagner-moura-confirma-participacao-em-novo-filme-de-onze-homens-e-um-segredo/",
-        "summary": "A produção, que reúne nomes como Bradley Cooper e Margot Robbie, deve começar a ser filmada em breve, na França",
+        "title": "Microsoft cresce US$ 450 bilhões em um dia, quase quatro vezes o valor da Petrobras",
+        "link": "https://exame.com/invest/mercados/microsoft-cresce-us-450-bilhoes-em-um-dia-quase-quatro-vezes-o-valor-da-petrobras/",
+        "summary": "Em apenas um pregão, a companhia criou valor equivalente a 47,3% de toda a capitalização das empresas listadas na B3, montante próximo de quatro vezes o valor de mercado da Petrobras",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Aplicativo do Tesouro Direto será desativado; veja como acessar agora",
-        "link": "https://exame.com/invest/mercados/aplicativo-do-tesouro-direto-sera-desativado-veja-como-acessar-agora/",
-        "summary": "O Tesouro Direto informou nesta quinta-feira, 30, que desativará seu aplicativo oficial a partir de 17 de agosto de 2026",
+        "title": "'Song Sung Blue: Um Sonho a Dois' chega ao streaming; veja onde assistir",
+        "link": "https://exame.com/pop/song-sung-blue-um-sonho-a-dois-chega-ao-streaming-veja-onde-assistir/",
+        "summary": "O filme, que rendeu uma indicação ao Oscar para a atriz Kate Hudson, estreia em plataforma de vídeo nesta sexta-feira, 31",
         "image": null,
         "date": "30 de jul. de 2026",
         "source": "Exame",
