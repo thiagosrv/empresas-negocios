@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-01T15:03:54.386Z",
+  "updated": "2026-08-01T17:04:19.413Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "title": "'Cartas de Vinho': Vindima atrai visitantes para experiência de colheita de uvas e degustação em vinícola no Sul de Minas",
+        "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/01/cartas-de-vinho-vindima-atrai-visitantes-para-experiencia-de-colheita-de-uvas-e-degustacao-em-vinicola-no-sul-de-minas.ghtml",
+        "summary": "'Cartas de Vinho': enoturismo impulsiona vinícolas e atrai visitantes para experiências Uma vinícola de Bom Sucesso (MG) abriu as portas para visitantes durante a vindima, período da colheita das uvas que marca uma das e",
+        "image": "https://s2-g1.glbimg.com/I6hN9_7egS_x_IZPQXaHUIYzoco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/GuwawrQ7AfBbAxbIGarQ/vindima8.png",
         "date": "01 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -63,6 +63,106 @@
         "cls": "brasil"
       },
       {
+        "title": "ACIA lança ExpoEmpresas e espera R$ 6 milhões em negócios",
+        "link": "https://jornalamericanense.com.br/economia/acia-lanca-expoempresas-e-espera-r-6-milhoes-em-negocios/",
+        "summary": "A ACIA – Associação Comercial e Industrial de Americana fez o lançamento oficial da primeira edição da ExpoEmpresas, na noite desta quarta-feira, dia 29, no Teatro Municipal Lulu Benencase. O evento reuniu expositores, e",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Reforma Tributária: Doações de imóveis a terceiros é impulsionada",
+        "link": "https://jornalamericanense.com.br/economia/reforma-tributaria-doacoes-de-imoveis-a-terceiros-e-impulsionada/",
+        "summary": "A Reforma Tributária, promulgada em dezembro de 2023, impulsionou o aumento das doações de imóveis no Brasil. Dados do Colégio Notarial do Brasil (CNB) mostram que, em 2025, foram registradas 185.861 escrituras públicas ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Mulher morre após ter intestino perfurado durante colonoscopia em hospital de São Paulo",
+        "link": "https://jornalamericanense.com.br/saude/mulher-morre-apos-ter-intestino-perfurado-durante-colonoscopia-em-hospital-de-sao-paulo/",
+        "summary": "Uma mulher de 41 anos morreu após sofrer uma perfuração no intestino durante um exame de colonoscopia realizado no Hospital Municipal Doutor Alípio Corrêa Netto, em Ermelino Matarazzo, na Zona Leste de São Paulo. A vítim",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Família morre em acidente grave e madrasta grávida de 3 meses está entre as vítimas",
+        "link": "https://jornalamericanense.com.br/policia/familia-morre-em-acidente-grave-e-madrasta-gravida-de-3-meses-esta-entre-as-vitimas/",
+        "summary": "Quatro pessoas da mesma família morreram em um grave acidente entre um carro de passeio e um caminhão na noite desta quinta-feira (30), na GO-139, a cerca de quatro quilômetros do Trevo de Vianópolis, no sudeste de Goiás",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura realiza programação especial no mês de aniversário de 151 anos de Americana",
+        "link": "https://jornalamericanense.com.br/cultura/prefeitura-realiza-programacao-especial-no-mes-de-aniversario-de-151-anos-de-americana/",
+        "summary": "O mês de aniversário de 151 anos de Americana será marcado por uma intensa e diversificada programação de eventos. A agenda especial do mês de agosto inclui atividades esportivas e culturais e shows de músicos de renome ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festa do Peão de Piracicaba deve impulsionar economia regional durante agosto",
+        "link": "https://jornalamericanense.com.br/cidades/festa-do-peao-de-piracicaba-deve-impulsionar-economia-regional-durante-agosto/",
+        "summary": "Evento reúne milhares de pessoas e amplia movimento em setores como comércio, alimentação, vestuário, hotelaria e serviços A realização da 31ª Festa do Peão de Boiadeiro de Piracicaba deve movimentar não apenas o público",
+        "image": null,
+        "date": "30 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Projeto Vídeo nas Aldeias alerta para risco de perder acervo",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/projeto-video-nas-aldeias-alerta-para-risco-de-perder-acervo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/projeto-video-nas-aldeias-alerta-para-risco-de-perder-acervo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Homem é preso no Rio ao desembarcar de voo procedente da Espanha",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/homem-e-preso-no-rio-ao-desembarcar-de-voo-procedente-da-espanha",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/homem-e-preso-no-rio-ao-desembarcar-de-voo-procedente-da-espanha img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Aumento de etanol na gasolina divide opiniões sobre impacto em carros",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aumento-de-etanol-na-gasolina-divide-opinioes-sobre-impacto-em-carros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aumento-de-etanol-na-gasolina-divide-opinioes-sobre-impacto-em-carros img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Aplicativo do Tesouro Direto será desativado a partir de 17 de agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-sera-desativado-partir-de-17-de-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-sera-desativado-partir-de-17-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Mega Sena acumula e pode pagar R$ 100 milhões neste domingo",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-e-pode-pagar-r-100-milhoes-neste-domingo",
         "summary": "p O concurso 3.039 da Mega-Sena pode pagar neste domingo (2) R$ 100 milhões para quem acertar as seis dezenas que forem sorteadas. O sorteio será realizado às 11h, no Espaço da Sorte, em São Paulo, e terá transmissão ao ",
@@ -81,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Sete dos dez agrotóxicos mais vendidos no Brasil são proibidos na UE",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/sete-dos-dez-agrotoxicos-mais-vendidos-no-brasil-sao-proibidos-na-ue",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/sete-dos-dez-agrotoxicos-mais-vendidos-no-brasil-sao-proibidos-na-ue img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "PSTU oficializa candidatura de Hertz Dias à Presidência da República",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-oficializa-candidatura-de-hertz-dias-presidencia-da-republica",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-oficializa-candidatura-de-hertz-dias-presidencia-da-republica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pix Pensão Alimentícia: entenda o que é e como solicitar",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pix-pensao-alimenticia-entenda-o-que-e-e-como-solicitar",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pix-pensao-alimenticia-entenda-o-que-e-e-como-solicitar img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil deve aproveitar aliança com China para soberania digital em IA",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-deve-aproveitar-alianca-com-china-para-soberania-digital-em-ia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-deve-aproveitar-alianca-com-china-para-soberania-digital-em-ia img src= https://cdn.jsdelivr.net/gh/sergi",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Jogadores do Tottenham, Solanke e Richarlison treinam finalizações em Sydney",
-        "link": "https://www.gazetaesportiva.com/times/tottenham/jogadores-do-tottenham-solanke-e-richarlison-treinam-finalizacoes-em-sydney/",
-        "summary": "Solanke e Richarlison treinam finalizações em Sydney O post Jogadores do Tottenham, Solanke e Richarlison treinam finalizações em Sydney apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Sola.webp",
+        "title": "Sport rescinde contrato com ex-jogador do Santos",
+        "link": "https://www.gazetaesportiva.com/times/sport/sport-rescinde-contrato-com-ex-jogador-do-santos/",
+        "summary": "O Sport anunciou a rescisão contratual do lateral-direito Madson em comum acordo. Contratado para a temporada, o jogador deixa o clube após disputar 16 partidas e marcar um gol, participando das campanhas da Série B e da",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HOo390VXgAAW-rD.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Mbeumo marca dois e Manchester United vira sobre Atlético de Madrid em amistoso",
-        "link": "https://www.gazetaesportiva.com/times/manchester-united/mbeumo-marca-dois-e-manchester-united-vira-sobre-atletico-de-madrid-em-amistoso/",
-        "summary": "Confira detalhes do amistoso entre Manchester United e Atlético de Madrid, disputado neste sábado. O post Mbeumo marca dois e Manchester United vira sobre Atlético de Madrid em amistoso apareceu primeiro em Gazeta Esport",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1266228.jpeg.webp",
+        "title": "Federação Alemã pede investigação completa sobre plano abortado pela Fifa",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/federacao-alema-pede-investigacao-completa-sobre-plano-abortado-pela-fifa/",
+        "summary": "A Federação Alemã de Futebol (DFB) cobrou uma investigação completa sobre a tentativa da Fifa de permitir investimentos privados na Copa do Mundo. A entidade criticou o presidente Gianni Infantino por conduzir a proposta",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QU8G6__v1__HighRes__FilesFblFifaUefaEconomy.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Arsenal encaminha contratação de Bruno Guimarães, do Newcastle",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-encaminha-contratacao-de-bruno-guimaraes-do-newcastle/",
-        "summary": "O Arsenal chegou a um acordo com o Newcastle United pela contratação do meio-campista brasileiro Bruno Guimarães; veja. O post Arsenal encaminha contratação de Bruno Guimarães, do Newcastle apareceu primeiro em Gazeta Es",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260629__B8PM7NY__v1__HighRes__FblWc2026Match76BraJpn.webp",
+        "title": "Melhores momentos da goleada do North Carolina sobre o Orlando Pride pela NWSL",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-goleada-do-north-carolina-sobre-o-orlando-pride-pela-nwsl/",
+        "summary": "Melhores momentos da goleada do North Carolina sobre o Orlando Pride pela NWSL O post Melhores momentos da goleada do North Carolina sobre o Orlando Pride pela NWSL apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/North.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Internazionale ganha do Manchester City nos pênaltis em jogo amistoso",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/internazionale-ganha-do-manchester-city-nos-penaltis-em-jogo-amistoso/",
-        "summary": "Confira os detalhes do amistoso entre Manchester City e Inter de Milão. O post Internazionale ganha do Manchester City nos pênaltis em jogo amistoso apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QY3BG__v1__MidRes__FblHkgEngPrMancityItaSerieaInter.webp",
+        "title": "Roma sofre goleada de time da segunda divisão inglesa em amistoso",
+        "link": "https://www.gazetaesportiva.com/times/roma/roma-sofre-goleada-de-time-da-segunda-divisao-inglesa-em-amistoso/",
+        "summary": "A Roma sofreu sua primeira derrota na pré-temorāda 2026/27 ao perder por 4 a 1 para o Cardiff City, neste sábado, no Cardiff City Stadium, no País de Gales. O destaque da partida foi Cian Ashford, autor de dois gols para",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/snapinsta-1785601412901.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Montanhista Nirmal Purja morreu em avalanche no Paquistão",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/montanhista-nirmal-purja-morreu-em-avalanche-no-paquistao/",
-        "summary": "O renomado montanhista Nirmal Purja morreu em uma avalanche no Paquistão quando liderava uma expedição para chegar ao cume do Broad Peak, uma das maiores montanhas do mundo, informou neste sábado (1) sua empresa, Elite E",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260731__C3MK9ZR__v2__MidRes__PakistanNepalAccidentAvalanche.webp",
+        "title": "Diniz é denunciado pelo STJD e pode pegar gancho no Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-e-denunciado-pelo-stjd-e-pode-pegar-gancho-no-corinthians/",
+        "summary": "Fernando Diniz será julgado pelo STJD na próxima terça-feira após empurrar o volante Jadson durante o empate sem gols entre Corinthians e Athletico-PR, pela 21ª rodada do Brasileirão. O técnico foi denunciado com base no",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/246978.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confederação Asiática celebra retirada de projeto da FIFA para investimento privado",
-        "link": "https://www.gazetaesportiva.com/campeonatos/eliminatorias-asiaticas/confederacao-asiatica-celebra-retirada-de-projeto-da-fifa-para-investimento-privado/",
-        "summary": "A Confederação Asiática de Futebol (AFC) celebrou neste sábado a decisão da FIFA de retirar o projeto FIFA Forward Enterprise, que previa a participação de investidores privados na gestão comercial de suas principais com",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2015/12/03/000_Hkg10235423.jpg",
+        "title": "Uefa faz duras críticas a Infantino, apesar da retirada de plano de investimento privado",
+        "link": "https://www.gazetaesportiva.com/campeonatos/eliminatorias-europa/uefa-faz-duras-criticas-a-infantino-apesar-da-retirada-de-plano-de-investimento-privado/",
+        "summary": "A Uefa fez, neste sábado (1º), duras críticas ao presidente da Fifa, Gianni Infantino, ao afirmar que o dirigente ítalo-suíço perdeu a confiança da confederação europeia, apesar da retirada de seu polêmico plano de abrir",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QU8NR__v1__MidRes__FilesFblFifaUefaEconomy.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -186,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Aumento de etanol na gasolina divide opiniões sobre impacto em carros",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aumento-de-etanol-na-gasolina-divide-opinioes-sobre-impacto-em-carros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/aumento-de-etanol-na-gasolina-divide-opinioes-sobre-impacto-em-carros img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Aplicativo do Tesouro Direto será desativado a partir de 17 de agosto",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-sera-desativado-partir-de-17-de-agosto",
@@ -237,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Falsos anúncios sobre Desenrola Brasil enganam usuários nas redes",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/falsos-anuncios-sobre-desenrola-brasil-enganam-usuarios-nas-redes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/falsos-anuncios-sobre-desenrola-brasil-enganam-usuarios-nas-redes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Aplicativo do Tesouro Direto será desativado: o que muda para o investidor?",
-        "link": "https://www.infomoney.com.br/mercados/aplicativo-do-tesouro-direto-sera-desativado-o-que-muda-para-o-investidor/",
-        "summary": "Segundo o Ministério da Fazenda, app vai sair do ar a partir do próximo dia 17 de agosto The post Aplicativo do Tesouro Direto será desativado: o que muda para o investidor? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/tesouro-direto-e1774366237253.webp?fit=300%2C183&amp;quality=70&amp;strip=all",
+        "title": "EUA tornam permanente caução de até R$ 100 mil para visto de turismo, diz jornal",
+        "link": "https://www.infomoney.com.br/mundo/eua-tornam-permanente-caucao-de-ate-r-100-mil-para-visto-de-turismo-diz-jornal/",
+        "summary": "Programa dos Estados Unidos contempla 50 países, predominantemente da África The post EUA tornam permanente caução de até R$ 100 mil para visto de turismo, diz jornal appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/shutterstock_758322538.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Veja o cenário eleitoral para governos de 10 estados, segundo pesquisa Quaest",
-        "link": "https://www.infomoney.com.br/politica/veja-o-cenario-eleitoral-para-governos-de-10-estados-segundo-pesquisa-quaest/",
-        "summary": "A pesquisa revelou disputas equilibradas em Estados como Bahia, Ceará e Rio Grande do Sul, enquanto revelam cenários mais favoráveis para determinados pré-candidatos em Goiás, São Paulo e Paraná The post Veja o cenário e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/eleiccca7occ83es-01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Governo Lula não fechou portas para quem não votou em nós , diz Jerônimo na Bahia",
+        "link": "https://www.infomoney.com.br/politica/governo-lula-nao-fechou-portas-para-quem-nao-votou-em-nos-diz-jeronimo-na-bahia/",
+        "summary": "Em convenção do PT com presença de Lula, governador candidato à reeleição também elogiou petista como \"embaixador do Brasil no mundo\"; pesquisa aponta empate técnico com ACM Neto The post Governo Lula não fechou portas p",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/edital-pavimento-br030_mcamgo_abr_22112023-11.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Vini Jr. entrou na tendência dos procedimentos estéticos — e outros homens também",
-        "link": "https://www.infomoney.com.br/saude/vini-jr-tendencia-procedimentos-esteticos-homens-tambem/",
-        "summary": "Vini Jr. fez uma harmonização facial, que deixou seu queixo e o contorno da mandíbula mais marcados The post Vini Jr. entrou na tendência dos procedimentos estéticos — e outros homens também appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/vini-rosto-virginia.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Moro oficializa candidatura ao governo do Paraná e crítica Lula em convenção do PL",
+        "link": "https://www.infomoney.com.br/politica/moro-oficializa-candidatura-ao-governo-do-parana-e-critica-lula-em-convencao-do-pl/",
+        "summary": "Senador evita responder sobre desconforto em dividir palanque com Flávio Bolsonaro e diz que união em torno da direita busca 'derrotar Lula' The post Moro oficializa candidatura ao governo do Paraná e crítica Lula em con",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/FTA20260712173.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Arqueólogos descobrem centenas de geoglifos antigos na floresta Amazônica",
-        "link": "https://www.infomoney.com.br/business/global/arqueologos-descobrem-centenas-de-geoglifos-antigos-na-floresta-amazonica/",
-        "summary": "As estruturas geométricas de terra, esculpidas no solo com aterros e valas, têm, em alguns casos, mais de 2.500 anos, disseram os pesquisadores The post Arqueólogos descobrem centenas de geoglifos antigos na floresta Ama",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/RAINFOREST-EARTHWORKS-1.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+        "title": "Pior ministro da Fazenda : Nunes dispara contra Haddad em convenção do Republicanos",
+        "link": "https://www.infomoney.com.br/politica/pior-ministro-da-fazenda-nunes-dispara-contra-haddad-em-convencao-do-republicanos/",
+        "summary": "Prefeito de SP também conclamou mulheres a votarem em Flávio Bolsonaro: \"Vocês têm mais sensibilidade e sabem que não podemos ter um governador incompetente\" The post Pior ministro da Fazenda : Nunes dispara contra Hadda",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/FTA20260801070.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Receita anuncia primeiro CNPJ em novo formato alfanumérico; entenda o que muda",
-        "link": "https://www.infomoney.com.br/minhas-financas/receita-anuncia-primeiro-cnpj-formato-alfanumerico-o-que-muda/",
-        "summary": "Segundo a Receita, o número em questão é 00.000.000/E08G-12, que corresponde a uma filial do Banco do Brasil S.A The post Receita anuncia primeiro CNPJ em novo formato alfanumérico; entenda o que muda appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/cropped-receita-federal-1.webp?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "title": "Tesouro dos EUA intervém para apoiar iene pela 1ª vez em 10 anos, diz Financial Times",
+        "link": "https://www.infomoney.com.br/mercados/tesouro-dos-eua-intervem-para-apoiar-iene-pela-1a-vez-em-10-anos-diz-financial-times/",
+        "summary": "O Federal Reserve de Nova York vendeu euros por ienes em nome do Tesouro, ‌por meio do Goldman Sachs e do Morgan Stanley The post Tesouro dos EUA intervém para apoiar iene pela 1ª vez em 10 anos, diz Financial Times appe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-24T213032Z_1378722230_RC28BKAJE8S2_RTRMADP_3_GLOBAL-FOREX.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Colômbia: carro-bomba explode perto de delegacia em Cúcuta e fere 10 pessoas",
-        "link": "https://www.infomoney.com.br/mundo/colombia-carro-bomba-explode-perto-de-delegacia-em-cucuta-e-fere-10-pessoas/",
-        "summary": "Polícia investiga autoria do ataque, que ocorreu em uma das principais zonas comerciais da cidade The post Colômbia: carro-bomba explode perto de delegacia em Cúcuta e fere 10 pessoas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-01-105800.png?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "title": "Republicanos lança Tarcísio à reeleição em SP com aceno a Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/republicanos-lanca-tarcisio-a-reeleicao-em-sp-com-aceno-discreto-a-bolsonaro/",
+        "summary": "Convenção no Ibirapuera lotou ginásio com aliados de PL, PSD, Podemos e MDB The post Republicanos lança Tarcísio à reeleição em SP com aceno a Bolsonaro appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Foto-selecionada-2.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Receita Federal emite primeiro CNPJ alfanumérico do país",
-        "link": "https://exame.com/brasil/receita-federal-emite-primeiro-cnpj-alfanumerico-do-pais/",
-        "summary": "Emissão dos novos registros será gradual ao longo de 2026, começando com poucas empresas nesta fase inicial",
+        "title": "Vai decolar? Cade recomenda investimento da American Airlnes na Azul",
+        "link": "https://exame.com/exame-in/vai-decolar-cade-recomenda-investimento-da-american-airlnes-na-azul/",
+        "summary": "Superintendência do Cade concluiu que aporte de US$ 100 milhões da companhia aérea americana não compromete a concorrência no Brasil",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Rio tem metade das estações necessárias para prever temporais extremos",
-        "link": "https://exame.com/brasil/infraestrutura/rio-tem-metade-das-estacoes-necessarias-para-prever-temporais-extremos/",
-        "summary": "Especialistas afirmam que estado precisa ampliar a rede de monitoramento para emitir alertas mais rápidos sobre eventos climáticos extremos",
+        "title": "Uefa exige que responsáveis por plano secreto da Fifa 'prestem contas'",
+        "link": "https://exame.com/esporte/uefa-exige-que-responsaveis-por-plano-secreto-da-fifa-prestem-contas/",
+        "summary": "Iniciativa previa a criação da Fifa Forward Enterprise, empresa que concentraria os direitos comerciais das principais competições da entidade, como a Copa do Mundo",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "PSTU oficializa candidatura de Hertz Dias à Presidência",
-        "link": "https://exame.com/brasil/pstu-oficializa-candidatura-de-hertz-dias-a-presidencia/",
-        "summary": "Partido também confirmou a candidata ao governo de São Paulo nesta sexta-feira, 31",
+        "title": "Irã diz que aliados dos EUA podem 'arder no fogo da guerra'",
+        "link": "https://exame.com/mundo/ira-diz-que-aliados-dos-eua-podem-arder-no-fogo-da-guerra/",
+        "summary": "Declaração ocorre após troca de ataques entre Irã e EUA e aumento das tensões envolvendo o Estreito de Ormuz",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Anvisa determina recolhimento de produtos médicos irregulares; veja a lista",
-        "link": "https://exame.com/ciencia/anvisa-determina-recolhimento-de-produtos-medicos-irregulares-veja-a-lista/",
-        "summary": "Produtos suspensos são fabricados na Espanha e na Itália e registrados pelas empresas Adium, Biohealth e Grossmed",
+        "title": "Tarcísio confirma candidatura à reeleição ao lado de Flávio Bolsonaro",
+        "link": "https://exame.com/brasil/tarcisio-confirma-candidatura-a-reeleicao-ao-lado-de-flavio-bolsonaro/",
+        "summary": "Evento no Ibirapuera oficializa candidatura de Tarcísio e reúne Flávio Bolsonaro, Ricardo Nunes e candidatos ao Senado",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Tesouro Direto desativa app por nova estratégia, mas terá desafio de reter iniciantes",
-        "link": "https://exame.com/invest/mercados/tesouro-direto-desativa-app-por-nova-estrategia-mas-tera-desafio-de-reter-iniciantes/",
-        "summary": "Analistas afirmam que a mudança faz parte da modernização do programa, mas alertam para o risco de atrito na experiência dos novos investidores",
+        "title": "Embaixadas dos EUA recomendam que americanos deixem o Oriente Médio",
+        "link": "https://exame.com/mundo/embaixadas-dos-eua-recomendam-que-americanos-deixem-o-oriente-medio/",
+        "summary": "Instituições em sete países alertam para risco de cancelamento de voos e fechamento de espaço aéreo na região",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "São Paulo Boat Show quer liderar um mercado que pode movimentar R$ 21 bilhões",
-        "link": "https://exame.com/casual/sao-paulo-boat-show-quer-liderar-um-mercado-que-pode-movimentar-r-21-bilhoes/",
-        "summary": "Com 24% da frota brasileira, São Paulo lidera o turismo náutico e sedia maior palco de negócios do setor na América Latina",
+        "title": "Espanha anuncia 'normalidade razoável' em Ceuta após crise migratória",
+        "link": "https://exame.com/mundo/espanha-anuncia-normalidade-razoavel-em-ceuta-apos-crise-migratoria/",
+        "summary": "Neste sábado, 1º, grupos de jovens continuam atravessando a fronteira em direção ao Marrocos",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
