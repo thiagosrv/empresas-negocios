@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-01T11:20:03.614Z",
+  "updated": "2026-08-01T13:36:43.845Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "VÍDEO: incêndio atinge ferro-velho no Jardim Santo Antônio, em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/incendio-atinge-ferro-velho-jardim-santo-antonio-campinas.ghtml",
+        "summary": "Incêndio atinge ferro-velho no Jardim Santo Antônio, em Campinas Um incêndio atingiu um ferro-velho na noite desta sexta-feira (31), no Jardim Santo Antônio, em Campinas (SP). Ninguém se feriu. De acordo com o Corpo de B",
+        "image": "https://s2-g1.glbimg.com/bfEryXAz2hnb3YbK_xhIFEFs3Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/d/TwKrKBTaaAMWEzvqAqqQ/design-sem-nome-5-.png",
+        "date": "01 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Cinco pessoas são presas por desmonte irregular de veículos em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/cinco-pessoas-presas-desmonte-irregular-veiculos-campinas.ghtml",
+        "summary": "Cinco pessoas são presas por desmonte ilegal de veículos em Campinas Polícia Militar A Polícia Militar (PM) prendeu nesta sexta-feira (31) cinco pessoas por desmonte irregular de veículos em um galpão no bairro Santa Môn",
+        "image": "https://s2-g1.glbimg.com/H0BaQl9Q8MFiUUW973ivtlKdu6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/Nl8B7FQmiftbF5peE3Og/copia-de-design-sem-nome-10-.png",
+        "date": "01 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Alta densidade de onças-pintadas na Amazônia pode esconder queda preocupante no número de fêmeas, aponta estudo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/01/alta-densidade-de-oncas-pintadas-na-amazonia-pode-esconder-queda-preocupante-no-numero-de-femeas-aponta-estudo.ghtml",
+        "summary": "Onça-pintada flagrada em vida livre leandrorezende / iNaturalist As florestas inundáveis de várzea da Amazônia estão entre os principais refúgios da onça-pintada (Panthera onca) no planeta, com algumas das maiores densid",
+        "image": "https://s2-g1.glbimg.com/DCAip6F34i1gxlapAPGRhXfCh_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/e/lXrtfGSveBRibVCGbq2w/a-18-.jpg",
+        "date": "01 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Como treinamento tem ensinado funcionários de Viracopos a identificar vítimas de tráfico e exploração sexual",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/como-treinamento-ensinado-funcionarios-viracopos-identificar-vitimas-trafico-exploracao-sexual.ghtml",
@@ -33,33 +63,113 @@
         "cls": "brasil"
       },
       {
-        "title": "De criação de cavalos a patrimônio ambiental: como terreno do Exército virou disputa judicial em Valinhos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/31/criacao-cavalos-patrimonio-ambiental-terreno-exercito-virou-disputa-judicial-valinhos.ghtml",
-        "summary": "Como terreno do Exército virou disputa judicial em Valinhos Um terreno de 162 hectares do Exército em Valinhos (SP), conhecido como Fazenda Remonta, foi leiloado nesta sexta-feira (31) para construção de um empreendiment",
-        "image": "https://s2-g1.glbimg.com/DvVw3ORQLpd_-qERPFMmAJQ3mag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/w68rFsRDS1h60zBno2DQ/1200px-x-800px-6-.jpg",
+        "title": "ACIA lança ExpoEmpresas e espera R$ 6 milhões em negócios",
+        "link": "https://jornalamericanense.com.br/economia/acia-lanca-expoempresas-e-espera-r-6-milhoes-em-negocios/",
+        "summary": "A ACIA – Associação Comercial e Industrial de Americana fez o lançamento oficial da primeira edição da ExpoEmpresas, na noite desta quarta-feira, dia 29, no Teatro Municipal Lulu Benencase. O evento reuniu expositores, e",
+        "image": null,
         "date": "31 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Reforma Tributária: Doações de imóveis a terceiros é impulsionada",
+        "link": "https://jornalamericanense.com.br/economia/reforma-tributaria-doacoes-de-imoveis-a-terceiros-e-impulsionada/",
+        "summary": "A Reforma Tributária, promulgada em dezembro de 2023, impulsionou o aumento das doações de imóveis no Brasil. Dados do Colégio Notarial do Brasil (CNB) mostram que, em 2025, foram registradas 185.861 escrituras públicas ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Mulher morre após ter intestino perfurado durante colonoscopia em hospital de São Paulo",
+        "link": "https://jornalamericanense.com.br/saude/mulher-morre-apos-ter-intestino-perfurado-durante-colonoscopia-em-hospital-de-sao-paulo/",
+        "summary": "Uma mulher de 41 anos morreu após sofrer uma perfuração no intestino durante um exame de colonoscopia realizado no Hospital Municipal Doutor Alípio Corrêa Netto, em Ermelino Matarazzo, na Zona Leste de São Paulo. A vítim",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Família morre em acidente grave e madrasta grávida de 3 meses está entre as vítimas",
+        "link": "https://jornalamericanense.com.br/policia/familia-morre-em-acidente-grave-e-madrasta-gravida-de-3-meses-esta-entre-as-vitimas/",
+        "summary": "Quatro pessoas da mesma família morreram em um grave acidente entre um carro de passeio e um caminhão na noite desta quinta-feira (30), na GO-139, a cerca de quatro quilômetros do Trevo de Vianópolis, no sudeste de Goiás",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura realiza programação especial no mês de aniversário de 151 anos de Americana",
+        "link": "https://jornalamericanense.com.br/cultura/prefeitura-realiza-programacao-especial-no-mes-de-aniversario-de-151-anos-de-americana/",
+        "summary": "O mês de aniversário de 151 anos de Americana será marcado por uma intensa e diversificada programação de eventos. A agenda especial do mês de agosto inclui atividades esportivas e culturais e shows de músicos de renome ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festa do Peão de Piracicaba deve impulsionar economia regional durante agosto",
+        "link": "https://jornalamericanense.com.br/cidades/festa-do-peao-de-piracicaba-deve-impulsionar-economia-regional-durante-agosto/",
+        "summary": "Evento reúne milhares de pessoas e amplia movimento em setores como comércio, alimentação, vestuário, hotelaria e serviços A realização da 31ª Festa do Peão de Boiadeiro de Piracicaba deve movimentar não apenas o público",
+        "image": null,
+        "date": "30 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "PSTU oficializa candidatura de Hertz Dias à Presidência da República",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-oficializa-candidatura-de-hertz-dias-presidencia-da-republica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pstu-oficializa-candidatura-de-hertz-dias-presidencia-da-republica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "VÍDEO: casal é preso após assaltar banca e ameaçar atendente em Mogi Guaçu",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/31/video-casal-preso-assaltar-banca-ameacar-atendente-mogi-guacu.ghtml",
-        "summary": "Casal é preso após assalto a banca no interior de SP Um casal foi preso em flagrante nesta sexta-feira (31) após assaltar uma banca na Praça Antônio Giovani Lanzi, em Mogi Guaçu (SP). Imagens de câmeras de segurança most",
-        "image": "https://s2-g1.glbimg.com/O1qNvscFmL9rpDyWSxiQ2ugvG1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/QjnyvfQ1eeLUGVFrT5ag/design-sem-nome-1-.png",
-        "date": "31 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "title": "Pix Pensão Alimentícia: entenda o que é e como solicitar",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pix-pensao-alimenticia-entenda-o-que-e-e-como-solicitar",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pix-pensao-alimenticia-entenda-o-que-e-e-como-solicitar img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Carro entra em chamas após pane no circuito elétrico em Americana, diz PM",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/31/carro-entra-em-chamas-em-americana-diz-pm.ghtml",
-        "summary": "Carro entra em chamas após pane no circuito elétrico em Americana, diz PM Um carro entrou em chamas após uma pane no circuito elétrico do veículo, na manhã desta sexta-feira (31), em frente a um colégio na Rua Dom Bosco,",
-        "image": "https://s2-g1.glbimg.com/OzV5HSXmydLtChoeF8yXSS6rt2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/bt3COsRwKe0UK91NgAjw/1200px-x-800px-1-.jpg",
-        "date": "31 de jul. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "title": "Brasil deve aproveitar aliança com China para soberania digital em IA",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-deve-aproveitar-alianca-com-china-para-soberania-digital-em-ia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-deve-aproveitar-alianca-com-china-para-soberania-digital-em-ia img src= https://cdn.jsdelivr.net/gh/sergi",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Waico e Pax Silica: entenda disputa entre China e EUA por futuro da IA",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/waico-e-pax-silica-entenda-disputa-entre-china-e-eua-por-futuro-da-ia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/waico-e-pax-silica-entenda-disputa-entre-china-e-eua-por-futuro-da-ia img src= https://cdn.jsdelivr.net/gh/sergi",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Semana Mundial do Aleitamento Materno marca início do Agosto Dourado",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/semana-mundial-do-aleitamento-materno-marca-inicio-do-agosto-dourado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/semana-mundial-do-aleitamento-materno-marca-inicio-do-agosto-dourado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -71,114 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Partido Verde oficializa apoio à candidatura de Lula à reeleição",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-verde-oficializa-apoio-candidatura-de-lula-reeleicao",
-        "summary": "p strong O Partido Verde (PV) oficializou seu apoio à candidatura de Luiz Inácio Lula da Silva (PT) à presidência da República. A convenção nacional do partido ocorreu de forma virtual na noite desta sexta-feira (31), co",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Centrais sindicais propõem medidas para enfrentar tarifaço dos EUA",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/centrais-sindicais-propoem-medidas-para-enfrentar-tarifaco-dos-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/centrais-sindicais-propoem-medidas-para-enfrentar-tarifaco-dos-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil derrota Alemanha e leva título do Desafio Internacional de Judô",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-derrota-alemanha-e-leva-titulo-do-desafio-internacional-de-judo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-derrota-alemanha-e-leva-titulo-do-desafio-internacional-de-judo img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "MP investigará PMs que entraram em escola após atividade sobre orixás",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/mp-investigara-pms-que-entraram-em-escola-apos-atividade-sobre-orixas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/mp-investigara-pms-que-entraram-em-escola-apos-atividade-sobre-orixas img src= https://cdn.jsdelivr.net/gh/se",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Governo do Rio cria órgãos que vão coordenar reocupação de territórios",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/governo-do-rio-cria-orgaos-que-vao-coordenar-reocupacao-de-territorios",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/governo-do-rio-cria-orgaos-que-vao-coordenar-reocupacao-de-territorios img src= https://cdn.jsdelivr.net/gh/s",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Montanhista Nirmal Purja morreu em avalanche no Paquistão",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/montanhista-nirmal-purja-morreu-em-avalanche-no-paquistao/",
+        "summary": "O renomado montanhista Nirmal Purja morreu em uma avalanche no Paquistão quando liderava uma expedição para chegar ao cume do Broad Peak, uma das maiores montanhas do mundo, informou neste sábado (1) sua empresa, Elite E",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260731__C3MK9ZR__v2__MidRes__PakistanNepalAccidentAvalanche.webp",
+        "date": "01 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Confederação Asiática celebra retirada de projeto da FIFA para investimento privado",
+        "link": "https://www.gazetaesportiva.com/campeonatos/eliminatorias-asiaticas/confederacao-asiatica-celebra-retirada-de-projeto-da-fifa-para-investimento-privado/",
+        "summary": "A Confederação Asiática de Futebol (AFC) celebrou neste sábado a decisão da FIFA de retirar o projeto FIFA Forward Enterprise, que previa a participação de investidores privados na gestão comercial de suas principais com",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2015/12/03/000_Hkg10235423.jpg",
+        "date": "01 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Com time misto, Borussia Dortmund vence FC Tokyo em amistoso",
+        "link": "https://www.gazetaesportiva.com/times/borussia-dortmund/com-time-misto-borussia-dortmund-vence-fc-tokyo-em-amistoso/",
+        "summary": "Confira detalhes da vitória do Borussia Dortmund sobre o FC Tokyo, em amistoso internacional. O post Com time misto, Borussia Dortmund vence FC Tokyo em amistoso apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/getty-2272739061.webp",
+        "date": "01 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Estêvão marca em amistoso, mas Chelsea perde para o Tottenham com gol de Richarlison no fim",
+        "link": "https://www.gazetaesportiva.com/times/chelsea/estevao-marca-em-amistoso-mas-chelsea-perde-para-o-tottenham-com-gol-de-richarlison-no-fim/",
+        "summary": "Confira detalhes da partida entre Chelsea e Tottenham, em amistoso pré-temporada. O post Estêvão marca em amistoso, mas Chelsea perde para o Tottenham com gol de Richarlison no fim apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QY3LN__v1__MidRes__FblAusEngChelseaTottenhamFriendly.webp",
+        "date": "01 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos do amistoso entre Chelsea e Tottenham",
+        "link": "https://www.gazetaesportiva.com/amistoso/veja-fotos-do-amistoso-entre-chelsea-e-tottenham-2/",
+        "summary": "Confira uma galeria de fotos do amistoso disputado entre Chelsea e Tottenham. O post Veja fotos do amistoso entre Chelsea e Tottenham apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QY3HN__v1__MidRes__FblAusEngChelseaTottenhamFriendly.webp",
+        "date": "01 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Promessa do Palmeiras celebra fase decisiva e mira título do Brasileiro sub-20: Queremos muito",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/promessa-do-palmeiras-celebra-fase-decisiva-e-mira-titulo-do-brasileiro-sub-20-queremos-muito/",
         "summary": "O meia-atacante Vinicius Lima voltou a ser decisivo pelo Palmeiras no Campeonato Brasileiro sub-20, na vitória por 2 a 0 sobre o Red Bull Bragantino, resultado que colocou as Crias da Academia na final da competição naci",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/FTM-8166.webp",
-        "date": "01 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Internacional x Corinthians: onde assistir ao jogo de ida das oitavas da Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/internacional-x-corinthians-onde-assistir-ao-jogo-de-ida-das-oitavas-da-copa-do-brasil/",
-        "summary": "Internacional e Corinthians se enfrentam neste domingo, às 19h30, no Beira-Rio, pelo jogo de ida das oitavas de final da Copa do Brasil. Enquanto o Colorado tenta encerrar uma sequência de cinco partidas sem vitória, o T",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/243215.webp",
-        "date": "01 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Roberto Carlos visita, mas volta ao União São João como dirigente é futuro distante",
-        "link": "https://www.gazetaesportiva.com/uniao-sao-joao/roberto-carlos-visita-uniao-sao-joao-e-afasta-rumores-de-saf/",
-        "summary": "Roberto Carlos marcou presença em Araras para acompanhar a partida entre União São João e São Bernardo pelo Campeonato Paulista Sub-20. O ex-lateral da Seleção Brasileira foi assistir ao sobrinho, que atua pela equipe ar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/AFP__20260719__C2KT3WC__v1__Mockup__FblWc2026Match104EspArgFinal.webp",
-        "date": "01 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Mercado da bola do Santos: veja chegadas, saídas e negociações do Peixe",
-        "link": "https://www.gazetaesportiva.com/times/santos/mercado-da-bola-do-santos-veja-chegadas-saidas-e-negociacoes-do-peixe/",
-        "summary": "O Santos vive um período de indefinição nesta janela de transferências, mas segue atento ao mercado em busca de oportunidades para reforçar o elenco. Impedido de registrar novos jogadores em razão do transfer ban imposto",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55224726086_af980fc20b_3k.webp",
-        "date": "01 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Promessa da base, Osorio aproveita brechas e ganha moral com Dorival no São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/promessa-da-base-osorio-aproveita-brechas-e-ganha-moral-com-dorival-no-sao-paulo/",
-        "summary": "Promessa da base do São Paulo, o zagueiro Luis Osorio aproveitou as brechas que apareceram nos últimos meses e ganhou moral com o treinador Dorival Júnior. O jovem de 19 anos vem recebendo oportunidades e evoluiu rapidam",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55421949094_506de34046_o.webp",
-        "date": "01 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Fortaleza: saiba onde assistir ao jogo de ida das oitavas da Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-fortaleza-onde-assistir-ida-oitavas-copa-do-brasil/",
-        "summary": "O Palmeiras volta a dividir as atenções do Campeonato Brasileiro com a Copa do Brasil. Neste domingo, a equipe de Abel Ferreira entra em campo para enfrentar o Fortaleza, em jogo de ida das oitavas de final da competição",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/onde-assistir-palmeiras.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Save the date: Premiação Outliers InfoMoney anuncia data da cerimônia de 2027; veja",
-        "link": "https://www.infomoney.com.br/onde-investir/save-the-date-premiacao-outliers-infomoney-anuncia-data-da-cerimonia-de-2027-veja/",
-        "summary": "Na edição deste ano, o prêmio elegeu as melhores gestoras e fundos de investimento em 16 categorias The post Save the date: Premiação Outliers InfoMoney anuncia data da cerimônia de 2027; veja appeared first on InfoMoney",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/outliers-trofeus-1.jpg?fit=300%2C171&amp;quality=70&amp;strip=all",
+        "title": "Como 50 mil pessoas cruzaram em 1 dia a fronteira de um enclave espanhol na África",
+        "link": "https://www.infomoney.com.br/business/global/como-50-mil-pessoas-cruzaram-em-1-dia-a-fronteira-de-um-enclave-espanhol-na-africa/",
+        "summary": "Na quinta-feira, dezenas de milhares de marroquinos adentraram Ceuta, um território espanhol vizinho a Marrocos. Na noite de sexta-feira, a maioria deles já havia partido, famintos e decepcionados The post Como 50 mil pe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-31T110320Z_1791917232_RC2ZOMAQ02KK_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "El Niño, balanços do 2T26 e queda na inflação; veja os destaques da semana",
-        "link": "https://www.infomoney.com.br/onde-investir/el-nino-balancos-do-2t26-e-queda-na-inflacao-veja-os-destaques-da-semana/",
-        "summary": "Projeções da XP indicam alta no lucro líquido das companhias, enquanto impactos do clima e inflação permanecem no radar do mercado The post El Niño, balanços do 2T26 e queda na inflação; veja os destaques da semana appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/tufao-el-nino.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Guerra com Irã reduz estoque de mísseis dos EUA e reposição vira desafio",
+        "link": "https://www.infomoney.com.br/mundo/guerra-com-ira-reduz-estoque-de-misseis-dos-eua-e-reposicao-vira-desafio/",
+        "summary": "Estimativa é que guerra contra Irã consumiu 65% d estoque dos Patriot, restando menos de 1.000 interceptadores The post Guerra com Irã reduz estoque de mísseis dos EUA e reposição vira desafio appeared first on InfoMoney",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Patriot-EUA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Respeito se conquista, não se herda, diz CEO da Sumirê",
-        "link": "https://www.infomoney.com.br/business/respeito-se-conquista-nao-se-herda-diz-ceo-da-sumire/",
-        "summary": "Filha de um dos fundadores, executiva conta por que começou no chão de loja e levou quase dez anos para conquistar a confiança do pai The post Respeito se conquista, não se herda, diz CEO da Sumirê appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/re.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Uefa diz ter perdido confiança em Infantino e exige reformas na Fifa",
+        "link": "https://www.infomoney.com.br/mercados/uefa-diz-ter-perdido-confianca-em-infantino-e-exige-reformas-na-fifa/",
+        "summary": "Crise explodiu após plano de vender fatia das Copas do Mundo a investidores ser abandonado sob forte pressão The post Uefa diz ter perdido confiança em Infantino e exige reformas na Fifa appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-10T192241Z_2003234317_UP1EM6A1HTR11_RTRMADP_3_SOCCER-WORLDCUP-INFANTINO.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Projeto que exclui cônjuge da lista de herdeiros necessários divide especialistas",
-        "link": "https://www.infomoney.com.br/minhas-financas/projeto-que-exclui-conjuge-da-lista-de-herdeiros-necessarios-divide-especialistas/",
-        "summary": "Projeto ainda está em discussão no Senado e proposta que exclui cônjuge da lista de herdeiros necessários divide especialistas The post Projeto que exclui cônjuge da lista de herdeiros necessários divide especialistas ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/alvaro-serrano-hjwKMkehBco-unsplash-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Espanha: número de mortos na crise fronteiriça com Marrocos chega a 67",
+        "link": "https://www.infomoney.com.br/mundo/espanha-numero-de-mortos-na-crise-fronteirica-com-marrocos-chega-a-67/",
+        "summary": "A Espanha anunciou a instalação de uma barreira de contenção de 500 metros de extensão ao longo da cerca do quebra-mar, avançando pelo mar The post Espanha: número de mortos na crise fronteiriça com Marrocos chega a 67 a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-01T070344Z_1105895493_RC2IPMACSENF_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "A fome do iFood: Empresa expande raio de atuação e quer triplicar de tamanho",
-        "link": "https://www.infomoney.com.br/business/a-fome-do-ifood-empresa-expande-raio-de-atuacao-e-quer-triplicar-de-tamanho/",
-        "summary": "Depois de alcançar o posto de maior marketplace de mercado e farmácia do país, gigante das entregas quer mais The post A fome do iFood: Empresa expande raio de atuação e quer triplicar de tamanho appeared first on InfoMo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Paula-Ritto-Divulgacao-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Cade aprova investimento da American Airlines na Azul",
+        "link": "https://www.infomoney.com.br/mercados/cade-aprova-investimento-da-american-airlines-na-azul/",
+        "summary": "Aérea americana quer investir US$ 100 milhões na companhia brasileira, elevando sua participação para quase 9%; análise foi concluída sem restrições The post Cade aprova investimento da American Airlines na Azul appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/azul-aeronave2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Antes da B3: relembre o IPO da BM F que sobrecarregou o sistema da Bolsa em 2007",
-        "link": "https://www.infomoney.com.br/mercados/antes-da-b3-relembre-o-ipo-da-bmf-que-sobrecarregou-o-sistema-da-bolsa-em-2007/",
-        "summary": "Em 30 de novembro de 2007, o IPO da BM F (que, junto com a Bovespa, deu origem à B3) foi responsável por \"quebrar o pregão\", ainda que figurativamente The post Antes da B3: relembre o IPO da BM F que sobrecarregou o sist",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-02-162537-e1781193687128.png?fit=300%2C118&amp;quality=70&amp;strip=all",
+        "title": "AGU se reúne com bancões e Fazenda para tentar destravar acordo de socorro ao BRB",
+        "link": "https://www.infomoney.com.br/politica/agu-se-reune-com-bancoes-e-fazenda-para-tentar-destravar-acordo-de-socorro-ao-brb/",
+        "summary": "O empréstimo dos principais bancos privados do País vem sendo costurado com o governo do Distrito Federal, que é o acionista do BRB The post AGU se reúne com bancões e Fazenda para tentar destravar acordo de socorro ao B",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450774857.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "01 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como a Galeria do Rock sobreviveu à crise da música e do centro de SP e hoje fatura R$ 185 milhões",
-        "link": "https://exame.com/negocios/como-a-galeria-do-rock-sobreviveu-a-crise-da-musica-e-do-centro-de-sp-e-hoje-fatura-r-185-milhoes/",
-        "summary": "O fluxo caiu 40% na década passada, no auge da insegurança do centro. A retomada veio com shows no terraço aos sábados, que esgotam 300 ingressos, e a chegada de um novo público",
+        "title": "Foie gras: por que alguns alimentos acabam proibidos ou restritos",
+        "link": "https://exame.com/esferabrasil/foie-gras-por-que-alguns-alimentos-acabam-proibidos-ou-restritos/",
+        "summary": "Receita feita a partir do fígado de patos e gansos foi proibida em decreto presidencial",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Aos 64 anos, ele adiou a aposentadoria e hoje faz R$ 160 milhões com academias premium e hambúrguer",
-        "link": "https://exame.com/negocios/aos-64-anos-ele-adiou-a-aposentadoria-e-hoje-fatura-r-160-mi-com-academias-premium-e-hamburguer/",
-        "summary": "Empresa reúne indústria frigorífica, açougue, restaurante, academias próprias e unidades da Bluefit. Nova rede criada por Sérgio Arnault recebeu investimento de R$ 30 milhões para abertura de duas unidades",
+        "title": "Entenda as eleições de meio de mandato e como influenciam a política nos EUA",
+        "link": "https://exame.com/esferabrasil/entenda-as-eleicoes-de-meio-de-mandato-e-como-influenciam-a-politica-nos-eua/",
+        "summary": "Votação em novembro definirá o equilíbrio de poder no Congresso e o alcance do governo Trump até 2028",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "A marca francesa que transformou vasos sanitários em objetos de desejo",
-        "link": "https://exame.com/casual/a-marca-francesa-que-transformou-vasos-sanitarios-em-objetos-de-desejo/",
-        "summary": "Criada por Hugo Volpei, a Trone aposta em curvas escultóricas e humor para dar status a um objeto historicamente ignorado pela indústria do design",
+        "title": "Buraco negro errante 'devora' estrela e brilha como 10 bilhões de sóis",
+        "link": "https://exame.com/ciencia/buraco-negro-errante-devora-estrela-e-brilha-como-10-bilhoes-de-sois/",
+        "summary": "Observatório Swift detectou um objeto supermassivo destruindo uma estrela a mais de 30 mil anos-luz do centro de sua galáxia",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "‘Liderar é extrair o melhor de cada profissional’, diz CEO da Unilever Alimentos",
-        "link": "https://exame.com/carreira/liderar-e-extrair-o-melhor-de-cada-profissional-diz-ceo-da-unilever-alimentos/",
-        "summary": "Rodrigo Visentini começou como estagiário e hoje é CEO na multinacional. Em mais de 20 anos no grupo, ele traz 5 lições para quem busca ser um líder eficiente",
+        "title": "Live-action de 'Enrolados': veja as primeiras imagens vazadas",
+        "link": "https://exame.com/pop/live-action-de-enrolados-veja-as-primeiras-imagens-vazadas/",
+        "summary": "Imagens atribuídas ao set de filmagens revelam figurinos, cenários e personagens do aguardado remake da Disney",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mapa da sucessão: o que a Genial/Quaest mostrou sobre a eleição em 10 estados brasileiros",
-        "link": "https://exame.com/brasil/mapa-da-sucessao-o-que-a-genial-quaest-mostrou-sobre-a-eleicao-em-10-estados-brasileiros/",
-        "summary": "Rodada de pesquisas realizada entre 27 e 30 de abril revela favoritos, empates técnicos e disputas em aberto; confira os números",
+        "title": "Como os brasileiros estão planejando as próximas férias",
+        "link": "https://exame.com/casual/como-os-brasileiros-estao-planejando-as-proximas-ferias/",
+        "summary": "Apesar de 87,4% priorizarem o Brasil, fatia dos que pretendem viajar para o exterior cresce para 37,7% nas famílias com renda acima de R$ 10 mil",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Flávio Bolsonaro mantém força eleitoral apesar do desgaste político, diz especialista",
-        "link": "https://exame.com/brasil/flavio-mantem-forca-eleitoral-apesar-do-desgaste-politico-diz-especialista/",
-        "summary": "Em entrevista à EXAME, o CEO da Nexus, Marcelo Tokarski diz que a principal conclusão da série histórica de sete levantamentos realizados pela Nexus é a resiliência da base bolsonarista",
+        "title": "Quênia investiga morte de 15 elefantes após suspeita de substância tóxica",
+        "link": "https://exame.com/ciencia/quenia-investiga-morte-de-15-elefantes-apos-suspeita-de-substancia-toxica/",
+        "summary": "Análises em água e possíveis contaminantes ambientais tentam esclarecer o que aconteceu em uma das principais áreas de conservação da espécie",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
