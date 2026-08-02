@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-02T21:00:09.138Z",
+  "updated": "2026-08-02T22:04:39.851Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Corpo é encontrado com sinais de violência em estrada de terra de Mogi Mirim",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/02/corpo-e-encontrado-com-sinais-de-violencia-em-estrada-de-terra-de-mogi-mirim.ghtml",
+        "summary": "Corpo é encontrado com sinais de violência em estrada de terra de Mogi Mirim Guarda Municipal Um corpo foi encontrado na manhã deste domingo (2) em uma estrada de terra no Distrito Industrial Luiz Torrani, em Mogi Mirim ",
+        "image": "https://s2-g1.glbimg.com/VzNNmNA9JMX6xlnFK9XXrzvgNJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/p/sAqcTJRbWCR7XAyEHtcw/design-sem-nome-10-.png",
+        "date": "02 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Após recesso, Câmara de Campinas vota prioridade para pessoas com autismo na habitação e novas regras de proteção animal",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/02/apos-recesso-camara-de-campinas-vota-prioridade-para-pessoas-com-autismo-na-habitacao-e-novas-regras-de-protecao-animal.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/reforma-tributaria-dados-atipicos-podem-afetar-parcela-do-ibs-destinada-a-cidades-da-regiao-de-campinas.ghtml",
         "summary": "Imagens aéreas de Tuiuti (SP) e Santo Antônio do Jardim (SP), respectivamente Divulgação/Prefeituras Tuiuti (SP) e Santo Antônio do Jardim (SP) tiveram mudanças consideradas atípicas em dados fiscais que serão usados na ",
         "image": "https://s2-g1.glbimg.com/-5NsTTJ_OFozjYokS4941OJupbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/6/oxYfZ5QFqBNWLvFHl2Ow/tuiuti-saj.png",
-        "date": "01 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Hora do Rancho une sabor e tradição em preparo de feijão tropeiro",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/01/hora-do-rancho-une-sabor-e-tradicao-em-preparo-de-feijao-tropeiro.ghtml",
-        "summary": "Aprenda a fazer um delicioso feijão tropeiro O quadro Hora do Rancho deste sábado (01) vai até Águas da Prata (SP), município localizado na divisa com Minas Gerais, para conhecer a Fazenda Santa Maria. Vamos preparar um ",
-        "image": "https://s2-g1.glbimg.com/lm3A5bK4f8kkDVAIMlAX2m-E2zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/VJVBUfRxeO4sBgwwwxdw/feijao-tropeiro.png",
         "date": "01 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Culturas do Brasil e da China se juntam em mostra de filmes no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/culturas-do-brasil-e-da-china-se-juntam-em-mostra-de-filmes-no-rio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/culturas-do-brasil-e-da-china-se-juntam-em-mostra-de-filmes-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Maratonista olímpico Daniel Ferreira é encontrado vivo após 44 dias",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/maratonista-olimpico-daniel-ferreira-e-encontrado-vivo-apos-44-dias",
+        "summary": "p strong O ex-maratonista Daniel Ferreira do Nascimento foi encontrado com vida nesse sábado (1º). O ex-atleta, que representou o Brasil na maratona dos Jogos Olímpicos de Tóquio, estava na zona leste de São Paulo. Com 2",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Democrata define Wilson Grassi Júnior candidato à Presidência",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-define-wilson-grassi-junior-candidato-presidencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Mulheres são maioria no setor de seguros, mas minoria na liderança",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Carol e Rebecca estão na final do Circuito Mundial de vôlei de praia",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/carol-e-rebecca-estao-na-final-do-circuito-mundial-de-volei-de-praia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/carol-e-rebecca-estao-na-final-do-circuito-mundial-de-volei-de-praia img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Palmeiras vence Fortaleza e encaminha ida às quartas da Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-fortaleza-ida-oitavas-copa-do-brasil-02-08-2026/",
-        "summary": "O Palmeiras fez a lição de casa e venceu o Fortaleza por 3 a 0 neste domingo, em jogo de ida das oitavas de final da Copa do Brasil. Mauricio, Jhon Arias e Flaco López fizeram os gols do Verdão para abrir vantagem no con",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/02082026_cg_palmeiras_gol_8325_1.webp",
+        "title": "Abel revela queixa de Paulinho e explica presença do atacante no banco em Palmeiras x Fortaleza",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/entenda-por-que-paulinho-nao-saiu-do-banco-em-palmeiras-x-fortaleza/",
+        "summary": "Recuperado de uma entorse no tornozelo esquerdo, Paulinho voltou ao banco de reservas do Palmeiras neste domingo, mas não entrou em campo durante a vitória por 3 a 0 sobre o Fortaleza, pela ida das oitavas de final da Co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/02082026_cg_palmeiras_destaque_7976_10.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tenista russa Kristina Liutova, de 16 anos, é campeã do WTA 250 de Memphis",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/kristina-liutova-conquista-primeiro-titulo-wta-memphis/",
-        "summary": "A russa Kristina Liutova, de apenas 16 anos, conquistou neste domingo o primeiro título profissional de sua carreira ao vencer o WTA 250 de Memphis. Vinda do qualifying, a jovem promessa derrotou a tcheca Darja Vidmanova",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__2288637592__v1__HighRes__Wta250MemphisClassic2026Day6.webp",
+        "title": "Melhores momentos da vitória do Chicago Fire FC sobre o Charlotte FC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-chicago-fire-fc-sobre-o-charlotte-fc-pela-mls/",
+        "summary": "Melhores momentos da vitória do Chicago Fire FC sobre o Charlotte FC pela MLS O post Melhores momentos da vitória do Chicago Fire FC sobre o Charlotte FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Chica.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com Neymar na academia, Santos abre preparação para jogo de volta contra o Remo",
-        "link": "https://www.gazetaesportiva.com/times/santos/com-neymar-na-academia-santos-abre-preparacao-para-jogo-de-volta-contra-o-remo/",
-        "summary": "O Santos iniciou a preparação para o jogo de volta contra o Remo, pela Copa do Brasil, com Neymar realizando trabalhos na academia. O camisa 10 é dúvida para a partida, já que participará de um leilão beneficente em São ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55437961245_969dc49d72_o.webp",
+        "title": "Com Bidu e Garro, Corinthians está escalado para enfrentar o Internacional",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/com-bidu-e-garro-corinthians-esta-escalado-para-enfrentar-o-internacional/",
+        "summary": "O Corinthians está escalado para o duelo de logo mais diante do Internacional, neste domingo, pelo jogo de ida das oitavas de final da Copa do Brasil. Para a partida, o técnico Fernando Diniz conta com retorno importante",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HOvjmAyWcAAOzn9-2.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja galeria de fotos do treino do Santos neste domingo",
-        "link": "https://www.gazetaesportiva.com/times/santos/veja-galeria-de-fotos-do-treino-do-santos-neste-domingo/",
-        "summary": "O post Veja galeria de fotos do treino do Santos neste domingo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55436605397_a90b1586ca_o.webp",
+        "title": "Melhores momentos da vitória do Palmeiras sobre o Fortaleza pela Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-palmeiras-sobre-o-fortaleza-pela-copa-do-brasil/",
+        "summary": "Melhores momentos da vitória do Palmeiras sobre o Fortaleza pela Copa do Brasil O post Melhores momentos da vitória do Palmeiras sobre o Fortaleza pela Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/palmaua.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Infantino vai do céu ao inferno em apenas duas semanas",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/gianni-infantino-enfrenta-maior-crise-na-fifa/",
-        "summary": "Gianni Infantino enfrenta o maior desafio de sua gestão à frente da FIFA após ser obrigado a abandonar o projeto de abrir as competições da entidade ao investimento privado. O dirigente, que recentemente comemorava o suc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QU8G6__v1__HighRes__FilesFblFifaUefaEconomy.webp",
+        "title": "Primavera bate o Juventus fora de casa e cola na liderança da Copa Paulista",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/primavera-bate-o-juventus-fora-de-casa-e-cola-na-lideranca-da-copa-paulista/",
+        "summary": "O Primavera venceu o Juventus por 1 a 0, na Arena Barueri, pela terceira rodada da Copa Paulista. Kauan Cunha marcou o gol da vitória, que manteve o Primavera na vice-liderança do Grupo 3. O post Primavera bate o Juventu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapDownloader.App_762864032_17983051764045862_5731815041270814778_n.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras x Fortaleza: veja fotos do jogo de ida das oitavas de final da Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-fortaleza-veja-fotos-do-jogo-de-ida-das-oitavas-de-final-da-copa-do-brasil/",
-        "summary": "Palmeiras e Fortaleza se enfrentam pelas oitavas de final da Copa do Brasil. Veja fotos do jogo de ida no Nubank Parque. O post Palmeiras x Fortaleza: veja fotos do jogo de ida das oitavas de final da Copa do Brasil apar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/02082026_cg_palmeiras_destaque_8084_19.webp",
+        "title": "Melhores momentos do empate entre Minnesota United e San Diego FC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-do-empate-entre-minnesota-united-e-san-diego-fc-pela-mls/",
+        "summary": "Melhores momentos do empate entre Minnesota United e San Diego FC pela MLS O post Melhores momentos do empate entre Minnesota United e San Diego FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Minneso.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "No Canadá, comissários da WestJet entram em greve por disputa salarial",
+        "link": "https://www.infomoney.com.br/mundo/no-canada-comissarios-da-westjet-entram-em-greve-por-disputa-salarial/",
+        "summary": "A WestJet confirmou o movimento e cancelou mais de 300 voos neste domingo, prejudicando planos de viagem no Canadá em meio a um feriado prolongado de três dias The post No Canadá, comissários da WestJet entram em greve p",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/86687769007-20230111-t-161756-z-925416138-rc-2-eoy-9-mm-5-z-3-rtrmadp-3-faanotamflightsnewyork.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "02 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Milei confirma corrida à reeleição em 2027 e faz mistério sobre vice, que já definiu",
         "link": "https://www.infomoney.com.br/mundo/milei-confirma-corrida-a-reeleicao-em-2027-e-faz-misterio-sobre-vice-que-ja-definiu/",
         "summary": "Milei também reiterou a sua defesa pelo fim das eleições primárias (PASO), argumentando que elas representam um \"gasto desnecessário\" The post Milei confirma corrida à reeleição em 2027 e faz mistério sobre vice, que já ",
@@ -357,14 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Internacional x Corinthians: Onde assistir à Copa do Brasil?",
-        "link": "https://www.infomoney.com.br/esportes/internacional-corinthians-onde-assistir-copa-brasil/",
-        "summary": "O Internacional joga em casa The post Internacional x Corinthians: Onde assistir à Copa do Brasil? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-internacional-x-corinthians.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Marrocos afirma que 40 mil pessoas chegaram à fronteira com Ceuta",
+        "link": "https://exame.com/mundo/marrocos-afirma-que-40-mil-pessoas-chegaram-a-fronteira-com-ceuta/",
+        "summary": "País africano confirmou 11 mortes em seu território, dez delas por afogamento, durante fluxo migratório rumo às cidades espanholas",
+        "image": null,
         "date": "02 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Com Caiado e Kassab, PSD lança Ernani Polo como vice no RS",
+        "link": "https://exame.com/brasil/com-caiado-e-kassab-psd-lanca-ernani-polo-como-vice-no-rs/",
+        "summary": "Convenção reuniu candidatos do partido à Presidência e à vice-presidência da República, além do governador Eduardo Leite",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Perfil de Maduro celebra diálogo entre governo e oposição na Venezuela",
+        "link": "https://exame.com/mundo/perfil-de-maduro-celebra-dialogo-entre-governo-e-oposicao-na-venezuela/",
+        "summary": "Mensagem foi publicada antes da reunião entre representantes do governo de Delcy Rodríguez e opositores apoiados por Washington, prevista para a próxima semana",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "França encerra confinamento de 30 mil moradores após incêndio em depósito",
+        "link": "https://exame.com/mundo/franca-encerra-confinamento-de-30-mil-moradores-apos-incendio-em-deposito/",
+        "summary": "Fogo destruiu prédio de 800 metros quadrados da empresa Safe, no parque industrial de Gandrange",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Michelle Bolsonaro recebe alta, mas não deve ir à convenção do PL",
@@ -380,46 +420,6 @@
         "title": "Michelle Bolsonaro segue internada e pode desfalcar convenção com Flávio",
         "link": "https://exame.com/brasil/michelle-bolsonaro-segue-internada-e-pode-desfalcar-convencao-com-flavio/",
         "summary": "A ex-primeira-dama permanece internada neste domingo, 2, após ser submetida a um procedimento para tratar um quadro persistente de cefaleia",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O mundo está mais dividido que nos anos 1980 — e isso custa 1% do PIB",
-        "link": "https://exame.com/invest/mercados/o-mundo-esta-mais-dividido-que-nos-anos-1980-e-isso-custa-1-do-pib/",
-        "summary": "Estudo do Goldman Sachs mede o efeito das alianças geopolíticas sobre o crescimento. Guerra passa em dois anos; um rompimento diplomático leva 14 para cicatrizar",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quando usar o rosto de alguém com IA é legal? Entenda a lei e o uso de deepfakes",
-        "link": "https://exame.com/inteligencia-artificial/quando-usar-o-rosto-de-alguem-com-ia-e-legal-entenda-a-lei-e-o-uso-de-deepfakes/",
-        "summary": "Publicidade, dublagem e treinamento corporativo já usam a mesma tecnologia da fraude. O Conar liberou em 2023, e desde então o Congresso discute quem autoriza e quanto custa",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "FARM Rio e Rip Curl unem surf e Amazônia em nova coleção",
-        "link": "https://exame.com/casual/farm-rio-e-rip-curl-unem-surf-e-amazonia-em-nova-colecao/",
-        "summary": "Lançamento chega às lojas nesta segunda-feira, 3, com 25 peças inspiradas na pororoca e na paisagem amazônica",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Real Madrid elogia oposição da Uefa a 'plano de privatização' da Copa do Mundo",
-        "link": "https://exame.com/esporte/real-madrid-elogia-oposicao-da-uefa-a-plano-de-privatizacao-da-copa-do-mundo/",
-        "summary": "Em nota, equipe espanhola diz que a Copa pertence às nações e critica a venda de receitas futuras das competições",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
