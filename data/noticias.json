@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-02T06:37:17.050Z",
+  "updated": "2026-08-02T09:11:51.474Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Aplicativo da ANP avalia 359 postos de combustíveis na região de Campinas e dá notas 0 ou 1 para nove; veja onde",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/02/aplicativo-anp-avalia-postos-combustiveis-regiao-campinas-notas.ghtml",
+        "summary": "Nove postos da região de Campinas foram avaliados com notas 0 ou 1 Reprodução / EPTV A Agência Nacional do Petróleo (ANP) lançou um aplicativo que traz avaliações de 359 postos de combustíveis das cinco maiores cidades d",
+        "image": "https://s2-g1.glbimg.com/N4PtZ0BEpYCDvW3zWZJiem-dtpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/sETxV1TRWjpvbXvA7pgQ/captura-de-tela-2026-08-01-185126.png",
+        "date": "02 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Moradores de condomínio em Campinas precisam evacuar prédio após incêndio em apartamento",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/moradores-de-condominio-em-campinas-precisam-evacuar-predio-apos-incendio-em-apartamento.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/dia-pais-deve-movimentar-comercio-campinas-acic.ghtml",
         "summary": "Dia dos Pais deve movimentar R$ 141 milhões no comércio de Campinas As comemorações do Dia dos Pais em 2026 deverão movimentar R$ 141 milhões no comércio de Campinas (SP), segundo estudo realizado pela Associação Comerci",
         "image": "https://s2-g1.glbimg.com/HrmA8ojVGPYPMv3E1FgcDIW9JpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/zgV7h3RamvHuzIbFa3Kg/vlcsnap-2026-08-01-16h52m40s020.png",
-        "date": "01 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Juros, endividamento e queda de crédito: por que faturamento do varejo na região de Campinas recuou após sequência de altas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/juros-endividamento-e-queda-de-credito-por-que-faturamento-do-varejo-na-regiao-de-campinas-recuou-apos-sequencia-de-altas.ghtml",
-        "summary": "Campinas tem queda no faturamento do varejo nos primeiros meses de 2026 O faturamento do varejo na região de Campinas (SP) caiu 0,8% entre janeiro e abril de 2026, depois de dois anos de altas no setor, aponta pesquisa d",
-        "image": "https://s2-g1.glbimg.com/QVSbUXx82Xsh0E7n791z3_OlFgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/7/hAcJRDTjmOe3V9xDX8Ow/design-sem-nome-2026-08-01t142056.401.jpg",
         "date": "01 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
+        "title": "Venda de Vanderson, ex-Grêmio, coloca milhões do Rio Branco (SP) sob análise da Justiça",
+        "link": "https://www.gazetaesportiva.com/bastidores/venda-vanderson-rio-branco-recuperacao-judicial/",
+        "summary": "Documentos da recuperação judicial mostram como parte dos recursos da venda de Vanderson foi utilizada pelo Rio Branco. Apesar de identificar boa parte da movimentação financeira, a administradora judicial apontou uma di",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/51644992946-88ef6507db-o.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras tem agosto de decisões e começa mês buscando vaga nas quartas da Copa do Brasil; veja agenda",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-agenda-de-jogos-do-palmeiras-em-agosto/",
+        "summary": "O mês de agosto é decisivo para o Palmeiras, que tem pela frente jogos de mata-mata pela Copa do Brasil e pela Libertadores, além de defender a liderança do Campeonato Brasileiro. A equipe de Abel Ferreira abre o oitavo ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/27072026_cg_palmeiras_8211_26.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Cuca elogia Caballero contra o Remo e descarta negociar paraguaio; Não vou abrir mão",
+        "link": "https://www.gazetaesportiva.com/times/santos/cuca-elogia-caballero-contra-o-remo-e-descarta-negociar-paraguaio-nao-vou-abrir-mao/",
+        "summary": "Caballero foi acionado durante o empate em 0 a 0 do Santos diante do Remo neste sábado, pela ida das oitavas de final da Copa do Brasil. De volta após um período emprestado ao Portsmouth, da Inglaterra, o paraguaio foi e",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55419496959_40b8cc2113_o-1.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Em baixa, jovem atacante tenta aproveitar brecha para ressurgir no Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/em-baixa-jovem-atacante-tenta-aproveitar-brecha-para-ressurgir-no-corinthians/",
+        "summary": "Com Yuri Alberto lesionado e Pedro Raul retornando de problema físico, o atacante Gui Negão vê surgir uma oportunidade para recuperar espaço no Corinthians. O jovem de 19 anos perdeu protagonismo desde a chegada do técni",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/246947.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações: Neymar tem desempenho discreto e defesa é destaque do Santos em empate",
+        "link": "https://www.gazetaesportiva.com/times/santos/atuacoes-neymar-tem-depempenho-discreto-e-defesa-e-destaque-do-santos-em-empate/",
+        "summary": "O Santos apenas empatou com o Remo em 0 a 0 na noite deste sábado, pela ida das oitavas de final da Copa do Brasil. A partida contou com uma atuação discreta de Neymar, que enfrentou forte marcação de Zé Welisson, além d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/image-1.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Cuca lamenta empate do Santos e deixa viagem de Neymar para enfrentar o Remo em aberto",
         "link": "https://www.gazetaesportiva.com/times/santos/cuca-lamenta-empate-do-santos-e-deixa-viagem-de-neymar-para-enfrentar-o-remo-em-aberto/",
         "summary": "Cuca analisou a atuação do Santos no empate em 0 a 0 diante do Remo neste sábado, pelas oitavas de final da Copa do Brasil. Para o treinador, que escalou uma equipe mais ofensiva, o time teve boas oportunidades, mas ress",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55427504314_34bcc2c8d1_o-1.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos do duelo entre Inter Miami e Columbus Crew pela MLS",
-        "link": "https://www.gazetaesportiva.com/inter-miami/veja-fotos-do-duelo-entre-inter-miami-e-columbus-crew-pela-mls/",
-        "summary": "Veja uma galeria de fotos da partida entre Inter Miami e Columbus Crewu, neste sábado, pela temporada regular da MLS. O post Veja fotos do duelo entre Inter Miami e Columbus Crew pela MLS apareceu primeiro em Gazeta Espo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260802__2288658959__v1__HighRes__InterMiamiCfVColumbusCrew.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veríssimo sente a panturrilha e acende alerta no Santos; Igor Vinícius também preocupa",
-        "link": "https://www.gazetaesportiva.com/times/santos/verissimo-sente-a-panturrilha-e-acende-alerta-no-santos-igor-vinicius-tambem-preocupa/",
-        "summary": "O Santos pode ter duas baixas de peso para o confronto de volta da Copa do Brasil diante do Remo. Durante o empate em 0 a 0 contra a equipe paraense neste sábado, Lucas Veríssimo sentiu dores na panturrilha e teve que se",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5905.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Casemiro marca contra, Messi entra, e Inter Miami cede empate ao Columbus Crew pela MLS",
-        "link": "https://www.gazetaesportiva.com/inter-miami/inter-miami-x-columbus-crew-casemiro-gol-contra-estreia-mls/",
-        "summary": "Em sua estreia pelo Inter Miami, Casemiro marcou um gol contra no empate por 2 a 2 com o Columbus Crew, pela temporada regular da MLS. Luis Suárez abriu o placar para os donos da casa, Noah Allen voltou a colocar a equip",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260802__2288657947__v1__HighRes__InterMiamiCfVColumbusCrew.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Victor Hugo admite frustração após empate do Atlético-MG na Copa do Brasil: Não esperávamos",
-        "link": "https://www.gazetaesportiva.com/times/atletico-mg/victor-hugo-admite-frustracao-apos-empate-do-atletico-mg-na-copa-do-brasil-nao-esperavamos/",
-        "summary": "Após o empate sem gols contra o Juventude no jogo de ida das oitavas de final da Copa do Brasil, o meia Victor Hugo admitiu a frustração do elenco do Atlético-MG com o resultado na Arena MRV. Apesar disso, o jogador demo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55436260566_b1114f6917_k.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Sob vaias na Vila, Bontempo admite frustração com empate do Santos; Não sei o que acontece",
-        "link": "https://www.gazetaesportiva.com/times/santos/sob-vaias-bontempo-admite-frustracao-com-empate-do-santos-nao-sei-o-que-acontece/",
-        "summary": "Gabriel Bontempo se mostrou incomodado com o empate em 0 a 0 entre Santos e Remo na noite deste sábado, pela Copa do Brasil. Sob vaias da torcida à equipe após o final da partida na Vila Belmiro, o meio-campista avaliou ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5904.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "7 ações que podem ganhar uma injeção de ânimo com as novas canetas de semaglutida",
+        "link": "https://www.infomoney.com.br/mercados/7-acoes-que-podem-ganhar-uma-injecao-de-animo-com-as-novas-canetas-de-semaglutida/",
+        "summary": "Na visão do BofA, a entrada de medicamentos de menor preço deve aumentar o acesso da população aos tratamentos com GLP-1 The post 7 ações que podem ganhar uma injeção de ânimo com as novas canetas de semaglutida appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/haberdoedas-TzKc7FGaL7Y-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "02 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Meia-idade: especialistas indicam 9 hábitos que aumentam sua longevidade",
+        "link": "https://www.infomoney.com.br/business/global/meia-idade-especialistas-indicam-9-habitos-que-aumentam-sua-longevidade/",
+        "summary": "Como você cuida de si mesmo nesta fase da vida faz toda a diferença para os anos que virão The post Meia-idade: especialistas indicam 9 hábitos que aumentam sua longevidade appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/LONGEVITY-TIPS.jpg?fit=300%2C300&amp;quality=70&amp;strip=all",
+        "date": "02 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula larga na campanha com aliados e estrutura, mas também com duas crises no radar",
+        "link": "https://www.infomoney.com.br/politica/lula-larga-na-campanha-com-aliados-e-estrutura-mas-tambem-com-duas-crises-no-radar/",
+        "summary": "Petista chega à convenção com Alckmin confirmado na vice, maior tempo potencial de TV e programa de governo em fase final The post Lula larga na campanha com aliados e estrutura, mas também com duas crises no radar appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/55416234238_1f32c01509_c.jpg?fit=300%2C152&amp;quality=70&amp;strip=all",
+        "date": "02 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fantasma de Witzel ajuda a explicar por que Cleitinho ficou fora da disputa em Minas",
+        "link": "https://www.infomoney.com.br/politica/fantasma-de-witzel-ajuda-a-explicar-por-que-cleitinho-ficou-fora-da-disputa-em-minas/",
+        "summary": "Para especialistas, temor de repetir uma gestão sem base política e dificuldades de articulação pesaram na decisão do senador de não disputar o governo mineiro The post Fantasma de Witzel ajuda a explicar por que Cleitin",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-Tela-2026-07-31-as-11.08.13.jpg?fit=300%2C163&amp;quality=70&amp;strip=all",
+        "date": "02 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "“Livro Amarelo”: a doutrina que Renan Santos diz ser a base do projeto do Missão",
         "link": "https://www.infomoney.com.br/politica/livro-amarelo-a-doutrina-que-renan-santos-diz-ser-a-base-do-projeto-do-missao/",
         "summary": "Documento foi apresentado no lançamento da candidatura à Presidência como mais do que um plano de governo e reúne os princípios políticos, econômicos e sociais defendidos pelo novo partido The post “Livro Amarelo”: a dou",
@@ -327,44 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Pentacampeão, Kléberson passa por cateterismo após sentir dores no peito nos EUA",
-        "link": "https://www.infomoney.com.br/esportes/pentacampeao-kleberson-passa-por-cateterismo-apos-sentir-dores-no-peito-nos-eua/",
-        "summary": "O próprio ex-jogador revelou a situação neste sábado, por meio das redes sociais The post Pentacampeão, Kléberson passa por cateterismo após sentir dores no peito nos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/klebersonk-2.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "A IA está criando um novo tipo de gestor: menos operacional, mais estratégico",
+        "link": "https://exame.com/inteligencia-artificial/a-ia-esta-criando-um-novo-tipo-de-gestor-menos-operacional-mais-estrategico/",
+        "summary": "Com tarefas rotineiras sendo automatizadas, líderes passam a dedicar mais tempo à tomada de decisão, ao desenvolvimento de equipes e ao planejamento do negócio",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Flávio Bolsonaro chama Lula de projeto de ditador e diz que vai demiti-lo",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-chama-lula-de-projeto-de-ditador-e-diz-que-vai-demiti-lo/",
-        "summary": "\"O governo atual endividou o povo brasileiro\", disse Flávio The post Flávio Bolsonaro chama Lula de projeto de ditador e diz que vai demiti-lo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/pl-partido-liberal-flavio-bolsonaro-convencao-eleicoes2026-04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Você sabe conversar com uma IA? A habilidade que virou diferencial competitivo",
+        "link": "https://exame.com/inteligencia-artificial/voce-sabe-conversar-com-uma-ia-a-habilidade-que-virou-diferencial-competitivo/",
+        "summary": "Escrever comandos claros, fornecer contexto e fazer perguntas estratégicas deixou de ser apenas uma forma de obter respostas melhores",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Renan Santos chama Flávio de fraco , Lula de cachaceiro e quer matar quem roubar",
-        "link": "https://www.infomoney.com.br/politica/renan-santos-chama-flavio-de-fraco-lula-de-cachaceiro-e-quer-matar-quem-roubar/",
-        "summary": "Candidato do Missão também rejeitou os rótulos de \"antipetista\" e de \"terceira via\" The post Renan Santos chama Flávio de fraco , Lula de cachaceiro e quer matar quem roubar appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/renan-santos-convencao-missao.jpg?fit=300%2C173&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Pesquisa Vox Brasil: Tarcísio tem 52,9% e Haddad, 34,3%, no 1º turno",
+        "link": "https://exame.com/brasil/pesquisa-vox-brasil-tarcisio-tem-529-e-haddad-343-no-1o-turno/",
+        "summary": "Atual governador de São Paulo lidera a disputa pela reeleição com margem folgada e registra 65,3% de aprovação de sua gestão",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Flávio Bolsonaro promete o maior corte de carga tributária da história do País",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-promete-o-maior-corte-de-carga-tributaria-da-historia-do-pais/",
-        "summary": "De acordo com Flávio, o atual governo foi responsável por aumentar a carga tributária e endividar o povo brasileiro The post Flávio Bolsonaro promete o maior corte de carga tributária da história do País appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-25T165535Z_326902380_RC24LMAT6HCH_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Pesquisa Vox Brasil: Marina, Tebet e Salles lideram disputa pelo Senado em SP",
+        "link": "https://exame.com/brasil/pesquisa-vox-brasil-marina-tebet-e-salles-lideram-disputa-pelo-senado-em-sp/",
+        "summary": "Na disputa pelas duas vagas ao Senado em São Paulo, ex-ministras de Lula ocupam as primeiras posições, seguidas pelo ex-ministro de Jair Bolsonaro",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "João Campos oficializa candidatura ao governo de Pernambuco",
@@ -380,46 +420,6 @@
         "title": "Vincent Pastore, de 'Família Soprano', morre aos 80 anos; veja causa",
         "link": "https://exame.com/pop/vincent-pastore-de-familia-soprano-morre-aos-80-anos-veja-causa/",
         "summary": "Corpo do ator foi encontrado por um vizinho após três dias sem contato",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PL oficializa Carlos Bolsonaro e Carol De Toni como candidatos em Santa Catarina",
-        "link": "https://exame.com/brasil/pl-oficializa-carlos-bolsonaro-e-carol-de-toni-como-candidatos-em-santa-catarina/",
-        "summary": "Convenção da legenda também confirmou Jorginho Mello na disputa pela reeleição ao governo do estado e encerrou a disputa interna pelas vagas ao Senado",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PL oficializa candidatura de Sergio Moro ao governo do Paraná",
-        "link": "https://exame.com/brasil/pl-oficializa-candidatura-de-sergio-moro-ao-governo-do-parana/",
-        "summary": "Senador foi confirmado como candidato ao Palácio Iguaçu durante convenção do partido em Curitiba e voltou a defender o legado da Operação Lava Jato",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Datafolha: Flamengo continua com a maior torcida do Brasil; veja o ranking",
-        "link": "https://exame.com/esporte/datafolha-flamengo-continua-com-a-maior-torcida-do-brasil-veja-o-ranking/",
-        "summary": "Levantamento mostra que 22% dos brasileiros torcem pelo Rubro-Negro, contra 14% do Corinthians, segundo colocado",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Queda de avião com turistas deixa ao menos 13 mortos Peru",
-        "link": "https://exame.com/mundo/queda-de-aviao-com-turistas-deixa-ao-menos-13-mortos-no-sul-do-peru/",
-        "summary": "Aeronave caiu logo após decolar de Pisco para um voo turístico sobre as Linhas de Nazca",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
