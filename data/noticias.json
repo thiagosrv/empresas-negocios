@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T15:05:44.384Z",
+  "updated": "2026-08-02T17:04:45.536Z",
   "feeds": {
     "campinas": [
       {
@@ -63,59 +63,119 @@
         "cls": "brasil"
       },
       {
+        "title": "Nome novo, Gustavo do Restaurante Dona Maria é confirmado candidato a deputado",
+        "link": "https://jornalamericanense.com.br/politica/nome-novo-gustavo-do-restaurante-dona-maria-e-confirmado-candidato-a-deputado/",
+        "summary": "O jornalista e empresário Gustavo Antoniassi, do Restaurante Dona Maria, oficializou na noite de terça-feira (28) sua candidatura a deputado federal pelo PSDB durante a convenção estadual do partido. Pela primeira vez di",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "ACIA lança ExpoEmpresas e espera R$ 6 milhões em negócios",
+        "link": "https://jornalamericanense.com.br/economia/acia-lanca-expoempresas-e-espera-r-6-milhoes-em-negocios/",
+        "summary": "A ACIA – Associação Comercial e Industrial de Americana fez o lançamento oficial da primeira edição da ExpoEmpresas, na noite desta quarta-feira, dia 29, no Teatro Municipal Lulu Benencase. O evento reuniu expositores, e",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Reforma Tributária: Doações de imóveis a terceiros é impulsionada",
+        "link": "https://jornalamericanense.com.br/economia/reforma-tributaria-doacoes-de-imoveis-a-terceiros-e-impulsionada/",
+        "summary": "A Reforma Tributária, promulgada em dezembro de 2023, impulsionou o aumento das doações de imóveis no Brasil. Dados do Colégio Notarial do Brasil (CNB) mostram que, em 2025, foram registradas 185.861 escrituras públicas ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Mulher morre após ter intestino perfurado durante colonoscopia em hospital de São Paulo",
+        "link": "https://jornalamericanense.com.br/saude/mulher-morre-apos-ter-intestino-perfurado-durante-colonoscopia-em-hospital-de-sao-paulo/",
+        "summary": "Uma mulher de 41 anos morreu após sofrer uma perfuração no intestino durante um exame de colonoscopia realizado no Hospital Municipal Doutor Alípio Corrêa Netto, em Ermelino Matarazzo, na Zona Leste de São Paulo. A vítim",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Família morre em acidente grave e madrasta grávida de 3 meses está entre as vítimas",
+        "link": "https://jornalamericanense.com.br/policia/familia-morre-em-acidente-grave-e-madrasta-gravida-de-3-meses-esta-entre-as-vitimas/",
+        "summary": "Quatro pessoas da mesma família morreram em um grave acidente entre um carro de passeio e um caminhão na noite desta quinta-feira (30), na GO-139, a cerca de quatro quilômetros do Trevo de Vianópolis, no sudeste de Goiás",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura realiza programação especial no mês de aniversário de 151 anos de Americana",
+        "link": "https://jornalamericanense.com.br/cultura/prefeitura-realiza-programacao-especial-no-mes-de-aniversario-de-151-anos-de-americana/",
+        "summary": "O mês de aniversário de 151 anos de Americana será marcado por uma intensa e diversificada programação de eventos. A agenda especial do mês de agosto inclui atividades esportivas e culturais e shows de músicos de renome ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Carol e Rebecca estão na final do Circuito Mundial de vôlei de praia",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/carol-e-rebecca-estao-na-final-do-circuito-mundial-de-volei-de-praia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/carol-e-rebecca-estao-na-final-do-circuito-mundial-de-volei-de-praia img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Estudantes de todo o país participam da Jornada de Foguetes 2026",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/estudantes-de-todo-o-pais-participam-da-jornada-de-foguetes-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/estudantes-de-todo-o-pais-participam-da-jornada-de-foguetes-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena acumula para R$ 135 milhões; confira as dezenas sorteadas",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mega-sena-acumula-para-r-135-milhoes-confira-dezenas-sorteadas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mega-sena-acumula-para-r-135-milhoes-confira-dezenas-sorteadas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-e-quarto-pais-que-mais-ampliou-turismo-internacional-diz-ocde",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-e-quarto-pais-que-mais-ampliou-turismo-internacional-diz-ocde img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "No Bonito CineSur, Paulo Betti defende regulamentação de streamings",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/no-bonito-cinesur-paulo-betti-defende-regulamentacao-de-streamings",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/no-bonito-cinesur-paulo-betti-defende-regulamentacao-de-streamings img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Congresso volta do recesso sem previsão de plenário nesta semana",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-volta-do-recesso-sem-previsao-de-plenario-nesta-semana",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-volta-do-recesso-sem-previsao-de-plenario-nesta-semana img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "São Paulo vence Vitória e assume liderança do Brasileirão Feminino",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Filme sobre a ditadura paraguaia vence festival Bonito CineSur",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Caminhadas buscam conscientizar população sobre lipedema",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema",
-        "summary": "p Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas extremidades do corpo, resultando em um aumento desproporcional do tecido adiposo sobretudo nos braços e nas pernas. O quadro, comumente c",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Amamentação reduz risco de doença cardíaca na mãe",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae",
-        "summary": "p strong A amamentação reduz em cerca de 11% a chance de a mulher desenvolver uma doença cardiovascular em relação a mulher que não amamenta, destaca a Sociedade Brasileira de Cardiologia (SBC). /strong img src= https://",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mulheres formam rede em defesa do clima e dos territórios",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Agência Brasil",
@@ -125,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Equipes de resgate encontram corpo do alpinista Nirmal Purja",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/corpo-nirmal-purja-encontrado-avalanche-paquistao/",
-        "summary": "O corpo do alpinista Nirmal Purja foi encontrado neste domingo (2) pelas equipes de resgate no Broad Peak, no norte do Paquistão, após a avalanche que matou dez integrantes de sua expedição. Conhecido mundialmente pelo d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/32NZNFJND5DBDGJUK7JAMBVWGI.avif",
+        "title": "Francês Arthur Gea vence Shapovalov e é campeão do ATP 250 de Los Cabos",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/arthur-gea-conquista-atp-los-cabos-primeiro-titulo/",
+        "summary": "O francês Arthur Gea conquistou neste domingo o primeiro título ATP de sua carreira ao vencer Denis Shapovalov na final do ATP 250 de Los Cabos. Atual número 127 do ranking mundial, o tenista de 21 anos derrotou o canade",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/arthur-gea-frances.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Carlos Miguel se aproxima de 50° jogo pelo Palmeiras e diz que se sente totalmente em casa",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/carlos-miguel-50-jogos-palmeiras/",
-        "summary": "A partida eliminatória entre Palmeiras e Fortaleza, pela ida das oitavas de final da Copa do Brasil, neste domingo, será especial para o goleiro Carlos Miguel, que deve alcançar a marca de 50 jogos defendendo a camisa do",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/28052026_cg_palmeiras_3131_51.webp",
+        "title": "A queda em desgraça mais rápida , diz ex-diretor do COI sobre Infantino",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/a-queda-em-desgraca-mais-rapida-diz-ex-diretor-do-coi-sobre-infantino/",
+        "summary": "Michael Payne, ex-diretor de marketing do COI, afirmou que Gianni Infantino vive \"a queda em desgraça mais rápida de um dirigente esportivo\" após a Fifa retirar um plano bilionário de investimento privado. O post A queda",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260729__C3FX29G__v2__HighRes__FblEuFifaWc.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Calleri é o atacante que mais vence duelos aéreos no Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-e-o-atacante-que-mais-vence-duelos-aereos-no-brasileirao/",
-        "summary": "O atacante Jonathan Calleri tem se destacado na atual temporada do São Paulo. Após atravessar um período afastado por lesão na última temporada, o argentino voltou a atuar em grande fase e é o atacante que mais venceu du",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55435680818_dae6f8d82c_k.webp",
+        "title": "Gabriel Jesus marca na goleada do Arsenal sobre o Girona; confira os lances",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/gabriel-jesus-marca-na-goleada-do-arsenal-sobre-o-girona-confira-os-lances/",
+        "summary": "Gabriel Jesus marca na goleada por 4 a 1 do Arsenal sobre o Girona; confira os lances O post Gabriel Jesus marca na goleada do Arsenal sobre o Girona; confira os lances apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Gabriel.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Análise: Santos sofre para converter chances e esbarra em defesa do Remo",
-        "link": "https://www.gazetaesportiva.com/times/santos/analise-santos-sofre-para-converter-chances-e-esbarra-em-defesa-do-remo/",
-        "summary": "*Por João Germano Na noite deste sábado, o Santos perdeu a chance de abrir vantagem sobre o Remo no confronto das oitavas de final da Copa do Brasil. O Peixe empatou em 0 a 0 contra a equipe paraense na Vila Belmiro e so",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55410972440_6c8396635c_o-1.webp",
+        "title": "Real Madrid comemora boa notícia da retirada do plano comercial da Fifa",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-comemora-recuo-fifa-projeto-comercial/",
+        "summary": "O Real Madrid celebrou a decisão da Fifa de abandonar o projeto de criação da Fifa Forward Enterprise (FFE), empresa que seria responsável por administrar os direitos comerciais e eventos da entidade, incluindo a Copa do",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/blt4f99dc9bf2e1be08.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Venda de Vanderson, ex-Grêmio, coloca milhões do Rio Branco (SP) sob análise da Justiça",
-        "link": "https://www.gazetaesportiva.com/bastidores/venda-vanderson-rio-branco-recuperacao-judicial/",
-        "summary": "Documentos da recuperação judicial mostram como parte dos recursos da venda de Vanderson foi utilizada pelo Rio Branco. Apesar de identificar boa parte da movimentação financeira, a administradora judicial apontou uma di",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/51644992946-88ef6507db-o.webp",
+        "title": "Veja como foi o primeiro treino do Palmeiras no novo Nubank Parque",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-como-foi-o-primeiro-treino-do-palmeiras-no-novo-nubank-parque/",
+        "summary": "Veja como foi o primeiro treino do Palmeiras no novo Nubank Parque O post Veja como foi o primeiro treino do Palmeiras no novo Nubank Parque apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Palme.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras tem agosto de decisões e começa mês buscando vaga nas quartas da Copa do Brasil; veja agenda",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-agenda-de-jogos-do-palmeiras-em-agosto/",
-        "summary": "O mês de agosto é decisivo para o Palmeiras, que tem pela frente jogos de mata-mata pela Copa do Brasil e pela Libertadores, além de defender a liderança do Campeonato Brasileiro. A equipe de Abel Ferreira abre o oitavo ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/27072026_cg_palmeiras_8211_26.webp",
+        "title": "Melhores momentos do empate entre Santos e Remo pela Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-do-empate-entre-santos-e-remo-pela-copa-do-brasil/",
+        "summary": "Melhores momentos do empate entre Santos e Remo pela Copa do Brasil O post Melhores momentos do empate entre Santos e Remo pela Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5905.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -186,6 +246,36 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Mulheres são maioria no setor de seguros, mas minoria na liderança",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Mega-Sena acumula para R$ 135 milhões; confira as dezenas sorteadas",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mega-sena-acumula-para-r-135-milhoes-confira-dezenas-sorteadas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mega-sena-acumula-para-r-135-milhoes-confira-dezenas-sorteadas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Brasil é quarto país que mais ampliou turismo internacional, diz OCDE",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-e-quarto-pais-que-mais-ampliou-turismo-internacional-diz-ocde",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-e-quarto-pais-que-mais-ampliou-turismo-internacional-diz-ocde img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Programa de renegociação de dívidas é prorrogado até 31 de agosto",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto",
@@ -217,99 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Aplicativo do Tesouro Direto será desativado a partir de 17 de agosto",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-sera-desativado-partir-de-17-de-agosto",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-sera-desativado-partir-de-17-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Centrais sindicais propõem medidas para enfrentar tarifaço dos EUA",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/centrais-sindicais-propoem-medidas-para-enfrentar-tarifaco-dos-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/centrais-sindicais-propoem-medidas-para-enfrentar-tarifaco-dos-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Dólar fecha estável, mas acumula queda de 1,82% em julho",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-fecha-estavel-mas-acumula-queda-de-182-em-julho",
-        "summary": "p O dólar teve pequena alta nesta sexta-feira (31), refletindo a busca dos investidores por proteção diante das tensões no Oriente Médio e do fortalecimento da moeda estadunidense no exterior. img src= https://agenciabra",
-        "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Convenção do PT divulga vídeo com tapete vermelho para Lula e até imagens com Trump",
-        "link": "https://www.infomoney.com.br/politica/convencao-do-pt-divulga-video-com-tapete-vermelho-para-lula-e-ate-imagens-com-trump/",
-        "summary": "Nas cenas que aparecem no vídeo, Lula é recebido com tapete vermelho na Casa Branca The post Convenção do PT divulga vídeo com tapete vermelho para Lula e até imagens com Trump appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-02-120201.png?fit=300%2C149&amp;quality=70&amp;strip=all",
+        "title": "Nem chineses nem americanos vão meter a mão nas nossas terras raras , diz Lula",
+        "link": "https://www.infomoney.com.br/politica/nem-chineses-nem-americanos-vao-meter-a-mao-nas-nossas-terras-raras-diz-lula/",
+        "summary": "\"Vou levar a questão da defesa nacional e as terras raras muito a sério no 4º mandato\", afirmou o presidente em convenção nacional do PT The post Nem chineses nem americanos vão meter a mão nas nossas terras raras , diz ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-02T154303Z_22801966_RC2EQMA16U2O_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "02 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Washington declara emergência devido aos incêndios e moradores precisam deixar casas",
-        "link": "https://www.infomoney.com.br/mundo/washington-declara-emergencia-devido-aos-incendios-e-moradores-precisam-deixar-casas/",
-        "summary": "O incêndio Old Trails começou por volta do meio-dia, queimando arbustos e grama em uma área aberta, mas rapidamente se espalhou para o norte e leste em direção a áreas residenciais The post Washington declara emergência ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-03-073925.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Sem Ibaneis, Celina Leão lança candidatura ao GDF e defende seus 4 meses de gestão",
+        "link": "https://www.infomoney.com.br/politica/sem-ibaneis-celina-leao-lanca-candidatura-ao-gdf-e-defende-seus-4-meses-de-gestao/",
+        "summary": "Ela assumiu em 30 de março de 2026, após a renúncia de Ibaneis, que pretendia concorrer ao Senado, mas desistiu da disputa The post Sem Ibaneis, Celina Leão lança candidatura ao GDF e defende seus 4 meses de gestão appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/celina-leao-governadora-df-politica-distrito-federal.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "02 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Partido Novo protocola representação contra PT após Lula pedir votos em convenção",
-        "link": "https://www.infomoney.com.br/politica/partido-novo-protocola-representacao-contra-pt-apos-lula-pedir-votos-em-convencao/",
-        "summary": "O processo foi distribuído ao ministro André Mendonça, com pedido de liminar para retirada de vídeos do evento das plataformas digitais The post Partido Novo protocola representação contra PT após Lula pedir votos em con",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/romeu-zema-partido-novo.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Palmeiras x Fortaleza: Onde assistir à Copa do Brasil?",
+        "link": "https://www.infomoney.com.br/esportes/palmeiras-fortaleza-onde-assistir-copa-brasil/",
+        "summary": "O Verdão joga em casa dessa vez The post Palmeiras x Fortaleza: Onde assistir à Copa do Brasil? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-palmeiras-x-fortaleza.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "02 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Baixa umidade do ar: 6 dicas que vão te ajudar a reduzir os efeitos do tempo seco",
-        "link": "https://www.infomoney.com.br/saude/baixa-umidade-do-ar-6-dicas-que-vao-te-ajudar-a-reduzir-os-efeitos-do-tempo-seco/",
-        "summary": "É preciso manter boa hidratação e evitar atividades físicas ao ar livre em determinados horários The post Baixa umidade do ar: 6 dicas que vão te ajudar a reduzir os efeitos do tempo seco appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/FTA20250722001.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Sobe para 72 número de mortos devido à chegada de migrantes em Ceuta",
+        "link": "https://www.infomoney.com.br/mundo/sobe-para-72-numero-de-mortos-devido-a-chegada-de-migrantes-em-ceuta/",
+        "summary": "Mais de 50 mil pessoas entraram em Ceuta por terra e mar num fluxo sem precedentes que começou na quinta-feira numa das duas únicas fronteiras terrestres da União Europeia com África The post Sobe para 72 número de morto",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-01T070344Z_1105895493_RC2IPMACSENF_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "02 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Acabamos de homologar Lula à presidência e Alckmin vice, diz Edinho Silva",
-        "link": "https://www.infomoney.com.br/politica/acabamos-de-homologar-lula-a-presidencia-e-alckmin-vice-diz-edinho-silva/",
-        "summary": "A declaração foi dada durante a Convenção Nacional do PT, na Expo Center Norte, em São Paulo The post Acabamos de homologar Lula à presidência e Alckmin vice, diz Edinho Silva appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Edinho-Silva.png?fit=300%2C226&amp;quality=70&amp;strip=all",
+        "title": "Celina Leão diz que BRB será recuperado e critica adversários",
+        "link": "https://www.infomoney.com.br/politica/celina-leao-diz-que-brb-sera-recuperado-e-critica-adversarios/",
+        "summary": "Em evento realizado neste domingo, 2, no Centro de Convenções Ulysses Guimarães, Celina foi oficializada candidata à reeleição pelo PP The post Celina Leão diz que BRB será recuperado e critica adversários appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/01/Captura-de-Tela-2023-01-09-as-17.13.10.png?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "02 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Com a presença de Alckmin, PSB oficializa candidatura de João Campos ao governo de PE",
-        "link": "https://www.infomoney.com.br/politica/com-a-presenca-de-alckmin-psb-oficializa-candidatura-de-joao-campos-ao-governo-de-pe/",
-        "summary": "Ex-prefeito do Recife disputa o Executivo estadual pela primeira vez e tenta suceder a governadora Raquel Lyra (PSD), candidata à reeleição The post Com a presença de Alckmin, PSB oficializa candidatura de João Campos ao",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/Joao-Henrique-Campos.jpeg?fit=300%2C216&amp;quality=70&amp;strip=all",
+        "title": "Congresso volta do recesso nesta segunda-feira com agenda esvaziada; veja programação",
+        "link": "https://www.infomoney.com.br/politica/congresso-volta-do-recesso-nesta-segunda-feira-com-agenda-esvaziada-veja-programacao/",
+        "summary": "A expectativa é que votações nos plenários da Câmara e do Senado ocorram apenas nessas duas semanas até as eleições gerais de outubro The post Congresso volta do recesso nesta segunda-feira com agenda esvaziada; veja pro",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-04T192744Z_1_LYNXMPELB315Q_RTROPTP_4_MACRO-LDO-APROVA.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
         "date": "02 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "PT oficializa sétima candidatura presidencial de Lula em SP; petista tentará 4º mandato",
-        "link": "https://exame.com/brasil/pt-oficializa-setima-candidatura-presidencial-de-lula-em-sp/",
-        "summary": "Presidente chega à convenção nacional como favorito à reeleição",
+        "title": "Lula fala que Haddad é seu possível sucessor na Presidência",
+        "link": "https://exame.com/brasil/lula-fala-que-haddad-e-seu-possivel-sucessor-na-presidencia/",
+        "summary": "Petista foi lançado à reeleição em convenção do PT em São Paulo",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Comer menos proteína pode favorecer o envelhecimento saudável, aponta estudo",
-        "link": "https://exame.com/ciencia/comer-menos-proteina-pode-favorecer-o-envelhecimento-saudavel-aponta-estudo/",
-        "summary": "Análise de mais de 350 estudos indica que reduzir a ingestão pode melhorar o metabolismo e diminuir processos ligados ao envelhecimento",
+        "title": "Michelle Bolsonaro faz post em hospital na véspera de convenção ao Senado",
+        "link": "https://exame.com/brasil/michelle-bolsonaro-faz-post-em-hospital-na-vespera-de-convencao-ao-senado/",
+        "summary": "Internação ocorreu na véspera do evento em que o PL deve oficializar sua candidatura ao Senado pelo Distrito Federal neste domingo, 2",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mega-Sena sorteia dezenas do concurso 3.039; prêmio é de R$ 97 milhões",
-        "link": "https://exame.com/invest/minhas-financas/mega-sena-sorteia-dezenas-do-concurso-3-039-premio-e-de-r-100-milhoes/",
-        "summary": "Sorteio foi realizado neste domingo, em São Paulo; veja os números sorteados",
+        "title": "Em 'Homem-Aranha: Um Novo Dia', a IA é a única amiga de Peter Parker",
+        "link": "https://exame.com/inteligencia-artificial/em-homem-aranha-um-novo-dia-a-ia-e-a-unica-amiga-de-peter-parker/",
+        "summary": "Sem Ned, sem MJ e sem Tony Stark, o herói programou uma assistente para si. No Brasil, 1 em cada 5 estudantes já faz o mesmo quando se sente sozinho",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Aos 26 anos, ela lidera a maior rede de pneus do Norte e fatura mais de R$ 330 milhões",
-        "link": "https://exame.com/negocios/aos-26-anos-ela-lidera-a-maior-rede-de-pneus-do-norte-e-fatura-mais-de-r-330-milhoes/",
-        "summary": "Helena Monteconrado assumiu a operação da empresa da família aos 22 anos. Hoje, a Japurá Pneus atua em seis estados e aposta em tecnologia para acelerar o crescimento",
+        "title": "'Vou ser multado', diz Lula sobre pedido de votos na Bahia",
+        "link": "https://exame.com/brasil/vou-ser-multado-diz-lula-sobre-pedido-de-votos-na-bahia/",
+        "summary": "Presidente reconheceu que pode ser punido por pedido de votos antecipado e minimizou pesquisas eleitorais",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Recomendações de investimento avançam com IA, mas assessores esbarram em regulação",
-        "link": "https://exame.com/future-of-money/recomendacoes-de-investimento-avancam-com-ia-mas-assessores-esbarram-em-regulacao/",
-        "summary": "Assessorias e consultorias que operam no Brasil não precisam esperar a regulação e a fiscalização avançarem para se organizar",
+        "title": "Opinião: O e-commerce atacado ainda depende do WhatsApp para vender",
+        "link": "https://exame.com/bussola/opiniao-o-e-commerce-atacado-ainda-depende-do-whatsapp-para-vender/",
+        "summary": "Compradores buscam autonomia, mas regras comerciais complexas mantêm o setor atacadista preso ao atendimento humano no aplicativo de mensagens",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como surfar em São Paulo mudou a rotina de um executivo",
-        "link": "https://exame.com/casual/como-surfar-em-sao-paulo-mudou-a-rotina-de-um-executivo/",
-        "summary": "Leandro Farkuh, CEO da biO2, encontrou nas piscinas de ondas uma forma mais prática de conexão com o esporte",
+        "title": "Lula critica falta de mulheres em convenção do PT; Janja fala em 'se reafirmar'",
+        "link": "https://exame.com/brasil/janja-convoca-mulheres-a-votar-exaltando-eleitorado-feminino/",
+        "summary": "Janja afirma que mulheres serão decisivas na campanha e defende políticas permanentes de combate à violência de gênero",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
