@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T09:11:51.474Z",
+  "updated": "2026-08-02T11:19:01.561Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,36 @@
     ],
     "esportes": [
       {
+        "title": "Carlos Miguel se aproxima de 50° jogo pelo Palmeiras e diz que se sente totalmente em casa",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/carlos-miguel-50-jogos-palmeiras/",
+        "summary": "A partida eliminatória entre Palmeiras e Fortaleza, pela ida das oitavas de final da Copa do Brasil, neste domingo, será especial para o goleiro Carlos Miguel, que deve alcançar a marca de 50 jogos defendendo a camisa do",
+        "image": null,
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Calleri é o atacante que mais vence duelos aéreos no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-e-o-atacante-que-mais-vence-duelos-aereos-no-brasileirao/",
+        "summary": "O atacante Jonathan Calleri tem se destacado na atual temporada do São Paulo. Após atravessar um período afastado por lesão na última temporada, o argentino voltou a atuar em grande fase e é o atacante que mais venceu du",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55435680818_dae6f8d82c_k.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Análise: Santos sofre para converter chances e esbarra em defesa do Remo",
+        "link": "https://www.gazetaesportiva.com/times/santos/analise-santos-sofre-para-converter-chances-e-esbarra-em-defesa-do-remo/",
+        "summary": "*Por João Germano Na noite deste sábado, o Santos perdeu a chance de abrir vantagem sobre o Remo no confronto das oitavas de final da Copa do Brasil. O Peixe empatou em 0 a 0 contra a equipe paraense na Vila Belmiro e so",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55410972440_6c8396635c_o-1.webp",
+        "date": "02 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Venda de Vanderson, ex-Grêmio, coloca milhões do Rio Branco (SP) sob análise da Justiça",
         "link": "https://www.gazetaesportiva.com/bastidores/venda-vanderson-rio-branco-recuperacao-judicial/",
         "summary": "Documentos da recuperação judicial mostram como parte dos recursos da venda de Vanderson foi utilizada pelo Rio Branco. Apesar de identificar boa parte da movimentação financeira, a administradora judicial apontou uma di",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/santos/cuca-elogia-caballero-contra-o-remo-e-descarta-negociar-paraguaio-nao-vou-abrir-mao/",
         "summary": "Caballero foi acionado durante o empate em 0 a 0 do Santos diante do Remo neste sábado, pela ida das oitavas de final da Copa do Brasil. De volta após um período emprestado ao Portsmouth, da Inglaterra, o paraguaio foi e",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55419496959_40b8cc2113_o-1.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Em baixa, jovem atacante tenta aproveitar brecha para ressurgir no Corinthians",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/em-baixa-jovem-atacante-tenta-aproveitar-brecha-para-ressurgir-no-corinthians/",
-        "summary": "Com Yuri Alberto lesionado e Pedro Raul retornando de problema físico, o atacante Gui Negão vê surgir uma oportunidade para recuperar espaço no Corinthians. O jovem de 19 anos perdeu protagonismo desde a chegada do técni",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/246947.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Atuações: Neymar tem desempenho discreto e defesa é destaque do Santos em empate",
-        "link": "https://www.gazetaesportiva.com/times/santos/atuacoes-neymar-tem-depempenho-discreto-e-defesa-e-destaque-do-santos-em-empate/",
-        "summary": "O Santos apenas empatou com o Remo em 0 a 0 na noite deste sábado, pela ida das oitavas de final da Copa do Brasil. A partida contou com uma atuação discreta de Neymar, que enfrentou forte marcação de Zé Welisson, além d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/image-1.webp",
-        "date": "02 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cuca lamenta empate do Santos e deixa viagem de Neymar para enfrentar o Remo em aberto",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-lamenta-empate-do-santos-e-deixa-viagem-de-neymar-para-enfrentar-o-remo-em-aberto/",
-        "summary": "Cuca analisou a atuação do Santos no empate em 0 a 0 diante do Remo neste sábado, pelas oitavas de final da Copa do Brasil. Para o treinador, que escalou uma equipe mais ofensiva, o time teve boas oportunidades, mas ress",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55427504314_34bcc2c8d1_o-1.webp",
         "date": "02 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Rematrícula escolar: como calcular o custo real da educação dos filhos",
+        "link": "https://www.infomoney.com.br/minhas-financas/rematricula-escolar-como-calcular-o-custo-real-da-educacao-dos-filhos/",
+        "summary": "Mensalidade é apenas parte da conta; material, transporte, uniforme e atividades podem elevar o gasto mensal em até 20%, segundo especialista The post Rematrícula escolar: como calcular o custo real da educação dos filho",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Lista-de-material-escolar.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "date": "02 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "7 ações que podem ganhar uma injeção de ânimo com as novas canetas de semaglutida",
         "link": "https://www.infomoney.com.br/mercados/7-acoes-que-podem-ganhar-uma-injecao-de-animo-com-as-novas-canetas-de-semaglutida/",
         "summary": "Na visão do BofA, a entrada de medicamentos de menor preço deve aumentar o acesso da população aos tratamentos com GLP-1 The post 7 ações que podem ganhar uma injeção de ânimo com as novas canetas de semaglutida appeared",
@@ -357,19 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Renan tenta transformar eleição em disputa por “projeto de civilização” para o Brasil",
-        "link": "https://www.infomoney.com.br/politica/renan-tenta-transformar-eleicao-em-disputa-por-projeto-de-civilizacao-para-o-brasil/",
-        "summary": "Em lançamento da candidatura pelo Partido Missão, presidenciável apresentou o “Livro Amarelo” como uma doutrina para redefinir o país e buscou se diferenciar tanto do PT quanto do bolsonarismo The post Renan tenta transf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-01-at-20.20.26.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "A IA está criando um novo tipo de gestor: menos operacional, mais estratégico",
-        "link": "https://exame.com/inteligencia-artificial/a-ia-esta-criando-um-novo-tipo-de-gestor-menos-operacional-mais-estrategico/",
-        "summary": "Com tarefas rotineiras sendo automatizadas, líderes passam a dedicar mais tempo à tomada de decisão, ao desenvolvimento de equipes e ao planejamento do negócio",
+        "title": "Trump cancela ataque ao Irã e diz que termos de acordo já estão definidos",
+        "link": "https://exame.com/mundo/trump-cancela-ataque-ao-ira-e-diz-que-termos-de-acordo-ja-estao-definidos/",
+        "summary": "Entendimento preveria reabertura do Estreito de Ormuz e fim do programa nuclear iraniano. Forças americanas seguem em alerta, e Teerã ainda não confirmou os termos publicamente",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Você sabe conversar com uma IA? A habilidade que virou diferencial competitivo",
-        "link": "https://exame.com/inteligencia-artificial/voce-sabe-conversar-com-uma-ia-a-habilidade-que-virou-diferencial-competitivo/",
-        "summary": "Escrever comandos claros, fornecer contexto e fazer perguntas estratégicas deixou de ser apenas uma forma de obter respostas melhores",
+        "title": "As 7 habilidades que a IA está tornando mais valiosas no mercado de trabalho, segundo a McKinsey",
+        "link": "https://exame.com/carreira/as-7-habilidades-que-a-ia-esta-tornando-mais-valiosas-no-mercado-de-trabalho-segundo-a-mckinsey/",
+        "summary": "Levantamento mostra que a inteligência artificial está mudando o perfil dos profissionais mais disputados pelo mercado",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Pesquisa Vox Brasil: Tarcísio tem 52,9% e Haddad, 34,3%, no 1º turno",
-        "link": "https://exame.com/brasil/pesquisa-vox-brasil-tarcisio-tem-529-e-haddad-343-no-1o-turno/",
-        "summary": "Atual governador de São Paulo lidera a disputa pela reeleição com margem folgada e registra 65,3% de aprovação de sua gestão",
+        "title": "Casas da Banha: o que aconteceu com a gigante do varejo que tinha 230 lojas e dominava o Brasil",
+        "link": "https://exame.com/negocios/casas-da-banha-o-que-aconteceu-com-a-gigante-do-varejo-que-tinha-230-lojas-e-dominava-o-brasil/",
+        "summary": "A rede carioca fundada em 1955 inventou o primeiro hipermercado do Brasil, virou jingle na boca do povo e patrocinou o Chacrinha",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Pesquisa Vox Brasil: Marina, Tebet e Salles lideram disputa pelo Senado em SP",
-        "link": "https://exame.com/brasil/pesquisa-vox-brasil-marina-tebet-e-salles-lideram-disputa-pelo-senado-em-sp/",
-        "summary": "Na disputa pelas duas vagas ao Senado em São Paulo, ex-ministras de Lula ocupam as primeiras posições, seguidas pelo ex-ministro de Jair Bolsonaro",
+        "title": "Este gaúcho fará R$ 6 milhões dizendo às empresas onde elas devem abrir suas lojas",
+        "link": "https://exame.com/negocios/este-gaucho-fara-r-6-milhoes-dizendo-as-empresas-onde-elas-devem-abrir-suas-lojas/",
+        "summary": "Fundada pelo arquiteto e urbanista Francisco Zancan, a Space Hunters usa dados urbanos para orientar a expansão de marcas em 16 países",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
@@ -407,21 +407,21 @@
         "cls": "startups"
       },
       {
-        "title": "João Campos oficializa candidatura ao governo de Pernambuco",
-        "link": "https://exame.com/brasil/joao-campos-oficializa-candidatura-ao-governo-de-pernambuco/",
-        "summary": "Ex-prefeito do Recife enfrentará Raquel Lyra na disputa pelo Palácio do Campo das Princesas; Marília Arraes concorrerá ao Senado",
+        "title": "Interesse pelo futebol cai e CBF aposta na Copa Feminina de 2027",
+        "link": "https://exame.com/esporte/interesse-pelo-futebol-cai-e-cbf-aposta-na-copa-feminina-de-2027/",
+        "summary": "Levantamento do Datafolha mostra queda no interesse pelo futebol desde 2023; CBF vê Mundial feminino como oportunidade para ampliar a modalidade",
         "image": null,
-        "date": "01 de ago. de 2026",
+        "date": "02 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Vincent Pastore, de 'Família Soprano', morre aos 80 anos; veja causa",
-        "link": "https://exame.com/pop/vincent-pastore-de-familia-soprano-morre-aos-80-anos-veja-causa/",
-        "summary": "Corpo do ator foi encontrado por um vizinho após três dias sem contato",
+        "title": "Lula lidera em 4 estados e Flávio Bolsonaro vence em 1: os números da pesquisa Genial/Quaest",
+        "link": "https://exame.com/brasil/lula-lidera-em-4-estados-e-flavio-bolsonaro-vence-em-1-os-numeros-da-pesquisa-genial-quaest/",
+        "summary": "Goiás se destaca como o único estado em que nenhum dos dois aparece em primeiro lugar, posição ocupada pelo ex-governador goiano Ronaldo Caiado",
         "image": null,
-        "date": "01 de ago. de 2026",
+        "date": "02 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
