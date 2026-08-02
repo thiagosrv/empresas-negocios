@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-01T22:03:22.679Z",
+  "updated": "2026-08-01T23:59:59.463Z",
   "feeds": {
     "campinas": [
-      {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-        "date": "01 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
       {
         "title": "Reforma Tributária: dados 'atípicos' podem afetar parcela do IBS destinada a cidades da região de Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/reforma-tributaria-dados-atipicos-podem-afetar-parcela-do-ibs-destinada-a-cidades-da-regiao-de-campinas.ghtml",
@@ -57,6 +47,16 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/01/juros-endividamento-e-queda-de-credito-por-que-faturamento-do-varejo-na-regiao-de-campinas-recuou-apos-sequencia-de-altas.ghtml",
         "summary": "Campinas tem queda no faturamento do varejo nos primeiros meses de 2026 O faturamento do varejo na região de Campinas (SP) caiu 0,8% entre janeiro e abril de 2026, depois de dois anos de altas no setor, aponta pesquisa d",
         "image": "https://s2-g1.glbimg.com/QVSbUXx82Xsh0E7n791z3_OlFgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/7/hAcJRDTjmOe3V9xDX8Ow/design-sem-nome-2026-08-01t142056.401.jpg",
+        "date": "01 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "'Cartas de Vinho': Vindima atrai visitantes para experiência de colheita de uvas e degustação em vinícola no Sul de Minas",
+        "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/01/cartas-de-vinho-vindima-atrai-visitantes-para-experiencia-de-colheita-de-uvas-e-degustacao-em-vinicola-no-sul-de-minas.ghtml",
+        "summary": "Vindima atrai visitantes para colheita de uvas e degustação em vinícola do Sul de MG Uma vinícola de Bom Sucesso (MG) abriu as portas para visitantes durante a vindima, período da colheita das uvas que marca uma das etap",
+        "image": "https://s2-g1.glbimg.com/I6hN9_7egS_x_IZPQXaHUIYzoco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/GuwawrQ7AfBbAxbIGarQ/vindima8.png",
         "date": "01 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Programa de renegociação de dívidas é prorrogado até 31 de agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Cresce o número de estabelecimentos na cadeia produtiva da cachaça",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Justiça do Rio revoga prisão preventiva do rapper Oruam",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-revoga-prisao-preventiva-do-rapper-oruam",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-revoga-prisao-preventiva-do-rapper-oruam img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Em São Paulo, rua é renomeada em homenagem à história do samba",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/rua-e-renomeada-em-sao-paulo-em-homenagem-historia-do-samba",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/rua-e-renomeada-em-sao-paulo-em-homenagem-historia-do-samba img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil encerra Internacional de parabadminton com 8 medalhas de ouro",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-encerra-internacional-de-parabadminton-com-8-medalhas-de-ouro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-encerra-internacional-de-parabadminton-com-8-medalhas-de-ouro img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Melhores momentos: Furia FC 4 x 6 Alpak FC pela Kings World Cup Clubs",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-furia-fc-4-x-6-alpak-fc-pela-kings-world-cup-clubs/",
-        "summary": "Melhores momentos: Furia FC 4 x 6 Alpak FC pela Kings World Cup Clubs O post Melhores momentos: Furia FC 4 x 6 Alpak FC pela Kings World Cup Clubs apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Alp.webp",
+        "title": "Ex-jogador da base do São Paulo é morto a tiros em Maceió",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/morte-micael-leandro-sao-paulo-csa/",
+        "summary": "O São Paulo comunicou neste sábado a morte de Micael Leandro da Silva, de 15 anos, que integrou as categorias de base do clube entre 2025 e 2026. Natural de Maceió, o jovem atleta também atuava pelo CSA e foi baleado enq",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/whatsapp-image-2026-08-01-at-19-13-21.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vitória parabeniza STJD por denúncia contra Maurício, do Palmeiras, e volta a criticar arbitragem",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitoria-parabeniza-stjd-por-denuncia-contra-mauricio-do-palmeiras-e-volta-a-criticar-arbitragem/",
-        "summary": "O Vitória se manifestou após o STJD denunciar o meia Maurício, do Palmeiras, por uma suposta agressão ao zagueiro Cacá no duelo entre as equipes pelo Campeonato Brasileiro. Em nota oficial, o clube baiano afirmou que a d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/29072026_cg_palmeiras_7291_62-1.webp",
+        "title": "Bahia vence jogo-treino contra o Five; veja os gols",
+        "link": "https://www.gazetaesportiva.com/times/bahia/bahia-vence-jogo-treino-contra-o-five-veja-os-gols/",
+        "summary": "Bahia vence jogo-treino contra o Five; veja os gols O post Bahia vence jogo-treino contra o Five; veja os gols apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Bahi.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Chelsea anuncia contratação de veterano Danny Welbeck, de 35 anos",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/chelsea-anuncia-contratacao-de-veterano-danny-welbeck-de-35-anos/",
-        "summary": "O Chelsea anunciou a contratação do experiente atacante Danny Welbeck, ex-Brighton, com contrato até 2028. Aos 35 anos, o inglês chega aos Blues após uma longa carreira na Premier League, com passagens por Manchester Uni",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Danny_Welbeck_Chelsea_contract.webp",
+        "title": "Veja fotos de Atlético-MG e Juventude pelas oitavas da Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/veja-fotos-de-atletico-mg-e-juventude-pelas-oitavas-da-copa-do-brasil/",
+        "summary": "O post Veja fotos de Atlético-MG e Juventude pelas oitavas da Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55435234802_9fc7547578_k.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos da vitória do Aberdeen sobre o Hearts pelo Campeonato Escocês",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-da-vitoria-do-aberdeen-sobre-o-hearts-pelo-campeonato-escoces/",
-        "summary": "Melhores momentos da vitória do Aberdeen sobre o Hearts pelo Campeonato Escocês O post Melhores momentos da vitória do Aberdeen sobre o Hearts pelo Campeonato Escocês apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Aberd.webp",
+        "title": "Léo Jardim enxerga evolução no Vasco, mas destaca jogo truncado contra o Fluminense",
+        "link": "https://www.gazetaesportiva.com/times/vasco/leo-jardim-destaca-evolucao-vasco-empate-fluminense-copa-do-brasil/",
+        "summary": "Vasco e Fluminense empataram por 0 a 0 no jogo de ida das oitavas de final da Copa do Brasil, disputado no Maracanã. Após a partida, o goleiro Léo Jardim destacou a evolução da equipe vascaína, mas reconheceu a necessida",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55298402379_7fedddeb61_o.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians desembarca em Porto Alegre para jogo contra o Internacional",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desembarca-em-porto-alegre-para-jogo-contra-o-internacional/",
-        "summary": "O Corinthians desembarcou em Porto Alegre para o confronto contra o Internacional, pelas oitavas de final da Copa do Brasil. O técnico Fernando Diniz ganhou os reforços de Matheus Bidu, Pedro Raul e Rodrigo Garro, enquan",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-01-175955.webp",
+        "title": "Pegula e Eala farão a final do WTA 500 de Washington",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/pegula-e-eala-farao-a-final-do-wta-500-de-washington/",
+        "summary": "Jessica Pegula e Alexandra Eala disputarão a final do WTA 500 de Washington neste domingo. A americana, número 3 do mundo, derrotou Diana Shnaider, enquanto a filipina superou Naomi Osaka para alcançar a decisão e buscar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__2288646451__v1__MidRes__MubadalaCitiDcOpen2026Day6.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasileiro dá assistência, Porto vence Torreense e conquista a Supertaça de Portugal",
-        "link": "https://www.gazetaesportiva.com/times/porto/porto-vence-torreense-conquista-supertaca-portugal-2026/",
-        "summary": "O Porto venceu o Torreense neste sábado por 1 a 0 e conquistou a Supertaça de Portugal. Frohondt aproveitou a assistência do brasileiro Pepê e marcou ainda no primeiro tempo e garantiu o título para o Dragão, em duelo di",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HOqYsezWcAAsdCl.webp",
+        "title": "Com Neymar e titulares de volta, Santos está escalado para pegar o Remo na Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/times/santos/com-neymar-e-titulares-de-volta-santos-esta-escalado-para-enfrentar-o-remo-na-copa-do-brasil/",
+        "summary": "O Santos está escalado para enfrentar o Remo na noite deste sábado, em duelo pela ida das oitavas de final da Copa do Brasil. A bola rola às 21h (de Brasília), na Vila Belmiro. Após escalar uma equipe mista na classifica",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5902.webp",
         "date": "01 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Programa de renegociação de dívidas é prorrogado até 31 de agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Cresce o número de estabelecimentos na cadeia produtiva da cachaça",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca",
@@ -297,74 +307,94 @@
         "cls": ""
       },
       {
-        "title": "Bandeira tarifária continuará amarela em agosto",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/bandeira-tarifaria-continuara-amarela-em-agosto",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/bandeira-tarifaria-continuara-amarela-em-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
+        "title": "“Livro Amarelo”: a doutrina que Renan Santos diz ser a base do projeto do Missão",
+        "link": "https://www.infomoney.com.br/politica/livro-amarelo-a-doutrina-que-renan-santos-diz-ser-a-base-do-projeto-do-missao/",
+        "summary": "Documento foi apresentado no lançamento da candidatura à Presidência como mais do que um plano de governo e reúne os princípios políticos, econômicos e sociais defendidos pelo novo partido The post “Livro Amarelo”: a dou",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-01-at-20.20.26-1.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "01 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Renan tenta transformar eleição em disputa por “projeto de civilização” para o Brasil",
+        "link": "https://www.infomoney.com.br/politica/renan-tenta-transformar-eleicao-em-disputa-por-projeto-de-civilizacao-para-o-brasil/",
+        "summary": "Em lançamento da candidatura pelo Partido Missão, presidenciável apresentou o “Livro Amarelo” como uma doutrina para redefinir o país e buscou se diferenciar tanto do PT quanto do bolsonarismo The post Renan tenta transf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-01-at-20.20.26.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "01 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Pentacampeão, Kléberson passa por cateterismo após sentir dores no peito nos EUA",
+        "link": "https://www.infomoney.com.br/esportes/pentacampeao-kleberson-passa-por-cateterismo-apos-sentir-dores-no-peito-nos-eua/",
+        "summary": "O próprio ex-jogador revelou a situação neste sábado, por meio das redes sociais The post Pentacampeão, Kléberson passa por cateterismo após sentir dores no peito nos EUA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/klebersonk-2.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "01 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Flávio Bolsonaro chama Lula de projeto de ditador e diz que vai demiti-lo",
+        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-chama-lula-de-projeto-de-ditador-e-diz-que-vai-demiti-lo/",
+        "summary": "\"O governo atual endividou o povo brasileiro\", disse Flávio The post Flávio Bolsonaro chama Lula de projeto de ditador e diz que vai demiti-lo appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/pl-partido-liberal-flavio-bolsonaro-convencao-eleicoes2026-04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "01 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Renan Santos chama Flávio de fraco , Lula de cachaceiro e quer matar quem roubar",
+        "link": "https://www.infomoney.com.br/politica/renan-santos-chama-flavio-de-fraco-lula-de-cachaceiro-e-quer-matar-quem-roubar/",
+        "summary": "Candidato do Missão também rejeitou os rótulos de \"antipetista\" e de \"terceira via\" The post Renan Santos chama Flávio de fraco , Lula de cachaceiro e quer matar quem roubar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/renan-santos-convencao-missao.jpg?fit=300%2C173&amp;quality=70&amp;strip=all",
+        "date": "01 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Flávio Bolsonaro promete o maior corte de carga tributária da história do País",
+        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-promete-o-maior-corte-de-carga-tributaria-da-historia-do-pais/",
+        "summary": "De acordo com Flávio, o atual governo foi responsável por aumentar a carga tributária e endividar o povo brasileiro The post Flávio Bolsonaro promete o maior corte de carga tributária da história do País appeared first o",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-25T165535Z_326902380_RC24LMAT6HCH_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "01 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "João Campos oficializa candidatura ao governo de Pernambuco",
+        "link": "https://exame.com/brasil/joao-campos-oficializa-candidatura-ao-governo-de-pernambuco/",
+        "summary": "Ex-prefeito do Recife enfrentará Raquel Lyra na disputa pelo Palácio do Campo das Princesas; Marília Arraes concorrerá ao Senado",
         "image": null,
-        "date": "31 de jul. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "01 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Flávio Bolsonaro compara situação do pai ao período de repressão durante a ditadura",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-compara-situacao-do-pai-ao-periodo-de-repressao-durante-a-ditadura/",
-        "summary": "Flávio se queixou da prisão de seu pai bem como da proibição pelo judiciário de ter contato com os filhos The post Flávio Bolsonaro compara situação do pai ao período de repressão durante a ditadura appeared first on Inf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-29T031424Z_251080131_RC24LMA81VVY_RTRMADP_3_BRAZIL-POLITICS-BOLSONARO-AI-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Vincent Pastore, de 'Família Soprano', morre aos 80 anos; veja causa",
+        "link": "https://exame.com/pop/vincent-pastore-de-familia-soprano-morre-aos-80-anos-veja-causa/",
+        "summary": "Corpo do ator foi encontrado por um vizinho após três dias sem contato",
+        "image": null,
         "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Santos x Remo: Onde assistir ao jogo da Copa do Brasil?",
-        "link": "https://www.infomoney.com.br/esportes/santos-remo-onde-assistir-copa-do-brasil/",
-        "summary": "O jogo de ida das oitavas de final terá como mandante o Santos, que joga em casa The post Santos x Remo: Onde assistir ao jogo da Copa do Brasil? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/thumb-santos-x-remo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "PL oficializa Carlos Bolsonaro e Carol De Toni como candidatos em Santa Catarina",
+        "link": "https://exame.com/brasil/pl-oficializa-carlos-bolsonaro-e-carol-de-toni-como-candidatos-em-santa-catarina/",
+        "summary": "Convenção da legenda também confirmou Jorginho Mello na disputa pela reeleição ao governo do estado e encerrou a disputa interna pelas vagas ao Senado",
+        "image": null,
         "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vincent Pastore, conhecido por Os Sopranos , morre aos 80 anos",
-        "link": "https://www.infomoney.com.br/mundo/vincent-pastore-conhecido-por-os-sopranos-morre-aos-80-anos/",
-        "summary": "As circunstâncias de sua morte estão sendo investigadas The post Vincent Pastore, conhecido por Os Sopranos , morre aos 80 anos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/vincent-pastore.png?fit=300%2C176&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Governo aumenta participões da União no FGI e no FGO, segundo o DOU",
-        "link": "https://www.infomoney.com.br/economia/governo-aumenta-participoes-da-uniao-no-fgi-e-no-fgo-segundo-o-dou/",
-        "summary": "A ampliação de recursos visa atender exigências da extensão do Novo Desenrola, o programa de renegociação de dívidas The post Governo aumenta participões da União no FGI e no FGO, segundo o DOU appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/desenrola-economia-fazenda.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Setor de data centers de IA sofre com atrasos e temor de dificuldades financeiras",
-        "link": "https://www.infomoney.com.br/business/setor-de-data-centers-de-ia-sofre-com-atrasos-e-temor-de-dificuldades-financeiras/",
-        "summary": "Atrasos em projetos, escassez de mão de obra e mercados de capital mais restritivos estão levando executivos seniores da indústria de data centers a uma visão cada vez mais pessimista The post Setor de data centers de IA",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-09-24T100423Z_1582184869_RC2UXGAYIT9Z_RTRMADP_3_OPENAI-STARGATE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Partido Missão oficializa Renan Santos como candidato e lança plano de governo",
-        "link": "https://www.infomoney.com.br/politica/partido-missao-oficializa-renan-santos-como-candidato-e-lanca-plano-de-governo/",
-        "summary": "Legenda havia antecipado a oficialização da candidatura por motivos de segurança The post Partido Missão oficializa Renan Santos como candidato e lança plano de governo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/missao-e1762872825422.jpg?fit=300%2C180&amp;quality=70&amp;strip=all",
-        "date": "01 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "PL oficializa candidatura de Sergio Moro ao governo do Paraná",
@@ -390,36 +420,6 @@
         "title": "Queda de avião com turistas deixa ao menos 13 mortos Peru",
         "link": "https://exame.com/mundo/queda-de-aviao-com-turistas-deixa-ao-menos-13-mortos-no-sul-do-peru/",
         "summary": "Aeronave caiu logo após decolar de Pisco para um voo turístico sobre as Linhas de Nazca",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Surto de ebola no Congo se torna o maior da história do país",
-        "link": "https://exame.com/mundo/surto-de-ebola-no-congo-se-torna-o-maior-da-historia-do-pais/",
-        "summary": "Até 30 de julho, foram registrados 3.605 casos e 1.587 mortes",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "CEO da Ford, Jim Farley prevê 'invasão' de montadoras chinesas nos EUA",
-        "link": "https://exame.com/exame-in/ceo-da-ford-preve-invasao-de-montadoras-chinesas-nos-eua/",
-        "summary": "Executivo afirmou que a montadora trabalha com a possibilidade de fabricantes chinesas entrarem no mercado americano entre cinco e dez anos, apesar das barreiras comerciais impostas pelos EUA",
-        "image": null,
-        "date": "01 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Futebol no Brasil: interesse é maior entre pessoas com ensino superior",
-        "link": "https://exame.com/esporte/futebol-no-brasil-interesse-e-maior-entre-pessoas-com-ensino-superior/",
-        "summary": "Diferença entre ensino fundamental e superior chega a 26 pontos percentuais, segundo o Datafolha",
         "image": null,
         "date": "01 de ago. de 2026",
         "source": "Exame",
