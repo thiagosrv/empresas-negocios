@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T04:33:40.731Z",
+  "updated": "2026-08-03T08:32:17.503Z",
   "feeds": {
     "campinas": [
       {
@@ -61,6 +61,66 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
+      },
+      {
+        "title": "Nome novo, Gustavo do Restaurante Dona Maria é confirmado candidato a deputado",
+        "link": "https://jornalamericanense.com.br/politica/nome-novo-gustavo-do-restaurante-dona-maria-e-confirmado-candidato-a-deputado/",
+        "summary": "O jornalista e empresário Gustavo Antoniassi, do Restaurante Dona Maria, oficializou na noite de terça-feira (28) sua candidatura a deputado federal pelo PSDB durante a convenção estadual do partido. Pela primeira vez di",
+        "image": null,
+        "date": "01 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "ACIA lança ExpoEmpresas e espera R$ 6 milhões em negócios",
+        "link": "https://jornalamericanense.com.br/economia/acia-lanca-expoempresas-e-espera-r-6-milhoes-em-negocios/",
+        "summary": "A ACIA – Associação Comercial e Industrial de Americana fez o lançamento oficial da primeira edição da ExpoEmpresas, na noite desta quarta-feira, dia 29, no Teatro Municipal Lulu Benencase. O evento reuniu expositores, e",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Reforma Tributária: Doações de imóveis a terceiros é impulsionada",
+        "link": "https://jornalamericanense.com.br/economia/reforma-tributaria-doacoes-de-imoveis-a-terceiros-e-impulsionada/",
+        "summary": "A Reforma Tributária, promulgada em dezembro de 2023, impulsionou o aumento das doações de imóveis no Brasil. Dados do Colégio Notarial do Brasil (CNB) mostram que, em 2025, foram registradas 185.861 escrituras públicas ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Mulher morre após ter intestino perfurado durante colonoscopia em hospital de São Paulo",
+        "link": "https://jornalamericanense.com.br/saude/mulher-morre-apos-ter-intestino-perfurado-durante-colonoscopia-em-hospital-de-sao-paulo/",
+        "summary": "Uma mulher de 41 anos morreu após sofrer uma perfuração no intestino durante um exame de colonoscopia realizado no Hospital Municipal Doutor Alípio Corrêa Netto, em Ermelino Matarazzo, na Zona Leste de São Paulo. A vítim",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Família morre em acidente grave e madrasta grávida de 3 meses está entre as vítimas",
+        "link": "https://jornalamericanense.com.br/policia/familia-morre-em-acidente-grave-e-madrasta-gravida-de-3-meses-esta-entre-as-vitimas/",
+        "summary": "Quatro pessoas da mesma família morreram em um grave acidente entre um carro de passeio e um caminhão na noite desta quinta-feira (30), na GO-139, a cerca de quatro quilômetros do Trevo de Vianópolis, no sudeste de Goiás",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura realiza programação especial no mês de aniversário de 151 anos de Americana",
+        "link": "https://jornalamericanense.com.br/cultura/prefeitura-realiza-programacao-especial-no-mes-de-aniversario-de-151-anos-de-americana/",
+        "summary": "O mês de aniversário de 151 anos de Americana será marcado por uma intensa e diversificada programação de eventos. A agenda especial do mês de agosto inclui atividades esportivas e culturais e shows de músicos de renome ",
+        "image": null,
+        "date": "31 de jul. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Tenista Laura Pigossi é campeã na Espanha e volta ao top 200",
@@ -125,6 +185,36 @@
     ],
     "esportes": [
       {
+        "title": "Atuações: Corinthians vai mal coletivamente na derrota para o Inter",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-corinthians-vai-mal-coletivamente-na-derrota-para-o-inter/",
+        "summary": "O Corinthians teve uma atuação coletiva abaixo do esperado e foi derrotado pelo Internacional no Beira-Rio, pelo jogo de ida das oitavas de final da Copa do Brasil. Apesar de ter controlado a posse de bola em boa parte d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55438708939_538db86b55_o.webp",
+        "date": "03 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações: Jhon Arias comanda vitória do Palmeiras com assinatura de gringos",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-palmeiras-fortaleza-copa-do-brasil-ida-oitavas/",
+        "summary": "Veja as atuações dos jogadores do Palmeiras na vitória por 3 a 0 sobre o Fortaleza, pela ida das oitavas da Copa do Brasil. O post Atuações: Jhon Arias comanda vitória do Palmeiras com assinatura de gringos apareceu prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/02082026_cg_palmeiras_8473_89.webp",
+        "date": "03 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Memphis aumenta pedida, quer multa retroativa sobre a dívida e irrita o Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/memphis-aumenta-pedida-quer-multa-retroativa-sobre-a-divida-e-irrita-o-corinthians/",
+        "summary": "As negociações para a renovação de Memphis Depay ganharam novos obstáculos. O estafe do atacante pediu reajuste de 10% nos valores do contrato, garantias para o pagamento de receitas de marketing e cláusulas mais rígidas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/245186.webp",
+        "date": "03 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Diniz defende substituições e atribui derrota do Corinthians à desorganização",
         "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-defende-substituicoes-e-atribui-derrota-do-corinthians-a-desorganizacao/",
         "summary": "O técnico Fernando Diniz saiu em defesa das alterações promovidas durante a derrota do Corinthians por 2 a 0 para o Internacional, neste domingo, pelas oitavas de final da Copa do Brasil. O treinador rebateu as críticas ",
@@ -149,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/arsenal/dowman-marca-e-da-assistencia-na-goleada-do-arsenal-sobre-o-girona-confira/",
         "summary": "Dowman marca e dá assistência na goleada do Arsenal sobre o Girona; confira O post Dowman marca e dá assistência na goleada do Arsenal sobre o Girona; confira apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/Dowm.webp",
-        "date": "03 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Diretor do Corinthians detona arbitragem e questiona escalação de juiz",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/diretor-do-corinthians-detona-arbitragem-e-questiona-escalacao-de-juiz/",
-        "summary": "O executivo de futebol do Corinthians, Marcelo Paz, fez duras críticas à arbitragem após a derrota por 2 a 0 para o Internacional, neste domingo, no Beira-Rio, pelo jogo de ida das oitavas de final da Copa do Brasil. O d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260803__AGIF831880__v1__MidRes__2026CopaDoBrasilInternacionalVsCorinthians.webp",
-        "date": "03 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Luís Castro prevê final em casa na busca por uma vaga nas quartas",
-        "link": "https://www.gazetaesportiva.com/times/gremio/luis-castro-preve-final-em-casa-na-busca-por-uma-vaga-nas-quartas/",
-        "summary": "Luís Castro prevê 'final' em casa na busca por uma vaga nas quartas O post Luís Castro prevê final em casa na busca por uma vaga nas quartas apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/02/Luis-Castro.webp",
-        "date": "03 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Goleiro de Cabo Verde, Vozinha chega ao Chile para assinar com o Colo-Colo",
-        "link": "https://www.gazetaesportiva.com/times/colo-colo/vozinha-desembarca-no-chile-para-assinar-com-o-colo-colo-apos-destaque-na-copa-do-mundo/",
-        "summary": "Após brilhar por Cabo Verde na Copa do Mundo de 2026, Vozinha chegou ao Chile para assinar contrato com o Colo-Colo. O post Goleiro de Cabo Verde, Vozinha chega ao Chile para assinar com o Colo-Colo apareceu primeiro em ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260803__C3TP3JZ__v1__HighRes__FblChiCpvColocoloArrival.webp",
         "date": "03 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Vale comprar ações no Brasil com juro real acima de 8%? XP diz que sim e os motivos",
+        "link": "https://www.infomoney.com.br/mercados/faz-sentido-comprar-bolsa-no-brasil-com-juro-real-acima-de-8-xp-diz-que-sim-e-as-razoes/",
+        "summary": "Com juros das NTN-Bs em níveis elevados, investidores migram para a renda fixa, mas XP vê Ibovespa descontado, fluxo favorável e potencial para alcançar 200 mil pontos até o fim de 2026 The post Vale comprar ações no Bra",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/IMG-20250804-WA0000.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Se Michelle fosse candidata, teria hoje o mesmo desempenho de Flávio contra Lula",
+        "link": "https://www.infomoney.com.br/politica/se-michelle-fosse-candidata-teria-hoje-o-mesmo-desempenho-de-flavio-contra-lula/",
+        "summary": "Ex-primeira-dama aparece empatada com o candidato oficial do PL em cenário de segundo turno The post Se Michelle fosse candidata, teria hoje o mesmo desempenho de Flávio contra Lula appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/tagreuters.com2025binary_LYNXNPEL990YT-BASEIMAGE.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Da IA às urnas: por que a eleição de 2026 começa a lembrar a campanha de 2018",
+        "link": "https://www.infomoney.com.br/politica/da-ia-as-urnas-por-que-a-eleicao-de-2026-comeca-a-lembrar-a-campanha-de-2018/",
+        "summary": "Especialistas veem na inteligência artificial um potencial de transformar a disputa presidencial da mesma forma que o WhatsApp alterou o jogo eleitoral há oito anos The post Da IA às urnas: por que a eleição de 2026 come",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-Tela-2026-07-31-as-11.31.39.jpg?fit=300%2C173&amp;quality=70&amp;strip=all",
+        "date": "03 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Smart Fit, Nubank e Localiza: as apostas da Encore para uma “terceira onda” da Bolsa",
+        "link": "https://www.infomoney.com.br/onde-investir/smart-fit-nubank-e-localiza-as-apostas-da-encore-para-uma-terceira-onda-da-bolsa/",
+        "summary": "Para João Luiz Braga, o estrangeiro que chega agora vem para ficar e a eleição importa menos do que o mercado local acha The post Smart Fit, Nubank e Localiza: as apostas da Encore para uma “terceira onda” da Bolsa appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260723-frr-4479.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Sem Michelle, convenção do PL confirma candidatura da ex-primeira dama ao Senado",
         "link": "https://www.infomoney.com.br/politica/sem-michelle-convencao-do-pl-confirma-candidatura-da-ex-primeira-dama-ao-senado/",
         "summary": "Presente no evento, Flávio Bolsonaro afirmou que precisará da madrasta para \"resgatar\" a democracia The post Sem Michelle, convenção do PL confirma candidatura da ex-primeira dama ao Senado appeared first on InfoMoney.",
@@ -267,99 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Trump afirma que EUA e Irã reiniciam negociações nesta segunda-feira, diz emissora",
-        "link": "https://www.infomoney.com.br/mundo/trump-afirma-que-eua-e-ira-reiniciam-negociacoes-na-segunda-feira-diz-emissora/",
-        "summary": "Até agora, não há manifestação de Trump no seu perfil na Truth Social The post Trump afirma que EUA e Irã reiniciam negociações nesta segunda-feira, diz emissora appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-28T164545Z_1_LYNXMPEM4R1D4_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "02 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "PMIs globais, Focus e Durigan com bancos e Febraban: o que move os mercados",
+        "link": "https://exame.com/invest/mercados/pmis-globais-focus-e-durigan-com-bancos-e-febraban-o-que-move-os-mercados/",
+        "summary": "O mercado também acompanha nesta segunda, 3, os resultados de empresas como Berkshire Hathaway, nos Estados Unidos, e BB Seguridade e Bradsaúde, no Brasil",
+        "image": null,
+        "date": "03 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Semana em SP começa com tempo firme e calor à tarde, sem chuva; veja a previsão",
-        "link": "https://www.infomoney.com.br/brasil/semana-em-sp-comeca-com-tempo-firme-e-calor-a-tarde-sem-chuva-veja-a-previsao/",
-        "summary": "As temperaturas variam entre mínima de 14°C e máxima de 27°C, com índices mínimos de umidade do ar na casa dos 33% The post Semana em SP começa com tempo firme e calor à tarde, sem chuva; veja a previsão appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/beautiful-landscape-cityscape-seoul-city.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "02 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Como transformar uma hora de trabalho em 20 minutos usando IA (com exemplos reais)",
+        "link": "https://exame.com/inteligencia-artificial/como-transformar-uma-hora-de-trabalho-em-20-minutos-usando-ia-com-exemplos-reais/",
+        "summary": "Da produção de relatórios à organização de reuniões, ferramentas de inteligência artificial podem reduzir etapas operacionais e acelerar tarefas repetitivas em diferentes profissões, desde que sejam usadas de forma estra",
+        "image": null,
+        "date": "03 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Senado dos EUA chega a acordo para evitar shutdown durante campanha eleitoral",
-        "link": "https://www.infomoney.com.br/mundo/senado-dos-eua-chega-a-acordo-para-evitar-shutdown-durante-campanha-eleitoral/",
-        "summary": "A Câmara já aprovou uma proposta semelhante, mas os senadores negociaram nos últimos dias a inclusão de exceções solicitadas pela Casa Branca The post Senado dos EUA chega a acordo para evitar shutdown durante campanha e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Rio_Potomac_Washington.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "02 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "'Compreender o Brasil é antecipar o futuro', diz diretora global da L'Oréal",
+        "link": "https://exame.com/esg/compreender-o-brasil-e-antecipar-o-futuro-diz-diretora-global-da-loreal/",
+        "summary": "Ezgi Barcenas, diretora global de responsabilidade corporativa, conta como a aposta da fabricante de cosméticos no país vai muito além das vendas — e já influencia o mundo",
+        "image": null,
+        "date": "03 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "No Canadá, comissários da WestJet entram em greve por disputa salarial",
-        "link": "https://www.infomoney.com.br/mundo/no-canada-comissarios-da-westjet-entram-em-greve-por-disputa-salarial/",
-        "summary": "A WestJet confirmou o movimento e cancelou mais de 300 voos neste domingo, prejudicando planos de viagem no Canadá em meio a um feriado prolongado de três dias The post No Canadá, comissários da WestJet entram em greve p",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/86687769007-20230111-t-161756-z-925416138-rc-2-eoy-9-mm-5-z-3-rtrmadp-3-faanotamflightsnewyork.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "02 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Sem Amazon, Latam fecha parceria com Shopee para acúmulo de milhas",
+        "link": "https://exame.com/invest/mercados/sem-amazon-latam-fecha-parceria-com-shopee-para-acumulo-de-milhas/",
+        "summary": "Clientes do programa Latam Pass ganham 1 milha para cada R$ 2 gastos",
+        "image": null,
+        "date": "03 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja quais empresas da bolsa vão pagar dividendos em agosto",
+        "link": "https://exame.com/invest/mercados/veja-quais-empresas-da-bolsa-vao-pagar-dividendos-em-agosto/",
+        "summary": "Agenda reúne pagamentos de empresas de diversos setores, entre elas, três grandes bancos e WEG e Petrobras",
+        "image": null,
+        "date": "03 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Espanha confirma 72 mortos em tentativa de entrada em Ceuta pelo Marrocos",
         "link": "https://exame.com/mundo/espanha-confirma-72-mortos-em-tentativa-de-entrada-em-ceuta-pelo-marrocos/",
         "summary": "Cidade espanhola enfrenta fluxo migratório sem precedentes; Marrocos diz ter registrado 11 mortes e abriu investigação sobre o caso",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Flávio e Zema seguem sem vices na reta final das convenções; veja chapas fechadas",
-        "link": "https://exame.com/brasil/flavio-e-zema-seguem-sem-vices-na-reta-final-das-convencoes-veja-chapas-fechadas/",
-        "summary": "Prazo para fechar as chapas termina na quarta-feira, 5; Lula, Caiado e Renan Santos já definiram seus companheiros de disputa",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Com discurso lido pelo irmão, Michelle afirma que 'caminhará' com Flávio Bolsonaro",
-        "link": "https://exame.com/brasil/com-discurso-lido-pelo-irmao-michelle-afirma-que-caminhara-com-flavio-bolsonaro/",
-        "summary": "A ex-primeira-dama Michelle Bolsonaro (PL) foi confirmada como candidata ao Senado pelo Distrito Federal durante a convenção do PL realizada neste domingo, 2",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Rali dos chips perde força com dúvidas sobre ciclo da inteligência artificial",
-        "link": "https://exame.com/invest/mercados/rali-dos-chips-perde-forca-com-duvidas-sobre-ciclo-da-inteligencia-artificial/",
-        "summary": "A aposta favorita de Wall Street enfrenta uma forte turbulência com a alta volatilidade no mercado de semicondutores",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Análise: Voto feminino e defesa da soberania seguram favoritismo de Lula, mas disputa segue acirrada",
-        "link": "https://exame.com/brasil/analise-voto-feminino-e-defesa-da-soberania-seguram-favoritismo-de-lula-mas-disputa-segue-acirrada/",
-        "summary": "Campanha explora rejeição de Flávio entre mulheres e busca vinculá-lo a interferência estrangeira, enquanto prepara resposta a suspeitas sobre Lulinha",
-        "image": null,
-        "date": "02 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Trump diz que negociações com Irã serão retomadas nesta segunda após adiar ataque",
-        "link": "https://exame.com/mundo/trump-diz-que-negociacoes-com-ira-serao-retomadas-nesta-segunda-apos-adiar-ataque/",
-        "summary": "Ps encontros devem ocorrer na noite desta segunda-feira, 3, segundo informou o presidente dos EUA ao jornalistas",
         "image": null,
         "date": "02 de ago. de 2026",
         "source": "Exame",
