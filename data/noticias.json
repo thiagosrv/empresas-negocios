@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T05:52:27.780Z",
+  "updated": "2026-08-04T08:44:31.078Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Neymar faz desabafo e critica parte da imprensa: Vai adoecer os jogadores",
+        "link": "https://www.gazetaesportiva.com/times/santos/neymar-critica-imprensa-desabafo-noticias-responsabilidade/",
+        "summary": "Neymar fez duras críticas à cobertura de parte da imprensa brasileira durante o Leilão Beneficente do Instituto Neymar Jr. O camisa 10 do Santos afirmou que notícias falsas prejudicam jogadores e familiares, cobrou mais ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55419331046_855c84ea35_o-1.webp",
+        "date": "04 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Cacá confia em força do Vitória em casa para resolver série com o Athletico-PR",
         "link": "https://www.gazetaesportiva.com/times/vitoria/caca-confia-em-forca-do-vitoria-em-casa-para-resolver-serie-com-o-athletico-pr/",
         "summary": "Após a derrota por 2 a 0 para o Athletico-PR no jogo de ida das oitavas de final da Copa do Brasil, o zagueiro Cacá lamentou os detalhes que decidiram a partida e admitiu que o Vitória precisa ser mais eficiente para bus",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-retoma-treinos-de-olho-na-sequencia-do-calendario/",
         "summary": "A comissão técnica comandou uma atividade regenerativa para os titulares, enquanto o restante do elenco trabalhou com bola no campo focado nos próximos desafios da temporada. O post Palmeiras retoma treinos de olho na se",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/nq51txcw-1280.webp",
-        "date": "04 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Com novidade no elenco, São Paulo inicia semana de treinos no CT; veja bastidores",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/com-novidade-no-elenco-sao-paulo-inicia-semana-de-treinos-no-ct-veja-bastidores/",
-        "summary": "O São Paulo se reapresentou nesta segunda-feira (03) no SuperCT com novidade. Recuperado de dores no joelho direito, o volante Bobadilla voltou a treinar junto com o grupo. O post Com novidade no elenco, São Paulo inicia",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ymcc0joh-1280.webp",
         "date": "04 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Jornada turbulenta da SpaceX no mercado de ações pode ficar ainda mais acidentada",
+        "link": "https://www.infomoney.com.br/business/global/jornada-turbulenta-da-spacex-no-mercado-de-acoes-pode-ficar-ainda-mais-acidentada/",
+        "summary": "Nesta quinta-feira, funcionários e outros insiders da empresa de foguetes de Elon Musk serão liberados do primeiro 'lockup' de ações e poderão começar a vender parte de seus papéis The post Jornada turbulenta da SpaceX n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SPACEX-STOCK-1.jpg?fit=198%2C300&amp;quality=70&amp;strip=all",
+        "date": "04 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Centrão se afasta da disputa presidencial e deixa Lula e Flávio sem ampliar alianças",
+        "link": "https://www.infomoney.com.br/politica/centrao-se-afasta-da-disputa-presidencial-e-deixa-lula-e-flavio-sem-ampliar-aliancas/",
+        "summary": "Diferentemente de 2022, partidos médios optam pela neutralidade, reduzem o peso das coligações nacionais e indicam um cenário de maior dificuldade para quem vencer a eleição governar a partir de 2027 The post Centrão se ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Design-sem-nome-1-e1772026849865.png?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "04 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano?",
+        "link": "https://www.infomoney.com.br/economia/corte-da-selic-decisao-copom-expectativas-082026/",
+        "summary": "Mercado debate se este será o último corte ou se haverá espaço para mais uma redução em setembro, seguida de pausa; visão de economistas é que o espaço para cortes está cada vez mais apertado The post Inflação deve ajuda",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2148783033.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "04 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Aposentadoria de R$ 10 mil por mês ficou R$ 538 mil mais barata; entenda",
+        "link": "https://www.infomoney.com.br/onde-investir/aposentadoria-de-r-10-mil-por-mes-ficou-r-538-mil-mais-barata-entenda/",
+        "summary": "Régua da aposentadoria se move com a taxa do Tesouro IPCA+; veja simulação da Alude Capital The post Aposentadoria de R$ 10 mil por mês ficou R$ 538 mil mais barata; entenda appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/04/Planilha-de-aposentadoria.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "04 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Itaú (ITUB4): depois de balanços estrelados , banco vai manter o ritmo no 2º tri?",
+        "link": "https://www.infomoney.com.br/mercados/itau-itub4-previa-resultados-segundo-trimestre-2026/",
+        "summary": "Apesar de projeções apontarem um ritmo de crescimento mais moderado dos lucros, analistas seguem vendo o banco como o nome mais sólido do setor The post Itaú (ITUB4): depois de balanços estrelados , banco vai manter o ri",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-16T130742Z_1_LYNXMPEL4F0JP_RTROPTP_4_MACRO-ITAU-REVISAO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "04 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Avante oficializa candidatura de Augusto Cury a presidente em convenção",
         "link": "https://www.infomoney.com.br/politica/avante-oficializa-candidatura-de-augusto-cury-a-presidente-em-convencao/",
         "summary": "Evento contou com a presença do governador de São Paulo, Tarcísio de Freitas The post Avante oficializa candidatura de Augusto Cury a presidente em convenção appeared first on InfoMoney.",
@@ -317,59 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Ataque de drones da Ucrânia em praia da Rússia deixa sete mortos",
-        "link": "https://www.infomoney.com.br/mercados/ataque-de-drones-da-ucrania-em-praia-da-russia-deixa-sete-mortos/",
-        "summary": "Governo ucraniano não comentou sobre o ataque até o momento The post Ataque de drones da Ucrânia em praia da Rússia deixa sete mortos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-18T140750Z_57141894_RC29WLAQ6UCS_RTRMADP_3_UKRAINE-CRISIS-ATTACKS-1-e1781819470407.jpg?fit=164%2C300&amp;quality=70&amp;strip=all",
-        "date": "04 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ferroviários confirmam greve e paralisam linhas 11-Coral, 12-Safira e 13-Jade em SP",
-        "link": "https://www.infomoney.com.br/brasil/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/",
-        "summary": "Greve se inicia à 0h desta terça-feira, 4 The post Ferroviários confirmam greve e paralisam linhas 11-Coral, 12-Safira e 13-Jade em SP appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/trem-da-cptm.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "04 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quina hoje, concurso 7082: confira o resultado sorteado nesta segunda (3)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7082-confira-o-resultado-sorteado-nesta-segunda-3/",
-        "summary": "Os números sorteados foram: 63 - 78 - 50 - 17 - 38. The post Quina hoje, concurso 7082: confira o resultado sorteado nesta segunda (3) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/quina.png?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "04 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lotofácil hoje, concurso 3752: confira o resultado sorteado nesta segunda (3)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3752-confira-o-resultado-sorteado-nesta-segunda-3/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3752: confira o resultado sorteado nesta segunda (3) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-03-210654.png?fit=300%2C168&amp;quality=70&amp;strip=all",
-        "date": "04 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lucro da Pague Menos (PGMN3) cresce 22,2% no 2º tri, a R$ 73,6 milhões",
-        "link": "https://www.infomoney.com.br/mercados/pague-menos-pgmn3-resultados-segundo-trimestre-2026/",
-        "summary": "Empresa encerrou o segundo trimestre com 1.695 lojas no país ante ​1.657 no um ano antes The post Lucro da Pague Menos (PGMN3) cresce 22,2% no 2º tri, a R$ 73,6 milhões appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/pague-menos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "03 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Greve da CPTM: entenda por que ferroviários cruzaram os braços em SP nesta terça",
-        "link": "https://exame.com/brasil/greve-da-cptm-entenda-por-que-ferroviarios-cruzaram-os-bracos-em-sp-nesta-terca/",
-        "summary": "Paralisação das linhas 11-Coral, 12-Safira e 13-Jade ocorre após o retorno por 90 dias da operação à CPTM depois de falhas registradas pela Trivia Trens",
+        "title": "Produção industrial, Jolts e balanços de SpaceX e Itaú: o que move os mercados",
+        "link": "https://exame.com/invest/mercados/producao-industrial-jolts-e-balancos-de-spacex-e-itau-o-que-move-os-mercados/",
+        "summary": "Prio, Gerdau, Metalúrgica Gerdau, Raia Drogasil, Iguatemi e C A também divulgam seus balanços nesta terça-feira, 4",
         "image": null,
         "date": "04 de ago. de 2026",
         "source": "Exame",
@@ -377,51 +377,51 @@
         "cls": "startups"
       },
       {
-        "title": "Greve da CPTM: vejas as linhas paralisadas e alternativas de transporte nesta terça",
-        "link": "https://exame.com/brasil/greve-da-cptm-vejas-as-linhas-afetadas-e-alternativas-para-se-locomover-em-sp-nesta-terca/",
-        "summary": "Paralisação atinge as linhas 11-Coral, 12-Safira e 13-Jade; Metrô, demais linhas de trem e ônibus operam normalmente, enquanto a Prefeitura suspendeu o rodízio de veículos",
+        "title": "As ferramentas de IA que mais aumentam a produtividade no trabalho em 2026",
+        "link": "https://exame.com/inteligencia-artificial/as-ferramentas-de-ia-que-mais-aumentam-a-produtividade-no-trabalho-em-2026/",
+        "summary": "Plataformas voltadas para pesquisa, reuniões, apresentações, planilhas e organização vêm ajudando profissionais a reduzir tarefas repetitivas e dedicar mais tempo a atividades estratégicas",
         "image": null,
-        "date": "03 de ago. de 2026",
+        "date": "04 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Greve da CPTM: Prefeitura de SP suspende rodízio para veículos nesta terça",
-        "link": "https://exame.com/brasil/greve-da-cptm-prefeitura-de-sp-suspende-rodizio-para-veiculos-nesta-terca/",
-        "summary": "Medida vale para esta terça-feira, 4, e busca reduzir os impactos da paralisação nas linhas 11-Coral, 12-Safira e 13-Jade sobre a mobilidade da capital",
+        "title": "Vitória chega ao topo dos imóveis mais caros, e Vila Velha valoriza quase 10% em 2026",
+        "link": "https://exame.com/mercado-imobiliario/vitoria-chega-ao-topo-dos-imoveis-mais-caros-e-vila-velha-valoriza-quase-10-em-2026/",
+        "summary": "Capital capixaba alcança R$ 15.448 por metro quadrado, enquanto a vizinha acumula alta de 9,68% no ano",
         "image": null,
-        "date": "03 de ago. de 2026",
+        "date": "04 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Greve da CPTM em SP: Justiça determina 80% da operação durante horário de pico",
-        "link": "https://exame.com/brasil/greve-da-cptm-em-sp-justica-determina-80-da-operacao-durante-horario-de-pico/",
-        "summary": "O TRT prevê multa diária de R$ 400 mil ao sindicato em caso de descumprimento da determinação de funcionamento mínimo da operação",
+        "title": "'Discussão segue avançando', diz CEO da Isa Energia sobre disputa com governo de SP",
+        "link": "https://exame.com/invest/mercados/discussao-segue-avancando-diz-ceo-da-isa-energia-sobre-disputa-com-governo-de-sp/",
+        "summary": "Cobrança de R$ 2,8 bilhões à Sefaz-SP, em mediação no STJ, segue avançando rumo a um meio-termo",
         "image": null,
-        "date": "03 de ago. de 2026",
+        "date": "04 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Custo da dívida pesa no 2º tri da Isa, mas novos projetos trazem primeiros ganhos",
-        "link": "https://exame.com/invest/mercados/custo-da-divida-pesa-no-2o-tri-da-isa-mas-novos-projetos-trazem-primeiros-ganhos/",
-        "summary": "Lucro cai 32% no 2º trimestre, mas energizações começam a aparecer na receita",
+        "title": "Copom inicia reunião com expectativa de corte da Selic para 14%",
+        "link": "https://exame.com/economia/copom-inicia-reuniao-com-expectativa-de-corte-da-selic-para-14/",
+        "summary": "Mercado dá como certo um corte de 0,25 ponto percentual nesta semana e concentra as atenções na sinalização do Banco Central sobre os próximos passos do ciclo de juros",
         "image": null,
-        "date": "03 de ago. de 2026",
+        "date": "04 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Allan 'Puro Osso', lutador brasileiro do UFC, morre aos 34 anos",
-        "link": "https://exame.com/esporte/allan-puro-osso-lutador-brasileiro-do-ufc-morre-aos-34-anos/",
-        "summary": "O atleta integrava o elenco do UFC desde 2021 e somava, ao longo da carreira, 22 vitórias e 7 derrotas",
+        "title": "Follow-on foi oportunidade, não necessidade, diz CFO da Isa Energia",
+        "link": "https://exame.com/invest/mercados/follow-on-foi-oportunidade-nao-necessidade-diz-cfo-da-isa-energia/",
+        "summary": "Companhia levantou R$ 1,2 bilhão para reforçar o balanço e ganhar fôlego no ciclo de investimentos",
         "image": null,
-        "date": "03 de ago. de 2026",
+        "date": "04 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
