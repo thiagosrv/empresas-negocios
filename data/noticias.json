@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-04T02:53:43.150Z",
+  "updated": "2026-08-04T05:52:27.780Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Polícia investiga possível crime de ódio em morte de advogado encontrado em Mogi Mirim",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/04/policia-investiga-possivel-crime-de-odio-em-morte-de-advogado-encontrado-em-mogi-mirim.ghtml",
+        "summary": "Advogado de 30 anos é encontrado morto na zona rural de Mogi Mirim A Polícia Civil investiga a possibilidade de que a morte do advogado Lucas Silva Lopes, de 30 anos, esteja relacionada a um crime de ódio. A hipótese ain",
+        "image": "https://s2-g1.glbimg.com/kIFeyd7bbI4l9bHGnTCtaYlsIAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/q/FbEeLcQEST7LRdVYcA4A/lucas-silva-lopes-advogado-vitima-mogi-mirim.png",
+        "date": "04 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "VÍDEO: incêndio atinge veículos e toma conta de oficina em Hortolândia",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/03/incendio-atinge-veiculos-toma-conta-oficina-hortolandia.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/03/campinas-inclui-2o-reforco-da-vacina-contra-a-poliomielite-no-calendario-de-rotina.ghtml",
         "summary": "A Secretaria de Saúde de Campinas, passa a incluir, nesta segunda-feira (3) a segunda dose de reforço da vacina inativada poliomielite (VIP) no calendário de vacinação, em Campinas Carlos Bassan/Arquivo PMC A Secretaria ",
         "image": "https://s2-g1.glbimg.com/xisGIBTw7_72PVAJZyWT8xZGiUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wb5tUqTAaDB8eAv4F62Q/design-sem-nome-4-.png",
-        "date": "03 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Comerciante é detido após perseguição entre Valinhos e Campinas; multas podem ultrapassar R$ 8 mil",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/03/comerciante-e-detido-apos-perseguicao-entre-valinhos-e-campinas-multas-podem-ultrapassar-r-8-mil.ghtml",
-        "summary": "Comerciante é preso por infração de trânsito, fuga e porte de drogas em Valinhos Guarda Civil Municipal de Valinhos Um comerciante de 24 anos foi detido pela Guarda Civil Municipal (GCM) de Valinhos (SP) após uma persegu",
-        "image": "https://s2-g1.glbimg.com/D5ZV6XJfx_TIlLOkTNxCUdf6e8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/0/5UfIBSQzayjCdSY8QkdQ/desaparece-franca.jpg",
         "date": "03 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Avante oficializa Augusto Cury como candidato à Presidência",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avante-oficializa-augusto-cury-como-candidato-presidencia",
+        "summary": "p strong O partido Avante oficializou a candidatura do escritor e psiquiatra Augusto Cury à Presidência da República nesta segunda-feira (3). A decisão foi tomada durante convenção nacional da legenda, realizada na Assem",
+        "image": null,
+        "date": "04 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Trabalhadores das linhas 11, 12 e 13 da CPTM entram em greve",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/Trabalhadores-das-linhas-11-12-13-da-CPTM-entram-em-greve",
+        "summary": "p strong A assembleia dos trabalhadores da Companhia Paulista de Trens Metropolitanos (CPTM) aprovou greve a partir da meia-noite desta segunda-feira (3) nas linhas 11, 12 e 13. /strong img src= https://agenciabrasil.ebc",
+        "image": null,
+        "date": "04 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Urna eletrônica é patrimônio da democracia, diz presidente do TSE",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/urna-eletronica-e-patrimonio-da-democracia-diz-presidente-do-tse",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/urna-eletronica-e-patrimonio-da-democracia-diz-presidente-do-tse img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -161,29 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "TRE-RJ abre urna para o público e defende segurança do voto eletrônico",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tre-rj-abre-urna-para-o-publico-e-defende-seguranca-do-voto-eletronico",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tre-rj-abre-urna-para-o-publico-e-defende-seguranca-do-voto-eletronico img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "03 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil vence Chile na estreia do Sul-Americano de basquete feminino",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-vence-chile-na-estreia-do-sul-americano-de-basquete-feminino",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-vence-chile-na-estreia-do-sul-americano-de-basquete-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "03 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Cacá confia em força do Vitória em casa para resolver série com o Athletico-PR",
+        "link": "https://www.gazetaesportiva.com/times/vitoria/caca-confia-em-forca-do-vitoria-em-casa-para-resolver-serie-com-o-athletico-pr/",
+        "summary": "Após a derrota por 2 a 0 para o Athletico-PR no jogo de ida das oitavas de final da Copa do Brasil, o zagueiro Cacá lamentou os detalhes que decidiram a partida e admitiu que o Vitória precisa ser mais eficiente para bus",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55431213619_7f101afdfc_k.webp",
+        "date": "04 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Veja fotos do duelo entre Flamengo e Corinthians pelo Brasileirão Feminino",
         "link": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-duelo-entre-flamengo-e-corinthians-pelo-brasileirao-feminino/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/com-novidade-no-elenco-sao-paulo-inicia-semana-de-treinos-no-ct-veja-bastidores/",
         "summary": "O São Paulo se reapresentou nesta segunda-feira (03) no SuperCT com novidade. Recuperado de dores no joelho direito, o volante Bobadilla voltou a treinar junto com o grupo. O post Com novidade no elenco, São Paulo inicia",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/ymcc0joh-1280.webp",
-        "date": "04 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Aos 34 anos, lutador brasileiro tem morte confirmada pelo UFC",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/lutas/aos-34-anos-lutador-brasileiro-tem-morte-confirmada-pelo-ufc/",
-        "summary": "O UFC confirmou nesta segunda-feira a morte do lutador brasileiro Allan “Puro Osso” Nascimento, aos 34 anos. Segundo a organização, o atleta sofreu uma aparente parada cardíaca enquanto dormia. Integrante da categoria pe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HO09AoabAAAVD6r.webp",
         "date": "04 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,6 +367,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Greve da CPTM: entenda por que ferroviários cruzaram os braços em SP nesta terça",
+        "link": "https://exame.com/brasil/greve-da-cptm-entenda-por-que-ferroviarios-cruzaram-os-bracos-em-sp-nesta-terca/",
+        "summary": "Paralisação das linhas 11-Coral, 12-Safira e 13-Jade ocorre após o retorno por 90 dias da operação à CPTM depois de falhas registradas pela Trivia Trens",
+        "image": null,
+        "date": "04 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Greve da CPTM: vejas as linhas paralisadas e alternativas de transporte nesta terça",
         "link": "https://exame.com/brasil/greve-da-cptm-vejas-as-linhas-afetadas-e-alternativas-para-se-locomover-em-sp-nesta-terca/",
         "summary": "Paralisação atinge as linhas 11-Coral, 12-Safira e 13-Jade; Metrô, demais linhas de trem e ônibus operam normalmente, enquanto a Prefeitura suspendeu o rodízio de veículos",
@@ -410,16 +420,6 @@
         "title": "Allan 'Puro Osso', lutador brasileiro do UFC, morre aos 34 anos",
         "link": "https://exame.com/esporte/allan-puro-osso-lutador-brasileiro-do-ufc-morre-aos-34-anos/",
         "summary": "O atleta integrava o elenco do UFC desde 2021 e somava, ao longo da carreira, 22 vitórias e 7 derrotas",
-        "image": null,
-        "date": "03 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eclipse solar total acontece em agosto; saiba onde será possível observar",
-        "link": "https://exame.com/ciencia/eclipse-solar-total-acontece-em-agosto-saiba-onde-sera-possivel-observar/",
-        "summary": "Fenômeno poderá ser acompanhado em regiões específicas do planeta e também por transmissões ao vivo na internet",
         "image": null,
         "date": "03 de ago. de 2026",
         "source": "Exame",
