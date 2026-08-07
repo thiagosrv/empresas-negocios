@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-07T10:56:23.534Z",
+  "updated": "2026-08-07T11:50:46.978Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Incêndio atinge duas casas em Campinas, destrói cômodos e deixa imóveis com risco de desabamento",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/incendio-atinge-duas-casas-em-campinas-destroi-comodos-e-deixa-imoveis-com-risco-de-desabamento.ghtml",
+        "summary": "Um incêndio atingiu duas casas no mesmo terreno no início da manhã desta sexta-feira (7), na Rua Antimônio, bairro Vila Rica, em Campinas (SP). Ninguém ficou ferido. De acordo com o Corpo de Bombeiros, as chamas começara",
+        "image": "https://s2-g1.glbimg.com/Iy5v9iI9h2CFmcGds-sb5nGzbkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/T/zE2kiuRyuQWpSsLpZUpQ/incendio-1-.jpg",
+        "date": "07 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Super El Niño pode aumentar o risco de doenças transmitidas por animais; entenda a relação",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/07/super-el-nino-pode-aumentar-o-risco-de-doencas-transmitidas-por-animais-entenda-a-relacao.ghtml",
@@ -13,19 +23,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Assista ao Bom Dia Cidade Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
-        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
-        "date": "07 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Nova série do globoplay, 'Voepass 2283' traz reconstituição imersiva do voo e relato inédito de comissária: 'Sucata voada'",
+        "title": "Nova série do globoplay, 'Voepass 2283' traz reconstituição imersiva do voo e relato inédito de comissária: 'Sucata voadora'",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/documentario-voepass-2283-do-globoplay-traz-reconstituicao-imersiva-de-voo-e-depoimento-inedito-de-ex-comissaria-roleta-russa.ghtml",
-        "summary": "Avião que caiu em Vinhedo Reprodução/TV Globo Dois anos depois da queda do voo 2283 da Voepass, que matou 62 pessoas em Vinhedo (SP), o globoplay estreia a série documental \"Voepass 2283 – A Queda\" nesta quinta-feira (7)",
+        "summary": "Avião que caiu em Vinhedo Reprodução/TV Globo Dois anos depois da queda do voo que matou 62 pessoas em Vinhedo (SP), o globoplay estreia a série documental \"Voepass 2283 – A Queda\" nesta sexta-feira (7). Em três episódio",
         "image": "https://s2-g1.glbimg.com/R8YUNy5Uddn0qKbMO9hix3OdqvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/B/TMlUP7QVmEAZbNAhH3lQ/globo-canal-5-20240815-2000-frame-103356.jpeg",
         "date": "07 de ago. de 2026",
         "source": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Sobrecarga doméstica expõe mulheres à violência, dizem especialistas",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/sobrecarga-domestica-expoe-mulheres-a-violencia-dizem-especialistas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/sobrecarga-domestica-expoe-mulheres-a-violencia-dizem-especialistas img src= https://cdn.jsdelivr.net/gh/serg",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lei Maria da Penha completa 20 anos entre avanços e desafios",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/lei-maria-da-penha-representou-avancos-mas-precisa-de-aplicabilidade",
+        "summary": "p Há exatos 20 anos, era sancionada a a href= https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm Lei Maria da Penha /a , um dos principais marcos no combate à violência contra as mulheres no Brasil. ",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Cientistas identificam taxa recorde de deformações em peixes do ES",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cientistas-identificam-taxa-recorde-de-deformacoes-em-peixes-do-es",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cientistas-identificam-taxa-recorde-de-deformacoes-em-peixes-do-es img src= https://cdn.jsdelivr.net/gh/sergiosd",
@@ -161,29 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Rio: ex-padre é condenado a 48 anos de prisão por tortura de enteados",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/rio-ex-padre-e-condenado-48-anos-de-prisao-por-tortura-de-enteados",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/rio-ex-padre-e-condenado-48-anos-de-prisao-por-tortura-de-enteados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "06 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Polícia Federal indicia 16 pessoas por queda de avião da Voepass",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/policia-federal-indicia-16-pessoas-por-queda-de-aviao-da-voepass",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/policia-federal-indicia-16-pessoas-por-queda-de-aviao-da-voepass img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "06 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Vozinha admite tentar jogar Copa de 2030 e revela sonho de disputar a Libertadores",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/vozinha-futuro-cabo-verde-libertadores-colo-colo/",
+        "summary": "Vozinha falou sobre o futuro na seleção de Cabo Verde, admitiu que ainda não sabe se disputará a Copa do Mundo de 2030 e destacou o desejo de jogar a Libertadores pelo Colo-Colo. Aos 40 anos, o goleiro também relembrou a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260804__C3Y9276__v1__HighRes__FblChiCpvColocolo.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Palmeiras favorito? Cinco times das quartas da Copa do Brasil brigam contra o Z4 do Brasileiro",
         "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-favorito-cinco-times-das-quartas-da-copa-do-brasil-brigam-contra-o-z4-do-brasileiro/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-reforca-sistema-defensivo-com-dupla-e-preenche-lacunas-no-elenco/",
         "summary": "O São Paulo se movimentou no mercado da bola e preencheu importantes lacunas no elenco com reforços contratados nesta janela de transferências. Os maiss recentes deles são Domingos Duarte e Iago Borduchi, anunciados na ú",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPC37xUWgAAstqX.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Abel cobra rendimento, e Vitor Roque tenta recuperar espaço no Palmeiras após lesão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-cobra-rendimento-e-vitor-roque-tenta-recuperar-espaco-no-palmeiras-apos-lesao/",
-        "summary": "A concorrência por espaço no ataque do Palmeiras se intensificou após a Copa do Mundo. Após se recuperar de lesão e voltar a ficar à disposição de Abel Ferreira, o atacante Vitor Roque busca retomar a melhor forma para r",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/05082026_cg_palmeiras_9243_31.webp",
         "date": "07 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Petrobras: balanço forte e dividendos no topo das projeções; mais está por vir no 3T?",
-        "link": "https://www.infomoney.com.br/mercados/petrobras-petr4-balanco-forte-e-dividendos-no-topo-das-projecoes-mais-esta-por-vir-no-3t/",
-        "summary": "Analistas seguem construtivos com a tese, embora apontem riscos ligados ao petróleo e ao cenário político The post Petrobras: balanço forte e dividendos no topo das projeções; mais está por vir no 3T? appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-16T151745Z_1_LYNXNPEL9F0SI_RTROPTP_4_BRAZIL-PETROBRAS.jpg?fit=300%2C181&amp;quality=70&amp;strip=all",
+        "title": "PL escolhe o ex-deputado Charlles Evangelista como vice na chapa de Roscoe em Minas",
+        "link": "https://www.infomoney.com.br/politica/pl-escolhe-o-ex-deputado-charlles-evangelista-como-vice-na-chapa-de-roscoe-em-minas/",
+        "summary": "Além de Charlles Evangelista, também foram escolhidos os suplentes na chapa do candidato a senador Domingos Sávio The post PL escolhe o ex-deputado Charlles Evangelista como vice na chapa de Roscoe em Minas appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Charlles-Evangelista.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lucro da Log cai 32,6% no 2º tri",
-        "link": "https://www.infomoney.com.br/mercados/log-cp-logg3-resultados-segundo-trimestre-2026/",
-        "summary": "A receita líquida ficou ⁠em ​R$66 ​milhões, crescendo 7,3% no ano The post Lucro da Log cai 32,6% no 2º tri appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/galpaologcp.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Petrobras, MRV, Brava, PetroReconcavo, Magalu e mais ações para acompanhar hoje",
+        "link": "https://www.infomoney.com.br/mercados/petrobras-mrv-brava-petroreconcavo-magalu-e-mais-acoes-para-acompanhar-hoje/",
+        "summary": "Veja os principais destaques do noticiário corporativo desta sexta-feira The post Petrobras, MRV, Brava, PetroReconcavo, Magalu e mais ações para acompanhar hoje appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-17-115206-e1770668490299.png?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Pague Menos vai emitir R$ 350 milhões em debêntures em 9ª emissão",
-        "link": "https://www.infomoney.com.br/mercados/pague-menos-vai-emitir-r-350-milhoes-em-debentures-em-9a-emissao/",
-        "summary": "Empresa irá ⁠emitir ​debêntures ​simples em série ⁠única ​no dia 25 ​de agosto destinadas ​a ⁠investidores profissionais The post Pague Menos vai emitir R$ 350 milhões em debêntures em 9ª emissão appeared first on InfoMo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/pague-menos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Brava (BRAV3) fecha contrato de longo prazo para compra de petróleo da PetroReconcavo",
+        "link": "https://www.infomoney.com.br/mercados/brava-brav3-fecha-contrato-de-longo-prazo-para-compra-de-petroleo-da-petroreconcavo/",
+        "summary": "O acordo terá vigência de 1º de outubro de 2026 a 31 de dezembro de 2030 The post Brava (BRAV3) fecha contrato de longo prazo para compra de petróleo da PetroReconcavo appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/FPSO-Atlanta.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lucro líquido da Mitre Realty sobe 45,5% no 2º tri",
-        "link": "https://www.infomoney.com.br/mercados/mitre-mtre3-resultados-segundo-trimestre-2026/",
-        "summary": "A margem bruta no período ⁠foi ‌de 32%, ante os ⁠25,5% do segundo trimestre de 2025 The post Lucro líquido da Mitre Realty sobe 45,5% no 2º tri appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/hausmitrepinheiros_adega.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
+        "summary": "Índices futuros dos EUA avançam antes de dados do payroll The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-25.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Minidólar (WDOU26): tensão externa e Payroll elevam risco de volatilidade",
-        "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-07082026/",
-        "summary": "Saiba o que esperar para o minidólar nesta sexta (07) The post Minidólar (WDOU26): tensão externa e Payroll elevam risco de volatilidade appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-07.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
+        "title": "Demanda por IA mantém motor das exportações da China em pleno funcionamento",
+        "link": "https://www.infomoney.com.br/economia/demanda-por-ia-mantem-motor-das-exportacoes-da-china-em-pleno-funcionamento/",
+        "summary": "As exportações da China em julho cresceram 23,9% em relação ao mesmo mês do ano anterior, em termos de valor em dólares The post Demanda por IA mantém motor das exportações da China em pleno funcionamento appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/420007784.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mini-índice (WINQ26) hoje: desemprego nos EUA e balanços ficam no radar",
-        "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-07082026/",
-        "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (07 de agosto) The post Mini-índice (WINQ26) hoje: desemprego nos EUA e balanços ficam no radar appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINQ26-15-MINUTOS-07.08.2026.png?fit=300%2C136&amp;quality=70&amp;strip=all",
+        "title": "China: reservas cambiais sobem em julho com dólar fraco e compras de ouro continuam",
+        "link": "https://www.infomoney.com.br/economia/china-reservas-cambiais-sobem-em-julho-com-dolar-fraco-e-compras-de-ouro-continuam/",
+        "summary": "O estoque de reservas cambiais aumentou US$ 2,51 bilhões, para US$ 3,419 trilhões The post China: reservas cambiais sobem em julho com dólar fraco e compras de ouro continuam appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/449488703.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tornado e ventos acima de 100 km/h deixam Rio Grande do Sul em alerta",
-        "link": "https://exame.com/brasil/tornado-e-ventos-acima-de-100-km-h-deixam-rio-grande-do-sul-em-alerta/",
-        "summary": "Segundo tornado em pouco mais de uma semana causou estragos em Pedro Osório; oito cidades relataram danos após tempestades",
+        "title": "Mudanças climáticas forçam borboletas a abandonar seus habitats em 105 países",
+        "link": "https://exame.com/ciencia/mudancas-climaticas-forcam-borboletas-a-abandonar-seus-habitats-em-105-paises/",
+        "summary": "Estudo mostra que mais de 1.700 espécies já mudaram de área de distribuição em resposta ao aquecimento global e a eventos climáticos extremos",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Petrobras, guerra no Irã e payroll: o que move os mercados",
-        "link": "https://exame.com/invest/mercados/petrobras-guerra-no-ira-e-payroll-o-que-move-os-mercados/",
-        "summary": "Escalada entre EUA e Irã volta ao radar, enquanto Petrobras supera expectativas no trimestre",
+        "title": "Dona do TikTok treina modelo de IA três vezes maior que o Kimi K3, da Moonshot",
+        "link": "https://exame.com/inteligencia-artificial/dona-do-tiktok-treina-modelo-de-ia-tres-vezes-maior-que-o-kimi-k3-da-moonshot/",
+        "summary": "ByteDance mira até 10 trilhões de parâmetros e se aproxima do Mythos, da Anthropic. A empresa proíbe internamente a técnica de destilação usada por rivais chinesas",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "É preciso ver todos os filmes e séries do MCU antes do novo ‘Vingadores’? Chefão da Marvel responde",
-        "link": "https://exame.com/pop/e-preciso-ver-todos-os-filmes-e-series-do-mcu-antes-do-novo-vingadores-chefao-da-marvel-responde/",
-        "summary": "Com dezenas de filmes e séries lançados, Marvel quer reduzir o “dever de casa” e reconquistar quem deixou de acompanhar o MCU",
+        "title": "'Traição' entre pássaros? Estudo mostra como o canto revela machos 'comprometidos'",
+        "link": "https://exame.com/ciencia/traicao-entre-passaros-estudo-mostra-como-o-canto-revela-machos-comprometidos/",
+        "summary": "Pesquisa revela que fêmeas preferem parceiros sem outra companheira e conseguem reconhecer mudanças na vocalização após o primeiro acasalamento",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ciclone-bomba: Inmet alerta para ventos de até 100 km/h e granizo no Sul e Sudeste",
-        "link": "https://exame.com/brasil/ciclone-bomba-inmet-alerta-para-ventos-de-ate-100-km-h-e-granizo-no-sul-e-sudeste/",
-        "summary": "Inmet mantém alertas para tempestades, vendavais e ventos costeiros; após a passagem do sistema, uma massa de ar frio derruba as temperaturas no Sul",
+        "title": "Ouro dispara e caminha para melhor semana desde janeiro",
+        "link": "https://exame.com/invest/mercados/ouro-dispara-e-caminha-para-melhor-semana-desde-janeiro/",
+        "summary": "Metal acumula alta de mais de 6% na semana com foco no Fed e no payroll dos Estados Unidos",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Rio tem alerta para ventos acima de 90 km/h e suspende aulas nesta sexta",
-        "link": "https://exame.com/brasil/rio-tem-alerta-para-ventos-acima-de-90-km-h-e-suspende-aulas-nesta-sexta/",
-        "summary": "Capital está no Estágio 2, e rajadas podem chegar a 110 km/h em outras regiões do estado; Defesa Civil recomenda evitar deslocamentos",
+        "title": "Cientistas descobrem possível 'gatilho' do envelhecimento para doenças cerebrais",
+        "link": "https://exame.com/ciencia/cientistas-descobrem-possivel-gatilho-do-envelhecimento-para-doencas-cerebrais/",
+        "summary": "Estudo identificou uma proteína que pode tornar o cérebro mais vulnerável a doenças neurodegenerativas, como ELA e doença de Huntington",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Com vendedores robôs, a startup dele já movimentou R$ 75 milhões em seu primeiro ano",
-        "link": "https://exame.com/negocios/com-vendedores-robos-a-startup-dele-ja-movimentou-r-75-milhoes-em-seu-primeiro-ano/",
-        "summary": "Fundada por Eduardo Petrelli e Paulo Monçores, a Agent.Shop desenvolve agentes capazes de recomendar produtos, montar carrinhos, receber pagamentos e atender consumidores",
+        "title": "Mais de 130 imóveis do Itaú entram em leilão com descontos de até 71%",
+        "link": "https://exame.com/mercado-imobiliario/mais-de-130-imoveis-do-itau-entram-em-leilao-com-descontos-de-ate-71/",
+        "summary": "Leilões da Zuk com imóveis do banco têm opções residenciais, comerciais e terrenos em 17 estados, com lances a partir de R$ 33 mil",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
