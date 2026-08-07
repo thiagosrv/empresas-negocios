@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-07T21:42:21.566Z",
+  "updated": "2026-08-07T22:40:24.738Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "07 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Criança se engasga durante intervalo escolar e é salva por guarda em Artur Nogueira",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/crianca-engasga-intervalo-escolar-salva-guarda-artur-nogueira.ghtml",
+        "summary": "Escola Francisco Cardona, em Artur Nogueira (SP) Prefeitura de Artur Nogueira Uma criança se engasgou durante o intervalo escolar e precisou ser salva por um guarda municipal na manhã desta sexta-feira (7), em Artur Nogu",
+        "image": "https://s2-g1.glbimg.com/rpEz8XtGB9j-2lRU8QrRRQX7R4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/I/h8HVO9QC6DaTljFuBuDQ/copia-de-area-1-67-.png",
+        "date": "07 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Quem é o ex-piloto da Voepass que virou peça-chave na investigação da queda do voo 2283",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/quem-e-o-ex-piloto-da-voepass-que-virou-peca-chave-na-investigacao-da-queda-do-voo-2283.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/proximos-passos-pf-indiciar-16-queda-aviao-voepass.ghtml",
         "summary": "Acidente Voepass: quem são os indiciados pelo desastre aéreo com 62 mortos O relatório final da Polícia Federal (PF) sobre o acidente com o avião da Voepass que matou 62 pessoas em agosto de 2024, em Vinhedo (SP), result",
         "image": "https://s2-g1.glbimg.com/kMFJr-dj6mvwW5B8GZSDHx1iRNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/uZ71RcSyuFs7GGAHPYlQ/whatsapp-image-2026-08-06-at-14.30.54.jpeg",
-        "date": "07 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Motociclista morre após ser atingida por picape em rodovia de Artur Nogueira",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/motociclista-morre-apos-ser-atingida-por-picape-em-rodovia-de-artur-nogueira.ghtml",
-        "summary": "Motociclista morre após ser atingida por picape em rodovia de Artur Nogueira Uma motociclista de 36 anos morreu após ser atingida por uma picape na tarde desta quinta-feira (6), no km 42 da Rodovia Prefeito Aziz Lian (SP",
-        "image": "https://s2-g1.glbimg.com/KBtYT5pEI5BHkSPcVmQFgDD2NRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/xmSC8vTPACKsAhKHgqlg/design-sem-nome-1-.png",
-        "date": "07 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Batida entre caminhões bloqueia trecho do Anel Viário em Valinhos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/batida-entre-dois-caminhoes-bloqueia-trecho-do-anel-viario-em-valinhos.ghtml",
-        "summary": "Batida entre dois caminhões bloqueia trecho do Anel Viário em Valinhos Uma batida entre caminhões bloqueou um trecho do Anel Viário Magalhães Teixeira no fim da manhã desta sexta-feira (7). O acidente foi na altura do tr",
-        "image": "https://s2-g1.glbimg.com/DACdaC6eU-RXZXSiCTPQvH-W6No=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/3I05gTTkqAJnaDRskDpw/anel-viario-acidente.jfif",
         "date": "07 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "PMs detêm motorista de ônibus em SP após desentendimento no trânsito",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pms-detem-motorista-de-onibus-em-sp-apos-desentendimento-no-transito",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pms-detem-motorista-de-onibus-em-sp-apos-desentendimento-no-transito img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Desmatamento na Amazônia cai 36,87% no último ano",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/desmatamento-na-amazonia-cai-3687-no-ultimo-ano",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/desmatamento-na-amazonia-cai-3687-no-ultimo-ano img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "OAB/DF lança violentômetro sobre estágios da agressão a mulheres",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oabdf-lanca-violentometro-sobre-estagios-da-agressao-mulheres",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oabdf-lanca-violentometro-sobre-estagios-da-agressao-mulheres img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "STM determina perda de patente de militar acusado de transmitir HIV",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stm-determina-perda-de-patente-de-militar-acusado-de-transmitir-hiv",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stm-determina-perda-de-patente-de-militar-acusado-de-transmitir-hiv img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "STF julga recursos contra partes da decisão que anulou marco temporal",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-julga-recursos-contra-partes-da-decisao-que-anulou-marco-temporal",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-julga-recursos-contra-partes-da-decisao-que-anulou-marco-temporal img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Candidatos do Encceja 2026 podem consultar o cartão de inscrição",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TSE cria conselho para monitorar desinformação e IA nas eleições",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-cria-conselho-para-monitorar-desinformacao-e-ia-nas-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-cria-conselho-para-monitorar-desinformacao-e-ia-nas-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cristo, Bondinho e outros pontos turísticos são fechados por ventania",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cristo-bondinho-e-outros-pontos-turisticos-sao-fechados-por-ventania",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cristo-bondinho-e-outros-pontos-turisticos-sao-fechados-por-ventania img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Saeb 2025: Brasil recupera nível pré-pandemia, mas ainda tem gargalos",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/saeb-2025-brasil-recupera-nivel-pre-pandemia-mas-ainda-tem-gargalos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/saeb-2025-brasil-recupera-nivel-pre-pandemia-mas-ainda-tem-gargalos img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Tanabi x Palmeiras: acompanhe o placar do duelo pelo Paulista sub-20 em tempo real",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/tanabi-x-palmeiras-acompanhe-o-placar-do-duelo-pelo-paulista-sub-20-em-tempo-real/",
+        "summary": "📋 Resumo do jogo tempo real ⚪ TANABI 0 x 0 PALMEIRAS 🟢 🏆 Competição: Campeonato Paulista sub-20 🏟️ Local: Estádio Prefeito Alberto Víctolo 📅 Data: 07 de agosto de 2026 (sexta-feira) ⏰ Horário: 19h (de Brasília) Esca",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/palmaua.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos do treino do Palmeiras desta sexta-feira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-sexta-feira-07-08-2026/",
+        "summary": "O Palmeiras treinou na tarde desta sexta-feira e deu sequência à preparação para o jogo contra o Internacional. Veja fotos. O post Veja fotos do treino do Palmeiras desta sexta-feira apareceu primeiro em Gazeta Esportiva",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/07082026_cg_palmeiras_4508_49.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Barboza treina integralmente com o elenco e pode reforçar o Palmeiras contra o Internacional",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/barboza-treina-integralmente-com-o-elenco-e-pode-reforcar-o-palmeiras-contra-o-internacional/",
+        "summary": "O Palmeiras treinou na tarde desta sexta-feira, na Academia de Futebol, e ganhou boa notícia. O zagueiro Barboza, preservado do jogo da última quarta-feira, pela Copa do Brasil, por conta de um trauma no pé, participou d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/07082026_cg_palmeiras_3977_11.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Santos e empresa americana assinam acordo por controle de futura SAF; veja próximos passos",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-saf-sdc-sports-investidores-conselho/",
+        "summary": "Santos e SDC Sports assinaram um term sheet não vinculante que prevê a aquisição de participação acionária de controle na futura SAF. Após cinco meses de diligência, o projeto será apresentado ao Conselho Deliberativo e ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/53438267034_6c443ce32e_o.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "John Kennedy sofre lesão no joelho e desfalca Fluminense pelo restante da temporada",
+        "link": "https://www.gazetaesportiva.com/times/fluminense/john-kennedy-sofre-lesao-no-joelho-e-desfalca-fluminense-pelo-restante-da-temporada/",
+        "summary": "O Fluminense ganhou um desfalque importante para o restante da temporada. Durante a eliminação da Copa do Brasil na última quarta-feira, diante do Vasco, John Kennedy sofreu uma lesão no ligamento cruzado anterior do joe",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55445579511_03d6629b8f_o-1.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Luca Zidane deixa Granada e assina com Leganés",
         "link": "https://www.gazetaesportiva.com/campeonatos/laliga/luca-zidane-deixa-granada-e-assina-com-leganes/",
         "summary": "O goleiro da seleção argelina Luca Zidane, filho do ex-craque francês Zinedine Zidane, deixou o Granada e assinou com o Leganés, anunciaram os dois clubes da segunda divisão espanhola nesta sexta-feira (7). O post Luca Z",
         "image": "https://static.gazetaesportiva.com/uploads/2026/01/AFP__20260106__89TP3P2__v1__MidRes__FblAfr2025Match43AlgDrc.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Gabriel Jesus considera saída do Arsenal e Napoli monitora situação",
-        "link": "https://www.gazetaesportiva.com/times/napoli/gabriel-jesus-entra-na-mira-do-napoli-e-pode-deixar-o-arsenal/",
-        "summary": "Gabriel Jesus pode estar vivendo seus últimos momentos como jogador do Arsenal. Segundo informações divulgadas pelo jornalista Fabrizio Romano, representantes do atacante brasileiro já se reuniram com o Napoli para discu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/75f5f9c9-5299-4c91-8c11-e58c1c7a8c5a.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Monaco de Filipe Luís vence o Getafe em amistoso",
-        "link": "https://www.gazetaesportiva.com/times/monaco/monaco-de-filipe-luis-vence-o-getafe-em-amistoso/",
-        "summary": "Monaco de Filipe Luís vence o Getafe em amistoso O post Monaco de Filipe Luís vence o Getafe em amistoso apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/mon.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Bastidores: Atlético de Madrid chega a Seul com a presença de Kang-in Lee",
-        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/bastidores-atletico-de-madrid-chega-a-seul-com-a-presenca-de-kang-in-lee/",
-        "summary": "Bastidores: Atlético de Madrid chega a Seul com a presença de Kang-in Lee O post Bastidores: Atlético de Madrid chega a Seul com a presença de Kang-in Lee apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Basti.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Gabriel reencontra o Corinthians como peça importante do Bragantino",
-        "link": "https://www.gazetaesportiva.com/times/bragantino/gabriel-reencontra-corinthians-bragantino-brasileirao/",
-        "summary": "Ex-jogador do Corinthians, Gabriel Girotto reencontra o clube alvinegro neste domingo (9), pela Série A do Campeonato Brasileiro. Atualmente no Red Bull Bragantino, o volante soma retrospecto favorável diante do ex-time ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/gabriel-girotto-bragantino-1.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Confira como foi o primeiro treino de Kang-in Lee no Atlético de Madrid",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-como-foi-o-primeiro-treino-de-kang-in-lee-no-atletico-de-madrid/",
-        "summary": "Confira como foi o primeiro treino de Kang-in Lee no Atlético de Madrid O post Confira como foi o primeiro treino de Kang-in Lee no Atlético de Madrid apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Prim.webp",
         "date": "07 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Iguatemi assina proposta de venda de participações em cinco ativos do portfólio",
+        "link": "https://www.infomoney.com.br/mercados/iguatemi-assina-proposta-de-venda-de-participacoes-em-cinco-ativos-do-portfolio/",
+        "summary": "Venda de participações foi negociada por R$ 876,1 milhões The post Iguatemi assina proposta de venda de participações em cinco ativos do portfólio appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-06T233636Z_1_LYNXMPEK750YO_RTROPTP_4_CONSTRUCAO-SHOPPING-IGUATEMI-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "07 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "JBS e nova joint venture: o que representa para a empresa?",
         "link": "https://www.infomoney.com.br/mercados/jbs-e-nova-joint-venture-o-que-representa-para-a-empresa/",
         "summary": "Novo empreendimento mira oportunidades de investimento na Indonésia, no Sudeste Asiático, na Austrália e na Nova Zelândia The post JBS e nova joint venture: o que representa para a empresa? appeared first on InfoMoney.",
@@ -357,14 +367,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Renner (LREN3) corta guidance após 2T fraco, preocupa com vendas e ações desabam 8%",
-        "link": "https://www.infomoney.com.br/mercados/renner-lren3-corta-guidance-apos-2t-fraco-preocupa-com-vendas-e-acoes-desabam/",
-        "summary": "Renner reduziu sua projeção de crescimento da receita de varejo para 2026 para uma faixa entre 4% e 8%, ante a estimativa anterior de 9% a 13% The post Renner (LREN3) corta guidance após 2T fraco, preocupa com vendas e a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/lojas-renner.jpg?fit=300%2C182&amp;quality=70&amp;strip=all",
+        "title": "BMW exibe anúncio do novo 'Homem-Aranha' em painéis e revolta proprietários",
+        "link": "https://exame.com/pop/bmw-exibe-anuncio-do-novo-homem-aranha-em-paineis-e-revolta-proprietarios/",
+        "summary": "A campanha em parceria com a Marvel-Sony pegou os proprietários de surpresa ao surgir no painel dos veículos",
+        "image": null,
         "date": "07 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Stray Kids, que vai tocar no Rock in Rio, lança mini-álbum; saiba tudo",
+        "link": "https://exame.com/pop/stray-kids-que-vai-tocar-no-rock-in-rio-lanca-mini-album-saiba-tudo/",
+        "summary": "Em 2024, com “HOP” alcançando o primeiro lugar, o grupo se tornou o primeiro a liderar a principal parada de álbuns seis vezes",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Lula diz que Marco Rubio é 'bolsonarista' e 'anti-latino-americano'",
@@ -400,26 +420,6 @@
         "title": "Marca paulistana testa passaporte digital da moda para se adaptar às novas regras da UE",
         "link": "https://exame.com/esg/marca-paulistana-lanca-passaporte-digital-da-moda-para-se-adaptar-as-novas-regras-da-ue/",
         "summary": "Projeto lançado na SP Climate Week é liderado pela Ar Something e busca virar modelo de rastreabilidade para empresas brasileiras do setor",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ibovespa cai com blue chips e balanços e perde 3,08% na semana; dólar vai a R$ 5,08",
-        "link": "https://exame.com/invest/mercados/ibovespa-cai-com-blue-chips-e-balancos-e-perde-308-na-semana-dolar-vai-a-r-508/",
-        "summary": "A moeda americana caiu 0,46%, cotado a R$ 5,084, nesta sexta, 7, mas dubiu 0,27% na semana",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Enquanto SDC Sports compra o Santos, Neymar renova patrocínio — e bota mais R$ 50 milhões no bolso",
-        "link": "https://exame.com/exame-in/enquanto-sdc-sports-compra-o-santos-neymar-renova-patrocinio-e-bota-50-milhoes-no-bolso/",
-        "summary": "Dia foi ótimo para o alvinegro praiano, que avançou na venda da SAF por R$ 1 bilhão, mas também foi bom para seu maior craque, que renovou como garoto-propaganda da Loovi",
         "image": null,
         "date": "07 de ago. de 2026",
         "source": "Exame",
