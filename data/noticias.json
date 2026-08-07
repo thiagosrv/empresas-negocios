@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-07T07:22:05.254Z",
+  "updated": "2026-08-07T09:03:34.947Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Documentário 'Voepass 2283' do globoplay traz reconstituição imersiva de voo e depoimento inédito de ex-comissária: 'Roleta russa'",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/documentario-voepass-2283-do-globoplay-traz-reconstituicao-imersiva-de-voo-e-depoimento-inedito-de-ex-comissaria-roleta-russa.ghtml",
+        "summary": "Avião que caiu em Vinhedo Reprodução/TV Globo Dois anos depois da queda do voo 2283 da Voepass, que matou 62 pessoas em Vinhedo (SP), o globoplay estreia a série documental \"Voepass 2283 – A Queda\" nesta quinta-feira (7)",
+        "image": "https://s2-g1.glbimg.com/R8YUNy5Uddn0qKbMO9hix3OdqvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/B/TMlUP7QVmEAZbNAhH3lQ/globo-canal-5-20240815-2000-frame-103356.jpeg",
+        "date": "07 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "José Luiz Felício Filho: quem é o dono da Voepass indiciado por desastre aéreo que matou 62 pessoas",
         "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/07/jose-luiz-felicio-filho-quem-e-o-dono-da-voepass-indiciado-por-desastre-aereo-que-matou-62-pessoas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-aguas-de-lindoia-aguas-de-lindoia-destino-de-experiencias/noticia/2026/08/06/aguas-de-lindoia-inaugura-clinica-veterinaria-pet-container.ghtml",
         "summary": "Águas de Lindóia inaugura Clínica Veterinária Pet Container Crédito: Divulgação A Prefeitura de Águas de Lindóia inaugurou a Clínica Veterinária Pet Container \"Grasiele Vaz de Toledo\", um novo equipamento público voltado",
         "image": "https://s2-g1.glbimg.com/OUIlVKraPAdjJZNZqhLfEpwsT6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/c/g96T3aS8mOpI7W6CBWKw/foto-1.png",
-        "date": "06 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Águas de Lindóia amplia acesso ao Implanon® pelo SUS",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-aguas-de-lindoia-aguas-de-lindoia-destino-de-experiencias/noticia/2026/08/06/aguas-de-lindoia-amplia-acesso-ao-implanonr-pelo-sus.ghtml",
-        "summary": "Águas de Lindóia amplia acesso ao Implanon® pelo SUS Crédito: Divulgação A Prefeitura de Águas de Lindóia, por meio da Secretaria Municipal de Saúde, passou a disponibilizar o Implanon®, implante contraceptivo subdérmico",
-        "image": "https://s2-g1.glbimg.com/eZ2VYsH5GoGv8khr8-Kw-ItLBDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/2/jnSvBySMKE3xqHj0NKog/foto-1.png",
         "date": "06 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,46 @@
     ],
     "esportes": [
       {
+        "title": "Abel cobra rendimento, e Vitor Roque tenta recuperar espaço no Palmeiras após lesão",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-cobra-rendimento-e-vitor-roque-tenta-recuperar-espaco-no-palmeiras-apos-lesao/",
+        "summary": "A concorrência por espaço no ataque do Palmeiras se intensificou após a Copa do Mundo. Após se recuperar de lesão e voltar a ficar à disposição de Abel Ferreira, o atacante Vitor Roque busca retomar a melhor forma para r",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/05082026_cg_palmeiras_9243_31.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Grêmio x São Paulo: veja onde assistir ao jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/gremio-x-sao-paulo-veja-onde-assistir-ao-jogo-pelo-brasileirao/",
+        "summary": "Saiba as opções para assistir ao confronto entre Grêmio e São Paulo, neste sábado, pela 22ª rodada do Campeonato Brasileiro. O post Grêmio x São Paulo: veja onde assistir ao jogo pelo Brasileirão apareceu primeiro em Gaz",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55091165846_c4aa7e63f9_o.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações: veja quem foi mal e quem se salvou na eliminação do Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-veja-quem-foi-mal-e-quem-se-salvou-na-eliminacao-do-corinthians/",
+        "summary": "O Corinthians venceu o Internacional por 2 a 1 na Neo Química Arena, mas não conseguiu reverter a desvantagem construída no jogo de ida e foi eliminado nas oitavas de final da Copa do Brasil. Na avaliação da Gazeta Espor",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247198.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Corinthians trabalha para ter Memphis à disposição na Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-trabalha-para-ter-memphis-a-disposicao-na-libertadores/",
+        "summary": "O Corinthians já trabalha com a expectativa de contar com Memphis Depay no duelo contra o Rosario Central, pelas oitavas de final da Libertadores, mesmo sem a renovação de contrato ter sido concluída. As negociações segu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/245183.webp",
+        "date": "07 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Melhores momentos: Corinthians 2 x 1 Internacional pela Copa do Brasil",
         "link": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-corinthians-2-x-1-internacional-pela-copa-do-brasil/",
         "summary": "Pela partida de volta das oitavas de final da Copa do Brasil 2026, o Corinthians venceu o Internacional por 2 a 1, mas ficou atrás na soma dos placares por 3 a 2 e deixou a competição. O post Melhores momentos: Corinthia",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/mais-esportes/basquete/brasil-perde-venezuela-quartas-classificatorio-americupw-2027/",
         "summary": "A seleção brasileira de basquete feminino foi derrotada pela Venezuela por na segunda rodada do Classificatório Sul-Americano para a AmeriCupW 2027, disputado em Zárate, na Argentina. Com o resultado, o Brasil terminou e",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/d3f0018d-921a-424d-bf6d-66e5fce5905e.avif",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Diniz critica arbitragem após queda do Corinthians e vê Memphis perto de renovação",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-critica-arbitragem-apos-queda-do-corinthians-e-ve-memphis-perto-de-renovacao/",
-        "summary": "Após a eliminação do Corinthians para o Internacional nas oitavas de final da Copa do Brasil, Fernando Diniz criticou a arbitragem e apontou uma falta em Kaio César no lance que originou o gol de Bernabei como determinan",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247199.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Provocação? Carlos Miguel faz postagem após queda do Corinthians; veja",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/provocacao-carlos-miguel-faz-postagem-apos-queda-do-corinthians-veja/",
-        "summary": "Goleiro do Palmeiras e revelado pelo Internacional, Carlos Miguel publicou um story em seu Instagram que rapidamente chamou atenção pela possível provocação ao Corinthians, eliminado da Copa do Brasil pelo Colorado nesta",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/05082026_cg_palmeiras_9137_19-1.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja galeria de memes da eliminação do Corinthians para o Internacional na Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-memes-da-eliminacao-do-corinthians-para-o-internacional-na-copa-do-brasil/",
-        "summary": "O post Veja galeria de memes da eliminação do Corinthians para o Internacional na Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-06-at-23.04.52.webp",
-        "date": "07 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Vitória 4 x 0 Athletico-PR pela Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/times/vitoria/melhores-momentos-vitoria-4-x-0-athletico-pr-pela-copa-do-brasil/",
-        "summary": "Veja os melhores momentos de Vitória 4 x 0 Athletico-PR pelo jogo de volta das oitavas de final da Copa do Brasil. O post Melhores momentos: Vitória 4 x 0 Athletico-PR pela Copa do Brasil apareceu primeiro em Gazeta Espo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/VITxCAP-JOGO-1.webp",
         "date": "07 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,94 @@
         "cls": ""
       },
       {
-        "title": "PF indicia 16 funcionários e ex-funcionários da Voepass por queda de avião em SP",
-        "link": "https://www.infomoney.com.br/brasil/pf-indicia-16-funcionarios-e-ex-funcionarios-da-voepass-por-queda-de-aviao-em-sp/",
-        "summary": "Laudo de quase 200 páginas aponta omissão da tripulação, falhas de manutenção e colapso de gestão; coletiva detalhou imputação criminal The post PF indicia 16 funcionários e ex-funcionários da Voepass por queda de avião ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/acidente-voepass.jpg?fit=300%2C221&amp;quality=70&amp;strip=all",
+        "title": "IA virou preocupação do Fed: investimento dispara e alerta de bolha acende",
+        "link": "https://www.infomoney.com.br/mundo/ia-virou-preocupacao-do-fed-investimento-dispara-e-alerta-de-bolha-acende/",
+        "summary": "Expansão de data centers cresce mais rápido que o boom imobiliário pré-2008; autoridades monitoram alavancagem e financiamento; \"não é bolha, mas precisamos discutir\", dizem. The post IA virou preocupação do Fed: investi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/fed-juros-eua.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Meta é condenada a pagar US$ 567 milhões em ação sobre segurança infantil nos EUA",
-        "link": "https://www.infomoney.com.br/business/global/meta-e-condenada-a-pagar-us-567-milhoes-em-acao-sobre-seguranca-infantil-nos-eua/",
-        "summary": "A penalidade, imposta por um juiz estadual, soma-se à multa de US$ 375 milhões determinada por um júri, que concluiu que a Meta enganou os usuários sobre a segurança de suas plataformas The post Meta é condenada a pagar ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-09T140212Z_675657321_RC28DLALPRDQ_RTRMADP_3_META-PLATFORMS-AI-MODEL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Por que a eleição de 2026 pode repetir um fenômeno visto em 2014",
+        "link": "https://www.infomoney.com.br/politica/por-que-a-eleicao-de-2026-pode-repetir-um-fenomeno-visto-em-2014/",
+        "summary": "Para Renato Meirelles, eleitor quer mudança, mas ainda não encontrou uma alternativa que represente essa vontade The post Por que a eleição de 2026 pode repetir um fenômeno visto em 2014 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-07-011712.png?fit=300%2C168&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Real perde espaço para peso colombiano como principal aposta em carry trade",
-        "link": "https://www.infomoney.com.br/mercados/real-perde-espaco-para-peso-colombiano-como-principal-aposta-em-carry-trade/",
-        "summary": "Moeda da Colômbia acumula alta de 19% em 2026 e ignora medidas do banco central para conter valorização; estrategistas dizem que riscos políticos reduzem atratividade do real The post Real perde espaço para peso colombia",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463074286.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Futuros dos EUA operam sem direção única antes do payroll de julho",
+        "link": "https://www.infomoney.com.br/mercados/futuros-dos-eua-operam-sem-direcao-unica-antes-do-payroll-de-julho/",
+        "summary": "Consenso prevê criação de 83 mil vagas em julho; dado pode influenciar expectativas para os próximos passos do Fed The post Futuros dos EUA operam sem direção única antes do payroll de julho appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-12T144116Z_1_LYNXNPEK3B0M4_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Houthis matam ao menos 30 em ataque no Iêmen e atingem território da Arábia Saudita",
-        "link": "https://www.infomoney.com.br/mundo/houthis-matam-ao-menos-30-em-ataque-no-iemen-e-atingem-territorio-da-arabia-saudita/",
-        "summary": "Ofensiva contra forças apoiadas por Riad e bombardeio na região saudita de Najran elevam temor de que o conflito envolvendo EUA, Israel e Irã se espalhe pelo Oriente Médio. The post Houthis matam ao menos 30 em ataque no",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463084900.jpg?fit=300%2C187&amp;quality=70&amp;strip=all",
+        "title": "Escala 6 1 ou maioridade penal: disputa pela agenda pode definir a eleição",
+        "link": "https://www.infomoney.com.br/politica/escala-6x1-ou-maioridade-penal-disputa-pela-agenda-pode-definir-a-eleicao/",
+        "summary": "Para Renato Meirelles, fundador do Instituto Locomotiva, quem conseguir impor os temas centrais da campanha terá vantagem na corrida presidencial The post Escala 6 1 ou maioridade penal: disputa pela agenda pode definir ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/imagem-7.png?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "IA cria vírus inéditos na natureza pela primeira vez",
-        "link": "https://www.infomoney.com.br/business/global/ia-cria-virus-ineditos-na-natureza-pela-primeira-vez/",
-        "summary": "Cientistas treinaram um modelo de inteligência artificial com vastos bancos de dados de DNA e, depois, pediram que ele criasse \"receitas\" para novos genomas virais. Das sequências geradas, 16 se mostraram viáveis, dando ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/AI-VIRUS-CREATION-1.jpg?fit=300%2C289&amp;quality=70&amp;strip=all",
+        "title": "Regras fiscais ruíram e Brasil caminha para crise em 2027 sem reformas, alerta UBS",
+        "link": "https://www.infomoney.com.br/economia/crise-fiscal-2027-divida-pib-ubs/",
+        "summary": "Para Solange Srour, diretora de macroeconomia para o Brasil no UBS Global Wealth Management, mais importante do que mudar o arcabouço é trazer políticas que façam a regra ser factível. The post Regras fiscais ruíram e Br",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Solange-Srour.jpg?fit=300%2C181&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Trump assina decreto para combater turismo de cidadania por nascimento",
-        "link": "https://www.infomoney.com.br/mundo/trump-assina-decreto-para-combater-turismo-de-cidadania-por-nascimento/",
-        "summary": "A Suprema Corte anulou, há pouco mais de um mês, um decreto que suprimia o direito de solo para filhos de imigrantes em situação irregular, mas Trump garantiu que essa nova tentativa será um \"ajuste\" a esse direito The p",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T222420Z_1_LYNXMPEM751X7_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "O agro quebra mais que qualquer outro setor — e não é por causa da safra",
+        "link": "https://www.infomoney.com.br/minhas-financas/o-agro-quebra-mais-que-qualquer-outro-setor-e-nao-e-por-causa-da-safra/",
+        "summary": "Juros altos, crédito restrito e oscilação dos preços das commodities pressionam o setor produtivo; no geral, número de empresas em recuperação continua em patamar recorde, diz estudo The post O agro quebra mais que qualq",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-10T122341Z_1_LYNXMPEL190FZ_RTROPTP_4_COMMODS-SOJA-AGRURAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Jogos de hoje: horário e onde assistir aos duelos desta sexta-feira, 7",
+        "link": "https://exame.com/esporte/jogos-de-hoje-horario-e-onde-assistir-aos-duelos-desta-sexta-feira-7/",
+        "summary": "Série B do Brasileirão, Leagues Cup e Campeonato Brasileiro Feminino são os destaques da programação. Confira os horários e onde assistir aos jogos do dia",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja o calendário de shows internacionais no Brasil até o final de 2026",
+        "link": "https://exame.com/pop/veja-o-calendario-de-shows-internacionais-no-brasil-ate-o-final-de-2026/",
+        "summary": "BTS, Rosalía, Ed Sheeran, Robbie Williams e outros artistas já têm apresentações marcadas no país nos próximos meses",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "LLMO: por que empresas estão aprendendo a aparecer no ChatGPT em vez de disputar o Google",
+        "link": "https://exame.com/inteligencia-artificial/llmo-por-que-empresas-estao-aprendendo-a-aparecer-no-chatgpt-em-vez-de-disputar-o-google/",
+        "summary": "A busca por visibilidade na internet está mudando. Com o crescimento de ferramentas como ChatGPT, Gemini, Claude e Perplexity, marcas começam a adaptar seus conteúdos para aumentar as chances de serem citadas pelas intel",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "'Silo': que horas estreia o sexto episódio da 3ª temporada na Apple TV?",
@@ -390,36 +420,6 @@
         "title": "Kit Connor na Marvel? Entenda os rumores sobre o novo Ciclope dos X-Men",
         "link": "https://exame.com/pop/kit-connor-na-marvel-entenda-os-rumores-sobre-o-novo-ciclope-dos-x-men/",
         "summary": "Conhecido por seu papel em \"Heartstopper\", ator teria sido escolhido pela Marvel Studios para interpretar Scott Summers no reboot dos X-Men, segundo o Deadline",
-        "image": null,
-        "date": "06 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Globo define os próximos passos de Ana Paula Renault na TV após o BBB 26",
-        "link": "https://exame.com/pop/globo-define-os-proximos-passos-de-ana-paula-renault-na-tv-apos-o-bbb-26/",
-        "summary": "Jornalista renovou o contrato com a emissora e passa a integrar o casting da ViU após vencer o reality show",
-        "image": null,
-        "date": "06 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que Jamie Tartt saiu do Richmond? 'Ted Lasso' revela destino do personagem",
-        "link": "https://exame.com/pop/por-que-jamie-tartt-saiu-do-richmond-ted-lasso-revela-destino-do-personagem/",
-        "summary": "Estreia da nova temporada esclarece o futuro de Jamie Tartt enquanto Ted assume o comando da equipe feminina do Richmond",
-        "image": null,
-        "date": "06 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Urtigas ou Rhaena? Entenda a grande mudança de 'A Casa do Dragão' no arco de Roubovelhas",
-        "link": "https://exame.com/pop/urtigas-ou-rhaena-entenda-a-grande-mudanca-de-a-casa-do-dragao-no-arco-de-roubovelhas/",
-        "summary": "Ryan Condal explicou por que a adaptação entregou Roubovelhas a Rhaena e revelou como a mudança transforma o destino da personagem",
         "image": null,
         "date": "06 de ago. de 2026",
         "source": "Exame",
