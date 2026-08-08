@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-08T05:01:20.095Z",
+  "updated": "2026-08-08T06:59:46.252Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Comandante do voo 2283 foi promovido sem experiência mínima e 'coaptado' para omitir panes, diz PF",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/comandante-do-voo-2283-foi-promovido-sem-experiencia-minima-e-coaptado-para-omitir-panes-diz-pf.ghtml",
+        "summary": "Voepass: entenda cadeia de responsabilidades que levou PF a indiciar 16 pessoas O relatório final da Polícia Federal sobre a queda do avião da Voepass, que matou 62 pessoas em Vinhedo (SP) em 2024, aponta que o comandant",
+        "image": "https://s2-g1.glbimg.com/EpkCysa9UpgT2J-t2nPKU45ZEQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Y/6/8MOVBkQx2B5JcKOjGO4A/000-36cv9vd.jpg",
+        "date": "08 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Indiciado por queda de avião, dono da Voepass admite à PF que sabia de omissão de panes e que foi alertado pela Anac",
         "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/08/indiciado-por-queda-de-aviao-dono-da-voepass-admite-a-pf-que-sabia-de-omissao-de-panes-e-que-foi-alertado-pela-anac.ghtml",
@@ -53,14 +63,64 @@
         "cls": "brasil"
       },
       {
-        "title": "Grupo armado invade loja, tranca comerciante em cômodo e rouba mercadorias em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/grupo-armado-invade-loja-tranca-comerciante-em-comodo-e-rouba-mercadorias-em-americana.ghtml",
-        "summary": "Grupo armado invade loja, tranca comerciante em cômodo e rouba mercadorias em Americana Quatro assaltantes renderam o dono de uma loja e roubaram o estabelecimento na noite desta quinta-feira (6), no bairro Jardim Mário ",
-        "image": "https://s2-g1.glbimg.com/B7pW3WCPjwr5WQ9sfA8ddfAAXw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/w/ppCDq8Q2SNA5rHXB41OA/design-sem-nome-2026-08-07t150817.957.jpg",
+        "title": "Cabine Lilás: Polícia Militar amplia apoio e proteção às mulheres vítimas de violência",
+        "link": "https://jornalamericanense.com.br/policia/cabine-lilas-policia-militar-amplia-apoio-e-protecao-as-mulheres-vitimas-de-violencia/",
+        "summary": "Programa da Polícia Militar oferece atendimento especializado e acolhimento às vítimas; somente na área do CPI-9, mais de 4 mil ocorrências foram registradas desde a implantação da iniciativa Em referência ao Agosto Lilá",
+        "image": null,
         "date": "07 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Homem é preso em flagrante por tráfico de drogas em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/policia/homem-e-preso-em-flagrante-por-trafico-de-drogas-em-santa-barbara-doeste/",
+        "summary": "Abordagem da Força Tática ocorreu no Conjunto Habitacional dos Trabalhadores; policiais apreenderam crack, cocaína e dinheiro Um homem de 22 anos foi preso em flagrante por tráfico de drogas na tarde desta quinta-feira (",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festival de música autoral de Americana terá shows de Ana Cañas e da Orquestra Sinfônica neste fim de semana",
+        "link": "https://jornalamericanense.com.br/cultura/festival-de-musica-autoral-de-americana-tera-shows-de-ana-canas-e-da-orquestra-sinfonica-neste-fim-de-semana/",
+        "summary": "A primeira edição do Festival de Música de Americana (FEMAM) ocorre neste sábado (8) e domingo (9), na Praça Comendador Müller, no Centro, com uma programação que une peso nacional e valorização da cena local. No sábado,",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura de Americana aplica agente biológico para controle do carrapato-estrela em áreas de risco",
+        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-aplica-agente-biologico-para-controle-do-carrapato-estrela-em-areas-de-risco/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Meio Ambiente, realiza a aplicação de metarriso (nome científico Metarhizium), fungo usado para o controle do carrapato-estrela, transmissor da febre maculosa, em área",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana consolida resultados positivos em índice de Educação",
+        "link": "https://jornalamericanense.com.br/cidades/americana-consolida-resultados-positivos-em-indice-de-educacao/",
+        "summary": "Americana consolidou sua posição de destaque nos resultados do Índice de Desenvolvimento da Educação Básica (ldeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (MEC) e Instituto Nacional de Estudos",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Roteiro Gastronômico tem estabelecimentos definidos para edição de 2026",
+        "link": "https://jornalamericanense.com.br/gastronomia/roteiro-gastronomico-tem-estabelecimentos-definidos-para-edicao-de-2026/",
+        "summary": "Os 40 estabelecimentos de alimentação participantes da edição de 2026 do Roteiro Gastronômico, realizado pela Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, foram definidos. O evento vai reunir opç",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "AGU se reúne com Discord e cobra proteção de crianças na plataforma",
