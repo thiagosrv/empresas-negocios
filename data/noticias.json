@@ -1,12 +1,22 @@
 {
-  "updated": "2026-08-08T22:33:14.205Z",
+  "updated": "2026-08-08T23:32:41.919Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Eleitores com nome social crescem 32% em Campinas: 'Exercendo o meu direito'",
+        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/08/eleitores-com-nome-social-crescem-32percent-em-campinas-exercendo-o-meu-direito.ghtml",
+        "summary": "Campinas tem alta de 32% em eleitores com nome social no título em 2026 O número de eleitores que vão usar o nome social nas eleições de outubro cresceu 32% em Campinas (SP), passando de 308 em 2022 para 407 neste ano. N",
+        "image": "https://s2-g1.glbimg.com/GdMvlYdHxmMD3NvS3Hf_nCdFvEY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/9/9DpgU1Qd6aBbChIbtzvQ/e2-0808-nome-social-ele-cp004dr8-2026-08-08-18-39-19.mxf-snapshot-00.27.778.jpg",
+        "date": "08 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vítima de feminicídio em Valinhos denunciou plano do marido há quatro meses",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/vitima-de-feminicidio-em-valinhos-denunciou-plano-do-marido-ha-quatro-meses.ghtml",
+        "summary": "Homem mata mulher a facadas em Valinhos; vítima já teve medida protetiva contra o marido A vendedora Eliane do Carmo Pereira, de 42 anos, morta a facadas pelo marido em Valinhos (SP), havia registrado um boletim de ocorr",
+        "image": "https://s2-g1.glbimg.com/o54oDm8t-TTdEXgJHEWhgxFMOD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/6/w6DQFGRoiBo6dTwyrsJw/eptv1-0808-foto-vitima-cp004dqu-2026-08-08-12-29-19.mxf-snapshot-00.00.931.jpg",
         "date": "08 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -53,13 +63,73 @@
         "cls": "brasil"
       },
       {
-        "title": "Homem morre após ser baleado pela PM no Jardim Morumbi, em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/homem-morre-apos-ser-baleado-pela-pm-no-jardim-morumbi-em-campinas.ghtml",
-        "summary": "Homem morre após ser baleado pela PM no Jardim Morumbi, em Campinas Um homem morreu após ser baleado pela Polícia Militar (PM) no Jardim Morumbi, em Campinas, no fim da noite de sexta-feira (7). Segundo a PM, a abordagem",
-        "image": "https://s2-g1.glbimg.com/Eo6Ihr3mq9Ca0r7OGT6acgWCYOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/c/KiJI54TdeKI55l5MgAqQ/baep-4-.jpeg",
+        "title": "Cabine Lilás: Polícia Militar amplia apoio e proteção às mulheres vítimas de violência",
+        "link": "https://jornalamericanense.com.br/policia/cabine-lilas-policia-militar-amplia-apoio-e-protecao-as-mulheres-vitimas-de-violencia/",
+        "summary": "Programa da Polícia Militar oferece atendimento especializado e acolhimento às vítimas; somente na área do CPI-9, mais de 4 mil ocorrências foram registradas desde a implantação da iniciativa Em referência ao Agosto Lilá",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Homem é preso em flagrante por tráfico de drogas em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/policia/homem-e-preso-em-flagrante-por-trafico-de-drogas-em-santa-barbara-doeste/",
+        "summary": "Abordagem da Força Tática ocorreu no Conjunto Habitacional dos Trabalhadores; policiais apreenderam crack, cocaína e dinheiro Um homem de 22 anos foi preso em flagrante por tráfico de drogas na tarde desta quinta-feira (",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festival de música autoral de Americana terá shows de Ana Cañas e da Orquestra Sinfônica neste fim de semana",
+        "link": "https://jornalamericanense.com.br/cultura/festival-de-musica-autoral-de-americana-tera-shows-de-ana-canas-e-da-orquestra-sinfonica-neste-fim-de-semana/",
+        "summary": "A primeira edição do Festival de Música de Americana (FEMAM) ocorre neste sábado (8) e domingo (9), na Praça Comendador Müller, no Centro, com uma programação que une peso nacional e valorização da cena local. No sábado,",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura de Americana aplica agente biológico para controle do carrapato-estrela em áreas de risco",
+        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-aplica-agente-biologico-para-controle-do-carrapato-estrela-em-areas-de-risco/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Meio Ambiente, realiza a aplicação de metarriso (nome científico Metarhizium), fungo usado para o controle do carrapato-estrela, transmissor da febre maculosa, em área",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana consolida resultados positivos em índice de Educação",
+        "link": "https://jornalamericanense.com.br/cidades/americana-consolida-resultados-positivos-em-indice-de-educacao/",
+        "summary": "Americana consolidou sua posição de destaque nos resultados do Índice de Desenvolvimento da Educação Básica (ldeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (MEC) e Instituto Nacional de Estudos",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Roteiro Gastronômico tem estabelecimentos definidos para edição de 2026",
+        "link": "https://jornalamericanense.com.br/gastronomia/roteiro-gastronomico-tem-estabelecimentos-definidos-para-edicao-de-2026/",
+        "summary": "Os 40 estabelecimentos de alimentação participantes da edição de 2026 do Roteiro Gastronômico, realizado pela Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, foram definidos. O evento vai reunir opç",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Colombianas que morreram na queda de helicóptero eram avó, mãe e filha",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -111,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Grande Muralha Verde restaura 1,66 milhão de hectares na África",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-muralha-verde-restaura-166-milhao-de-hectares",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-muralha-verde-restaura-166-milhao-de-hectares img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Dorival cita frustração com derrota e alerta para erros reincidentes do São Paulo: Nos preocupa",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-cita-frustracao-com-derrota-e-alerta-para-erros-reincidentes-do-sao-paulo-nos-preocupa/",
-        "summary": "Confira a entrevista do técnico Dorival Júnior após a derrota do São Paulo por 2 a 1 para o Grêmio neste sábado, fora de casa, pelo Brasileiro. O post Dorival cita frustração com derrota e alerta para erros reincidentes ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55448787864_d6bc7c7f5d_o.webp",
+        "title": "Atlético-MG cede empate ao Remo e perde chance de colar no G5 do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-empata-com-remo-e-perde-chance-de-se-aproximar-do-g5/",
+        "summary": "Atlético-MG empata em 2 a 2 com o Remo no Mangueirão pela 22ª rodada do Brasileirão, após abrir vantagem no primeiro tempo. O post Atlético-MG cede empate ao Remo e perde chance de colar no G5 do Brasileiro apareceu prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55451122481_b68ac708cf_k.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Swiatek vence Kostyuk de virada e avança às quartas do WTA 1000 de Toronto",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/swiatek-vence-kostyuk-de-virada-e-avanca-as-quartas-do-wta-1000-de-toronto/",
-        "summary": "Iga Swiatek voltou a mostrar sua capacidade de reação neste sábado (8), em Toronto. A polonesa, sétima cabeça de chave, venceu de virada a ucraniana Marta Kostyuk, com parciais de 3-6, 6-1 e 6-2, e avançou às quartas de ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260808__2289623523__v1__HighRes__Wta1000NationalBankOpenPresentedByRogers2026.webp",
+        "title": "Santos faz mudanças após saídas e inscreve dupla na Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-faz-mudancas-apos-saidas-e-inscreve-dupla-na-sul-americana/",
+        "summary": "O Santos promoveu mudanças na lista de inscritos para a Copa Sul-Americana e incluiu João Paulo e Gustavo Caballero. A dupla já fica à disposição de Cuca para as oitavas de final contra o Macará. O post Santos faz mudanç",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55415911898_ba1aaf7a0c_3k.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Grêmio 2 x 1 São Paulo pelo Brasileiro",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-gremio-2-x-1-sao-paulo-pelo-brasileiro/",
-        "summary": "Melhores momentos: Grêmio 2 x 1 São Paulo pelo Brasileiro O post Melhores momentos: Grêmio 2 x 1 São Paulo pelo Brasileiro apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Gremio-2-x-1-Sao.webp",
+        "title": "Ex-Santos, Guilherme Santos marca e Houston Dynamo FC vence o New England Revolution; veja gol",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ex-santos-guilherme-santos-marca-e-houston-dynamo-fc-vence-o-new-england-revolution-veja-gol/",
+        "summary": "Ex-Santos, Guilherme Santos marca e Houston Dynamo FC vence o New England Revolution; veja gol O post Ex-Santos, Guilherme Santos marca e Houston Dynamo FC vence o New England Revolution; veja gol apareceu primeiro em Ga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/irtunaov-1920Guilherme-Santos.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Barcelona bate Forest com gol de Raphinha, mas perde da Udinese e fica com vice em triangular",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-bate-forest-com-gol-de-raphinha-mas-perde-da-udinese-e-fica-com-vice-em-triangular/",
-        "summary": "Barcelona bateu o Nottingham Forest por 1 a 0, com gol de Raphinha, mas perdeu para a Udinese no último minuto e terminou como vice-campeão da Copa Friuli Venezia Giulia. O post Barcelona bate Forest com gol de Raphinha,",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/03/AFP__20260315__A3CE6F9__v1__HighRes__FblEspLigaBarcelonaSevilla.webp",
+        "title": "Melhores momentos: New England Revolution 0 x 2 Houston Dynamo FC pelo MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-new-england-revolution-0-x-2-houston-dynamo-fc-pelo-mls/",
+        "summary": "Melhores momentos: New England Revolution 0 x 2 Houston Dynamo FC pelo MLS O post Melhores momentos: New England Revolution 0 x 2 Houston Dynamo FC pelo MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Revolution-0-x-2-Houston.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Herói do Grêmio, Pavón revela estratégia em gol de falta e comemora vitória",
-        "link": "https://www.gazetaesportiva.com/times/gremio/pavon-encerra-jejum-revela-estrategia-e-comemora-vitoria-gremio-sao-paulo/",
-        "summary": "Autor do gol da virada do Grêmio sobre o São Paulo, Pavón comemorou o fim do jejum e revelou a estratégia usada na cobrança de falta. O post Herói do Grêmio, Pavón revela estratégia em gol de falta e comemora vitória apa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55451108533_26e29d459f_o.webp",
+        "title": "Santos x Athletico-PR pelo Brasileirão: onde assistir ao vivo, estatísticas e prováveis escalações",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/santos-x-athletico-pr-onde-assistir-estatisticas-escalacoes/",
+        "summary": "Santos recebe o Athletico-PR neste domingo, às 18h30, na Vila Belmiro, pela 22ª rodada do Brasileirão. Veja onde assistir, estatísticas, prováveis escalações, retrospecto e arbitragem. O post Santos x Athletico-PR pelo B",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55093397294_f2e84f717c_3k.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Simeone reafirma que decisão sobre Julián Álvarez já foi tomada",
-        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/simeone-reafirma-que-decisao-sobre-julian-alvarez-ja-foi-tomada/",
-        "summary": "O técnico do Atlético de Madrid, Diego Simeone, reforçou neste sábado a postura do clube de não liberar o atacante Julián Álvarez, assegurando que \"a instituição tomou uma decisão\". O post Simeone reafirma que decisão so",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260418__A8AX9HR__v3__MidRes__TopshotFblEspCupAtleticoMadridRealSociedad.webp",
+        "title": "Flamengo x Vitória pelo Brasileirão: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-vitoria-pelo-brasileirao-veja-provaveis-escalacoes-e-onde-assistir/",
+        "summary": "Flamengo x Vitória se enfrentam pela 22ª rodada do Brasileirão. Veja onde assistir, horário, prováveis escalações e arbitragem do duelo. O post Flamengo x Vitória pelo Brasileirão: veja prováveis escalações e onde assist",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/55212676893_279ab2543c_o.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Taylor Swift remove música usada em vídeo pela equipe de Trump",
+        "link": "https://www.infomoney.com.br/mundo/taylor-swift-remove-musica-usada-em-video-pela-equipe-de-trump/",
+        "summary": "Post da equipe de Trump desagradou a cantora que pediu para que trecho de sua música fosse removida de vídeo no TikTok The post Taylor Swift remove música usada em vídeo pela equipe de Trump appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/montagem-infomoney-2.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Queda de helicóptero no RJ: o que se sabe sobre as vítimas e o acidente",
+        "link": "https://www.infomoney.com.br/brasil/queda-de-helicoptero-no-rj-o-que-se-sabe-sobre-as-vitimas-e-o-acidente/",
+        "summary": "O passeio das vítimas, que eram avó, mãe e filha, teria duração aproximada de 20 minutos e passaria pela região da Floresta da Tijuca. E o valor foi R$ 2.550 The post Queda de helicóptero no RJ: o que se sabe sobre as ví",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/vista-chinesa.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Lula e Flávio Bolsonaro miram voto feminino em SP; presidente critica Faria Lima",
         "link": "https://www.infomoney.com.br/politica/lula-e-flavio-bolsonaro-miram-voto-feminino-em-sp-presidente-critica-faria-lima/",
         "summary": "O período oficial de campanha, quando os candidatos poderão pedir votos, começa em 16 de agosto The post Lula e Flávio Bolsonaro miram voto feminino em SP; presidente critica Faria Lima appeared first on InfoMoney.",
@@ -281,26 +361,6 @@
         "link": "https://www.infomoney.com.br/mundo/ataque-com-explosivos-e-registrado-um-dia-apos-a-posse-do-novo-presidente-da-colombia/",
         "summary": "A informação foi divulgada pelo exército colombiano neste sábado, 8 The post Ataque com explosivos é registrado um dia após a posse do novo presidente da Colômbia appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-07T221138Z_1641111850_RC2WTMA8ZHCT_RTRMADP_3_COLOMBIA-POLITICS.jpg?fit=300%2C227&amp;quality=70&amp;strip=all",
-        "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Irã: Estreito de Ormuz não será aberto até que os EUA corrijam seu comportamento",
-        "link": "https://www.infomoney.com.br/mundo/ira-estreito-de-ormuz-nao-sera-aberto-ate-que-os-eua-corrijam-seu-comportamento/",
-        "summary": "A emissora estatal do Irã publicou a declaração do secretário do conselho, Mohammad Bagher Zolghadr, que também é comandante da Guarda Revolucionária The post Irã: Estreito de Ormuz não será aberto até que os EUA corrija",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-24T193633Z_1_LYNXMPEM5N1FC_RTROPTP_4_IRAN-CRISIS-CHINA-REFINERIES-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "João Fonseca x Ben Shelton: onde assistir o Masters de Montreal?",
-        "link": "https://www.infomoney.com.br/esportes/joao-fonseca-x-ben-shelton-onde-assistir-o-masters-de-montreal/",
-        "summary": "O jogo será a segunda vez que Fonseca e Shelton se enfrentarão. No primeiro jogo, o americano levou a melhor The post João Fonseca x Ben Shelton: onde assistir o Masters de Montreal? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260725-13h20-expert-session-4.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "08 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
