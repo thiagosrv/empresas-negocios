@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-08T20:34:53.200Z",
+  "updated": "2026-08-08T21:34:24.466Z",
   "feeds": {
     "campinas": [
       {
-        "title": "VÍDEO: dezenas de peixes aparecem mortos em rio de Lindóia; Cetesb faz vistoria",
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "08 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "VÍDEO: peixes aparecem mortos em rio de Lindóia; Cetesb descarta lançamento irregular",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/video-dezenas-de-peixes-aparecem-mortos-em-rio-de-lindoia-cetesb-faz-vistoria.ghtml",
         "summary": "Peixes aparecem mortos em rio de Lindóia; Cetesb faz vistoria Dezenas de peixes foram encontrados mortos no Rio do Peixe, perto da rodovia BR-146, em Lindóia (SP), neste sábado (8). Vídeos e fotos feitos por moradores mo",
         "image": "https://s2-g1.glbimg.com/YyRY8sjEDD4wWeg-foQMVqRI4bQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/eCcG12T7ipjom3PhdX1Q/1200px-x-800px.png",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/homem-morre-apos-ser-baleado-pela-pm-no-jardim-morumbi-em-campinas.ghtml",
         "summary": "Homem morre após ser baleado pela PM no Jardim Morumbi, em Campinas Um homem morreu após ser baleado pela Polícia Militar (PM) no Jardim Morumbi, em Campinas, no fim da noite de sexta-feira (7). Segundo a PM, a abordagem",
         "image": "https://s2-g1.glbimg.com/Eo6Ihr3mq9Ca0r7OGT6acgWCYOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/c/KiJI54TdeKI55l5MgAqQ/baep-4-.jpeg",
-        "date": "08 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ônibus bate em poste em Campinas após derrapar em pista molhada, diz Emdec",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/onibus-bate-em-poste-em-campinas-apos-derrapar-em-pista-molhada-diz-emdec.ghtml",
-        "summary": "Ônibus bate em poste em Campinas após derrapar em pista molhada, diz Emdec Um ônibus do transporte público de Campinas, da linha 316 (Parque Cidade), bateu contra um poste na madrugada deste sábado (8), no bairro Santa M",
-        "image": "https://s2-g1.glbimg.com/EWFwQnc8g3lAR2Tq8YVR-eu6O1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/i/BBZEyaSuiNIYs8KkBqnw/design-sem-nome-2026-08-08t100438.451.jpg",
         "date": "08 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Mega-Sena sorteia prêmio acumulado de R$ 165 milhões neste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-165-milhoes-neste-domingo-0",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-165-milhoes-neste-domingo-0 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "08 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Cientistas recorrem aos tubarões para melhorar previsão sobre furacões",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/cientistas-recorrem-aos-tubaroes-para-melhorar-previsao-sobre-furacoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/cientistas-recorrem-aos-tubaroes-para-melhorar-previsao-sobre-furacoes img src= https://cdn.jsdelivr.net/gh/serg",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Lula quer mostrar a Trump números de queda do desmatamento na Amazônia",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-quer-mostrar-trump-numeros-de-queda-do-desmatamento-na-amazonia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-quer-mostrar-trump-numeros-de-queda-do-desmatamento-na-amazonia img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Estrela Amadora x Sporting: veja fotos do jogo pelo Português",
-        "link": "https://www.gazetaesportiva.com/times/sporting-por/estrela-amadora-x-sporting-veja-fotos-do-jogo-pelo-portugues/",
-        "summary": "O post Estrela Amadora x Sporting: veja fotos do jogo pelo Português apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260808__C49L6DU__v1__HighRes__FblPorLigaEstrelaSporting.webp",
+        "title": "Simeone reafirma que decisão sobre Julián Álvarez já foi tomada",
+        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/simeone-reafirma-que-decisao-sobre-julian-alvarez-ja-foi-tomada/",
+        "summary": "O técnico do Atlético de Madrid, Diego Simeone, reforçou neste sábado a postura do clube de não liberar o atacante Julián Álvarez, assegurando que \"a instituição tomou uma decisão\". O post Simeone reafirma que decisão so",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260418__A8AX9HR__v3__MidRes__TopshotFblEspCupAtleticoMadridRealSociedad.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos encerra preparação para enfrentar o Athletico-PR; veja provável escalação",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-encerra-preparacao-athletico-pr-provavel-escalacao/",
-        "summary": "Santos realizou o último treino antes de enfrentar o Athletico-PR, neste domingo, na Vila Belmiro. Cuca ainda tem dúvidas na escalação, enquanto Neymar é desfalque por suspensão. O post Santos encerra preparação para enf",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55449539237_2e11b55d22_3k-1.webp",
+        "title": "Sporting sofre gol no fim e só empata com o Estrela Amadora na estreia do Português",
+        "link": "https://www.gazetaesportiva.com/times/sporting-por/sporting-sofre-gol-no-fim-e-so-empata-com-o-estrela-amadora-na-estreia-do-portugues/",
+        "summary": "Neste sábado, com gol no fim, o Sporting ficou no empate com o Estrela Amadora por 2 a 2, no Estádio José Gomes, na Amadora, pela primeira rodada do Campeonato Português. Rodrigo Zalazar e Fotis Ioannidis anotaram os gol",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260808__C49K9N6__v1__HighRes__FblPorLigaEstrelaSporting.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians goleia a Ferroviária e garante vaga na próxima fase do Paulista sub-20",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-goleia-ferroviaria-garante-classificacao-paulistao-sub-20/",
-        "summary": "O Corinthians goleou a Ferroviária por 4 a 0 neste sábado, no Estádio Bruno José Daniel, pela nona rodada do Campeonato Paulista Sub-20. Com dois gols de Bahia e tentos de Pedro Thomas e Christian Oliveira, o Timão confi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247288-1.webp",
+        "title": "Marcos Antonio desabafa e pede desculpas à torcida do São Paulo após derrota: É lamentável",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/marcos-antonio-admite-ma-fase-do-sao-paulo-e-pede-desculpas-a-torcida-apos-derrota-e-lamentavel/",
+        "summary": "Marcos Antonio fez apelo à torcida após a derrota do São Paulo para o Grêmio neste sábado e disse crer na volta por cima do Tricolor. Veja a entrevista do meio-campista. O post Marcos Antonio desabafa e pede desculpas à ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55451156834_6aa79df866_o.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do último treino do Santos antes de enfrentar o Athletico-PR",
-        "link": "https://www.gazetaesportiva.com/times/santos/ultimo-treino-santos-athletico-pr-fotos/",
-        "summary": "Santos realizou o último treino antes de enfrentar o Athletico-PR, pela 22ª rodada do Campeonato Brasileiro. Veja fotos da atividade no CT Rei Pelé. O post Veja fotos do último treino do Santos antes de enfrentar o Athle",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55450628693_b6f26ab24e_3k.webp",
+        "title": "São Paulo toma virada do Grêmio e amarga oitavo jogo de jejum no Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-toma-virada-do-gremio-e-amarga-oitavo-jogo-de-jejum-no-brasileiro/",
+        "summary": "O São Paulo amargou o oitavo jogo de jejum no Brasileiro ao perder para o Grêmio de virada, por 2 a 1, na Arena do Grêmio, pela 22ª rodada. Veja como foi o duelo. O post São Paulo toma virada do Grêmio e amarga oitavo jo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55451159939_32ec2e0e9e_o.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Luciano completa 350 jogos pelo São Paulo em partida contra o Grêmio",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/luciano-completa-350-jogos-pelo-sao-paulo-em-partida-contra-o-gremio/",
-        "summary": "Atacante foi titular na partida contra o Grêmio, neste sábado, em Porto Alegre (RS), e atingiu a importante marca com a camisa do São Paulo. O post Luciano completa 350 jogos pelo São Paulo em partida contra o Grêmio apa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPOEFd5XcAAEJJh.webp",
+        "title": "Palmeiras empata com a Ferroviária e perde chance de colar na ponta do Brasileiro feminino",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-empata-com-a-ferroviaria-e-perde-chance-de-colar-na-ponta-do-brasileiro-feminino/",
+        "summary": "Neste sábado, o Palmeiras ficou no empate sem gols com a Ferroviária, na Arena Fonte Luminosa, em Araraquara, pela 15ª rodada do Campeonato Brasileiro feminino e perdeu a oportunidade de colar no líder Corinthians. O pos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HOzSpFZWEAAa-LL-1.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cruzeiro lança novo terceiro uniforme para 2026; assista aos bastidores da revelação",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/cruzeiro-lanca-novo-terceiro-uniforme-para-2026-assista-aos-bastidores-da-revelacao/",
-        "summary": "O Cruzeiro apresentou oficialmente sua nova terceira camisa para a temporada de 2026. Confira os bastidores do lançamento, os detalhes do novo manto celeste e a reação dos jogadores na apresentação do uniforme. O post Cr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/da-revelacao.webp",
+        "title": "Sport vence o Vila Nova fora de casa e encerra jejum na Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-vence-vila-nova-e-encerra-jejum-na-serie-b/",
+        "summary": "O Sport encerrou uma sequência de nove partidas sem vencer ao derrotar o Vila Nova por 1 a 0 neste sábado, no Estádio Onésio Brasileiro Alvarenga, pela 21ª rodada da Série B do Campeonato Brasileiro. O gol da vitória foi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55451382140_1d8c3fef23_k.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Irã: Estreito de Ormuz não será aberto até que os EUA corrijam seu comportamento",
+        "link": "https://www.infomoney.com.br/mundo/ira-estreito-de-ormuz-nao-sera-aberto-ate-que-os-eua-corrijam-seu-comportamento/",
+        "summary": "A emissora estatal do Irã publicou a declaração do secretário do conselho, Mohammad Bagher Zolghadr, que também é comandante da Guarda Revolucionária The post Irã: Estreito de Ormuz não será aberto até que os EUA corrija",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-24T193633Z_1_LYNXMPEM5N1FC_RTROPTP_4_IRAN-CRISIS-CHINA-REFINERIES-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "João Fonseca x Ben Shelton: onde assistir o Masters de Montreal?",
         "link": "https://www.infomoney.com.br/esportes/joao-fonseca-x-ben-shelton-onde-assistir-o-masters-de-montreal/",
         "summary": "O jogo será a segunda vez que Fonseca e Shelton se enfrentarão. No primeiro jogo, o americano levou a melhor The post João Fonseca x Ben Shelton: onde assistir o Masters de Montreal? appeared first on InfoMoney.",
@@ -319,7 +329,7 @@
       {
         "title": "Quatro morrem em queda de helicóptero na Vista Chinesa, no Rio",
         "link": "https://www.infomoney.com.br/brasil/quatro-morrem-em-queda-de-helicoptero-na-vista-chinesa-no-rio/",
-        "summary": "ntre as vítimas está um piloto com 20 anos de experiência; três passageiras seriam turistas colombianas que visitavam a cidade The post Quatro morrem em queda de helicóptero na Vista Chinesa, no Rio appeared first on Inf",
+        "summary": "Entre as vítimas está um piloto com 20 anos de experiência; três passageiras seriam turistas colombianas que visitavam a cidade The post Quatro morrem em queda de helicóptero na Vista Chinesa, no Rio appeared first on In",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/vista-chinesa.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
         "date": "08 de ago. de 2026",
         "source": "InfoMoney",
@@ -357,14 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Lula admite baixa adesão ao Move Brasil e critica bancos por travas no crédito",
-        "link": "https://www.infomoney.com.br/politica/lula-admite-baixa-adesao-ao-move-brasil-e-critica-bancos-por-travas-no-credito/",
-        "summary": "Presidente diz que exigências para liberação de crédito dificultam financiamento de veículos a motoristas e entregadores de aplicativo The post Lula admite baixa adesão ao Move Brasil e critica bancos por travas no crédi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/lula-presidente-politica-pt-retrato-brasil02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "João Fonseca tem revanche contra Shelton no Masters de Montreal; veja quando",
+        "link": "https://exame.com/esporte/joao-fonseca-tem-revanche-contra-shelton-no-masters-de-montreal-veja-quando/",
+        "summary": "Brasileiro enfrenta o americano pela segunda vez em 2026, agora nas oitavas de final do Masters 1000 de Montreal",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "CEO do Assaí alerta para bets e juros: ‘Não era para estarmos nesse nível de endividamento’",
@@ -410,16 +420,6 @@
         "title": "Crise no estreito de Ormuz: conheça o porto e o oleoduto que estão lucrando com o fechamento",
         "link": "https://exame.com/internacional/crise-no-estreito-de-ormuz-conheca-o-porto-e-o-oleoduto-que-estao-lucrando-com-o-fechamento/",
         "summary": "O Irã impôs, neste sábado, 8, novas exigências aos Estados Unidos para reabrir o Estreito de Ormuz. Entenda como essas condições podem atrapalhar os acordos de paz e beneficiar rotas alternativas de petróleo",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Seca histórica na Europa: por que esse continente é o que mais aquece no planeta",
-        "link": "https://exame.com/esg/seca-historica-na-europa-por-que-esse-continente-e-o-que-mais-aquece-no-planeta/",
-        "summary": "Seca reduz nível de importantes rios europeus, ameaça transporte e geração de energia e reforça alerta sobre a velocidade das mudanças climáticas",
         "image": null,
         "date": "08 de ago. de 2026",
         "source": "Exame",
