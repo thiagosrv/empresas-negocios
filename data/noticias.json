@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-08T08:47:34.852Z",
+  "updated": "2026-08-08T09:41:36.867Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Looks coloridos e autoestima: influenciadora transforma rotina de visitas em conteúdo sobre moda penitenciária",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/looks-coloridos-e-autoestima-influenciadora-transforma-rotina-de-visitas-em-conteudo-sobre-moda-penitenciaria.ghtml",
+        "summary": "Looks coloridos e acessórios combinando: como a moda penitenciária traz autoestima a visitantes no interior de SP Reprodução/Redes socias A rotina de quem visita familiares em penitenciárias vai muito além das longas via",
+        "image": "https://s2-g1.glbimg.com/_MYp6wxPF1JyM31_nl6NHUQEKcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/7qNQdTSTGBBTRt9v6sBg/1.png",
+        "date": "08 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Comandante do voo 2283 foi promovido sem experiência mínima e 'coaptado' para omitir panes, diz PF",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/comandante-do-voo-2283-foi-promovido-sem-experiencia-minima-e-coaptado-para-omitir-panes-diz-pf.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/crianca-engasga-intervalo-escolar-salva-guarda-artur-nogueira.ghtml",
         "summary": "Escola Francisco Cardona, em Artur Nogueira (SP) Prefeitura de Artur Nogueira Uma criança se engasgou durante o intervalo escolar e precisou ser salva por um guarda municipal na manhã desta sexta-feira (7), em Artur Nogu",
         "image": "https://s2-g1.glbimg.com/rpEz8XtGB9j-2lRU8QrRRQX7R4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/I/h8HVO9QC6DaTljFuBuDQ/copia-de-area-1-67-.png",
-        "date": "07 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ex-piloto que fez 40 alertas à Voepass antes de tragédia com 62 mortos virou peça-chave da PF",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/07/quem-e-o-ex-piloto-da-voepass-que-virou-peca-chave-na-investigacao-da-queda-do-voo-2283.ghtml",
-        "summary": "Quem é o ex-piloto da Voepass que virou peça-chave na investigação da queda do voo 2283 Duas tragédias, separadas por mais de duas décadas, marcaram a trajetória de Luiz Cláudio de Almeida. Em 2003, ele perdeu o irmão na",
-        "image": "https://s2-g1.glbimg.com/xe9ntIFN0yPldKgi86pHo5QdSjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/Xk1UknSvCnhmj38BNDzw/b8251be6-9031-4a8a-b4d0-97739d1c5127.jpg",
         "date": "07 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,36 @@
     ],
     "esportes": [
       {
+        "title": "Poucos jogos e ação judicial: relembre a passagem de Mayke pelo Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/passagem-mayke-santos-poucos-jogos-acao-judicial/",
+        "summary": "Mayke encerrou sua passagem pelo Santos após apenas 20 partidas. Contratado em 2025, o lateral perdeu espaço, passou a treinar separado e teve a saída marcada por impasse financeiro e ação na Justiça. O post Poucos jogos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55269101275_7e82cdc237_3k.webp",
+        "date": "08 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Entenda como agenda diversa de shows e jogos ajudará a emplacar novo nome do estádio do Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/entenda-como-agenda-diversa-de-shows-e-jogos-ajuda-wtorre-a-emplacar-novo-nome-do-estadio-do-palmeiras/",
+        "summary": "O processo de transição da identidade visual do estádio do Palmeiras segue em andamento desde que o Nubank assumiu os naming rights da arena, em maio deste ano, encerrando uma parceria de 12 anos com a Allianz. Embora o ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-07-at-19.25.51.webp",
+        "date": "08 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Pedro Raul quebra jejum e pode ganhar sequência no Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/pedro-raul-quebra-jejum-e-pode-ganhar-sequencia-no-corinthians/",
+        "summary": "Pedro Raul encerrou um jejum de quase nove meses sem marcar gols ao balançar as redes na vitória do Corinthians sobre o Internacional, pela Copa do Brasil. Titular devido à lesão de Yuri Alberto, o atacante recebeu elogi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247194.webp",
+        "date": "08 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Santos x Athletico-PR: saiba onde assistir ao jogo pela 22ª rodada do Brasileirão",
         "link": "https://www.gazetaesportiva.com/times/santos/santos-x-athletico-pr-onde-assistir-brasileirao/",
         "summary": "Santos e Athletico-PR se enfrentam neste domingo, às 18h30, na Vila Belmiro, pela 22ª rodada do Campeonato Brasileiro. Veja onde assistir, arbitragem e como chegam as equipes. O post Santos x Athletico-PR: saiba onde ass",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/casper-ruud-x-joao-fonseca-terceira-rodada-do-masters-1000-de-montreal/",
         "summary": "Nesta sexta-feira, pela terceira rodada do Masters 1000 de Montreal, o brasileiro João Fonseca venceu o norueguês Casper Ruud por 2 sets a 0, com parciais de 7/6 e 6/3, e avançou às oitavas de final da competição para en",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260808__2288706900__v1__MidRes__Atp1000NationalBankOpenPresentedByRogersDay6.webp",
-        "date": "08 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Pesquisa indica que mais da metade da torcida do Santos tem menos de 35 anos",
-        "link": "https://www.gazetaesportiva.com/times/santos/pesquisa-indica-que-mais-da-metade-da-torcida-do-santos-tem-menos-de-35-anos/",
-        "summary": "Um relatório elaborado pela 2morrow Sports, empresa responsável pela gestão do Sócio Rei, mostrou que mais da metade da torcida do Santos tem menos de 35 anos. De acordo com o estudo, que levou em consideração o cadastro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Foto-Raul-Baretta.webp",
-        "date": "08 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Com gols no fim, São Bernardo vence o Operário-PR pela Série B",
-        "link": "https://www.gazetaesportiva.com/times/sao-bernardo-fc/com-gols-no-fim-sao-bernardo-vence-o-operario-pr-pela-serie-b/",
-        "summary": "Nesta sexta-feira, o São Bernardo venceu o Operário-PR por 3 a 1, no Estádio Germano Kruger, em Ponta Grossa pela 21ª rodada da Série B do Campeonato Brasileiro. O post Com gols no fim, São Bernardo vence o Operário-PR p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/HKP1WxYWYAAlRdK.webp",
-        "date": "08 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Dono de maior sequência no Palmeiras, Lucas Evangelista celebra confiança de Abel: Muito feliz",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/dono-de-maior-sequencia-no-palmeiras-lucas-evangelista-celebra-confianca-de-abel-muito-feliz/",
-        "summary": "Lucas Evangelista é o jogador do Palmeiras com a maior sequência de jogos na equipe, atualmente, com 35 partidas consecutivas. O meio-campista tornou-se o jogador com a maior sequência ativa no elenco alviverde e celebro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/07082026_cg_palmeiras_4441_43.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "O fim do mundo não terá explosões: como a Física prevê o colapso do Universo",
+        "link": "https://www.infomoney.com.br/mundo/o-fim-do-mundo-nao-tera-explosoes-como-a-fisica-preve-o-colapso-do-universo/",
+        "summary": "Físico Brian Greene usou os 102 andares do Empire State para explicar a cronologia do colapso cósmico: estamos no 10º andar; no 38º, os prótons se desintegram; no 100º, até buracos negros viram \"sopa fria\" The post O fim",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/greg-rakozy-oMpAz-DN-9I-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Melhor investimento de renda fixa entrega 1,47% em julho; pior rende 0,85%",
+        "link": "https://www.infomoney.com.br/onde-investir/melhor-investimento-de-renda-fixa-entrega-147-em-julho-pior-rende-085/",
+        "summary": "Para agosto, é melhorar procurar “ajuste fino” do que promover “mudança radical\", diz especialista The post Melhor investimento de renda fixa entrega 1,47% em julho; pior rende 0,85% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/joshua-golde-qIu77BsFdds-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "BofA gasta US$ 250 mi por ano com GLP-1 para seus funcionários: Grande impacto",
         "link": "https://www.infomoney.com.br/business/global/bofa-gasta-us-250-mi-por-ano-com-glp-1-para-seus-funcionarios-grande-impacto/",
         "summary": "CEO Brian Moynihan diz que investimento reduz problemas cardíacos e melhora qualidade de vida; valor faz parte de pacote anual de US$ 2 bi em saúde The post BofA gasta US$ 250 mi por ano com GLP-1 para seus funcionários:",
@@ -347,29 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Amazônia tem menor área sob alerta de desmatamento em 10 anos",
-        "link": "https://www.infomoney.com.br/brasil/amazonia-tem-menor-area-sob-alerta-de-desmatamento-em-10-anos/",
-        "summary": "Dados do Inpe mostram 2.874 km² sob alerta entre agosto de 2025 e julho de 2026, queda de 36,9% ante o ciclo anterior The post Amazônia tem menor área sob alerta de desmatamento em 10 anos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/floresta.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Espanha impõe controles a voos e navios da Itália em disputa migratória",
-        "link": "https://www.infomoney.com.br/mundo/espanha-impoe-controles-a-voos-e-navios-da-italia-em-disputa-migratoria/",
-        "summary": "Medida começa à meia-noite de sábado e vale até 7 de setembro; Roma havia anunciado controles para viajantes vindos da Espanha até pelo menos 15 de agosto The post Espanha impõe controles a voos e navios da Itália em dis",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-07T125050Z_2084180962_RC22TMADKWTO_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA-ITALY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Como usar IA para analisar planilhas de vendas e descobrir oportunidades sem dominar Excel",
-        "link": "https://exame.com/inteligencia-artificial/como-usar-ia-para-analisar-planilhas-de-vendas-e-descobrir-oportunidades-sem-dominar-excel/",
-        "summary": "Ferramentas de inteligência artificial conseguem interpretar planilhas, identificar padrões, apontar gargalos e gerar gráficos automaticamente, tornando a análise de dados mais acessível para profissionais de diferentes ",
+        "title": "Jogos de hoje: horário e onde assistir aos duelos deste sábado,",
+        "link": "https://exame.com/esporte/jogos-de-hoje-horario-e-onde-assistir-aos-duelos-deste-sabado/",
+        "summary": "Brasileirão agita o sábado com Grêmio, São Paulo, Botafogo e Fluminense em campo. A programação ainda tem Campeonato Brasileiro Feminino, Série B, Leagues Cup e amistoso do Real Madrid",
         "image": null,
         "date": "08 de ago. de 2026",
         "source": "Exame",
@@ -377,51 +377,51 @@
         "cls": "startups"
       },
       {
-        "title": "Em nova reviravolta, Republicanos anuncia Cleitinho como candidato ao governo de Minas",
-        "link": "https://exame.com/brasil/em-nova-reviravolta-republicanos-anuncia-cleitinho-como-candidato-ao-governo-de-minas/",
-        "summary": "Partido diz que senador reconheceu “equívocos”, apresentou desculpas à direção da sigla e assumiu compromisso de levar a candidatura até o fim",
+        "title": "De 'Valor sentimental' a 'Aftersun': 8 filmes para assistir no Dia dos Pais",
+        "link": "https://exame.com/pop/de-valor-sentimental-a-aftersun-8-filmes-para-assistir-no-dia-dos-pais/",
+        "summary": "Confira onde assistir a filmes que exploram diferentes relações entre pais e filhos, do afeto aos reencontros e às perdas",
         "image": null,
-        "date": "07 de ago. de 2026",
+        "date": "08 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "BC publica norma de retenção de stablecoins por 24 horas; setor cripto se pronuncia",
-        "link": "https://exame.com/future-of-money/bc-publica-norma-de-retencao-de-stablecoins-por-24-horas-setor-cripto-se-pronuncia/",
-        "summary": "Medida teria o objetivo de combater a lavagem de dinheiro mediante o uso de criptoativos",
+        "title": "Dia dos Pais: 10 opções de legendas para homenagear seu pai no Instagram",
+        "link": "https://exame.com/pop/dia-dos-pais-10-opcoes-de-legendas-para-homenagear-seu-pai-no-instagram/",
+        "summary": "Celebre a data com frases que destacam amor, gratidão e os momentos compartilhados entre pais e filhos",
         "image": null,
-        "date": "07 de ago. de 2026",
+        "date": "08 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Anvisa proíbe 'Ozempic Natural' e barra fabricação, venda e uso do produto",
-        "link": "https://exame.com/saude/anvisa-proibe-ozempic-natural-e-barra-fabricacao-venda-e-uso-do-produto/",
-        "summary": "A decisão, publicada na quinta-feira, 6, faz parte de uma ação contra produtos irregulares, que inclui ainda um lote falsificado do medicamento Nebido",
+        "title": "Grêmio x São Paulo: horário, onde assistir e prováveis escalações",
+        "link": "https://exame.com/esporte/gremio-x-sao-paulo-horario-onde-assistir-e-provaveis-escalacoes/",
+        "summary": "Grêmio tenta deixar a zona de rebaixamento, enquanto o São Paulo busca subir na tabela do Campeonato Brasileiro",
         "image": null,
-        "date": "07 de ago. de 2026",
+        "date": "08 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Bia Haddad Maia anuncia pausa na carreira: 'Não tem sido fácil a minha relação com o tênis'",
-        "link": "https://exame.com/esporte/bia-haddad-maia-anuncia-pausa-na-carreira-nao-tem-sido-facil-a-minha-relacao-com-o-tenis/",
-        "summary": "A atleta disse que vem enfrentando, há alguns meses, um período difícil na relação com o esporte",
+        "title": "Cinco agentes de IA que empresas podem criar hoje para automatizar tarefas de ponta a ponta",
+        "link": "https://exame.com/inteligencia-artificial/cinco-agentes-de-ia-que-empresas-podem-criar-hoje-para-automatizar-tarefas-de-ponta-a-ponta/",
+        "summary": "De vendas a recursos humanos, agentes de IA conseguem executar fluxos completos de trabalho, integrando sistemas e tomando decisões com pouca intervenção humana",
         "image": null,
-        "date": "07 de ago. de 2026",
+        "date": "08 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Conheça o papel do Congresso Nacional na estrutura bicameral brasileira",
-        "link": "https://exame.com/esferabrasil/conheca-o-papel-do-congresso-nacional-na-estrutura-bicameral-brasileira/",
-        "summary": "Dinâmica entre Câmara dos Deputados e Senado Federal define o processo legislativo, a fiscalização e as deliberações conjuntas estabelecidas pela Constituição de 1988",
+        "title": "Atores ganham bônus quando o filme vai bem de bilheteria? Entenda como funciona",
+        "link": "https://exame.com/pop/atores-ganham-bonus-quando-o-filme-vai-bem-de-bilheteria-entenda-como-funciona/",
+        "summary": "Entrevista de Tom Hollander voltou a circular após o sucesso de \"Homem-Aranha: Um Novo Dia\" e reacendeu dúvidas sobre os contratos de Hollywood",
         "image": null,
-        "date": "07 de ago. de 2026",
+        "date": "08 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
