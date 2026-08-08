@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08T13:50:06.176Z",
+  "updated": "2026-08-08T14:35:09.635Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Mulher é morta a facadas em Valinhos e homem ferido é encaminhado para Santa Casa",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/mulher-e-morta-a-facadas-em-valinhos.ghtml",
+        "summary": "Santa Casa de Valinhos Reprodução EPTV Uma mulher foi morta a facadas na manhã deste sábado (8), na Rua Jorge Niedo, no bairro Cecap, em Valinhos (SP), segundo a Polícia Civil. De acordo com a corporação, um homem, que t",
+        "image": "https://s2-g1.glbimg.com/0argiKviUohN_9I3S0P8vaA_JKE=/s.glbimg.com/jo/g1/f/original/2012/07/25/hospitalvalinhos.jpg",
+        "date": "08 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Homem morre após ser baleado pela PM no Jardim Morumbi, em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/homem-morre-apos-ser-baleado-pela-pm-no-jardim-morumbi-em-campinas.ghtml",
+        "summary": "Homem morre após ser baleado pela PM no Jardim Morumbi, em Campinas Um homem morreu após ser baleado pela Polícia Militar (PM) no Jardim Morumbi, em Campinas, no fim da noite de sexta-feira (7). Segundo a PM, a abordagem",
+        "image": "https://s2-g1.glbimg.com/Eo6Ihr3mq9Ca0r7OGT6acgWCYOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/c/KiJI54TdeKI55l5MgAqQ/baep-4-.jpeg",
+        "date": "08 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Ônibus bate em poste em Campinas após derrapar em pista molhada, diz Emdec",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/onibus-bate-em-poste-em-campinas-apos-derrapar-em-pista-molhada-diz-emdec.ghtml",
@@ -43,84 +63,54 @@
         "cls": "brasil"
       },
       {
-        "title": "Comandante do voo 2283 foi promovido sem experiência mínima e 'coaptado' para omitir panes, diz PF",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/comandante-do-voo-2283-foi-promovido-sem-experiencia-minima-e-coaptado-para-omitir-panes-diz-pf.ghtml",
-        "summary": "Voepass: entenda cadeia de responsabilidades que levou PF a indiciar 16 pessoas O relatório final da Polícia Federal sobre a queda do avião da Voepass, que matou 62 pessoas em Vinhedo (SP) em 2024, aponta que o comandant",
-        "image": "https://s2-g1.glbimg.com/EpkCysa9UpgT2J-t2nPKU45ZEQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Y/6/8MOVBkQx2B5JcKOjGO4A/000-36cv9vd.jpg",
+        "title": "Controle do colesterol deve começar na infância, alerta cardiologista",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/controle-do-colesterol-deve-comecar-na-infancia-alerta-cardiologista",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/controle-do-colesterol-deve-comecar-na-infancia-alerta-cardiologista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Indiciado por queda de avião, dono da Voepass admite à PF que sabia de omissão de panes e que foi alertado pela Anac",
-        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/08/indiciado-por-queda-de-aviao-dono-da-voepass-admite-a-pf-que-sabia-de-omissao-de-panes-e-que-foi-alertado-pela-anac.ghtml",
-        "summary": "José Luiz Felício Filho, presidente da Voepass, empresa aérea de Ribeirão Preto (SP) Divulgação/Voepass Em depoimento à Polícia Federal, o proprietário e presidente da Voepass, José Luiz Felício Filho, admitiu ter conhec",
-        "image": "https://s2-g1.glbimg.com/SHlgCI8EI2VSzii4mqY58QNF5sY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/y/Y/3pCVKmRV6zibEjANJa1w/felicio-09.jpg",
+        "title": "Atraso na ampliação do teste do pezinho dificulta diagnóstico da AME",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/organizacoes-pedem-mais-agilidade-no-diagnostico-da-ame-no-pais",
+        "summary": "p strong Agosto é o mês de conscientização sobre a Atrofia Muscular Espinhal (AME). Entidades que representam pacientes alertam que a demora no diagnóstico e no início do tratamento da doença no Brasil pode comprometer a",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Cabine Lilás: Polícia Militar amplia apoio e proteção às mulheres vítimas de violência",
-        "link": "https://jornalamericanense.com.br/policia/cabine-lilas-policia-militar-amplia-apoio-e-protecao-as-mulheres-vitimas-de-violencia/",
-        "summary": "Programa da Polícia Militar oferece atendimento especializado e acolhimento às vítimas; somente na área do CPI-9, mais de 4 mil ocorrências foram registradas desde a implantação da iniciativa Em referência ao Agosto Lilá",
+        "title": "Rádio MEC celebra os 70 anos de Leo Gandelman",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-mec-celebra-os-70-anos-de-leo-gandelman",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-mec-celebra-os-70-anos-de-leo-gandelman img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a",
         "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "08 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Homem é preso em flagrante por tráfico de drogas em Santa Bárbara d’Oeste",
-        "link": "https://jornalamericanense.com.br/policia/homem-e-preso-em-flagrante-por-trafico-de-drogas-em-santa-barbara-doeste/",
-        "summary": "Abordagem da Força Tática ocorreu no Conjunto Habitacional dos Trabalhadores; policiais apreenderam crack, cocaína e dinheiro Um homem de 22 anos foi preso em flagrante por tráfico de drogas na tarde desta quinta-feira (",
+        "title": "Fim de semana tem previsão de vendaval no Sudeste e geada no Sul",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fim-de-semana-tem-previsao-de-vendaval-no-sudeste-e-geada-no-sul",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fim-de-semana-tem-previsao-de-vendaval-no-sudeste-e-geada-no-sul img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "08 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Festival de música autoral de Americana terá shows de Ana Cañas e da Orquestra Sinfônica neste fim de semana",
-        "link": "https://jornalamericanense.com.br/cultura/festival-de-musica-autoral-de-americana-tera-shows-de-ana-canas-e-da-orquestra-sinfonica-neste-fim-de-semana/",
-        "summary": "A primeira edição do Festival de Música de Americana (FEMAM) ocorre neste sábado (8) e domingo (9), na Praça Comendador Müller, no Centro, com uma programação que une peso nacional e valorização da cena local. No sábado,",
+        "title": "Diagnóstico precoce da AME é divisor de águas, afirma paciente",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/diagnostico-precoce-da-ame-e-divisor-de-aguas-para-qualidade-de-vida",
+        "summary": "p strong O Dia Nacional da Atrofia Muscular Espinhal (AME), celebrado neste sábado (8), reforça a importância do diagnóstico precoce e do início rápido do tratamento para pessoas com a doença. A AME é uma doença genética",
         "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Prefeitura de Americana aplica agente biológico para controle do carrapato-estrela em áreas de risco",
-        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-aplica-agente-biologico-para-controle-do-carrapato-estrela-em-areas-de-risco/",
-        "summary": "A Prefeitura de Americana, por meio da Secretaria de Meio Ambiente, realiza a aplicação de metarriso (nome científico Metarhizium), fungo usado para o controle do carrapato-estrela, transmissor da febre maculosa, em área",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Americana consolida resultados positivos em índice de Educação",
-        "link": "https://jornalamericanense.com.br/cidades/americana-consolida-resultados-positivos-em-indice-de-educacao/",
-        "summary": "Americana consolidou sua posição de destaque nos resultados do Índice de Desenvolvimento da Educação Básica (ldeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (MEC) e Instituto Nacional de Estudos",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Roteiro Gastronômico tem estabelecimentos definidos para edição de 2026",
-        "link": "https://jornalamericanense.com.br/gastronomia/roteiro-gastronomico-tem-estabelecimentos-definidos-para-edicao-de-2026/",
-        "summary": "Os 40 estabelecimentos de alimentação participantes da edição de 2026 do Roteiro Gastronômico, realizado pela Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, foram definidos. O evento vai reunir opç",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "08 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Repertório de Caetano Veloso embala show exclusivo na TV Brasil",
@@ -131,59 +121,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Campanha contra sarampo vacinou 280 mil pessoas em SP em uma semana",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/campanha-contra-sarampo-vacinou-280-mil-pessoas-em-sp-em-uma-semana",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/campanha-contra-sarampo-vacinou-280-mil-pessoas-em-sp-em-uma-semana img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Flipelô lança livro com cartas entre Jorge Amado e Erico Verissimo",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/flipelo-lanca-livro-com-cartas-entre-jorge-amado-e-erico-verissimo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/flipelo-lanca-livro-com-cartas-entre-jorge-amado-e-erico-verissimo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Partidos têm até o dia 15 para registrarem candidaturas nos tribunais",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/partidos-tem-ate-o-dia-15-para-registrarem-candidaturas-nos-tribunais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/partidos-tem-ate-o-dia-15-para-registrarem-candidaturas-nos-tribunais img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "AGU se reúne com Discord e cobra proteção de crianças na plataforma",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/agu-se-reune-com-discord-e-cobra-protecao-de-criancas-na-plataformas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/agu-se-reune-com-discord-e-cobra-protecao-de-criancas-na-plataformas img src= https://cdn.jsdelivr.net/gh/ser",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Familiares celebram legado de primeira medalha paralímpica do Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/familiares-celebram-legado-de-primeira-medalha-paralimpica-do-brasil",
-        "summary": "p O Brasil encerrou a Paralimpíada de Paris (França), em 2024, entre as cinco potências do esporte adaptado pela primeira vez. O país já foi 462 vezes no pódio no maior evento paradesportivo do planeta. strong A trajetór",
-        "image": null,
-        "date": "07 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Com dois de João Pedro, Chelsea goleia o Milan em amistoso de pré-temporada na Indonésia",
+        "link": "https://www.gazetaesportiva.com/times/chelsea/com-dois-de-joao-pedro-chelsea-goleia-o-milan-em-amistoso-de-pre-temporada-na-indonesia/",
+        "summary": "O Chelsea goleou o Milan por 3 a 0 neste sábado, no Estádio Madya, na Indonésia, em amistoso de pré-temporada. João Pedro foi o destaque da partida ao marcar dois gols para os Blues, enquanto Moisés Caicedo completou o p",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/08/joaoo-pedro.webp",
+        "date": "08 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Pai de Messi morre aos 68 anos após batalha contra grave doença",
         "link": "https://www.gazetaesportiva.com/times/argentina/pai-de-messi-morre-aos-68-anos-apos-batalha-contra-grave-doenca/",
@@ -229,16 +179,6 @@
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-x-rb-bragantino-pelo-brasileirao-feminino-veja-provaveis-escalacoes-e-onde-assistir-ao-vivo/",
         "summary": "Confira informações e onde assistir ao duelo entre São Paulo e RB Bragantino, pela 15ª rodada do Brasileirão feminino. O post São Paulo x RB Bragantino pelo Brasileirão feminino: veja prováveis escalações e onde assistir",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_3916-jpg.webp",
-        "date": "08 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Rony ressurge no Santos após pausa e começa segundo semestre em alta",
-        "link": "https://www.gazetaesportiva.com/times/santos/rony-ressurge-no-santos-apos-pausa-e-comeca-segundo-semestre-em-alta/",
-        "summary": "Após passar 22 jogos sem marcar, Rony reencontrou o caminho dos gols depois da pausa para a Copa do Mundo. O atacante soma três gols em seis partidas, decidiu a classificação contra o Remo e chega em alta para ser uma da",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-05-004559.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +247,36 @@
         "cls": ""
       },
       {
+        "title": "Messi foi principal alvo de ameaças na Copa; Cristiano entrou no radar, diz jornal",
+        "link": "https://www.infomoney.com.br/esportes/messi-foi-principal-alvo-de-ameacas-na-copa-cristiano-entrou-no-radar-diz-jornal/",
+        "summary": "Relatório policial dos EUA detalha ameaças de ataques com bombas contra o craque argentino durante o Mundial The post Messi foi principal alvo de ameaças na Copa; Cristiano entrou no radar, diz jornal appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/ATT-Stadium-estadio-copa-mundo-futebol-fifa-2026-dallas-eua.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Warren Buffett mantém aposta em petróleo, mas alerta para riscos de guerras",
+        "link": "https://www.infomoney.com.br/mercados/warren-buffett-mantem-aposta-em-petroleo-mas-alerta-para-riscos-de-guerras/",
+        "summary": "Conglomerado de Warren Buffett mantém exposição à Occidental e reforça cautela diante das incertezas geopolíticas The post Warren Buffett mantém aposta em petróleo, mas alerta para riscos de guerras appeared first on Inf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460640717.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
+        "link": "https://www.infomoney.com.br/esportes/morre-pai-de-lionel-messi-aos-68-anos-na-argentina/",
+        "summary": "A família havia informado, em junho, que Jorge seguia em recuperação, embora seu estado de saúde ainda fosse considerado delicado The post Morre pai de Lionel Messi aos 68 anos na Argentina appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T173648Z_484130663_UP1EM771CXATG_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY.jpg?fit=300%2C208&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Gabriel Medina sofre corte na cabeça durante treino em Teahupoo antes da WSL",
         "link": "https://www.infomoney.com.br/esportes/gabriel-medina-sofre-corte-na-cabeca-durante-treino-em-teahupoo-antes-da-wsl/",
         "summary": "Brasileiro precisou de atendimento após incidente durante preparação para a etapa disputada no Taiti The post Gabriel Medina sofre corte na cabeça durante treino em Teahupoo antes da WSL appeared first on InfoMoney.",
@@ -337,34 +307,34 @@
         "cls": "brasil"
       },
       {
-        "title": "‘A Odisseia’ entra no clube do US$ 1 bilhão; veja quem chegou lá primeiro",
-        "link": "https://www.infomoney.com.br/business/a-odisseia-entra-no-clube-do-us-1-bilhao-veja-quem-chegou-la-primeiro/",
-        "summary": "Filme de Christopher Nolan se junta a grupo de mais de 60 produções que ultrapassaram a marca; Titanic inaugurou o feito em 1998 The post ‘A Odisseia’ entra no clube do US$ 1 bilhão; veja quem chegou lá primeiro appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-03-155827.png?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "title": "Incêndio florestal atinge cidade no Canadá e provoca retirada de moradores; veja o vídeo",
+        "link": "https://exame.com/mundo/incendio-florestal-atinge-cidade-no-canada-e-provoca-retirada-de-moradores-veja-o-video/",
+        "summary": "Fogo atingiu Summerland, no interior da província",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Cade vê disparar notificações e proposta de elevar limites de faturamento ganha força",
-        "link": "https://www.infomoney.com.br/economia/cade-ve-disparar-notificacoes-e-proposta-de-elevar-limites-de-faturamento-ganha-forca/",
-        "summary": "Alta no número de atos de concentração reforça debate sobre revisão dos critérios que obrigam empresas a submeter operações ao órgão antitruste The post Cade vê disparar notificações e proposta de elevar limites de fatur",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/concorrencia-empresas-negocios.jpg?fit=200%2C300&amp;quality=70&amp;strip=all",
+        "title": "Dono da Wise Up compra mansão de R$ 128 milhões nas Bahamas",
+        "link": "https://exame.com/mercado-imobiliario/dono-da-wise-up-compra-mansao-de-r-128-milhoes-nas-bahamas/",
+        "summary": "O imóvel fica em Albany, condomínio de ultra alto padrão reconhecido por reunir empresários, atletas e celebridades internacionais",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Eduardo Bolsonaro critica obrigatoriedade de vacinas no Brasil: Liberdade",
-        "link": "https://www.infomoney.com.br/politica/eduardo-bolsonaro-critica-obrigatoriedade-de-vacinas-no-brasil-liberdade/",
-        "summary": "Ele disse ter assinado uma declaração no Texas (estado em que se exilou com a família) para isentar a filha da obrigatoriedade de vacinação The post Eduardo Bolsonaro critica obrigatoriedade de vacinas no Brasil: Liberda",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/lula6792.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Caso Coldcard: 'seja seu próprio banco' é um slogan, não uma recomendação séria",
+        "link": "https://exame.com/future-of-money/caso-coldcard-seja-seu-proprio-banco-e-um-slogan-nao-uma-recomendacao-seria/",
+        "summary": "Para quem não está preparado para a autocustódia, a custódia profissional de criptoativos é a escolha inteligente",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Com Free Flow, Pedágio Digital quer reunir todas as rodovias em um único app",
@@ -390,36 +360,6 @@
         "title": "Tokenizar não é publicar um contrato inteligente no blockchain",
         "link": "https://exame.com/future-of-money/tokenizar-nao-e-publicar-um-contrato-inteligente-no-blockchain/",
         "summary": "Tokenizadoras precisam saber responder por que estão tokenizando e qual benefício operacional isso traz ao ativo",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O rei do interior fatura R$ 7,9 bilhões com supermercados e divide o lucro com funcionários",
-        "link": "https://exame.com/negocios/o-rei-do-interior-fatura-r-79-bilhoes-com-supermercados-e-divide-o-lucro-com-funcionarios/",
-        "summary": "Enquanto o setor aposta em marca própria para proteger margem, o maior supermercado do interior de SP faz o contrário — e distribui um quarto do lucro entre os 14 mil funcionários",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Jorge Messi, pai de Lionel Messi, morre aos 68 anos",
-        "link": "https://exame.com/esporte/jorge-messi-pai-de-lionel-messi-morre-aos-68-anos/",
-        "summary": "Pai e empresário do craque argentino, Jorge Messi acompanhou de perto a carreira de Lionel Messi desde os primeiros anos no futebol",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Fim dos espirros? Os cães geneticamente modificados que não causam alergias",
-        "link": "https://exame.com/ciencia/fim-dos-espirros-os-caes-geneticamente-modificados-que-nao-causam-alergias/",
-        "summary": "Pesquisadores desativaram o gene responsável pela produção da proteína Can f 1, principal alérgeno canino, usando a técnica de edição genética CRISPR",
         "image": null,
         "date": "08 de ago. de 2026",
         "source": "Exame",
