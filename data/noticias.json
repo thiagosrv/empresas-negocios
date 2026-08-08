@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-08T14:35:09.635Z",
+  "updated": "2026-08-08T15:33:50.314Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Mulher é morta a facadas em Valinhos e homem ferido é encaminhado para Santa Casa",
+        "title": "Homem mata mulher a facadas em Valinhos; vítima tinha medida protetiva",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/mulher-e-morta-a-facadas-em-valinhos.ghtml",
-        "summary": "Santa Casa de Valinhos Reprodução EPTV Uma mulher foi morta a facadas na manhã deste sábado (8), na Rua Jorge Niedo, no bairro Cecap, em Valinhos (SP), segundo a Polícia Civil. De acordo com a corporação, um homem, que t",
-        "image": "https://s2-g1.glbimg.com/0argiKviUohN_9I3S0P8vaA_JKE=/s.glbimg.com/jo/g1/f/original/2012/07/25/hospitalvalinhos.jpg",
+        "summary": "Eliane Camargo Pereira, de 42 anos, foi morta a facadas em Valinhos (SP) Reprodução/Redes sociais Um homem matou a esposa a facadas na manhã deste sábado (8), no Loteamento Residencial Ana Carolina, em Valinhos (SP). Apó",
+        "image": "https://s2-g1.glbimg.com/uvvGhJyGV--JpKhVTTquCLZn8tk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/bHcAuHRsagwtZXoKNXoQ/733692697-3777850929020654-7068355033683163958-n-1-.jpg",
         "date": "08 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -63,6 +63,76 @@
         "cls": "brasil"
       },
       {
+        "title": "Cabine Lilás: Polícia Militar amplia apoio e proteção às mulheres vítimas de violência",
+        "link": "https://jornalamericanense.com.br/policia/cabine-lilas-policia-militar-amplia-apoio-e-protecao-as-mulheres-vitimas-de-violencia/",
+        "summary": "Programa da Polícia Militar oferece atendimento especializado e acolhimento às vítimas; somente na área do CPI-9, mais de 4 mil ocorrências foram registradas desde a implantação da iniciativa Em referência ao Agosto Lilá",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Homem é preso em flagrante por tráfico de drogas em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/policia/homem-e-preso-em-flagrante-por-trafico-de-drogas-em-santa-barbara-doeste/",
+        "summary": "Abordagem da Força Tática ocorreu no Conjunto Habitacional dos Trabalhadores; policiais apreenderam crack, cocaína e dinheiro Um homem de 22 anos foi preso em flagrante por tráfico de drogas na tarde desta quinta-feira (",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festival de música autoral de Americana terá shows de Ana Cañas e da Orquestra Sinfônica neste fim de semana",
+        "link": "https://jornalamericanense.com.br/cultura/festival-de-musica-autoral-de-americana-tera-shows-de-ana-canas-e-da-orquestra-sinfonica-neste-fim-de-semana/",
+        "summary": "A primeira edição do Festival de Música de Americana (FEMAM) ocorre neste sábado (8) e domingo (9), na Praça Comendador Müller, no Centro, com uma programação que une peso nacional e valorização da cena local. No sábado,",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura de Americana aplica agente biológico para controle do carrapato-estrela em áreas de risco",
+        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-aplica-agente-biologico-para-controle-do-carrapato-estrela-em-areas-de-risco/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Meio Ambiente, realiza a aplicação de metarriso (nome científico Metarhizium), fungo usado para o controle do carrapato-estrela, transmissor da febre maculosa, em área",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana consolida resultados positivos em índice de Educação",
+        "link": "https://jornalamericanense.com.br/cidades/americana-consolida-resultados-positivos-em-indice-de-educacao/",
+        "summary": "Americana consolidou sua posição de destaque nos resultados do Índice de Desenvolvimento da Educação Básica (ldeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (MEC) e Instituto Nacional de Estudos",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Roteiro Gastronômico tem estabelecimentos definidos para edição de 2026",
+        "link": "https://jornalamericanense.com.br/gastronomia/roteiro-gastronomico-tem-estabelecimentos-definidos-para-edicao-de-2026/",
+        "summary": "Os 40 estabelecimentos de alimentação participantes da edição de 2026 do Roteiro Gastronômico, realizado pela Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, foram definidos. O evento vai reunir opç",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "“Brasileiro gosta de ler, mas tem dificuldade de acesso”, diz escritor",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/brasileiro-gosta-de-ler-mas-tem-dificuldade-de-acesso-diz-escritor",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/brasileiro-gosta-de-ler-mas-tem-dificuldade-de-acesso-diz-escritor img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "08 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Controle do colesterol deve começar na infância, alerta cardiologista",
         "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/controle-do-colesterol-deve-comecar-na-infancia-alerta-cardiologista",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/controle-do-colesterol-deve-comecar-na-infancia-alerta-cardiologista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -111,19 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Repertório de Caetano Veloso embala show exclusivo na TV Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/repertorio-de-caetano-veloso-embala-show-exclusivo-na-tv-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/repertorio-de-caetano-veloso-embala-show-exclusivo-na-tv-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "River Plate anuncia acordo para contratar Thiago Almada, ex-alvo do Flamengo",
+        "link": "https://www.gazetaesportiva.com/times/river-plate/river-plate-anuncia-acordo-para-contratar-thiago-almada-ex-alvo-do-flamengo/",
+        "summary": "O River Plate anunciou um acordo com o Atlético de Madrid para contratar Thiago Almada. Ex-alvo do Flamengo nesta janela e com passagem marcante pelo Botafogo, o meia argentino retornará ao futebol de seu país após cinco",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/AFP__20260618__2282274264__v1__HighRes__ArgentinaVAlgeriaGroupJFifaWorldCup2026-1.webp",
+        "date": "08 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Com dois de João Pedro, Chelsea goleia o Milan em amistoso de pré-temporada na Indonésia",
         "link": "https://www.gazetaesportiva.com/times/chelsea/com-dois-de-joao-pedro-chelsea-goleia-o-milan-em-amistoso-de-pre-temporada-na-indonesia/",
@@ -158,7 +228,7 @@
         "title": "Arsenal anuncia a contratação de Bruno Guimarães: Quero colocar meu nome na história do clube",
         "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-anuncia-a-contratacao-de-bruno-guimaraes-quero-colocar-meu-nome-na-historia-do-clube/",
         "summary": "O Arsenal anunciou a contratação do volante brasileiro Bruno Guimarães, ex-Newcastle, em uma negociação avaliada em 75 milhões de libras. O meio-campista assinou contrato até 2030 e afirmou que chega ao clube com o objet",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/bru.avif",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/bruno_guimaraes_arsenal.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -169,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-ferroviaria-veja-informacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
         "summary": "O time Sub-20 do Corinthians terá pela frente a Ferroviária, neste sábado, às 15h (de Brasília), no Estádio Alfredo Schürig (Fazendinha), em São Paulo (SP), pela décima rodada do Campeonato Paulista da categoria. O post ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/1786135385cb77649f5d53798edfa0ff40dae46322.webp",
-        "date": "08 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo x RB Bragantino pelo Brasileirão feminino: veja prováveis escalações e onde assistir ao vivo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/sao-paulo-x-rb-bragantino-pelo-brasileirao-feminino-veja-provaveis-escalacoes-e-onde-assistir-ao-vivo/",
-        "summary": "Confira informações e onde assistir ao duelo entre São Paulo e RB Bragantino, pela 15ª rodada do Brasileirão feminino. O post São Paulo x RB Bragantino pelo Brasileirão feminino: veja prováveis escalações e onde assistir",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_3916-jpg.webp",
         "date": "08 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Pensão alimentícia: STJ permite prever valor se pai ficar desempregado",
+        "link": "https://www.infomoney.com.br/brasil/pensao-alimenticia-stj-permite-prever-valor-se-pai-ficar-desempregado/",
+        "summary": "No caso analisado, Justiça restabeleceu sentença que prevê 20% dos rendimentos com emprego e 54% do salário mínimo em caso de desemprego ou informalidade The post Pensão alimentícia: STJ permite prever valor se pai ficar",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/6365.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Conheça história do pai de Messi, empresário e primeiro treinador do craque argentino",
+        "link": "https://www.infomoney.com.br/mercados/conheca-historia-do-pai-de-messi-empresario-e-primeiro-treinador-do-craque-argentino/",
+        "summary": "Jorge foi figura fundamental durante toda a carreira do filho, especialmente na chegada ao Barcelona The post Conheça história do pai de Messi, empresário e primeiro treinador do craque argentino appeared first on InfoMo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-08T142233Z_188605280_RC2EUMAEB57Y_RTRMADP_3_SOCCER-ARGENTINA-MESSI.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Senado frustra Trump e adia projeto que exige prova de cidadania para votar",
+        "link": "https://www.infomoney.com.br/mundo/senado-frustra-trump-e-adia-projeto-que-exige-prova-de-cidadania-para-votar/",
+        "summary": "Senadores republicanos conversaram com Trump na noite de ontem sobre um plano alternativo The post Senado frustra Trump e adia projeto que exige prova de cidadania para votar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/08/capitolio-eua-senado-1024x683-1.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Iranianos apoiarão até o fim qualquer decisão que a liderança tomar, diz Pezeshkian",
+        "link": "https://www.infomoney.com.br/mundo/iranianos-apoiarao-ate-o-fim-qualquer-decisao-que-a-lideranca-tomar-diz-pezeshkian/",
+        "summary": "Iranianos dizem que estão \"muito perto de um acordo\" com Omã sobre o Estreito de Ormuz The post Iranianos apoiarão até o fim qualquer decisão que a liderança tomar, diz Pezeshkian appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-21T155825Z_1_LYNXMPEM2K08L_RTROPTP_4_IRAN-CRISIS-PEZESHKIAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Exército do Iêmen volta a atacar bases dos Houthis",
+        "link": "https://www.infomoney.com.br/mundo/exercito-do-iemen-volta-a-atacar-bases-dos-houthis/",
+        "summary": "A guerra civil do país coloca os Houthis, apoiados pelo Irã, contra uma coalizão liderada pela Arábia Saudita The post Exército do Iêmen volta a atacar bases dos Houthis appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-31T194632Z_822414823_RC20PMAFCH40_RTRMADP_3_IRAN-CRISIS-YEMEN-SAUDI.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
+        "date": "08 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Messi foi principal alvo de ameaças na Copa; Cristiano entrou no radar, diz jornal",
         "link": "https://www.infomoney.com.br/esportes/messi-foi-principal-alvo-de-ameacas-na-copa-cristiano-entrou-no-radar-diz-jornal/",
         "summary": "Relatório policial dos EUA detalha ameaças de ataques com bombas contra o craque argentino durante o Mundial The post Messi foi principal alvo de ameaças na Copa; Cristiano entrou no radar, diz jornal appeared first on I",
@@ -257,54 +367,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Warren Buffett mantém aposta em petróleo, mas alerta para riscos de guerras",
-        "link": "https://www.infomoney.com.br/mercados/warren-buffett-mantem-aposta-em-petroleo-mas-alerta-para-riscos-de-guerras/",
-        "summary": "Conglomerado de Warren Buffett mantém exposição à Occidental e reforça cautela diante das incertezas geopolíticas The post Warren Buffett mantém aposta em petróleo, mas alerta para riscos de guerras appeared first on Inf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/460640717.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "O novo acessório da moda contra o calor recorde na Europa",
+        "link": "https://exame.com/casual/o-novo-acessorio-da-moda-contra-o-calor-recorde-na-europa/",
+        "summary": "Vendido por US$ 149,99, cerca de R$ 768, o Shark ChillPill saiu das gôndolas de eletrônicos e apareceu nas arquibancadas de Wimbledon e nas passarelas de Paris",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
-        "link": "https://www.infomoney.com.br/esportes/morre-pai-de-lionel-messi-aos-68-anos-na-argentina/",
-        "summary": "A família havia informado, em junho, que Jorge seguia em recuperação, embora seu estado de saúde ainda fosse considerado delicado The post Morre pai de Lionel Messi aos 68 anos na Argentina appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T173648Z_484130663_UP1EM771CXATG_RTRMADP_3_SOCCER-WORLDCUP-ARG-EGY.jpg?fit=300%2C208&amp;quality=70&amp;strip=all",
+        "title": "‘Amazon financiará usina a gás nos EUA com capacidade equivalente a meia Itaipu’, diz especialista",
+        "link": "https://exame.com/inteligencia-artificial/amazon-financiara-usina-a-gas-nos-eua-com-capacidade-equivalente-a-meia-itaipu-diz-especialista/",
+        "summary": "A empresa americana financia construção de uma enorme usina a gás para centros de dados. Projeto no Texas terá capacidade de 7,65 gigawatts",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Gabriel Medina sofre corte na cabeça durante treino em Teahupoo antes da WSL",
-        "link": "https://www.infomoney.com.br/esportes/gabriel-medina-sofre-corte-na-cabeca-durante-treino-em-teahupoo-antes-da-wsl/",
-        "summary": "Brasileiro precisou de atendimento após incidente durante preparação para a etapa disputada no Taiti The post Gabriel Medina sofre corte na cabeça durante treino em Teahupoo antes da WSL appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/07/Captura-de-Tela-2021-07-02-às-17.34.05.png?fit=300%2C198&amp;quality=70&amp;strip=all",
+        "title": "Bruno Guimarães custou R$ 514 milhões ao Arsenal; veja detalhes do negócio",
+        "link": "https://exame.com/esporte/bruno-guimaraes-custou-r-514-milhoes-ao-arsenal-veja-detalhes-do-negocio/",
+        "summary": "Transferência do meio-campista foi fechada por 75 milhões de libras, cerca de R$ 514,3 milhões",
+        "image": null,
         "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Estrangeiro volta à Bolsa em julho, mas eleições podem frear fluxo no 2º semestre",
-        "link": "https://www.infomoney.com.br/mercados/estrangeiro-volta-a-bolsa-em-julho-mas-eleicoes-podem-frear-fluxo-no-2o-semestre/",
-        "summary": "B3 recebeu R$ 2,6 bilhões de capital externo no mês; petróleo e juros ajudaram, mas cenário fiscal e eleitoral entra no radar The post Estrangeiro volta à Bolsa em julho, mas eleições podem frear fluxo no 2º semestre app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/b3-bolsa-valores-ibovespa-mercado-sp01.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Berkshire Hathaway: lucro por ação classe B mais que dobrou no 2º trimestre de 2026",
-        "link": "https://www.infomoney.com.br/mercados/berkshire-hathaway-lucro-por-acao-classe-b-mais-que-dobrou-no-2o-trimestre-de-2026/",
-        "summary": "A forte valorização acompanha o avanço do lucro líquido atribuível aos acionistas da Berkshire The post Berkshire Hathaway: lucro por ação classe B mais que dobrou no 2º trimestre de 2026 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/2024-06-24T213205Z_867570538_RC2PV0AFCZST_RTRMADP_3_BERKSHIRE-BUFFETT-WILDFIRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "08 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Incêndio florestal atinge cidade no Canadá e provoca retirada de moradores; veja o vídeo",
@@ -330,36 +420,6 @@
         "title": "Caso Coldcard: 'seja seu próprio banco' é um slogan, não uma recomendação séria",
         "link": "https://exame.com/future-of-money/caso-coldcard-seja-seu-proprio-banco-e-um-slogan-nao-uma-recomendacao-seria/",
         "summary": "Para quem não está preparado para a autocustódia, a custódia profissional de criptoativos é a escolha inteligente",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Com Free Flow, Pedágio Digital quer reunir todas as rodovias em um único app",
-        "link": "https://exame.com/brasil/infraestrutura/com-free-flow-pedagio-digital-quer-reunir-todas-as-rodovias-em-um-unico-app/",
-        "summary": "Plataforma criada por Motiva e EcoRodovias quer integrar concessionárias, reduzir a inadimplência e tornar a experiência do motorista mais simples com a expansão do pedágio eletrônico",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Como escrever um e-mail difícil com ajuda da IA sem parecer robótico",
-        "link": "https://exame.com/tecnologia/examelab/como-escrever-um-e-mail-dificil-com-ajuda-da-ia-sem-parecer-desumano-ou-robotico/",
-        "summary": "Cobranças, recusas e pedidos de desculpa escritos com inteligência artificial exigem briefing detalhado e revisão humana para não soarem robóticos",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Tokenizar não é publicar um contrato inteligente no blockchain",
-        "link": "https://exame.com/future-of-money/tokenizar-nao-e-publicar-um-contrato-inteligente-no-blockchain/",
-        "summary": "Tokenizadoras precisam saber responder por que estão tokenizando e qual benefício operacional isso traz ao ativo",
         "image": null,
         "date": "08 de ago. de 2026",
         "source": "Exame",
