@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T14:38:29.478Z",
+  "updated": "2026-08-09T15:35:31.240Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Redes sociais ajudam a despertar interesse por livros, diz escritora",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior",
         "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior img src= https://cdn.jsdelivr.net/gh/sergiosdl",
@@ -161,29 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Rádio Nacional homenageia Dia Internacional dos Povos Indígenas",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Veja fotos do duelo entre Cruzeiro e Mirassol pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-do-duelo-entre-cruzeiro-e-mirassol-pelo-brasileirao/",
+        "summary": "O post Veja fotos do duelo entre Cruzeiro e Mirassol pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452563991_f0329146d5_k.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Cruzeiro x Mirassol: siga o jogo em tempo real pelo Brasileirão 2026",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-x-mirassol-brasileirao-2026/",
+        "summary": "Cruzeiro e Mirassol se enfrentam pela 22ª rodada do Campeonato Brasileiro. O confronto começou as 11h (de Brasília), no Mineirão. O post Cruzeiro x Mirassol: siga o jogo em tempo real pelo Brasileirão 2026 apareceu prime",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452922750_ebb68124c4_c.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos do amistoso entre Liverpool e Monaco",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/veja-fotos-do-amistoso-entre-liverpool-e-monaco/",
+        "summary": "O post Veja fotos do amistoso entre Liverpool e Monaco apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A899M__v1__MidRes__776527817.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Estêvão passa em branco, e Chelsea amarga empate com time da Malásia em amistoso",
         "link": "https://www.gazetaesportiva.com/times/chelsea/estevao-passa-em-branco-e-chelsea-amarga-empate-com-time-da-malasia-em-amistoso/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-golaco-coletivo-imparavel-de-andy-diouf-contra-a-juventus/",
         "summary": "Confira este incrível gol coletivo de Andy Diouf, que ampliou a vantagem da Inter para 2 a 0 sobre a Juventus no amistoso de pré-temporada. O post O golaço coletivo imparável de Andy Diouf contra a Juventus apareceu prim",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/golaco-xx.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Gvardiol e Kovacic fazem seus próprios hashis",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/gvardiol-e-kovacic-fazem-seus-proprios-hashis/",
-        "summary": "Josko Gvardiol e Mateo Kovacic mergulharam na cultura coreana durante sua passagem por Seul. Os croatas aprenderam o básico antes de fazerem seus próprios hashis em uma oficina especial. O post Gvardiol e Kovacic fazem s",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Gvardiol-e-Kovacic.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Man City vence as estrelas da K-League na pré-temporada",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/man-city-vence-as-estrelas-da-k-league-na-pre-temporada/",
-        "summary": "Enzo Maresca conquistou sua primeira vitória como técnico do Manchester City com um triunfo por 3 a 1 sobre uma seleção de estrelas da K-League, no Seoul World Cup Stadium. O post Man City vence as estrelas da K-League n",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/K-League.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Tottenham empata em 1 a 1 com o Getafe",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/tottenham-empata-em-1-a-1-com-o-getafe/",
-        "summary": "O Tottenham Hotspur empatou em 1 a 1 com o Getafe em um amistoso de pré-temporada com portões fechados, disputado no Hotspur Way. O post Tottenham empata em 1 a 1 com o Getafe apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1-com-o-Getafe.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Mauro Vieira diz a jornal argentino que relação depende do fim das agressões de Milei",
+        "link": "https://www.infomoney.com.br/politica/mauro-vieira-diz-a-jornal-argentino-que-relacao-depende-do-fim-das-agressoes-de-milei/",
+        "summary": "Segundo Vieira, Brasília considera o vínculo com Buenos Aires \"primordial\" e quer saber se o atual governo argentino compartilha dessa visão The post Mauro Vieira diz a jornal argentino que relação depende do fim das agr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-15T174233Z_1_LYNXNPEK3E0O4_RTROPTP_4_ISRAEL-PALESTINIANS-POLITICS-BRAZIL.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "ANPD dá prazo ao Discord para prestar informações sobre proteção de menores",
+        "link": "https://www.infomoney.com.br/business/anpd-da-prazo-ao-discord-para-prestas-informacoes-sobre-protecao-de-menores/",
+        "summary": "Agência instaurou processo de fiscalização da plataforma na última sexta-feira The post ANPD dá prazo ao Discord para prestar informações sobre proteção de menores appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/closeup-gavel-judgement-concept.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Bolão feito em Fortaleza (CE) fatura prêmio de R$ 164,9 milhões da Mega-Sena",
+        "link": "https://www.infomoney.com.br/consumo/bolao-feito-em-fortaleza-ce-fatura-premio-de-r-1649-milhoes-da-mega-sena/",
+        "summary": "Os números sorteados foram: 02 – 05 – 10 – 35 – 40 – 53 The post Bolão feito em Fortaleza (CE) fatura prêmio de R$ 164,9 milhões da Mega-Sena appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Mega-Sena.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Nagasaki lembra 81 anos da bomba atômica em meio a debate sobre armas nucleares",
+        "link": "https://www.infomoney.com.br/mundo/nagasaki-lembra-81-anos-da-bomba-atomica-em-meio-a-debate-sobre-armas-nucleares/",
+        "summary": "O aniversário coincidiu com a revisão da política de defesa do governo da primeira-ministra Sanae Takaichi, que busca fortalecer a capacidade ofensiva das Forças de Autodefesa The post Nagasaki lembra 81 anos da bomba at",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Nagasaki-81-anos-da-boma.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Netanyahu: plano do Conselho de Paz dos EUA de 15 pontos para Gaza é rejeitado",
         "link": "https://www.infomoney.com.br/mundo/netanyahu-plano-do-conselho-de-paz-dos-eua-de-15-pontos-para-gaza-e-rejeitado/",
         "summary": "Primeiro ministro de Israel comunicou decisão à imprensa do país neste domingo The post Netanyahu: plano do Conselho de Paz dos EUA de 15 pontos para Gaza é rejeitado appeared first on InfoMoney.",
@@ -327,44 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Em meio à crise diplomática com EUA, plano de Lula cita 31 vezes o termo soberania",
-        "link": "https://www.infomoney.com.br/politica/em-meio-a-crise-diplomatica-com-eua-plano-de-lula-cita-31-vezes-o-termo-soberania/",
-        "summary": "Programa de governo apresentado ao TSE menciona diretamente o presidente dos Estados Unidos, Donald Trump, que aplicou um tarifaço sobre produtos brasileiros The post Em meio à crise diplomática com EUA, plano de Lula ci",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55340519752_982ad89e57_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Feito de 2016 explica por que a IA que já domina a matemática ainda não curou nenhuma doença\"",
+        "link": "https://exame.com/inteligencia-artificial/feito-de-2016-explica-por-que-a-ia-que-ja-domina-a-matematica-ainda-nao-curou-nenhuma-doenca/",
+        "summary": "Há dez anos, um programa do Google fez um lance que humano nenhum faria em uma partida de GO e mudou a percepção sobre inteligência artificial. Agora, o mundo inteiro virou um tabuleiro à espera da jogada na qual todos s",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Quina hoje, concurso 7087: confira o resultado sorteado neste domingo (9)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7087-confira-o-resultado-sorteado-neste-domingo-9/",
-        "summary": "Os números sorteados foram: 25 - 27 - 58 - 65 - 51 The post Quina hoje, concurso 7087: confira o resultado sorteado neste domingo (9) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "title": "30 franquias a partir de R$ 7.490 para pais e filhos empreenderem juntos",
+        "link": "https://exame.com/negocios/30-franquias-a-partir-de-r-7-490-para-pais-e-filhos-empreenderem-juntos/",
+        "summary": "Lista reúne 30 franquias de diferentes segmentos e faixas de investimento para quem quer transformar a parceria entre gerações em um negócio",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Lotofácil hoje, concurso 3757: confira o resultado sorteado neste domingo (9)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3757-confira-o-resultado-sorteado-neste-domingo-9/",
-        "summary": "Os números sorteados foram: 15 - 08 - 20 - 24 - 02 - 04 - 11- 06 - 12 - 23- 22 - 03 - 17 - 01 - 21 The post Lotofácil hoje, concurso 3757: confira o resultado sorteado neste domingo (9) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Os cafés mais bonitos dentro dos museus pelo mundo",
+        "link": "https://exame.com/casual/os-cafes-mais-bonitos-dentro-dos-museus-pelo-mundo/",
+        "summary": "Arquitetura, história e cardápio se combinam em espaços gastronômicos que se tornaram atrações à parte dentro de grandes instituições culturais",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Mega-Sena hoje, concurso 3042: confira o resultado sorteado neste domingo (9)",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3042-confira-o-resultado-sorteado-neste-domingo-9/",
-        "summary": "Os números sorteados foram: 02 - 35 - 53 - 10 - 40 - 05 The post Mega-Sena hoje, concurso 3042: confira o resultado sorteado neste domingo (9) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/20230622_182751.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "3 bi de euros em perdas e 8 mil hectares em chamas: incêndios avançam na Europa",
+        "link": "https://exame.com/esg/3-bi-de-euros-em-perdas-e-8-mil-hectares-em-chamas-incendios-avancam-na-europa/",
+        "summary": "Chamas já atingem 8 mil hectares em Huelva e ampliam a pressão sobre uma Europa marcada por incêndios, evacuações e perdas bilionárias",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Resultado da Mega-Sena hoje: concurso 3042 sorteia R$ 164,9 milhões",
@@ -380,46 +420,6 @@
         "title": "SpaceX recupera US$ 327 bi em valor de mercado e se aproxima do preço do IPO",
         "link": "https://exame.com/invest/mercados/spacex-recupera-us-327-bi-em-valor-de-mercado-e-se-aproxima-do-preco-do-ipo/",
         "summary": "Ações avançam com fim do lock-up e visão otimista de analistas sobre a companhia de Elon Musk",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que Telma Shimizu esperou quase 20 anos para servir salmão no Aizomê",
-        "link": "https://exame.com/casual/por-que-telma-shimizu-esperou-quase-20-anos-para-servir-salmao-no-aizome/",
-        "summary": "A chef passou décadas recusando o peixe por critérios de sustentabilidade. Agora, decidiu incluí-lo no cardápio junto a uma nova fase do restaurante, que acaba de abrir uma nova unidade",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Falta de filtro prejudica mais do que prazo na regulação de criptoativos",
-        "link": "https://exame.com/future-of-money/falta-filtro-prejudica-mais-prazo-regulacao-criptoativos-5819428/",
-        "summary": "O mercado de ativos virtuais precisa diferenciar empresas em processo qualificado de autorização enquanto a regulação não entra plenamente em vigor",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Netanyahu rejeita plano de Trump para Gaza: 'desarmamento real, não fictício'",
-        "link": "https://exame.com/mundo/netanyahu-rejeita-plano-de-trump-para-gaza-desarmamento-real-nao-ficticio/",
-        "summary": "Plano de 15 pontos previa retirada israelense paralela à entrega gradual das armas do grupo palestino",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A IA já chegou aos prédios — mas ainda não escolhe onde construir",
-        "link": "https://exame.com/mercado-imobiliario/a-ia-ja-chegou-aos-predios-mas-ainda-nao-escolhe-onde-construir/",
-        "summary": "Incorporadoras usam IA para acelerar projetos, vendas e obras, mas decisões bilionárias como compra de terrenos continuam dependendo de experiência e relacionamento",
         "image": null,
         "date": "09 de ago. de 2026",
         "source": "Exame",
