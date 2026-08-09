@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T16:39:53.268Z",
+  "updated": "2026-08-09T17:34:47.570Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Justiça abriu as urnas diante da população, diz Nunes Marques",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
@@ -171,19 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Pais estão menos presentes na criação de filhos, aponta estudo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo",
-        "summary": "p Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapartida, oito em cada dez brasileiros consideram alta ou muito alta a im",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Sinner anuncia desistência de Cincinnati e preocupa antes do US Open",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sinner-anuncia-desistencia-de-cincinnati-e-preocupa-antes-do-us-open/",
+        "summary": "Jannik Sinner anunciou sua desistência do Masters 1000 de Cincinnati devido a uma lesão no joelho direito. O número 1 do mundo já havia ficado fora do torneio de Montreal e agora concentra esforços na recuperação para di",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260407__A6XL9PG__v1__HighRes__TennisAtpMonteCarlo.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Kaio Jorge dedica gol ao pai e celebra relação com a filha após vitória do Cruzeiro",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/kaio-jorge-dedica-gol-ao-pai-e-celebra-relacao-com-a-filha-apos-vitoria-do-cruzeiro/",
+        "summary": "Kaio Jorge foi um dos destaques da vitória do Cruzeiro sobre o Mirassol por 3 a 1, pela 22ª rodada do Campeonato Brasileiro. Após marcar um golaço na etapa final, o atacante dedicou o gol ao pai no Dia dos Pais e falou s",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452813943_f715ee3194_k.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Promessa do Palmeiras marca, e Brasil sub-20 bate Bolívia em amistoso",
+        "link": "https://www.gazetaesportiva.com/times/brasil/promessa-do-palmeiras-marca-e-brasil-sub-20-bate-bolivia-em-amistoso/",
+        "summary": "A Seleção Brasileira Sub-20 venceu a Bolívia por 2 a 0 neste domingo, na Granja Comary, em Teresópolis (RJ), em amistoso preparatório para o Sul-Americano da categoria. Bruninho abriu o placar com uma jogada individual, ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Heittor-joia-do-Palmeiras-comemora-seu-gol-no-amistoso-entre-Brasil-e-Bolivia-scaled-aspect-ratio-512-320.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Noroeste vence XV de Piracicaba de virada e conquista primeira vitória na Copa Paulista",
         "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/noroeste-vira-xv-piracicaba-copa-paulista/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-x-mirassol-brasileirao-2026/",
         "summary": "O Cruzeiro venceu o Mirassol por 3 a 1 neste domingo, no Mineirão, pela 22ª rodada do Campeonato Brasileiro. João Marcelo abriu o placar para a Raposa, Reinaldo empatou para os visitantes, mas Kaio Jorge e o estreante We",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452871594_4fd20ceb24_k.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Athletic surpreende e vence o líder Criciúma na Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/athletic-vence-criciuma-serie-b/",
-        "summary": "O Athletic venceu o Criciúma por 2 a 0 neste domingo, no Estádio Joaquim Portugal, pela 21ª rodada da Série B do Campeonato Brasileiro. Pedro Oliveira e Wilinton Aponzá marcaram os gols da equipe mineira, que chegou aos ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapInsta.to_770139479_18452958355139579_8732101904007204004_n.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Monaco de Filipe Luís vira sobre o Liverpool em Anfield e vence amistoso",
-        "link": "https://www.gazetaesportiva.com/times/liverpool/monaco-de-filipe-luis-vira-sobre-o-liverpool-em-anfield-e-vence-amistoso/",
-        "summary": "O Monaco derrotou o Liverpool por 3 a 2, de virada, neste domingo, em amistoso de pré-temporada disputado em Anfield. Os ingleses abriram dois gols de vantagem com Isak e Wirtz, mas os franceses reagiram com Golovin, Bie",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A89B7__v1__MidRes__776527817.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos do duelo entre Cruzeiro e Mirassol pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-do-duelo-entre-cruzeiro-e-mirassol-pelo-brasileirao/",
-        "summary": "O post Veja fotos do duelo entre Cruzeiro e Mirassol pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452563991_f0329146d5_k.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,94 @@
         "cls": ""
       },
       {
-        "title": "Papa Leão renova apelo para que guerra na Ucrânia chegue ao fim",
-        "link": "https://www.infomoney.com.br/mundo/papa-leao-renova-apelo-para-que-guerra-na-ucrania-chegue-ao-fim/",
-        "summary": "Pontífice disse que \"incidentes trágicos estão se multiplicando\" em oração neste domingo The post Papa Leão renova apelo para que guerra na Ucrânia chegue ao fim appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-30T165907Z_482479726_RC2Z6IAIQ45G_RTRMADP_3_POPE-TRIP-LEBANON.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
+        "title": "Paulistas chegam cada vez mais tarde à paternidade; média está em 32 anos",
+        "link": "https://www.infomoney.com.br/brasil/paulistas-chegam-cada-vez-mais-tarde-a-paternidade-media-esta-em-32-anos/",
+        "summary": "Fundação Seade identifica mudança no perfil dos pais nas últimas duas décadas; diferença de idade entre homens e mulheres no nascimento dos filhos também diminuiu The post Paulistas chegam cada vez mais tarde à paternida",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/familia-fofa-segurando-um-telhado-acima-da-cabeca-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Três em cada cinco americanos são a favor de maior fiscalização de mídias sociais",
-        "link": "https://www.infomoney.com.br/mundo/tres-em-cada-cinco-americanos-sao-a-favor-de-maior-fiscalizacao-de-midias-sociais/",
-        "summary": "Pesquisa da Reuters/Ipsos aponta que maioria dos cidadão dos EUA concordam com exigência de ferramentas de verificação de idade The post Três em cada cinco americanos são a favor de maior fiscalização de mídias sociais a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/brett-jordan-fmqhTMu4IVU-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Cresce a adesão à greve nas operações de minério de ferro da BHP na Austrália",
+        "link": "https://www.infomoney.com.br/business/cresce-a-adesao-a-greve-nas-operacoes-de-minerio-de-ferro-da-bhp-na-australia/",
+        "summary": "A paralisação de 24 horas realizada neste domingo por três sindicatos que representam parte da força de trabalho da BHP seguiu-se a uma interrupção de 24 horas no carregamento de navios no sábado The post Cresce a adesão",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BHP-Billiton.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Genial/Quaest: Lula lidera entre mulheres em todos os cenários de segundo turno",
-        "link": "https://www.infomoney.com.br/politica/genial-quaest-lula-lidera-entre-mulheres-em-todos-os-cenarios-de-segundo-turno/",
-        "summary": "Segundo levantamento, presidente teria 47% das intenções em caso de disputa contra Flávio Bolsonaro (PL), contra 35% do bolsonarista The post Genial/Quaest: Lula lidera entre mulheres em todos os cenários de segundo turn",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-09.28.14.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Paramount garante 30 lançamentos anuais a redes de cinema se adquirir Warner",
+        "link": "https://www.infomoney.com.br/business/paramount-garante-30-lancamentos-anuais-a-redes-de-cinema-se-adquirir-warner/",
+        "summary": "Empresa garante ainda que filmes não serão disponibilizados em streaming por 90 dias em tentativa de resolver processo antitruste The post Paramount garante 30 lançamentos anuais a redes de cinema se adquirir Warner appe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444375630.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Colúmbia Britânica declara emergência enquanto mais de 20 mil fogem de incêndios",
-        "link": "https://www.infomoney.com.br/mundo/columbia-britanica-declara-emergencia-enquanto-mais-de-20-mil-fogem-de-incendios/",
-        "summary": "Província do oeste do Canadá lida com fogo que avança rapidamente sobre florestas durante a noite The post Colúmbia Britânica declara emergência enquanto mais de 20 mil fogem de incêndios appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-09T154624Z_555301307_RC2WUMAV7043_RTRMADP_3_CANADA-WILDFIRES.jpg?fit=300%2C226&amp;quality=70&amp;strip=all",
+        "title": "ONS projeta alta de 4,1% no consumo de energia em 2026 no País",
+        "link": "https://www.infomoney.com.br/economia/ons-projeta-alta-de-41-no-consumo-de-energia-em-2026-no-pais/",
+        "summary": "As estimativas consideram a introdução de micro e minigeração distribuída (MMGD), a expansão de data centers e os possíveis efeitos do El Niño The post ONS projeta alta de 4,1% no consumo de energia em 2026 no País appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/energia.jpg?fit=300%2C180&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Pix lidera confiança dos brasileiros, segundo pesquisa Genial/Quaest",
-        "link": "https://www.infomoney.com.br/minhas-financas/pix-lidera-confianca-dos-brasileiros-segundo-pesquisa-genial-quaest/",
-        "summary": "Levantamento aponta que 80% dos entrevistados dizem confiar no sistema de pagamentos instantâneos The post Pix lidera confiança dos brasileiros, segundo pesquisa Genial/Quaest appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/golpe-pix.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Passagem de navios pelo Mar Negro continua sem problemas, afirmam autoridades turcas",
+        "link": "https://www.infomoney.com.br/mundo/passagem-de-navios-pelo-mar-negro-continua-sem-problemas-afirmam-autoridades-turcas/",
+        "summary": "País havia emitido alertas a Rússia e Ucrânia em meio a tensões The post Passagem de navios pelo Mar Negro continua sem problemas, afirmam autoridades turcas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-24T110908Z_1_LYNXNPEL2N0H3_RTROPTP_4_UKRAINE-CRISIS-ODESA-GRAIN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mauro Vieira diz a jornal argentino que relação depende do fim das agressões de Milei",
-        "link": "https://www.infomoney.com.br/politica/mauro-vieira-diz-a-jornal-argentino-que-relacao-depende-do-fim-das-agressoes-de-milei/",
-        "summary": "Segundo Vieira, Brasília considera o vínculo com Buenos Aires \"primordial\" e quer saber se o atual governo argentino compartilha dessa visão The post Mauro Vieira diz a jornal argentino que relação depende do fim das agr",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-15T174233Z_1_LYNXNPEK3E0O4_RTROPTP_4_ISRAEL-PALESTINIANS-POLITICS-BRAZIL.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "JSL (JSLG3) divulga balanço nesta segunda; o que prévia já trouxe?",
+        "link": "https://www.infomoney.com.br/mercados/jsl-jslg3-divulga-balanco-nesta-segunda-o-que-previa-ja-trouxe/",
+        "summary": "A estratégia da companhia para os próximos anos passa por uma profunda reorganização dos negócios The post JSL (JSLG3) divulga balanço nesta segunda; o que prévia já trouxe? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/03/jsl2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Em cinco anos, cidade de SP ganha 1 milhão de empresas — e atrai 100 mil negócios de fora da capital",
+        "link": "https://exame.com/negocios/em-cinco-anos-cidade-de-sp-ganha-1-milhao-de-empresas-e-atrai-100-mil-negocios-de-fora-da-capital/",
+        "summary": "Redução de impostos para atividades de tecnologia e simplificação na abertura de negócios estão entre as medidas usadas pela prefeitura para disputar investimentos",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Rayssa Leal vence por 0,2 ponto e conquista SLS Rio Takeover",
+        "link": "https://exame.com/esporte/rayssa-leal-vence-por-02-ponto-e-conquista-sls-rio-takeover/",
+        "summary": "Aos 18 anos, brasileira chega ao segundo título na temporada da SLS após superar a campeã olímpica Momiji Nishiya",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Debate da Band para governador: veja horários, estados, regras e onde assistir",
+        "link": "https://exame.com/brasil/debate-da-band-para-governador-veja-horarios-estados-regras-e-onde-assistir/",
+        "summary": "Emissora abre neste domingo, 9 de agosto, temporada de debates estaduais das eleições de 2026, com confrontos em 13 estados e no Distrito Federal",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Por que Trump planeja investir US$ 1 bilhão na Colômbia?",
@@ -390,36 +420,6 @@
         "title": "Os sites onde a compra é de graça e o pedido não chega, mas a dopamina sim",
         "link": "https://exame.com/bussola/os-sites-onde-a-compra-e-de-graca-e-o-pedido-nao-chega-mas-a-dopamina-sim/",
         "summary": "Plataformas reproduzem a experiência de lojas virtuais para aliviar a ansiedade e o estresse, sem gerar novos gastos aos usuários",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Feito de 2016 explica por que a IA que já domina a matemática ainda não curou nenhuma doença",
-        "link": "https://exame.com/inteligencia-artificial/feito-de-2016-explica-por-que-a-ia-que-ja-domina-a-matematica-ainda-nao-curou-nenhuma-doenca/",
-        "summary": "Há dez anos, um programa do Google fez um lance que humano nenhum faria em uma partida de GO e mudou a percepção sobre inteligência artificial. Agora, o mundo inteiro virou um tabuleiro à espera da jogada na qual todos s",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "30 franquias a partir de R$ 7.490 para pais e filhos empreenderem juntos",
-        "link": "https://exame.com/negocios/30-franquias-a-partir-de-r-7-490-para-pais-e-filhos-empreenderem-juntos/",
-        "summary": "Lista reúne 30 franquias de diferentes segmentos e faixas de investimento para quem quer transformar a parceria entre gerações em um negócio",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Os cafés mais bonitos dentro dos museus pelo mundo",
-        "link": "https://exame.com/casual/os-cafes-mais-bonitos-dentro-dos-museus-pelo-mundo/",
-        "summary": "Arquitetura, história e cardápio se combinam em espaços gastronômicos que se tornaram atrações à parte dentro de grandes instituições culturais",
         "image": null,
         "date": "09 de ago. de 2026",
         "source": "Exame",
