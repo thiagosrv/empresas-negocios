@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-09T19:36:37.894Z",
+  "updated": "2026-08-09T20:37:17.781Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Morta pelo marido, mulher tinha nas trilhas uma 'válvula de escape' e se afastou do grupo há meses",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/morta-pelo-marido-mulher-tinha-nas-trilhas-uma-valvula-de-escape-e-se-afastou-do-grupo-ha-meses.ghtml",
+        "summary": "Morta pelo marido, Eliane do Carmo Pereira, de 42 anos, tinha a trilha como válvula de escape, segundo amiga Arquivo pessoal A vendedora Eliane do Carmo Pereira, de 42 anos, morta a facadas pelo marido em Valinhos (SP), ",
+        "image": "https://s2-g1.glbimg.com/ge_spj3pdWnvqlElp1MBGD4Iud0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/pEJX16QwWIQqCuhLP7pw/design-sem-nome-2026-08-09t163524.859.jpg",
+        "date": "09 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Motorista morre após bater na traseira de caminhão de lixo na Anhanguera, em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/motorista-morre-apos-bater-na-traseira-de-caminhao-de-lixo-na-anhanguera-em-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/video-dezenas-de-peixes-aparecem-mortos-em-rio-de-lindoia-cetesb-faz-vistoria.ghtml",
         "summary": "Peixes aparecem mortos em rio de Lindóia; Cetesb faz vistoria Dezenas de peixes foram encontrados mortos no Rio do Peixe, perto da rodovia BR-146, em Lindóia (SP), neste sábado (8). Vídeos e fotos feitos por moradores mo",
         "image": "https://s2-g1.glbimg.com/YyRY8sjEDD4wWeg-foQMVqRI4bQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/eCcG12T7ipjom3PhdX1Q/1200px-x-800px.png",
-        "date": "08 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Sumaré concentra metade dos casos de esporotricose na região em 2026; veja sintomas e como prevenir",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/sumare-concentra-metade-dos-casos-de-esporotricose-na-regiao-de-campinas-em-2026-veja-sintomas-e-como-prevenir.ghtml",
-        "summary": "Sumaré concentra 50% dos casos de esporotricose confirmados na região em 2026 A cidade de Sumaré (SP) concentra metade dos casos de esporotricose humana registrados na região de Campinas (SP) em 2026. Segundo a Secretari",
-        "image": "https://s2-g1.glbimg.com/1MN-whMH-kzOvzwjaTfF6BAzGc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/8/X8MHFSQVWGNlwWLFJw2g/1200px-x-800px-8-.jpg",
         "date": "08 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Queixas sexuais na menopausa têm tratamento, diz especialista",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Memória é fundamental na literatura, diz escritor Milton Hatoum",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Avanço da IA corrói financiamento do jornalismo profissional no Brasil",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdl",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Redes sociais ajudam a despertar interesse por livros, diz escritora",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Veja fotos do treino do São Paulo deste domingo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-deste-domingo-6/",
-        "summary": "Veja uma galeria de fotos do treinamento do São Paulo realizado neste domingo, no SuperCT. O post Veja fotos do treino do São Paulo deste domingo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_1845-jpg-1229x1536-1.webp",
+        "title": "Cuca repete time do Santos para enfrentar o Athletico-PR; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-athletico-pr-escalacoes-brasileirao/",
+        "summary": "Santos e Athletico-PR estão escalados para o duelo deste domingo, na Vila Belmiro, pela 22ª rodada do Brasileirão. Sem Neymar e com outros seis desfalques, o Peixe busca se afastar da zona de rebaixamento. O post Cuca re",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPTiJz-XEAIirut.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Porto faz dois gols de pênalti e estreia com vitória no Campeonato Português",
-        "link": "https://www.gazetaesportiva.com/times/porto/porto-faz-dois-gols-de-penalti-e-estreia-com-vitoria-no-campeonato-portugues/",
-        "summary": "O Porto estreou com vitória no Campeonato Português ao vencer o Alverca por 2 a 0 neste domingo, no Estádio do Dragão. Os dois gols saíram em cobranças de pênalti: André Silva abriu o placar aos 9 minutos do primeiro tem",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4AE4ZJ__v1__HighRes__FblPorLigaPortoAlverca.webp",
+        "title": "Allan ganha vaga de André no Corinthians para duelo com o Bragantino",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/allan-ganha-vaga-de-andre-no-corinthians-para-duelo-com-o-bragantino/",
+        "summary": "O Corinthians está escalado para enfrentar o Red Bull Bragantino neste domingo, pela 22ª rodada do Campeonato Brasileiro. A bola rola a partir das 18h30 (de Brasília) no Estádio Cícero de Souza Marques, em Bragança Pauli",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5945.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Boca Juniors anuncia contratação de ex-jogador do Internacional",
-        "link": "https://www.gazetaesportiva.com/times/boca-juniors/boca-juniors-anuncia-contratacao-de-ex-jogador-do-internacional/",
-        "summary": "O Boca Juniors anunciou a contratação do atacante equatoriano Enner Valencia, que assinou contrato até o fim de 2027. O jogador chega após passagem pelo Pachuca, do México, onde marcou 8 gols em 22 partidas. Aos 36 anos,",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/6a78919c505270c5384f778a_IMG_3744.webp",
+        "title": "Palmeiras x Internacional: confira fotos da partida pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-internacional-confira-fotos-da-partida-pelo-brasileirao/",
+        "summary": "O post Palmeiras x Internacional: confira fotos da partida pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55453173613_67f8f1353e_k.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras x Internacional: siga o tempo real do jogo pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-inter-brasileirao-2026/",
-        "summary": "Palmeiras e Inter se enfrentam neste domingo, em duelo válido pela 22ª rodada do Campeonato Brasileiro. Siga em tempo real. O post Palmeiras x Internacional: siga o tempo real do jogo pelo Brasileirão apareceu primeiro e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPTTL_0XAAAB-6X.webp",
+        "title": "Veja fotos do duelo entre Benfica e Académico de Viseu pelo Português",
+        "link": "https://www.gazetaesportiva.com/campeonatos/liga-nos/veja-fotos-do-duelo-entre-benfica-e-academico-de-viseu-pelo-portugues/",
+        "summary": "Veja uma galeria de fotos do duelo entre Benfica e Académico de Viseu, pela primeira rodada do Campeonato Português 2026/27. O post Veja fotos do duelo entre Benfica e Académico de Viseu pelo Português apareceu primeiro ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4AF64G__v1__MidRes__FblPorLigaBenficaAcademico.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "PSG oficializa contratação de Lucas Digne, que volta ao clube após 11 anos",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-anuncia-retorno-lucas-digne/",
-        "summary": "O Paris Saint-Germain anunciou o retorno de Lucas Digne, que assinou contrato por três temporadas, até junho de 2029. Revelado pelo Lille, o lateral francês teve uma primeira passagem pelo clube entre 2013 e 2015 e retor",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapInsta.to_772604255_18615179422024163_5063772083946902251_n.webp",
+        "title": "Artur corre no gramado, e São Paulo abre preparação para pegar o Bolívar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/artur-corre-no-gramado-e-sao-paulo-abre-preparacao-para-pegar-o-bolivar/",
+        "summary": "Confira detalhes do treino do São Paulo neste domingo, realizado no SuperCT. O post Artur corre no gramado, e São Paulo abre preparação para pegar o Bolívar apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_1844-jpg-1229x1536-1.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Titulares voltam, e Abel faz oito mudanças no Palmeiras para jogo contra o Inter; veja escalações",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/escalacoes-palmeiras-x-inter-09-08-2026/",
-        "summary": "Palmeiras e Inter estão escalados para o duelo de logo mais neste domingo, no Nubank Parque, às 16h, pela 22ª rodada do Brasileiro. Veja os times. O post Titulares voltam, e Abel faz oito mudanças no Palmeiras para jogo ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPS8akSW4AA6x_z.webp",
+        "title": "Renovação no esporte da TV Gazeta agora está completa com Mesa Redonda e site",
+        "link": "https://www.gazetaesportiva.com/bastidores/renovacao-no-esporte-da-tv-gazeta-agora-esta-completa-com-mesa-redonda-e-site/",
+        "summary": "A TV Gazeta conclui a primeira fase de sua renovação com os novos cenários do Gazeta Esportiva e Mesa Redonda, além do lançamento do site reformulado da Gazeta Esportiva, focado em interatividade, agilidade e experiência",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-09-at-16.25.37.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,60 +307,60 @@
         "cls": ""
       },
       {
+        "title": "Bactéria carnívora faz estado nos EUA aumentar alerta após infecção em praias",
+        "link": "https://www.infomoney.com.br/mundo/bacteria-carnivora-faz-estado-nos-eua-aumentar-alerta-apos-infeccao-em-praias/",
+        "summary": "Louisiana confirmou nove casos envolvendo o Vibrio vulnificus, segundo Departamento de Sáude The post Bactéria carnívora faz estado nos EUA aumentar alerta após infecção em praias appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/jim-gade-eYWNaMffWHI-unsplash_rec_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Flamengo x Vitória: Onde assistir ao Brasileirão?",
+        "link": "https://www.infomoney.com.br/esportes/flamengo-vitoria-onde-assistir-brasileirao/",
+        "summary": "O vice-líder do Brasileirão joga em casa contra o 13º colocado The post Flamengo x Vitória: Onde assistir ao Brasileirão? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-flamengo-x-vitoria.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Calendário econômico semanal: Ata do Copom, IPCA e inflação nos EUA no foco da agenda",
+        "link": "https://www.infomoney.com.br/mercados/calendario-economico-semanal-ata-do-copom-ipca-e-inflacao-nos-eua-no-foco-da-agenda/",
+        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico semanal: Ata do Copom, IPCA e inflação nos EUA no foco da agenda appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-10T142108Z_1_LYNXMPEK490G1_RTROPTP_3_USA-ECONOMY-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tornado atingiu cidade do Paraná no sábado, confirma sistema Simepar",
+        "link": "https://www.infomoney.com.br/brasil/tornado-atingiu-cidade-do-parana-no-sabado-confirma-sistema-simepar/",
+        "summary": "Segundo o órgão de monitoramento, os vídeos recebidos pelo centro operacional apresentam características visuais compatíveis com a ocorrência do fenômeno; 20 residências da área rural foram atingidas The post Tornado ati",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Tornado-no-Parana.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Onde assistir à Santos x Athletico-PR?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-santos-athletico-pr/",
+        "summary": "Os times chegam de empate no Brasileirão The post Onde assistir à Santos x Athletico-PR? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-santos-x-athletico-pr.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Trump diz que EUA estão “agindo com discrição” e gerando pressão econômica no Irã",
         "link": "https://www.infomoney.com.br/mundo/trump-diz-que-eua-estao-agindo-com-discricao-e-gerando-pressao-economica-no-ira/",
         "summary": "Presidente fez afirmação em entrevista concedida à Axios The post Trump diz que EUA estão “agindo com discrição” e gerando pressão econômica no Irã appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-22T140450Z_737662653_RC2XIMAWAGS3_RTRMADP_3_IRAN-CRISIS-TRANSFER-USA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "RB-Bragantino x Corinthians: Onde assistir?",
-        "link": "https://www.infomoney.com.br/esportes/rb-bragantino-corinthians-onde-assistir-2/",
-        "summary": "Os times chegam de empates nessa rodada The post RB-Bragantino x Corinthians: Onde assistir? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-red-bull-bragantino-x-corinthians.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "SP confirma segundo caso de gripe aviária do ano; ave foi encontrada no Ibirapuera",
-        "link": "https://www.infomoney.com.br/brasil/sp-confirma-segundo-caso-de-gripe-aviaria-do-ano-ave-foi-encontrada-no-ibirapuera/",
-        "summary": "A doença foi identificada em ave silvestre irerê, espécie de marreco comum na África tropical, nas Antilhas e na América do Sul; primeiro caso, em julho, foi em Barretos, em ave da mesma espécie The post SP confirma segu",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/parque-do-ibirapuera.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bahia x Vasco: Onde assistir ao Brasileirão?",
-        "link": "https://www.infomoney.com.br/esportes/bahia-vasco-onde-assistir-brasileirao/",
-        "summary": "Os times chegam de empates The post Bahia x Vasco: Onde assistir ao Brasileirão? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-bahia-x-vasco-da-gama.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Estado de SP tem alerta para risco de temporais e incêndios em vegetação",
-        "link": "https://www.infomoney.com.br/brasil/estado-de-sp-tem-alerta-para-risco-de-temporais-e-incendios-em-vegetacao/",
-        "summary": "Neste domingo (9), Defesa Civil alerta para tempo seco no norte e oeste e risco de tempestades no sul e litoral do Estado The post Estado de SP tem alerta para risco de temporais e incêndios em vegetação appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/nuvens-escuras-em-Sao-Paulo.jpg?fit=300%2C220&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Nunes Marques, do TSE diz que desacreditar as urnas é desconvidar o eleitor",
-        "link": "https://www.infomoney.com.br/politica/nunes-marques-do-tse-diz-que-desacreditar-as-urnas-e-desconvidar-o-eleitor/",
-        "summary": "Ministro disse em evento neste domingo que o sistema de votação brasileiro consolidou a sua credibilidade por meio do aperfeiçoamento tecnológico e de mecanismos de fiscalização e de auditoria, garantindo transparência a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Quanto-ganha-um-prefeito-e1727953852269.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
