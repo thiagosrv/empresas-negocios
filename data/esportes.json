@@ -1,18 +1,7 @@
 {
-  "updated": "2026-08-09T20:51:04.429Z",
+  "updated": "2026-08-09T21:47:26.555Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "O golaço coletivo imparável de Andy Diouf contra a Juventus",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-golaco-coletivo-imparavel-de-andy-diouf-contra-a-juventus/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "09 de ago. de 2026",
-      "isoDate": "2026-08-09",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
     {
       "title": "Melhores momentos: St. Pauli 1 x 1 Greuther Furth pela Segunda Divisão da Bundesliga",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-st-pauli-1-x-1-greuther-furth-pela-segunda-divisao-da-bundesliga/",
@@ -22,7 +11,7 @@
       "isoDate": "2026-08-09",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Estêvão passa em branco, e Chelsea amarga empate com time da Malásia em amistoso",
@@ -44,7 +33,7 @@
       "isoDate": "2026-08-09",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Monaco de Filipe Luís vira sobre o Liverpool em Anfield e vence amistoso",
@@ -66,7 +55,7 @@
       "isoDate": "2026-08-09",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Boca Juniors anuncia contratação de ex-jogador do Internacional",
@@ -77,7 +66,7 @@
       "isoDate": "2026-08-09",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Porto faz dois gols de pênalti e estreia com vitória no Campeonato Português",
@@ -89,6 +78,17 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Como contrata zagueiro Trevoh Chalobah, do Chelsea e da seleção inglesa",
+      "link": "https://www.gazetaesportiva.com/times/chelsea/como-contrata-zagueiro-trevoh-chalobah-do-chelsea-e-da-selecao-inglesa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "09 de ago. de 2026",
+      "isoDate": "2026-08-09",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Promessa do Palmeiras marca, e Brasil sub-20 bate Bolívia em amistoso",
