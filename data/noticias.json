@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T15:35:31.240Z",
+  "updated": "2026-08-09T16:39:53.268Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Justiça abriu as urnas diante da população, diz Nunes Marques",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena",
+        "summary": "p strong Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai receber o prêmio que estava acumulado em R$164.895.645. /strong img src= https://agenciabrasil.ebc.com",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades img src= https://cdn.jsdelivr.net/gh/sergiosdl",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Polícia registrou 783 mil atendimentos especializados à mulher em 2025",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025 img src= https://cdn.jsdelivr.net/gh/ser",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dia dos pais: combate à misoginia começa pelo exemplo em casa",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Noroeste vence XV de Piracicaba de virada e conquista primeira vitória na Copa Paulista",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/noroeste-vira-xv-piracicaba-copa-paulista/",
+        "summary": "O Noroeste venceu o XV de Piracicaba por 2 a 1 neste domingo, no Estádio Alfredo Castilho, pela quarta rodada da Copa Paulista. Após sair atrás, o time de Bauru empatou no segundo tempo e marcou o gol da virada aos 47 mi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapInsta.to_771108626_18610008394025913_421988333213331049_n.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Jadson, ex-Corinthians e São Paulo, é solto após prisão por suspeita de violência doméstica",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/jadson-ex-corinthians-e-sao-paulo-e-solto-apos-prisao-por-suspeita-de-violencia-domestica/",
+        "summary": "Ex-jogador de Corinthians e São Paulo, Jadson foi solto neste domingo após audiência de custódia. Detido por suspeita de violência doméstica no Paraná, ele responderá ao processo em liberdade. O post Jadson, ex-Corinthia",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/05/30/01219163-scaled.jpg",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Wesley marca em estreia, Cruzeiro vence Mirassol e entra no G5 do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-x-mirassol-brasileirao-2026/",
+        "summary": "O Cruzeiro venceu o Mirassol por 3 a 1 neste domingo, no Mineirão, pela 22ª rodada do Campeonato Brasileiro. João Marcelo abriu o placar para a Raposa, Reinaldo empatou para os visitantes, mas Kaio Jorge e o estreante We",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452871594_4fd20ceb24_k.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Athletic surpreende e vence o líder Criciúma na Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/athletic-vence-criciuma-serie-b/",
+        "summary": "O Athletic venceu o Criciúma por 2 a 0 neste domingo, no Estádio Joaquim Portugal, pela 21ª rodada da Série B do Campeonato Brasileiro. Pedro Oliveira e Wilinton Aponzá marcaram os gols da equipe mineira, que chegou aos ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapInsta.to_770139479_18452958355139579_8732101904007204004_n.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Monaco de Filipe Luís vira sobre o Liverpool em Anfield e vence amistoso",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/monaco-de-filipe-luis-vira-sobre-o-liverpool-em-anfield-e-vence-amistoso/",
+        "summary": "O Monaco derrotou o Liverpool por 3 a 2, de virada, neste domingo, em amistoso de pré-temporada disputado em Anfield. Os ingleses abriram dois gols de vantagem com Isak e Wirtz, mas os franceses reagiram com Golovin, Bie",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A89B7__v1__MidRes__776527817.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Veja fotos do duelo entre Cruzeiro e Mirassol pelo Brasileirão",
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-do-duelo-entre-cruzeiro-e-mirassol-pelo-brasileirao/",
         "summary": "O post Veja fotos do duelo entre Cruzeiro e Mirassol pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452563991_f0329146d5_k.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cruzeiro x Mirassol: siga o jogo em tempo real pelo Brasileirão 2026",
-        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-x-mirassol-brasileirao-2026/",
-        "summary": "Cruzeiro e Mirassol se enfrentam pela 22ª rodada do Campeonato Brasileiro. O confronto começou as 11h (de Brasília), no Mineirão. O post Cruzeiro x Mirassol: siga o jogo em tempo real pelo Brasileirão 2026 apareceu prime",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452922750_ebb68124c4_c.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos do amistoso entre Liverpool e Monaco",
-        "link": "https://www.gazetaesportiva.com/times/liverpool/veja-fotos-do-amistoso-entre-liverpool-e-monaco/",
-        "summary": "O post Veja fotos do amistoso entre Liverpool e Monaco apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A899M__v1__MidRes__776527817.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Estêvão passa em branco, e Chelsea amarga empate com time da Malásia em amistoso",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/estevao-passa-em-branco-e-chelsea-amarga-empate-com-time-da-malasia-em-amistoso/",
-        "summary": "O Chelsea empatou por 3 a 3 com o Johor Darul Ta'zim, da Malásia, em amistoso de pré-temporada disputado no Estádio Sultan Ibrahim. Liam Delap marcou duas vezes para os ingleses, enquanto Estêvão esteve entre os destaque",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-09-at-10.59.38.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: St. Pauli 1 x 1 Greuther Furth pela Segunda Divisão da Bundesliga",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-st-pauli-1-x-1-greuther-furth-pela-segunda-divisao-da-bundesliga/",
-        "summary": "Melhores momentos: St. Pauli 1 x 1 Greuther Furth pela Segunda Divisão da Bundesliga O post Melhores momentos: St. Pauli 1 x 1 Greuther Furth pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/St.-Pauli-1.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "O golaço coletivo imparável de Andy Diouf contra a Juventus",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-golaco-coletivo-imparavel-de-andy-diouf-contra-a-juventus/",
-        "summary": "Confira este incrível gol coletivo de Andy Diouf, que ampliou a vantagem da Inter para 2 a 0 sobre a Juventus no amistoso de pré-temporada. O post O golaço coletivo imparável de Andy Diouf contra a Juventus apareceu prim",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/golaco-xx.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Papa Leão renova apelo para que guerra na Ucrânia chegue ao fim",
+        "link": "https://www.infomoney.com.br/mundo/papa-leao-renova-apelo-para-que-guerra-na-ucrania-chegue-ao-fim/",
+        "summary": "Pontífice disse que \"incidentes trágicos estão se multiplicando\" em oração neste domingo The post Papa Leão renova apelo para que guerra na Ucrânia chegue ao fim appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-30T165907Z_482479726_RC2Z6IAIQ45G_RTRMADP_3_POPE-TRIP-LEBANON.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Três em cada cinco americanos são a favor de maior fiscalização de mídias sociais",
+        "link": "https://www.infomoney.com.br/mundo/tres-em-cada-cinco-americanos-sao-a-favor-de-maior-fiscalizacao-de-midias-sociais/",
+        "summary": "Pesquisa da Reuters/Ipsos aponta que maioria dos cidadão dos EUA concordam com exigência de ferramentas de verificação de idade The post Três em cada cinco americanos são a favor de maior fiscalização de mídias sociais a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/brett-jordan-fmqhTMu4IVU-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Genial/Quaest: Lula lidera entre mulheres em todos os cenários de segundo turno",
+        "link": "https://www.infomoney.com.br/politica/genial-quaest-lula-lidera-entre-mulheres-em-todos-os-cenarios-de-segundo-turno/",
+        "summary": "Segundo levantamento, presidente teria 47% das intenções em caso de disputa contra Flávio Bolsonaro (PL), contra 35% do bolsonarista The post Genial/Quaest: Lula lidera entre mulheres em todos os cenários de segundo turn",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-09.28.14.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Colúmbia Britânica declara emergência enquanto mais de 20 mil fogem de incêndios",
+        "link": "https://www.infomoney.com.br/mundo/columbia-britanica-declara-emergencia-enquanto-mais-de-20-mil-fogem-de-incendios/",
+        "summary": "Província do oeste do Canadá lida com fogo que avança rapidamente sobre florestas durante a noite The post Colúmbia Britânica declara emergência enquanto mais de 20 mil fogem de incêndios appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-09T154624Z_555301307_RC2WUMAV7043_RTRMADP_3_CANADA-WILDFIRES.jpg?fit=300%2C226&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Pix lidera confiança dos brasileiros, segundo pesquisa Genial/Quaest",
+        "link": "https://www.infomoney.com.br/minhas-financas/pix-lidera-confianca-dos-brasileiros-segundo-pesquisa-genial-quaest/",
+        "summary": "Levantamento aponta que 80% dos entrevistados dizem confiar no sistema de pagamentos instantâneos The post Pix lidera confiança dos brasileiros, segundo pesquisa Genial/Quaest appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/golpe-pix.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "09 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Mauro Vieira diz a jornal argentino que relação depende do fim das agressões de Milei",
         "link": "https://www.infomoney.com.br/politica/mauro-vieira-diz-a-jornal-argentino-que-relacao-depende-do-fim-das-agressoes-de-milei/",
         "summary": "Segundo Vieira, Brasília considera o vínculo com Buenos Aires \"primordial\" e quer saber se o atual governo argentino compartilha dessa visão The post Mauro Vieira diz a jornal argentino que relação depende do fim das agr",
@@ -317,57 +367,37 @@
         "cls": "brasil"
       },
       {
-        "title": "ANPD dá prazo ao Discord para prestar informações sobre proteção de menores",
-        "link": "https://www.infomoney.com.br/business/anpd-da-prazo-ao-discord-para-prestas-informacoes-sobre-protecao-de-menores/",
-        "summary": "Agência instaurou processo de fiscalização da plataforma na última sexta-feira The post ANPD dá prazo ao Discord para prestar informações sobre proteção de menores appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/closeup-gavel-judgement-concept.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
+        "title": "Por que Trump planeja investir US$ 1 bilhão na Colômbia?",
+        "link": "https://exame.com/mundo/por-que-trump-planeja-investir-us-1-bilhao-na-colombia/",
+        "summary": "Novo governo colombiano rompe com estratégia de “paz total” de Gustavo Petro e sinaliza maior alinhamento com a agenda de Donald Trump",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Bolão feito em Fortaleza (CE) fatura prêmio de R$ 164,9 milhões da Mega-Sena",
-        "link": "https://www.infomoney.com.br/consumo/bolao-feito-em-fortaleza-ce-fatura-premio-de-r-1649-milhoes-da-mega-sena/",
-        "summary": "Os números sorteados foram: 02 – 05 – 10 – 35 – 40 – 53 The post Bolão feito em Fortaleza (CE) fatura prêmio de R$ 164,9 milhões da Mega-Sena appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Mega-Sena.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Ele começou lavando pratos. Agora, seus filhos lideram rede de botecos de R$ 15 mi que leva seu nome",
+        "link": "https://exame.com/negocios/ele-comecou-lavando-pratos-agora-seus-filhos-lideram-rede-de-botecos-de-r-15-mi-que-leva-seu-nome/",
+        "summary": "Antônio Rufino saiu do Ceará em busca de oportunidades e criou um boteco no Rio de Janeiro que se transformou em uma rede de franquias com faturamento de R$ 15 milhões",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Nagasaki lembra 81 anos da bomba atômica em meio a debate sobre armas nucleares",
-        "link": "https://www.infomoney.com.br/mundo/nagasaki-lembra-81-anos-da-bomba-atomica-em-meio-a-debate-sobre-armas-nucleares/",
-        "summary": "O aniversário coincidiu com a revisão da política de defesa do governo da primeira-ministra Sanae Takaichi, que busca fortalecer a capacidade ofensiva das Forças de Autodefesa The post Nagasaki lembra 81 anos da bomba at",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Nagasaki-81-anos-da-boma.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "title": "Os sites onde a compra é de graça e o pedido não chega, mas a dopamina sim",
+        "link": "https://exame.com/bussola/os-sites-onde-a-compra-e-de-graca-e-o-pedido-nao-chega-mas-a-dopamina-sim/",
+        "summary": "Plataformas reproduzem a experiência de lojas virtuais para aliviar a ansiedade e o estresse, sem gerar novos gastos aos usuários",
+        "image": null,
         "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Netanyahu: plano do Conselho de Paz dos EUA de 15 pontos para Gaza é rejeitado",
-        "link": "https://www.infomoney.com.br/mundo/netanyahu-plano-do-conselho-de-paz-dos-eua-de-15-pontos-para-gaza-e-rejeitado/",
-        "summary": "Primeiro ministro de Israel comunicou decisão à imprensa do país neste domingo The post Netanyahu: plano do Conselho de Paz dos EUA de 15 pontos para Gaza é rejeitado appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Benjamin-Netanyahu.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Rodada de debates eleitorais começa neste domingo. Por que Minas está de fora?",
-        "link": "https://www.infomoney.com.br/politica/rodada-de-debates-eleitorais-comeca-neste-domingo-por-que-minas-esta-de-fora/",
-        "summary": "Cenário de indefinição política no estado provocou adiamento da transmissão; outras 13 unidades Federativas terão transmissões hoje The post Rodada de debates eleitorais começa neste domingo. Por que Minas está de fora? ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/cleitinho-azevedo-1.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "09 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Feito de 2016 explica por que a IA que já domina a matemática ainda não curou nenhuma doença\"",
+        "title": "Feito de 2016 explica por que a IA que já domina a matemática ainda não curou nenhuma doença",
         "link": "https://exame.com/inteligencia-artificial/feito-de-2016-explica-por-que-a-ia-que-ja-domina-a-matematica-ainda-nao-curou-nenhuma-doenca/",
         "summary": "Há dez anos, um programa do Google fez um lance que humano nenhum faria em uma partida de GO e mudou a percepção sobre inteligência artificial. Agora, o mundo inteiro virou um tabuleiro à espera da jogada na qual todos s",
         "image": null,
@@ -390,36 +420,6 @@
         "title": "Os cafés mais bonitos dentro dos museus pelo mundo",
         "link": "https://exame.com/casual/os-cafes-mais-bonitos-dentro-dos-museus-pelo-mundo/",
         "summary": "Arquitetura, história e cardápio se combinam em espaços gastronômicos que se tornaram atrações à parte dentro de grandes instituições culturais",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "3 bi de euros em perdas e 8 mil hectares em chamas: incêndios avançam na Europa",
-        "link": "https://exame.com/esg/3-bi-de-euros-em-perdas-e-8-mil-hectares-em-chamas-incendios-avancam-na-europa/",
-        "summary": "Chamas já atingem 8 mil hectares em Huelva e ampliam a pressão sobre uma Europa marcada por incêndios, evacuações e perdas bilionárias",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Resultado da Mega-Sena hoje: concurso 3042 sorteia R$ 164,9 milhões",
-        "link": "https://exame.com/invest/minhas-financas/resultado-da-mega-sena-hoje-concurso-3042-sorteia-r-1649-milhoes/",
-        "summary": "Concurso 3042 teve prêmio estimado em R$ 164,9 milhões",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "SpaceX recupera US$ 327 bi em valor de mercado e se aproxima do preço do IPO",
-        "link": "https://exame.com/invest/mercados/spacex-recupera-us-327-bi-em-valor-de-mercado-e-se-aproxima-do-preco-do-ipo/",
-        "summary": "Ações avançam com fim do lock-up e visão otimista de analistas sobre a companhia de Elon Musk",
         "image": null,
         "date": "09 de ago. de 2026",
         "source": "Exame",
