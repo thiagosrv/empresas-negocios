@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-09T08:49:04.200Z",
+  "updated": "2026-08-09T09:43:43.330Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Acidente da Voepass: dois anos depois, famílias de vítimas ainda lutam por justiça",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/acidente-da-voepass-dois-anos-depois-familias-de-vitimas-ainda-lutam-por-justica.ghtml",
+        "summary": "A saudade não diminui com o tempo. Há dois anos, familiares e amigos convivem com a dor e a busca por respostas e Justiça para as 62 vítimas do voo 2283 da Voepass, que caiu em Vinhedo (SP) em 9 de agosto de 2024. Adrian",
+        "image": "https://s2-g1.glbimg.com/U6OEAQg62eIpnroGOIb24eNTw_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/o/Sw9Lo8Qpmx5MtDPgfDzg/000-36dh6mb.jpg",
+        "date": "09 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Eleitores com nome social crescem 32% em Campinas: 'Exercendo o meu direito'",
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/08/eleitores-com-nome-social-crescem-32percent-em-campinas-exercendo-o-meu-direito.ghtml",
@@ -53,14 +63,64 @@
         "cls": "brasil"
       },
       {
-        "title": "Homem mata mulher a facadas em Valinhos; vítima já teve medida protetiva contra o marido",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/08/mulher-e-morta-a-facadas-em-valinhos.ghtml",
-        "summary": "Homem mata mulher a facadas em Valinhos; vítima tinha medida protetiva Um homem matou a esposa a facadas na manhã deste sábado (8), no Loteamento Residencial Ana Carolina, em Valinhos (SP). Após o crime, Márcio de Souza ",
-        "image": "https://s2-g1.glbimg.com/uvvGhJyGV--JpKhVTTquCLZn8tk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/bHcAuHRsagwtZXoKNXoQ/733692697-3777850929020654-7068355033683163958-n-1-.jpg",
-        "date": "08 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "title": "Cabine Lilás: Polícia Militar amplia apoio e proteção às mulheres vítimas de violência",
+        "link": "https://jornalamericanense.com.br/policia/cabine-lilas-policia-militar-amplia-apoio-e-protecao-as-mulheres-vitimas-de-violencia/",
+        "summary": "Programa da Polícia Militar oferece atendimento especializado e acolhimento às vítimas; somente na área do CPI-9, mais de 4 mil ocorrências foram registradas desde a implantação da iniciativa Em referência ao Agosto Lilá",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Homem é preso em flagrante por tráfico de drogas em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/policia/homem-e-preso-em-flagrante-por-trafico-de-drogas-em-santa-barbara-doeste/",
+        "summary": "Abordagem da Força Tática ocorreu no Conjunto Habitacional dos Trabalhadores; policiais apreenderam crack, cocaína e dinheiro Um homem de 22 anos foi preso em flagrante por tráfico de drogas na tarde desta quinta-feira (",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Festival de música autoral de Americana terá shows de Ana Cañas e da Orquestra Sinfônica neste fim de semana",
+        "link": "https://jornalamericanense.com.br/cultura/festival-de-musica-autoral-de-americana-tera-shows-de-ana-canas-e-da-orquestra-sinfonica-neste-fim-de-semana/",
+        "summary": "A primeira edição do Festival de Música de Americana (FEMAM) ocorre neste sábado (8) e domingo (9), na Praça Comendador Müller, no Centro, com uma programação que une peso nacional e valorização da cena local. No sábado,",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura de Americana aplica agente biológico para controle do carrapato-estrela em áreas de risco",
+        "link": "https://jornalamericanense.com.br/saude/prefeitura-de-americana-aplica-agente-biologico-para-controle-do-carrapato-estrela-em-areas-de-risco/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Meio Ambiente, realiza a aplicação de metarriso (nome científico Metarhizium), fungo usado para o controle do carrapato-estrela, transmissor da febre maculosa, em área",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana consolida resultados positivos em índice de Educação",
+        "link": "https://jornalamericanense.com.br/cidades/americana-consolida-resultados-positivos-em-indice-de-educacao/",
+        "summary": "Americana consolidou sua posição de destaque nos resultados do Índice de Desenvolvimento da Educação Básica (ldeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (MEC) e Instituto Nacional de Estudos",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Roteiro Gastronômico tem estabelecimentos definidos para edição de 2026",
+        "link": "https://jornalamericanense.com.br/gastronomia/roteiro-gastronomico-tem-estabelecimentos-definidos-para-edicao-de-2026/",
+        "summary": "Os 40 estabelecimentos de alimentação participantes da edição de 2026 do Roteiro Gastronômico, realizado pela Prefeitura de Americana, por meio da Secretaria de Cultura e Turismo, foram definidos. O evento vai reunir opç",
+        "image": null,
+        "date": "07 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica",
@@ -125,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Análise: São Paulo vive filme repetido no Brasileiro e vê pressão aumentar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/analise-sao-paulo-vive-filme-repetido-no-brasileiro-e-ve-pressao-aumentar/",
+        "summary": "Confira a análise da Gazeta Esportiva sobre a atuação do São Paulo no XXX contra o Grêmio, no último sábado, fora de casa, pelo Brasileirão. O post Análise: São Paulo vive filme repetido no Brasileiro e vê pressão aument",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55450194672_b2e1e0e833_o.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Calleri sai p de derrota e cobra reação do São Paulo: Brasileirão é traiçoeiro",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-sai-p-de-derrota-e-cobra-reacao-do-sao-paulo-no-brasileiro-campeonato-e-traicoeiro/",
         "summary": "Calleri desabafou na zona mista e endureceu a postura de cobrança ao São Paulo após um novo tropeço e o aumento do jejum no Brasileirão. O post Calleri sai p de derrota e cobra reação do São Paulo: Brasileirão é traiçoei",
@@ -169,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/inter-miami/veja-as-fotos-de-inter-miami-x-monterrey-pela-leagues-cup/",
         "summary": "O post Veja as fotos de Inter Miami x Monterrey pela Leagues Cup apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__2289654289__v1__MidRes__InterMiamiCfVCfMonterreyLeaguesCupPhaseOne.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Suposta terceira camisa do Corinthians vaza nas redes sociais; veja foto",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/terceira-camisa-corinthians-2026-27-vaza-foto/",
-        "summary": "Imagens da suposta terceira camisa do Corinthians para a temporada 2026/27 começaram a circular nas redes sociais neste sábado. O modelo é predominantemente azul-claro e mantém a temática adotada pelo clube em homenagem ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/terceira-camisa-do-corinthians-26-27-vazou.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +367,36 @@
         "cls": "brasil"
       },
       {
+        "title": "Palmeiras x Internacional: veja horário e onde assistir ao jogo pelo Brasileirão",
+        "link": "https://exame.com/esporte/palmeiras-x-internacional-veja-horario-e-onde-assistir-ao-jogo-pelo-brasileirao/",
+        "summary": "Partida será disputada neste domingo, 9, no Nubank Parque, em São Paulo",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "GPTs, Gems e Projects: qual solução faz mais sentido para centralizar o conhecimento da empresa",
+        "link": "https://exame.com/inteligencia-artificial/gpts-gems-e-projects-qual-solucao-faz-mais-sentido-para-centralizar-o-conhecimento-da-empresa/",
+        "summary": "As principais plataformas de inteligência artificial passaram a oferecer recursos para criar assistentes personalizados e entender as diferenças entre eles ajuda empresas a escolher a alternativa mais adequada",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Santos x Athletico-PR: horário e onde assistir ao jogo do Brasileirão hoje",
+        "link": "https://exame.com/esporte/santos-x-athletico-pr-horario-e-onde-assistir-ao-jogo-do-brasileirao-hoje/",
+        "summary": "Santos recebe o Athletico-PR neste domingo, 9, às 18h30, na Vila Belmiro, pela 22ª rodada do Campeonato Brasileiro; veja onde assistir e escalações prováveis",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Jogos de hoje: horário e onde assistir aos duelos deste domingo, 9",
         "link": "https://exame.com/esporte/jogos-de-hoje-horario-e-onde-assistir-aos-duelos-deste-domingo-9/",
         "summary": "Brasileirão tem cinco partidas neste domingo, com destaque para Palmeiras x Internacional, Bahia x Vasco e Flamengo x Vitória. A programação ainda reúne Série B, futebol feminino, amistosos e duelos da Leagues Cup",
@@ -332,36 +422,6 @@
         "summary": "Times se enfrentam neste domingo, 9, às 11h, no Mineirão, pela 22ª rodada do Campeonato Brasileiro",
         "image": null,
         "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Super El Niño: fenômeno climático deve pressionar inflação em 2027",
-        "link": "https://exame.com/brasil/super-el-nino-fenomeno-climatico-deve-pressionar-inflacao-em-2027/",
-        "summary": "Super El Niño se fortalece e pode elevar a inflação da alimentação a até 11% entre agosto e novembro de 2027; entenda por que arroz e feijão devem liderar as altas.",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "OpenAI prepara entrada no mercado de hardware com dispositivo de IA previsto para 2027",
-        "link": "https://exame.com/inteligencia-artificial/openai-prepara-entrada-no-mercado-de-hardware-com-dispositivo-de-ia-previsto-para-2027/",
-        "summary": "Aparelho terá bateria, câmeras e sensores e pode levar o ChatGPT para além de celulares e computadores",
-        "image": null,
-        "date": "08 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "João Fonseca tem revanche contra Shelton no Masters de Montreal; veja quando",
-        "link": "https://exame.com/esporte/joao-fonseca-tem-revanche-contra-shelton-no-masters-de-montreal-veja-quando/",
-        "summary": "Brasileiro enfrenta o americano pela segunda vez em 2026, agora nas oitavas de final do Masters 1000 de Montreal",
-        "image": null,
-        "date": "08 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
