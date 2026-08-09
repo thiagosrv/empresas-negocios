@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T17:34:47.570Z",
+  "updated": "2026-08-09T18:46:59.066Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Avanço da IA corrói financiamento do jornalismo profissional no Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdl",
@@ -171,19 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "PSG oficializa contratação de Lucas Digne, que volta ao clube após 11 anos",
+        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-anuncia-retorno-lucas-digne/",
+        "summary": "O Paris Saint-Germain anunciou o retorno de Lucas Digne, que assinou contrato por três temporadas, até junho de 2029. Revelado pelo Lille, o lateral francês teve uma primeira passagem pelo clube entre 2013 e 2015 e retor",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapInsta.to_772604255_18615179422024163_5063772083946902251_n.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Titulares voltam, e Abel faz oito mudanças no Palmeiras para jogo contra o Inter; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/escalacoes-palmeiras-x-inter-09-08-2026/",
+        "summary": "Palmeiras e Inter estão escalados para o duelo de logo mais neste domingo, no Nubank Parque, às 16h, pela 22ª rodada do Brasileiro. Veja os times. O post Titulares voltam, e Abel faz oito mudanças no Palmeiras para jogo ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPS8akSW4AA6x_z.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Lionel Messi acompanha funeral do pai e recebe homenagens na Argentina",
+        "link": "https://www.gazetaesportiva.com/times/argentina/lionel-messi-acompanha-funeral-do-pai-e-recebe-homenagens-na-argentina/",
+        "summary": "Lionel Messi participou neste fim de semana das despedidas ao pai, Jorge Messi, em Rosário, na Argentina. O ex-agente do astro faleceu aos 68 anos, e o funeral reuniu familiares, amigos e homenagens de torcedores. Clubes",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A899J__v1__MidRes__FblArgentinaDeath.webp",
+        "date": "09 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Sinner anuncia desistência de Cincinnati e preocupa antes do US Open",
         "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sinner-anuncia-desistencia-de-cincinnati-e-preocupa-antes-do-us-open/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/brasil/promessa-do-palmeiras-marca-e-brasil-sub-20-bate-bolivia-em-amistoso/",
         "summary": "A Seleção Brasileira Sub-20 venceu a Bolívia por 2 a 0 neste domingo, na Granja Comary, em Teresópolis (RJ), em amistoso preparatório para o Sul-Americano da categoria. Bruninho abriu o placar com uma jogada individual, ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/Heittor-joia-do-Palmeiras-comemora-seu-gol-no-amistoso-entre-Brasil-e-Bolivia-scaled-aspect-ratio-512-320.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Noroeste vence XV de Piracicaba de virada e conquista primeira vitória na Copa Paulista",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/noroeste-vira-xv-piracicaba-copa-paulista/",
-        "summary": "O Noroeste venceu o XV de Piracicaba por 2 a 1 neste domingo, no Estádio Alfredo Castilho, pela quarta rodada da Copa Paulista. Após sair atrás, o time de Bauru empatou no segundo tempo e marcou o gol da virada aos 47 mi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapInsta.to_771108626_18610008394025913_421988333213331049_n.webp",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Jadson, ex-Corinthians e São Paulo, é solto após prisão por suspeita de violência doméstica",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/jadson-ex-corinthians-e-sao-paulo-e-solto-apos-prisao-por-suspeita-de-violencia-domestica/",
-        "summary": "Ex-jogador de Corinthians e São Paulo, Jadson foi solto neste domingo após audiência de custódia. Detido por suspeita de violência doméstica no Paraná, ele responderá ao processo em liberdade. O post Jadson, ex-Corinthia",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/05/30/01219163-scaled.jpg",
-        "date": "09 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Wesley marca em estreia, Cruzeiro vence Mirassol e entra no G5 do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-x-mirassol-brasileirao-2026/",
-        "summary": "O Cruzeiro venceu o Mirassol por 3 a 1 neste domingo, no Mineirão, pela 22ª rodada do Campeonato Brasileiro. João Marcelo abriu o placar para a Raposa, Reinaldo empatou para os visitantes, mas Kaio Jorge e o estreante We",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452871594_4fd20ceb24_k.webp",
         "date": "09 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,74 @@
         "cls": ""
       },
       {
-        "title": "Paulistas chegam cada vez mais tarde à paternidade; média está em 32 anos",
-        "link": "https://www.infomoney.com.br/brasil/paulistas-chegam-cada-vez-mais-tarde-a-paternidade-media-esta-em-32-anos/",
-        "summary": "Fundação Seade identifica mudança no perfil dos pais nas últimas duas décadas; diferença de idade entre homens e mulheres no nascimento dos filhos também diminuiu The post Paulistas chegam cada vez mais tarde à paternida",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/familia-fofa-segurando-um-telhado-acima-da-cabeca-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Pentágono pressiona indústria a ampliar produção de armamentos; estoques estão baixos",
+        "link": "https://www.infomoney.com.br/mundo/pentagono-pressiona-industria-a-ampliar-producao-de-armamentos-estoques-estao-baixos/",
+        "summary": "Alerta surge num momento em que os recentes combates com o Irã consumiram ainda mais os estoques já reduzidos de interceptores de mísseis avançados das forças armadas dos EUA The post Pentágono pressiona indústria a ampl",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-29T232724Z_1564882595_RC2ZNMAPH43U_RTRMADP_3_USA-PENTAGON-PATRIOT.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Cresce a adesão à greve nas operações de minério de ferro da BHP na Austrália",
-        "link": "https://www.infomoney.com.br/business/cresce-a-adesao-a-greve-nas-operacoes-de-minerio-de-ferro-da-bhp-na-australia/",
-        "summary": "A paralisação de 24 horas realizada neste domingo por três sindicatos que representam parte da força de trabalho da BHP seguiu-se a uma interrupção de 24 horas no carregamento de navios no sábado The post Cresce a adesão",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BHP-Billiton.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Flávio publica carta no Dia dos Pais após Moraes negar visita a Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/flavio-publica-carta-no-dia-dos-pais-apos-moraes-negar-visita-a-bolsonaro/",
+        "summary": "Em vídeo, Flávio apareceu emocionado ao ler trechos do texto e criticou a decisão do ministro do Supremo Tribunal Federal;\" é desumano, é insano, é injusto, é triste\" The post Flávio publica carta no Dia dos Pais após Mo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Flavio-Bolsonaro.jpeg?fit=300%2C229&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Paramount garante 30 lançamentos anuais a redes de cinema se adquirir Warner",
-        "link": "https://www.infomoney.com.br/business/paramount-garante-30-lancamentos-anuais-a-redes-de-cinema-se-adquirir-warner/",
-        "summary": "Empresa garante ainda que filmes não serão disponibilizados em streaming por 90 dias em tentativa de resolver processo antitruste The post Paramount garante 30 lançamentos anuais a redes de cinema se adquirir Warner appe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/444375630.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Espanha reintroduz controles em voos e navios da Itália em meio a disputa migratória",
+        "link": "https://www.infomoney.com.br/mundo/espanha-reintroduz-controles-em-voos-e-navios-da-italia-em-meio-a-disputa-migratoria/",
+        "summary": "A medida ocorre em meio a uma disputa com Roma: a Itália suspendeu a livre circulação com a Espanha no âmbito do Espaço Schengen desde 1º de agosto The post Espanha reintroduz controles em voos e navios da Itália em meio",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Imigracao-Espanha-Italia.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "ONS projeta alta de 4,1% no consumo de energia em 2026 no País",
-        "link": "https://www.infomoney.com.br/economia/ons-projeta-alta-de-41-no-consumo-de-energia-em-2026-no-pais/",
-        "summary": "As estimativas consideram a introdução de micro e minigeração distribuída (MMGD), a expansão de data centers e os possíveis efeitos do El Niño The post ONS projeta alta de 4,1% no consumo de energia em 2026 no País appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/energia.jpg?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "title": "Banco do Brasil, Hapvida e mais divulgam balanços do 2T26 nesta semana; veja agenda",
+        "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-hapvida-e-mais-divulgam-balancos-do-2t26-nesta-semana-veja-agenda/",
+        "summary": "CSN, JBS e Embraer também divulgam seus números durante a semana The post Banco do Brasil, Hapvida e mais divulgam balanços do 2T26 nesta semana; veja agenda appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/Captura-de-tela-2025-05-16-083653.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Passagem de navios pelo Mar Negro continua sem problemas, afirmam autoridades turcas",
-        "link": "https://www.infomoney.com.br/mundo/passagem-de-navios-pelo-mar-negro-continua-sem-problemas-afirmam-autoridades-turcas/",
-        "summary": "País havia emitido alertas a Rússia e Ucrânia em meio a tensões The post Passagem de navios pelo Mar Negro continua sem problemas, afirmam autoridades turcas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-24T110908Z_1_LYNXNPEL2N0H3_RTROPTP_4_UKRAINE-CRISIS-ODESA-GRAIN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "FIFA cita “esforço coordenado” para minar Infantino; crise de liderança se agrava",
+        "link": "https://www.infomoney.com.br/esportes/fifa-cita-esforco-coordenado-para-minar-infantino-crise-de-lideranca-se-agrava/",
+        "summary": "Declaração foi feita em meio a um impasse em torno da liderança de Infantino, após o fracasso de sua proposta de arrecadar cerca de US$ 4,2 bilhões com a venda de uma participação nos direitos da Copa do Mundo The post F",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Infantino-Fifa.jpg?fit=300%2C221&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "JSL (JSLG3) divulga balanço nesta segunda; o que prévia já trouxe?",
-        "link": "https://www.infomoney.com.br/mercados/jsl-jslg3-divulga-balanco-nesta-segunda-o-que-previa-ja-trouxe/",
-        "summary": "A estratégia da companhia para os próximos anos passa por uma profunda reorganização dos negócios The post JSL (JSLG3) divulga balanço nesta segunda; o que prévia já trouxe? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/03/jsl2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Empresário investigado por lavagem de dinheiro bancou cripto de Trump com US$ 100 mi",
+        "link": "https://www.infomoney.com.br/business/global/empresario-investigado-por-lavagem-de-dinheiro-bancou-cripto-de-trump-com-us-100-mi/",
+        "summary": "Guren \"Bobby\" Zhou é investigado por lavagem de dinheiro e presidiu colapso de uma startup The post Empresário investigado por lavagem de dinheiro bancou cripto de Trump com US$ 100 mi appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/TRUMP-CRYPTO-INVESTOR_red_rec.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "09 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Libertadores entra na fase decisiva com prêmio recorde e cinco brasileiros na briga",
+        "link": "https://exame.com/esporte/libertadores-entra-na-fase-decisiva-com-premio-recorde-e-cinco-brasileiros-na-briga/",
+        "summary": "Flamengo, Palmeiras, Cruzeiro, Fluminense e Mirassol disputam uma vaga nas quartas de final em um torneio que distribuirá US$ 316 milhões aos clubes",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Em cinco anos, cidade de SP ganha 1 milhão de empresas — e atrai 100 mil negócios de fora da capital",
@@ -410,16 +420,6 @@
         "title": "Ele começou lavando pratos. Agora, seus filhos lideram rede de botecos de R$ 15 mi que leva seu nome",
         "link": "https://exame.com/negocios/ele-comecou-lavando-pratos-agora-seus-filhos-lideram-rede-de-botecos-de-r-15-mi-que-leva-seu-nome/",
         "summary": "Antônio Rufino saiu do Ceará em busca de oportunidades e criou um boteco no Rio de Janeiro que se transformou em uma rede de franquias com faturamento de R$ 15 milhões",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Os sites onde a compra é de graça e o pedido não chega, mas a dopamina sim",
-        "link": "https://exame.com/bussola/os-sites-onde-a-compra-e-de-graca-e-o-pedido-nao-chega-mas-a-dopamina-sim/",
-        "summary": "Plataformas reproduzem a experiência de lojas virtuais para aliviar a ansiedade e o estresse, sem gerar novos gastos aos usuários",
         "image": null,
         "date": "09 de ago. de 2026",
         "source": "Exame",
