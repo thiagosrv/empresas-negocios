@@ -1,29 +1,7 @@
 {
-  "updated": "2026-08-10T18:02:57.315Z",
+  "updated": "2026-08-10T19:15:59.127Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Bastidores: O amistoso entre Juventus e Inter em Perth",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-o-amistoso-entre-juventus-e-inter-em-perth/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "10 de ago. de 2026",
-      "isoDate": "2026-08-10",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Conceição marca em derrota da Juve para a Inter",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/conceicao-marca-em-derrota-da-juve-para-a-inter/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "10 de ago. de 2026",
-      "isoDate": "2026-08-10",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Brandt marca em estreia pelo Ajax contra o PEC Zwolle",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/brandt-marca-em-estreia-pelo-ajax-contra-o-pec-zwolle/",
@@ -33,7 +11,7 @@
       "isoDate": "2026-08-10",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Karetsas marca seu primeiro gol pelo Dortmund",
@@ -44,7 +22,7 @@
       "isoDate": "2026-08-10",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Van Dijk avalia derrota em amistoso para o Monaco",
@@ -55,7 +33,7 @@
       "isoDate": "2026-08-10",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Brunner completa virada do Monaco em Anfield com gol no fim",
@@ -66,7 +44,7 @@
       "isoDate": "2026-08-10",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores do primeiro dia de Bruno Guimarães como jogador do Arsenal",
@@ -77,11 +55,33 @@
       "isoDate": "2026-08-10",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Após 3 anos de interrupção, campeonato palestino de futebol será retomado em setembro",
       "link": "https://www.gazetaesportiva.com/futebol/apos-3-anos-de-interrupcao-campeonato-palestino-de-futebol-sera-retomado-em-setembro/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "10 de ago. de 2026",
+      "isoDate": "2026-08-10",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Vasco inicia preparação para reencontrar Olimpia na Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-inicia-preparacao-para-reencontrar-olimpia-na-sul-americana/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "10 de ago. de 2026",
+      "isoDate": "2026-08-10",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Botafogo treina para duelo no Peru pelas oitavas de final da Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-treina-para-duelo-no-peru-pelas-oitavas-de-final-da-sul-americana/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "10 de ago. de 2026",
