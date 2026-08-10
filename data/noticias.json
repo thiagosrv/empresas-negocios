@@ -1,12 +1,32 @@
 {
-  "updated": "2026-08-10T10:20:18.265Z",
+  "updated": "2026-08-10T11:50:38.267Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Assista ao Bom Dia Cidade Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
-        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "title": "Novas câmeras de trânsito começam a operar nas avenidas Benjamin Constant e John Boyd Dunlop, em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/10/novas-cameras-de-transito-comecam-a-operar-nas-avenidas-benjamin-constant-e-john-boyd-dunlop-em-campinas.ghtml",
+        "summary": "Duas novas câmeras de fiscalização de trânsito começam a operar em Campinas (SP) nesta segunda-feira (10). Os equipamentos foram instalados pela Empresa Municipal de Desenvolvimento de Campinas (Emdec) nas avenidas Benja",
+        "image": "https://s2-g1.glbimg.com/GjHpGoxUbG-OOp3_LltI8xU_-UI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/T/F2xteRTAWK8dmsrZ9mVQ/cam.png",
+        "date": "10 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Polícia encontra sinais de luta em casa de mulher achada morta em Campinas e apreende cuecas do companheiro para exame de DNA",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/10/policia-encontra-sinais-de-luta-em-casa-de-mulher-achada-morta-em-campinas-e-apreende-cuecas-do-companheiro-para-exame-de-dna.ghtml",
+        "summary": "Polícia encontra sinais de luta em casa de mulher achada morta em Campinas e apreende cuecas do companheiro para exame de DNA Paulo Bernardino/Arquivo Pessoal A polícia encontrou sinais de luta corporal na casa onde Elin",
+        "image": "https://s2-g1.glbimg.com/ePBYX9RST-sosOj7jumnvrPaAN8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/A0pIoBR5AFlX2uj9tceg/paulo-bernardino-2-.jpeg",
+        "date": "10 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Região de Piracicaba começa a semana com 1,7 mil vagas de emprego; veja como concorrer",
+        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/10/regiao-de-piracicaba-comeca-a-semana-com-17-mil-vagas-de-emprego-veja-como-concorrer.ghtml",
+        "summary": "Carteira de trabalho Marcello Casal Jr/Agência Brasil Cinco cidades da região de Piracicaba (SP) reúnem 1.738 vagas de emprego abertas a partir desta segunda-feira (10). As oportunidades são oferecidas pelos serviços mun",
+        "image": "https://s2-g1.glbimg.com/Q6g7Z0Xrn8bcW0DvOIGflJedZhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/1/CtMSsVSSC7cKmRAmnKmQ/trabalho-1-.jpg",
         "date": "10 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/juri-aponta-legitima-defesa-e-absolve-mulher-acusada-de-matar-marido-a-facadas-em-mogi-mirim.ghtml",
         "summary": "Imagem de câmera de segurança registrou assassinato em Mogi Mirim (SP) Reprodução O Tribunal do Júri absolveu uma mulher de 38 anos que era acusada de matar a facadas o marido Leonardo Lira Andrade de Lima, que tinha 29 ",
         "image": "https://s2-g1.glbimg.com/pPyb5v7m0VJJuMVWFPhR2D1qkWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/d/P2HZ5AQfO9eP1Xbacfxg/tenta-feminicidio-louveira-11-.jpg",
-        "date": "09 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Morta pelo marido, mulher tinha nas trilhas uma 'válvula de escape' e se afastou do grupo há meses",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/morta-pelo-marido-mulher-tinha-nas-trilhas-uma-valvula-de-escape-e-se-afastou-do-grupo-ha-meses.ghtml",
-        "summary": "Morta pelo marido, Eliane do Carmo Pereira, de 42 anos, tinha a trilha como válvula de escape, segundo amiga Arquivo pessoal A vendedora Eliane do Carmo Pereira, de 42 anos, morta a facadas pelo marido em Valinhos (SP), ",
-        "image": "https://s2-g1.glbimg.com/ge_spj3pdWnvqlElp1MBGD4Iud0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/pEJX16QwWIQqCuhLP7pw/design-sem-nome-2026-08-09t163524.859.jpg",
-        "date": "09 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Motorista morre após bater na traseira de caminhão de lixo na Anhanguera, em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/09/motorista-morre-apos-bater-na-traseira-de-caminhao-de-lixo-na-anhanguera-em-campinas.ghtml",
-        "summary": "Motorista morreu após colidir contra a traseira de um caminhão de lixo na Rodovia Anhanguera (SP-330), em Campinas (SP), neste domingo (9) Paulo Bernardino Um motorista morreu após bater o carro contra a traseira de um c",
-        "image": "https://s2-g1.glbimg.com/lPuDDFYd4z9kZN-gbXf2UJLFB-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/U/AoseqQQVGh0W1OBJmVBA/design-sem-nome-2026-08-09t110408.530.jpg",
         "date": "09 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Relógio da longevidade é tema do Caminhos da Reportagem",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/relogio-da-longevidade-e-tema-do-caminhos-da-reportagem",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/relogio-da-longevidade-e-tema-do-caminhos-da-reportagem img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Declaração do imposto sobre imóveis rurais pode ser feita por internet",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/declaracao-do-imposto-sobre-imoveis-rurais-pode-ser-feita-por-internet",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/declaracao-do-imposto-sobre-imoveis-rurais-pode-ser-feita-por-internet img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro img src= https://cdn.jsdelivr.net/gh/sergiosdl",
@@ -161,29 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Memória é fundamental na literatura, diz escritor Milton Hatoum",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Avanço da IA corrói financiamento do jornalismo profissional no Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "09 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Uefa, Concacaf e AFC afirmam a Infantino que o futebol não pertence a nenhum indivíduo",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/uefa-concacaf-afc-criticam-infantino/",
+        "summary": "Uefa, Concacaf e AFC fizeram críticas a Gianni Infantino em uma carta conjunta, aumentando a pressão sobre o presidente da Fifa em meio à crise na entidade. O post Uefa, Concacaf e AFC afirmam a Infantino que o futebol n",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260810__C4B63T3__v1__MidRes__FilesFblWcFifa.webp",
+        "date": "10 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Comissão da Seleção volta a acompanhar jogos do futebol brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/brasil/cbf-observacao-atletas-ciclo-copa-2030/",
+        "summary": "A CBF iniciou o processo de observação de atletas para o ciclo da Copa do Mundo de 2030. O coordenador geral de Seleções Masculinas, Rodrigo Caetano, acompanhou a partida entre Botafogo e Fluminense ao lado de integrante",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/a1359b8f_87d2_419c_9147_073a7280deac_ed6e9bd6bf.webp",
+        "date": "10 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras tem semana com Libertadores e jogo no Maracanã; veja agenda",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-tem-semana-com-libertadores-e-jogo-no-maracana-veja-agenda/",
+        "summary": "Confira a agenda dos próximos compromissos do Palmeiras em uma semana que conta com jogos pela Libertadores e pelo Brasileirão. O post Palmeiras tem semana com Libertadores e jogo no Maracanã; veja agenda apareceu primei",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/09082026_cg_palmeiras_0605_73.webp",
+        "date": "10 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Semana do Santos conta com jogo da Sul-Americana e viagem ao Rio de Janeiro",
+        "link": "https://www.gazetaesportiva.com/times/santos/semana-santos-sul-americana-vasco-brasileirao/",
+        "summary": "O Santos inicia uma semana decisiva com compromissos pela Copa Sul-Americana e pelo Brasileirão. Na quinta-feira, o Peixe recebe o Macará, na Vila Belmiro, e depois viaja ao Rio de Janeiro para enfrentar o Vasco em confr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55453891193_4bde332824_3k.webp",
+        "date": "10 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "São Paulo tem semana com jogo pela Sul-Americana e retorno ao Morumbi; confira",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-tem-semana-com-jogo-pela-sul-americana-e-retorno-ao-morumbi-confira/",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/santos/cuca-santos-priorizar-competicao-calendario/",
         "summary": "Cuca alertou para o calendário e o desgaste do elenco do Santos e admitiu que o clube pode precisar priorizar uma competição. O Peixe disputa simultaneamente o Brasileirão, a Copa do Brasil e a Sul-Americana. O post Cuca",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55454162655_74676e7d6e_3k.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Atuações do Palmeiras: veja quem foi bem e quem foi mal no empate contra o Inter",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-veja-quem-foi-bem-e-quem-foi-mal-no-empate-contra-o-inter/",
-        "summary": "Veja quem foi bem e quem foi mal no Palmeiras no empate sem gols contra o Internacional, no último domingo, no Nubank Parque, pela 22ª rodada do Brasileirão. O post Atuações do Palmeiras: veja quem foi bem e quem foi mal",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/09082026_cg_palmeiras_destaque_0111_8-1.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Análise: Corinthians dá resposta após eliminação e encontra soluções em meio aos desfalques",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-da-resposta-apos-eliminacao-e-encontra-solucoes-em-meio-aos-desfalques/",
-        "summary": "*Por João Germano O Corinthians venceu o Red Bull Bragantino na noite deste domingo e conseguiu reagir após a dolorida eliminação na Copa do Brasil na última quinta-feira, para o Internacional. A partida teve boas surpre",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247362.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Matheuzinho destaca foco do Corinthians apesar de salários atrasados: Não é legal",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/matheuzinho-destaca-foco-do-corinthians-apesar-de-salarios-atrasados-nao-e-legal/",
-        "summary": "Matheuzinho comentou a situação de salários atrasados no Corinthians após a vitória por 2 a 0 sobre o Red Bull Bragantino, neste domingo, pelo Brasileirão. Após a partida, o jogador afirmou que o elenco mantém o foco den",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247348.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Atuações do Santos: defesa vai mal, e ataque sofre para reagir contra o Athletico-PR",
-        "link": "https://www.gazetaesportiva.com/times/santos/atuacoes-santos-athletico-pr-brasileirao/",
-        "summary": "O Santos perdeu por 2 a 0 para o Athletico-PR na Vila Belmiro e voltou ao Z4 do Brasileirão. A defesa sofreu com Kevin Viveros, autor dos dois gols, enquanto o ataque desperdiçou oportunidades. Veja os destaques das atua",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55453942059_ed56f3ec30_3k.webp",
         "date": "10 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Minidólar (WDOU26): Focus e tensão no Oriente Médio ficam no radar",
-        "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-10082026/",
-        "summary": "Saiba o que esperar para o minidólar nesta segunda (10) The post Minidólar (WDOU26): Focus e tensão no Oriente Médio ficam no radar appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-10.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
+        "title": "Ex-marido de Maria da Penha é preso após dar entrevista e descumprir medida protetiva",
+        "link": "https://www.infomoney.com.br/brasil/ex-marido-de-maria-da-penha-e-preso-apos-dar-entrevista-e-descumprir-medida-protetiva/",
+        "summary": "A decisão também determina a proibição da veiculação da entrevista, feita pelo jornalista Roberto Cabrini para o programa Domingo Espetacular The post Ex-marido de Maria da Penha é preso após dar entrevista e descumprir ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SO3WW77DIZDETJRPSOIPISPGWM.avif?resize=266,300",
         "date": "10 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar",
-        "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-10082026/",
-        "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (10 de agosto) The post Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINQ26-15-MINUTOS-10.08.2026.png?fit=300%2C136&amp;quality=70&amp;strip=all",
+        "title": "Lula declara ao TSE patrimônio de R$ 4,7 milhões, valor 35% menor do que em 2022",
+        "link": "https://www.infomoney.com.br/politica/lula-declara-ao-tse-patrimonio-de-r-47-milhoes-valor-35-menor-do-que-em-2022/",
+        "summary": "As informações constam no registro de candidatura de Lula à reeleição, protocolado neste sábado, 8, no TSE The post Lula declara ao TSE patrimônio de R$ 4,7 milhões, valor 35% menor do que em 2022 appeared first on InfoM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-02-130140.png?fit=300%2C157&amp;quality=70&amp;strip=all",
         "date": "10 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Embraer (EMBJ3) registra lucro ajustado de R$ 1,11 bi no 2º tri, alta anual de 25,1%",
-        "link": "https://www.infomoney.com.br/mercados/embraer-embj3-resultados-segundo-trimestre-2026/",
-        "summary": "Fluxo de caixa livre ajustado sem Eve foi de R$ 2,0 bilhões durante o 2T26 The post Embraer (EMBJ3) registra lucro ajustado de R$ 1,11 bi no 2º tri, alta anual de 25,1% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-10T175704Z_297371774_RC24PGA2VCSD_RTRMADP_3_USA-AEROSPACE-EMBRAER.jpg?fit=300%2C210&amp;quality=70&amp;strip=all",
+        "title": "PF encontra foto de advogado investigado em piscina com deputados e senadores",
+        "link": "https://www.infomoney.com.br/politica/pf-encontra-foto-de-advogado-investigado-em-piscina-com-deputados-e-senadores/",
+        "summary": "O arquivo foi descoberto no celular do senador Weverton Rocha (PDT-MA), também alvo da investigação The post PF encontra foto de advogado investigado em piscina com deputados e senadores appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/1_392721-67368902.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Day Trade hoje (10): Ibovespa perde força; há espaço para novas quedas?",
-        "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-10082026/",
-        "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (10): Ibovespa perde força; há espaço para novas quedas? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Minério de ferro recua com dados desanimadores da produção na China",
+        "link": "https://www.infomoney.com.br/mercados/minerio-de-ferro-recua-com-dados-desanimadores-da-producao-na-china/",
+        "summary": "Uma greve em um importante centro de exportação de minério de ferro na Austrália amenizou parte da queda The post Minério de ferro recua com dados desanimadores da produção na China appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BHP-Billiton.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
         "date": "10 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Valorant compra 34,46% da Atom Educação; companhia deixa de ter controlador definido",
-        "link": "https://www.infomoney.com.br/mercados/valorant-compra-3446-da-atom-educacao-companhia-deixa-de-ter-controlador-definido/",
-        "summary": "Valorant comprou 30,06% de ações detidas pela Exame e 4,40% ‌detidas por Ana ​Carolina Paifer The post Valorant compra 34,46% da Atom Educação; companhia deixa de ter controlador definido appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/firmbee-com-gcsNOsPEXfs-unsplash.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "ACM Neto declara R$ 85 milhões em patrimônio ao TSE, mais que o dobro de 2022",
+        "link": "https://www.infomoney.com.br/politica/acm-neto-declara-r-85-milhoes-em-patrimonio-ao-tse-mais-que-o-dobro-de-2022/",
+        "summary": "Crescimento se concentrou em aplicações financeiras e investimentos do político baiano The post ACM Neto declara R$ 85 milhões em patrimônio ao TSE, mais que o dobro de 2022 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/09/acm-neto2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "10 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como empresa de energéticos de SC passou a Red Bull e mira posto de líder, Monster",
-        "link": "https://www.infomoney.com.br/business/como-empresa-de-energeticos-de-sc-passou-a-red-bull-e-mira-posto-de-lider-monster/",
-        "summary": "Fabricante brasileira ganhou mercado como alternativa acessível e agora avança no público de mais alta renda com saborização e wellness para atingir R$ 2 bi em faturamento The post Como empresa de energéticos de SC passo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IMG-20260807-WA0008.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Boletim Focus reduz projeções de inflação e PIB para 2026",
+        "link": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-10082026/",
+        "summary": "Economistas mantêm projeção para Selic e dólar, mas reduzem inflação e crescimento The post Boletim Focus reduz projeções de inflação e PIB para 2026 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/BC-Brasil.png?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "10 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Desenrola Adimplentes começa hoje; veja quem pode renegociar dívidas",
-        "link": "https://exame.com/invest/minhas-financas/desenrola-adimplentes-comeca-hoje-veja-quem-pode-renegociar-dividas/",
-        "summary": "Programa permite renegociar até R$ 15 mil em dívidas de trabalhadores informais com juros reduzidos; governo alterou regras para ampliar adesão dos bancos",
+        "title": "Hipótese de Darwin sobre planta carnívora é confirmada 150 anos depois",
+        "link": "https://exame.com/ciencia/hipotese-de-darwin-sobre-planta-carnivoro-e-confirmada-150-anos-depois/",
+        "summary": "Experimentos revelaram que a espécie usa pequenos insetos como fonte de nutrientes, ampliando a lista de plantas carnívoras conhecidas pela ciência",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que discos de vinil estão sendo lançados pela metade?",
-        "link": "https://exame.com/casual/por-que-discos-de-vinil-estao-sendo-lancados-pela-metade/",
-        "summary": "Charli xcx, Olivia Rodrigo e Raye passaram pelo mesmo problema em pressagens recentes, reflexo de prazos de fabricação apertados e de uma indústria que também vende colecionáveis, não apenas discos",
+        "title": "Primeiro debate ao governo do Rio: veja tudo o que aconteceu",
+        "link": "https://exame.com/brasil/primeiro-debate-ao-governo-do-rio-veja-tudo-o-que-aconteceu/",
+        "summary": "Debate da Band reuniu quatro candidatos ao governo do Rio e teve embates sobre crime organizado, segurança e alianças políticas",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Com franquias de R$ 350 mil, indústria de chocolates quer sair dos bastidores usando marca própria",
-        "link": "https://exame.com/negocios/com-franquias-de-r-350-mil-industria-de-chocolates-quer-sair-dos-bastidores-usando-marca-propria/",
-        "summary": "Fundada há 22 anos em Guaporé, na Serra Gaúcha, a Trullis atende empresas em todo o país e planeja abrir dez lojas em cinco anos, começando pela região Sul",
+        "title": "De olho no IPO em Hong Kong, Shein reduz operação no Vietnã e aposta na China",
+        "link": "https://exame.com/invest/mercados/de-olho-no-ipo-em-hong-kong-shein-reduz-operacao-no-vietna-e-aposta-na-china/",
+        "summary": "Mudanças nas tarifas dos EUA reduziram a vantagem do Vietnã e levaram a Shein a reforçar fornecedores na China",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "O próximo capítulo de US$ 350 milhões da The Coffee começa no Japão",
-        "link": "https://exame.com/exame-in/o-proximo-capitulo-de-us-350-milhoes-da-the-coffee-comeca-no-japao/",
-        "summary": "Com 66% da receita vindo do exterior, rede brasileira acelera expansão global mirando 1 000 lojas fora do país até 2028",
+        "title": "Santander leva mais de 200 imóveis a leilão com financiamento de até 35 anos",
+        "link": "https://exame.com/mercado-imobiliario/santander-leva-mais-de-200-imoveis-a-leilao-com-financiamento-de-ate-35-anos/",
+        "summary": "Evento online reúne casas, apartamentos, terrenos e imóveis comerciais em diferentes estados, com condições de pagamento pelo próprio banco",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fertilizante mineral atende demanda do agro e conquista aporte de R$ 40 mi",
-        "link": "https://exame.com/bussola/fertilizante-mineral-atende-demanda-do-agro-e-conquista-aporte-de-r-40-mi/",
-        "summary": "Insumo à base de pó de rocha reduz custos na soja em até 50% e diminui dependência do agronegócio por fertilizantes importados",
+        "title": "Focus: IPCA de 2026 cai para 5,02%, na sexta queda consecutiva",
+        "link": "https://exame.com/economia/focus-ipca-de-2026-cai-para-502-na-sexta-queda-consecutiva/",
+        "summary": "Expectativa da Selic segue em 13,75%, enquanto PIB de 2028 e 2029 é mantido em 2,00%",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "'The Dink', nova comédia da Apple TV, prova que o pickleball é papo sério (ou não)",
-        "link": "https://exame.com/casual/the-dink-nova-comedia-da-apple-tv-prova-que-o-pickleball-e-papo-serio-ou-nao/",
-        "summary": "Com Jake Johnson e Mary Steenburgen no elenco, filme da Apple TV+ aposta no esporte que virou febre para discutir amadurecimento, segundas chances e amizades improváveis, sem ceder ao clichê do gênero",
+        "title": "Estrela destruída revela buraco negro oculto vagando pela galáxia",
+        "link": "https://exame.com/ciencia/estrela-destruida-revela-buraco-negro-oculto-vagando-pela-galaxia/",
+        "summary": "Objeto permaneceu invisível até despedaçar uma estrela, gerando um clarão detectado por telescópios e inteligência artificial",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
