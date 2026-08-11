@@ -1,12 +1,42 @@
 {
-  "updated": "2026-08-11T15:01:46.709Z",
+  "updated": "2026-08-11T17:00:18.650Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "title": "Com câncer, paciente espera por remédio de R$ 68 mil mesmo após liminar da Justiça",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/11/com-cancer-paciente-espera-por-remedio-de-r-68-mil-mesmo-apos-liminar-da-justica.ghtml",
+        "summary": "Com câncer, paciente espera por remédio de R$ 68 mil mesmo após liminar da Justiça O gráfico Luis Carlos Ferreira, de 50 anos, enfrenta a angústia de esperar por um remédio de R$ 68 mil para tratar um câncer de pele. O p",
+        "image": "https://s2-g1.glbimg.com/gQFamLQYI-0CeQCUgVQXlK5lC2Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/NoNiquTJ2ZE8Ba7h183g/eptv2-1008-plano-saude-cp004dvz-2026-08-11-11-07-19.mxf-snapshot-00.20.235.jpg",
+        "date": "11 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Concilia Campinas prevê negociar R$ 4,8 bilhões em dívidas com descontos até 85%; veja como vai funcionar",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/11/concilia-campinas-preve-negociar-r-48-bilhoes-em-dividas-com-descontos-de-ate-85percent-veja-como-vai-funcionar.ghtml",
+        "summary": "Contribuintes poderão renegociar dívidas relacionadas ao IPTU Rogério Capela/Prefeitura de Campinas A Prefeitura de Campinas (SP) prevê negociar até R$ 4,8 bilhões em dívidas na segunda etapa do Concilia, lançada nesta t",
+        "image": "https://s2-g1.glbimg.com/0w6Nb9qw5gmFKhxgLrcEOFdR10g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/Y/vpMmeiRA6KCc7EBxbx0A/060125-carne-iptu-2025-foto-rogerio-capela-2-.jpg",
+        "date": "11 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Polícia busca suspeito de agredir a companheira grávida em Jaguariúna",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/11/policia-busca-suspeito-de-agredir-a-companheira-gravida-de-24-anos-em-jaguariuna.ghtml",
+        "summary": "Caso segue sendo investigado pela Delegacia de Jaguariúna Giuliano Tamura/EPTV Um homem agrediu a companheira grávida na noite de domingo (9), no bairro João Aldo Nassif, em Jaguariúna (SP). A Secretaria da Segurança Púb",
+        "image": "https://s2-g1.glbimg.com/CcPuGMTRg8VirYDhmf7mFDvPTho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/Z/qFn4yKRqOMvlwXQMQTeg/whatsapp-image-2023-02-28-at-12.29.22.jpeg",
+        "date": "11 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Carro bate em árvore e deixa cinco feridos em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/11/carro-bate-em-arvore-e-deixa-cinco-feridos-em-campinas.ghtml",
+        "summary": "Fachada do Hospital Mário Gatti, em Campinas (SP) Reprodução/EPTV Cinco pessoas ficaram feridas após um carro bater em uma árvore na manhã desta terça-feira (11), no cruzamento da Av. Albino José Barbosa de Oliveira com ",
+        "image": "https://s2-g1.glbimg.com/8JRODK4c5-ADjhp4OMDkHvQTU84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/F/AICCPEStAeinhdrnP25Q/2.png",
         "date": "11 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -33,33 +63,113 @@
         "cls": "brasil"
       },
       {
-        "title": "Do alerta à exoneração: os bastidores da história do ex-inspetor da Anac que alertou sobre problemas na Voepass antes da tragédia",
-        "link": "https://g1.globo.com/fantastico/noticia/2026/08/11/do-alerta-a-exoneracao-os-bastidores-da-historia-do-ex-inspetor-da-anac-que-alertou-sobre-problemas-na-voepass-antes-da-tragedia.ghtml",
-        "summary": "Denúncia exclusiva: ANAC teria sido alertada sobre possíveis irregularidades na manutenção da Voepass antes do desastre que matou 62 pessoas Um ex-inspetor da Agência Nacional de Aviação Civil (Anac) alertou, anos antes ",
+        "title": "Unacon de Americana promove ação de doação gratuita de perucas para pacientes oncológicos em setembro",
+        "link": "https://jornalamericanense.com.br/saude/unacon-de-americana-promove-acao-de-doacao-gratuita-de-perucas-para-pacientes-oncologicos-em-setembro/",
+        "summary": "Pacientes de Americana e região que estão em tratamento contra o câncer e apresentam queda de cabelo em decorrência da quimioterapia ou de outro tratamento oncológico poderão receber gratuitamente uma peruca no dia 14 de",
         "image": null,
         "date": "11 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Segunda edição do Festival de Literatura de Americana ocorre neste final de semana",
+        "link": "https://jornalamericanense.com.br/cultura/segunda-edicao-do-festival-de-literatura-de-americana-ocorre-neste-final-de-semana/",
+        "summary": "A Praça Comendador Müller, no Centro, recebe a segunda edição do Festival de Literatura de Americana (FLIAM) neste sábado (15) e domingo (16), com entrada gratuita e uma programação cultural com shows, oficinas, exposiçõ",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Rede Feminina realiza Lançamento da Campanha McDia Feliz 2026",
+        "link": "https://jornalamericanense.com.br/cidades/rede-feminina-realiza-lancamento-da-campanha-mcdia-feliz-2026/",
+        "summary": "Evento marca o início oficial das ações em Santa Bárbara d’Oeste, Americana e Nova Odessa para o dia de mobilização nacional, que será em 22 de agosto. Com a proximidade de uma das maiores mobilizações em prol do combate",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "GAMA prende homem com espingarda artesanal e cocaína em Americana",
+        "link": "https://jornalamericanense.com.br/policia/gama-prende-homem-com-espingarda-artesanal-e-cocaina-em-americana/",
+        "summary": "Abordagem ocorreu na noite de domingo, na Praça Donald Steinberg; arma calibre .24, munições, entorpecente, faca e celulares foram apreendidos Um homem de 30 anos foi preso pela Guarda Municipal de Americana (GAMA) na no",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "ROCAM prende homem por tráfico de drogas no Jardim dos Lírios, em Americana",
+        "link": "https://jornalamericanense.com.br/policia/rocam-prende-homem-por-trafico-de-drogas-no-jardim-dos-lirios-em-americana/",
+        "summary": "Suspeito tentou fugir ao perceber a aproximação dos policiais; cocaína, maconha, crack e dinheiro foram apreendidos durante a ocorrência Um homem foi preso em flagrante por tráfico de drogas na tarde de sábado (8), no Ja",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Centro Paula Souza divulga calendário do Vestibular das Fatecs para o primeiro semestre de 2027",
+        "link": "https://jornalamericanense.com.br/educacao/centro-paula-souza-divulga-calendario-do-vestibular-das-fatecs-para-o-primeiro-semestre-de-2027/",
+        "summary": "Com vagas para mais de 100 cursos superiores gratuitos em diversas áreas, os candidatos farão a prova no dia 13 de dezembro O Centro Paula Souza (CPS) divulgou o calendário para o Vestibular 2027 das Faculdades de Tecnol",
+        "image": null,
+        "date": "09 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Com público estimado em 50 mil, Festa do Peão de Piracicaba terá estrutura 'dobrada' para show do Frei Gilson",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/11/com-publico-estimadofesta-do-peao-de-piracicaba-para-show-do-frei-gilson.ghtml",
-        "summary": "Frei Gilson arrasta multidão ao Hallel em Franca, SP Nathan O show do cantor Frei Gilson deve reunir cerca de 50 mil pessoas na abertura da Festa do Peão de Piracicaba (SP), nesta terça-feira (11). Segundo a organização,",
-        "image": "https://s2-g1.glbimg.com/pkkiwZQXIROPt4F7PC6bItEVmtk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/N/V79QmhQdCAHv0xoAzIxg/13092025-imgl6495.avif",
+        "title": "Quartas de final da Copa do Brasil terá três clássicos estaduais",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/quartas-de-final-da-copa-do-brasil-tera-tres-classicos-estaduais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/quartas-de-final-da-copa-do-brasil-tera-tres-classicos-estaduais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
         "date": "11 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Vai trabalhar no Dia do Evangélico em Campinas? Veja seus direitos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/08/11/vai-trabalhar-no-dia-do-evangelico-em-campinas-veja-seus-direitos.ghtml",
-        "summary": "Dia do Evangélico vira feriado municipal em Campinas A cidade de Campinas (SP) celebra, nesta quarta-feira (12), o primeiro feriado municipal do Dia do Evangélico. A data foi criada no ano passado pela prefeitura, por me",
-        "image": "https://s2-g1.glbimg.com/HLeQxgX-nbxs3YNDLk70zXuiD2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/ixF7s9TBibmGpSRlHUTA/marjan-blan-d2ecwjxwndu-unsplash.jpg",
+        "title": "SP registra 18 mortes por febre maculosa em 19 casos confirmados",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sp-registra-18-mortes-por-febre-maculosa-em-19-casos-confirmados",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sp-registra-18-mortes-por-febre-maculosa-em-19-casos-confirmados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
         "date": "11 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-se-reune-nesta-quinta-em-busca-de-consenso-sobre-ia-nas-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-se-reune-nesta-quinta-em-busca-de-consenso-sobre-ia-nas-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Temperaturas em São Paulo voltam a subir a partir de quarta-feira",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/temperaturas-em-sao-paulo-voltam-subir-partir-de-quarta-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/temperaturas-em-sao-paulo-voltam-subir-partir-de-quarta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -71,114 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-aponta-desaceleracao-da-inflacao-mas-mantem-alerta-sobre-riscos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-aponta-desaceleracao-da-inflacao-mas-mantem-alerta-sobre-riscos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "11 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "INPC registra deflação em julho e acumula alta de 4,10% em 12 meses",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inpc-registra-deflacao-em-julho-e-acumula-alta-de-410-em-12-meses",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inpc-registra-deflacao-em-julho-e-acumula-alta-de-410-em-12-meses img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "11 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Inflação recua para 0,07% em julho e volta para meta do governo",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inflacao-recua-para-007-em-julho-e-volta-para-meta-do-governo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inflacao-recua-para-007-em-julho-e-volta-para-meta-do-governo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "11 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Frio e chuvas no Sul, seca e calor no Centro-Oeste; confira a previsão",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-e-chuvas-no-sul-seca-e-calor-no-centro-oeste-confira-previsao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-e-chuvas-no-sul-seca-e-calor-no-centro-oeste-confira-previsao img src= https://cdn.jsdelivr.net/gh/sergiosd",
-        "image": null,
-        "date": "11 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cursos de formação cultural abrem 1,2 mil vagas gratuitas em SP",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cursos-de-formacao-cultural-abrem-12-mil-vagas-gratuitas-em-sp",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cursos-de-formacao-cultural-abrem-12-mil-vagas-gratuitas-em-sp img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "11 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Fonseca admite que o Lyon precisa arriscar contra o Sparta Praga",
-        "link": "https://www.gazetaesportiva.com/times/lyon/fonseca-admite-que-o-lyon-precisa-arriscar-contra-o-sparta-praga/",
-        "summary": "Fonseca admite que o Lyon precisa \"arriscar\" contra o Sparta Praga O post Fonseca admite que o Lyon precisa arriscar contra o Sparta Praga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Fonse.webp",
+        "title": "Maurício Maruca lança candidatura à presidência do Santos e apresenta projeto de gestão",
+        "link": "https://www.gazetaesportiva.com/times/santos/mauricio-maruca-lanca-candidatura-a-presidencia-do-santos-e-apresenta-projeto-de-gestao/",
+        "summary": "Maurício Maruca lançou sua candidatura à presidência do Santos ao lado de Rodrigo Marino. A chapa Aliança Santista apresentou propostas para profissionalização da gestão, reorganização financeira, futebol, base, Vila Bel",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-11-at-13.32.51.webp",
         "date": "11 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Torcida Jovem se reúne com elenco do Santos e anuncia restrições no acesso ao CT e vestiário",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-restringe-acesso-ct-reuniao-torcida-jovem/",
-        "summary": "O Santos adotou medidas para restringir o acesso ao CT Rei Pelé, às viagens da delegação e aos vestiários após uma reunião entre representantes da diretoria, comissão técnica, elenco e integrantes da Torcida Jovem. O enc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55452793647_e4a14fb583_3k.webp",
+        "title": "PSG e Aston Villa abrem temporada europeia na Supercopa da Uefa",
+        "link": "https://www.gazetaesportiva.com/supercopa-da-uefa/psg-e-aston-villa-abrem-temporada-europeia-na-supercopa-da-uefa/",
+        "summary": "O Paris Saint-Germain inicia a temporada europeia nesta quarta-feira (12), enfrentando o Aston Villa na Supercopa da Uefa, em Salzburgo. Atual bicampeão da Liga dos Campeões e vencedor da última Supercopa, o PSG chega co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260811__C4EK32P__v1__HighRes__FblEurSupercupPsgAstonVillaTraining.webp",
         "date": "11 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Meio-campista português assina com o Palmeiras e reforça o sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/meio-campista-portugues-assina-com-o-palmeiras-e-reforca-o-sub-20/",
-        "summary": "O Palmeiras ganhou mais um reforço, inicialmente, para a equipe sub-20. Trata-se do meio-campista português Fábio So, que estava no Burnley, da Inglaterra. O jogador, que chegou ao Brasil em junho para concluir a transfe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/fabio-so-palmeiras.webp",
+        "title": "Torcida do Vasco esgota ingressos para jogo com o Santos pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/vasco/torcida-do-vasco-esgota-ingressos-para-jogo-com-o-santos-pelo-brasileirao/",
+        "summary": "O Vasco anunciou, nesta terça-feira, que os ingressos para o duelo com o Santos, pela 23ª rodada do Campeonato Brasileiro, estão esgotados. A partida será no domingo, às 16h (de Brasília), em São Januário, no Rio de Jane",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55436207861_1f99188a3b_o.webp",
         "date": "11 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Copa do Brasil: veja confrontos e mandos das quartas de final da competição",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/copa-do-brasil-2026-sorteio-quartas-de-final/",
-        "summary": "A Confederação Brasileira de Futebol (CBF) definiu, na manhã desta terça-feira, os confrontos e mandos de campo das quartas de final da Copa do Brasil de 2026, em sorteio realizado na sede da entidade, no Rio de Janeiro ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/54873574719_186f6cbf14_b.webp",
+        "title": "São Paulo é derrotado pelo Novorizontino e perde invencibilidade no Paulista Sub-20",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/novorizontino-x-sao-paulo-paulista-sub-20/",
+        "summary": "O São Paulo conheceu sua primeira derrota no Campeonato Paulista Sub-20 ao perder por 2 a 1 para o Novorizontino, nesta terça-feira, em Novo Horizonte. O resultado encerrou a sequência invicta do Tricolor na competição e",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55433680724_81d32ea588_o.webp",
         "date": "11 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "PSG encaminha contratação de goleiro que brilhou contra o Brasil na Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-encaminha-contratacao-zion-suzuki/",
-        "summary": "O PSG chegou a um acordo com o Parma pela contratação do goleiro japonês Zion Suzuki, que deve assinar até 2029 e pode ser emprestado na próxima temporada. O post PSG encaminha contratação de goleiro que brilhou contra o",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/destaque-do-japao-na-copa-zion-suzuki-e-alvo-de-cl-00919164-f48f9a1def867236294e07f7d57f2801-7.webp",
+        "title": "Cabe no seu time? Veja jogadores livres no mercado",
+        "link": "https://www.gazetaesportiva.com/futebol/mercado/jogadores-livres-mercado-transferencias/",
+        "summary": "Astros como Vlahović, Sancho, Vardy, James Rodríguez e Fabinho estão sem clube e podem ser contratados gratuitamente nesta janela de transferências. O post Cabe no seu time? Veja jogadores livres no mercado apareceu prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HIO7dLbWQAALeIV.webp",
         "date": "11 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-volante, Arouca completa 39 anos; confira fotos da carreira",
-        "link": "https://www.gazetaesportiva.com/futebol/volante-arouca-completa-39-anos-confira-fotos-da-carreira/",
-        "summary": "Volante Arouca completa 39 anos; confira fotos da carreira O post Ex-volante, Arouca completa 39 anos; confira fotos da carreira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/05/16/00683510-scaled.jpg",
+        "title": "Os melhores jogadores livres no mercado em 2026",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/os-melhores-jogadores-livres-no-mercado-em-2026/",
+        "summary": "Os melhores jogadores livres no mercado em 2026 O post Os melhores jogadores livres no mercado em 2026 apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/0975otyc-1920mer.webp",
         "date": "11 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -186,6 +246,26 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Petroleiros pedem Petrobras mais estatal e menor repasse a acionistas",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petroleiros-pedem-petrobras-mais-estatal-e-menor-repasse-acionistas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petroleiros-pedem-petrobras-mais-estatal-e-menor-repasse-acionistas img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Brasileiros têm mais de R$ 5,1 bilhões esquecidos em bancos",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasileiros-tem-mais-de-r-51-bilhoes-esquecidos-em-bancos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "BC aponta desaceleração da inflação, mas mantém alerta sobre riscos",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-aponta-desaceleracao-da-inflacao-mas-mantem-alerta-sobre-riscos",
@@ -227,69 +307,59 @@
         "cls": ""
       },
       {
-        "title": "Banco Central estuda interligar Pix com sistemas de outros países",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "PF apura aporte de R$ 97 milhões de previdência de Maceió no Master",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pf-apura-aporte-de-97-milhoes-de-instituto-de-previdencia-de-maceio-no-master",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pf-apura-aporte-de-97-milhoes-de-instituto-de-previdencia-de-maceio-no-master img src= https://cdn.jsdelivr.net/gh/se",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação?",
-        "link": "https://www.infomoney.com.br/mercados/vale3-por-que-bbi-e-bba-tem-compra-para-vale-enquanto-ubs-bb-tem-cautela-com-acao/",
-        "summary": "Valuation e diferenças na tese das ações levam a visões diversas dos bancões para VALE3 The post VALE3: por que BBI e BBA têm compra para Vale, enquanto UBS BB tem cautela com ação? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+        "title": "Candidato à Presidência, Rui Costa Pimenta, do PCO, é alvo de operação da PF",
+        "link": "https://www.infomoney.com.br/politica/candidato-a-presidencia-rui-costa-pimenta-do-pco-e-alvo-de-operacao-da-pf/",
+        "summary": "Operação Causa Própria apura suspeitas de uso irregular de recursos partidários e eleitorais The post Candidato à Presidência, Rui Costa Pimenta, do PCO, é alvo de operação da PF appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/169411917864fa350a394d6_1694119178_3x2_rt.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Força da esquerda democrata nos EUA será testada novamente hoje em primárias",
-        "link": "https://www.infomoney.com.br/mundo/forca-da-esquerda-democrata-nos-eua-sera-testada-novamente-hoje-em-primarias/",
-        "summary": "Em Wisconsin, a socialista democrática Francesca Hong está liderando as pesquisas contra David Crowley, o preferido do governador Tony Evers para substituí-lo no cargo; em Minnesota, a progressista Peggy Flanagan pode ba",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Primaria-democrata-EUA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Do prejuízo à prevenção: como crise climática muda o papel dos seguros",
+        "link": "https://www.infomoney.com.br/minhas-financas/do-prejuizo-a-prevencao-como-crise-climatica-muda-o-papel-dos-seguros/",
+        "summary": "Só 9% do PIB brasileiro está protegido por seguros, segundo a CNseg; setor defende atuação na prevenção de riscos e no financiamento da adaptação climática The post Do prejuízo à prevenção: como crise climática muda o pa",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-04T194013Z_1016964373_RC2LNCASAERM_RTRMADP_3_BRAZIL-WEATHER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dólar hoje sobe após ata do Copom e IPCA acima do esperado",
-        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-11082026/",
-        "summary": "Investidores também segue monitorando as negociações no Oriente Médio The post Dólar hoje sobe após ata do Copom e IPCA acima do esperado appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Impacto-do-dolar-nos-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa cai, acelera perdas e chega aos 168 mil pontos",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11082026/",
+        "summary": "Bolsas dos EUA recuam com negociações sobre Ormuz no radar The post Ibovespa Hoje Ao Vivo: Bolsa cai, acelera perdas e chega aos 168 mil pontos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-3.png?fit=300%2C186&amp;quality=70&amp;strip=all",
         "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Chaveamento da Copa do Brasil 2026: veja os confrontos das quartas até a final",
-        "link": "https://www.infomoney.com.br/esportes/chaveamento-copa-do-brasil-2026-veja-confrontos-quartas-ate-final/",
-        "summary": "Sorteio foi realizado nesta terça-feira (11) e terá clássicos regionais The post Chaveamento da Copa do Brasil 2026: veja os confrontos das quartas até a final appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/chaveamento-copa-do-brasil-2026.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Melhora no cenário de juros cria risco duplo para ativos isentos de IR, alerta Sparta",
+        "link": "https://www.infomoney.com.br/onde-investir/melhora-no-cenario-de-juros-cria-risco-duplo-para-ativos-isentos-de-ir-alerta-sparta/",
+        "summary": "Gestora afirma que debêntures incentivadas podem enfrentar abertura de spreads e perda de valor do benefício fiscal, em um mercado hoje sustentado pela escassez de oferta The post Melhora no cenário de juros cria risco d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-27T220544Z_1_LYNXNPEL1Q0XS_RTROPTP_4_BACEN-FISCAL-DEZEMBRO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Usiminas: BBA vê hora de pisar no freio e corta recomendação para neutra; ação cai",
+        "title": "Zuckerberg publica manifesto de 6.500 palavras sobre IA; veja 5 conclusões",
+        "link": "https://www.infomoney.com.br/business/zuckerberg-publica-manifesto-de-6-500-palavras-sobre-ia-veja-5-conclusoes/",
+        "summary": "\"Esperar que um poder absoluto cuide benevolentemente da humanidade não levou a resultados seguros\", escreveu CEO da Meta The post Zuckerberg publica manifesto de 6.500 palavras sobre IA; veja 5 conclusões appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463648231.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Usiminas e Gerdau: BBA vê hora de pisar no freio e corta recomendações; ações caem",
         "link": "https://www.infomoney.com.br/mercados/usiminas-bba-ve-hora-de-pisar-no-freio-e-corta-recomendacao-para-neutra-acao-cai/",
-        "summary": "BBA considera que a combinação de menor força no mercado de aço e perspectivas mais fracas para os resultados da companhia justificam a recomendação The post Usiminas: BBA vê hora de pisar no freio e corta recomendação p",
+        "summary": "BBA considera que a combinação de menor força no mercado de aço e perspectivas mais fracas para os resultados da companhia justificam a recomendação The post Usiminas e Gerdau: BBA vê hora de pisar no freio e corta recom",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/2023-12-19T145126Z_1_LYNXMPEJBI0KZ_RTROPTP_4_BRAZIL-USIMINAS-BLASTFURNACE.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "11 de ago. de 2026",
         "source": "InfoMoney",
@@ -297,19 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Garotinho está inelegível? Entenda o que está em disputa na Justiça",
-        "link": "https://www.infomoney.com.br/politica/garotinho-esta-inelegivel-entenda-o-que-esta-em-disputa-na-justica/",
-        "summary": "Justiça estadual mandou executar condenação por improbidade e avisar TRE-RJ e TSE; defesa sustenta que os oito anos de suspensão terminaram em julho The post Garotinho está inelegível? Entenda o que está em disputa na Ju",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/54987561157-2d36e26627-o-466x263.jpg.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "11 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Irã acusa EUA de ‘vício’ em sanções e critica pressão econômica",
-        "link": "https://exame.com/mundo/ira-acusa-eua-de-vicio-em-sancoes-e-critica-pressao-economica/",
-        "summary": "Porta-voz iraniano afirma que EUA ampliam sanções quando não conseguem avançar pela via diplomática",
+        "title": "'Encha Seu Kindle' oferece e-books gratuitos nesta quinta; veja como baixar",
+        "link": "https://exame.com/pop/encha-seu-kindle-oferece-e-books-gratuitos-nesta-quinta-veja-como-baixar/",
+        "summary": "Iniciativa inspirada no projeto canadense reúne e-books gratuitos e com descontos especiais na Amazon por 24 horas",
         "image": null,
         "date": "11 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Auxílio por incapacidade temporária: quem pode receber sem carência",
-        "link": "https://exame.com/brasil/auxilio-por-incapacidade-temporaria-quem-pode-receber-sem-carencia/",
-        "summary": "Portaria publicada em julho incluiu a gestação de alto risco entre as condições que dispensam as 12 contribuições mínimas para benefícios por incapacidade.",
+        "title": "SpaceX planeja primeiro voo orbital do Starship ainda em agosto",
+        "link": "https://exame.com/ciencia/spacex-planeja-primeiro-voo-orbital-do-starship-ainda-em-agosto/",
+        "summary": "Elon Musk afirmou que o próximo teste do maior foguete do mundo deverá entrar em órbita e iniciar o lançamento operacional de satélites Starlink",
         "image": null,
         "date": "11 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Lua de sangue: eclipse lunar poderá ser visto no Brasil — veja quando",
-        "link": "https://exame.com/ciencia/lua-de-sangue-eclipse-lunar-podera-ser-visto-no-brasil-veja-quando/",
-        "summary": "Evento astronômico poderá ser visto em praticamente todo o Brasil e promete deixar parte da Lua com tom avermelhado",
+        "title": "Travis Barker relembra acidente aéreo em novo documentário; veja onde assistir",
+        "link": "https://exame.com/pop/travis-barker-relembra-acidente-aereo-em-novo-documentario-veja-onde-assistir/",
+        "summary": "Produção acompanha a trajetória do baterista do Blink-182, desde o início da carreira até a recuperação após o acidente aéreo de 2008",
         "image": null,
         "date": "11 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Chris Evans revela como será a jornada de Steve Rogers em 'Vingadores: Doutor Destino'",
-        "link": "https://exame.com/pop/chris-evans-revela-como-sera-a-jornada-de-steve-rogers-em-vingadores-doutor-destino/",
-        "summary": "Ator explica que os Irmãos Russo encontraram uma nova forma de colocar o herói à prova no próximo filme da Marvel",
+        "title": "Chuva de meteoros terá condições ideais para observação em 2026; saiba quando ver",
+        "link": "https://exame.com/ciencia/chuva-de-meteoros-tera-condicoes-ideais-para-observacao-em-2026-saiba-quando-ver/",
+        "summary": "Entre 12 e 13 de agosto, a Lua Nova deixará o céu mais escuro, favorecendo a observação das Perseidas a olho nu",
         "image": null,
         "date": "11 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Me mimei': pesquisa mostra que brasileiros pagam mais para evitar estresse",
-        "link": "https://exame.com/marketing/me-mimei-pesquisa-mostra-que-brasileiros-pagam-mais-para-evitar-estresse/",
-        "summary": "Estudo mostra que segurança, conveniência e previsibilidade ganham espaço nas decisões dos consumidores",
+        "title": "Como a Fila quer crescer na corrida com seu tênis mais vendido",
+        "link": "https://exame.com/casual/como-a-fila-quer-crescer-na-corrida-com-seu-tenis-mais-vendido/",
+        "summary": "Modelo mais vendido da marca chega à segunda geração em evento no Masp, no dia 19 de agosto, com nova entressola e ganhos de responsividade",
         "image": null,
         "date": "11 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "'A Odisseia' supera 'Batman' e se torna a maior bilheteria da carreira de Nolan",
-        "link": "https://exame.com/pop/a-odisseia-supera-batman-e-se-torna-a-maior-bilheteria-da-carreira-de-nolan/",
-        "summary": "Adaptação da obra de Homero chegou a US$ 1,104 bilhão nas bilheterias mundiais e deixou os dois filmes do Batman para trás",
+        "title": "Palmeiras x Santos: Copa do Brasil revive decisão de 2015 nas quartas",
+        "link": "https://exame.com/esporte/palmeiras-x-santos-copa-do-brasil-revive-decisao-de-2015-nas-quartas/",
+        "summary": "Clubes já protagonizaram quatro partidas pela competição e terão mais dois capítulos nas quartas de final",
         "image": null,
         "date": "11 de ago. de 2026",
         "source": "Exame",
