@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-10T23:38:44.229Z",
+  "updated": "2026-08-11T02:01:32.425Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Câmara de Campinas aprova veto a nomeação de condenados por maus-tratos a animais e uso de focinheira para cães",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/10/camara-de-campinas-aprova-veto-a-nomeacao-de-condenados-por-maus-tratos-a-animais-e-uso-de-focinheira-para-caes.ghtml",
+        "summary": "Câmara Municipal de Campinas Câmara Municipal de Campinas Os vereadores de Campinas (SP) aprovaram na noite desta segunda-feira (10), em definitivo, o projeto de lei que impede a nomeação de pessoas condenadas por maus-t",
+        "image": "https://s2-g1.glbimg.com/plG_b4CKo8-dy5WJAuFDQJW-TAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/h/fY4w2USS6hLwQUGSB5yQ/cachorro-com-focinheira.jpg",
+        "date": "10 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "PM prende homem por violência doméstica após mulher fugir de casa com filho em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/10/pm-prende-homem-por-violencia-domestica-apos-mulher-fugir-de-casa-com-filho-em-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/10/dia-do-evangelico-veja-o-que-abre-e-fecha-em-campinas-no-feriado-desta-quarta-feira.ghtml",
         "summary": "Imagem aérea de Campinas na região do centro Reprodução/EPTV O funcionamento de serviços públicos, comércios e áreas de lazer em Campinas (SP) terá alteração nesta quarta-feira (12), feriado do Dia do Evangélico. A data ",
         "image": "https://s2-g1.glbimg.com/qFTBiwcVixwJWAlAJ9h8CfnLzNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/m/51BBw0TmKb1COgqB78ew/drone-campinas-centro-2.jpg",
-        "date": "10 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Trio é preso após tentativa de furto a residência e perseguição por ruas de Pedreira",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/10/trio-e-preso-apos-tentativa-de-furto-a-residencia-e-perseguicao-por-ruas-de-pedreira.ghtml",
-        "summary": "Três homens são presos após tentar furtar casa e fugir, em Pedreira Três homens foram presos por receptação de veículo e tentativa de furto a uma residência no bairro Morumbi, em Pedreira (SP), na tarde deste domingo (9)",
-        "image": "https://s2-g1.glbimg.com/DKokGeGucqdVBKrKBFEh5ZOwh3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/a/bQx3doS1SeekTjRVTNaw/design-sem-nome.png",
         "date": "10 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "Festival de cinema de Brasília vive impasse; classe artística repudia",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/festival-de-cinema-de-brasilia-e-cancelado-classe-artistica-repudia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/festival-de-cinema-de-brasilia-e-cancelado-classe-artistica-repudia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rede de vigilância é essencial para evitar propagação de sarampo em SP",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/rede-de-vigilancia-e-essencial-para-evitar-propagacao-de-sarampo-em-sp",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/rede-de-vigilancia-e-essencial-para-evitar-propagacao-de-sarampo-em-sp img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fluminense domina, vence e complica Botafogo no Brasileirão Feminino",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-domina-vence-e-complica-botafogo-no-brasileirao-feminino",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-domina-vence-e-complica-botafogo-no-brasileirao-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Liesa inicia venda ingressos para carnaval 2027 na Marquês de Sapucaí",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/liesa-inicia-venda-ingressos-para-carnaval-2027-na-marques-de-sapucai",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/liesa-inicia-venda-ingressos-para-carnaval-2027-na-marques-de-sapucai img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "CBF e clubes aprovam novas regras para competições nacionais",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cbf-e-clubes-aprovam-novas-regras-para-competicoes-nacionais",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cbf-e-clubes-aprovam-novas-regras-para-competicoes-nacionais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Inscrições em curso para mediadores culturais do MAR terminam quarta",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/inscricoes-em-curso-para-mediadores-culturais-do-mar-terminam-quarta",
-        "summary": "p strong O Museu de Arte do Rio (MAR), por meio da Escola do Olhar, recebe até a próxima quarta-feira (12) inscrições de pessoas interessadas em participar do Curso de Formação de Mediadores Culturais 2026, cujo tema é R",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "EUA respondem ao Brasil na OMC e aceitam reunião para consultas",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/eua-respondem-ao-brasil-na-omc-e-aceitam-reuniao-para-consultas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/eua-respondem-ao-brasil-na-omc-e-aceitam-reuniao-para-consultas img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Consulta pública sobre educação a distância vai até sexta-feira",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/consulta-publica-sobre-educacao-distancia-vai-ate-sexta-feira",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/consulta-publica-sobre-educacao-distancia-vai-ate-sexta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Banco Central estuda interligar Pix com sistemas de outros países",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Juan Alano rescinde com Ceará e assina com o Sport até fevereiro de 2027",
+        "link": "https://www.gazetaesportiva.com/times/sport/juan-alano-rescinde-com-ceara-e-assina-com-o-sport-ate-fevereiro-de-2027/",
+        "summary": "O meia Juan Alano é o novo reforço do Sport para a sequência da temporada. Aos 29 anos, o jogador rescindiu seu contrato com o Ceará e assinou vínculo com o clube pernambucano até 28 de fevereiro de 2027. Já integrado ao",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/75A8341-2048x1365.jpg.webp",
+        "date": "11 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Guarani toma virada do Anápolis no final e perde chance de liderar a Série C",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/guarani-toma-virada-do-anapolis-no-final-e-perde-chance-de-liderar-a-serie-c/",
+        "summary": "O Guarani foi derrotado pelo Anápolis por 2 a 1, de virada, nesta segunda-feira, pela Série C do Campeonato Brasileiro. Guilherme Cachoeira abriu o placar para o Bugre, mas Matheus Lagoa marcou duas vezes para garantir a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-10-at-21.13.22.webp",
+        "date": "11 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Goiás vence o Londrina e encosta no G6 da Série B do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/goias/goias-vence-o-londrina-e-encosta-no-g6-da-serie-b-do-brasileiro/",
+        "summary": "Nesta segunda-feira, o Goiás venceu o Londrina por 1 a 0, no Serrinha, em Goiânia, pela 21ª rodada da Série B do Campeonato Brasileiro e encostou no Novorizontino, primeiro time dentro do G6 da competição nacional. O pos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPZc_xvXAAAU58b-2.webp",
+        "date": "11 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Santos aceita acordo, e São Paulo manda clássico contra o Corinthians na Vila Belmiro",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-corinthians-vila-belmiro-brasileirao/",
+        "summary": "O Santos aceitou a proposta do São Paulo para que o clássico contra o Corinthians, válido pela 34ª rodada do Campeonato Brasileiro, seja disputado na Vila Belmiro. O Majestoso está previsto para ocorrer no início de nove",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55041789807_31fd2d2e77_o.webp",
+        "date": "11 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Com novidade, São Paulo desembarca na Bolívia para jogo contra o Bolívar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/com-novidade-sao-paulo-desembarca-na-bolivia-para-jogo-contra-o-bolivar/",
+        "summary": "O São Paulo desembarcou em Santa Cruz de la Sierra, na Bolívia, na noite desta segunda-feira. O Tricolor paulista encara o Bolívar-BOL, nesta terça, no jogo de ida das oitavas de final da Copa Sul-Americana. A delegação ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPZeSItWoAA4fyg-2.webp",
+        "date": "11 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Ex-São Paulo, Liziero marca e garante empate do Nacional na estreia do Português",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/ex-sao-paulo-liziero-marca-e-garante-empate-do-nacional-na-estreia-do-portugues/",
         "summary": "O meio-campista Igor Liziero começou sua segunda temporada pelo Nacional, da Ilha da Madeira, com gol. Nesta segunda-feira (10), o jogador revelado pelo São Paulo marcou de pênalti na estreia da equipe na Liga Portugal e",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_7922.JPG-2.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Ituano: veja informações e onde assistir ao jogo pelo Paulista sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-ituano-veja-informacoes-e-onde-assistir-ao-jogo-pelo-paulista-sub-20/",
-        "summary": "O time Sub-20 do Palmeiras terá pela frente o Ituano, nesta terça-feira, às 15h (de Brasília), na Academia de Futebol 2, em Guarulhos (SP), pela 11ª rodada do Campeonato Paulista da categoria. O post Palmeiras x Ituano: ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/FTM-8226.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo x Vasco: prováveis escalações e onde assistir ao jogo pela Brasileirão sub-17",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-vasco-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-brasileirao-sub-17/",
-        "summary": "A equipe sub-17 do São Paulo volta a campo nesta terça-feira para enfrentar o Vasco pela 12ª rodada do Campeonato Brasileiro. A bola rola às 15h (de Brasília), no José Liberatti, em Osasco. Onde assistir O duelo não terá",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55450624628_ae725f26a3_o.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Internacional x Palmeiras: prováveis escalações e onde assistir ao jogo pelo Brasileiro sub-17",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/internacional-x-palmeiras-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-brasileiro-sub-17/",
-        "summary": "A equipe sub-17 do Palmeiras volta a campo nesta terça-feira, às 15h (de Brasília), quando enfrenta o Internacional, na Morada dos Quero-Queros, na Alvorada (RS). O duelo é válido pela 11ª rodada do Campeonato Brasileiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/FTM-7631.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Flamengo x Corinthians: veja informações e prováveis escalações do jogo pelo Brasileiro sub-17",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/flamengo-x-corinthians-brasileirao-sub-17-provaveis-escalacoes/",
-        "summary": "Flamengo e Corinthians se enfrentam nesta terça-feira (11), às 15h45, no Estádio Luso Brasileiro, no Rio de Janeiro, pela 11ª rodada do Campeonato Brasileiro Sub-17. O Timão chega embalado por quatro vitórias consecutiva",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247143.webp",
-        "date": "10 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Avaí x CRB: veja prováveis escalações e onde assistir ao duelo pela Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-x-crb-onde-assistir-serie-b/",
-        "summary": "Avaí e CRB se enfrentam pela 21ª rodada da Série B, nesta terça-feira, na Ressacada, em Florianópolis. O post Avaí x CRB: veja prováveis escalações e onde assistir ao duelo pela Série B apareceu primeiro em Gazeta Esport",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/20260603-Avai-x-Chapecoense-FOTO-Fabiano-Rateke-1.webp",
         "date": "10 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,119 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Fonseca disputa mais 6 torneios até o fim do ano, defende um título e joga Copa Davis",
-        "link": "https://www.infomoney.com.br/esportes/fonseca-disputa-mais-6-torneios-ate-o-fim-do-ano-defende-um-titulo-e-joga-copa-davis/",
-        "summary": "O tenista verde e amarelo definiu seu calendário até dezembro The post Fonseca disputa mais 6 torneios até o fim do ano, defende um título e joga Copa Davis appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-09T231835Z_493761450_MT1USATODAY29549403_RTRMADP_3_TENNIS-NATIONAL-BANK-OPEN.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
-        "date": "10 de ago. de 2026",
+        "title": "Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25",
+        "link": "https://www.infomoney.com.br/mercados/caixa-seguridade-tem-lucro-liquido-de-r-114-bi-no-2tri26-alta-de-95-ante-2tri25/",
+        "summary": "As receitas operacionais subiram 8,5% em um ano, para R$ 1,5 bilhão The post Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/Seguridades-e1752377148207.jpg?fit=300%2C243&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Plano Plano informa que Cyrela está de saída do seu Conselho de Administração",
-        "link": "https://www.infomoney.com.br/mercados/plano-plano-informa-que-cyrela-esta-de-saida-do-seu-conselho-de-administracao/",
-        "summary": "Segundo o documento, a própria Cyrela expressou o desejo de não participar mais da administração da Plano Plano, nem indicar membros para o Conselho The post Plano Plano informa que Cyrela está de saída do seu Conselho d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/PlanoPlano-divulgacao.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "10 de ago. de 2026",
+        "title": "Presidente da Voepass diz que não sabia de falhas que antecederam acidente em Vinhedo",
+        "link": "https://www.infomoney.com.br/brasil/presidente-da-voepass-diz-que-nao-sabia-de-falhas-que-antecederam-acidente-em-vinhedo/",
+        "summary": "A PF sustenta ainda que o executivo \"detinha pleno conhecimento dos problemas técnicos graves da frota\" The post Presidente da Voepass diz que não sabia de falhas que antecederam acidente em Vinhedo appeared first on Inf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/voepass1.webp?fit=300%2C144&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Conselho da Paz diz que plano de Trump para Gaza continua em pleno vigor",
-        "link": "https://www.infomoney.com.br/mundo/conselho-da-paz-diz-que-plano-de-trump-para-gaza-continua-em-pleno-vigor/",
-        "summary": "Netanyahu reafirmou no domingo rejeição ao plano, exigindo que Hamas seja \"verdadeiramente desarmado\" antes de qualquer retirada The post Conselho da Paz diz que plano de Trump para Gaza continua em pleno vigor appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T111911Z_2138393577_RC27ILAYIU47_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-PLAN.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
-        "date": "10 de ago. de 2026",
+        "title": "JSL (JSLG3) tem lucro líquido ajustado de R$ 30,2 mi no 2T, queda anual de 16%",
+        "link": "https://www.infomoney.com.br/mercados/jsl-jslg3-resultados-segundo-trimestre-2026/",
+        "summary": "Apesar da queda anual, lucro ajustado apresentou alta trimestral The post JSL (JSLG3) tem lucro líquido ajustado de R$ 30,2 mi no 2T, queda anual de 16% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/5YHWE9dM_552764.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Trump assina ordem que reformula recomendações de vacinação infantil nos EUA",
-        "link": "https://www.infomoney.com.br/mundo/trump-assina-ordem-que-reformula-recomendacoes-de-vacinacao-infantil-nos-eua/",
-        "summary": "Governo propõe que doses sejam administradas em consultas separadas, não em uma única visita The post Trump assina ordem que reformula recomendações de vacinação infantil nos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T194649Z_577117397_RC2VVMAROWS7_RTRMADP_3_USA-TRUMP-VACCINES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de ago. de 2026",
+        "title": "Lotofácil hoje, concurso 3758: confira o resultado sorteado nesta segunda (10)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3758-confira-o-resultado-sorteado-nesta-segunda-10/",
+        "summary": "O prêmio estimado para este concurso era de R$ 5 milhões The post Lotofácil hoje, concurso 3758: confira o resultado sorteado nesta segunda (10) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dirigente diz que não sabe até que ponto o Fed teria que elevar os juros nos EUA",
-        "link": "https://www.infomoney.com.br/economia/dirigente-diz-que-nao-sabe-ate-que-ponto-o-fed-teria-que-elevar-os-juros-nos-eua/",
-        "summary": "Mas, segundo Beth Hammack, os dirigentes precisam agir agora, para evitar dificuldades em retornar a inflação para a meta The post Dirigente diz que não sabe até que ponto o Fed teria que elevar os juros nos EUA appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-21T163941Z_1_LYNXMPEL7K0SA_RTROPTP_4_MACRO-FED-CORTE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "10 de ago. de 2026",
+        "title": "Movida (MOVI3) dobra lucro líquido, que fica em R$ 136 milhões no 2º tri",
+        "link": "https://www.infomoney.com.br/mercados/movida-movi3-resultados-segundo-trimestre-2026/",
+        "summary": "A companhia divulgou seu balanço na noite desta segunda-feira (10) The post Movida (MOVI3) dobra lucro líquido, que fica em R$ 136 milhões no 2º tri appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Movida_Moscatelli-2.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mendonça: É importante que Supremo dê resposta, e logo, sobre reforma tributária",
-        "link": "https://www.infomoney.com.br/politica/mendonca-e-importante-que-supremo-de-resposta-e-logo-sobre-reforma-tributaria/",
-        "summary": "O ministro avalia que a judicialização é inevitável na passagem do sistema antigo para o novo, ainda que a proposta seja de simplificação The post Mendonça: É importante que Supremo dê resposta, e logo, sobre reforma tri",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/andre-mendonca-alesp.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "10 de ago. de 2026",
+        "title": "Quina hoje, concurso 7088: confira o resultado sorteado nesta segunda (10)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7088-confira-o-resultado-sorteado-nesta-segunda-10/",
+        "summary": "O prêmio estimado para este concurso era de R$ 2,1 milhões The post Quina hoje, concurso 7088: confira o resultado sorteado nesta segunda (10) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "11 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "'Homem-Aranha: Um Novo Dia' lidera bilheteria mundial e dispara no ranking de 2026",
+        "link": "https://exame.com/pop/homem-aranha-um-novo-dia-lidera-bilheteria-mundial-e-dispara-no-ranking-de-2026/",
+        "summary": "Produção da Sony registra a maior arrecadação do período e amplia vantagem sobre os demais filmes em cartaz",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja como usar o Google Fotos para montar um guarda-roupa digital",
+        "link": "https://exame.com/tecnologia/veja-como-usar-o-google-fotos-para-montar-um-guarda-roupa-digital/",
+        "summary": "Recurso usa inteligência artificial para identificar roupas nas fotos e criar combinações personalizadas",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Crepúsculo: Amanhecer volta aos cinemas de São Paulo; veja onde assistir",
+        "link": "https://exame.com/pop/crepusculo-amanhecer-volta-aos-cinemas-de-sao-paulo-veja-onde-assistir/",
+        "summary": "Trama acompanha o casamento de Bella Swan e Edward Cullen, o nascimento da filha do casal e os desdobramentos que colocam em risco o futuro da família",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Uefa, AFC e Concacaf fazem duro ataque a Infantino: 'Futebol não pertence a um indivíduo'",
+        "link": "https://exame.com/esporte/uefa-afc-e-concacaf-fazem-duro-ataque-a-infantino-futebol-nao-pertence-a-um-individuo/",
+        "summary": "Entidades criticam condução da Fifa, questionam proposta de venda de ações e defendem liderança que “sirva o futebol”",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Mourinho dispara contra períodos sabáticos e manda recado a Guardiola",
+        "link": "https://exame.com/esporte/mourinho-dispara-contra-periodos-sabaticos-e-manda-recado-a-guardiola/",
+        "summary": "Técnico do Real Madrid falou sobre sua relação com o futebol em documentário da Netflix e afirmou que pretende seguir trabalhando por muitos anos",
+        "image": null,
+        "date": "10 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "União Europeia atualiza regras sobre transparência dos sistemas de Inteligência Artificial",
         "link": "https://exame.com/esferabrasil/uniao-europeia-atualiza-regras-sobre-transparencia-dos-sistemas-de-inteligencia-artificial/",
         "summary": "Mudanças começaram a valer no início deste mês e afetam mais da metade do continente",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Natura registra queda de 82% no lucro líquido do segundo trimestre de 2026",
-        "link": "https://exame.com/invest/mercados/natura-registra-queda-de-82-no-lucro-liquido-do-segundo-trimestre-de-2026/",
-        "summary": "Brasil impactou receita, enquanto mercados hispânicos apresentaram alta; margem Ebitda veio acima do que o Citi projetava",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Rosto feliz significa 'petisco'? Como uma pesquisa ajuda a entender a mente dos cães",
-        "link": "https://exame.com/ciencia/rosto-feliz-significa-petisco-como-uma-pesquisa-ajuda-a-entender-a-mente-dos-caes/",
-        "summary": "Estudos anteriores já haviam mostrado que a mesma região cerebral dos cães era ativada quando eles esperavam receber um petisco ou sentiam o cheiro de alguém familiar",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Além de One Piece: veja os 15 mangás mais recomendados pelos japoneses",
-        "link": "https://exame.com/pop/alem-de-one-piece-veja-os-15-mangas-mais-recomendados-pelos-japoneses/",
-        "summary": "Principal empresa de pesquisa de entretenimento do Japão ouviu 10.564 pessoas entre fevereiro e março, pedindo indicação de até três obras favoritas",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O que a dona da Centauro fez para faturar R$ 2,2 bilhões com a Copa do Mundo",
-        "link": "https://exame.com/negocios/o-que-a-dona-da-centauro-fez-para-faturar-r-22-bilhoes-com-a-copa-do-mundo/",
-        "summary": "Grupo preparou a operação com mais de um ano de antecedência e agora aposta em lojas reformadas, expansão da Nike e mudanças logísticas para manter o ritmo",
-        "image": null,
-        "date": "10 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "JBS anuncia Wesley Batista Filho como novo CEO global a partir de 2027",
-        "link": "https://exame.com/invest/mercados/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-a-partir-de-2027/",
-        "summary": "Filho de Wesley Batista, executivo de 34 anos substituirá Gilberto Tomazoni após oito anos no cargo",
         "image": null,
         "date": "10 de ago. de 2026",
         "source": "Exame",
