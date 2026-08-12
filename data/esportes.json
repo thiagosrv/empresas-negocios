@@ -1,29 +1,7 @@
 {
-  "updated": "2026-08-12T21:02:43.759Z",
+  "updated": "2026-08-12T22:01:36.524Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Akliouche esbanja alegria em seu primeiro treino no PSG",
-      "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/akliouche-esbanja-alegria-em-seu-primeiro-treino-no-psg/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "12 de ago. de 2026",
-      "isoDate": "2026-08-12",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Time turco anuncia contratação de Lukaku",
-      "link": "https://www.gazetaesportiva.com/fenerbahce/fenerbahce-anuncia-contratacao-romelu-lukaku/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "12 de ago. de 2026",
-      "isoDate": "2026-08-12",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Everton vence Newcastle e chega à terceira vitória em amistosos de pré-temporada",
       "link": "https://www.gazetaesportiva.com/amistoso/everton-vence-newcastle-e-chega-a-terceira-vitoria-em-amistosos-de-pre-temporada/",
@@ -44,7 +22,7 @@
       "isoDate": "2026-08-12",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja fotos do amistoso entre Arsenal e Como",
@@ -55,7 +33,7 @@
       "isoDate": "2026-08-12",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja fotos do amistoso de pré-temporada entre Manchester United e Leeds",
@@ -66,7 +44,7 @@
       "isoDate": "2026-08-12",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Xavi Hernández é o novo técnico da seleção holandesa",
@@ -77,7 +55,7 @@
       "isoDate": "2026-08-12",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Bruno Guimarães estreia, e Arsenal vence amistoso contra o Como nos pênaltis",
@@ -89,6 +67,28 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Manchester United vence Leeds nos pênaltis em amistoso de pré-temporada",
+      "link": "https://www.gazetaesportiva.com/times/manchester-united/manchester-united-vence-leeds-nos-penaltis-em-amistoso-de-pre-temporada/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "12 de ago. de 2026",
+      "isoDate": "2026-08-12",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Dorival Jr sai satisfeito da Bolívia e confiante em classificação do São Paulo",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/dorival-jr-sai-satisfeito-da-bolivia-e-confiante-em-classificacao-do-sao-paulo/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "12 de ago. de 2026",
+      "isoDate": "2026-08-12",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Bruninho celebra sonho de vestir a camisa da Seleção sub-20 e mira Sul-Americano",
