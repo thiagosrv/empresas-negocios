@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-13T20:53:35.073Z",
+  "updated": "2026-08-13T21:50:46.307Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "13 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Justiça permite suspensão da Área Azul em Americana, mas mantém liminar até decisão se tornar definitiva",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/justica-permite-suspensao-area-azul-americana-mantem-liminar-decisao-definitiva.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/13/o-que-fazer-em-piracicaba-e-regiao-agenda.ghtml",
         "summary": "Gusttavo Lima, banda Cólera e MC Lukky Thomaz Marostegan / Reprodução/redes sociais / Reprodução/redes sociais Festival, show, teatro, cinema, exposição e programação ao ar livre estão entre as opções culturais na região",
         "image": "https://s2-g1.glbimg.com/i1tAbPgb0tIJIcdXfj2ic8al-EY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/6/WsoralTBAcOjj79LJv6Q/thomaz-marostegan-reproducaoredes-sociais-reproducaoredes-sociais.png",
-        "date": "13 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Motoboys cercam suspeito em fuga e ajudam PM a prender homem após roubo de moto em Valinhos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/motoboys-cercam-suspeito-em-fuga-e-ajudam-pm-a-prender-homem-apos-roubo-de-moto-em-valinhos.ghtml",
-        "summary": "Motoboys cercam suspeito em fuga e ajudam PM a prender homem após roubo de moto em Valinho Um homem foi preso depois de roubar uma motocicleta na região central de Valinhos (SP), em frente a um hortifruti na Avenida dos ",
-        "image": "https://s2-g1.glbimg.com/zcCGe5zZ9Du74_0X4GOqYo2BmcM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/2/0wMIQDTRiC43zKPOmLkA/design-sem-nome-1-.png",
         "date": "13 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "Publicadas novas regras para atividades de residência médica",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/publicadas-novas-regras-para-atividades-de-residencia-medica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/publicadas-novas-regras-para-atividades-de-residencia-medica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Calderano derrota japonês e vai às oitavas do Europe Smash, na Suécia",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/calderano-derrota-japones-e-vai-oitavas-do-europe-smash-na-suecia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/calderano-derrota-japones-e-vai-oitavas-do-europe-smash-na-suecia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mais de 5 milhões de brasileiros estão impedidos de apostar em bets",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mais-de-5-milhoes-de-brasileiros-estao-impedidos-de-apostar-em-bets",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mais-de-5-milhoes-de-brasileiros-estao-impedidos-de-apostar-em-bets img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "COP17 da Desertificação chega à Mongólia, país assolado pelo problema",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-discute-desertificacao-na-mongolia-pais-assolado-pelo-problema",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-discute-desertificacao-na-mongolia-pais-assolado-pelo-problema img src= https://cdn.jsdelivr.net/gh/sergio",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Entidades cobram propostas de candidatos contra violência infantil",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/entidades-cobram-propostas-de-candidatos-contra-violencia-infantil",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/entidades-cobram-propostas-de-candidatos-contra-violencia-infantil img src= https://cdn.jsdelivr.net/gh/sergi",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Segunda maior refinaria do país reduz preço da gasolina em 11,3%",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TSE determina que filiação de Flávio ao PL seja restabelecida",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-determina-que-filiacao-de-flavio-ao-pl-seja-restabelecida",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-determina-que-filiacao-de-flavio-ao-pl-seja-restabelecida img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Câmara aprova lei com medidas para promover futebol feminino no país",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/camara-aprova-lei-com-medidas-para-promover-futebol-feminino-no-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/camara-aprova-lei-com-medidas-para-promover-futebol-feminino-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fluminense demite técnico Zubeldia após 0 a 0 em casa na Libertadores",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-demite-tecnico-zubeldia-apos-0-0-em-casa-na-libertadores",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-demite-tecnico-zubeldia-apos-0-0-em-casa-na-libertadores img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Com Neymar titular, Santos define time para enfrentar o Macará; veja escalações",
-        "link": "https://www.gazetaesportiva.com/times/santos/com-neymar-titular-santos-define-titulares-para-enfrentar-o-macara-veja-escalacoes/",
-        "summary": "O Santos está escalado para enfrentar o Macará, do Equador, nesta quinta-feira, às 19h (de Brasília), na Vila Belmiro, pelo jogo de ida das oitavas de final da Copa Sul-Americana. O técnico Cuca definiu a equipe com o re",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/80BBE244-3A53-491B-A44C-EC696A49CF6D.webp",
+        "title": "Mirassol x LDU: siga o tempo real do jogo pela Libertadores",
+        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/mirassol-x-ldu-libertadores-13-08-26/",
+        "summary": "Mirassol e LDU se enfrentam nesta quinta-feira, às 19h, no Estádio Maião, pelo jogo de ida das oitavas de final da Copa Libertadores. As equipes já se encararam na fase de grupos: a LDU venceu por 2 a 0 em Quito, enquant",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_6488.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Maicon destaca passagem pelo São Paulo antes de jogo no Morumbi: Ótimas lembranças",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/maicon-destaca-passagem-pelo-sao-paulo-antes-de-jogo-no-morumbi-otimas-lembrancas/",
-        "summary": "Neste sábado, o São Paulo recebe o Coritiba pela 23ª rodada do Campeonato Brasileiro. O confronto será especial para o zagueiro Maicon, que defendeu o Tricolor entre 2016 e 2017. O defensor mantém uma relação de carinho ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/MS-1093804-2026-08-08-copiar.jpg.webp",
+        "title": "Santos x Macará: siga o tempo real do jogo pela Copa Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/santos-macara-ao-vivo-tempo-real-sul-americana/",
+        "summary": "Santos recebe o Macará nesta quinta-feira, na Vila Belmiro, pelo jogo de ida das oitavas de final da Copa Sul-Americana. Veja escalações, estatísticas, onde assistir e acompanhe o tempo real. O post Santos x Macará: siga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPoiP5dXUAEZbKe.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Diriyah Club 0 x 1 Al Ahli pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-diriyah-club-0-x-1-al-ahli-pela-liga-saudita/",
-        "summary": "Melhores momentos: Diriyah Club 0 x 1 Al Ahli pela Liga Saudita O post Melhores momentos: Diriyah Club 0 x 1 Al Ahli pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/i1qbfvvk-1920Al-Ahli.webp",
+        "title": "Botafogo desembarca no Peru para jogo contra o Cienciano",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-desembarca-no-peru-para-jogo-contra-o-cienciano/",
+        "summary": "A delegação alvinegra desembarcou na capital peruana em sua primeira parada antes de seguir rumo a Cusco, onde enfrenta o Cienciano pelo duelo de ida das oitavas de final da CONMEBOL Sudamericana. O post Botafogo desemba",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/8xnee6dx-1920-o-Cienciano.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Rafinha é advertido pelo STJD por ofensas contra o árbitro em derrota do São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/rafinha-e-advertido-pelo-stjd-por-ofensas-contra-o-arbitro-em-derrota-do-sao-paulo/",
-        "summary": "Rafinha, executivo de futebol do São Paulo, escapou de uma suspensão pelo episódio envolvendo o árbitro André Luiz Policarpo Bento após a derrota por 2 a 1 para o Grêmio, no último sábado, pelo Campeonato Brasileiro. O d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55455645708_852c7b5457_k.webp",
+        "title": "Palmeiras prepara medidas junto à Conmebol após expulsão de Andreas",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-prepara-medidas-junto-a-conmebol-apos-expulsao-de-andreas/",
+        "summary": "Palmeiras prepara medidas junto à Conmebol após expulsão de Andreas Pereira no empate com o Cerro Porteño pela Libertadores. O post Palmeiras prepara medidas junto à Conmebol após expulsão de Andreas apareceu primeiro em",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260812__C4JB9ZV__v1__HighRes__FblLibertadoresPalmeirasCerroporteno.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Atacante sérvio Dusan Vlahovic deixa Juventus e assina com Besiktas",
-        "link": "https://www.gazetaesportiva.com/times/juventus/atacante-servio-dusan-vlahovic-deixa-juventus-e-assina-com-besiktas/",
-        "summary": "Dusan Vlahovic deixa a Juventus e assina contrato de três temporadas com o Besiktas. Atacante sérvio receberá 7,5 milhões de euros por ano. O post Atacante sérvio Dusan Vlahovic deixa Juventus e assina com Besiktas apare",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/10/AFP__20251014__78TN8GC__v1__HighRes__FblWcEur2026QualifiersAndSerb.webp",
+        "title": "Florent Manaudou, lenda da natação francesa, anuncia aposentadoria",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/natacao/florent-manaudou-lenda-da-natacao-francesa-anuncia-aposentadoria/",
+        "summary": "O nadador francês Florent Manaudou anunciou sua aposentadoria aos 35 anos. Campeão olímpico dos 50 metros livre em Londres-2012, ele se despede como o único homem a conquistar medalhas na prova em quatro edições diferent",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4LN6ZQ__v1__HighRes__FilesSwimming.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Barthez se junta à comissão técnica de Zidane na seleção francesa",
-        "link": "https://www.gazetaesportiva.com/times/franca/barthez-se-junta-a-comissao-tecnica-de-zidane-na-selecao-francesa/",
-        "summary": "A Federação Francesa de Futebol anunciou Fabien Barthez, campeão mundial em 1998, como novo treinador de goleiros da seleção francesa. O ex-arqueiro fará parte da comissão técnica de Zinedine Zidane, ao lado de outros co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4JU3NQ__v1__HighRes__FilesFblFraFff.webp",
+        "title": "Astros sul-americanos sem clube buscam aquela que pode ser sua última dança",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/astros-sul-americanos-sem-clube-buscam-aquela-que-pode-ser-sua-ultima-danca/",
+        "summary": "Artilheiros, capitães e ícones de uma geração de astros sul-americanos que marcaram época na Europa buscam um clube para, talvez, se despedir do futebol. Eles estão à procura do que pode ser uma última oportunidade nesta",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4JC9G3__v1__HighRes__FblSamericaMarket.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,26 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Cai diferença entre homens e mulheres no acesso ao emprego formal",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cai-diferenca-entre-homens-e-mulheres-no-acesso-ao-emprego-formal",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cai-diferenca-entre-homens-e-mulheres-no-acesso-ao-emprego-formal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Mais de 5 milhões de brasileiros estão impedidos de apostar em bets",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mais-de-5-milhoes-de-brasileiros-estao-impedidos-de-apostar-em-bets",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mais-de-5-milhoes-de-brasileiros-estao-impedidos-de-apostar-em-bets img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Segunda maior refinaria do país reduz preço da gasolina em 11,3%",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113",
@@ -287,84 +307,104 @@
         "cls": ""
       },
       {
-        "title": "Vendas no comércio crescem 0,5% em junho e sobem 1,9% no 1º semestre",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/vendas-no-comercio-crescem-05-em-junho-e-sobem-19-no-1o-semestre",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/vendas-no-comercio-crescem-05-em-junho-e-sobem-19-no-1o-semestre img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Yduqs (YDUQ3) tem queda de 54,2% no lucro do 2º tri, em resultado abaixo do esperado",
+        "link": "https://www.infomoney.com.br/mercados/yduqs-yduq3-resultados-segundo-trimestre-2026/",
+        "summary": "A receita ​líquida cresceu 1%, para R$ 1,4 bilhão The post Yduqs (YDUQ3) tem queda de 54,2% no lucro do 2º tri, em resultado abaixo do esperado appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/05/yduqs.png?fit=300%2C210&amp;quality=70&amp;strip=all",
+        "date": "13 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lucro da Cyrela (CYRE3) cresce 16% e atinge R$ 452 milhões no 2º trimestre",
+        "link": "https://www.infomoney.com.br/mercados/cyrela-cyre3-resultados-segundo-trimestre-2026/",
+        "summary": "A receita líquida totalizou R$ 2,481 bilhões no período, crescimento de 18% na mesma base de comparação anual The post Lucro da Cyrela (CYRE3) cresce 16% e atinge R$ 452 milhões no 2º trimestre appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/cyrela1.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "date": "13 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Stone tem lucro líquido ajustado de R$ 583 milhões no 2º tri, queda anual de 2,6%",
+        "link": "https://www.infomoney.com.br/mercados/stone-stoc34-resultados-segundo-trimestre-2026/",
+        "summary": "Segundo a empresa, o recuo anual reflete um lucro antes de imposto (EBT) ajustado menor e uma taxa efetiva de imposto que avançou para 16,4%, ante 15% um ano antes The post Stone tem lucro líquido ajustado de R$ 583 milh",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/stone-e1590528579690.png?fit=300%2C184&amp;quality=70&amp;strip=all",
+        "date": "13 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Microsoft reduz compras de créditos de carbono em 80% em meio à expansão de IA",
+        "link": "https://www.infomoney.com.br/business/microsoft-reduz-compras-de-creditos-de-carbono-em-80-em-meio-a-expansao-de-ia/",
+        "summary": "Empresa adquiriu o equivalente a 8,55 milhões de toneladas métricas no acumulado até meados de julho, menos que no mesmo período de 2025 The post Microsoft reduz compras de créditos de carbono em 80% em meio à expansão d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464148417_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "13 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "S P 500 supera 7.800 pontos com inflação ao produtor abaixo do esperado nos EUA",
+        "link": "https://www.infomoney.com.br/mercados/sp-500-supera-7-800-pontos-com-inflacao-ao-produtor-abaixo-do-esperado-nos-eua/",
+        "summary": "Os indicadores reforçaram a leitura da véspera dos dados de inflação ao consumidor dos EUA The post S P 500 supera 7.800 pontos com inflação ao produtor abaixo do esperado nos EUA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-01T104747Z_1655761889_RC2EKFALKQL1_RTRMADP_3_FIGMA-STOCKS.jpg?fit=300%2C227&amp;quality=70&amp;strip=all",
+        "date": "13 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ibovespa cai pela 8ª vez seguida, algo ocorrido só 7 vezes desde 2000; veja por quê",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-cair-nesta-5a-mesmo-com-boas-noticias-vindas-dos-eua-o-que-explica/",
+        "summary": "Mercado passando a ver mais as eleições e queda de ações de empresas que soltaram resultados levam à baixa dos ativos The post Ibovespa cai pela 8ª vez seguida, algo ocorrido só 7 vezes desde 2000; veja por quê appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/grafico-queda.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
+        "date": "13 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Pesquisa Datafolha no Ceará: Ciro lidera com 19 pontos de vantagem contra Elmano",
+        "link": "https://exame.com/brasil/pesquisa-datafolha-no-ceara-ciro-lidera-com-19-pontos-de-vantagem-contra-elmano/",
+        "summary": "Ex-governador tem 52% das intenções de voto no cenário estimulado e chega a 55% em eventual segundo turno; Elmano lidera a rejeição, com 35%",
         "image": null,
         "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Consumidores poderão escolher fornecedores de energia a partir de 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consumidores-poderao-escolher-fornecedores-de-energia-partir-de-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consumidores-poderao-escolher-fornecedores-de-energia-partir-de-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Comunidade do bitcoin prepara rede contra ataques quânticos",
+        "link": "https://exame.com/future-of-money/comunidade-do-bitcoin-prepara-rede-contra-ataques-quanticos/",
+        "summary": "Durante o Blockchain.RIO 2026, especialista da Honey Island Capital falou sobre as tentativas de proteger o blockchain",
         "image": null,
-        "date": "12 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "13 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Rede D Or e Qualicorp destoam da Hapvida e disparam 6% na Bolsa após resultados do 2T",
-        "link": "https://www.infomoney.com.br/mercados/rede-dor-e-qualicorp-destoam-da-hapvida-e-disparam-na-bolsa-apos-resultados-do-2t/",
-        "summary": "Companhias registraram fortes altas após o balanço do trimestre The post Rede D Or e Qualicorp destoam da Hapvida e disparam 6% na Bolsa após resultados do 2T appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/04/hc_rede_dor.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "'Tesouraço', corte de imposto e limites ao STF: veja o plano de governo de Flávio Bolsonaro",
+        "link": "https://exame.com/brasil/tesouraco-corte-de-imposto-e-regras-para-o-stf-veja-o-plano-de-governo-de-flavio-bolsonaro/",
+        "summary": "\"Estou pronto para ser presidente e resgatar o país\", afirmou o candidato ao apresentar o plano",
+        "image": null,
         "date": "13 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Juiz que atuava na falência do Banco Santos é afastado após gravação com herdeiros",
-        "link": "https://www.infomoney.com.br/business/juiz-que-atuava-na-falencia-do-banco-santos-e-afastado-apos-gravacao-com-herdeiros/",
-        "summary": "Decisão de Mauro Campbell ocorreu após reportagem do Estadão revelar conversa em que Paulo Furtado teria sugerido venda do banco ao Master The post Juiz que atuava na falência do Banco Santos é afastado após gravação com",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-18-090213.png?fit=300%2C176&amp;quality=70&amp;strip=all",
+        "title": "Quando será o próximo eclipse solar? Veja as datas do próximo 'anel de fogo' e o 'eclipse do século'",
+        "link": "https://exame.com/ciencia/quando-sera-o-proximo-eclipse-solar-veja-as-datas-do-proximo-anel-de-fogo-e-o-eclipse-do-seculo/",
+        "summary": "Ano de 2027 terá eclipse do tipo \"anel de fogo\" em fevereiro e um eclipse solar total em agosto, com mais de seis minutos de totalidade",
+        "image": null,
         "date": "13 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Rumo (RAIL3) salta 4,5% com perspectiva de fluxo de caixa mais otimista após 2T",
-        "link": "https://www.infomoney.com.br/mercados/rumo-rail3-dispara-4-com-perspectiva-de-fluxo-de-caixa-mais-otimista-apos-2t/",
-        "summary": "Estratégia da companhia de priorizar a otimização de ativos, preservação de caixa e disciplina na alocação de capital é positiva na visão dos analistas The post Rumo (RAIL3) salta 4,5% com perspectiva de fluxo de caixa m",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-28-083158.png?fit=300%2C127&amp;quality=70&amp;strip=all",
-        "date": "13 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Gustavo Franco: juros não estão altos por BC malvado , mas por governo irresponsável",
-        "link": "https://www.infomoney.com.br/economia/gustavo-franco-juros-nao-estao-altos-por-bc-malvado-mas-por-governo-irresponsavel/",
-        "summary": "O economista afirma que a inconsistência com a política fiscal que o governo apresenta atualmente é incoerente com a expectativa de atuação do BC The post Gustavo Franco: juros não estão altos por BC malvado , mas por go",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/franco.png?fit=300%2C186&amp;quality=70&amp;strip=all",
-        "date": "13 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Multi (MLAS3) salta 23% após lucro saltar 7 vezes, mas por que ainda há cautela?",
-        "link": "https://www.infomoney.com.br/mercados/multi-mlas3-salta-20-apos-lucro-saltar-7-vezes-mas-por-que-ainda-ha-cautela/",
-        "summary": "Segundo análise do Itaú BBA, o principal destaque do segundo trimestre foi a melhora disseminada de rentabilidade em todas as divisões de negócios, mas recomendação é de manutenção The post Multi (MLAS3) salta 23% após l",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/multilaser-divulgacao.png?fit=300%2C166&amp;quality=70&amp;strip=all",
-        "date": "13 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Minerva (BEEF3) cai 7,6% após 2T com pressão sobre caixa e sinais de demanda fraca",
-        "link": "https://www.infomoney.com.br/mercados/minerva-beef3-cai-7-apos-2t-com-pressao-sobre-caixa-e-sinais-de-demanda-mais-fraca/",
-        "summary": "Balanço veio com Ebitda em linha, mas consumo de capital de giro e incertezas sobre a China pesam sobre as ações The post Minerva (BEEF3) cai 7,6% após 2T com pressão sobre caixa e sinais de demanda fraca appeared first ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/09/01_Historia.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
-        "date": "13 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Ibovespa tem 8ª queda seguida, sequência vista apenas 7 vezes em mais de 20 anos",
@@ -380,46 +420,6 @@
         "title": "Agente de inteligência artificial cobrou milhares de dólares da pessoa errada; entenda o caso",
         "link": "https://exame.com/inteligencia-artificial/agente-de-inteligencia-artificial-cobrou-milhares-de-dolares-da-pessoa-errada-entenda-o-caso/",
         "summary": "Caso documentado pela Red Hat mostra como falhas em agentes de inteligência artificial podem gerar prejuízos financeiros e ampliar o debate sobre supervisão humana",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "André Fehlauer é nomeado novo CEO da Gol; veja trajetória do executivo",
-        "link": "https://exame.com/invest/mercados/andre-fehlauer-e-nomeado-novo-ceo-da-gol-veja-trajetoria-do-executivo/",
-        "summary": "Executivo deixa comando da Livelo para assumir a Gol em setembro. Fehlauer já atuou como CEO da Smiles num passado",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Lula defende que brasileiros comprem 'no limite do que podem pagar'",
-        "link": "https://exame.com/brasil/lula-defende-que-brasileiros-comprem-no-limite-do-que-podem-pagar/",
-        "summary": "Lula defendeu que o endividamento pode ser positivo quando resulta em ganho de patrimônio ou melhoria de qualidade de vida",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Como usar o Figma AI para criar designs, protótipos e acelerar tarefas no trabalho",
-        "link": "https://exame.com/inteligencia-artificial/como-usar-o-figma-ai-para-criar-designs-prototipos-e-acelerar-tarefas-no-trabalho/",
-        "summary": "Figma reúne recursos de inteligência artificial que permitem transformar comandos de texto em designs, protótipos e imagens para diferentes projetos profissionais",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Instagram anuncia mudança em logo pela 1ª vez em 10 anos; veja as alterações",
-        "link": "https://exame.com/marketing/instagram-anuncia-mudanca-em-logo-pela-1a-vez-em-10-anos-veja-as-alteracoes/",
-        "summary": "Rede social da Meta apresenta novo sistema visual dez anos após abandonar o ícone retrô e adotar o gradiente colorido",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
