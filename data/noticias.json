@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T06:19:30.997Z",
+  "updated": "2026-08-13T08:24:09.562Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Atuações do Palmeiras: Flaco López é decisivo, mas Carlos Miguel falha em empate",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-empate-cerro-porteno-libertadores/",
+        "summary": "O Palmeiras amargou um empate por 1 a 1 com o Cerro Porteño na noite da última quarta-feira pela ida das oitavas de final da Copa Libertadores. De volta ao time titular, o atacante Flaco López balançou a rede no Nubank P",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/12082026_cg_palmeiras_1734_85.webp",
+        "date": "13 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Melhores momentos: Cruzeiro 1 x 1 Flamengo pela Libertadores",
         "link": "https://www.gazetaesportiva.com/times/flamengo/melhores-momentos-cruzeiro-1-x-1-flamengo-pela-libertadores/",
         "summary": "Confira os melhores momentos de Cruzeiro 1 x 1 Flamengo, duelo válido pela ida das oitavas de final da Copa Libertadores, disputado na noite desta quarta-feira, no Mineirão, em Belo Horizonte. O post Melhores momentos: C",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/cruzeiro-flamengo-ida-oitavas-libertadores-12-08-2026/",
         "summary": "Nesta quarta-feira, o Flamengo buscou o empate com o Cruzeiro por 1 a 1, no Mineirão, em Belo Horizonte, pelo jogo de ida das oitavas de final da Copa Libertadores e deixou a vaga nas quartas em aberto para a segunda par",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4JF9D7__v1__HighRes__FblLibertadoresCruzeiroFlamengo.webp",
-        "date": "13 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Nakashima vence Jódar e vai disputar final do Masters 1000 de Montreal",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/nakashima-vence-jodar-e-vai-disputar-final-do-masters-1000-de-montreal/",
-        "summary": "O americano Brandon Nakashima, 31º do mundo, venceu o espanhol Rafael Jodar, a grande revelação desta temporada do tênis masculino, nesta quarta-feira (12) com parciais de 7-6 (7/3) e 6-4 e se classificou para a final do",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__2289738701__v1__HighRes__Atp1000NationalBankOpenPresentedByRogersDay1.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,74 @@
         "cls": ""
       },
       {
-        "title": "Vale (VALE3) adianta projeto de complexo de cobre Salobo, no Pará",
-        "link": "https://www.infomoney.com.br/mercados/vale-vale3-adianta-projeto-de-complexo-de-cobre-salobo-no-para/",
-        "summary": "A VBM revisou e simplificou o escopo do projeto, reduzindo a estimativa de investimento para aproximadamente US$ 215 milhões The post Vale (VALE3) adianta projeto de complexo de cobre Salobo, no Pará appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/vale-base-metals.png?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "De guarda-costas a homem forte: como o neto de Raúl Castro ganhou poder em Cuba",
+        "link": "https://www.infomoney.com.br/business/global/de-guarda-costas-a-homem-forte-como-o-neto-de-raul-castro-ganhou-poder-em-cuba/",
+        "summary": "Interlocutor da família Castro nas negociações com o governo Trump, Raúl G. Rodríguez Castro já foi citado em um processo contra uma rede de contrabando cubana The post De guarda-costas a homem forte: como o neto de Raúl",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-26T215430Z_1498064350_RC2ULMAWJD7S_RTRMADP_3_MEXICO-CUBA-PROTEST-USA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Simpar (SIMH3) reverte prejuízo e reporta lucro líquido ajustado de R$ 52 mi no 2T26",
-        "link": "https://www.infomoney.com.br/mercados/simpar-simh3-resultados-segundo-trimestre-2026/",
-        "summary": "O trimestre marca os 70 anos de fundação do grupo, que também reportou o menor nível de alavancagem financeira desde seu IPO em 2010 The post Simpar (SIMH3) reverte prejuízo e reporta lucro líquido ajustado de R$ 52 mi n",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/11/Denys-Ferrez_CFO-Simpar.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "title": "MRV CO: Prejuízo líquido consolidado é de R$ 626,3 mi no 2T, perda 22,7% menor",
+        "link": "https://www.infomoney.com.br/mercados/mrvco-mrve3-resultados-segundo-trimestre-2026/",
+        "summary": "O que mais pesou no balanço foi a já esperada baixa contábil (impairment) de US$ 110 milhões da Resia The post MRV CO: Prejuízo líquido consolidado é de R$ 626,3 mi no 2T, perda 22,7% menor appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-13-191553.png?fit=300%2C198&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ações da Coreia do Sul disparam 22% em 10 dias com retomada da febre dos chips",
-        "link": "https://www.infomoney.com.br/mercados/acoes-da-coreia-do-sul-disparam-22-em-10-dias-com-retomada-da-febre-dos-chips/",
-        "summary": "Alta de Samsung e SK Hynix impulsiona Kospi, que se recupera após pior mês desde a crise financeira global The post Ações da Coreia do Sul disparam 22% em 10 dias com retomada da febre dos chips appeared first on InfoMon",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463981431.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Canetas emagrecedoras movimentam R$ 2,35 bi e viram alvo de fraudes online",
+        "link": "https://www.infomoney.com.br/minhas-financas/canetas-emagrecedoras-ja-movimentam-r-235-bi-e-atraem-onda-de-fraudes-online/",
+        "summary": "Vendas de medicamentos à base de GLP-1 saltaram 149% no primeiro semestre, mostra a Serasa; setor de saúde já está entre os principais alvos de fraudes no e-commerce The post Canetas emagrecedoras movimentam R$ 2,35 bi e",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/haberdoedas-TzKc7FGaL7Y-unsplash-1.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "PGR pede que STF mantenha restrições impostas a Bolsonaro na prisão domiciliar",
-        "link": "https://www.infomoney.com.br/politica/pgr-pede-que-stf-mantenha-restricoes-impostas-a-bolsonaro-na-prisao-domiciliar/",
-        "summary": "Gonet considera legítimas suspensão de visitas e proibição de manifestações político-eleitorais durante cumprimento da pena The post PGR pede que STF mantenha restrições impostas a Bolsonaro na prisão domiciliar appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-14T172119Z_1630398829_RC2TRGA5AELK_RTRMADP_3_BRAZIL-BOLSONARO_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "CEO discorda de Musk: IA não vai eliminar o dinheiro — somos animais de status",
+        "link": "https://www.infomoney.com.br/business/global/ceo-discorda-de-musk-ia-nao-vai-eliminar-o-dinheiro-somos-animais-de-status/",
+        "summary": "Para Michael Saylor, da Strategy, abundância de bens básicos só eleva o padrão do que é considerado luxo: \"todo mundo tem carro, mas quantos têm Porsche?\" The post CEO discorda de Musk: IA não vai eliminar o dinheiro — s",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BILLIONAIRE-MICHAEL-SAYLOR-SAYS-ELON-MUSK-IS-WRONG-ABOUT-AI-MAKING-MONEY-IRRELEVANT-EVERYBODY-DOESNT-GET-THEIR-OWN-PRIVATE-JET.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Colômbia autoriza operações militares com os EUA contra narcotráfico",
-        "link": "https://www.infomoney.com.br/mundo/colombia-autoriza-operacoes-militares-com-os-eua-contra-narcotrafico/",
-        "summary": "Acordo anunciado por secretário de Defesa de Trump torna Colômbia o quarto país latino-americano a autorizar ações militares conjuntas contra grupos do tráfico The post Colômbia autoriza operações militares com os EUA co",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T214304Z_1890638240_RC23XMAOM4NJ_RTRMADP_3_USA-TRUMP-HEGSETH-COLOMBIA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Taxa das blusinhas: imposto de 20% pode voltar a valer em 9 de setembro",
+        "link": "https://www.infomoney.com.br/politica/taxa-das-blusinhas-imposto-de-20-pode-voltar-em-9-de-setembro/",
+        "summary": "Medida que zerou o imposto federal sobre compras internacionais de até US$ 50 perde validade em 8 de setembro e ainda não começou a ser analisada pela comissão mista The post Taxa das blusinhas: imposto de 20% pode volta",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/brasilia_congresso_nuvens_e_0416202217_2.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Senado aprova corte de impostos sobre combustíveis e amplia benefícios a setores",
-        "link": "https://www.infomoney.com.br/politica/senado-aprova-corte-de-impostos-sobre-combustiveis-e-amplia-beneficios-a-setores/",
-        "summary": "Projeto reduz tributos sobre diesel, gasolina e etanol e prevê até R$ 5 bilhões em créditos fiscais para fertilizantes The post Senado aprova corte de impostos sobre combustíveis e amplia benefícios a setores appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T222733Z_1_LYNXMPEM2J189_RTROPTP_4_BRAZIL-ENERGY-FUEL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Aos 14, ela colhia milho por US$ 1 a hora; hoje, comanda a IA do Google DeepMind",
+        "link": "https://www.infomoney.com.br/business/global/aos-14-ela-colhia-milho-por-us-1-a-hora-hoje-comanda-a-ia-do-google-deepmind/",
+        "summary": "Lila Ibrahim, primeira COO do Google DeepMind, trocou os campos de Indiana por uma carreira que a levou da Intel ao comando da IA, sem formação formal na área e como filha de imigrante The post Aos 14, ela colhia milho p",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SHE-DETASSELED-CORN-FOR-1-AN-HOUR-AT-14-NOW-SHES-GOOGLE-DEEPMINDS-CHIEF-AI-EXECAND-SAYS-BEING-AN-IMMIGRANTS-DAUGHTER-MADE-HER-A-NATURAL-FIRST.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "6 passos para estruturar um comitê de IA na sua empresa e tomar decisões de alto impacto",
+        "link": "https://exame.com/inteligencia-artificial/passos-para-estruturar-um-comite-de-ia-na-sua-empresa-e-tomar-decisoes-de-alto-impacto/",
+        "summary": "Grupo multidisciplinar ajuda a definir regras para o uso da inteligência artificial, avaliar riscos e estabelecer quem responde pelas decisões tomadas com apoio da tecnologia",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "TSE cria novo Conselho para combater desinformação e usos indevidos de IA nas eleições",
@@ -410,16 +420,6 @@
         "title": "Saudade? Memphis Depay levou Corinthians para suas músicas durante passagem pelo clube",
         "link": "https://exame.com/pop/saudade-memphis-depay-levou-corinthians-para-suas-musicas-durante-passagem-pelo-clube/",
         "summary": "Atacante holandês se aproximou de artistas brasileiros, lançou músicas sobre o Timão e alcançou certificado de ouro com EP ao lado de MC Hariel",
-        "image": null,
-        "date": "12 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Mulheres no comando, prédios no Centro e IA nas empresas: o que está mudando em SP",
-        "link": "https://exame.com/negocios/mulheres-no-comando-predios-no-centro-e-ia-nas-empresas-o-que-esta-mudando-em-sp/",
-        "summary": "Em três painéis do SP2B, executivos e representantes do poder público discutiram poder de decisão, moradia no Centro e os limites práticos da inteligência artificial",
         "image": null,
         "date": "12 de ago. de 2026",
         "source": "Exame",
