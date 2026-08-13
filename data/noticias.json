@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-13T19:56:34.295Z",
+  "updated": "2026-08-13T20:53:35.073Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Justiça permite suspensão da Área Azul em Americana, mas mantém liminar até decisão se tornar definitiva",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/justica-permite-suspensao-area-azul-americana-mantem-liminar-decisao-definitiva.ghtml",
+        "summary": "Justiça permite suspensão da Área Azul em Americana, mas mantém liminar A Justiça de Americana (SP) negou nesta quarta-feira (12) um pedido feito pela Estapar, concessionária responsável pela Área Azul na cidade, e permi",
+        "image": "https://s2-g1.glbimg.com/3_syK8T8KQ7_v_p2Ei8RAVmpzvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/E/37A0VpTTGGF1AI8km6WA/reproducao-polo-estapar.jpeg",
+        "date": "13 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Após recorde, cesta básica em Campinas tem maior recuo do Sudeste e fecha em R$ 809,75",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/apos-recorde-cesta-basica-em-campinas-tem-maior-recuo-do-sudeste-e-fecha-em-r-80975.ghtml",
+        "summary": "Tomate cai 46,62% e batata recua 33,26% em julho em Campinas Freepik Após superar o patamar dos R$ 900 e registrar em junho o recorde na série histórica, a cesta básica em Campinas apresentou o maior recuo do Sudeste e f",
+        "image": "https://s2-g1.glbimg.com/T52eJw5rTLQWIPmz8wc8D5iyz0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/b/B13J8aSXGJFB9lGuy6OQ/tomate-a-batata.jpg",
+        "date": "13 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Trecho de rodovia que liga Campinas e Valinhos ganha guard-rail após série de acidentes",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/13/trecho-de-rodovia-que-liga-campinas-e-valinhos-ganha-guard-rail-apos-serie-de-acidentes.ghtml",
@@ -43,23 +63,103 @@
         "cls": "brasil"
       },
       {
-        "title": "O que fazer em Campinas e região: agenda tem Zé Neto Cristiano, Barão Vermelho, DJ GBR e mais",
-        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/08/13/o-que-fazer-em-campinas-e-regiao-agenda-tem-ze-neto-and-cristiano-barao-vermelho-dj-gbr-e-mais.ghtml",
-        "summary": "Zé Neto Cristiano, Barão Vermelho e DJ GBR Divulgação/Érico Andrade/g1/Indie Click Se a ideia é sair de casa e aproveitar o fim de semana, Campinas e região têm opções de sobra a partir desta quinta-feira (13). A agenda ",
-        "image": "https://s2-g1.glbimg.com/Q6rOk7ibjGv2EpfE8DQ2Cob1lP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/p/i9ReZzTCAci9S9PCAvQQ/divulgacao-erico-andradeg1-indie-click.png",
+        "title": "Em defesa da representatividade, Franco Sardelli reúne 800 lideranças políticas de Americana",
+        "link": "https://jornalamericanense.com.br/politica/em-defesa-da-representatividade-franco-sardelli-reune-800-liderancas-politicas-de-americana/",
+        "summary": "O candidato a deputado estadual Franco Sardelli (PL) realizou, na noite desta quarta-feira (12), o primeiro encontro de lideranças políticas de Americana, que reuniu cerca de 800 pessoas. No evento, Franco destacou que a",
+        "image": null,
         "date": "13 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Banco de Sangue do HM começa a adotar novos critérios para doação de sangue",
+        "link": "https://jornalamericanense.com.br/saude/banco-de-sangue-do-hm-comeca-a-adotar-novos-criterios-para-doacao-de-sangue/",
+        "summary": "O Banco de Sangue do Hospital Municipal Dr. Waldemar Tebaldi, em Americana, já começou a considerar alguns dos novos critérios para doação de sangue estabelecidos pelo Ministério da Saúde. A mudança atende à Portaria GM/",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana recebe Torneio Regional de Natação neste sábado com entrada gratuita",
+        "link": "https://jornalamericanense.com.br/esportes/americana-recebe-torneio-regional-de-natacao-neste-sabado-com-entrada-gratuita/",
+        "summary": "Americana recebe neste sábado (15) o Torneio Regional Infantil a Sênior de Natação, que será realizado na piscina do Complexo Poliesportivo Milton Fenley Azenha, o Centro Cívico, das 7h30 às 19h. A entrada é gratuita. Or",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Cães escapam de residência e atacam três pessoas em Americana",
+        "link": "https://jornalamericanense.com.br/policia/caes-escapam-de-residencia-e-atacam-tres-pessoas-em-americana/",
+        "summary": "Mulher e idoso precisaram de atendimento médico após ataque na Vila Bertini; ocorrência foi registrada pela GAMA Três pessoas ficaram feridas após serem atacadas por dois cães na manhã desta quarta-feira (12), na Avenida",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Região do Portal recebe evento em comemoração ao Dia Municipal do Flashback neste domingo",
+        "link": "https://jornalamericanense.com.br/cultura/regiao-do-portal-recebe-evento-em-comemoracao-ao-dia-municipal-do-flashback-neste-domingo/",
+        "summary": "A região do Portal Princesa Tecelã, na entrada de Americana pela Avenida Antônio Pinto Duarte, recebe neste domingo (16) uma programação especial em comemoração ao Dia Municipal do Flashback. Organizada pelo grupo Amigos",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "“Mandaram minha filha para casa”: mãe denuncia atendimento no PS Afonso Ramos antes de diagnóstico de AVC",
+        "link": "https://jornalamericanense.com.br/cidades/mandaram-minha-filha-para-casa-mae-denuncia-atendimento-no-ps-afonso-ramos-antes-de-diagnostico-de-avc/",
+        "summary": "Patrícia Curiel relatou que a filha apresentou fortes dores, perda de movimentos e vômitos antes do diagnóstico; jovem passou por cirurgia de cerca de dez horas na Unicamp e, segundo a família, não ficou com sequelas Uma",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Entidades cobram propostas de candidatos contra violência infantil",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/entidades-cobram-propostas-de-candidatos-contra-violencia-infantil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/entidades-cobram-propostas-de-candidatos-contra-violencia-infantil img src= https://cdn.jsdelivr.net/gh/sergi",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "Atacadista oferece 320 vagas de emprego para a região de Campinas; saiba como se candidatar",
-        "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/08/13/atacadista-oferece-320-vagas-de-emprego-para-a-regiao-de-campinas-saiba-como-se-candidatar.ghtml",
-        "summary": "Assaí Atacadista Divulgação/Assaí Atacadista A rede de atacadistas Assaí oferece 320 oportunidades de emprego para diferentes áreas de trabalho em unidades da região de Campinas (SP), a partir desta quinta-feira (13). To",
-        "image": "https://s2-g1.glbimg.com/WBJ2I94SeKUCSfyhR7wcRPL_-hc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/O/4uKc0fSYCHXjOs1wcGmA/copia-de-sem-nome-1200-x-700-px-.png",
+        "title": "Relatório aponta 258 indígenas assassinados e mais violência em 2025",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/relatorio-aponta-258-indigenas-assassinados-e-mais-violencia-em-2025",
+        "summary": "p strong Dados divulgados nesta quinta-feira (13) pelo Conselho Indigenista Missionário (Cimi) mostram que 258 indígenas foram assassinados em 2025, número superior aos 211 casos registrados em 2024. /strong Roraima (82)",
+        "image": null,
         "date": "13 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Segunda maior refinaria do país reduz preço da gasolina em 11,3%",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "TSE determina que filiação de Flávio ao PL seja restabelecida",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-determina-que-filiacao-de-flavio-ao-pl-seja-restabelecida",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-determina-que-filiacao-de-flavio-ao-pl-seja-restabelecida img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -81,49 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Agência climática prevê 90% de chance de El Niño muito forte",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/agencia-clim%C3%A1tica-prev%C3%AA-90-de-chance-de-El-Nino-muito-forte",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/agencia-clim%C3%A1tica-prev%C3%AA-90-de-chance-de-El-Nino-muito-forte img src= https://cdn.jsdelivr.net/gh/sergi",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Câmara aprova regras para programas de fidelidade com milhas ou pontos",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-aprova-regras-para-programas-de-fidelidade-com-milhas-ou-pontos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/camara-aprova-regras-para-programas-de-fidelidade-com-milhas-ou-pontos img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TSE nega hackeamento após Flávio aparecer filiado ao Missão",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-nega-hackeamento-apos-flavio-aparecer-filiado-ao-missao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-nega-hackeamento-apos-flavio-aparecer-filiado-ao-missao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Tupi, pioneiro do pré-sal, chega ao recorde de 4 bilhões de barris",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/tupi-pioneiro-do-pre-sal-chega-ao-recorde-de-4-bilhoes-de-barris",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/tupi-pioneiro-do-pre-sal-chega-ao-recorde-de-4-bilhoes-de-barris img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Com Neymar titular, Santos define time para enfrentar o Macará; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/santos/com-neymar-titular-santos-define-titulares-para-enfrentar-o-macara-veja-escalacoes/",
+        "summary": "O Santos está escalado para enfrentar o Macará, do Equador, nesta quinta-feira, às 19h (de Brasília), na Vila Belmiro, pelo jogo de ida das oitavas de final da Copa Sul-Americana. O técnico Cuca definiu a equipe com o re",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/80BBE244-3A53-491B-A44C-EC696A49CF6D.webp",
+        "date": "13 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Maicon destaca passagem pelo São Paulo antes de jogo no Morumbi: Ótimas lembranças",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/maicon-destaca-passagem-pelo-sao-paulo-antes-de-jogo-no-morumbi-otimas-lembrancas/",
+        "summary": "Neste sábado, o São Paulo recebe o Coritiba pela 23ª rodada do Campeonato Brasileiro. O confronto será especial para o zagueiro Maicon, que defendeu o Tricolor entre 2016 e 2017. O defensor mantém uma relação de carinho ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/MS-1093804-2026-08-08-copiar.jpg.webp",
+        "date": "13 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Melhores momentos: Diriyah Club 0 x 1 Al Ahli pela Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-diriyah-club-0-x-1-al-ahli-pela-liga-saudita/",
+        "summary": "Melhores momentos: Diriyah Club 0 x 1 Al Ahli pela Liga Saudita O post Melhores momentos: Diriyah Club 0 x 1 Al Ahli pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/i1qbfvvk-1920Al-Ahli.webp",
+        "date": "13 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Rafinha é advertido pelo STJD por ofensas contra o árbitro em derrota do São Paulo",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/rafinha-e-advertido-pelo-stjd-por-ofensas-contra-o-arbitro-em-derrota-do-sao-paulo/",
@@ -153,43 +243,13 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Com desfalques, Vasco divulga relacionados para duelo contra o Olimpia",
-        "link": "https://www.gazetaesportiva.com/times/vasco/com-desfalques-vasco-divulga-relacionados-para-duelo-contra-o-olimpia/",
-        "summary": "Vasco divulga os relacionados para enfrentar o Olimpia pelas oitavas da Sul-Americana. Brenner, Cuesta e Andrés Gómez são desfalques. O post Com desfalques, Vasco divulga relacionados para duelo contra o Olimpia apareceu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55446010404_d4dafe3588_o.webp",
-        "date": "13 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Ex-dirigentes do Vasco usaram ingressos de camarote da Sapucaí destinados a sócios",
-        "link": "https://www.gazetaesportiva.com/times/vasco/ex-dirigentes-do-vasco-usaram-ingressos-de-camarote-da-sapucai-destinados-a-socios/",
-        "summary": "Ex-integrantes das diretorias do Vasco e da Vasco SAF teriam utilizado ingressos para um camarote na Marquês de Sapucaí que inicialmente seriam destinados ao programa de Sócio Torcedor. Entre os citados estão Felipe Carr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55453195480_3724f533c1_h.webp",
-        "date": "13 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Arthur e Toloi avançam em recuperação, e São Paulo abre preparação para pegar o Coritiba",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/arthur-e-toloi-avancam-em-recuperacao-e-sao-paulo-abre-preparacao-para-pegar-o-coritiba/",
-        "summary": "Nesta quinta-feira, o São Paulo se reapresentou no SuperCT após o empate na Copa Sul-Americana e iniciou a preparação para enfrentar o Coritiba, pela 23ª rodada do Campeonato Brasileiro. A bola rola a partir das 21h (de ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2036-jpg-1229x1536-1.webp",
-        "date": "13 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
       {
-        "title": "Refinaria de Mataripe, 2ª maior do país, reduz gasolina em 11,3%",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/refinaria-de-mataripe-2a-maior-do-pais-reduz-gasolina-em-113",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/refinaria-de-mataripe-2a-maior-do-pais-reduz-gasolina-em-113 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Segunda maior refinaria do país reduz preço da gasolina em 11,3%",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/segunda-maior-refinaria-do-pais-reduz-preco-da-gasolina-em-113 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Agência Brasil",
@@ -247,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Inflação da Argentina acelera em julho e volta a superar 2%",
-        "link": "https://www.infomoney.com.br/economia/inflacao-da-argentina-acelera-em-julho-e-volta-a-superar-2/",
-        "summary": "Após três meses de desaceleração, índice mensal sobe a 2,1% e frustra expectativas; no ano, taxa chega a 33,8% The post Inflação da Argentina acelera em julho e volta a superar 2% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464176030.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Rede D Or e Qualicorp destoam da Hapvida e disparam 6% na Bolsa após resultados do 2T",
+        "link": "https://www.infomoney.com.br/mercados/rede-dor-e-qualicorp-destoam-da-hapvida-e-disparam-na-bolsa-apos-resultados-do-2t/",
+        "summary": "Companhias registraram fortes altas após o balanço do trimestre The post Rede D Or e Qualicorp destoam da Hapvida e disparam 6% na Bolsa após resultados do 2T appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/04/hc_rede_dor.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "EUA citam Brasil em relatório sobre países que ajudam China a burlar tarifas",
-        "link": "https://www.infomoney.com.br/mundo/eua-citam-brasil-em-relatorio-sobre-rede-de-paises-para-contornar-tarifas/",
-        "summary": "Casa Branca lista mais de 40 países com risco elevado de transbordo ilegal de mercadorias chinesas e anuncia sistema de inteligência artificial para reforçar a fiscalização The post EUA citam Brasil em relatório sobre pa",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464117352.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Juiz que atuava na falência do Banco Santos é afastado após gravação com herdeiros",
+        "link": "https://www.infomoney.com.br/business/juiz-que-atuava-na-falencia-do-banco-santos-e-afastado-apos-gravacao-com-herdeiros/",
+        "summary": "Decisão de Mauro Campbell ocorreu após reportagem do Estadão revelar conversa em que Paulo Furtado teria sugerido venda do banco ao Master The post Juiz que atuava na falência do Banco Santos é afastado após gravação com",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-18-090213.png?fit=300%2C176&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Anthropic buscaria avaliação de 2 trilhões de dólares com IPO superando a SpaceX",
-        "link": "https://www.infomoney.com.br/mercados/anthropic-buscaria-avaliacao-de-2-trilhoes-de-dolares-com-ipo-superando-a-spacex/",
-        "summary": "Investidores preveem que a receita anualizada da fabricante do Claude ficará entre 100.000 e 120.000 milhões de dólares The post Anthropic buscaria avaliação de 2 trilhões de dólares com IPO superando a SpaceX appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453674821.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Rumo (RAIL3) salta 4,5% com perspectiva de fluxo de caixa mais otimista após 2T",
+        "link": "https://www.infomoney.com.br/mercados/rumo-rail3-dispara-4-com-perspectiva-de-fluxo-de-caixa-mais-otimista-apos-2t/",
+        "summary": "Estratégia da companhia de priorizar a otimização de ativos, preservação de caixa e disciplina na alocação de capital é positiva na visão dos analistas The post Rumo (RAIL3) salta 4,5% com perspectiva de fluxo de caixa m",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-28-083158.png?fit=300%2C127&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Agência climática dos EUA prevê 90% de chance de El Niño muito forte",
-        "link": "https://www.infomoney.com.br/mundo/agencia-climatica-dos-eua-preve-90-de-chance-de-el-nino-muito-forte/",
-        "summary": "NOAA monitora temperaturas do Oceano Pacífico Equatorial The post Agência climática dos EUA prevê 90% de chance de El Niño muito forte appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/water-1555170.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Gustavo Franco: juros não estão altos por BC malvado , mas por governo irresponsável",
+        "link": "https://www.infomoney.com.br/economia/gustavo-franco-juros-nao-estao-altos-por-bc-malvado-mas-por-governo-irresponsavel/",
+        "summary": "O economista afirma que a inconsistência com a política fiscal que o governo apresenta atualmente é incoerente com a expectativa de atuação do BC The post Gustavo Franco: juros não estão altos por BC malvado , mas por go",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/franco.png?fit=300%2C186&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Crédito próprio do varejo sobe 113% e é saída para fidelizar cliente e manter consumo",
-        "link": "https://www.infomoney.com.br/economia/credito-proprio-varejo-cresce-113-porcento/",
-        "summary": "Com juros em alta, setor aposta em dados exclusivos e 'crédito de precisão' para blindar o caixa e garantir vendas recorrentes The post Crédito próprio do varejo sobe 113% e é saída para fidelizar cliente e manter consum",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/trbr0763_0.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Multi (MLAS3) salta 23% após lucro saltar 7 vezes, mas por que ainda há cautela?",
+        "link": "https://www.infomoney.com.br/mercados/multi-mlas3-salta-20-apos-lucro-saltar-7-vezes-mas-por-que-ainda-ha-cautela/",
+        "summary": "Segundo análise do Itaú BBA, o principal destaque do segundo trimestre foi a melhora disseminada de rentabilidade em todas as divisões de negócios, mas recomendação é de manutenção The post Multi (MLAS3) salta 23% após l",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/multilaser-divulgacao.png?fit=300%2C166&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Boeing é condenada a pagar US$ 29 mi à família de vítima de acidente com 737 MAX",
-        "link": "https://www.infomoney.com.br/mundo/boeing-e-condenada-a-pagar-us-29-mi-a-familia-de-vitima-de-acidente-com-737-max/",
-        "summary": "Caso é um dos últimos processos civis pendentes contra a fabricante após duas quedas fatais que mataram 346 pessoas em 2018 e 2019 The post Boeing é condenada a pagar US$ 29 mi à família de vítima de acidente com 737 MAX",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-15T144543Z_1_LYNXMPEK9E0HQ_RTROPTP_4_BOEING-737-SAFETY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Minerva (BEEF3) cai 7,6% após 2T com pressão sobre caixa e sinais de demanda fraca",
+        "link": "https://www.infomoney.com.br/mercados/minerva-beef3-cai-7-apos-2t-com-pressao-sobre-caixa-e-sinais-de-demanda-mais-fraca/",
+        "summary": "Balanço veio com Ebitda em linha, mas consumo de capital de giro e incertezas sobre a China pesam sobre as ações The post Minerva (BEEF3) cai 7,6% após 2T com pressão sobre caixa e sinais de demanda fraca appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/09/01_Historia.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Brasil bate recorde de contratações acima de 15 milhões de euros",
-        "link": "https://exame.com/esporte/brasil-bate-recorde-de-contratacoes-acima-de-15-milhoes-de-euros/",
-        "summary": "Flamengo, Palmeiras, Botafogo e Cruzeiro contemplam lista de reforços midiáticos",
+        "title": "Ibovespa tem 8ª queda seguida, sequência vista apenas 7 vezes em mais de 20 anos",
+        "link": "https://exame.com/invest/mercados/ibovespa-tem-8a-queda-seguida-sequencia-vista-apenas-7-vezes-em-mais-de-20-anos/",
+        "summary": "O dólar à vista voltou a subir diante do real nesta quinta-feira, 13, descolado da moeda americana no exterior",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Prêmio nacional para universitários oferece viagem à China com tudo pago",
-        "link": "https://exame.com/carreira/premio-nacional-para-universitarios-oferece-viagem-a-china-com-tudo-pago/",
-        "summary": "Inscrições estão abertas para estudantes de todo o país, sem custo e sem restrição de curso",
+        "title": "Agente de inteligência artificial cobrou milhares de dólares da pessoa errada; entenda o caso",
+        "link": "https://exame.com/inteligencia-artificial/agente-de-inteligencia-artificial-cobrou-milhares-de-dolares-da-pessoa-errada-entenda-o-caso/",
+        "summary": "Caso documentado pela Red Hat mostra como falhas em agentes de inteligência artificial podem gerar prejuízos financeiros e ampliar o debate sobre supervisão humana",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem é Alexandr Wang, o jovem que vendeu 49% da Scale AI para a Meta por US$ 14,3 bilhões",
-        "link": "https://exame.com/inteligencia-artificial/quem-e-alexandr-wang-o-jovem-que-vendeu-49-da-scale-ai-para-a-meta-por-us-143-bilhoes/",
-        "summary": "Aos 19 anos ele largou o MIT para fundar a Scale AI; hoje lidera a estratégia de inteligência artificial de Mark Zuckerberg na Meta",
+        "title": "André Fehlauer é nomeado novo CEO da Gol; veja trajetória do executivo",
+        "link": "https://exame.com/invest/mercados/andre-fehlauer-e-nomeado-novo-ceo-da-gol-veja-trajetoria-do-executivo/",
+        "summary": "Executivo deixa comando da Livelo para assumir a Gol em setembro. Fehlauer já atuou como CEO da Smiles num passado",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fim da escala 6x1: 72% das empresas ainda não têm orçamento para migrar para o modelo 5x2",
-        "link": "https://exame.com/carreira/fim-da-escala-6x1-72-das-empresas-ainda-nao-tem-orcamento-para-migrar-para-o-modelo-5x2/",
-        "summary": "Pesquisa mostra que maioria das companhias já calcula os impactos da mudança, como contratar mais funcionários ou investir em IA. Parte dessa conta também pode chegar ao consumidor",
+        "title": "Lula defende que brasileiros comprem 'no limite do que podem pagar'",
+        "link": "https://exame.com/brasil/lula-defende-que-brasileiros-comprem-no-limite-do-que-podem-pagar/",
+        "summary": "Lula defendeu que o endividamento pode ser positivo quando resulta em ganho de patrimônio ou melhoria de qualidade de vida",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Sete experiências na faculdade que ajudam a construir uma carreira antes do diploma",
-        "link": "https://exame.com/carreira/sete-experiencias-na-faculdade-que-ajudam-a-construir-uma-carreira-antes-do-diploma/",
-        "summary": "Atividades dentro e fora da sala de aula podem tornar a experiência universitária mais rica e abrir novos caminhos",
+        "title": "Como usar o Figma AI para criar designs, protótipos e acelerar tarefas no trabalho",
+        "link": "https://exame.com/inteligencia-artificial/como-usar-o-figma-ai-para-criar-designs-prototipos-e-acelerar-tarefas-no-trabalho/",
+        "summary": "Figma reúne recursos de inteligência artificial que permitem transformar comandos de texto em designs, protótipos e imagens para diferentes projetos profissionais",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Rock in Rio 2026: veja line-up completo, ingressos, novas atrações e muito mais",
-        "link": "https://exame.com/pop/rock-in-rio-2026-veja-line-up-completo-ingressos-novas-atracoes-e-muito-mais/",
-        "summary": "Festival está marcado para ocorrer entre 4 e 13 de setembro no Parque Olímpico",
+        "title": "Instagram anuncia mudança em logo pela 1ª vez em 10 anos; veja as alterações",
+        "link": "https://exame.com/marketing/instagram-anuncia-mudanca-em-logo-pela-1a-vez-em-10-anos-veja-as-alteracoes/",
+        "summary": "Rede social da Meta apresenta novo sistema visual dez anos após abandonar o ícone retrô e adotar o gradiente colorido",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
