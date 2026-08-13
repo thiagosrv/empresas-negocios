@@ -1,51 +1,7 @@
 {
-  "updated": "2026-08-13T21:02:32.726Z",
+  "updated": "2026-08-13T22:02:11.784Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Tel e Tonali estrelam ensaio de fotos do Tottenham para 2026/27",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/tel-e-tonali-estrelam-ensaio-de-fotos-do-tottenham-para-2026-27/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "PSG comemora título da Supercopa",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/psg-comemora-titulo-da-supercopa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Bruno Guimarães estreia pelo Arsenal em amistoso contra o Como",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bruno-guimaraes-estreia-pelo-arsenal-em-amistoso-contra-o-como/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Campeão do mundo, Porro tem recepção de herói na volta ao Spurs",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/campeao-do-mundo-porro-tem-recepcao-de-heroi-na-volta-ao-spurs/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
     {
       "title": "Lewis-Skelly marca, e Arsenal vence último teste da pré-temporada nos pênaltis",
       "link": "https://www.gazetaesportiva.com/times/arsenal/lewis-skelly-marca-e-arsenal-vence-ultimo-teste-da-pre-temporada-nos-penaltis/",
@@ -55,7 +11,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Manchester City renova com Jérémy Doku por mais cinco anos",
@@ -66,7 +22,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Abha 1 x 2 Al Hazem pela Liga Saudita",
@@ -77,7 +33,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Barthez se junta à comissão técnica de Zidane na seleção francesa",
@@ -89,6 +45,50 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f413.png"
+    },
+    {
+      "title": "Botafogo desembarca no Peru para jogo contra o Cienciano",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/botafogo-desembarca-no-peru-para-jogo-contra-o-cienciano/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Santos x Macará: siga o tempo real do jogo pela Copa Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/santos-macara-ao-vivo-tempo-real-sul-americana/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Mirassol x LDU: siga o tempo real do jogo pela Libertadores",
+      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/mirassol-x-ldu-libertadores-13-08-26/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Libertadores",
+      "categoryColor": "#f39c12",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f7e1.png"
+    },
+    {
+      "title": "Benfica empata com time escocês e avança aos playoffs da Liga Europa",
+      "link": "https://www.gazetaesportiva.com/campeonatos/liga-europa/benfica-empata-com-time-escoces-e-avanca-aos-playoffs-da-liga-europa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
       "title": "Bruninho celebra sonho de vestir a camisa da Seleção sub-20 e mira Sul-Americano",
