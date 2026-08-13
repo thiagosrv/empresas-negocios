@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T16:59:21.316Z",
+  "updated": "2026-08-13T18:02:19.194Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Em defesa da representatividade, Franco Sardelli reúne 800 lideranças políticas de Americana",
+        "link": "https://jornalamericanense.com.br/politica/em-defesa-da-representatividade-franco-sardelli-reune-800-liderancas-politicas-de-americana/",
+        "summary": "O candidato a deputado estadual Franco Sardelli (PL) realizou, na noite desta quarta-feira (12), o primeiro encontro de lideranças políticas de Americana, que reuniu cerca de 800 pessoas. No evento, Franco destacou que a",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Banco de Sangue do HM começa a adotar novos critérios para doação de sangue",
         "link": "https://jornalamericanense.com.br/saude/banco-de-sangue-do-hm-comeca-a-adotar-novos-criterios-para-doacao-de-sangue/",
         "summary": "O Banco de Sangue do Hospital Municipal Dr. Waldemar Tebaldi, em Americana, já começou a considerar alguns dos novos critérios para doação de sangue estabelecidos pelo Ministério da Saúde. A mudança atende à Portaria GM/",
@@ -113,14 +123,24 @@
         "cls": "servicos"
       },
       {
-        "title": "Câmara de Americana aprova diretrizes para moradia assistida de adultos com autismo",
-        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-diretrizes-para-moradia-assistida-de-adultos-com-autismo/",
-        "summary": "Projeto prevê incentivo a políticas públicas que promovam autonomia, acolhimento e inclusão de pessoas com TEA na vida adulta A Câmara Municipal de Americana aprovou, nesta terça-feira (11), uma proposta que estabelece d",
+        "title": "Tupi, pioneiro do pré-sal, chega ao recorde de 4 bilhões de barris",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/tupi-pioneiro-do-pre-sal-chega-ao-recorde-de-4-bilhoes-de-barris",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/tupi-pioneiro-do-pre-sal-chega-ao-recorde-de-4-bilhoes-de-barris img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
-        "date": "12 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Senado aprova empréstimos de US$ 1,8 bi para estados e municípios",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/senado-aprova-emprestimos-de-us-18-bi-para-estados-e-municipios",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/senado-aprova-emprestimos-de-us-18-bi-para-estados-e-municipios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "PM faz operações contra o CV na Região Metropolitana do Rio",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Vendas no comércio crescem 0,5% em junho e sobem 1,9% no 1º semestre",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/vendas-no-comercio-crescem-05-em-junho-e-sobem-19-no-1o-semestre",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/vendas-no-comercio-crescem-05-em-junho-e-sobem-19-no-1o-semestre img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Polícia Federal prende presidente da Conafer",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/policia-federal-prende-presidente-da-conafer",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/policia-federal-prende-presidente-da-conafer img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/asse",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Futuro de Infantino deve ser decidido nas eleições, diz dirigente do futebol africano",
-        "link": "https://www.gazetaesportiva.com/campeonatos/eliminatorias-africanas/futuro-de-infantino-deve-ser-decidido-nas-eleicoes-diz-dirigente-do-futebol-africano/",
-        "summary": "O presidente da Confederação Africana de Futebol (CAF), Patrice Motsepe, saiu em defesa de Gianni Infantino e afirmou que qualquer tentativa de removê-lo da presidência da Fifa deve ocorrer por meio das eleições de março",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260807__C48N3T3__v1__HighRes__ColombiaPoliticsInauguration-1.webp",
+        "title": "Veja fotos do treino do São Paulo desta quinta-feira",
+        "link": "https://www.gazetaesportiva.com/futebol/veja-fotos-do-treino-do-sao-paulo-desta-quinta-feira-22/",
+        "summary": "Confira uma galeria de fotos do treino do São Paulo realizado nesta quinta-feira. O post Veja fotos do treino do São Paulo desta quinta-feira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2025-jpg-1229x1536-1.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Há 51 anos, nascia Gilmar Fubá; veja fotos da vida e carreira do ex-volante do Corinthians",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/ha-51-anos-nascia-gilmar-fuba-veja-fotos-da-vida-e-carreira-do-ex-volante-do-corinthians/",
-        "summary": "Há 51 anos, nascia Gilmar Fubá; veja fotos da vida e carreira do ex-volante do Corinthians O post Há 51 anos, nascia Gilmar Fubá; veja fotos da vida e carreira do ex-volante do Corinthians apareceu primeiro em Gazeta Esp",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2017/02/07/gilmarfuba.jpg",
+        "title": "Após acidente com vítima fatal, Nicolas volta a treinar pelo São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/apos-acidente-com-vitima-fatal-nicolas-volta-a-treinar-pelo-sao-paulo/",
+        "summary": "O lateral esquerdo Nicolas, do São Paulo, voltou a treinar pela equipe na manhã desta quinta-feira. O jovem jogador estava afastado por ter atropelado e matado um homem de 84 anos na região de Barueri, cidade na região m",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2051-jpg-1-1229x1536-1.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Manchester City renova com Jérémy Doku por mais cinco anos",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-renova-jeremy-doku-ate-2031/",
-        "summary": "O Manchester City anunciou a renovação de contrato do atacante Jérémy Doku por mais cinco temporadas. Aos 24 anos, o belga estendeu seu vínculo com o clube até 2031 e chega para a nova temporada como uma das principais o",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/True-Blue-%F0%9F%A9%B5.webp",
+        "title": "Com Fuchs, Palmeiras inicia preparação para enfrentar o Fluminense",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/com-fuchs-palmeiras-inicia-preparacao-para-enfrentar-o-fluminense/",
+        "summary": "Palmeiras inicia preparação para enfrentar o Fluminense pelo Brasileirão. Bruno Fuchs volta aos treinos, enquanto Khellven e Paulinho seguem em recuperação. O post Com Fuchs, Palmeiras inicia preparação para enfrentar o ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/13082026_cg_palmeiras_7604_11-1.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Lewis-Skelly marca, e Arsenal vence último teste da pré-temporada nos pênaltis",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/lewis-skelly-marca-e-arsenal-vence-ultimo-teste-da-pre-temporada-nos-penaltis/",
-        "summary": "Lewis-Skelly marca, e Arsenal vence último teste da pré-temporada nos pênaltis O post Lewis-Skelly marca, e Arsenal vence último teste da pré-temporada nos pênaltis apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Lew.webp",
+        "title": "Atlético-MG avança em negociação e ficar perto de acertar com volante Fred",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/apos-longa-novela-atletico-mg-acerta-a-contratacao-do-volante-fred-ex-fenerbahce/",
+        "summary": "O Atlético-MG chegou a um acordo com o Fenerbahçe e acertou a contratação do volante Fred. Após semanas de negociação, o clube mineiro concordou em pagar 2 milhões de euros, além de bônus por metas, para contar com o jog",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/12/02/000_32XU3WW-1.jpg",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Flamengo lidera audiência no YouTube em julho; Santos cresce e se destaca",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-lidera-youtube-santos-terceiro-julho/",
-        "summary": "O Flamengo foi o clube brasileiro com maior audiência no YouTube em julho, segundo levantamento do Ibope Repucom. Palmeiras e Santos completam o top 3 do ranking mensal. O Peixe alcançou 22 milhões de visualizações no pe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/55218258896_db606ce65f_o.webp",
+        "title": "São Paulo anuncia mais de 27 mil ingressos para duelo com o Coritiba",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-anuncia-mais-de-27-mil-ingressos-para-duelo-com-o-coritiba/",
+        "summary": "O São Paulo anunciou, nesta quinta-feira, que mais de 27 mil ingressos já foram vendidos para o embate contra o Coritiba, válido pela 23ª rodada do Campeonato Brasileiro. A bola rola neste sábado, às 21h (de Brasília), e",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/05/54340025943_3faffca384_k.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bastidores: o primeiro dia de Almada como jogador do River Plate",
-        "link": "https://www.gazetaesportiva.com/times/river-plate/bastidores-o-primeiro-dia-de-almada-como-jogador-do-river-plate/",
-        "summary": "Bastidores: o primeiro dia de Almada como jogador do River Plate O post Bastidores: o primeiro dia de Almada como jogador do River Plate apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Basti.webp",
+        "title": "Confira as fotos do treino do Palmeiras desta quinta-feira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/confira-as-fotos-do-treino-do-palmeiras-desta-quinta-feira-3/",
+        "summary": "O post Confira as fotos do treino do Palmeiras desta quinta-feira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/13082026_cg_palmeiras_7943_39.webp",
         "date": "13 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,26 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Tupi, pioneiro do pré-sal, chega ao recorde de 4 bilhões de barris",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/tupi-pioneiro-do-pre-sal-chega-ao-recorde-de-4-bilhoes-de-barris",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/tupi-pioneiro-do-pre-sal-chega-ao-recorde-de-4-bilhoes-de-barris img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Senado aprova empréstimos de US$ 1,8 bi para estados e municípios",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/senado-aprova-emprestimos-de-us-18-bi-para-estados-e-municipios",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/senado-aprova-emprestimos-de-us-18-bi-para-estados-e-municipios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "13 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Conab estima safra de grãos de 360,8 milhões de toneladas em 2025/26",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conab-estima-safra-de-graos-de-3608-milhoes-de-toneladas-em-202526",
@@ -287,89 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Transpetro abre concurso público com salário inicial de até R$ 15 mil",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/transpetro-abre-concurso-publico-com-salario-inicial-de-ate-r-15-mil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/transpetro-abre-concurso-publico-com-salario-inicial-de-ate-r-15-mil img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "12 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/plano-nacional-de-logistica-preve-r-12-trilhao-em-investimentos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/plano-nacional-de-logistica-preve-r-12-trilhao-em-investimentos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "12 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Hapvida: HAPV3 cai até 30% com 2T marcado por margens pressionadas e judicialização",
-        "link": "https://www.infomoney.com.br/mercados/hapvida-hapv3-acoes-desabam-balanco-2t26-marcado-por-margens-pressionadas-e-judicializacao/",
-        "summary": "Tendência de judicialização veio significativamente pior do que o esperado e dificultou ainda mais a avaliação de qual seria o nível normalizado de rentabilidade da companhia The post Hapvida: HAPV3 cai até 30% com 2T ma",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/hospital-vasco-lucena.jpg?fit=300%2C241&amp;quality=70&amp;strip=all",
+        "title": "Vale (VALE3): o novo passo da companhia para ir muito além do minério de ferro",
+        "link": "https://www.infomoney.com.br/mercados/vale-vale3-o-novo-passo-da-mineradora-para-ir-muito-alem-do-minerio-de-ferro/",
+        "summary": "Analistas veem novo sinal de melhora na execução da Vale Base Metals e potencial para antecipação de outras iniciativas de cobre The post Vale (VALE3): o novo passo da companhia para ir muito além do minério de ferro app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa volta a cair nesta 5ª mesmo com boas notícias vindas dos EUA: o que explica?",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-cair-nesta-5a-mesmo-com-boas-noticias-vindas-dos-eua-o-que-explica/",
-        "summary": "Mercado passando a ver mais as eleições e queda de ações de empresas que soltaram resultados levam à baixa dos ativos The post Ibovespa volta a cair nesta 5ª mesmo com boas notícias vindas dos EUA: o que explica? appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/grafico-queda.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
+        "title": "BC multa Genial e inabilita CEO por irregularidades em câmbio; banco vai recorrer",
+        "link": "https://www.infomoney.com.br/mercados/bc-multa-genial-e-inabilita-ceo-por-irregularidades-em-cambio-banco-vai-recorrer/",
+        "summary": "O Genial disse que adotará medidas cabíveis para anular as condenações e afirmou que o Copas \"interpretou fatos de mais de cinco anos atrás a partir de normas que entraram em vigor somente em fevereiro deste ano\" The pos",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/BC-Brasil.png?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TSE adia reunião sobre uso de deepfakes na campanha eleitoral para terça-feira",
-        "link": "https://www.infomoney.com.br/politica/tse-adia-reuniao-sobre-uso-de-deepfakes-na-campanha-eleitoral-para-terca-feira/",
-        "summary": "Ministros vão discutir alcance da proibição e possíveis punições após vídeo com IA exibido na convenção de Flávio Bolsonaro The post TSE adia reunião sobre uso de deepfakes na campanha eleitoral para terça-feira appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55266724198_1ef525f010_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa cai com balanços, na contramão do exterior; PETR4 sobe",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13082026/",
+        "summary": "Bolsas dos EUA estão mistas, com dados de inflação ao produtor abaixo do esperado; Dow recua The post Ibovespa Hoje Ao Vivo: Bolsa cai com balanços, na contramão do exterior; PETR4 sobe appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-24.png?fit=300%2C186&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Por que chapéu panamá deve virar uma das marcas de campanha de Lula",
-        "link": "https://www.infomoney.com.br/politica/por-que-chapeu-panama-deve-virar-uma-das-marcas-de-campanha-de-lula/",
-        "summary": "Imagem usada no registro da candidatura foi feita em 4 de agosto, mesmo data em que Lula teve outras agendas no Palácio do Planalto The post Por que chapéu panamá deve virar uma das marcas de campanha de Lula appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-13-134717.png?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Missão diz ter sido alvo de filiação fraudulenta de Flávio Bolsonaro e aciona PF",
+        "link": "https://www.infomoney.com.br/politica/missao-diz-ter-sido-alvo-de-filiacao-fraudulenta-de-flavio-bolsonaro-e-aciona-pf/",
+        "summary": "Partido afirma que tentou cancelar vínculo do senador, mas pedido foi rejeitado pelo TSE The post Missão diz ter sido alvo de filiação fraudulenta de Flávio Bolsonaro e aciona PF appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula6749-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Para melhorar saúde mental de alunos, universidade flexibiliza sistema de notas",
-        "link": "https://www.infomoney.com.br/business/global/para-melhorar-saude-mental-de-alunos-universidade-flexibiliza-sistema-de-notas/",
-        "summary": "A Universidade de Michigan adotará notas do tipo aprovado/reprovado no primeiro semestre para incentivar os alunos a experimentar disciplinas diferentes e reduzir o medo do que uma nota baixa poderia significar The post ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/MICH-UNIV-GRADES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "EUA vão pagar a taxa mais alta em 25 anos por título de longo prazo; o que significa?",
+        "link": "https://www.infomoney.com.br/onde-investir/eua-vao-pagar-a-taxa-mais-alta-em-25-anos-por-titulo-de-longo-prazo-o-que-significa/",
+        "summary": "Leilão de US$ 25 bilhões ocorre em meio a temores fiscais e à alta persistente da inflação, que pressionam ainda mais o custo da dívida pública americana The post EUA vão pagar a taxa mais alta em 25 anos por título de l",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-17T112928Z_1_LYNXMPEL5G0J9_RTROPTP_4_MACRO-FED-JUROS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Inflação ao produtor fica estável nos EUA, alivia pressão e reforça pausa nos juros",
-        "link": "https://www.infomoney.com.br/economia/ppi-eua-inflacao-produtor-estavel-julho-fed/",
-        "summary": "O indicador veio abaixo da expectativa de analistas, que projetavam uma alta de 0,1%, após uma queda de 0,1% registrada no mês de junho. The post Inflação ao produtor fica estável nos EUA, alivia pressão e reforça pausa ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T223943Z_1_LYNXMPEM3M1IY_RTROPTP_4_IRAN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Mulheres são 54% da força de trabalho dos seguros, mas só 28,5% na gestão executiva",
+        "link": "https://www.infomoney.com.br/minhas-financas/mulheres-sao-54-da-forca-de-trabalho-nos-seguros-mas-so-285-na-gestao-executiva/",
+        "summary": "Levantamento da Susep mostra que mulheres perdem espaço à medida que avançam na hierarquia das empresas The post Mulheres são 54% da força de trabalho dos seguros, mas só 28,5% na gestão executiva appeared first on InfoM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Colunistas-IM-74.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "13 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde viajar para ver o 'eclipse do século' em 2027? Veja os melhores locais",
-        "link": "https://exame.com/ciencia/onde-viajar-para-ver-o-eclipse-do-seculo-em-2027-veja-os-melhores-locais/",
-        "summary": "Espanha, Gibraltar, Marrocos, Egito e Arábia Saudita estão entre os locais no trajeto da totalidade do eclipse previsto para agosto de 2027",
+        "title": "O que executivos precisam saber antes de assinar uma cláusula de não concorrência",
+        "link": "https://exame.com/bussola/o-que-executivos-precisam-entender-sobre-a-clausula-de-nao-concorrencia/",
+        "summary": "Advogados explicam e analisam mudanças recentes do instrumento jurídico",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Encha Seu Kindle': 20 livros clássicos em promoção na Amazon hoje",
-        "link": "https://exame.com/pop/encha-seu-kindle-20-livros-classicos-em-promocao-na-amazon-hoje/",
-        "summary": "Seleção tem obras de Machado de Assis, Jane Austen, George Orwell e Dostoiévski a partir de R$ 4,25",
+        "title": "TotalPass fecha parceria com Gymrats para gamificar treinos de usuários",
+        "link": "https://exame.com/tecnologia/totalpass-fecha-parceria-com-gymrats-para-gamificar-treinos-de-usuarios/",
+        "summary": "Integração prevista para a segunda quinzena de agosto permitirá criar grupos, rankings e desafios no aplicativo",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Galatasaray oferece R$ 269 milhões por Martinelli, mas Arsenal faz exigência",
-        "link": "https://exame.com/esporte/galatasaray-oferece-r-269-milhoes-por-martinelli-mas-arsenal-faz-exigencia/",
-        "summary": "Clube turco ofereceu 45 milhões de euros pelo atacante brasileiro, enquanto os Gunners esperam receber pelo menos 50 milhões de euros",
+        "title": "Disney+ libera cupom de 30% para pedir McDonald’s pelo app; veja como resgatar",
+        "link": "https://exame.com/pop/disney-libera-cupom-de-30-para-pedir-mcdonalds-pelo-app-veja-como-resgatar/",
+        "summary": "Promoção começou nesta semana e exige assinatura ativa do Disney+ e cadastro no programa Disney+ Benefícios",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Governo da Colômbia limita ajuda internacional após terremoto",
-        "link": "https://exame.com/mundo/governo-da-colombia-limita-ajuda-internacional-apos-terremoto/",
-        "summary": "Governo afirma que escolha foi técnica, mas decisão ocorre após críticas por rejeitar apoio internacional e prioriza países aliados",
+        "title": "‘Barbie 2’ pode mudar de estúdio? Entenda o impasse que ameaça a sequência",
+        "link": "https://exame.com/pop/barbie-2-pode-mudar-de-estudio-entenda-o-impasse-que-ameaca-a-sequencia/",
+        "summary": "Sucesso de US$ 1,4 bilhão colocou a sequência no radar da Warner, que ainda busca um acordo com a equipe original",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Vingadores: Doutor Destino': veja quando começa a pré-venda de ingressos no Brasil",
-        "link": "https://exame.com/pop/vingadores-doutor-destino-veja-quando-comeca-a-pre-venda-de-ingressos-no-brasil/",
-        "summary": "Ingressos serão liberados primeiro para salas com selo Infinity Vision e depois para os demais cinemas",
+        "title": "Missão diz que avisou Flávio de filiação e que não quer ter 'suspeito de esquema' na sigla",
+        "link": "https://exame.com/brasil/missao-diz-que-avisou-flavio-de-filiacao-e-que-nao-quer-ter-suspeito-de-esquema-na-sigla/",
+        "summary": "Em nota, o Missão afirmou que informou o gabinete de Flávio em mais de uma oportunidade desde o dia 2 deste mês, mas não obteve resposta",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Câmara aprova benefícios fiscais para resseguradoras; entenda as mudanças",
-        "link": "https://exame.com/brasil/camara-aprova-beneficios-fiscais-para-resseguradoras-entenda-as-mudancas/",
-        "summary": "Projeto reduz a CSLL de 15% para 9%, flexibiliza a compensação de prejuízos e elimina adicional do IRPJ; texto segue para o Senado",
+        "title": "Irã rebate Trump e afirma manter o controle do Estreito de Ormuz",
+        "link": "https://exame.com/mundo/ira-rebate-trump-e-afirma-manter-o-controle-do-estreito-de-ormuz/",
+        "summary": "\"As afirmações dos Estados Unidos de que os navios atravessam o estreito normalmente não passam de mentiras\", disse Ebrahim Zolfaghari, porta-voz do comando militar central iraniano",
         "image": null,
         "date": "13 de ago. de 2026",
         "source": "Exame",
