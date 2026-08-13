@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-13T04:54:46.594Z",
+  "updated": "2026-08-13T06:19:30.997Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Veja como salvar uma orquídea com folhas e raízes secas ou murchas",
+        "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/13/veja-como-salvar-uma-orquidea-com-folhas-e-raizes-secas-ou-murchas.ghtml",
+        "summary": "Veja como salvar uma orquídea com folhas e raízes secas ou murchas Quem tem orquídea em casa pode já ter se perguntado por que as folhas e as raízes da planta começaram a murchar. É o caso da Fátima, de Mogi Guaçu (SP), ",
+        "image": "https://s2-g1.glbimg.com/W54exQRbf4AwbHY5iWIFQRA0XwE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/L/l/BsbGBfQt2ilufBEelXDg/white-rainforest-tbedrlyv650-unsplash.jpg",
+        "date": "13 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Idosa fica ferida após carro capotar em avenida de Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/12/idosa-fica-ferida-apos-carro-capotar-em-avenida-de-campinas.ghtml",
@@ -53,14 +63,64 @@
         "cls": "brasil"
       },
       {
-        "title": "Ana Castela é confirmada no Jaguariúna Rodeo Festival: 'Volto com mais experiência'",
-        "link": "https://g1.globo.com/sp/campinas-regiao/rodeio-de-jaguariuna/noticia/2026/08/12/ana-castela-e-confirmada-no-jaguariuna-rodeo-festival-volto-com-mais-experiencia.ghtml",
-        "summary": "Show de Ana Castela na última noite da Festa do Peão de Americana 2026 Thomaz Marostegan Ana Castela foi confirmada nesta quarta-feira (12) como uma das atrações do Jaguariúna Rodeo Festival (JRF) 2026. A Boideira vai se",
-        "image": "https://s2-g1.glbimg.com/FC5SvKd79q6WBaZ374UNoYvDoUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/M/KQp4pCTEebrX2XBiAnUg/img-1308.jpg.jpeg",
+        "title": "Cães escapam de residência e atacam três pessoas em Americana",
+        "link": "https://jornalamericanense.com.br/policia/caes-escapam-de-residencia-e-atacam-tres-pessoas-em-americana/",
+        "summary": "Mulher e idoso precisaram de atendimento médico após ataque na Vila Bertini; ocorrência foi registrada pela GAMA Três pessoas ficaram feridas após serem atacadas por dois cães na manhã desta quarta-feira (12), na Avenida",
+        "image": null,
         "date": "12 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Região do Portal recebe evento em comemoração ao Dia Municipal do Flashback neste domingo",
+        "link": "https://jornalamericanense.com.br/cultura/regiao-do-portal-recebe-evento-em-comemoracao-ao-dia-municipal-do-flashback-neste-domingo/",
+        "summary": "A região do Portal Princesa Tecelã, na entrada de Americana pela Avenida Antônio Pinto Duarte, recebe neste domingo (16) uma programação especial em comemoração ao Dia Municipal do Flashback. Organizada pelo grupo Amigos",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "“Mandaram minha filha para casa”: mãe denuncia atendimento no PS Afonso Ramos antes de diagnóstico de AVC",
+        "link": "https://jornalamericanense.com.br/cidades/mandaram-minha-filha-para-casa-mae-denuncia-atendimento-no-ps-afonso-ramos-antes-de-diagnostico-de-avc/",
+        "summary": "Patrícia Curiel relatou que a filha apresentou fortes dores, perda de movimentos e vômitos antes do diagnóstico; jovem passou por cirurgia de cerca de dez horas na Unicamp e, segundo a família, não ficou com sequelas Uma",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Câmara de Americana aprova diretrizes para moradia assistida de adultos com autismo",
+        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-diretrizes-para-moradia-assistida-de-adultos-com-autismo/",
+        "summary": "Projeto prevê incentivo a políticas públicas que promovam autonomia, acolhimento e inclusão de pessoas com TEA na vida adulta A Câmara Municipal de Americana aprovou, nesta terça-feira (11), uma proposta que estabelece d",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Câmara de Americana aprova 52 proposituras em sessão ordinária",
+        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-52-proposituras-em-sessao-ordinaria/",
+        "summary": "Vereadores votaram nove projetos de lei, 22 requerimentos, 20 moções e um veto; proposta sobre moradia assistida para adultos com autismo está entre os destaques A Câmara Municipal de Americana aprovou 52 proposituras du",
+        "image": null,
+        "date": "12 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana promove mutirão gratuito de inserção de Implanon em três unidades neste sábado",
+        "link": "https://jornalamericanense.com.br/saude/americana-promove-mutirao-gratuito-de-insercao-de-implanon-em-tres-unidades-neste-sabado/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, promove neste sábado (15) mais um mutirão gratuito de inserção do Implanon, método contraceptivo de alta eficácia e longa duração disponível na rede municipal d",
+        "image": null,
+        "date": "11 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Senado aprova alívio de imposto sobre combustíveis; texto vai à sanção",
