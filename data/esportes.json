@@ -1,18 +1,7 @@
 {
-  "updated": "2026-08-13T19:19:14.567Z",
+  "updated": "2026-08-13T21:02:32.726Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Fulham se recusa a disputar pênaltis, deixa o campo e Málaga conquista torneio amistoso",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/fulham-abandona-campo-antes-dos-penaltis-malaga-campeao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f633.png"
-    },
     {
       "title": "Tel e Tonali estrelam ensaio de fotos do Tottenham para 2026/27",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/tel-e-tonali-estrelam-ensaio-de-fotos-do-tottenham-para-2026-27/",
@@ -22,7 +11,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "PSG comemora título da Supercopa",
@@ -33,7 +22,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Bruno Guimarães estreia pelo Arsenal em amistoso contra o Como",
@@ -44,7 +33,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Campeão do mundo, Porro tem recepção de herói na volta ao Spurs",
@@ -55,7 +44,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Lewis-Skelly marca, e Arsenal vence último teste da pré-temporada nos pênaltis",
@@ -66,7 +55,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Manchester City renova com Jérémy Doku por mais cinco anos",
@@ -77,7 +66,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Abha 1 x 2 Al Hazem pela Liga Saudita",
@@ -88,7 +77,18 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Barthez se junta à comissão técnica de Zidane na seleção francesa",
+      "link": "https://www.gazetaesportiva.com/times/franca/barthez-se-junta-a-comissao-tecnica-de-zidane-na-selecao-francesa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f413.png"
     },
     {
       "title": "Bruninho celebra sonho de vestir a camisa da Seleção sub-20 e mira Sul-Americano",
