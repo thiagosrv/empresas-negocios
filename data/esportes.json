@@ -1,29 +1,7 @@
 {
-  "updated": "2026-08-13T13:46:29.561Z",
+  "updated": "2026-08-13T15:14:14.360Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Meia do São Paulo, Lucas Moura completa 34 anos: veja fotos da carreira",
-      "link": "https://www.gazetaesportiva.com/futebol/meia-do-sao-paulo-lucas-moura-completa-34-anos-veja-fotos-da-carreira/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Supercopa da Espanha muda de sede e será disputada na Turquia",
-      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/supercopa-da-espanha-2027-istambul-turquia/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
     {
       "title": "Willian negocia saída do Grêmio e planeja retorno ao futebol europeu",
       "link": "https://www.gazetaesportiva.com/times/gremio/willian-negocia-saida-do-gremio-e-planeja-retorno-a-europa/",
@@ -44,7 +22,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Haaland recebe homenagem em Livro dos Recordes e amplia lista de marcas históricas",
@@ -55,40 +33,62 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
-      "title": "Dorival Jr sai satisfeito da Bolívia e confiante em classificação do São Paulo",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/dorival-jr-sai-satisfeito-da-bolivia-e-confiante-em-classificacao-do-sao-paulo/",
+      "title": "Fulham se recusa a disputar pênaltis, deixa o campo e Málaga conquista torneio amistoso",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/fulham-abandona-campo-antes-dos-penaltis-malaga-campeao/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "12 de ago. de 2026",
-      "isoDate": "2026-08-12",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f633.png"
+    },
+    {
+      "title": "Tel e Tonali estrelam ensaio de fotos do Tottenham para 2026/27",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/tel-e-tonali-estrelam-ensaio-de-fotos-do-tottenham-para-2026-27/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "PSG comemora título da Supercopa",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/psg-comemora-titulo-da-supercopa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Bruno Guimarães estreia pelo Arsenal em amistoso contra o Como",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bruno-guimaraes-estreia-pelo-arsenal-em-amistoso-contra-o-como/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Vasco x Olimpia: veja prováveis escalações e onde assistir ao duelo pela Sul-Americana",
-      "link": "https://www.gazetaesportiva.com/times/vasco/vasco-x-olimpia-onde-assistir/",
+      "title": "Campeão do mundo, Porro tem recepção de herói na volta ao Spurs",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/campeao-do-mundo-porro-tem-recepcao-de-heroi-na-volta-ao-spurs/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "12 de ago. de 2026",
-      "isoDate": "2026-08-12",
+      "date": "13 de ago. de 2026",
+      "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Hearts x Benfica: veja onde assistir ao duelo pelas qualificatórias da Liga Europa",
-      "link": "https://www.gazetaesportiva.com/campeonatos/liga-europa/hearts-x-benfica-veja-onde-assistir-ao-duelo-pelas-qualificatorias-da-liga-europa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "12 de ago. de 2026",
-      "isoDate": "2026-08-12",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
     },
     {
       "title": "Bruninho celebra sonho de vestir a camisa da Seleção sub-20 e mira Sul-Americano",
