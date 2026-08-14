@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-14T20:34:24.327Z",
+  "updated": "2026-08-14T21:28:08.303Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Campinas amplia fiscalização e tem média de uma multa a cada 35 segundos no trânsito em 2026",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/14/campinas-amplia-fiscalizacao-e-tem-media-de-uma-multa-a-cada-35-segundos-no-transito-em-2026.ghtml",
+        "summary": "Foto de arquivo de radar de fiscalização eletrônica de velocidade na Avenida John Boyd Dunlop, em Campinas Johnny Inselsperger/EPTV Campinas (SP) registrou uma média de uma multa de trânsito a cada 35 segundos entre jane",
+        "image": "https://s2-g1.glbimg.com/WlSJUF0-qh-11oZ6z13rW1w_HXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/7/9/BXkbQAQ4KT0mBoLtnjjA/ruy-radar.jpeg",
+        "date": "14 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Americana amplia o acolhimento a famílias em vulnerabilidade",
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-americana-americana-feliz-de-verdade/noticia/2026/08/14/americana-amplia-o-acolhimento-a-familias-em-vulnerabilidade.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-americana-americana-feliz-de-verdade/noticia/2026/08/14/asfalto-novo-transforma-a-infraestrutura-viaria-de-americana.ghtml",
         "summary": "Recuperação asfáltica na Avenida de Cillo dentro do programa Asfalto Novo Crédito: Divulgação Com investimento de aproximadamente R$ 71 milhões em recursos próprios, o programa Asfalto Novo está transformando a infraestr",
         "image": "https://s2-g1.glbimg.com/3xQqt9GVxT2Hli41yabUj4lD38E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/OVHpimQRSYBxAJdA0ayw/foto-1.jpeg",
-        "date": "14 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Americana fortalece investimentos com contas em dia",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-americana-americana-feliz-de-verdade/noticia/2026/08/14/americana-fortalece-investimentos-com-contas-em-dia.ghtml",
-        "summary": "Paço Municipal de Americana, sede das secretarias de Fazenda e Gestão de Convênios Crédito: Divulgação O equilíbrio das contas públicas, aliado ao planejamento financeiro e à captação de recursos externos, tem permitido ",
-        "image": "https://s2-g1.glbimg.com/Tp8klhNhl3CL6GP_ESfnexoEIFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/p4GE6YStOSxqEni4pWCg/g1-1600x900px-gestao.jpg",
         "date": "14 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Pesquisa de polipílula para prevenção do AVC busca 8,5 mil voluntários",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pesquisa-de-polipilula-para-prevencao-do-avc-busca-85-mil-voluntarios",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pesquisa-de-polipilula-para-prevencao-do-avc-busca-85-mil-voluntarios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Europe Smash: Calderano vence de novo e terá Félix Lebrun nas quartas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/europe-smash-calderano-vence-de-novo-e-tera-felix-lebrun-nas-quartas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/europe-smash-calderano-vence-de-novo-e-tera-felix-lebrun-nas-quartas img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Multivacinação em São Paulo inclui 20 imunizantes em 645 municípios",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/multivacinacao-em-sao-paulo-inclui-20-imunizantes-em-645-municipios",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/multivacinacao-em-sao-paulo-inclui-20-imunizantes-em-645-municipios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Criptografia do Discord dificulta monitoramento de lives, aponta ANPD",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/criptografia-do-discord-dificulta-monitoramento-de-lives-aponta-anpd",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/criptografia-do-discord-dificulta-monitoramento-de-lives-aponta-anpd img src= https://cdn.jsdelivr.net/gh/ser",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Na era da IA, inclusão digital deve ser crítica, defende educadora",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Durigan rebate críticas de inércia sobre crise do BRB",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lula diz que só acatará indicação de embaixador dos EUA após eleições",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Escalação: São Paulo terá reforço de Artur para enfrentar o Coritiba",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/escalacao-sao-paulo-tera-reforco-de-artur-para-enfrentar-o-coritiba/",
-        "summary": "O São Paulo finalizou a preparação para o duelo contra o Coritiba na manhã desta sexta-feira, no SuperCT. Confira como foi o treino. O post Escalação: São Paulo terá reforço de Artur para enfrentar o Coritiba apareceu pr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55464230269_7c16da1e81_k-1.webp",
+        "title": "Neymar revela incômodo com postura do Santos e cobra mudança: “Tem que vibrar junto”",
+        "link": "https://www.gazetaesportiva.com/times/santos/neymar-cobra-postura-santos-vibrar-junto/",
+        "summary": "Neymar revelou uma cobrança feita aos jogadores do Santos após a vitória de virada sobre o Macará, pela Sul-Americana. O camisa 10 disse ter revisto vídeos depois de ouvir críticas de torcedores sobre a falta de união e ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4M49NL__v1__HighRes__FblSudamericanaSantosMacara.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do último treino do São Paulo antes de encarar o Coritiba",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-ultimo-treino-do-sao-paulo-antes-de-encarar-o-coritiba-3/",
-        "summary": "O post Veja fotos do último treino do São Paulo antes de encarar o Coritiba apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55464183488_541b6b650c_k.webp",
+        "title": "Monaco, de Filipe Luís, perde para clube inglês em último amistoso de pré-temporada",
+        "link": "https://www.gazetaesportiva.com/times/monaco/monaco-de-filipe-luis-perde-para-clube-ingles-em-ultimo-amistoso-de-pre-temporada/",
+        "summary": "O Monaco foi derrotado por 2 a 0 pelo Coventry em amistoso de pré-temporada disputado na Inglaterra. Ellis Simms abriu o placar aos 12 minutos do primeiro tempo, e Loum Tchaouna ampliou aos 32, garantindo a vitória dos i",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A769X__v1__HighRes__776527817.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Revista do Reino Unido elege estádio do Palmeiras como principal arena brasileira para shows",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-nubank-parque-ranking-arenas-multiuso/",
-        "summary": "O estádio do Palmeiras, recém-batizado como Nubank Parque, foi eleito como principal arena brasileira para shows pela IQ Magazine, revista do Reino Unido, para o Stadium Stars 2026, lista que destaca 20 estádios esportiv",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/d5a48b6a-1fc1-4d50-aba2-d9a6b11ff4d6.webp",
+        "title": "Palmeiras bate XV de Jaú e chega a quatro vitórias seguidas no Paulista sub-20",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bate-xv-de-jau-e-chega-a-quatro-vitorias-seguidas-no-paulista-sub-20/",
+        "summary": "O Palmeiras venceu o XV de Jaú por 3 a 0 na Academia de Futebol 2, em Guarulhos, pela 12ª rodada do Campeonato Paulista Sub-20. Lucas Gabriel e Bernardo marcaram ainda no primeiro tempo, enquanto Kidani fechou o placar n",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/FTM_8944.jpg-2000x1200-1.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Conselho do São Paulo adia votação da reforma estatutária; veja detalhes",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/conselho-do-sao-paulo-adia-votacao-da-reforma-estatutaria-veja-detalhes/",
-        "summary": "O Conselho Deliberativo do São Paulo mudou a data da votação da reforma estatutária, que seria inicialmente nesta segunda-feira. O post Conselho do São Paulo adia votação da reforma estatutária; veja detalhes apareceu pr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/03/54290824087_92f2afcc10_k.webp",
+        "title": "Treino do Santos: veja fotos da reapresentação do elenco após vitória na Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/santos/treino-santos-fotos-reapresentacao-sul-americana/",
+        "summary": "O Santos se reapresentou nesta sexta-feira no CT Rei Pelé após vencer o Macará por 2 a 1 pela Copa Sul-Americana. Os titulares fizeram trabalho regenerativo, enquanto os demais jogadores participaram de atividades no gra",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55464481535_0ad415d86e_3k.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Técnico inicia no sub-17 Palmeiras com 100% de aproveitamento, goleada histórica e baliza zerada",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/tecnico-inicia-no-sub-17-palmeiras-com-100-de-aproveitamento-goleada-historica-e-baliza-zerada/",
-        "summary": "O técnico João Corrêa vive um bom início de trabalho na equipe sub-17 do Palmeiras e, em apenas quatro jogos, acumula 100% de aproveitamento, além de uma goleada histórica e defesa consistente, que ainda não foi vazada. ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/FTM-8490.webp",
+        "title": "Titulares fazem regenerativo, e Santos inicia curta preparação para enfrentar o Vasco",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-preparacao-vasco-brasileirao/",
+        "summary": "Titulares do Santos fizeram trabalho regenerativo nesta sexta-feira, enquanto os demais jogadores foram a campo no CT Rei Pelé. O Peixe terá apenas mais um treino antes de enfrentar o Vasco, neste domingo, pelo Brasileir",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55464480685_437dc40774_3k.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-neom-2-x-1-al-fayha-pela-liga-saudita/",
-        "summary": "Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita O post Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/NE.webp",
+        "title": "Corinthians vence Jabaquara e segue invicto no Paulistão sub-20",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-vence-jabaquara-e-segue-invicto-no-paulistao-sub-20/",
+        "summary": "Confira os detalhes do duelo entre Jabaquara e Corinthians, pelo Campeonato Paulista sub-20. O post Corinthians vence Jabaquara e segue invicto no Paulistão sub-20 apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1786738724a563b6d5abbf137175059d6bb14672cc.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Os 10 países mais seguros do mundo — Brasil passa longe do pódio",
-        "link": "https://www.infomoney.com.br/mundo/10-paises-mais-seguros-mundo/",
-        "summary": "O Brasil é mais seguro do que os Estados Unidos, de acordo com levantamento The post Os 10 países mais seguros do mundo — Brasil passa longe do pódio appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/josh-reid-meOFNlRbHmY-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Quaest mostra Lula com 43% e Flávio Bolsonaro com 40% no 2º turno",
+        "link": "https://www.infomoney.com.br/politica/quaest-mostra-lula-com-43-e-flavio-bolsonaro-com-40-no-2o-turno/",
+        "summary": "No primeiro turno, o presidente soma 38% das intenções de voto, contra 31% do senador The post Quaest mostra Lula com 43% e Flávio Bolsonaro com 40% no 2º turno appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-04.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "14 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Braskem: o que fez ação sair de alta de 8% para queda de 7,7% após lucrar R$ 3,33 bi",
-        "link": "https://www.infomoney.com.br/mercados/braskem-o-que-fez-acao-sair-de-alta-de-8-para-queda-de-77-apos-lucrar-r-333-bi/",
-        "summary": "A Braskem registrou um lucro ‌líquido de R$ 3,33 bilhões no segundo ‌trimestre de 2026, revertendo prejuízo de R$ 267 milhões The post Braskem: o que fez ação sair de alta de 8% para queda de 7,7% após lucrar R$ 3,33 bi ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/TQPM10-braskem.jpg?fit=300%2C162&amp;quality=70&amp;strip=all",
+        "title": "CBV adota critério do COI e vai fazer teste genético em atletas femininas",
+        "link": "https://www.infomoney.com.br/esportes/cbv-adota-criterio-do-coi-e-vai-fazer-teste-genetico-em-atletas-femininas/",
+        "summary": "Elegibilidade de atletas nas competições da categoria feminina no voleibol passará a exigir o teste genético SRY; medida vale para todas as competições nacionais The post CBV adota critério do COI e vai fazer teste genét",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-10-133456.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "14 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Petróleo fecha em alta com ataques no Mar Vermelho e negociações EUA-Irã sem tração",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-14082026/",
-        "summary": "Na semana, o WTI acumulou alta de 5,4% e o Brent subiu 5,95% The post Petróleo fecha em alta com ataques no Mar Vermelho e negociações EUA-Irã sem tração appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-24T193633Z_1_LYNXMPEM5N1FC_RTROPTP_4_IRAN-CRISIS-CHINA-REFINERIES-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Berkshire aumenta aposta em Delta e Alphabet e começa a usar caixa herdado de Buffett",
+        "link": "https://www.infomoney.com.br/mercados/berkshire-aumenta-aposta-em-delta-e-alphabet-e-comeca-a-usar-caixa-herdado-de-buffett/",
+        "summary": "Greg Abel adicionou quase US$ 20 bilhões em ações no 2º trimestre e liderou aquisições bilionárias, reduzindo o caixa da Berkshire de níveis recordes The post Berkshire aumenta aposta em Delta e Alphabet e começa a usar ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450938665.jpg?fit=300%2C214&amp;quality=70&amp;strip=all",
         "date": "14 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Taxas dos DIs sobem com aversão a risco no Brasil",
-        "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-aversao-a-risco-no-brasil/",
-        "summary": "O movimento também refletiu a escalada das tensões no Oriente Médio, que trouxeram mais cautela aos mercados globais, e dados ⁠da ‌economia norte-americana The post Taxas dos DIs sobem com aversão a risco no Brasil appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-29T175807Z_1_LYNXMPEL3S100_RTROPTP_4_BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa hoje fecha em queda pela 9ª sessão; dólar sobe e fica em R$ 5,22",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-14082026/",
+        "summary": "Bolsas dos EUA recuam, em semana com recordes The post Ibovespa hoje fecha em queda pela 9ª sessão; dólar sobe e fica em R$ 5,22 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-19.png?fit=300%2C186&amp;quality=70&amp;strip=all",
         "date": "14 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "De Barueri ao Leblon, saiba onde está o aluguel está mais caro no país",
-        "link": "https://www.infomoney.com.br/minhas-financas/de-barueri-ao-leblon-saiba-onde-esta-o-aluguel-esta-mais-caro-no-pais/",
-        "summary": "Levantamento mostra diferenças superiores a 100% entre cidades e abismos de preços dentro das capitais The post De Barueri ao Leblon, saiba onde está o aluguel está mais caro no país appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Alphaville_Barueri_SP.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Bolsas de NY fecham em leve baixa olhando perspectivas para inflação e gastos com IA",
+        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-leve-baixa-olhando-perspectivas-para-inflacao-e-gastos-com-ia/",
+        "summary": "O Dow Jones caiu 0,20%%, aos 53732,41 pontos. O S P 500 fechou em baixa de 0,17%, a 7785,76 pontos, e o Nasdaq recuou 0,28%, encerrando aos 26729,16 pontos The post Bolsas de NY fecham em leve baixa olhando perspectivas ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/wall-street-bloomberg-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "14 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BHIA3: Casas Bahia solta balanço em meio a notícias de demissão e fechamento de lojas",
-        "link": "https://www.infomoney.com.br/mercados/bhia3-casas-bahia-solta-balanco-em-meio-a-noticias-de-demissao-e-fechamento-de-lojas/",
-        "summary": "Expectativas são de números fracos após adiamento do resultado do segundo trimestre The post BHIA3: Casas Bahia solta balanço em meio a notícias de demissão e fechamento de lojas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/casas-bahia-aricanduva.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+        "title": "Dólar tem maior sequência de altas de 2026 e vai a R$ 5,22, maior valor desde março",
+        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-14082026/",
+        "summary": "No ano, a moeda norte-americana agora tem queda de 4,88% ante o real The post Dólar tem maior sequência de altas de 2026 e vai a R$ 5,22, maior valor desde março appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/money-1273908_1280.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "14 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Cotado ao governo de Alagoas, JHC pode tentar o Senado e bagunçar disputa; entenda",
-        "link": "https://exame.com/brasil/cotado-ao-governo-de-alagoas-jhc-pode-tentar-o-senado-e-baguncar-disputa-entenda/",
-        "summary": "Encontro com Lula em meio a investigações sobre a previdência dos servidores públicos de Maceió pode colocar JHC cara a cara com aliados políticos fortes no estado",
+        "title": "Pesquisa Quaest: Lula tem 7 pontos de vantagem sobre Flávio Bolsonaro no 1º turno",
+        "link": "https://exame.com/brasil/pesquisa-quaest-lula-tem-7-pontos-de-vantagem-sobre-flavio-bolsonaro-no-1o-turno/",
+        "summary": "Presidente aparece com 38% das intenções de voto, enquanto o senador do PL chega a 31%",
         "image": null,
         "date": "14 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cientistas descobrem que órgãos têm 'idades' diferentes dentro do corpo; veja como medir isso",
-        "link": "https://exame.com/ciencia/cientistas-descobrem-que-orgaos-tem-idades-diferentes-dentro-do-corpo-veja-como-medir-isso/",
-        "summary": "Modelos de inteligência artificial estimaram a idade biológica de órgãos a partir de imagens microscópicas dos tecidos",
+        "title": "Tokenização imobiliária no Brasil já movimenta R$ 20 bilhões e mira R$ 320 bilhões até 2030",
+        "link": "https://exame.com/future-of-money/tokenizacao-imobiliaria-no-brasil-ja-movimenta-r-20-bilhoes-e-mira-r-320-bilhoes-ate-2030/",
+        "summary": "País se torna um dos mais relevantes para o registro em blockchain de propriedades",
         "image": null,
         "date": "14 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Sua profissão está mudando e este é o sinal de alerta que você não deveria ignorar agora",
-        "link": "https://exame.com/inteligencia-artificial/sua-profissao-esta-mudando-e-este-e-o-sinal-de-alerta-que-voce-nao-deveria-ignorar-agora/",
-        "summary": "Mudanças nas habilidades exigidas pelo mercado mostram por que profissionais precisam acompanhar a evolução da inteligência artificial",
+        "title": "O teste aceito por Harvard, MIT e Yale chega pela primeira vez a uma escola do Brasil",
+        "link": "https://exame.com/carreira/o-teste-aceito-por-harvard-mit-e-yale-chega-pela-primeira-vez-a-uma-escola-do-brasil/",
+        "summary": "Feira acontece na Barra da Tijuca em 26 de agosto e traz pela primeira vez o teste de inglês do Duolingo",
         "image": null,
         "date": "14 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Opinião: TikTok Shop mostrou que o varejo não está acompanhando o consumidor",
-        "link": "https://exame.com/bussola/opiniao-tiktok-shop-mostrou-que-o-varejo-nao-esta-acompanhando-o-consumidor/",
-        "summary": "TikTok Shop acelera a decisão de compra e expõe a necessidade de integrar marketing, estoque, dados e operação no varejo",
+        "title": "'Vingadores' do terror? 'American Horror Story 13' reúne os maiores vilões da franquia",
+        "link": "https://exame.com/pop/vingadores-do-terror-american-horror-story-13-reune-os-maiores-viloes-da-franquia/",
+        "summary": "O produtor Ryan Murphy detalhou os bastidores da nova temporada e descartou comparações com uma das fases mais aclamadas da franquia",
         "image": null,
         "date": "14 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Claude enfrenta onda de cancelamentos após criar marca invisível em textos gerados por IA",
-        "link": "https://exame.com/inteligencia-artificial/claude-enfrenta-onda-de-cancelamentos-apos-criar-marca-invisivel-em-textos-gerados-por-ia/",
-        "summary": "A Anthropic passou a inserir uma marca invisível em textos do Claude; usuários dizem temer problemas de autoria, contratos e políticas de uso de inteligência artificial",
+        "title": "Quando o filme 'Pinóquio: Maldição de Madeira' chega aos cinemas brasileiros?",
+        "link": "https://exame.com/pop/quando-o-filme-pinoquio-maldicao-de-madeira-chega-aos-cinemas-brasileiros/",
+        "summary": "A distribuidora A2 Filmes divulgou o trailer legendado do longa",
         "image": null,
         "date": "14 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mercadão na Inglaterra? Após brasileiro comprar 'fatia' do Liverpool, Leicester é colocado à venda",
-        "link": "https://exame.com/esporte/mercadao-na-inglaterra-apos-brasileiro-comprar-fatia-do-liverpool-leicester-e-colocado-a-venda/",
-        "summary": "Na Inglaterra, praticamente todos os grandes clubes do futebol inglês já foram vendidos",
+        "title": "Ibovespa fecha 9ª sessão em queda e acumula perda de 3,2% na semana; dólar avança",
+        "link": "https://exame.com/invest/mercados/ibovespa-fecha-9a-sessao-em-queda-e-acumula-perda-de-32-na-semana-dolar-avanca/",
+        "summary": "O dólar à vista fechou em alta de 0,52% nesta sexta-feira, a R$ 5,2199, após oscilar entre R$ 5,1744 e R$ 5,2490",
         "image": null,
         "date": "14 de ago. de 2026",
         "source": "Exame",
