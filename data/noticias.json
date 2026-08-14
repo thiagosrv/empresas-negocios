@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T02:18:18.986Z",
+  "updated": "2026-08-14T04:51:22.984Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Galípolo critica empresas que pressionam para usar FGC",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/galipolo-critica-empresas-que-pressionam-para-usar-fgc",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/galipolo-critica-empresas-que-pressionam-para-usar-fgc img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "TSE suspende novas filiações após registros indevidos no sistema",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-suspende-novas-filiacoes-apos-registros-indevidos-no-sistema",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-suspende-novas-filiacoes-apos-registros-indevidos-no-sistema img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Polícia Civil recupera oito obras de Matisse roubadas em São Paulo",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/policia-civil-recupera-oito-obras-de-matisse-roubadas-em-sao-paulo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/policia-civil-recupera-oito-obras-de-matisse-roubadas-em-sao-paulo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Mega-Sena acumula para R$ 38 milhões; confira os números sorteados",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
         "summary": "p Nenhum apostador acertou as seis dezenas do Concurso 3.044 da Mega-Sena, realizado nesta quinta-feira (13). strong O prêmio acumulou e está estimado em R$ 38 milhões para o próximo sorteio. /strong img src= https://age",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "STF dá 2 anos para Congresso regulamentar mineração em terra indígena",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-da-2-anos-para-congresso-regulamentar-mineracao-em-terra-indigena",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-da-2-anos-para-congresso-regulamentar-mineracao-em-terra-indigena img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "MPRJ investiga empresas de apostas online por golpes de R$ 1,4 bilhão",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mprj-investiga-empresas-de-apostas-online-por-golpes-de-r-14-bilhao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mprj-investiga-empresas-de-apostas-online-por-golpes-de-r-14-bilhao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Rock in Rio e organização Ação da Cidadania se unem no combate à fome",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/rock-rio-e-organizacao-acao-da-cidadania-se-unem-no-combate-fome",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/rock-rio-e-organizacao-acao-da-cidadania-se-unem-no-combate-fome img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Grêmio anuncia a contratação de volante campeão por Palmeiras e Botafogo",
-        "link": "https://www.gazetaesportiva.com/times/gremio/gremio-contrata-danilo-barbosa-ate-2028/",
-        "summary": "O Grêmio anunciou a contratação do volante Danilo Barbosa, de 30 anos, que estava no Al Ula, da Arábia Saudita. Revelado pelo Vasco, o jogador acumulou passagens por importantes clubes da Europa, como Benfica, Valencia e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/banner-danilo-barbosa-1.webp",
+        "title": "Morre Carlos Massoni, o Mosquito, lenda do basquete brasileiro",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/basquete/morre-carlos-massoni-o-mosquito-lenda-do-basquete-brasileiro/",
+        "summary": "Carlos Massoni, o Mosquito, um dos maiores nomes da história do basquete brasileiro, morreu aos 87 anos. Campeão mundial com a Seleção Brasileira em 1963 e medalhista olímpico de bronze em Roma-1960 e Tóquio-1964, o ex-a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/snapinsta-1786680433041.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Gabigol celebra 100º gol pelo Santos após vitória na Sul-Americana: “Marca histórica”",
-        "link": "https://www.gazetaesportiva.com/times/santos/gabigol-100-gols-santos-macara-sul-americana/",
-        "summary": "Gabigol alcançou a marca de 100 gols com a camisa do Santos ao marcar na vitória de virada por 2 a 1 sobre o Macará, pela Copa Sul-Americana. Revelado pelo Peixe, o atacante comemorou o feito e destacou sua ligação com o",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55462510764_1eaa4c1937_3k.webp",
+        "title": "Diniz lamenta saída de Memphis do Corinthians: Triste e decepcionado",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-lamenta-saida-de-memphis-do-corinthians-triste-e-decepcionado/",
+        "summary": "Fernando Diniz lamentou a saída de Memphis Depay do Corinthians e admitiu ter ficado \"muito triste\" com o fim das negociações. O treinador revelou que esperava trabalhar com o holandês por mais dois anos, mas destacou a ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__C4M83VG__v1__HighRes__FblLibertadoresRosarioCorinthians.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Perito diz que sinais de agravamento de Maradona poderiam ter sido detectados antes da morte",
-        "link": "https://www.gazetaesportiva.com/times/argentina/perito-diz-que-sinais-de-agravamento-de-maradona-poderiam-ter-sido-detectados-antes-da-morte/",
-        "summary": "O julgamento sobre a morte de Diego Maradona ganhou um novo capítulo nesta quinta-feira com o depoimento do cardiologista Gustavo Di Niro. Integrante da junta médica que analisou o caso, o especialista afirmou que o ex-j",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2023/04/18/000_33DF3NQ.jpg",
+        "title": "Swiatek vence Rybakina e conquista WTA 1000 de Toronto",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/swiatek-vence-rybakina-e-conquista-wta-1000-de-toronto/",
+        "summary": "Iga Swiatek voltou a levantar um troféu em 2026. Nesta quinta-feira, a tenista polonesa superou Elena Rybakina por 6-2 e 6-3 para conquistar o WTA 1000 de Toronto. O título representa a 12ª conquista da ex-número 1 do mu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/01/Swiatek_220126.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Neymar desconversa sobre jogo no sintético contra o Palmeiras: “Já estão pensando nisso?”",
-        "link": "https://www.gazetaesportiva.com/times/santos/neymar-sintetico-palmeiras-copa-do-brasil/",
-        "summary": "Neymar evitou antecipar se atuará no gramado sintético no duelo entre Palmeiras e Santos pela Copa do Brasil. O camisa 10 nunca jogou no estádio palmeirense e possui um histórico de fortes críticas aos pisos artificiais.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4M66TM__v1__HighRes__FblSudamericanaSantosMacara.webp",
+        "title": "Melhores momentos: Rosario Central 0 x 0 Corinthians pela Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/melhores-momentos-rosario-central-0-x-0-corinthians-pela-libertadores/",
+        "summary": "Veja os melhores momentos de Rosario Central 0 x 0 Corinthians pelo jogo de ida das oitavas de final Copa Libertadores. O post Melhores momentos: Rosario Central 0 x 0 Corinthians pela Libertadores apareceu primeiro em G",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__C4MB27H__v1__HighRes__FblLibertadoresRosarioCorinthians.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do jogo de ida entre Rosario Central e Corinthians pelas oitavas da Libertadores",
-        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/veja-fotos-do-jogo-de-ida-entre-rosario-central-e-corinthians-pelas-oitavas-da-libertadores/",
-        "summary": "O post Veja fotos do jogo de ida entre Rosario Central e Corinthians pelas oitavas da Libertadores apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__C4M83UU__v1__HighRes__FblLibertadoresRosarioCorinthians.webp",
+        "title": "Ferraresi lamenta goleada sofrida pelo Botafogo e assume: A culpa é toda nossa",
+        "link": "https://www.gazetaesportiva.com/times/botafogo/ferraresi-lamenta-goleada-sofrida-pelo-botafogo-e-assume-a-culpa-e-toda-nossa/",
+        "summary": "Após a goleada por 6 a 1 sofrida para o Cienciano, no Peru, o zagueiro Nahuel Ferraresi assumiu a responsabilidade pelo resultado e fez um forte desabafo. O defensor afirmou que os erros cometidos pelo Botafogo foram det",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__C4MB27J__v1__MidRes__FblSudamericanaCiencianoBotafogo.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do duelo entre Cienciano e Botafogo pela Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/botafogo/veja-fotos-do-duelo-entre-cienciano-e-botafogo-pela-sul-americana/",
-        "summary": "O post Veja fotos do duelo entre Cienciano e Botafogo pela Sul-Americana apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55462529354_1bd77b76a3_k.webp",
+        "title": "Melhores momentos: Cienciano 6 x 1 Botafogo pela Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/botafogo/melhores-momentos-cienciano-6-x-1-botafogo-pela-sul-americana/",
+        "summary": "Veja os melhores momentos de Cienciano 6 x 1 Botafogo pela Copa Sul-Americana. O post Melhores momentos: Cienciano 6 x 1 Botafogo pela Sul-Americana apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55462475383_cdb19a80f9_h.webp",
         "date": "14 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
