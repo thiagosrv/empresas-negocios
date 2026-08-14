@@ -1,17 +1,39 @@
 {
-  "updated": "2026-08-13T23:58:23.938Z",
+  "updated": "2026-08-14T02:45:20.723Z",
   "totalOk": 3,
   "items": [
     {
-      "title": "Lewis-Skelly marca, e Arsenal vence último teste da pré-temporada nos pênaltis",
-      "link": "https://www.gazetaesportiva.com/times/arsenal/lewis-skelly-marca-e-arsenal-vence-ultimo-teste-da-pre-temporada-nos-penaltis/",
+      "title": "Com Neymar e Gabigol decisivos, Santos vira sobre o Macará na Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/santos-macara-sul-americana/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
+      "date": "14 de ago. de 2026",
+      "isoDate": "2026-08-14",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Mirassol sai na frente, mas cede empate à LDU pela ida das oitavas da Libertadores",
+      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/mirassol-x-ldu-libertadores-13-08-26/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de ago. de 2026",
+      "isoDate": "2026-08-14",
+      "category": "Libertadores",
+      "categoryColor": "#f39c12",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Perito diz que sinais de agravamento de Maradona poderiam ter sido detectados antes da morte",
+      "link": "https://www.gazetaesportiva.com/times/argentina/perito-diz-que-sinais-de-agravamento-de-maradona-poderiam-ter-sido-detectados-antes-da-morte/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de ago. de 2026",
+      "isoDate": "2026-08-14",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Manchester City renova com Jérémy Doku por mais cinco anos",
@@ -22,7 +44,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Abha 1 x 2 Al Hazem pela Liga Saudita",
@@ -33,7 +55,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Barthez se junta à comissão técnica de Zidane na seleção francesa",
@@ -55,29 +77,7 @@
       "isoDate": "2026-08-13",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Santos x Macará: siga o tempo real do jogo pela Copa Sul-Americana",
-      "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/santos-macara-sul-americana/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Mirassol sai na frente, mas cede empate à LDU no jogo de ida das oitavas da Libertadores",
-      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/mirassol-x-ldu-libertadores-13-08-26/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de ago. de 2026",
-      "isoDate": "2026-08-13",
-      "category": "Libertadores",
-      "categoryColor": "#f39c12",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Benfica empata com time escocês e avança aos playoffs da Liga Europa",
