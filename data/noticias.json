@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-15T12:44:36.635Z",
+  "updated": "2026-08-15T13:33:00.488Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Juçara vale mais em pé: fruto transforma realidade e gera renda no Vale do Ribeira",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/15/jucara-vale-mais-em-pe-fruto-transforma-realidade-e-gera-renda-no-vale-do-ribeira.ghtml",
+        "summary": "Uma palmeira que no passado era derrubada para a retirada de pouco mais de meio quilo de palmito hoje permanece em pé, produz frutos, gera renda para famílias e ainda contribui para a recuperação da Mata Atlântica. A mud",
+        "image": "https://s2-g1.glbimg.com/QlhjeHoac9a-7-ohUPFUo_vkqV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/XPjCz7SOufLRhxNmCjCQ/a-2026-08-14t114929.410.jpg",
+        "date": "15 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Casal é preso em Indaiatuba por suspeita de furtar carga de doces avaliada em R$ 29 mil",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/casal-e-preso-suspeito-de-furtar-carga-de-doces-em-indaiatuba.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/14/adolescente-e-apreendido-apos-esfaquear-estudante-durante-briga-em-indaiatuba.ghtml",
         "summary": "Unidade de Pronto Atendimento (UPA) Morada do Sol, em Indaiatuba, onde jovem ferido por canivete foi encaminhado Prefeitura de Indaiatuba Um adolescente de 17 anos foi apreendido por ato infracional análogo ao crime de t",
         "image": "https://s2-g1.glbimg.com/sj6NppQbQMCj2pisU_qL-Iu9TsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/U/PLD7cCRxS1QadnxnpdDg/design-sem-nome-2026-08-14t191501.122.jpg",
-        "date": "14 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Campinas amplia fiscalização e tem média de uma multa a cada 35 segundos no trânsito em 2026",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/14/campinas-amplia-fiscalizacao-e-tem-media-de-uma-multa-a-cada-35-segundos-no-transito-em-2026.ghtml",
-        "summary": "Foto de arquivo de radar de fiscalização eletrônica de velocidade na Avenida John Boyd Dunlop, em Campinas Johnny Inselsperger/EPTV Campinas (SP) registrou uma média de uma multa de trânsito a cada 35 segundos entre jane",
-        "image": "https://s2-g1.glbimg.com/WlSJUF0-qh-11oZ6z13rW1w_HXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/7/9/BXkbQAQ4KT0mBoLtnjjA/ruy-radar.jpeg",
         "date": "14 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Risco de desertificação no Brasil ameaça segurança hídrica e alimentar",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar img src= https://cdn.jsdelivr.net/gh/serg",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Eventos em Porto Alegre se manifestam contra a intolerância religiosa",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/eventos-em-porto-alegre-se-manifestam-contra-intolerancia-religiosa",
+        "summary": "p A luta contra a intolerância religiosa volta às ruas de Porto Alegre, no Rio Grande do Sul, neste sábado (15), com a Marcha dos Quimbandeiros e o Encontro Internacional de Quimbandeiros. img src= https://agenciabrasil.",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Prazo para registro de candidaturas às eleições termina neste sábado",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prazo-para-registro-de-candidaturas-eleicoes-termina-neste-sabado",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prazo-para-registro-de-candidaturas-eleicoes-termina-neste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -161,29 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Amcham defende que adoção de reciprocidade contra os EUA seja evitada",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/amcham-defende-que-adocao-de-reciprocidade-contra-os-eua-seja-evitada",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/amcham-defende-que-adocao-de-reciprocidade-contra-os-eua-seja-evitada img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vôlei brasileiro passa a exigir teste genético para atletas mulheres",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/volei-brasileiro-passa-exigir-teste-genetico-para-atletas-mulheres",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/volei-brasileiro-passa-exigir-teste-genetico-para-atletas-mulheres img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Palmeiras anuncia venda de ingressos para as quartas da Copa do Brasil; confira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-venda-de-ingressos-para-as-quartas-da-copa-do-brasil-confira/",
+        "summary": "O Palmeiras anunciou o cronograma de venda de ingressos para o clássico contra o Santos, válido pelo jogo de ida das quartas de final da Copa do Brasil. O confronto será disputado no dia 26 de agosto (quarta-feira), às 2",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/02052026_cg_palmeiras_destaque_5512_16.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Atlético de Madrid anuncia a contratação de Cristian Romero",
         "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-anuncia-a-contratacao-de-cristian-romero/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-trata-jogo-contra-o-coritiba-como-final-e-aposta-em-trunfos-para-virar-chave/",
         "summary": "O São Paulo entende que o jogo contra o Coritiba, neste sábado, pode ser o início de uma virada de chave para a reta final da temporada. O post São Paulo trata jogo contra o Coritiba como final e aposta em trunfos para v",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55458505494_373652e3a4_o.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Jovem do Santos agrada Cuca e deve ganhar chance na lateral em meio a lesões",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/davizinho-santos-lateral-direita-cuca/",
-        "summary": "Davizinho agradou Cuca após boa atuação na vitória do Santos sobre o Macará e pode receber novas oportunidades na lateral direita. Com Gabriel Menino lesionado e Igor Vinícius em recuperação, o jovem de 18 anos surge com",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55461351987_3cd96ab319_3k.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Quanto vale o herói da Copa? PSG paga cerca de R$ 315 milhões por Ferran Torres",
+        "link": "https://www.infomoney.com.br/esportes/quanto-vale-o-heroi-da-copa-psg-paga-cerca-de-r-315-milhoes-por-ferran-torres/",
+        "summary": "Campeão mundial e responsável pelo gol que colocou a segunda estrela na camisa da Espanha, o atacante deixou o Barcelona para assinar contrato com o clube francês até 2031 The post Quanto vale o herói da Copa? PSG paga c",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-19T220943Z_1996761378_UP1EM7J1PK63M_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C216&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mansão e 100 mil euros por mês: o suposto acordo de Cristiano Ronaldo e Georgina",
+        "link": "https://www.infomoney.com.br/mundo/mansao-e-100-mil-euros-por-mes-o-suposto-acordo-de-cristiano-ronaldo-e-georgina/",
+        "summary": "Segundo o jornal espanhol Marca, modelo teria direito a pensão vitalícia e à mansão da família em Madri em caso de separação The post Mansão e 100 mil euros por mês: o suposto acordo de Cristiano Ronaldo e Georgina appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/georgina-rodriguez-cristiano-ronaldo-noivado-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula evita cascas de banana , mas ajustes econômicos devem vir ainda em 2026",
+        "link": "https://www.infomoney.com.br/politica/lula-evita-cascas-de-banana-mas-ajustes-economicos-devem-vir-ainda-em-2026/",
+        "summary": "Entre as quatro grandes frentes de atuação para as quais o governo pretende olhar, ainda há apenas ideias sobre possíveis ajustes pós-campanha na fórmula que atualmente atualiza o salário mínimo The post Lula evita casca",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T181519Z_1874074105_RC2MWMAWH8ZB_RTRMADP_3_BRAZIL-ECONOMY-FISCAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "“Carro voador” da Tesla? Roadster pode ganhar propulsor da SpaceX; veja o que se sabe",
         "link": "https://www.infomoney.com.br/business/carro-voador-da-tesla-roadster-pode-ganhar-propulsor-da-spacex-veja-o-que-se-sabe/",
         "summary": "Segundo site, testes podem acontecer ainda neste mês The post “Carro voador” da Tesla? Roadster pode ganhar propulsor da SpaceX; veja o que se sabe appeared first on InfoMoney.",
@@ -337,39 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Trump pede “um pouquinho a mais” pela gasolina para impedir Irã de ter arma nuclear",
-        "link": "https://www.infomoney.com.br/mundo/trump-pede-um-pouquinho-a-mais-pela-gasolina-para-impedir-ira-de-ter-arma-nuclear/",
-        "summary": "Em discurso, presidente dos EUA disse que ​norte-americanos deveriam lembrar o custo para ​garantir que “um país muito maligno” não tenha arma nuclear The post Trump pede “um pouquinho a mais” pela gasolina para impedir ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Donald-Trump.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Na era da IA, conhecimento técnico deixa de ser o principal diferencial profissional",
-        "link": "https://www.infomoney.com.br/carreira/ia-conhecimento-profissional-do-futuro/",
-        "summary": "Em debate na Expert XP 2026, especialistas afirmam que a inteligência artificial aumenta a demanda por competências ligadas à análise crítica, ao pensamento critico e à aprendizagem contínua The post Na era da IA, conhec",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2151015316.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "77 pregões para recuperar as perdas: Caio Scotte relata fase mais difícil no trading",
-        "link": "https://www.infomoney.com.br/mercados/caio-scotte-ficou-77-pregoes-em-drawdown-voce-comeca-duvidar-de-tudo/",
-        "summary": "Sequência colocou o operacional à prova e mostra por que conhecer os próprios números pode ser decisivo nos períodos de maior pressão The post 77 pregões para recuperar as perdas: Caio Scotte relata fase mais difícil no ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Caio-Scotte-GainDelas-episodio-84-1.jpeg?fit=300%2C175&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bolsonaro pede ao STF para ser atendido pela nora, que é dentista",
-        "link": "https://exame.com/brasil/bolsonaro-pede-ao-stf-para-ser-atendido-pela-nora-que-e-dentista/",
-        "summary": "Defesa do ex-presidente indicou consulta com Fernanda Antunes Figueira Bolsonaro, mulher do senador Flávio Bolsonaro, para a próxima sexta",
+        "title": "O terno está de volta após perder força na pandemia",
+        "link": "https://exame.com/casual/o-terno-esta-de-volta-apos-perder-forca-na-pandemia/",
+        "summary": "Suitsupply, Tailored Brands e Brooks Brothers registram crescimento de dois dígitos, enquanto casamentos e a volta ao escritório reacendem a demanda por peças formais no mundo todo",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Encha Seu Kindle': autores nacionais dominam lista dos 10 livros mais vendidos",
-        "link": "https://exame.com/pop/encha-seu-kindle-autores-nacionais-dominam-lista-dos-10-livros-mais-vendidos/",
-        "summary": "Obras de Patrícia Criado, Mark Miller e Leonor Carvalho se destacaram durante a ação promocional da Amazon",
+        "title": "A IA não vai substituir sua empresa. Vai criar as que nunca existiram",
+        "link": "https://exame.com/inteligencia-artificial/ia-empresas-nativas-inteligencia-novos-mercados/",
+        "summary": "A pergunta \"como usar IA?\" pode estar tão limitada quanto \"como entrar na internet?\" estava em 2007 — e pelo mesmo motivo",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Parkinson: cientistas descobrem 'ritmo oculto' do cérebro que pode melhorar tratamento",
-        "link": "https://exame.com/ciencia/parkinson-cientistas-descobrem-ritmo-oculto-do-cerebro-que-pode-melhorar-tratamento/",
-        "summary": "Descoberta pode permitir ajustes mais precisos na estimulação cerebral profunda e melhorar a resposta de pacientes com a doença",
+        "title": "Horas após terremoto de 7,7, Indonésia tem novo tremor de 6,9",
+        "link": "https://exame.com/mundo/horas-apos-terremoto-de-77-indonesia-tem-novo-tremor-de-69/",
+        "summary": "Novo abalo ocorreu na ilha de Sumatra, horas depois de terremoto no leste do país deixar ao menos 38 mortos",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Terremoto de magnitude 7,7 deixa 38 mortos na Indonésia",
-        "link": "https://exame.com/mundo/terremoto-de-magnitude-77-deixa-38-mortos-na-indonesia/",
-        "summary": "Balanço aponta ainda dois feridos graves, 11 com ferimentos leves e cerca de 2 mil pessoas evacuadas",
+        "title": "Seu cérebro te sabota? Estudo explica por que insistimos nas mesmas escolhas",
+        "link": "https://exame.com/ciencia/seu-cerebro-te-sabota-estudo-explica-por-que-insistimos-nas-mesmas-escolhas/",
+        "summary": "Pesquisadores descobriram que o hábito de repetir decisões pode fazer opções familiares parecerem melhores do que realmente são",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quais atores já estão confirmados para o novo 'Harry Potter'? Veja detalhes do elenco",
-        "link": "https://exame.com/pop/quais-atores-ja-estao-confirmados-para-o-novo-harry-potter-veja-detalhes-do-elenco/",
-        "summary": "Nicholas Hoult é confirmado como Gilderoy Lockhart na segunda temporada da série de Harry Potter na HBO, com estreia prevista para dezembro de 2026",
+        "title": "Projeto de lei de stablecoins: onde o Brasil acerta e o que precisa mudar?",
+        "link": "https://exame.com/future-of-money/projeto-de-lei-de-stablecoins-onde-o-brasil-acerta-e-o-que-precisa-mudar/",
+        "summary": "Enquanto acerta na exigência de reservas integrais e auditáveis, o texto da proposta erra ao limitar transferências p2p",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Lavanderia autônoma de R$ 19,8 milhões lança rede de minimercados e mira 30 unidades em 2026",
-        "link": "https://exame.com/negocios/lavanderia-autonoma-de-r-198-milhoes-lanca-rede-de-minimercados-e-mira-30-unidades-em-2026/",
-        "summary": "Após expandir a Aquamagic para 25 estados, grupo cria o Neomarket e prepara uma terceira operação, de mídia autônoma para criar ecossistema de negócios autônomos",
+        "title": "Essa empresa fez um prédio de madeira em Suzano para desafiar o concreto",
+        "link": "https://exame.com/mercado-imobiliario/essa-empresa-fez-um-predio-de-madeira-em-suzano-para-desafiar-o-concreto/",
+        "summary": "Fabricante de estruturas de madeira deixou o papel de fornecedora para construir o próprio prédio e testar nova tecnologia",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
