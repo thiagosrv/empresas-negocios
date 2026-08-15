@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-15T22:25:58.381Z",
+  "updated": "2026-08-15T23:24:07.870Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Sexta e sábado concentram maior número de acidentes na região de Campinas, aponta Infosiga",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/sexta-e-sabado-concentram-maior-numero-de-acidentes-na-regiao-de-campinas-aponta-infosiga.ghtml",
+        "summary": "Região de Campinas registra mais de sete mil acidentes em 2026 Sexta-feira e sábado são os dias da semana em que a Região Administrativa de Campinas (SP) mais registra acidentes de trânsito. Os dados são do Sistema de In",
+        "image": "https://s2-g1.glbimg.com/MFPdwZaVpmL9FzDsr548VyfCpMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/z/hBvX2USLamjJUaiQdCtg/g1-2026-01-29t140352.230.png",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -61,66 +61,6 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
-      },
-      {
-        "title": "Denis Andia reforça compromisso de trabalho local",
-        "link": "https://jornalamericanense.com.br/politica/denis-andia-reforca-compromisso-de-trabalho-local/",
-        "summary": "O candidato a deputado federal Denis Andia desponta como opção competitiva para a região voltar a ser representada em Brasília. O ex-prefeito de Santa Bárbara d’Oeste tem percorrido as cidades da região em reuniões, visi",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Denis Andia defende “mandato da vida real” próximo das pessoas em Nova Odessa",
-        "link": "https://jornalamericanense.com.br/politica/denis-andia-defende-mandato-da-vida-real-proximo-das-pessoas-em-nova-odessa/",
-        "summary": "O candidato a deputado federal Denis Andia reuniu na noite de quinta-feira (13) lideranças de Nova Odessa em um encontro marcado por manifestações de apoio, diálogo e apresentação de sua trajetória na vida pública. O con",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Unacon orienta população sobre fatores de risco e sinais de alerta do câncer de pulmão",
-        "link": "https://jornalamericanense.com.br/saude/unacon-orienta-populacao-sobre-fatores-de-risco-e-sinais-de-alerta-do-cancer-de-pulmao/",
-        "summary": "Agosto é o mês dedicado à conscientização sobre o câncer de pulmão, uma das principais causas de morte por câncer no Brasil e no mundo. Por meio da campanha Agosto Branco, a Unacon (Unidade de Assistência de Alta Complex",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Evento do Dia Municipal do Flashback no Portal de Americana terá Feira de Artesanato Ameriart",
-        "link": "https://jornalamericanense.com.br/cultura/evento-do-dia-municipal-do-flashback-no-portal-de-americana-tera-feira-de-artesanato-ameriart/",
-        "summary": "O artesanato produzido por expositores da Feira Ameriart estará presente no evento em comemoração ao Dia Municipal do Flashback, que acontece neste domingo (16), das 14h às 19h, na região do Portal Princesa Tecelã. A ati",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Assédio Eleitoral: Justiça do Trabalho alerta sobre a prática com chegada das eleições",
-        "link": "https://jornalamericanense.com.br/economia/assedio-eleitoral-justica-do-trabalho-alerta-sobre-a-pratica-com-chegada-das-eleicoes/",
-        "summary": "Com a proximidade das eleições, a Justiça do Trabalho reforça o alerta para uma prática que pode comprometer a liberdade de escolha do eleitor e o direito ao voto livre e secreto: o assédio eleitoral no ambiente de traba",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Em defesa da representatividade, Franco Sardelli reúne 800 lideranças políticas de Americana",
-        "link": "https://jornalamericanense.com.br/politica/em-defesa-da-representatividade-franco-sardelli-reune-800-liderancas-politicas-de-americana/",
-        "summary": "O candidato a deputado estadual Franco Sardelli (PL) realizou, na noite desta quarta-feira (12), o primeiro encontro de lideranças políticas de Americana, que reuniu cerca de 800 pessoas. No evento, Franco destacou que a",
-        "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
       },
       {
         "title": "Publicação lembra 50 anos do atentado à sede da ABI na ditadura",
@@ -185,60 +125,60 @@
     ],
     "esportes": [
       {
-        "title": "Porto vence Rio Ave e segue 100% no Português",
-        "link": "https://www.gazetaesportiva.com/times/porto/porto-vence-rio-ave-e-lidera-campeonato-portugues/",
-        "summary": "O Porto venceu o Rio Ave por 2 a 0 neste sábado (15), no Estádio do Rio Ave FC, pela segunda rodada do Campeonato Português. Os gols da partida foram marcados por Nehuén Pérez, ainda no primeiro tempo, e Borja Sainz, na ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4RA6V8__v1__HighRes__FblPorLigaRioAvePorto.webp",
+        "title": "Dorival define São Paulo com Victor Sá titular para enfrentar o Coritiba; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-escalacoes-brasileirao-15-08-2026/",
+        "summary": "O São Paulo está escalado para enfrentar o Coritiba na noite deste sábado, em duelo válido pela 23ª rodada do Campeonato Brasileiro. A bola rola a partir das 21h (de Brasília), no Estádio do Morumbis, na capital paulista",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/escalacao-sao-paulo.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Uberlândia bate o CSA fora de casa e conquista acesso à Série C",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/uberlandia-bate-o-csa-fora-de-casa-e-conquista-acesso-a-serie-c/",
-        "summary": "O Uberlândia confirmou o acesso à Série C ao vencer o CSA por 2 a 0, neste sábado, no Estádio Rei Pelé, em Maceió, pelo jogo de volta das quartas de final da Série D. Da Silva e Max Miller marcaram os gols da equipe mine",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-15-at-19.04.57.webp",
+        "title": "Veja fotos do duelo entre Athletico-PR e RB Bragantino pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/veja-fotos-do-duelo-entre-athletico-pr-e-rb-bragantino-pelo-brasileirao/",
+        "summary": "Veja uma galeria de fotos da partida entre Athletico-PR e Red Bull Bragantino, pela 23ª rodada do Brasileirão, na Arena da Baixada. O post Veja fotos do duelo entre Athletico-PR e RB Bragantino pelo Brasileirão apareceu ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466256386_5bc43be296_o.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Fluminense 3 x 2 Palmeiras pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fluminense-3-x-2-palmeiras-pelo-brasileirao/",
-        "summary": "Melhores momentos: Fluminense 3 x 2 Palmeiras pelo Brasileirão O post Melhores momentos: Fluminense 3 x 2 Palmeiras pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466157473_cb842ff803_o.webp",
+        "title": "Ex-Santos, Ângelo pega de primeira e marca o primeiro gol do Al-Nassr na temporada; veja o lance",
+        "link": "https://www.gazetaesportiva.com/times/santos/ex-santos-angelo-pega-de-primeira-e-marca-o-primeiro-gol-do-al-nassr-na-temporada-veja-o-lance/",
+        "summary": "Ângelo pega de primeira e marca o primeiro gol do Al-Nassr na temporada; veja o lance O post Ex-Santos, Ângelo pega de primeira e marca o primeiro gol do Al-Nassr na temporada; veja o lance apareceu primeiro em Gazeta Es",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Ange.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Djokovic cai em sua estreia na 2ª rodada do Masters 1000 de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/djokovic-cai-em-sua-estreia-na-2a-rodada-do-masters-1000-de-cincinnati/",
-        "summary": "Novak Djokovic foi surpreendido e eliminado em sua estreia no Masters 1000 de Cincinnati ao perder para o argentino Thiago Tirante por 2 sets a 1, com parciais de 2-6, 6-4 e 6-4. O sérvio, de 39 anos, enfrentou problemas",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__2290620086__v1__HighRes__CincinnatiOpen2026Day5.webp",
+        "title": "Mirassol x Flamengo: veja prováveis escalações e onde assistir ao duelo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/mirassol-x-flamengo-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pelo-brasileirao/",
+        "summary": "Flamengo e Mirassol se enfrentam neste domingo, às 18h30, no Estádio Maião, em Mirassol, pela 23ª rodada do Campeonato Brasileiro. A partida terá transmissão do Premiere. O Flamengo chega embalado pela vitória sobre o Vi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPnxbXkXIAAwJ9I.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sosa sente problema muscular e pode desfalcar Palmeiras contra o Cerro Porteño",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/sosa-sente-problema-muscular-e-pode-desfalcar-palmeiras-contra-o-cerro-porteno/",
-        "summary": "O Palmeiras ganhou uma preocupação durante a derrota de virada para o Fluminense neste sábado. O atacante Ramón Sosa, que iniciou a partida no banco de reservas, sentiu dores musculares depois de entrar em campo e teve q",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5965.webp",
+        "title": "América-MG x Athletic: veja prováveis escalações e onde assistir ao jogo pela Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/america-mg-x-athletic-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
+        "summary": "Neste domingo, América-MG e Athletic se enfrentam pela 22ª rodada da Série B do Campeonato Brasileiro. O jogo será realizado na Arena Independência, em Belo Horizonte (MG), a partir das 18h30 (de Brasília). O post Améric",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-Tela-2026-08-14-as-18.44.25.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Udinese vence Padova e avança para a fase de 16 avos de final da Copa da Itália",
-        "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/udinese-vence-padova-e-avanca-para-a-fase-de-16-avos-de-final-da-copa-da-italia/",
-        "summary": "A Udinese venceu o Padova por 1 a 0 neste sábado, no Bluenergy Stadium, em Udine, e avançou aos 16 avos de final da Copa da Itália. O gol da classificação foi marcado por Keinan Davis, aos 35 minutos do primeiro tempo. O",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AP2_7139-2.jpg.jpeg.webp",
+        "title": "Corinthians x Cruzeiro pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-x-cruzeiro-pelo-campeonato-brasileiro-veja-provaveis-escalacoes-e-onde-assistir/",
+        "summary": "Confira prováveis escalações e onde assistir ao duelo entre Corinthians e Cruzeiro, pela 23ª rodada do Campeonato Brasileiro. O post Corinthians x Cruzeiro pelo Campeonato Brasileiro: veja prováveis escalações e onde ass",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/02/55115505417_587066cbc9_o.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +247,46 @@
         "cls": ""
       },
       {
+        "title": "Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações",
+        "link": "https://www.infomoney.com.br/mercados/vivara-diz-que-fundos-sob-gestao-da-guepardo-investimentos-compraram-acoes/",
+        "summary": "De acordo com a empresa, a Guepardo informou que a referida participação não tem por escopo a aquisição do controle da companhia The post Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações appeare",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/12/5a6a1f71d882f.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Catar nega estar detendo pilotos iranianos",
+        "link": "https://www.infomoney.com.br/mundo/catar-nega-estar-detendo-pilotos-iranianos/",
+        "summary": "O porta-voz afirmou que Teerã ainda não respondeu ao convite para analisar detalhes de suas operações The post Catar nega estar detendo pilotos iranianos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-02-28T144235Z_1199751289_RC22VJAWFIG5_RTRMADP_3_IRAN-CRISIS-QATAR_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Arthur Lira registra candidatura ao Senado e declara triplo de patrimônio de 2022",
+        "link": "https://www.infomoney.com.br/politica/arthur-lira-registra-candidatura-ao-senado-e-declara-triplo-de-patrimonio-de-2022/",
+        "summary": "Na declaração de bens, Lira registrou um patrimônio de R$ 25 milhões The post Arthur Lira registra candidatura ao Senado e declara triplo de patrimônio de 2022 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/2024-12-19T201106Z_1793794236_RC2ISBAP2RQ4_RTRMADP_3_BRAZIL-ECONOMY-CONGRESS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Nvidia planeja investir US$ 3 bi em acordo para centro de dados da OpenAI, diz jornal",
+        "link": "https://www.infomoney.com.br/mercados/nvidia-planeja-investir-us-3-bi-em-acordo-para-centro-de-dados-da-openai-diz-jornal/",
+        "summary": "De acordo com o The Information, a Nvidia discutiu a possibilidade de investir metade dos US$3 bilhões quando o acordo para o projeto em Ohio for assinado The post Nvidia planeja investir US$ 3 bi em acordo para centro d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Pedreiros encontram R$ 54 mi em moedas e barras de ouro em parede de casa na Bélgica",
         "link": "https://www.infomoney.com.br/mundo/pedreiros-encontram-r-54-mi-em-moedas-e-barras-de-ouro-em-parede-de-casa-na-belgica/",
         "summary": "Operários descobriram barras e moedas de ouro avaliadas em cerca de € 9 milhões durante uma reforma; autoridades investigam a origem da fortuna The post Pedreiros encontram R$ 54 mi em moedas e barras de ouro em parede d",
@@ -327,44 +307,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Departamento de Estado dos EUA revoga 750 vistos contra turismo de nascimento",
-        "link": "https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
-        "summary": "O presidente dos Estados Unidos, Donald Trump, assinou, no dia 6 de agosto, uma medida declarando combate à prática, o que teria acelerado a revogação dos documentos, de acordo com o porta-voz The post Departamento de Es",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-03T194901Z_1_LYNXMPEM721KG_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Fluminense vira contra o Palmeiras no Maracanã em jogo pelo Brasileirão",
+        "link": "https://exame.com/esporte/fluminense-vira-contra-o-palmeiras-no-maracana-em-jogo-pelo-brasileirao/",
+        "summary": "Equipe carioca marcou aos 46 minutos do segundo tempo no Maracanã e reduziu impacto da derrota sobre a disputa pela liderança",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Novak Djokovic perde de 50º do mundo após mal estar",
-        "link": "https://www.infomoney.com.br/esportes/novak-djokovic-perde-de-50o-do-mundo-apos-mal-estar/",
-        "summary": "Após dominar o primeiro set e vencer o primeiro set com relativa facilidade, Djokovic demonstrou mal estar no início da segunda parcial The post Novak Djokovic perde de 50º do mundo após mal estar appeared first on InfoM",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-31T220349Z_1107252308_UP1EL5V1JTS1V_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Casas Bahia (BHIA3) volta a adiar divulgação do balanço do segundo trimestre",
-        "link": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-volta-a-adiar-divulgacao-do-balanco-do-segundo-trimestre/",
-        "summary": "A previsão atual é que o resultado saia na segunda-feira (17) pela manhã The post Casas Bahia (BHIA3) volta a adiar divulgação do balanço do segundo trimestre appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Sede-Casas-Bahia-1.jpg?fit=300%2C187&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "São Paulo x Coritiba: Onde assistir?",
-        "link": "https://www.infomoney.com.br/esportes/sao-paulo-coritiba-onde-assistir/",
-        "summary": "Os times se enfrentam na casa do São Paulo The post São Paulo x Coritiba: Onde assistir? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-sao-paulo-x-coritiba.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Trump pode ter 3º mandato em 2028? Entenda o que diz a Constituição dos EUA",
@@ -410,16 +360,6 @@
         "title": "Honda lança Biz Kuromi, edição especial inspirada em personagem da Sanrio",
         "link": "https://exame.com/casual/honda-lanca-biz-kuromi-edicao-especial-inspirada-em-personagem-da-sanrio/",
         "summary": "Ideia nasceu de duas motos conceito exibidas pela marca na CCXP, em São Paulo, no fim de 2025",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "US$ 17 bilhões em ações do Google: o que Buffett está comprando na bolsa em 2026",
-        "link": "https://exame.com/invest/mercados/us-17-bilhoes-em-acoes-do-google-o-que-buffett-esta-comprando-na-bolsa-em-2026/",
-        "summary": "Conglomerado de Warren Buffett tornou a Alphabet sua terceira maior posição em ações; fundo também voltou a comprar Delta e reduziu exposição a bancos",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
