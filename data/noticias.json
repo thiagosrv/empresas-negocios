@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-15T21:24:40.541Z",
+  "updated": "2026-08-15T22:25:58.381Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "15 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Madeireira que pegou fogo e atingiu lojas vizinhas não tem alvará, diz Prefeitura",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/madeireira-que-pegou-fogo-e-atingiu-lojas-vizinhas-nao-tinha-alvara-diz-prefeitura.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/casal-e-preso-suspeito-de-furtar-carga-de-doces-em-indaiatuba.ghtml",
         "summary": "Casal é preso suspeito de furtar carga de doces avaliada em R$ 29 mil em Indaiatuba Guarda Municipal de Indaiatuba/Divulgação Um casal foi preso na noite desta sexta-feira (14), em Indaiatuba (SP), suspeito de furtar uma",
         "image": "https://s2-g1.glbimg.com/0TrHMjOfyv-mEqO7GFHTrIzN5bc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/xaAjLZT6u79eB6w4Z9Hw/design-sem-nome-9-.png",
-        "date": "15 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Carnaval 2027: Jaguariúna vira tema de enredo no grupo especial de SP, e escola faz apresentação na cidade",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/jaguariuna-vira-tema-enredo-carnaval-2027-escola-faz-apresentacao-gratuita-cidade.ghtml",
-        "summary": "Império de Casa Verde irá homenagear Jaguariúna no Carnaval 2027 Império de Casa Verde A cidade de Jaguariúna (SP) será tema do desfile da escola de samba Império de Casa Verde no Carnaval de 2027, no Sambódromo do Anhem",
-        "image": "https://s2-g1.glbimg.com/-jvnTrY3-GDeiO45T7vFiE81Cdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/JY3pJ4TjeLYDDAlnz27w/whatsapp-image-2026-08-13-at-19.53.42.jpeg",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,29 @@
         "cls": "servicos"
       },
       {
-        "title": "Prédio desaba em São Bernardo do Campo e deixa cinco feridos",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/predio-desaba-em-sao-bernardo-do-campo-e-deixa-quatro-feridos",
-        "summary": "p strong Um prédio residencial, em São Bernardo do Campo, na Grande São Paulo, desabou neste sábado (15) e deixou cinco pessoas sob os escombros – entre elas uma adolescente de 15 anos. /strong img src= https://agenciabr",
+        "title": "Publicação lembra 50 anos do atentado à sede da ABI na ditadura",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Agência Brasil",
@@ -143,39 +163,19 @@
         "cls": "brasil"
       },
       {
+        "title": "Prédio desaba em São Bernardo do Campo e deixa cinco feridos",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/predio-desaba-em-sao-bernardo-do-campo-e-deixa-quatro-feridos",
+        "summary": "p strong Um prédio residencial, em São Bernardo do Campo, na Grande São Paulo, desabou neste sábado (15) e deixou cinco pessoas sob os escombros – entre elas uma adolescente de 15 anos. /strong img src= https://agenciabr",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ginastica-ritmica-brasil-e-bronze-e-garante-vaga-em-los-angeles-2028",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ginastica-ritmica-brasil-e-bronze-e-garante-vaga-em-los-angeles-2028 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-imersiva-celebra-140-anos-de-nascimento-de-tarsila-do-amaral",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-imersiva-celebra-140-anos-de-nascimento-de-tarsila-do-amaral img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Terremoto na Indonésia deixa pelo menos 47 mortos",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-khaleej-pela-liga-saudita/",
-        "summary": "Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita O post Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Taawo.webp",
+        "title": "Porto vence Rio Ave e segue 100% no Português",
+        "link": "https://www.gazetaesportiva.com/times/porto/porto-vence-rio-ave-e-lidera-campeonato-portugues/",
+        "summary": "O Porto venceu o Rio Ave por 2 a 0 neste sábado (15), no Estádio do Rio Ave FC, pela segunda rodada do Campeonato Português. Os gols da partida foram marcados por Nehuén Pérez, ainda no primeiro tempo, e Borja Sainz, na ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4RA6V8__v1__HighRes__FblPorLigaRioAvePorto.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vila Nova bate Atlético-GO e assume terceira posição na Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-vence-atletico-go-e-entra-no-g4-da-serie-b/",
-        "summary": "O Vila Nova venceu o Atlético-GO por 2 a 0 neste sábado, no Estádio Antônio Accioly, pela 22ª rodada da Série B. João Vieira e Dudu dos Santos marcaram os gols da vitória, que levou o Vila Nova aos 37 pontos e à terceira",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/07/54638214253_a047b3e12e_k.webp",
+        "title": "Uberlândia bate o CSA fora de casa e conquista acesso à Série C",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/uberlandia-bate-o-csa-fora-de-casa-e-conquista-acesso-a-serie-c/",
+        "summary": "O Uberlândia confirmou o acesso à Série C ao vencer o CSA por 2 a 0, neste sábado, no Estádio Rei Pelé, em Maceió, pelo jogo de volta das quartas de final da Série D. Da Silva e Max Miller marcaram os gols da equipe mine",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-15-at-19.04.57.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Criciúma vence Goiás em casa e segue na liderança do Brasileirão Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-goias-em-casa-e-segue-na-lideranca-do-brasileirao-serie-b/",
-        "summary": "O Criciúma venceu o Goiás por 1 a 0 neste sábado, no Estádio Heriberto Hulse, pela Série B do Brasileirão. O único gol da partida foi marcado por Luciano Castán, de cabeça, aos cinco minutos do primeiro tempo, aproveitan",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/2725-21187.webp",
+        "title": "Melhores momentos: Fluminense 3 x 2 Palmeiras pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fluminense-3-x-2-palmeiras-pelo-brasileirao/",
+        "summary": "Melhores momentos: Fluminense 3 x 2 Palmeiras pelo Brasileirão O post Melhores momentos: Fluminense 3 x 2 Palmeiras pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466157473_cb842ff803_o.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Greuther Furth 2 x 4 Nurnberg pela Segunda Divisão da Bundesliga",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-greuther-furth-2-x-4-nurnberg-pela-segunda-divisao-da-bundesliga/",
-        "summary": "Melhores momentos: Greuther Furth 2 x 4 Nurnberg pela Segunda Divisão da Bundesliga O post Melhores momentos: Greuther Furth 2 x 4 Nurnberg pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Greuthe.webp",
+        "title": "Djokovic cai em sua estreia na 2ª rodada do Masters 1000 de Cincinnati",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/djokovic-cai-em-sua-estreia-na-2a-rodada-do-masters-1000-de-cincinnati/",
+        "summary": "Novak Djokovic foi surpreendido e eliminado em sua estreia no Masters 1000 de Cincinnati ao perder para o argentino Thiago Tirante por 2 sets a 1, com parciais de 2-6, 6-4 e 6-4. O sérvio, de 39 anos, enfrentou problemas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__2290620086__v1__HighRes__CincinnatiOpen2026Day5.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do duelo entre Fluminense e Palmeiras pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-duelo-entre-fluminense-e-palmeiras-pelo-brasileirao/",
-        "summary": "O post Veja fotos do duelo entre Fluminense e Palmeiras pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465038747_f2d971d0fe_o.webp",
+        "title": "Sosa sente problema muscular e pode desfalcar Palmeiras contra o Cerro Porteño",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/sosa-sente-problema-muscular-e-pode-desfalcar-palmeiras-contra-o-cerro-porteno/",
+        "summary": "O Palmeiras ganhou uma preocupação durante a derrota de virada para o Fluminense neste sábado. O atacante Ramón Sosa, que iniciou a partida no banco de reservas, sentiu dores musculares depois de entrar em campo e teve q",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5965.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: VfL Osnabruck 0 x 3 Magdeburg pela Segunda Divisão da Bundesliga",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vfl-osnabruck-0-x-3-magdeburg-pela-segunda-divisao-da-bundesliga/",
-        "summary": "Melhores momentos: VfL Osnabruck 0 x 3 Magdeburg pela Segunda Divisão da Bundesliga O post Melhores momentos: VfL Osnabruck 0 x 3 Magdeburg pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/VfL-Osna.webp",
+        "title": "Udinese vence Padova e avança para a fase de 16 avos de final da Copa da Itália",
+        "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/udinese-vence-padova-e-avanca-para-a-fase-de-16-avos-de-final-da-copa-da-italia/",
+        "summary": "A Udinese venceu o Padova por 1 a 0 neste sábado, no Bluenergy Stadium, em Udine, e avançou aos 16 avos de final da Copa da Itália. O gol da classificação foi marcado por Keinan Davis, aos 35 minutos do primeiro tempo. O",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AP2_7139-2.jpg.jpeg.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Pedreiros encontram R$ 54 mi em moedas e barras de ouro em parede de casa na Bélgica",
+        "link": "https://www.infomoney.com.br/mundo/pedreiros-encontram-r-54-mi-em-moedas-e-barras-de-ouro-em-parede-de-casa-na-belgica/",
+        "summary": "Operários descobriram barras e moedas de ouro avaliadas em cerca de € 9 milhões durante uma reforma; autoridades investigam a origem da fortuna The post Pedreiros encontram R$ 54 mi em moedas e barras de ouro em parede d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-04-27T105037Z_543767256_RC271KAMUHOE_RTRMADP_3_METALS-PRECIOUS-GOLD-POLL.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo/",
+        "summary": "Apostas podem ser feitas até às 22h deste sábado The post Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/20230622_182547.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Departamento de Estado dos EUA revoga 750 vistos contra turismo de nascimento",
+        "link": "https://www.infomoney.com.br/mundo/departamento-de-estado-dos-eua-revoga-750-vistos-contra-turismo-de-nascimento/",
+        "summary": "O presidente dos Estados Unidos, Donald Trump, assinou, no dia 6 de agosto, uma medida declarando combate à prática, o que teria acelerado a revogação dos documentos, de acordo com o porta-voz The post Departamento de Es",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-03T194901Z_1_LYNXMPEM721KG_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Novak Djokovic perde de 50º do mundo após mal estar",
+        "link": "https://www.infomoney.com.br/esportes/novak-djokovic-perde-de-50o-do-mundo-apos-mal-estar/",
+        "summary": "Após dominar o primeiro set e vencer o primeiro set com relativa facilidade, Djokovic demonstrou mal estar no início da segunda parcial The post Novak Djokovic perde de 50º do mundo após mal estar appeared first on InfoM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-31T220349Z_1107252308_UP1EL5V1JTS1V_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Casas Bahia (BHIA3) volta a adiar divulgação do balanço do segundo trimestre",
         "link": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-volta-a-adiar-divulgacao-do-balanco-do-segundo-trimestre/",
         "summary": "A previsão atual é que o resultado saia na segunda-feira (17) pela manhã The post Casas Bahia (BHIA3) volta a adiar divulgação do balanço do segundo trimestre appeared first on InfoMoney.",
@@ -327,44 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história",
-        "link": "https://www.infomoney.com.br/mundo/furacao-avanca-sobre-havai-e-pode-atingir-ilha-diretamente-pela-1a-vez-na-historia/",
-        "summary": "Lala alcançou a categoria 1, e autoridades alertam para ventos destrutivos, enchentes e deslizamentos The post Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/furacao-lala-havai-eua-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Trump pode ter 3º mandato em 2028? Entenda o que diz a Constituição dos EUA",
+        "link": "https://exame.com/mundo/trump-pode-ter-3o-mandato-em-2028-entenda-o-que-diz-a-constituicao-dos-eua/",
+        "summary": "Presidente compartilhou imagem com as frases 'Trump 2028' e 'Nós vamos vencer' em rede social, mas lei americana proíbe a candidatura",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "EUA anunciam mais US$ 11 milhões em ajuda à Colômbia após terremoto",
-        "link": "https://www.infomoney.com.br/mundo/eua-anunciam-mais-us-11-milhoes-em-ajuda-a-colombia-apos-terremoto/",
-        "summary": "A nota afirma ainda que o Departamento de Estado vai usar apoio do Comando Sul (Southcom) para transportar suprimentos do armazém de pré-posicionamento em Miami para a Colômbia The post EUA anunciam mais US$ 11 milhões e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T202149Z_1195415733_RC2MVMAHPQAA_RTRMADP_3_COLOMBIA-QUAKE.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+        "title": "Fim à lâmpada branca? Geração Z quer levar luz baixa até aos escritórios",
+        "link": "https://exame.com/pop/fim-a-lampada-branca-geracao-z-quer-levar-luz-baixa-ate-aos-escritorios/",
+        "summary": "Funcionários mais jovens reclamam de luzes fortes em escritórios, enquanto empresas tentam equilibrar conforto, produtividade e preferências individuais",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Homem é alvo da Polícia após ameaça com faca a Flávio na cidade onde pai foi atacado",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-e-alvo-de-ameaca-antes-de-agenda-na-cidade-onde-pai-sofreu-atentado/",
-        "summary": "Polícia Legislativa identificou publicação contra o candidato nas redes sociais; investigado mora a cerca de 400 metros do local previsto para ato de campanha The post Homem é alvo da Polícia após ameaça com faca a Flávi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-25T165535Z_326902380_RC24LMAT6HCH_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "PSG anuncia contratação do herói da final da Copa do Mundo",
+        "link": "https://exame.com/esporte/psg-anuncia-contratacao-do-heroi-da-final-da-copa-do-mundo/",
+        "summary": "Ferran Torres deixa o Barcelona e assina contrato com o clube francês até 2031",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Times esportivos ficaram tão caros que bilionários estão se unindo para comprá-los",
-        "link": "https://www.infomoney.com.br/business/global/times-esportivos-ficaram-tao-caros-que-bilionarios-estao-se-unindo-para-compra-los/",
-        "summary": "Franquias de NBA, NFL e outros esportes acumulam avaliações recordes, impulsionadas por direitos de transmissão, apostas e pelo apetite de grandes investidores The post Times esportivos ficaram tão caros que bilionários ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Los-Angeles-Lakers-nba-LeBron-James-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Presidente da Colômbia pede suspensão de tarifas dos EUA após terremoto",
+        "link": "https://exame.com/mundo/presidente-da-colombia-pede-suspensao-de-tarifas-dos-eua-apos-terremoto/",
+        "summary": "Abelardo de la Espriella solicitou a Trump uma pausa nas medidas comerciais para reduzir pressão sobre empresas afetadas pelo desastre",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Honda lança Biz Kuromi, edição especial inspirada em personagem da Sanrio",
@@ -380,46 +420,6 @@
         "title": "US$ 17 bilhões em ações do Google: o que Buffett está comprando na bolsa em 2026",
         "link": "https://exame.com/invest/mercados/us-17-bilhoes-em-acoes-do-google-o-que-buffett-esta-comprando-na-bolsa-em-2026/",
         "summary": "Conglomerado de Warren Buffett tornou a Alphabet sua terceira maior posição em ações; fundo também voltou a comprar Delta e reduziu exposição a bancos",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quanto eu teria tivesse investido R$ 10 mil em ações do Banco do Brasil há 20 anos",
-        "link": "https://exame.com/invest/onde-investir/quanto-eu-teria-tivesse-investido-r-10-mil-em-acoes-do-banco-do-brasil-ha-20-anos/",
-        "summary": "A ação do banco estatal acumulou retorno de 874% em duas décadas, transformando R$ 10 mil em quase R$ 100 mil, considerando proventos",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "IA demite funcionário pela primeira vez em loja administrada por robô em São Francisco",
-        "link": "https://exame.com/inteligencia-artificial/ia-demite-funcionario-pela-primeira-vez-em-loja-administrada-por-robo-em-sao-francisco/",
-        "summary": "Agente de inteligência artificial da Andon Market criou políticas internas, acompanhou desempenho de funcionário e recomendou desligamento após atrasos recorrentes",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ataques de drones pressionam Rússia enquanto Putin rejeita cessar-fogo",
-        "link": "https://exame.com/mundo/ataques-de-drones-pressionam-russia-enquanto-putin-rejeita-cessar-fogo/",
-        "summary": "Governo mantém a posição de que não haverá cessar-fogo antes de um acordo considerado “duradouro e confiável”",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Israel acusa Hezbollah de romper cessar-fogo após ataque que deixou três soldados feridos",
-        "link": "https://exame.com/mundo/israel-acusa-hezbollah-de-romper-cessar-fogo-apos-ataque-que-deixou-tres-soldados-feridos/",
-        "summary": "Exército israelense diz ter atingido quartel do Hezbollah no sul do Líbano; bombardeios deixaram ao menos 11 mortos, segundo autoridades libanesas",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
