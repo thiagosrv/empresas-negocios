@@ -1,22 +1,12 @@
 {
-  "updated": "2026-08-15T15:25:00.255Z",
+  "updated": "2026-08-15T16:29:33.117Z",
   "feeds": {
     "campinas": [
       {
-        "title": "VÍDEO: incêndio atinge barracão em Campinas",
+        "title": "VÍDEO: incêndio atinge barracão com estoque de madeira em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/video-incendio-atinge-barracao-em-campinas.ghtml",
-        "summary": "VÍDEO: incêndio atinge barracão em Campinas Um incêndio atingiu um barracão na Estrada da Rhodia, no distrito de Barão Geraldo em Campinas (SP), na manhã deste sábado (15). Imagens mostram o imóvel tomado pelas chamas e ",
+        "summary": "VÍDEO: incêndio atinge barracão em Campinas Um incêndio atingiu uma madeireira na Estrada da Rhodia, no distrito de Barão Geraldo, em Campinas (SP), na manhã deste sábado (15). O barracão tinha estoque de madeira. Imagen",
         "image": "https://s2-g1.glbimg.com/yNJgrJbMEohwk2V2e9af8IvPbHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/bXkNfWRQGEjTfqe3NG7Q/design-sem-nome-8-.jpg",
-        "date": "15 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -57,6 +47,16 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/08/15/desigualdade-e-perda-de-aprendizagem-o-que-o-ideb-diz-sobre-a-educacao-publica-de-campinas.ghtml",
         "summary": "Desigualdade e perda de aprendizagem: o que o Ideb diz sobre a educação de Campinas O Índice de Desenvolvimento da Educação Básica (Ideb) 2025 aponta um cenário de contrastes na educação pública de Campinas (SP), com des",
         "image": "https://s2-g1.glbimg.com/UQYzc_qW_B-dOEfrRRReU0Ormic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/g/oHad9qQHuqjiotxebrYw/crianca-segura-lapis.jpg",
+        "date": "15 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "'CALMA': cidade do interior de SP adota sinalização educativa após série de acidentes em rodovia",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/calma-cidade-do-interior-de-sp-adota-sinalizacao-educativa-apos-serie-de-acidentes-em-rodovia.ghtml",
+        "summary": "Mogi Mirim (SP) adota sinalização educativa em rodovia municipal e pinta a palavra \"CALMA\" no asfalto após série de acidentes no trecho Reprodução/Prefeitura de Mogi Mirim \"CALMA\". O aviso pintado no asfalto em letras ga",
+        "image": "https://s2-g1.glbimg.com/mULvCgAwWrPNlhI5Rr2SQDO2TDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Y/NpwHZIRfOrmyrOVWyL5w/design-sem-nome-2026-08-14t205855.352.jpg",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Terremoto na Indonésia deixa pelo menos 47 mortos",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum",
         "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -171,19 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "PF prende no Rio suspeito de golpe que fez idosa perder R$ 37 milhões",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pf-prende-no-rio-suspeito-de-golpe-que-fez-idosa-perder-r-37-milhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pf-prende-no-rio-suspeito-de-golpe-que-fez-idosa-perder-r-37-milhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Benzema cobra pênalti com categoria para abrir vitória do Al-Hilal; confira o lance",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/benzema-cobra-penalti-com-categoria-para-abrir-vitoria-do-al-hilal-confira-o-lance/",
+        "summary": "Benzema cobra pênalti com categoria para abrir vitória do Al-Hilal; confira o lance O post Benzema cobra pênalti com categoria para abrir vitória do Al-Hilal; confira o lance apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Benze.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Sosa projeta final contra o Santos em sua possível estreia pelo Vasco",
+        "link": "https://www.gazetaesportiva.com/times/vasco/sosa-projeta-final-contra-o-santos-em-sua-possivel-estreia-pelo-vasco/",
+        "summary": "Sosa projeta 'final' contra o Santos em sua possível estreia pelo Vasco O post Sosa projeta final contra o Santos em sua possível estreia pelo Vasco apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Sosa.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos do amistoso entre Manchester United e Milan",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/veja-fotos-do-amistoso-entre-manchester-united-e-milan/",
+        "summary": "Veja uma galeria de fotos do amistoso entre Manchester United e Milan. O post Veja fotos do amistoso entre Manchester United e Milan apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QR8KC__v2__MidRes__FblFriendlyManUtdAcMilan.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Bayern vence RB Leipzig e encerra pré-temporada com três vitórias",
+        "link": "https://www.gazetaesportiva.com/times/bayern/bayern-vence-rb-leipzig-e-encerra-pre-temporada-com-tres-vitorias/",
+        "summary": "Confira os detalhes do amistoso entre Bayern de Munique e RB Leipzig. O post Bayern vence RB Leipzig e encerra pré-temporada com três vitórias apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPxHyxhXIAA-eYs.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Colidio destaca projeto ambicioso e quer Vasco de volta aos títulos",
         "link": "https://www.gazetaesportiva.com/times/vasco/colidio-destaca-projeto-ambicioso-e-quer-vasco-de-volta-aos-titulos/",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-neom-2-x-1-al-fayha-pela-liga-saudita-2/",
         "summary": "Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita O post Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/NEO.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Sem Endrick, Real Madrid divulga relacionados para último amistoso da pré-temporada",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/sem-endrick-real-madrid-divulga-relacionados-para-ultimo-amistoso-da-pre-temporada/",
-        "summary": "O Real Madrid divulgou neste sábado a lista dos atletas relacionados para o amistoso contra o Schalke 04, que marca o fim da pré-temporada para a equipe de José Mourinho. A bola rola neste domingo, às 12h (de Brasília), ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260808__C49G44N__v1__MidRes__FblFriendlyFerencvarosRealMadrid.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/benrahma-marca-de-carrinho-para-ampliar-a-vantagem-do-neom-contra-o-al-fayha-confira/",
-        "summary": "Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira O post Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Benrah.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "De cabeça, Hugo Moura marca na estreia com derrota do Al-Fayha; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/de-cabeca-hugo-moura-marca-na-estreia-com-derrota-do-al-fayha-veja-o-lance/",
-        "summary": "De cabeça, Hugo Moura marca na estreia com derrota do Al-Fayha; veja o lance O post De cabeça, Hugo Moura marca na estreia com derrota do Al-Fayha; veja o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Hugo-Mour.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "João Pedro marca dois, e Chelsea vence Real Sociedad em último amistoso de pré-temporada",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/joao-pedro-marca-dois-e-chelsea-vence-real-sociedad-em-ultimo-amistoso-de-pre-temporada/",
-        "summary": "Confira detalhes do amistoso entre Chelsea e Real Sociedad. O post João Pedro marca dois, e Chelsea vence Real Sociedad em último amistoso de pré-temporada apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QP2EY__v1__MidRes__776540534.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
+        "title": "Maior avião elétrico já testado faz 1º voo gastando US$ 5 em energia; veja fotos",
+        "link": "https://www.infomoney.com.br/business/maior-aviao-eletrico-ja-testado-faz-1o-voo-gastando-us-5-em-energia-veja-fotos/",
+        "summary": "Demonstrador voou por 27 minutos em Nova York e serve de base para novo modelo híbrido-elétrico que Heart Aerospace pretende colocar em serviço em 2031 The post Maior avião elétrico já testado faz 1º voo gastando US$ 5 e",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/aviao-eletrico-Heart-Aerospace-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Demissões, menos lojas e adiamento de balanço: o que acontece com a Casas Bahia?",
+        "link": "https://www.infomoney.com.br/mercados/demissoes-fechamento-de-lojas-e-adiamento-de-balanco-o-que-acontece-a-casas-bahia/",
+        "summary": "A empresa planejou neste mês corte de 30% da base de funcionários, segundo jornal The post Demissões, menos lojas e adiamento de balanço: o que acontece com a Casas Bahia? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-08-at-17.52.34.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fluminense x Palmeiras: Onde assistir?",
+        "link": "https://www.infomoney.com.br/esportes/fluminense-palmeiras-onde-assistir-2/",
+        "summary": "O quarto colocado e o líder do Campeonato Brasileiro se enfrentam em campo The post Fluminense x Palmeiras: Onde assistir? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-fluminense-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Marrocos barra nova tentativa de invasão em massa de migrantes rumo à Espanha",
+        "link": "https://www.infomoney.com.br/mundo/marrocos-barra-nova-tentativa-de-invasao-em-massa-de-migrantes-rumo-a-espanha/",
+        "summary": "Mobilização envolveu forças policiais, helicópteros, barcos e armas não letais The post Marrocos barra nova tentativa de invasão em massa de migrantes rumo à Espanha appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/marrocos-ceuta-espanha-imigracao-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Casas Bahia: Sindicato prepara ação coletiva contra demissões, diz jornal",
+        "link": "https://www.infomoney.com.br/mercados/casas-bahia-demissoes-sindicatos/",
+        "summary": "Segundo Folha de S. Paulo, sindicato pedirá reintegração dos funcionários e indenização por danos morais The post Casas Bahia: Sindicato prepara ação coletiva contra demissões, diz jornal appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-23T152550Z_1_LYNXMPEL9M0UC_RTROPTP_4_EMPRESAS-CASAS-BAHIA-ACOES.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica”",
         "link": "https://www.infomoney.com.br/mundo/alberto-fernandez-chama-milei-de-delirante-e-questiona-sua-condicao-psiquiatrica/",
         "summary": "Ex-presidente afirmou que Milei está “afastado da realidade” e contestou o desempenho da economia argentina sob o atual governo The post Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/Milei-recebe-a-faixa.png?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Javier_Milei_y_Alberto_Fernandez1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Europa tem uma das mais fortes temporadas de resultados em anos, ajudada por energia",
-        "link": "https://www.infomoney.com.br/mercados/europa-tem-uma-das-mais-fortes-temporadas-de-resultados-em-anos-ajudada-por-energia/",
-        "summary": "Lubrificado pelos preços do petróleo, o setor de Energia se destacou, registrando um crescimento de 124% no lucro por ação (EPS) e um aumento de 36% nas vendas, diz a FactSet The post Europa tem uma das mais fortes tempo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-03T174603Z_1_LYNXNPEL920SM_RTROPTP_4_BOLSAEUROPA-FECHA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Greve atinge companhia aérea e cancela quase 100 voos em pleno verão europeu",
-        "link": "https://www.infomoney.com.br/mercados/greve-atinge-companhia-aerea-e-cancela-quase-100-voos-em-pleno-verao-europeu/",
-        "summary": "Paralisação por estabilidade de escalas atinge aeroportos de Paris, Nice, Bordeaux e Lyon; empresa diz que ação é “oportunista” e retoma negociação em setembro The post Greve atinge companhia aérea e cancela quase 100 vo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T112408Z_1_LYNXMPEM5L0QZ_RTROPTP_4_EASYJET-M-A-CASTLELAKE.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Romário anuncia saída do PL e apoio à candidatura de Eduardo Paes",
-        "link": "https://www.infomoney.com.br/politica/romario-anuncia-saida-do-pl-e-apoio-a-candidatura-de-eduardo-paes/",
-        "summary": "No Rio de Janeiro, o PL lançou a candidatura do bolsonarista Douglas Ruas (PL), candidato apoiado por Flávio Bolsonaro (PL) The post Romário anuncia saída do PL e apoio à candidatura de Eduardo Paes appeared first on Inf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/romario.jpg?fit=300%2C174&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Após descoberta, Petrobras quer perfurar mais três poços na Foz do Amazonas",
-        "link": "https://www.infomoney.com.br/mercados/apos-descoberta-petrobras-quer-perfurar-mais-3-pocos-na-foz-do-amazonas/",
-        "summary": "\"É uma descoberta, mas ainda não é uma descoberta comercial\", pondera presidente da estatal The post Após descoberta, Petrobras quer perfurar mais três poços na Foz do Amazonas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/2024-09-26T145315Z_1_LYNXMPEK8P0NZ_RTROPTP_4_PETROBRAS-CEO.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real",
-        "link": "https://www.infomoney.com.br/mercados/com-possibilidade-de-vitoria-de-lula-mercado-incorpora-premio-eleitoral-no-real/",
-        "summary": "Analistas indicam que quanto mais as pesquisas consolidarem uma vantagem de Lula, maior tende a ser a volatilidade The post Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real appeared first ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T165330Z_1130482176_RC23TMAJYCSL_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fóssil de 236 milhões de anos pode reescrever a origem dos mamíferos",
-        "link": "https://exame.com/ciencia/fossil-de-236-milhoes-de-anos-pode-reescrever-a-origem-dos-mamiferos/",
-        "summary": "Pesquisadores encontraram sinais de viviparidade em um cinodonte de 236 milhões de anos, o que pode reescrever a evolução dos mamíferos",
+        "title": "James Webb detecta objeto 100 bilhões de vezes mais brilhante que uma estrela",
+        "link": "https://exame.com/ciencia/james-webb-detecta-objeto-100-bilhoes-de-vezes-mais-brilhante-que-uma-estrela/",
+        "summary": "Descoberta pode explicar a origem dos misteriosos 'pequenos pontos vermelhos' observados no Universo primitivo pelo telescópio espacial",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Talibãs comemoram cinco anos no poder no Afeganistão",
-        "link": "https://exame.com/mundo/talibas-comemoram-cinco-anos-no-poder-no-afeganistao/",
-        "summary": "Aniversário do retorno do grupo ao governo é celebrado em Cabul com bandeiras e manifestações",
+        "title": "Após dar palavra a Lula, JHC muda de ideia e sinaliza disputar o governo de Alagoas",
+        "link": "https://exame.com/brasil/apos-dar-palavra-a-lula-jhc-muda-de-ideia-e-sinaliza-disputar-o-governo-de-alagoas/",
+        "summary": "Ex-prefeito de Maceió deve manter candidatura ao Palácio República dos Palmares; desenho da chapa prevê Marina Candia e Arthur Lira na disputa pelas duas vagas ao Senado",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Teerã responde a Trump e diz que Estreito de Ormuz é iraniano",
-        "link": "https://exame.com/mundo/teera-responde-a-trump-e-diz-que-estreito-de-ormuz-e-iraniano/",
-        "summary": "Vice-ministro das Relações Exteriores do Irã afirmou que o estreito continuará sob controle do país",
+        "title": "Cultura da FARM: como a marca brasileira está levando seu jeito de trabalhar para o mundo",
+        "link": "https://exame.com/carreira/cultura-da-farm-como-a-marca-brasileira-esta-levando-seu-jeito-de-trabalhar-para-o-mundo/",
+        "summary": "Em encontro realizado pela EXAME no RJ, presidente e diretora da FARM Rio contam como a empresa pretende ganhar escala internacional sem perder a identidade que marcaram sua história",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Alcolumbre destrava escala 6x1: o que acontece agora?",
-        "link": "https://exame.com/brasil/alcolumbre-destrava-escala-6x1-o-que-acontece-agora/",
-        "summary": "O avanço da tramitação da PEC ocorreu em meio à reaproximação entre o presidente do Senado e Lula; entenda quais são os próximos passos",
+        "title": "‘Criador não é outdoor’, diz creator com 2 milhões de seguidores",
+        "link": "https://exame.com/bussola/criador-nao-e-outdoor-diz-creator-com-2-milhoes-de-seguidores/",
+        "summary": "Antonio Miranda começou nos primórdios da Creator Economy e hoje é um gigante do nicho de ciências",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Não consegue resistir a alimentos gordurosos? A resposta pode estar no cérebro",
-        "link": "https://exame.com/ciencia/nao-consegue-resistir-a-alimentos-gordurosos-a-resposta-pode-estar-no-cerebro/",
-        "summary": "Estudo identificou uma proteína cerebral ligada ao controle do apetite que pode explicar o consumo excessivo de gordura e ajudar no combate à obesidade",
+        "title": "Ucrânia lança quase 600 drones contra território russo",
+        "link": "https://exame.com/mundo/ucrania-lanca-quase-600-drones-contra-territorio-russo/",
+        "summary": "Segundo veículos da imprensa ucraniana, o alvo teria sido a fábrica estatal Progress, que produz foguetes espaciais da família Soyuz",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem é a executiva à frente da estreia da Cadillac no Brasil",
-        "link": "https://exame.com/casual/quem-e-a-executiva-a-frente-da-estreia-da-cadillac-no-brasil/",
-        "summary": "Com 15 anos de experiência no segmento automotivo de luxo, Nancy Serapião conduziu a recente renovação de produtos da Lexus no País",
+        "title": "Número de mortos em terremoto na Colômbia sobe para 294",
+        "link": "https://exame.com/mundo/numero-de-mortos-em-terremoto-na-colombia-sobe-para-294/",
+        "summary": "Balanço das autoridades também aponta 320 desaparecidos e 3.935 feridos após o tremor de magnitude 7,4 registrado na segunda-feira",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
