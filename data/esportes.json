@@ -1,40 +1,7 @@
 {
-  "updated": "2026-08-15T15:34:37.318Z",
+  "updated": "2026-08-15T16:40:30.443Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Atlético de Madrid anuncia a contratação de Cristian Romero",
-      "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-anuncia-a-contratacao-de-cristian-romero/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de ago. de 2026",
-      "isoDate": "2026-08-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
-    },
-    {
-      "title": "Veja fotos do amistoso entre Chelsea e Real Sociedad",
-      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/veja-fotos-do-amistoso-entre-chelsea-e-real-sociedad/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de ago. de 2026",
-      "isoDate": "2026-08-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Manchester United x Milan: siga o placar ao vivo",
-      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/manchester-united-x-milan-15-08-2026/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de ago. de 2026",
-      "isoDate": "2026-08-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
     {
       "title": "João Pedro marca dois, e Chelsea vence Real Sociedad em último amistoso de pré-temporada",
       "link": "https://www.gazetaesportiva.com/times/chelsea/joao-pedro-marca-dois-e-chelsea-vence-real-sociedad-em-ultimo-amistoso-de-pre-temporada/",
@@ -55,7 +22,7 @@
       "isoDate": "2026-08-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira",
@@ -66,7 +33,7 @@
       "isoDate": "2026-08-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Sem Endrick, Real Madrid divulga relacionados para último amistoso da pré-temporada",
@@ -82,6 +49,39 @@
     {
       "title": "Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-neom-2-x-1-al-fayha-pela-liga-saudita-2/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de ago. de 2026",
+      "isoDate": "2026-08-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Bayern vence RB Leipzig e encerra pré-temporada com três vitórias",
+      "link": "https://www.gazetaesportiva.com/times/bayern/bayern-vence-rb-leipzig-e-encerra-pre-temporada-com-tres-vitorias/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de ago. de 2026",
+      "isoDate": "2026-08-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4aa.png"
+    },
+    {
+      "title": "Veja fotos do amistoso entre Manchester United e Milan",
+      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/veja-fotos-do-amistoso-entre-manchester-united-e-milan/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de ago. de 2026",
+      "isoDate": "2026-08-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Benzema cobra pênalti com categoria para abrir vitória do Al-Hilal; confira o lance",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/benzema-cobra-penalti-com-categoria-para-abrir-vitoria-do-al-hilal-confira-o-lance/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "15 de ago. de 2026",
