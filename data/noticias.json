@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T17:23:33.019Z",
+  "updated": "2026-08-15T18:34:43.803Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-imersiva-celebra-140-anos-de-nascimento-de-tarsila-do-amaral",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-imersiva-celebra-140-anos-de-nascimento-de-tarsila-do-amaral img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Terremoto na Indonésia deixa pelo menos 47 mortos",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Prazo para registro de candidaturas às eleições termina neste sábado",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prazo-para-registro-de-candidaturas-eleicoes-termina-neste-sabado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prazo-para-registro-de-candidaturas-eleicoes-termina-neste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Fred manda recado para a Massa Atleticana: Não sei nem explicar o que estou sentindo",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/fred-manda-recado-para-a-massa-atleticana-nao-sei-nem-explicar-o-que-estou-sentindo/",
+        "summary": "Fred manda recado para a Massa: \"Não sei nem explicar o que estou sentindo\" O post Fred manda recado para a Massa Atleticana: Não sei nem explicar o que estou sentindo apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Fred.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Calleri renova com o São Paulo até o fim de 2028; confira",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-renova-com-o-sao-paulo-ate-o-fim-de-2028-confira/",
+        "summary": "Calleri renova com o São Paulo até o fim de 2028; confira O post Calleri renova com o São Paulo até o fim de 2028; confira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPtxroNWUAIWTR6.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Borussia Dortmund e Roma empatam em último amistoso da pré-temporada",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/borussia-dortmund-e-roma-empatam-em-ultimo-amistoso-da-pre-temporada/",
+        "summary": "Confira os detalhes da partida entre Borussia Dortmund e Roma. O post Borussia Dortmund e Roma empatam em último amistoso da pré-temporada apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPxuQe6X0AEHmPs.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Cruzeiro treina para duelo contra o Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-treina-para-duelo-contra-o-corinthians/",
+        "summary": "Cruzeiro treina para duelo contra o Corinthians O post Cruzeiro treina para duelo contra o Corinthians apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Cruze.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Filipe Luís quer convencer no Monaco para se consolidar como técnico na Europa",
+        "link": "https://www.gazetaesportiva.com/times/monaco/filipe-luis-quer-convencer-no-monaco-para-se-consolidar-como-tecnico-na-europa/",
+        "summary": "Filipe Luís assumiu o Monaco com a missão de recolocar o clube entre os protagonistas da Europa após uma temporada marcada pela irregularidade e pelo colapso na reta final do Campeonato Francês. Contratado após o sucesso",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260809__C4A72ND__v1__HighRes__776527817.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Igor Thiago marca duas vezes em goleada do Brentford sobre o Eintracht Frankfurt",
         "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/igor-thiago-marca-duas-vezes-em-goleada-do-brentford-sobre-o-eintracht-frankfurt/",
         "summary": "Igor Thiago foi um dos grandes destaques na goleada do Brentford sobre o Eintracht Frankfurt; confira. O post Igor Thiago marca duas vezes em goleada do Brentford sobre o Eintracht Frankfurt apareceu primeiro em Gazeta E",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPxe4CaWUAIzxEB.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Al Hilal 4 x 2 Al Faisaly pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-hilal-4-x-2-al-faisaly-pela-liga-saudita/",
-        "summary": "Melhores momentos: Al Hilal 4 x 2 Al Faisaly pela Liga Saudita O post Melhores momentos: Al Hilal 4 x 2 Al Faisaly pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Hil.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Ex-Corinthians, Malcom aproveita sobra e gira rápido para marcar na volta do Saudita; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ex-corinthians-malcom-aproveita-sobra-e-gira-rapido-para-marcar-na-volta-do-saudita-veja-o-lance/",
-        "summary": "Ex-Corinthians, Malcom aproveita sobra e gira rápido para marcar na volta do Saudita; veja o lance O post Ex-Corinthians, Malcom aproveita sobra e gira rápido para marcar na volta do Saudita; veja o lance apareceu primei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Malc.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "De volta ao Morumbis, São Paulo divulga parcial de 40 mil ingressos vendidos",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/de-volta-ao-morumbis-sao-paulo-divulga-parcial-de-40-mil-ingressos-vendidos/",
-        "summary": "O São Paulo anunciou, nesta quinta-feira, que mais de 40 mil ingressos já foram vendidos para o embate contra o Coritiba, válido pela 23ª rodada do Campeonato Brasileiro. A bola rola neste sábado, às 21h (de Brasília), e",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/05/54340025943_3faffca384_k.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Brasil conquista bronze no Mundial de ginástica rítmica e se classifica para Olimpíadas de Los Angeles",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/ginastica/brasil-conquista-bronze-no-mundial-de-ginastica-ritmica-e-se-classifica-para-olimpiadas-de-los-angeles/",
-        "summary": "O Brasil conquistou a medalha de bronze na prova geral do Mundial de Ginástica Rítmica e garantiu, de forma inédita, vaga antecipada para os Jogos Olímpicos de Los Angeles 2028. A equipe somou 55,500 pontos, ficando atrá",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SaveClip.App_773981866_18618895987004574_7103025228841646855_n.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Inter de Milão anuncia a contratação de lateral da seleção inglesa",
-        "link": "https://www.gazetaesportiva.com/times/internazionale/inter-de-milao-anuncia-a-contratacao-de-lateral-da-selecao-inglesa/",
-        "summary": "A Inter de Milão anunciou a contratação do lateral-direito Djed Spence em definitivo junto ao Tottenham Hotspur. O inglês de 26 anos assinou contrato até junho de 2031 após passagens por Middlesbrough, Nottingham Forest,",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPxtT37XAAArjuN.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Lula se apequenou em processo , diz Flávio sobre tarifas de reciprocidade contra EUA",
+        "link": "https://www.infomoney.com.br/mercados/lula-se-apequenou-em-processo-diz-flavio-sobre-tarifas-de-reciprocidade-contra-eua/",
+        "summary": "Segundo Flávio, Lula \"está pensando na eleição e não na nossa nação\". The post Lula se apequenou em processo , diz Flávio sobre tarifas de reciprocidade contra EUA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-25T165535Z_326902380_RC24LMAT6HCH_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Herança de Silvio Santos: o que patrimônio de Patrícia Abravanel diz sobre disputa?",
+        "link": "https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-patricia-abravanel-diz-sobre-disputa/",
+        "summary": "Um dos pontos que mais chamou atenção em declaração de patrimônio foi a indicação de dois valores a receber, de cerca de R$ 6,8 milhões e R$ 2,5 milhões, que seriam ligados à disputa sobre imposto de herança The post Her",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/silvia-abravanel-divulgacao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "PCO registra Rui Costa Pimenta ao Planalto com plano de reestatizar Vale e Eletrobras",
         "link": "https://www.infomoney.com.br/politica/pco-registra-rui-costa-pimenta-ao-planalto-com-plano-de-cancelar-privatizacoes/",
         "summary": "Partido também defende o aumento emergencial de salários, redução da jornada de trabalho para 35 horas semanais e revogação das reformas trabalhista e previdenciária The post PCO registra Rui Costa Pimenta ao Planalto co",
@@ -347,79 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Fluminense x Palmeiras: Onde assistir?",
-        "link": "https://www.infomoney.com.br/esportes/fluminense-palmeiras-onde-assistir-2/",
-        "summary": "O quarto colocado e o líder do Campeonato Brasileiro se enfrentam em campo The post Fluminense x Palmeiras: Onde assistir? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-fluminense-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Brasil conquista bronze no Mundial de Ginástica Rítmica e garante vaga para Los Angeles 2028",
+        "link": "https://exame.com/esporte/brasil-conquista-bronze-no-mundial-de-ginastica-ritmica-e-garante-vaga-para-los-angeles-2028/",
+        "summary": "A equipe somou 55,500 pontos e terminou atrás da Espanha e do Japão",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Marrocos barra nova tentativa de invasão em massa de migrantes rumo à Espanha",
-        "link": "https://www.infomoney.com.br/mundo/marrocos-barra-nova-tentativa-de-invasao-em-massa-de-migrantes-rumo-a-espanha/",
-        "summary": "Mobilização envolveu forças policiais, helicópteros, barcos e armas não letais The post Marrocos barra nova tentativa de invasão em massa de migrantes rumo à Espanha appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/marrocos-ceuta-espanha-imigracao-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "São Paulo limita velocidade de bicicletas elétricas e patinetes; veja novas regras",
+        "link": "https://exame.com/brasil/sao-paulo-limita-velocidade-de-bicicletas-eletricas-e-patinetes-veja-novas-regras/",
+        "summary": "Portaria estabelece teto de 20 km/h em ciclovias, reduz velocidade em áreas compartilhadas com pedestres e define onde equipamentos podem circular",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "13º salário do INSS: quem ainda recebe e quem não terá novo pagamento em 2026",
+        "link": "https://exame.com/invest/minhas-financas/13o-salario-do-inss-quem-ainda-recebe-e-quem-nao-tera-novo-pagamento-em-2026/",
+        "summary": "Novos aposentados e pensionistas que passaram a receber benefícios a partir de maio terão direito ao abono entre novembro e dezembro",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Novo 'ritmo cerebral' pode tornar tratamento do Parkinson mais preciso",
+        "link": "https://exame.com/ciencia/novo-ritmo-cerebral-pode-tornar-tratamento-do-parkinson-mais-preciso/",
+        "summary": "Pesquisadores identificaram uma rede que se comunica por um padrão elétrico, abrindo caminho para terapias mais personalizadas",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Paramount diz que recebeu aprovação dos reguladores para fusão com Warner",
+        "link": "https://exame.com/invest/mercados/paramount-diz-que-recebeu-aprovacao-dos-reguladores-para-fusao-com-warner/",
+        "summary": "Companhia afirma que processo liderado pela Califórnia é o último obstáculo para fechar o acordo",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Tiroteio deixa cinco feridos em universidade dos EUA; polícia investiga suspeitos",
         "link": "https://exame.com/mundo/tiroteio-deixa-cinco-feridos-em-universidade-dos-eua-policia-investiga-suspeitos/",
         "summary": "Ataque ocorreu durante a madrugada no campus da Virginia State University; uma vítima está em estado crítico e investigação segue em andamento",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Nvidia revela fatia de US$ 21 bi na SpaceX e US$ 30 bi na Intel",
-        "link": "https://exame.com/invest/mercados/nvidia-revela-fatia-de-us-21-bi-na-spacex-e-us-30-bi-na-intel/",
-        "summary": "Documento regulatório divulgado nesta sexta-feira, 14, traz, pela primeira vez, a participação da fabricante de chips na empresa de Elon Musk",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Check-in do Bem: Wellhub e Gerando Falcões transformam treino em impacto social",
-        "link": "https://exame.com/esg/check-in-do-bem-wellhub-e-gerando-falcoes-transformam-treino-em-impacto-social/",
-        "summary": "Quem for à academia no dia 29 de agosto pela plataforma de bem-estar corporativo vai destinar R$ 1 contra a pobreza: \"Cuidar de si também pode ser cuidar do próximo\", destaca CEO à EXAME",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Frozen 3: em cena inédita, Disney mostra nova vilã da animação; assista",
-        "link": "https://exame.com/pop/frozen-3-em-cena-inedita-disney-mostra-nova-vila-da-animacao-assista/",
-        "summary": "Terceiro filme da franquia estreia em 25 de novembro de 2027 e um quarto longa já está em produção",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Marrocos impede entrada de 148 migrantes em tentativa de travessia para Ceuta",
-        "link": "https://exame.com/mundo/marrocos-impede-entrada-de-148-migrantes-em-tentativa-de-travessia-para-ceuta/",
-        "summary": "Operação mobilizou helicópteros, drones e cães policiais na fronteira com território espanhol; país também prendeu suspeitos de organizar migrações irregulares",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "James Webb detecta objeto 100 bilhões de vezes mais brilhante que uma estrela",
-        "link": "https://exame.com/ciencia/james-webb-detecta-objeto-100-bilhoes-de-vezes-mais-brilhante-que-uma-estrela/",
-        "summary": "Descoberta pode explicar a origem dos misteriosos 'pequenos pontos vermelhos' observados no Universo primitivo pelo telescópio espacial",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
