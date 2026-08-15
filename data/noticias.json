@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:26:25.479Z",
+  "updated": "2026-08-15T21:24:40.541Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Prédio desaba em São Bernardo do Campo e deixa cinco feridos",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/predio-desaba-em-sao-bernardo-do-campo-e-deixa-quatro-feridos",
+        "summary": "p strong Um prédio residencial, em São Bernardo do Campo, na Grande São Paulo, desabou neste sábado (15) e deixou cinco pessoas sob os escombros – entre elas uma adolescente de 15 anos. /strong img src= https://agenciabr",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tv-brasil-exibe-botafogo-x-sao-paulo-pelo-brasileirao-feminino-a1",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tv-brasil-exibe-botafogo-x-sao-paulo-pelo-brasileirao-feminino-a1 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ginastica-ritmica-brasil-e-bronze-e-garante-vaga-em-los-angeles-2028",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ginastica-ritmica-brasil-e-bronze-e-garante-vaga-em-los-angeles-2028 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/com-envelhecimento-da-populacao-eleitorado-jovem-recua-22-em-16-anos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/com-envelhecimento-da-populacao-eleitorado-jovem-recua-22-em-16-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Desertificação no Brasil ameaça segurança hídrica e alimentar",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Na estreia de Jardine, Shabab Al Ahli goleia com forte participação brasileira",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/estreia-jardine-shabab-al-ahli-goleia-com-brasileiros/",
-        "summary": "Na estreia oficial de André Jardine, o Shabab Al Ahli venceu o Khor Fakkan por 5 a 1, de virada, com participação decisiva de jogadores brasileiros. Yuri César marcou, enquanto Mateus Henrique, Kauan Santos e Rikelme tam",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_4831.JPG.webp",
+        "title": "Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-khaleej-pela-liga-saudita/",
+        "summary": "Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita O post Melhores momentos: Al Taawoun 0 x 0 Al Khaleej pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Taawo.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Dortmund se prepara para amistoso contra a Roma",
-        "link": "https://www.gazetaesportiva.com/times/borussia-dortmund/dortmund-se-prepara-para-amistoso-contra-a-roma/",
-        "summary": "Dortmund se prepara para amistoso contra a Roma O post Dortmund se prepara para amistoso contra a Roma apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Dortm.webp",
+        "title": "Vila Nova bate Atlético-GO e assume terceira posição na Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-vence-atletico-go-e-entra-no-g4-da-serie-b/",
+        "summary": "O Vila Nova venceu o Atlético-GO por 2 a 0 neste sábado, no Estádio Antônio Accioly, pela 22ª rodada da Série B. João Vieira e Dudu dos Santos marcaram os gols da vitória, que levou o Vila Nova aos 37 pontos e à terceira",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/07/54638214253_a047b3e12e_k.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do último treino do Santos antes do jogo contra o Vasco",
-        "link": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-ultimo-treino-do-santos-antes-do-jogo-contra-o-vasco-2/",
-        "summary": "O post Veja fotos do último treino do Santos antes do jogo contra o Vasco apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465561843_3f87dbd271_c.webp",
+        "title": "Criciúma vence Goiás em casa e segue na liderança do Brasileirão Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-goias-em-casa-e-segue-na-lideranca-do-brasileirao-serie-b/",
+        "summary": "O Criciúma venceu o Goiás por 1 a 0 neste sábado, no Estádio Heriberto Hulse, pela Série B do Brasileirão. O único gol da partida foi marcado por Luciano Castán, de cabeça, aos cinco minutos do primeiro tempo, aproveitan",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/2725-21187.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Escalação: Santos tem três baixas para visitar o Vasco; veja relacionados",
-        "link": "https://www.gazetaesportiva.com/times/santos/escalacao-santos-tem-tres-baixas-para-visitar-o-vasco-veja-relacionados/",
-        "summary": "O Santos encerrou a preparação para enfrentar o Vasco pela 23ª rodada do Campeonato Brasileiro e tem desfalques importantes para o confronto em São Januário. Gabriel Menino e Bontempo, lesionados durante a vitória sobre ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465838860_1bfc20bc6b_o.webp",
+        "title": "Melhores momentos: Greuther Furth 2 x 4 Nurnberg pela Segunda Divisão da Bundesliga",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-greuther-furth-2-x-4-nurnberg-pela-segunda-divisao-da-bundesliga/",
+        "summary": "Melhores momentos: Greuther Furth 2 x 4 Nurnberg pela Segunda Divisão da Bundesliga O post Melhores momentos: Greuther Furth 2 x 4 Nurnberg pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Greuthe.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Haaland e Grealish retomam a parceria nos treinos do Manchester City",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/haaland-e-grealish-retomam-a-parceria-nos-treinos-do-manchester-city/",
-        "summary": "Haaland e Grealish retomam a parceria nos treinos do Manchester City O post Haaland e Grealish retomam a parceria nos treinos do Manchester City apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Haal.webp",
+        "title": "Veja fotos do duelo entre Fluminense e Palmeiras pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-duelo-entre-fluminense-e-palmeiras-pelo-brasileirao/",
+        "summary": "O post Veja fotos do duelo entre Fluminense e Palmeiras pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465038747_f2d971d0fe_o.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-City marca, e Inter de Milão vence Real Betis em último amistoso de pré-temporada",
-        "link": "https://www.gazetaesportiva.com/amistoso/ex-city-marca-e-inter-de-milao-vence-real-betis-em-ultimo-amistoso-de-pre-temporada/",
-        "summary": "A Inter de Milão derrotou o Real Betis por 1 a 0 em amistoso disputado em Bari, na Itália. O único gol da partida foi marcado pelo zagueiro John Stones, reforço recém-chegado ao clube italiano, aos 37 minutos do segundo ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPyT6kGW8AAZZnz.webp",
+        "title": "Melhores momentos: VfL Osnabruck 0 x 3 Magdeburg pela Segunda Divisão da Bundesliga",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vfl-osnabruck-0-x-3-magdeburg-pela-segunda-divisao-da-bundesliga/",
+        "summary": "Melhores momentos: VfL Osnabruck 0 x 3 Magdeburg pela Segunda Divisão da Bundesliga O post Melhores momentos: VfL Osnabruck 0 x 3 Magdeburg pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/VfL-Osna.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Casas Bahia (BHIA3) volta a adiar divulgação do balanço do segundo trimestre",
+        "link": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-volta-a-adiar-divulgacao-do-balanco-do-segundo-trimestre/",
+        "summary": "A previsão atual é que o resultado saia na segunda-feira (17) pela manhã The post Casas Bahia (BHIA3) volta a adiar divulgação do balanço do segundo trimestre appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Sede-Casas-Bahia-1.jpg?fit=300%2C187&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "São Paulo x Coritiba: Onde assistir?",
+        "link": "https://www.infomoney.com.br/esportes/sao-paulo-coritiba-onde-assistir/",
+        "summary": "Os times se enfrentam na casa do São Paulo The post São Paulo x Coritiba: Onde assistir? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-sao-paulo-x-coritiba.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história",
         "link": "https://www.infomoney.com.br/mundo/furacao-avanca-sobre-havai-e-pode-atingir-ilha-diretamente-pela-1a-vez-na-historia/",
         "summary": "Lala alcançou a categoria 1, e autoridades alertam para ventos destrutivos, enchentes e deslizamentos The post Furacão avança sobre Havaí e pode atingir ilha diretamente pela 1ª vez na história appeared first on InfoMone",
@@ -347,29 +367,29 @@
         "cls": "brasil"
       },
       {
-        "title": "Lula se apequenou em processo , diz Flávio sobre tarifas de reciprocidade contra EUA",
-        "link": "https://www.infomoney.com.br/politica/lula-se-apequenou-em-processo-diz-flavio-sobre-tarifas-de-reciprocidade-contra-eua/",
-        "summary": "Segundo Flávio, Lula \"está pensando na eleição e não na nossa nação\". The post Lula se apequenou em processo , diz Flávio sobre tarifas de reciprocidade contra EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-07-25T165535Z_326902380_RC24LMAT6HCH_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Honda lança Biz Kuromi, edição especial inspirada em personagem da Sanrio",
+        "link": "https://exame.com/casual/honda-lanca-biz-kuromi-edicao-especial-inspirada-em-personagem-da-sanrio/",
+        "summary": "Ideia nasceu de duas motos conceito exibidas pela marca na CCXP, em São Paulo, no fim de 2025",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Herança de Silvio Santos: o que patrimônio de Patrícia Abravanel diz sobre disputa?",
-        "link": "https://www.infomoney.com.br/brasil/heranca-de-silvio-santos-o-que-patrimonio-de-patricia-abravanel-diz-sobre-disputa/",
-        "summary": "Um dos pontos que mais chamou atenção em declaração de patrimônio foi a indicação de dois valores a receber, de cerca de R$ 6,8 milhões e R$ 2,5 milhões, que seriam ligados à disputa sobre imposto de herança The post Her",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/silvia-abravanel-divulgacao.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "US$ 17 bilhões em ações do Google: o que Buffett está comprando na bolsa em 2026",
         "link": "https://exame.com/invest/mercados/us-17-bilhoes-em-acoes-do-google-o-que-buffett-esta-comprando-na-bolsa-em-2026/",
         "summary": "Conglomerado de Warren Buffett tornou a Alphabet sua terceira maior posição em ações; fundo também voltou a comprar Delta e reduziu exposição a bancos",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Quanto eu teria tivesse investido R$ 10 mil em ações do Banco do Brasil há 20 anos",
+        "link": "https://exame.com/invest/onde-investir/quanto-eu-teria-tivesse-investido-r-10-mil-em-acoes-do-banco-do-brasil-ha-20-anos/",
+        "summary": "A ação do banco estatal acumulou retorno de 874% em duas décadas, transformando R$ 10 mil em quase R$ 100 mil, considerando proventos",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
@@ -400,26 +420,6 @@
         "title": "Israel acusa Hezbollah de romper cessar-fogo após ataque que deixou três soldados feridos",
         "link": "https://exame.com/mundo/israel-acusa-hezbollah-de-romper-cessar-fogo-apos-ataque-que-deixou-tres-soldados-feridos/",
         "summary": "Exército israelense diz ter atingido quartel do Hezbollah no sul do Líbano; bombardeios deixaram ao menos 11 mortos, segundo autoridades libanesas",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "SP2B faz balanço da primeira edição e já prepara retorno ao Ibirapuera em 2027",
-        "link": "https://exame.com/marketing/sp2b-faz-balanco-da-primeira-edicao-e-ja-prepara-retorno-ao-ibirapuera-em-2027/",
-        "summary": "Após cinco anos de planejamento, evento criado por Rafael Lazarini ocupou o Ibirapuera por oito dias com palestras, shows e encontros",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ele criou um fórum no Reddit para sabotar o negócio bilionário da IA no Google",
-        "link": "https://exame.com/inteligencia-artificial/ele-criou-um-forum-no-reddit-para-sabotar-o-negocio-bilionario-da-ia-no-google/",
-        "summary": "Experimentos no Reddit mostram como informações fabricadas podem contaminar buscas com IA e voltar ao usuário com aparência de credibilidade",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
