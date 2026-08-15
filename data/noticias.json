@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15T14:27:02.100Z",
+  "updated": "2026-08-15T15:25:00.255Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "VÍDEO: incêndio atinge barracão em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/video-incendio-atinge-barracao-em-campinas.ghtml",
+        "summary": "VÍDEO: incêndio atinge barracão em Campinas Um incêndio atingiu um barracão na Estrada da Rhodia, no distrito de Barão Geraldo em Campinas (SP), na manhã deste sábado (15). Imagens mostram o imóvel tomado pelas chamas e ",
+        "image": "https://s2-g1.glbimg.com/yNJgrJbMEohwk2V2e9af8IvPbHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/bXkNfWRQGEjTfqe3NG7Q/design-sem-nome-8-.jpg",
+        "date": "15 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "EPTV 1 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "date": "15 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Juçara vale mais em pé: fruto transforma realidade e gera renda no Vale do Ribeira",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/15/jucara-vale-mais-em-pe-fruto-transforma-realidade-e-gera-renda-no-vale-do-ribeira.ghtml",
@@ -43,24 +63,14 @@
         "cls": "brasil"
       },
       {
-        "title": "'CALMA': cidade do interior de SP adota sinalização educativa após série de acidentes em rodovia",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/calma-cidade-do-interior-de-sp-adota-sinalizacao-educativa-apos-serie-de-acidentes-em-rodovia.ghtml",
-        "summary": "Mogi Mirim (SP) adota sinalização educativa em rodovia municipal e pinta a palavra \"CALMA\" no asfalto após série de acidentes no trecho Reprodução/Prefeitura de Mogi Mirim \"CALMA\". O aviso pintado no asfalto em letras ga",
-        "image": "https://s2-g1.glbimg.com/mULvCgAwWrPNlhI5Rr2SQDO2TDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Y/NpwHZIRfOrmyrOVWyL5w/design-sem-nome-2026-08-14t205855.352.jpg",
+        "title": "Denis Andia reforça compromisso de trabalho local",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-reforca-compromisso-de-trabalho-local/",
+        "summary": "O candidato a deputado federal Denis Andia desponta como opção competitiva para a região voltar a ser representada em Brasília. O ex-prefeito de Santa Bárbara d’Oeste tem percorrido as cidades da região em reuniões, visi",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Adolescente é apreendido após esfaquear estudante durante briga em Indaiatuba",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/14/adolescente-e-apreendido-apos-esfaquear-estudante-durante-briga-em-indaiatuba.ghtml",
-        "summary": "Unidade de Pronto Atendimento (UPA) Morada do Sol, em Indaiatuba, onde jovem ferido por canivete foi encaminhado Prefeitura de Indaiatuba Um adolescente de 17 anos foi apreendido por ato infracional análogo ao crime de t",
-        "image": "https://s2-g1.glbimg.com/sj6NppQbQMCj2pisU_qL-Iu9TsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/U/PLD7cCRxS1QadnxnpdDg/design-sem-nome-2026-08-14t191501.122.jpg",
-        "date": "14 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Denis Andia defende “mandato da vida real” próximo das pessoas em Nova Odessa",
@@ -113,14 +123,14 @@
         "cls": "servicos"
       },
       {
-        "title": "Banco de Sangue do HM começa a adotar novos critérios para doação de sangue",
-        "link": "https://jornalamericanense.com.br/saude/banco-de-sangue-do-hm-comeca-a-adotar-novos-criterios-para-doacao-de-sangue/",
-        "summary": "O Banco de Sangue do Hospital Municipal Dr. Waldemar Tebaldi, em Americana, já começou a considerar alguns dos novos critérios para doação de sangue estabelecidos pelo Ministério da Saúde. A mudança atende à Portaria GM/",
+        "title": "Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
-        "date": "13 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos",
@@ -133,7 +143,7 @@
         "cls": "brasil"
       },
       {
-        "title": "Risco de desertificação no Brasil ameaça segurança hídrica e alimentar",
+        "title": "Desertificação no Brasil ameaça segurança hídrica e alimentar",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar img src= https://cdn.jsdelivr.net/gh/serg",
         "image": null,
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Petrobras anuncia descoberta de petróleo na Foz do Amazonas",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-anuncia-descoberta-de-petroleo-na-foz-do-amazonas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-anuncia-descoberta-de-petroleo-na-foz-do-amazonas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Veja fotos do amistoso entre Chelsea e Real Sociedad",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/veja-fotos-do-amistoso-entre-chelsea-e-real-sociedad/",
-        "summary": "Veja fotos do amistoso entre Chelsea e Real Sociedad, o último da equipe inglesa na pré-temporada. O post Veja fotos do amistoso entre Chelsea e Real Sociedad apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QM622__v1__MidRes__776540534.webp",
+        "title": "Colidio destaca projeto ambicioso e quer Vasco de volta aos títulos",
+        "link": "https://www.gazetaesportiva.com/times/vasco/colidio-destaca-projeto-ambicioso-e-quer-vasco-de-volta-aos-titulos/",
+        "summary": "Colidio destaca projeto 'ambicioso' e quer Vasco de volta aos títulos O post Colidio destaca projeto ambicioso e quer Vasco de volta aos títulos apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Colidio.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras anuncia venda de ingressos para as quartas da Copa do Brasil; confira",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-venda-de-ingressos-para-as-quartas-da-copa-do-brasil-confira/",
-        "summary": "O Palmeiras anunciou o cronograma de venda de ingressos para o clássico contra o Santos, válido pelo jogo de ida das quartas de final da Copa do Brasil. O confronto será disputado no dia 26 de agosto (quarta-feira), às 2",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/02052026_cg_palmeiras_destaque_5512_16.webp",
+        "title": "Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-neom-2-x-1-al-fayha-pela-liga-saudita-2/",
+        "summary": "Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita O post Melhores momentos: NEOM 2 x 1 Al Fayha pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/NEO.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Atlético de Madrid anuncia a contratação de Cristian Romero",
-        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/atletico-de-madrid-anuncia-a-contratacao-de-cristian-romero/",
-        "summary": "O Atlético de Madrid anunciou neste sábado a contratação do zagueiro Cristian \"Cuti\" Romero. O zagueiro argentino de 28 anos havia se despedido do Tottenham na última sexta-feira e assinou com a equipe espanhola até junh",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/unOqcpzBW7_vithasromero.webp",
+        "title": "Sem Endrick, Real Madrid divulga relacionados para último amistoso da pré-temporada",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/sem-endrick-real-madrid-divulga-relacionados-para-ultimo-amistoso-da-pre-temporada/",
+        "summary": "O Real Madrid divulgou neste sábado a lista dos atletas relacionados para o amistoso contra o Schalke 04, que marca o fim da pré-temporada para a equipe de José Mourinho. A bola rola neste domingo, às 12h (de Brasília), ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260808__C49G44N__v1__MidRes__FblFriendlyFerencvarosRealMadrid.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Autor do gol do título da Copa, Ferran Torres é anunciado pelo PSG",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/autor-do-gol-do-titulo-da-copa-ferran-torres-e-anunciado-pelo-psg/",
-        "summary": "O Paris Saint-Germain anunciou neste sábado a contratação do atacante espanhol Ferran Torres. O jogador de 26 anos, que marcou o gol do título espanhol na Copa do Mundo, estava defendendo o Barcelona e assinou com a equi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPwJPfoXoAA5TLu.webp",
+        "title": "Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/benrahma-marca-de-carrinho-para-ampliar-a-vantagem-do-neom-contra-o-al-fayha-confira/",
+        "summary": "Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira O post Benrahma marca de carrinho para ampliar a vantagem do NEOM contra o Al Fayha; confira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Benrah.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Consolidado no Palmeiras, Jhon Arias revê o Fluminense e tenta a lei do ex no Maracanã",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/consolidado-no-palmeiras-jhon-arias-reencontra-fluminense-no-maracana/",
-        "summary": "Contratado pelo Palmeiras no início da temporada, Jhon Arias se consolidou como uma das principais peças na equipe de Abel Ferreira e chega ao duelo deste sábado contra o Fluminense, pela 23ª rodada do Campeonato Brasile",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/12082026_cg_palmeiras_1505_59.webp",
+        "title": "De cabeça, Hugo Moura marca na estreia com derrota do Al-Fayha; veja o lance",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/de-cabeca-hugo-moura-marca-na-estreia-com-derrota-do-al-fayha-veja-o-lance/",
+        "summary": "De cabeça, Hugo Moura marca na estreia com derrota do Al-Fayha; veja o lance O post De cabeça, Hugo Moura marca na estreia com derrota do Al-Fayha; veja o lance apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Hugo-Mour.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com Diniz, Corinthians tem 2º melhor aproveitamento entre times paulistas",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/com-diniz-corinthians-tem-2o-melhor-aproveitamento-entre-times-paulistas/",
-        "summary": "Confira dados estatísticos do Corinthians sob o comando de Fernando Diniz. O post Com Diniz, Corinthians tem 2º melhor aproveitamento entre times paulistas apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__C4M83VG__v1__HighRes__FblLibertadoresRosarioCorinthians.webp",
+        "title": "João Pedro marca dois, e Chelsea vence Real Sociedad em último amistoso de pré-temporada",
+        "link": "https://www.gazetaesportiva.com/times/chelsea/joao-pedro-marca-dois-e-chelsea-vence-real-sociedad-em-ultimo-amistoso-de-pre-temporada/",
+        "summary": "Confira detalhes do amistoso entre Chelsea e Real Sociedad. O post João Pedro marca dois, e Chelsea vence Real Sociedad em último amistoso de pré-temporada apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QP2EY__v1__MidRes__776540534.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica”",
+        "link": "https://www.infomoney.com.br/mundo/alberto-fernandez-chama-milei-de-delirante-e-questiona-sua-condicao-psiquiatrica/",
+        "summary": "Ex-presidente afirmou que Milei está “afastado da realidade” e contestou o desempenho da economia argentina sob o atual governo The post Alberto Fernández chama Milei de “delirante” e questiona sua “condição psiquiátrica",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/12/Milei-recebe-a-faixa.png?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Europa tem uma das mais fortes temporadas de resultados em anos, ajudada por energia",
+        "link": "https://www.infomoney.com.br/mercados/europa-tem-uma-das-mais-fortes-temporadas-de-resultados-em-anos-ajudada-por-energia/",
+        "summary": "Lubrificado pelos preços do petróleo, o setor de Energia se destacou, registrando um crescimento de 124% no lucro por ação (EPS) e um aumento de 36% nas vendas, diz a FactSet The post Europa tem uma das mais fortes tempo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-03T174603Z_1_LYNXNPEL920SM_RTROPTP_4_BOLSAEUROPA-FECHA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Greve atinge companhia aérea e cancela quase 100 voos em pleno verão europeu",
+        "link": "https://www.infomoney.com.br/mercados/greve-atinge-companhia-aerea-e-cancela-quase-100-voos-em-pleno-verao-europeu/",
+        "summary": "Paralisação por estabilidade de escalas atinge aeroportos de Paris, Nice, Bordeaux e Lyon; empresa diz que ação é “oportunista” e retoma negociação em setembro The post Greve atinge companhia aérea e cancela quase 100 vo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T112408Z_1_LYNXMPEM5L0QZ_RTROPTP_4_EASYJET-M-A-CASTLELAKE.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Romário anuncia saída do PL e apoio à candidatura de Eduardo Paes",
         "link": "https://www.infomoney.com.br/politica/romario-anuncia-saida-do-pl-e-apoio-a-candidatura-de-eduardo-paes/",
         "summary": "No Rio de Janeiro, o PL lançou a candidatura do bolsonarista Douglas Ruas (PL), candidato apoiado por Flávio Bolsonaro (PL) The post Romário anuncia saída do PL e apoio à candidatura de Eduardo Paes appeared first on Inf",
@@ -337,34 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Quanto vale o herói da Copa? PSG paga cerca de R$ 315 milhões por Ferran Torres",
-        "link": "https://www.infomoney.com.br/esportes/quanto-vale-o-heroi-da-copa-psg-paga-cerca-de-r-315-milhoes-por-ferran-torres/",
-        "summary": "Campeão mundial e responsável pelo gol que colocou a segunda estrela na camisa da Espanha, o atacante deixou o Barcelona para assinar contrato com o clube francês até 2031 The post Quanto vale o herói da Copa? PSG paga c",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-19T220943Z_1996761378_UP1EM7J1PK63M_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.jpg?fit=300%2C216&amp;quality=70&amp;strip=all",
+        "title": "Fóssil de 236 milhões de anos pode reescrever a origem dos mamíferos",
+        "link": "https://exame.com/ciencia/fossil-de-236-milhoes-de-anos-pode-reescrever-a-origem-dos-mamiferos/",
+        "summary": "Pesquisadores encontraram sinais de viviparidade em um cinodonte de 236 milhões de anos, o que pode reescrever a evolução dos mamíferos",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Mansão e 100 mil euros por mês: o suposto acordo de Cristiano Ronaldo e Georgina",
-        "link": "https://www.infomoney.com.br/mundo/mansao-e-100-mil-euros-por-mes-o-suposto-acordo-de-cristiano-ronaldo-e-georgina/",
-        "summary": "Segundo o jornal espanhol Marca, modelo teria direito a pensão vitalícia e à mansão da família em Madri em caso de separação The post Mansão e 100 mil euros por mês: o suposto acordo de Cristiano Ronaldo e Georgina appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/georgina-rodriguez-cristiano-ronaldo-noivado-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Talibãs comemoram cinco anos no poder no Afeganistão",
+        "link": "https://exame.com/mundo/talibas-comemoram-cinco-anos-no-poder-no-afeganistao/",
+        "summary": "Aniversário do retorno do grupo ao governo é celebrado em Cabul com bandeiras e manifestações",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Lula evita cascas de banana , mas ajustes econômicos devem vir ainda em 2026",
-        "link": "https://www.infomoney.com.br/politica/lula-evita-cascas-de-banana-mas-ajustes-economicos-devem-vir-ainda-em-2026/",
-        "summary": "Entre as quatro grandes frentes de atuação para as quais o governo pretende olhar, ainda há apenas ideias sobre possíveis ajustes pós-campanha na fórmula que atualmente atualiza o salário mínimo The post Lula evita casca",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T181519Z_1874074105_RC2MWMAWH8ZB_RTRMADP_3_BRAZIL-ECONOMY-FISCAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Teerã responde a Trump e diz que Estreito de Ormuz é iraniano",
+        "link": "https://exame.com/mundo/teera-responde-a-trump-e-diz-que-estreito-de-ormuz-e-iraniano/",
+        "summary": "Vice-ministro das Relações Exteriores do Irã afirmou que o estreito continuará sob controle do país",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Alcolumbre destrava escala 6x1: o que acontece agora?",
+        "link": "https://exame.com/brasil/alcolumbre-destrava-escala-6x1-o-que-acontece-agora/",
+        "summary": "O avanço da tramitação da PEC ocorreu em meio à reaproximação entre o presidente do Senado e Lula; entenda quais são os próximos passos",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Não consegue resistir a alimentos gordurosos? A resposta pode estar no cérebro",
@@ -380,46 +420,6 @@
         "title": "Quem é a executiva à frente da estreia da Cadillac no Brasil",
         "link": "https://exame.com/casual/quem-e-a-executiva-a-frente-da-estreia-da-cadillac-no-brasil/",
         "summary": "Com 15 anos de experiência no segmento automotivo de luxo, Nancy Serapião conduziu a recente renovação de produtos da Lexus no País",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Como a diversificação está mudando a tese de investimento em cripto",
-        "link": "https://exame.com/future-of-money/como-a-diversificacao-esta-mudando-a-tese-de-investimento-em-cripto/",
-        "summary": "Diversificar não é ter muitas moedas digitais diferentes, mas ter ativos digitais que respondem a fatores diversos",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O terno está de volta após perder força na pandemia",
-        "link": "https://exame.com/casual/o-terno-esta-de-volta-apos-perder-forca-na-pandemia/",
-        "summary": "Suitsupply, Tailored Brands e Brooks Brothers registram crescimento de dois dígitos, enquanto casamentos e a volta ao escritório reacendem a demanda por peças formais no mundo todo",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A IA não vai substituir sua empresa. Vai criar as que nunca existiram",
-        "link": "https://exame.com/inteligencia-artificial/ia-empresas-nativas-inteligencia-novos-mercados/",
-        "summary": "A pergunta \"como usar IA?\" pode estar tão limitada quanto \"como entrar na internet?\" estava em 2007 — e pelo mesmo motivo",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Horas após terremoto de 7,7, Indonésia tem novo tremor de 6,9",
-        "link": "https://exame.com/mundo/horas-apos-terremoto-de-77-indonesia-tem-novo-tremor-de-69/",
-        "summary": "Novo abalo ocorreu na ilha de Sumatra, horas depois de terremoto no leste do país deixar ao menos 47 mortos",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
