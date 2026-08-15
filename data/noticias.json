@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T13:33:00.488Z",
+  "updated": "2026-08-15T14:27:02.100Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/com-envelhecimento-da-populacao-eleitorado-jovem-recua-22-em-16-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/com-envelhecimento-da-populacao-eleitorado-jovem-recua-22-em-16-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Risco de desertificação no Brasil ameaça segurança hídrica e alimentar",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar img src= https://cdn.jsdelivr.net/gh/serg",
@@ -171,19 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Bolsonaro pede ao STF para se consultar com a nora, que é dentista",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/bolsonaro-pede-ao-stf-para-se-consultar-com-nora-que-e-dentista",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/bolsonaro-pede-ao-stf-para-se-consultar-com-nora-que-e-dentista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Veja fotos do amistoso entre Chelsea e Real Sociedad",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/veja-fotos-do-amistoso-entre-chelsea-e-real-sociedad/",
+        "summary": "Veja fotos do amistoso entre Chelsea e Real Sociedad, o último da equipe inglesa na pré-temporada. O post Veja fotos do amistoso entre Chelsea e Real Sociedad apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QM622__v1__MidRes__776540534.webp",
+        "date": "15 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Palmeiras anuncia venda de ingressos para as quartas da Copa do Brasil; confira",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-venda-de-ingressos-para-as-quartas-da-copa-do-brasil-confira/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/corinthians/com-diniz-corinthians-tem-2o-melhor-aproveitamento-entre-times-paulistas/",
         "summary": "Confira dados estatísticos do Corinthians sob o comando de Fernando Diniz. O post Com Diniz, Corinthians tem 2º melhor aproveitamento entre times paulistas apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__C4M83VG__v1__HighRes__FblLibertadoresRosarioCorinthians.webp",
-        "date": "15 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo trata jogo contra o Coritiba como final e aposta em trunfos para virar chave",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-trata-jogo-contra-o-coritiba-como-final-e-aposta-em-trunfos-para-virar-chave/",
-        "summary": "O São Paulo entende que o jogo contra o Coritiba, neste sábado, pode ser o início de uma virada de chave para a reta final da temporada. O post São Paulo trata jogo contra o Coritiba como final e aposta em trunfos para v",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55458505494_373652e3a4_o.webp",
         "date": "15 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Romário anuncia saída do PL e apoio à candidatura de Eduardo Paes",
+        "link": "https://www.infomoney.com.br/politica/romario-anuncia-saida-do-pl-e-apoio-a-candidatura-de-eduardo-paes/",
+        "summary": "No Rio de Janeiro, o PL lançou a candidatura do bolsonarista Douglas Ruas (PL), candidato apoiado por Flávio Bolsonaro (PL) The post Romário anuncia saída do PL e apoio à candidatura de Eduardo Paes appeared first on Inf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/romario.jpg?fit=300%2C174&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Após descoberta, Petrobras quer perfurar mais três poços na Foz do Amazonas",
+        "link": "https://www.infomoney.com.br/mercados/apos-descoberta-petrobras-quer-perfurar-mais-3-pocos-na-foz-do-amazonas/",
+        "summary": "\"É uma descoberta, mas ainda não é uma descoberta comercial\", pondera presidente da estatal The post Após descoberta, Petrobras quer perfurar mais três poços na Foz do Amazonas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/2024-09-26T145315Z_1_LYNXMPEK8P0NZ_RTROPTP_4_PETROBRAS-CEO.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real",
+        "link": "https://www.infomoney.com.br/mercados/com-possibilidade-de-vitoria-de-lula-mercado-incorpora-premio-eleitoral-no-real/",
+        "summary": "Analistas indicam que quanto mais as pesquisas consolidarem uma vantagem de Lula, maior tende a ser a volatilidade The post Com possibilidade de vitória de Lula, mercado incorpora prêmio eleitoral no real appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T165330Z_1130482176_RC23TMAJYCSL_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "15 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Quanto vale o herói da Copa? PSG paga cerca de R$ 315 milhões por Ferran Torres",
         "link": "https://www.infomoney.com.br/esportes/quanto-vale-o-heroi-da-copa-psg-paga-cerca-de-r-315-milhoes-por-ferran-torres/",
         "summary": "Campeão mundial e responsável pelo gol que colocou a segunda estrela na camisa da Espanha, o atacante deixou o Barcelona para assinar contrato com o clube francês até 2031 The post Quanto vale o herói da Copa? PSG paga c",
@@ -337,34 +367,34 @@
         "cls": "brasil"
       },
       {
-        "title": "“Carro voador” da Tesla? Roadster pode ganhar propulsor da SpaceX; veja o que se sabe",
-        "link": "https://www.infomoney.com.br/business/carro-voador-da-tesla-roadster-pode-ganhar-propulsor-da-spacex-veja-o-que-se-sabe/",
-        "summary": "Segundo site, testes podem acontecer ainda neste mês The post “Carro voador” da Tesla? Roadster pode ganhar propulsor da SpaceX; veja o que se sabe appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453966978.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Não consegue resistir a alimentos gordurosos? A resposta pode estar no cérebro",
+        "link": "https://exame.com/ciencia/nao-consegue-resistir-a-alimentos-gordurosos-a-resposta-pode-estar-no-cerebro/",
+        "summary": "Estudo identificou uma proteína cerebral ligada ao controle do apetite que pode explicar o consumo excessivo de gordura e ajudar no combate à obesidade",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Boa Safra tem lucro líquido de R$ 2,7 mi no 2T, revertendo prejuízo do ano passado",
-        "link": "https://www.infomoney.com.br/mercados/boa-safra-tem-lucro-liquido-de-r-27-mi-no-2t-revertendo-prejuizo-do-ano-passado/",
-        "summary": "Receita operacional líquida cresceu 23%, para R$ 124,7 milhões, enquanto o Ebitda ajustado saltou 504% The post Boa Safra tem lucro líquido de R$ 2,7 mi no 2T, revertendo prejuízo do ano passado appeared first on InfoMon",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Boa-Safra-Ribeirao-Cascalheira.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Quem é a executiva à frente da estreia da Cadillac no Brasil",
+        "link": "https://exame.com/casual/quem-e-a-executiva-a-frente-da-estreia-da-cadillac-no-brasil/",
+        "summary": "Com 15 anos de experiência no segmento automotivo de luxo, Nancy Serapião conduziu a recente renovação de produtos da Lexus no País",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Por que chás emagrecedores foram proibidos pela Anvisa?",
-        "link": "https://www.infomoney.com.br/saude/chas-emagrecedores-proibidos-anvisa/",
-        "summary": "Os produtos em questão não possuem registro de acordo com a agência The post Por que chás emagrecedores foram proibidos pela Anvisa? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/anvisa-fachada.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Como a diversificação está mudando a tese de investimento em cripto",
+        "link": "https://exame.com/future-of-money/como-a-diversificacao-esta-mudando-a-tese-de-investimento-em-cripto/",
+        "summary": "Diversificar não é ter muitas moedas digitais diferentes, mas ter ativos digitais que respondem a fatores diversos",
+        "image": null,
         "date": "15 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "O terno está de volta após perder força na pandemia",
@@ -389,37 +419,7 @@
       {
         "title": "Horas após terremoto de 7,7, Indonésia tem novo tremor de 6,9",
         "link": "https://exame.com/mundo/horas-apos-terremoto-de-77-indonesia-tem-novo-tremor-de-69/",
-        "summary": "Novo abalo ocorreu na ilha de Sumatra, horas depois de terremoto no leste do país deixar ao menos 38 mortos",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Seu cérebro te sabota? Estudo explica por que insistimos nas mesmas escolhas",
-        "link": "https://exame.com/ciencia/seu-cerebro-te-sabota-estudo-explica-por-que-insistimos-nas-mesmas-escolhas/",
-        "summary": "Pesquisadores descobriram que o hábito de repetir decisões pode fazer opções familiares parecerem melhores do que realmente são",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Projeto de lei de stablecoins: onde o Brasil acerta e o que precisa mudar?",
-        "link": "https://exame.com/future-of-money/projeto-de-lei-de-stablecoins-onde-o-brasil-acerta-e-o-que-precisa-mudar/",
-        "summary": "Enquanto acerta na exigência de reservas integrais e auditáveis, o texto da proposta erra ao limitar transferências p2p",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Essa empresa fez um prédio de madeira em Suzano para desafiar o concreto",
-        "link": "https://exame.com/mercado-imobiliario/essa-empresa-fez-um-predio-de-madeira-em-suzano-para-desafiar-o-concreto/",
-        "summary": "Fabricante de estruturas de madeira deixou o papel de fornecedora para construir o próprio prédio e testar nova tecnologia",
+        "summary": "Novo abalo ocorreu na ilha de Sumatra, horas depois de terremoto no leste do país deixar ao menos 47 mortos",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
