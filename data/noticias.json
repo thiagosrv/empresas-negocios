@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-16T07:34:20.320Z",
+  "updated": "2026-08-16T08:33:30.685Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Viscondessa de Campinas: quem foi a única mulher no Brasil a receber título de nobreza sem depender do marido",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/viscondessa-de-campinas-quem-foi-a-unica-mulher-no-brasil-a-receber-titulo-de-nobreza-sem-depender-do-marido.ghtml",
+        "summary": "Quem foi a única mulher no Brasil a receber título de nobreza sem depender do marido Maria Luzia de Souza Aranha, a Viscondessa de Campinas (SP), ocupa uma posição singular na história do Império do Brasil: ela foi a úni",
+        "image": "https://s2-g1.glbimg.com/k-710ospIdzfrYzNtUG5PyrAGVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/4aKTbmSYuZcu6UdyBWcg/design-sem-nome-24-.jpg",
+        "date": "16 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Esquizofrenia: falta de enzima na gestação pode estar ligada à origem da doença, diz Unicamp",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/esquizofrenia-falta-de-enzima-na-gestacao-pode-estar-ligada-a-origem-da-doenca-diz-unicamp.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/video-incendio-atinge-barracao-em-campinas.ghtml",
         "summary": "VÍDEO: incêndio atinge barracão em Campinas Um incêndio atingiu uma madeireira na Estrada da Rhodia, no distrito de Barão Geraldo, em Campinas (SP), na manhã deste sábado (15). O barracão tinha estoque de madeira. Vídeos",
         "image": "https://s2-g1.glbimg.com/yNJgrJbMEohwk2V2e9af8IvPbHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/bXkNfWRQGEjTfqe3NG7Q/design-sem-nome-8-.jpg",
-        "date": "15 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Juçara vale mais em pé: fruto transforma realidade e gera renda no Vale do Ribeira",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/15/jucara-vale-mais-em-pe-fruto-transforma-realidade-e-gera-renda-no-vale-do-ribeira.ghtml",
-        "summary": "Assista ao Terra da Gente deste sábado (15/08/2026) na íntegra Uma palmeira que no passado era derrubada para a retirada de pouco mais de meio quilo de palmito hoje permanece em pé, produz frutos, gera renda para família",
-        "image": "https://s2-g1.glbimg.com/QlhjeHoac9a-7-ohUPFUo_vkqV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/XPjCz7SOufLRhxNmCjCQ/a-2026-08-14t114929.410.jpg",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "Atuações do São Paulo: Rafael vai mal, e Pablo Maia marca em jogo pouco efetivo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/atuacoes-do-sao-paulo-rafael-vai-mal-e-pablo-maia-marca-em-jogo-pouco-efetivo/",
+        "summary": "O São Paulo empatou com o Coritiba por 1 a 1 na noite do último sábado, em duelo válido pela 23ª rodada do Campeonato Brasileiro. A partida contou com gol de Pablo Maia, que marcou pela primeira vez nesta temporada, e co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465497152_d2650b539e_c.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações: Arias e Vitor Roque vão mal, enquanto Flaco se salva em derrota do Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-arias-e-vitor-roque-vao-mal-enquanto-flaco-se-salva-em-derrota-do-palmeiras/",
+        "summary": "A equipe do Palmeiras não esteve em um dia inspirado neste sábado, em que acabou derrotada para o Fluminense por 3 a 2 no Maracanã, de virada. Apesar do revés, Flaco López se salvou de críticas e conseguiu uma boa atuaçã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/15082026_cg_palmeiras_destaque_2598_29.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Dorival admite frustração após novo empate do São Paulo e liga alerta com bola parada",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-admite-frustracao-apos-novo-empate-do-sao-paulo-e-liga-alerta-com-bola-parada/",
         "summary": "O São Paulo deixou o gramado do Morumbis sob vaias da torcida após o empate por 1 a 1 com o Coritiba, na noite deste sábado, pela 23ª rodada do Campeonato Brasileiro. O técnico Dorival Júnior assumiu a responsabilidade p",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/bragantino/tiago-volpi-bragantino-empate-athletico-pr/",
         "summary": "O Red Bull Bragantino empatou em 1 a 1 com o Athletico-PR na Arena da Baixada, em partida válida pelo Brasileirão. Após falha decisiva na derrota para o Corinthians na rodada anterior, o goleiro Tiago Volpi se recuperou ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466653295_0078a636ff_o.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo cede empate ao Coritiba em retorno ao Morumbis e amplia jejum no Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-23a-rodada-brasileirao-15-08-2026/",
-        "summary": "O São Paulo ampliou seu jejum de vitórias no Campeonato Brasileiro para nove jogos neste sábado após ceder o empate por 1 a 1 para o Coritiba, e saiu vaiado do Morumbis, em São Paulo (SP), em duelo válido pela 23ª rodada",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466651619_11af786a40_c.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo x Coritiba: veja fotos do jogo da 23ª rodada do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-veja-fotos-do-jogo-da-23a-rodada-do-brasileirao/",
-        "summary": "Veja fotos do jogo entre São Paulo e Coritiba, pela 23ª rodada do Brasileirão, disputado no Morumbis, na noite deste sábado. O post São Paulo x Coritiba: veja fotos do jogo da 23ª rodada do Brasileirão apareceu primeiro ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466878145_48a0133a80_c.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,94 @@
         "cls": ""
       },
       {
-        "title": "Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações",
-        "link": "https://www.infomoney.com.br/mercados/vivara-diz-que-fundos-sob-gestao-da-guepardo-investimentos-compraram-acoes/",
-        "summary": "De acordo com a empresa, a Guepardo informou que a referida participação não tem por escopo a aquisição do controle da companhia The post Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/12/5a6a1f71d882f.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
+        "title": "Os EUA querem fabricar seus próprios robôs humanoides. Mas isso não será fácil",
+        "link": "https://www.infomoney.com.br/business/global/os-eua-querem-fabricar-seus-proprios-robos-humanoides-mas-isso-nao-sera-facil/",
+        "summary": "A China já fabrica robôs humanoides aos milhares. Uma nova geração de startups americanas aposta que ainda há tempo para competir The post Os EUA querem fabricar seus próprios robôs humanoides. Mas isso não será fácil ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/HUMANOID-ROBOTS-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Catar nega estar detendo pilotos iranianos",
-        "link": "https://www.infomoney.com.br/mundo/catar-nega-estar-detendo-pilotos-iranianos/",
-        "summary": "O porta-voz afirmou que Teerã ainda não respondeu ao convite para analisar detalhes de suas operações The post Catar nega estar detendo pilotos iranianos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-02-28T144235Z_1199751289_RC22VJAWFIG5_RTRMADP_3_IRAN-CRISIS-QATAR_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
+        "title": "Europa enfrenta nova onda de calor e força turistas a mudar planos de viagem",
+        "link": "https://www.infomoney.com.br/business/global/europa-enfrenta-nova-onda-de-calor-e-forca-turistas-a-mudar-planos-de-viagem/",
+        "summary": "As temperaturas dispararam, os incêndios florestais se espalharam e os rios secaram. Agora, o turismo europeu está sendo transformado pelas mudanças climáticas. Veja como os viajantes estão reagindo The post Europa enfre",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/EUROPE-HEAT-TRAVEL-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Arthur Lira registra candidatura ao Senado e declara triplo de patrimônio de 2022",
-        "link": "https://www.infomoney.com.br/politica/arthur-lira-registra-candidatura-ao-senado-e-declara-triplo-de-patrimonio-de-2022/",
-        "summary": "Na declaração de bens, Lira registrou um patrimônio de R$ 25 milhões The post Arthur Lira registra candidatura ao Senado e declara triplo de patrimônio de 2022 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/2024-12-19T201106Z_1793794236_RC2ISBAP2RQ4_RTRMADP_3_BRAZIL-ECONOMY-CONGRESS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
+        "title": "Renda recorde é engolida por inflação e juros altos, que espremem bolso das famílias",
+        "link": "https://www.infomoney.com.br/economia/inadimplencia-inflacao-juros-altos-renda-recorde/",
+        "summary": "Mesmo com desemprego em baixa e massa salarial recorde, comida mais cara e crédito caro impulsionam a inadimplência no país, dizem especialistas The post Renda recorde é engolida por inflação e juros altos, que espremem ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/divida.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nvidia planeja investir US$ 3 bi em acordo para centro de dados da OpenAI, diz jornal",
-        "link": "https://www.infomoney.com.br/mercados/nvidia-planeja-investir-us-3-bi-em-acordo-para-centro-de-dados-da-openai-diz-jornal/",
-        "summary": "De acordo com o The Information, a Nvidia discutiu a possibilidade de investir metade dos US$3 bilhões quando o acordo para o projeto em Ohio for assinado The post Nvidia planeja investir US$ 3 bi em acordo para centro d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
+        "title": "Eleição de 2026 pode ter “faroeste” nas redes sociais maior que em 2022, diz analista",
+        "link": "https://www.infomoney.com.br/politica/eleicao-de-2026-pode-ter-faroeste-nas-redes-sociais-maior-que-em-2022-diz-analista/",
+        "summary": "Bárbara Baião vê ambiente digital mais permissivo que em 2022 e alerta para dificuldade das campanhas em reagir à desinformação The post Eleição de 2026 pode ter “faroeste” nas redes sociais maior que em 2022, diz analis",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-14-as-14.10.02.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Pedreiros encontram R$ 54 mi em moedas e barras de ouro em parede de casa na Bélgica",
-        "link": "https://www.infomoney.com.br/mundo/pedreiros-encontram-r-54-mi-em-moedas-e-barras-de-ouro-em-parede-de-casa-na-belgica/",
-        "summary": "Operários descobriram barras e moedas de ouro avaliadas em cerca de € 9 milhões durante uma reforma; autoridades investigam a origem da fortuna The post Pedreiros encontram R$ 54 mi em moedas e barras de ouro em parede d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-04-27T105037Z_543767256_RC271KAMUHOE_RTRMADP_3_METALS-PRECIOUS-GOLD-POLL.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
+        "title": "Debate em Minas acontece neste domingo após adiamento; Cleitinho não deve participar",
+        "link": "https://www.infomoney.com.br/politica/debate-em-minas-acontece-neste-domingo-apos-adiamento-cleitinho-nao-deve-participar/",
+        "summary": "Band transferiu encontro para 16 de agosto diante das indefinições sobre as candidaturas The post Debate em Minas acontece neste domingo após adiamento; Cleitinho não deve participar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/montagem-1120x720-21.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo/",
-        "summary": "Apostas podem ser feitas até às 22h deste sábado The post Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/20230622_182547.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "15 de ago. de 2026",
+        "title": "Lula chega ao primeiro ato favorito nas pesquisas, mas sob pressão de novas crises",
+        "link": "https://www.infomoney.com.br/politica/lula-chega-ao-primeiro-ato-favorito-nas-pesquisas-mas-sob-pressao-de-novas-crises/",
+        "summary": "Presidente inicia a campanha oficial à frente de Flávio Bolsonaro e com alianças organizadas nos Estados, mas enfrenta avaliação dividida do governo e investigações que atingem pessoas próximas The post Lula chega ao pri",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ENQ20260801008.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "De onde vieram os X-Men de 'Vingadores: Doutor Destino'? Entenda a conexão da Fox com a Marvel",
+        "link": "https://exame.com/pop/por-que-os-x-men-da-fox-estao-em-vingadores-doutor-destino-entenda-de-qual-universo-eles-vieram/",
+        "summary": "Retorno de Patrick Stewart, Ian McKellen, James Marsden e outros atores conecta o novo filme da Marvel ao universo dos mutantes da Fox",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Empreendedorismo e IA: 6 dicas para montar (ou pivotar) um negócio usando inteligência artificial",
+        "link": "https://exame.com/inteligencia-artificial/empreendedorismo-e-ia-x-dicas-para-montar-ou-pivotar-um-negocio-usando-inteligencia-artificial/",
+        "summary": "Da identificação de problemas à criação de novos produtos, ferramentas de inteligência artificial podem ajudar empreendedores a testar ideias, reduzir custos e encontrar oportunidades de negócio",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Jogos de hoje: horário e onde assistir às partidas deste domingo, 16",
+        "link": "https://exame.com/esporte/jogos-de-hoje-horario-e-onde-assistir-as-partidas-deste-domingo-16/",
+        "summary": "Domingo terá decisões de supercopas na Europa e rodada movimentada do Brasileirão, além de partidas pelas principais ligas do futebol internacional",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "‘O Brasil vai ser o salvador da fome do mundo’, diz Júnior Friboi",
@@ -392,36 +422,6 @@
         "summary": "Disputa pelo Palácio do Planalto terá 13 nomes; 12 chapas são “puro-sangue”, com presidente e vice do mesmo partido",
         "image": null,
         "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eleições 2026: quem são os candidatos ao governo de Minas Gerais?",
-        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-de-minas-gerais/",
-        "summary": "Em Minas Gerais, 11 nomes foram oficializados para disputar o governo estadual durante o período das convenções partidárias",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Fluminense vira contra o Palmeiras no Maracanã em jogo pelo Brasileirão",
-        "link": "https://exame.com/esporte/fluminense-vira-contra-o-palmeiras-no-maracana-em-jogo-pelo-brasileirao/",
-        "summary": "Equipe carioca marcou aos 46 minutos do segundo tempo no Maracanã e reduziu impacto da derrota sobre a disputa pela liderança",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Trump pode ter 3º mandato em 2028? Entenda o que diz a Constituição dos EUA",
-        "link": "https://exame.com/mundo/trump-pode-ter-3o-mandato-em-2028-entenda-o-que-diz-a-constituicao-dos-eua/",
-        "summary": "Presidente compartilhou imagem com as frases 'Trump 2028' e 'Nós vamos vencer' em rede social, mas lei americana proíbe a candidatura",
-        "image": null,
-        "date": "15 de ago. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
