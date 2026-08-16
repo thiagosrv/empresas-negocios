@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T08:33:30.685Z",
+  "updated": "2026-08-16T09:30:44.032Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "Análise: São Paulo frustra torcida em retorno ao Morumbis e aumenta pressão por classificação na Sula",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/analise-sao-paulo-frustra-torcida-em-retorno-ao-morumbis-e-aumenta-pressao-por-classificacao-na-sula/",
+        "summary": "O São Paulo retornou ao Morumbis após quase três meses, mas deixou um gosto amargo para os mais de 44 mil torcedores que marcaram presença no local para o duelo da 23ª rodada do Campeonato Brasileiro. Pablo Maia colocou ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466651554_b42cb6bc01_c.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras completa quatro jogos sem vencer e repete jejum após oito meses",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-completa-quatro-jogos-sem-vencer-e-repete-jejum-apos-oito-meses/",
+        "summary": "Com a derrota para o Fluminense de virada neste sábado, o Palmeiras voltou a atingir uma marca negativa. Ao perder por 3 a 2, o Verdão completou a quarta partida em sequência sem vitória, voltando a somar este número de ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/15082026_cg_palmeiras_2935_80.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Atuações do São Paulo: Rafael vai mal, e Pablo Maia marca em jogo pouco efetivo",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/atuacoes-do-sao-paulo-rafael-vai-mal-e-pablo-maia-marca-em-jogo-pouco-efetivo/",
         "summary": "O São Paulo empatou com o Coritiba por 1 a 1 na noite do último sábado, em duelo válido pela 23ª rodada do Campeonato Brasileiro. A partida contou com gol de Pablo Maia, que marcou pela primeira vez nesta temporada, e co",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-pereira-palmeiras-ma-fase-fluminense-libertadores/",
         "summary": "Em meio à sequência de quatro jogos sem vitória, a presidente do Palmeiras, Leila Pereira, usou as redes sociais para demonstrar confiança na recuperação da equipe. Após a derrota por 3 a 2 para o Fluminense, no Maracanã",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPzs7LRWoAATvOV.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Calleri dá razão à torcida após vaias e reclama de pênalti não marcado para o São Paulo: Claríssimo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-cobra-arbitragem-penalti-empate-sao-paulo-coritiba/",
-        "summary": "Calleri deixou o gramado do Morumbis revoltado com a arbitragem, reclamando de um pênalti que não foi marcado neste sábado durante o empate do São Paulo por 1 a 1 com o Coritiba, pela 23ª rodada do Campeonato Brasileiro.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466691914_5d1dafddd3_k.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Após falha contra o Corinthians, Volpi se redime em empate do RB Bragantino com o Athletico-PR",
-        "link": "https://www.gazetaesportiva.com/times/bragantino/tiago-volpi-bragantino-empate-athletico-pr/",
-        "summary": "O Red Bull Bragantino empatou em 1 a 1 com o Athletico-PR na Arena da Baixada, em partida válida pelo Brasileirão. Após falha decisiva na derrota para o Corinthians na rodada anterior, o goleiro Tiago Volpi se recuperou ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466653295_0078a636ff_o.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,9 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "De onde vieram os X-Men de 'Vingadores: Doutor Destino'? Entenda a conexão da Fox com a Marvel",
-        "link": "https://exame.com/pop/por-que-os-x-men-da-fox-estao-em-vingadores-doutor-destino-entenda-de-qual-universo-eles-vieram/",
-        "summary": "Retorno de Patrick Stewart, Ian McKellen, James Marsden e outros atores conecta o novo filme da Marvel ao universo dos mutantes da Fox",
+        "title": "Como se preparar para os próximos 5 anos de carreira em qualquer área",
+        "link": "https://exame.com/inteligencia-artificial/como-se-preparar-para-os-proximos-5-anos-de-carreira-em-qualquer-area/",
+        "summary": "Mudanças tecnológicas, novas formas de trabalho e exigências cada vez maiores tornam o planejamento profissional uma tarefa contínua; veja o que pode ajudar a construir uma carreira mais preparada para os próximos anos",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Empreendedorismo e IA: 6 dicas para montar (ou pivotar) um negócio usando inteligência artificial",
-        "link": "https://exame.com/inteligencia-artificial/empreendedorismo-e-ia-x-dicas-para-montar-ou-pivotar-um-negocio-usando-inteligencia-artificial/",
-        "summary": "Da identificação de problemas à criação de novos produtos, ferramentas de inteligência artificial podem ajudar empreendedores a testar ideias, reduzir custos e encontrar oportunidades de negócio",
+        "title": "Eleições 2026: quem os candidatos a governador do Rio de Janeiro?",
+        "link": "https://exame.com/brasil/eleicoes-2026-quem-os-candidatos-a-governador-do-rio-de-janeiro/",
+        "summary": "Prazo para registro termina em 15 de agosto; disputa pelo Palácio Guanabara reúne nove candidatos de diferentes partidos",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Jogos de hoje: horário e onde assistir às partidas deste domingo, 16",
-        "link": "https://exame.com/esporte/jogos-de-hoje-horario-e-onde-assistir-as-partidas-deste-domingo-16/",
-        "summary": "Domingo terá decisões de supercopas na Europa e rodada movimentada do Brasileirão, além de partidas pelas principais ligas do futebol internacional",
+        "title": "Eleições 2026: quem são os candidatos a governador do Ceará?",
+        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-a-governador-do-ceara/",
+        "summary": "No Ceará, oito nomes foram definidos para disputar o governo estadual durante o período das convenções partidárias",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "‘O Brasil vai ser o salvador da fome do mundo’, diz Júnior Friboi",
-        "link": "https://exame.com/negocios/o-brasil-vai-ser-o-salvador-da-fome-do-mundo-diz-junior-friboi/",
-        "summary": "Depois de participar da expansão internacional da JBS, empresário não descarta repetir esse caminho com a sua empresa JBJ Agropecuária",
+        "title": "Debate da Band para governador de Minas Gerais: veja horário, regras e onde assistir online",
+        "link": "https://exame.com/brasil/debate-da-band-para-governador-de-minas-gerais-veja-horario-regras-e-onde-assistir-online/",
+        "summary": "Líder nas pesquisas, o senador Cleitinho participará do debate",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Frigoríficos, genética e mercado global: o plano dessa gigante do agro para chegar aos R$ 10 bilhões",
-        "link": "https://exame.com/negocios/frigorificos-genetica-e-expansao-global-o-plano-dessa-gigante-do-agro-para-chegar-a-r-10-bilhoes/",
-        "summary": "Em entrevista exclusiva à EXAME, Fabrício Batista, CEO da JBJ Agropecuária, explica como a compra de um novo frigorífico deve elevar o faturamento do grupo, que vê oportunidades no cenário internacional",
+        "title": "Eleições 2026: quem são os candidatos ao governo do Pernambuco?",
+        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-do-pernambuco/",
+        "summary": "Sete nomes disputam o governo de Pernambuco em 2026, com Raquel Lyra e João Campos na ponta; primeiro turno é em 4 de outubro.",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem são os 13 candidatos que vão disputar a Presidência nas eleições de 2026",
-        "link": "https://exame.com/brasil/quem-sao-os-13-candidatos-que-vao-disputar-a-presidencia-nas-eleicoes-de-2026/",
-        "summary": "Disputa pelo Palácio do Planalto terá 13 nomes; 12 chapas são “puro-sangue”, com presidente e vice do mesmo partido",
+        "title": "Eleições 2026: quem são os candidatos ao governo do Paraná?",
+        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-do-parana/",
+        "summary": "Paraná tem oito candidatos ao governo em 2026, entre eles Sérgio Moro, Sandro Alex e Requião Filho. Veja quem são, as propostas e quando vai ser a eleição.",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
