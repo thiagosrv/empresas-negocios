@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T03:03:39.564Z",
+  "updated": "2026-08-16T04:39:24.535Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Dorival admite frustração após novo empate do São Paulo e liga alerta com bola parada",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-admite-frustracao-apos-novo-empate-do-sao-paulo-e-liga-alerta-com-bola-parada/",
+        "summary": "O São Paulo deixou o gramado do Morumbis sob vaias da torcida após o empate por 1 a 1 com o Coritiba, na noite deste sábado, pela 23ª rodada do Campeonato Brasileiro. O técnico Dorival Júnior assumiu a responsabilidade p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465584922_d7452b8d3f_c.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Leila Pereira se pronuncia sobre fase ruim do Palmeiras e promete trabalho",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-pereira-palmeiras-ma-fase-fluminense-libertadores/",
         "summary": "Em meio à sequência de quatro jogos sem vitória, a presidente do Palmeiras, Leila Pereira, usou as redes sociais para demonstrar confiança na recuperação da equipe. Após a derrota por 3 a 2 para o Fluminense, no Maracanã",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-veja-fotos-do-jogo-da-23a-rodada-do-brasileirao/",
         "summary": "Veja fotos do jogo entre São Paulo e Coritiba, pela 23ª rodada do Brasileirão, disputado no Morumbis, na noite deste sábado. O post São Paulo x Coritiba: veja fotos do jogo da 23ª rodada do Brasileirão apareceu primeiro ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466878145_48a0133a80_c.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Pedro Henrique celebra gol contra o Athletico-PR e comenta mágoa da torcida adversária",
-        "link": "https://www.gazetaesportiva.com/times/bragantino/athletico-pr-rb-bragantino-pedro-henrique-vaias-empate-brasileirao/",
-        "summary": "Athletico-PR e RB Bragantino empataram por 1 a 1 na Arena da Baixada pela 23ª rodada do Brasileirão. O zagueiro Pedro Henrique, ex-jogador do Furacão, abriu o placar para o Massa Bruta e comentou as vaias recebidas da to",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465336592_455b247158_o.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,6 +367,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Quem são os 13 candidatos que vão disputar a Presidência nas eleições de 2026",
+        "link": "https://exame.com/brasil/quem-sao-os-13-candidatos-que-vao-disputar-a-presidencia-nas-eleicoes-de-2026/",
+        "summary": "Disputa pelo Palácio do Planalto terá 13 nomes; 12 chapas são “puro-sangue”, com presidente e vice do mesmo partido",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Eleições 2026: quem são os candidatos ao governo de Minas Gerais?",
         "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-de-minas-gerais/",
         "summary": "Em Minas Gerais, 11 nomes foram oficializados para disputar o governo estadual durante o período das convenções partidárias",
@@ -410,16 +420,6 @@
         "title": "PSG anuncia contratação do herói da final da Copa do Mundo",
         "link": "https://exame.com/esporte/psg-anuncia-contratacao-do-heroi-da-final-da-copa-do-mundo/",
         "summary": "Ferran Torres deixa o Barcelona e assina contrato com o clube francês até 2031",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Presidente da Colômbia pede suspensão de tarifas dos EUA após terremoto",
-        "link": "https://exame.com/mundo/presidente-da-colombia-pede-suspensao-de-tarifas-dos-eua-apos-terremoto/",
-        "summary": "Abelardo de la Espriella solicitou a Trump uma pausa nas medidas comerciais para reduzir pressão sobre empresas afetadas pelo desastre",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
