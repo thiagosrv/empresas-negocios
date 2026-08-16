@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T13:34:02.250Z",
+  "updated": "2026-08-16T14:26:47.067Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Ondas da Rádio Nacional transmitem partida entre Vasco e Santos",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -111,19 +121,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Messi perde pênalti e Inter Miami é goleado pelo Nashiville na MLS",
+        "link": "https://www.gazetaesportiva.com/inter-miami/messi-perde-penalti-inter-miami-goleado-nashville/",
+        "summary": "O Inter Miami foi goleado por 4 a 1 pelo Nashville neste sábado, pela MLS. Lionel Messi desperdiçou um pênalti ainda no primeiro tempo, quando a partida estava 1 a 0, e viu sua equipe sofrer a derrota para o líder da com",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__2290651435__v1__HighRes__NashvilleScVInterMiamiCf.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Chapecoense x Bahia: siga o tempo real do jogo pelo Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/chapecoense-x-bahia-campeonato-brasileiro-16-08-26/",
+        "summary": "Siga em tempo real o placar ao vivo do duelo entre Chapecoense e Bahia pela 23ª rodada do Campeonato Brasileiro. O post Chapecoense x Bahia: siga o tempo real do jogo pelo Campeonato Brasileiro apareceu primeiro em Gazet",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/X2Twitter.com_HP2ICL7XcAAKIlh.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Arsenal x Manchester City: siga o tempo real da Supercopa da Inglaterra",
+        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/arsenal-manchester-city-supercopa-inglaterra-16-08-26/",
+        "summary": "Arsenal e Manchester City decidem o título da Supercopa da Inglaterra neste domingo. Siga o lance a lance do jogo! O post Arsenal x Manchester City: siga o tempo real da Supercopa da Inglaterra apareceu primeiro em Gazet",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__C4T28XQ__v1__MidRes__FblEngPrCommunityArsenalManCity.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Tiffany se pronuncia após CBV banir mulheres trans de competições nacionais",
         "link": "https://www.gazetaesportiva.com/mais-esportes/volei/tiffany-cbv-mulheres-trans-volei/",
@@ -153,39 +183,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Vasco x Santos: Peixe leva pequena vantagem no histórico, mas sofre como visitante",
-        "link": "https://www.gazetaesportiva.com/times/santos/vasco-x-santos-peixe-leva-pequena-vantagem-no-historico-mas-sofre-como-visitante/",
-        "summary": "Santos leva pequena vantagem no histórico geral contra o Vasco, com 39 vitórias em 108 jogos. Como visitante, porém, o Peixe venceu apenas 11 dos 56 confrontos disputados com mando vascaíno. O post Vasco x Santos: Peixe ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55120518736_e3f31bdf7d_o.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Pablo Maia liga alerta com sequência de tropeços do São Paulo no Brasileiro e cobra reação",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/pablo-maia-liga-alerta-com-sequencia-de-tropecos-do-sao-paulo-no-brasileiro-e-cobra-reacao/",
-        "summary": "Pablo Maia marcou o gol do São Paulo no empate por 1 a 1 contra o Coritiba, pela 23ª rodada do Campeonato Brasileiro, anotando seu primeiro tento no ano. Após a partida, o volante cobrou reação da equipe e mostrou preocu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466918820_e9428d1b06_c.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Análise: Palmeiras sofre pelos lados, tem apagão após gol e deixa vitória escapar contra Fluminense",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/3838644/",
-        "summary": "*Por João Germano O Palmeiras completou sua quarta partida sem vitória na temporada ao perder de virada para o Fluminense neste sábado. Apesar de ter a vantagem no placar em duas oportunidades, o Verdão acabou derrotado ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/15082026_cg_palmeiras_2457_27.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Projeto mapeia caminhos para economia verde no Nordeste",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Petrobras anuncia descoberta de petróleo na Foz do Amazonas",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-anuncia-descoberta-de-petroleo-na-foz-do-amazonas",
@@ -237,18 +247,48 @@
         "cls": ""
       },
       {
-        "title": "Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Casas Bahia fala em recuperação extrajudicial ou judicial após prejuízo de R$ 10 bi",
+        "link": "https://www.infomoney.com.br/mercados/casas-bahia-fala-em-recuperacao-extrajudicial-ou-judicial-apos-prejuizo-de-r-10-bi/",
+        "summary": "A companhia começou em 2023 o que chamou de \"plano de transformação\" e vem implementando medidas operacionais e financeiras destinadas à melhoria de sua eficiência, rentabilidade e geração de caixa The post Casas Bahia f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-08-at-17.52.34-e1786825063739.jpeg?fit=300%2C172&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena hoje, concurso 3045: Confira o resultado sorteado neste domingo (16)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3045-confira-o-resultado-sorteado-neste-domingo-16/",
+        "summary": "Os sorteios ocorrem três vezes por semana, às terças, quintas e domingos The post Mega-Sena hoje, concurso 3045: Confira o resultado sorteado neste domingo (16) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-loteria-caixa-mega-sena-3045-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Casas Bahia (BHIA3) aumenta prejuízo para R$ 10 bi no 2º trimestre",
+        "link": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-resultados-segundo-trimestre-2026/",
+        "summary": "A companhia adiou a apresentação do balanço duas vezes e divulgou seus dados na madrugada do domingo (16) The post Casas Bahia (BHIA3) aumenta prejuízo para R$ 10 bi no 2º trimestre appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/08/FTA20230811068-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "IA entra na conta da inflação: chips mais caros pressionam preços no Reino Unido",
+        "link": "https://www.infomoney.com.br/mundo/ia-entra-na-conta-da-inflacao-chips-mais-caros-pressionam-precos-no-reino-unido/",
+        "summary": "Demanda por chips para inteligência artificial eleva custos de eletrônicos e preocupa o Banco da Inglaterra The post IA entra na conta da inflação: chips mais caros pressionam preços no Reino Unido appeared first on Info",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/421263007.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "Pix vai além das transferências e impulsiona empreendedorismo no Brasil",
-        "link": "https://www.infomoney.com.br/business/pix-vai-alem-das-transferencias-e-impulsiona-empreendedorismo-no-brasil/",
+        "link": "https://www.infomoney.com.br/minhas-financas/pix-vai-alem-das-transferencias-e-impulsiona-empreendedorismo-no-brasil/",
         "summary": "Pesquisa aponta que infraestrutura de pagamentos mais acessível favorece trabalho por conta própria e pequenos empreendimentos The post Pix vai além das transferências e impulsiona empreendedorismo no Brasil appeared fir",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pix-pagamento-instantaneo-qrcode-taxa-pagar-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
@@ -267,99 +307,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Indonésia tem mais de 50 mortos e 5 mil fora de casa após terremoto de magnitude 7,7",
-        "link": "https://www.infomoney.com.br/mundo/indonesia-tem-mais-de-50-mortos-e-5-mil-fora-de-casa-apos-terremoto-de-magnitude-77/",
-        "summary": "Equipes de resgate trabalham nos escombros, mas tremores secundários dificultam resgates The post Indonésia tem mais de 50 mortos e 5 mil fora de casa após terremoto de magnitude 7,7 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/indonesia-tremor-terremoto-resgate-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Após centenário, marketing do Itaú foca em reapresentar portfólio impulsionado por IA",
+        "link": "https://exame.com/exame-in/apos-centenario-marketing-do-itau-foca-em-reapresentar-portfolio-impulsionado-por-ia/",
+        "summary": "Juliana Cury, Chief Marketing Officer (CMO), analisa a evolução da área e discute como equilibrar a solidez de uma marca centenária, cultura de inovação e hiperpersonalização",
+        "image": null,
         "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Brasil conquista ouro inédito no Mundial de ginástica rítmica com maior nota do ano",
-        "link": "https://www.infomoney.com.br/esportes/brasil-conquista-ouro-inedito-no-mundial-de-ginastica-ritmica-com-maior-nota-do-ano/",
-        "summary": "Conquista veio um dia depois do país ficar com o bronze na prova geral e garantir de forma antecipada uma vaga nos Jogos Olímpicos de Los Angeles The post Brasil conquista ouro inédito no Mundial de ginástica rítmica com",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ginastica-ritmica-esporte-olimpico-olimpiada-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Ao som de Lady Gaga, Brasil conquista 2º ouro no Mundial de ginástica rítmica; veja vídeo",
+        "link": "https://exame.com/esporte/ao-som-de-lady-gaga-brasil-conquista-2o-ouro-no-mundial-de-ginastica-ritmica-veja-video/",
+        "summary": "Seleção repetiu os 29.450 pontos na série mista e encerrou competição com três medalhas",
+        "image": null,
         "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Gestora de US$ 1,3 tri defende precaução nos mercados, foge dos EUA e compra Sabesp",
-        "link": "https://www.infomoney.com.br/onde-investir/gestora-de-us-13-tri-defende-precaucao-nos-mercados-foge-dos-eua-e-compra-sabesp/",
-        "summary": "Laura Howenstine, da estratégia Global Quality Growth da Wellington Management, defende posição abaixo da média nos EUA, e comprada em saneamento brasileiro The post Gestora de US$ 1,3 tri defende precaução nos mercados,",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-ls4-mundo-movimento-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Arsenal x Manchester City: Haaland e brasileiros disputam a Supercopa da Inglaterra hoje",
+        "link": "https://exame.com/esporte/arsenal-x-manchester-city-haaland-e-brasileiros-disputam-a-supercopa-da-inglaterra-hoje/",
+        "summary": "Gabriel Magalhães e Bruno Guimarães são titulares no clássico da temporada inglesa",
+        "image": null,
         "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "PIB de Israel dispara 15,4% após contração provocada por guerra com Irã",
-        "link": "https://www.infomoney.com.br/mundo/pib-de-israel-dispara-154-apos-contracao-provocada-por-guerra-com-ira/",
-        "summary": "Exportações de bens e serviços lideraram a recuperação, com alta de 35,2% The post PIB de Israel dispara 15,4% após contração provocada por guerra com Irã appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/jerusalem-israel-pesquita-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Por que o futuro da inovação pertence a quem controla a infraestrutura?",
+        "link": "https://exame.com/future-of-money/por-que-o-futuro-da-inovacao-pertence-a-quem-controla-a-infraestrutura/",
+        "summary": "O dinheiro do venture capital voltou, mas a dificuldade é conseguir atraí-lo, e o mercado mostra o caminho",
+        "image": null,
         "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "24 horas em Madri: o roteiro de turismo para conhecer a capital da Espanha",
+        "link": "https://exame.com/casual/24-horas-em-madri-o-roteiro-de-turismo-para-conhecer-a-capital-da-espanha/",
+        "summary": "Entre palácios históricos e parques gigantescos, a capital da Espanha brilha na Europa para quem gosta de arte, gastronomia e história",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Chapecoense x Bahia: onde assistir ao vivo e horário do jogo do Brasileirão hoje",
         "link": "https://exame.com/esporte/chapecoense-x-bahia-onde-assistir-ao-vivo-e-horario-do-jogo-do-brasileirao-hoje/",
         "summary": "Equipes se enfrentam neste domingo, 16, na Arena Condá, pela 23ª rodada do Campeonato Brasileiro 2026",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eleições 2026: propaganda eleitoral começa neste domingo; veja o que muda",
-        "link": "https://exame.com/brasil/eleicoes-2026-propaganda-eleitoral-comeca-neste-domingo-veja-o-que-muda/",
-        "summary": "Pedidos de voto, comícios e campanhas na internet estão liberados; horário eleitoral na TV e no rádio começa em 28 de agosto",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A tokenização precisa ir além da vitrine do negócio",
-        "link": "https://exame.com/future-of-money/a-tokenizacao-precisa-ir-alem-da-vitrine-do-negocio/",
-        "summary": "O próximo salto do crédito privado virá quando lastro, garantias, regras e pagamentos passarem a integrar uma mesma jornada digital",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A briga de família que colocou a Argentina no mapa do vinho",
-        "link": "https://exame.com/casual/a-briga-de-familia-que-colocou-a-argentina-no-mapa-do-vinho/",
-        "summary": "O fundador da Catena era fã da uva Bonarda, mas foi a Malbec que se tornou parte da identidade do país",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Aos 16 anos, ele assumiu o restaurante do pai. Hoje vende 200 mil esfihas por mês e prepara expansão",
-        "link": "https://exame.com/negocios/aos-16-anos-ele-assumiu-o-restaurante-do-pai-hoje-vende-200-mil-esfihas-por-mes-e-prepara-expansao/",
-        "summary": "Fundado por um imigrante sírio, o Samir Amis completa 20 anos preparando duas novas unidades, fortalecendo o delivery e projetando crescimento de até 22% ao ano",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Brasil faz história com primeiro ouro no Mundial de ginástica rítmica; veja apresentação",
-        "link": "https://exame.com/esporte/brasil-faz-historia-com-primeiro-ouro-no-mundial-de-ginastica-ritmica-veja-apresentacao/",
-        "summary": "Seleção alcançou a maior nota da temporada na final das cinco bolas e superou China e Bulgária",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
