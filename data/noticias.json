@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T01:37:32.872Z",
+  "updated": "2026-08-16T03:03:39.564Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao",
+        "summary": "p strong O a href= https://www.fluminense.com.br/site/ target= _blank Fluminense /a encerrou jejum de oito jogos sem vencer e, de quebra, atrapalhou os planos do a href= https://www.palmeiras.com.br/home/ target= _blank ",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Publicação lembra 50 anos do atentado à sede da ABI na ditadura",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura img src= https://cdn.jsdelivr.net/gh/sergiosdli",
@@ -161,29 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Prédio desaba em São Bernardo do Campo e deixa cinco feridos",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/predio-desaba-em-sao-bernardo-do-campo-e-deixa-quatro-feridos",
-        "summary": "p strong Um prédio residencial, em São Bernardo do Campo, na Grande São Paulo, desabou neste sábado (15) e deixou cinco pessoas sob os escombros – entre elas uma adolescente de 15 anos. /strong img src= https://agenciabr",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Leila Pereira se pronuncia sobre fase ruim do Palmeiras e promete trabalho",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-pereira-palmeiras-ma-fase-fluminense-libertadores/",
+        "summary": "Em meio à sequência de quatro jogos sem vitória, a presidente do Palmeiras, Leila Pereira, usou as redes sociais para demonstrar confiança na recuperação da equipe. Após a derrota por 3 a 2 para o Fluminense, no Maracanã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPzs7LRWoAATvOV.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Calleri dá razão à torcida após vaias e reclama de pênalti não marcado para o São Paulo: Claríssimo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/calleri-cobra-arbitragem-penalti-empate-sao-paulo-coritiba/",
+        "summary": "Calleri deixou o gramado do Morumbis revoltado com a arbitragem, reclamando de um pênalti que não foi marcado neste sábado durante o empate do São Paulo por 1 a 1 com o Coritiba, pela 23ª rodada do Campeonato Brasileiro.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466691914_5d1dafddd3_k.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Após falha contra o Corinthians, Volpi se redime em empate do RB Bragantino com o Athletico-PR",
+        "link": "https://www.gazetaesportiva.com/times/bragantino/tiago-volpi-bragantino-empate-athletico-pr/",
+        "summary": "O Red Bull Bragantino empatou em 1 a 1 com o Athletico-PR na Arena da Baixada, em partida válida pelo Brasileirão. Após falha decisiva na derrota para o Corinthians na rodada anterior, o goleiro Tiago Volpi se recuperou ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466653295_0078a636ff_o.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "São Paulo cede empate ao Coritiba em retorno ao Morumbis e amplia jejum no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-23a-rodada-brasileirao-15-08-2026/",
+        "summary": "O São Paulo ampliou seu jejum de vitórias no Campeonato Brasileiro para nove jogos neste sábado após ceder o empate por 1 a 1 para o Coritiba, e saiu vaiado do Morumbis, em São Paulo (SP), em duelo válido pela 23ª rodada",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466651619_11af786a40_c.webp",
+        "date": "16 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "São Paulo x Coritiba: veja fotos do jogo da 23ª rodada do Brasileirão",
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-coritiba-veja-fotos-do-jogo-da-23a-rodada-do-brasileirao/",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/bragantino/athletico-pr-rb-bragantino-pedro-henrique-vaias-empate-brasileirao/",
         "summary": "Athletico-PR e RB Bragantino empataram por 1 a 1 na Arena da Baixada pela 23ª rodada do Brasileirão. O zagueiro Pedro Henrique, ex-jogador do Furacão, abriu o placar para o Massa Bruta e comentou as vaias recebidas da to",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465336592_455b247158_o.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Brusque vence Inter de Limeira de virada e assume a liderança da Série C",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/brusque-vence-inter-de-limeira-de-virada-e-assume-a-lideranca-da-serie-c/",
-        "summary": "O Brusque venceu a Inter de Limeira por 3 a 2, de virada, neste sábado, na Arena Simon, pela 17ª rodada da Série C do Campeonato Brasileiro. Getúlio e Miguel Bianconi marcaram para os paulistas, enquanto Raimar, Ryan e P",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img-7726.jpg-1-.avif",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Stones marca o gol da vitória em sua estreia pelo Inter de Milão; confira",
-        "link": "https://www.gazetaesportiva.com/times/internazionale/stones-marca-o-gol-da-vitoria-em-sua-estreia-pelo-inter-de-milao-confira/",
-        "summary": "Stones marca o gol da vitória em sua estreia pelo Inter de Milão O post Stones marca o gol da vitória em sua estreia pelo Inter de Milão; confira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Stone.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Mikey Moore e Richarlison marcam na vitória do Tottenham sobre o Hoffenheim",
-        "link": "https://www.gazetaesportiva.com/times/tottenham/mikey-moore-e-richarlison-marcam-na-vitoria-do-tottenham-sobre-o-hoffenheim/",
-        "summary": "Mikey Moore e Richarlison marcam na vitória do Tottenham sobre o Hoffenheim O post Mikey Moore e Richarlison marcam na vitória do Tottenham sobre o Hoffenheim apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Mike.webp",
-        "date": "16 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Linense vence Marília e se aproxima de classificação às quartas da Copa Paulista",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/linense-vence-marilia-lideranca-grupo-1-copa-paulista/",
-        "summary": "O Linense venceu o Marília por 1 a 0 neste sábado (15), no Estádio Bento de Abreu Sampaio Vidal, em Marília, pela quinta rodada da fase de grupos da Copa Paulista. O único gol da partida saiu aos 14 minutos do primeiro t",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/marilia_4_1.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,6 +367,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Eleições 2026: quem são os candidatos ao governo de Minas Gerais?",
+        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-de-minas-gerais/",
+        "summary": "Em Minas Gerais, 11 nomes foram oficializados para disputar o governo estadual durante o período das convenções partidárias",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Fluminense vira contra o Palmeiras no Maracanã em jogo pelo Brasileirão",
         "link": "https://exame.com/esporte/fluminense-vira-contra-o-palmeiras-no-maracana-em-jogo-pelo-brasileirao/",
         "summary": "Equipe carioca marcou aos 46 minutos do segundo tempo no Maracanã e reduziu impacto da derrota sobre a disputa pela liderança",
@@ -410,16 +420,6 @@
         "title": "Presidente da Colômbia pede suspensão de tarifas dos EUA após terremoto",
         "link": "https://exame.com/mundo/presidente-da-colombia-pede-suspensao-de-tarifas-dos-eua-apos-terremoto/",
         "summary": "Abelardo de la Espriella solicitou a Trump uma pausa nas medidas comerciais para reduzir pressão sobre empresas afetadas pelo desastre",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Honda lança Biz Kuromi, edição especial inspirada em personagem da Sanrio",
-        "link": "https://exame.com/casual/honda-lanca-biz-kuromi-edicao-especial-inspirada-em-personagem-da-sanrio/",
-        "summary": "Ideia nasceu de duas motos conceito exibidas pela marca na CCXP, em São Paulo, no fim de 2025",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
