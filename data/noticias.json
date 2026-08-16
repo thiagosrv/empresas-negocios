@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-16T06:45:56.786Z",
+  "updated": "2026-08-16T07:34:20.320Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Esquizofrenia: falta de enzima na gestação pode estar ligada à origem da doença, diz Unicamp",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/esquizofrenia-falta-de-enzima-na-gestacao-pode-estar-ligada-a-origem-da-doenca-diz-unicamp.ghtml",
+        "summary": "Esquizofrenia: falta de enzima na gestação pode estar ligada à origem da doença Pesquisadores da Universidade Estadual de Campinas (Unicamp) e de outras instituições brasileiras descobriram que a baixa atividade de uma e",
+        "image": "https://s2-g1.glbimg.com/fyu7wQCrB-IlCi-CYaS4DxJDfqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/O/DrmeY7QYAiImKSWeeOYQ/alicia-petresc-xvpdpkvxfp4-unsplash.jpg",
+        "date": "16 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Sexta e sábado concentram maior número de acidentes na região de Campinas, aponta Infosiga",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/sexta-e-sabado-concentram-maior-numero-de-acidentes-na-regiao-de-campinas-aponta-infosiga.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/15/jucara-vale-mais-em-pe-fruto-transforma-realidade-e-gera-renda-no-vale-do-ribeira.ghtml",
         "summary": "Assista ao Terra da Gente deste sábado (15/08/2026) na íntegra Uma palmeira que no passado era derrubada para a retirada de pouco mais de meio quilo de palmito hoje permanece em pé, produz frutos, gera renda para família",
         "image": "https://s2-g1.glbimg.com/QlhjeHoac9a-7-ohUPFUo_vkqV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/XPjCz7SOufLRhxNmCjCQ/a-2026-08-14t114929.410.jpg",
-        "date": "15 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Casal é preso em Indaiatuba por suspeita de furtar carga de doces avaliada em R$ 29 mil",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/casal-e-preso-suspeito-de-furtar-carga-de-doces-em-indaiatuba.ghtml",
-        "summary": "Casal é preso suspeito de furtar carga de doces avaliada em R$ 29 mil em Indaiatuba Guarda Municipal de Indaiatuba/Divulgação Um casal foi preso na noite desta sexta-feira (14), em Indaiatuba (SP), suspeito de furtar uma",
-        "image": "https://s2-g1.glbimg.com/0TrHMjOfyv-mEqO7GFHTrIzN5bc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/xaAjLZT6u79eB6w4Z9Hw/design-sem-nome-9-.png",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -367,6 +367,26 @@
         "cls": "brasil"
       },
       {
+        "title": "‘O Brasil vai ser o salvador da fome do mundo’, diz Júnior Friboi",
+        "link": "https://exame.com/negocios/o-brasil-vai-ser-o-salvador-da-fome-do-mundo-diz-junior-friboi/",
+        "summary": "Depois de participar da expansão internacional da JBS, empresário não descarta repetir esse caminho com a sua empresa JBJ Agropecuária",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Frigoríficos, genética e mercado global: o plano dessa gigante do agro para chegar aos R$ 10 bilhões",
+        "link": "https://exame.com/negocios/frigorificos-genetica-e-expansao-global-o-plano-dessa-gigante-do-agro-para-chegar-a-r-10-bilhoes/",
+        "summary": "Em entrevista exclusiva à EXAME, Fabrício Batista, CEO da JBJ Agropecuária, explica como a compra de um novo frigorífico deve elevar o faturamento do grupo, que vê oportunidades no cenário internacional",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Quem são os 13 candidatos que vão disputar a Presidência nas eleições de 2026",
         "link": "https://exame.com/brasil/quem-sao-os-13-candidatos-que-vao-disputar-a-presidencia-nas-eleicoes-de-2026/",
         "summary": "Disputa pelo Palácio do Planalto terá 13 nomes; 12 chapas são “puro-sangue”, com presidente e vice do mesmo partido",
@@ -400,26 +420,6 @@
         "title": "Trump pode ter 3º mandato em 2028? Entenda o que diz a Constituição dos EUA",
         "link": "https://exame.com/mundo/trump-pode-ter-3o-mandato-em-2028-entenda-o-que-diz-a-constituicao-dos-eua/",
         "summary": "Presidente compartilhou imagem com as frases 'Trump 2028' e 'Nós vamos vencer' em rede social, mas lei americana proíbe a candidatura",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Fim à lâmpada branca? Geração Z quer levar luz baixa até aos escritórios",
-        "link": "https://exame.com/pop/fim-a-lampada-branca-geracao-z-quer-levar-luz-baixa-ate-aos-escritorios/",
-        "summary": "Funcionários mais jovens reclamam de luzes fortes em escritórios, enquanto empresas tentam equilibrar conforto, produtividade e preferências individuais",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PSG anuncia contratação do herói da final da Copa do Mundo",
-        "link": "https://exame.com/esporte/psg-anuncia-contratacao-do-heroi-da-final-da-copa-do-mundo/",
-        "summary": "Ferran Torres deixa o Barcelona e assina contrato com o clube francês até 2031",
         "image": null,
         "date": "15 de ago. de 2026",
         "source": "Exame",
