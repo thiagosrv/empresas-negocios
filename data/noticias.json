@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T17:22:26.801Z",
+  "updated": "2026-08-16T18:34:00.426Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasileirão: Chapecoense busca empate com Bahia em jogo de seis gols",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-chapecoense-busca-empate-com-bahia-em-jogo-de-seis-gols",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-chapecoense-busca-empate-com-bahia-em-jogo-de-seis-gols img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Perto de completar 50 anos, Festival Guarnicê de Cinema começa dia 20",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/perto-de-completar-50-anos-festival-guarnice-de-cinema-comeca-dia-20",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/perto-de-completar-50-anos-festival-guarnice-de-cinema-comeca-dia-20 img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil faz história e leva dois ouros no Mundial de ginástica rítmica",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-faz-historia-e-leva-dois-ouros-no-mundial-de-ginastica-ritmica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-faz-historia-e-leva-dois-ouros-no-mundial-de-ginastica-ritmica img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "TSE determina remoção de vídeo que associa Lula ao PCC e ao CV",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Nove pessoas morrem em tombamento de ônibus em Petrópolis",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/nove-pessoas-morrem-em-tombamento-de-onibus-em-petropolis",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/nove-pessoas-morrem-em-tombamento-de-onibus-em-petropolis img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Projeto mapeia caminhos para economia verde no Nordeste",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Bastidores do primeiro dia de Ferran Torres no PSG",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/bastidores-do-primeiro-dia-de-ferran-torres-no-psg/",
-        "summary": "Bastidores do primeiro dia de Ferran Torres no PSG O post Bastidores do primeiro dia de Ferran Torres no PSG apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/prim.webp",
+        "title": "Dorival admite que São Paulo está devendo e assume responsabilidade",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-admite-que-sao-paulo-esta-devendo-e-assume-responsabilidade/",
+        "summary": "Dorival admite que São Paulo está devendo e assume responsabilidade O post Dorival admite que São Paulo está devendo e assume responsabilidade apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Dorival.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Racing Santander e Villarreal empatam em jogo de quatro gols na estreia de LaLiga",
-        "link": "https://www.gazetaesportiva.com/times/villarreal/racing-santander-e-villarreal-empatam-em-jogo-de-quatro-gols-na-estreia-de-laliga/",
-        "summary": "Racing Santander e Villarreal empataram em 2 a 2, neste domingo, pela primeira rodada do Campeonato Espanhol. Andrés Martín e Sergio Martínez marcaram para os donos da casa, enquanto Pape Gueye e Nicolas Pépé garantiram ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__C4T748Q__v1__HighRes__FblEspLigaSantanderVillarreal.webp",
+        "title": "Messi perde pênalti no duelo contra o Nashville; veja o lance",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/messi-perde-penalti-no-duelo-contra-o-nashville-veja-o-lance/",
+        "summary": "Messi perde pênalti no duelo contra o Nashville; veja o lance O post Messi perde pênalti no duelo contra o Nashville; veja o lance apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Mes.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Assista ao belo gol de Forsberg após escapar da armadilha de impedimento do Atlanta United",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/assista-ao-belo-gol-de-forsberg-apos-escapar-da-armadilha-de-impedimento-do-atlanta-united/",
-        "summary": "Assista ao belo gol de Forsberg após escapar da armadilha de impedimento do Atlanta United O post Assista ao belo gol de Forsberg após escapar da armadilha de impedimento do Atlanta United apareceu primeiro em Gazeta Esp",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Forsb.webp",
+        "title": "Santos tem retorno na lateral para enfrentar o Vasco; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-tem-retorno-na-lateral-para-enfrentar-o-vasco-veja-escalacoes/",
+        "summary": "O Santos está escalado para o duelo de logo mais diante do Vasco, neste domingo, pela 23ª rodada do Campeonato Brasileiro. Para a partida, o técnico Cuca conta com o retorno de Igor Vinícius na lateral direita do Peixe. ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HP3ASKvXUAAksbf-2.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Adeyemi marca e Barcelona goleia Basel em amistoso de pré-temporada",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-x-basel-amistoso-5-a-2/",
-        "summary": "O Barcelona encerrou sua pré-temporada com uma goleada por 5 a 2 sobre o Basel, neste domingo, na Suíça. Karim Adeyemi, Hamza Abdelkarim, Lamine Yamal e Jesse Bisiwu, duas vezes, marcaram os gols da equipe comandada por ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HPOdI53XoAA8EQZ.webp",
+        "title": "Melhores momentos: Nashville SC 4 x 1 Inter Miami CF pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-nashville-sc-4-x-1-inter-miami-cf-pela-mls/",
+        "summary": "Melhores momentos: Nashville SC 4 x 1 Inter Miami CF pela MLS O post Melhores momentos: Nashville SC 4 x 1 Inter Miami CF pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Nash.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo goleia e cola na ponta do Brasileirão feminino; Palmeiras vence e Santos é eliminado",
-        "link": "https://www.gazetaesportiva.com/futebol-feminino/sao-paulo-goleia-e-cola-na-ponta-do-brasileirao-feminino-palmeiras-vence-e-santos-e-eliminado/",
-        "summary": "São Paulo, Palmeiras e Flamengo venceram pela 16ª rodada do Campeonato Brasileiro feminino. O Tricolor goleou o Botafogo por 5 a 1, o Verdão bateu o Juventude por 3 a 0 e o Rubro-Negro derrotou o Santos por 3 a 2, result",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/unnamed-file.webp",
+        "title": "Veja fotos do amistoso entre Liverpool x Como",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-do-amistoso-entre-liverpool-x-como/",
+        "summary": "Veja as fotos de Liverpool x Como, amistoso de pré-temporada disputado neste domingo, em Anfield, na Inglaterra. O post Veja fotos do amistoso entre Liverpool x Como apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__C4TB6JU__v1__HighRes__FblEngItaPrSerieaLiverpoolComoFriendly.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Mbappé marca, e Real Madrid goleia o Schalke 04 no último amistoso da pré-temporada",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/mbappe-marca-e-real-madrid-goleia-o-schalke-04-no-ultimo-amistoso-da-pre-temporada/",
-        "summary": "Real Madrid goleia o Schalke 04 por 3 a 0 no último amistoso da pré-temporada, com gols de Mbappé, Huijsen e Carlos Espí. O post Mbappé marca, e Real Madrid goleia o Schalke 04 no último amistoso da pré-temporada aparece",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__C4T64GN__v1__HighRes__FblFriendlySchalkeRealMadrid.webp",
+        "title": "Sosa tem lesão confirmada, e Palmeiras abre preparação para decisão contra o Cerro",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/sosa-tem-lesao-confirmada-e-palmeiras-abre-preparacao-para-decisao-contra-o-cerro/",
+        "summary": "O Palmeiras iniciou a preparação para o jogo decisivo contra o Cerro Porteño pelas oitavas de final da Libertadores. Khellven avançou na recuperação física, enquanto Ramón Sosa teve lesão na coxa esquerda confirmada e co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/15082026_cg_palmeiras_2797_63.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,94 @@
         "cls": ""
       },
       {
-        "title": "Varejo no 2T: como cenário macro impactou Casas Bahia, Renner, Magalu e Riachuelo?",
-        "link": "https://www.infomoney.com.br/mercados/varejo-no-2t-como-cenario-macro-impactou-casas-bahia-renner-magalu-e-riachuelo/",
-        "summary": "Enquanto Riachuelo surpreende positivamente, Renner corta projeção de crescimento e reforça a distância entre as varejistas de moda The post Varejo no 2T: como cenário macro impactou Casas Bahia, Renner, Magalu e Riachue",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/rupixen-Q59HmzK38eQ-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Mirassol x Flamengo: Onde assistir ao Brasileirão?",
+        "link": "https://www.infomoney.com.br/esportes/mirassol-flamengo-onde-assistir-brasileirao/",
+        "summary": "Os times se enfrentam na casa do Mirassol The post Mirassol x Flamengo: Onde assistir ao Brasileirão? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-mirassol-x-flamengo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Sem Kassab, Caiado lança campanha e diz que fala sobre Centrão foi mal interpretada",
-        "link": "https://www.infomoney.com.br/politica/sem-kassab-caiado-lanca-campanha-e-diz-que-fala-sobre-centrao-foi-mal-interpretada/",
-        "summary": "A ausência de Kassab ocorre dois dias após ter dito em um evento com empresários em São Paulo que os partidos do Centrão estão com o presidente Luiz Inácio Lula da Silva (PT) e que Flávio Bolsonaro (PL) tem \"chance zero\"",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "EUA consideram novas sanções contra ministro Alexandre de Moraes, diz Financial Times",
+        "link": "https://www.infomoney.com.br/politica/eua-consideram-novas-sancoes-contra-ministro-alexandre-de-moraes-diz-financial-times/",
+        "summary": "Os Estados Unidos impuseram sanções a Moraes em julho do ano passado, sob a Lei Magnitsky The post EUA consideram novas sanções contra ministro Alexandre de Moraes, diz Financial Times appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-10T123043Z_1200882291_RC20PGALARZP_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Eleições 2026: Lula lança campanha de chapéu e com vídeo para Lula de 1979",
-        "link": "https://www.infomoney.com.br/politica/eleicoes-2026-lula-lanca-campanha-de-chapeu-e-com-video-para-lula-de-1979/",
-        "summary": "Durante o discurso, que também contou com falas de outras autoridades, como o ex-ministro da Fazenda, Fernando Haddad, o vice-presidente Geraldo Alckmin e a deputada federal Benedita da Silva The post Eleições 2026: Lula",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-lula-pt-campanha-sao-bernardo-05.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "França sofre ataque hacker e dados de 678 mil contas são extraídos de sistema fiscal",
+        "link": "https://www.infomoney.com.br/mundo/franca-sofre-ataque-hacker-e-dados-de-678-mil-contas-sao-extraidos-de-sistema-fiscal/",
+        "summary": "Invasores tiveram acesso a informações como renda tributável, alíquota de retenção, endereços e dados de imóveis; governo notificará os afetados The post França sofre ataque hacker e dados de 678 mil contas são extraídos",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/paris-bloomberg.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Golpistas utilizam nomes de grandes marcas em falsas ofertas de empréstimos",
-        "link": "https://www.infomoney.com.br/minhas-financas/golpistas-utilizam-nomes-de-grandes-marcas-em-falsas-ofertas-de-emprestimos/",
-        "summary": "Fraudes podem simular créditos oferecidos por empresas de varejo, telefonia e delivery. Especialistas recomendam o que fazer para se proteger e depois de cair em um golpe The post Golpistas utilizam nomes de grandes marc",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/pexels-rdne-8293764.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Grupo Toky, dona da Tok Stok e da Mobly, tem prejuízo de R$ 232,7 milhões no 2T",
+        "link": "https://www.infomoney.com.br/mercados/toky-toky3-resultados-segundo-trimestre-2026/",
+        "summary": "O grupo fechou 12 lojas no semestre e vê a receita cair 37,3% The post Grupo Toky, dona da Tok Stok e da Mobly, tem prejuízo de R$ 232,7 milhões no 2T appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/tokstokdivulg.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Eleições 2026: Flávio Bolsonaro dá início à campanha presidencial em Copacabana",
-        "link": "https://www.infomoney.com.br/politica/eleicoes-2026-flavio-bolsonaro-pl-da-inicio-a-campanha-presidencial-em-copacabana/",
-        "summary": "O candidato do PL escolheu o Estado do Rio, berço político do bolsonarismo, para dar o pontapé inicial à campanha The post Eleições 2026: Flávio Bolsonaro dá início à campanha presidencial em Copacabana appeared first on",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-flavio-bolsonaro-pl-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Novas projeções apontam El Niño de intensidade inédita em séculos",
+        "link": "https://www.infomoney.com.br/mundo/novas-projecoes-apontam-el-nino-de-intensidade-inedita-em-seculos/",
+        "summary": "Dados atualizados em agosto mostram aquecimento excepcional do Pacífico e reforçam o risco de um episódio mais intenso que os grandes eventos das últimas décadas The post Novas projeções apontam El Niño de intensidade in",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/el-nino-pacifico-clima02-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Vasco x Santos?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-vasco-santos/",
-        "summary": "Os times estão praticamente empatados, com diferença apenas no saldo de gols The post Onde assistir Vasco x Santos? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-vasco-da-gama-x-santos-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Toda a direita vai estar unida no 2º turno , diz Romeu Zema no 1º dia de campanha",
+        "link": "https://www.infomoney.com.br/politica/toda-a-direita-vai-estar-unida-no-2o-turno-diz-romeu-zema-no-1o-dia-de-campanha/",
+        "summary": "Zema enfatizou sua atuação para atrair investimentos e criticou a política internacional adotada pelo governo Lula The post Toda a direita vai estar unida no 2º turno , diz Romeu Zema no 1º dia de campanha appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Google passa a integrar Gemini ao Classroom - veja como será a mudança",
+        "link": "https://exame.com/tecnologia/google-passa-a-integrar-gemini-ao-classroom-veja-como-sera-a-mudanca/",
+        "summary": "De acordo com a companhia, o objetivo é tornar as pesquisas mais relevantes para cada aluno",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Disney anuncia nova área temática 'monstruosa' - veja quando será a inauguração",
+        "link": "https://exame.com/pop/disney-anuncia-nova-area-tematica-monstruosa-veja-quando-sera-a-inauguracao/",
+        "summary": "O projeto está entre os mais ambiciosos já desenvolvidos para o complexo Disney",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "'Homem-Aranha: Um Novo Dia' supera US$ 2 bilhões nas bilheterias",
+        "link": "https://exame.com/pop/homem-aranha-um-novo-dia-supera-us-2-bilhoes-nas-bilheterias/",
+        "summary": "Filme com Tom Holland alcançou a marca em apenas três fins de semana e já é a oitava maior bilheteria da história",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Flávio inicia campanha em Copacabana e chama Lula de 'caloteiro da esperança'",
@@ -390,36 +420,6 @@
         "title": "Quem são os 30 semifinalistas do programa da Samsung de inovação em escolas públicas",
         "link": "https://exame.com/esg/quem-sao-os-30-semifinalistas-do-programa-da-samsung-de-inovacao-em-escolas-publicas/",
         "summary": "Projetos selecionados propõem soluções a desafios das comunidades locais e sustentabilidade é o tema que mais aparece; Equipes seguem agora para mentorias antes da divulgação dos 10 finalistas",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Perto do gol mil, Cristiano Ronaldo sinaliza que 'aposentadoria está perto'",
-        "link": "https://exame.com/esporte/perto-do-gol-mil-cristiano-ronaldo-sinaliza-que-aposentadoria-esta-perto/",
-        "summary": "Cristiano afirmou que já tem o futuro traçado e pretende dedicar mais tempo a outras atividades e hobbies",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Foco em mulheres, segurança pública e menções a Deus: os recados de Lula no ato inicial da campanha",
-        "link": "https://exame.com/brasil/foco-em-mulheres-seguranca-publica-e-mencoes-a-deus-os-recados-de-lula-no-ato-inicial-da-campanha/",
-        "summary": "Presidente prometeu prender criminosos que 'se acham donos da favela'",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Arsenal atropela Manchester City por 3 a 0 e conquista Supercopa da Inglaterra",
-        "link": "https://exame.com/esporte/arsenal-atropela-manchester-city-por-3-a-0-e-conquista-supercopa-da-inglaterra/",
-        "summary": "Calafiori marcou aos 23 segundos, e Havertz e Ødegaard completaram a vitória em Cardiff",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
