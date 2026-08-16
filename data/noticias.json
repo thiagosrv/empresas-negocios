@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-16T18:34:00.426Z",
+  "updated": "2026-08-16T19:23:32.537Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Carreta carregada com café pega fogo e interdita pista da D. Pedro I, em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/carreta-carregada-com-cafe-pega-fogo-e-interdita-pista-da-d-pedro-i-em-campinas.ghtml",
+        "summary": "Carreta pegou fogo na altura do km 137 da Rodovia D. Pedro I, em Campinas Reprodução/Rota das Bandeiras Uma carreta carregada com café pegou fogo e causou a interdição de uma pista da Rodovia D. Pedro I, em Campinas (SP)",
+        "image": "https://s2-g1.glbimg.com/5rNe8lTPonqKRekOEipBDIhlWi0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Y/FroX6DRL2AuTedocyNug/whatsapp-image-2026-08-16-at-15.47.56.jpeg",
+        "date": "16 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Defesa Civil recomenda demolição de madeireira e três comércios atingidos por incêndio em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/defesa-civil-recomenda-demolicao-de-madeireira-e-tres-comercios-atingidos-por-incendio-em-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/sexta-e-sabado-concentram-maior-numero-de-acidentes-na-regiao-de-campinas-aponta-infosiga.ghtml",
         "summary": "Região de Campinas registra mais de sete mil acidentes em 2026 Sexta-feira e sábado são os dias da semana em que a Região Administrativa de Campinas (SP) mais registra acidentes de trânsito. Os dados são do Sistema de In",
         "image": "https://s2-g1.glbimg.com/MFPdwZaVpmL9FzDsr548VyfCpMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/z/hBvX2USLamjJUaiQdCtg/g1-2026-01-29t140352.230.png",
-        "date": "15 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Madeireira que pegou fogo e atingiu lojas vizinhas não tem alvará, diz Prefeitura",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/15/madeireira-que-pegou-fogo-e-atingiu-lojas-vizinhas-nao-tinha-alvara-diz-prefeitura.ghtml",
-        "summary": "VÍDEO: incêndio atinge barracão em Campinas A madeireira que pegou fogo e atingiu lojas vizinhas na manhã deste sábado (15), na Estrada da Rhodia, em Campinas (SP), não possuía alvará de funcionamento da Prefeitura, segu",
-        "image": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg",
         "date": "15 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Pesquisadores encontram plantas consideradas extintas há 30 anos",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/pesquisadores-encontram-plantas-consideradas-extintas-ha-30-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/pesquisadores-encontram-plantas-consideradas-extintas-ha-30-anos img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasileiro Feminino: São Paulo goleia, iguala líder e afunda Botafogo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-sao-paulo-goleia-iguala-lider-e-afunda-botafogo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-sao-paulo-goleia-iguala-lider-e-afunda-botafogo img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vítimas de tombamento de ônibus em Petrópolis são do sexo feminino",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/vitimas-de-tombamento-de-onibus-em-petropolis-sao-do-sexo-feminino",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/vitimas-de-tombamento-de-onibus-em-petropolis-sao-do-sexo-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasileirão: Chapecoense busca empate com Bahia em jogo de seis gols",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-chapecoense-busca-empate-com-bahia-em-jogo-de-seis-gols",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-chapecoense-busca-empate-com-bahia-em-jogo-de-seis-gols img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "TSE determina remoção de vídeo que associa Lula ao PCC e ao CV",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Exposição do Muhcab celebra resistência da Pequena África, no Rio",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-do-muhcab-celebra-resistencia-da-pequena-africa-no-rio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-do-muhcab-celebra-resistencia-da-pequena-africa-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mega-sena acumula para R$ 45 milhões; confira os números",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-45-milhoes-confira-os-numeros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-45-milhoes-confira-os-numeros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Dorival admite que São Paulo está devendo e assume responsabilidade",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-admite-que-sao-paulo-esta-devendo-e-assume-responsabilidade/",
-        "summary": "Dorival admite que São Paulo está devendo e assume responsabilidade O post Dorival admite que São Paulo está devendo e assume responsabilidade apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Dorival.webp",
+        "title": "Melhores momentos: Chapecoense 3 x 3 Bahia pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-chapecoense-3-x-3-bahia-pelo-brasileirao/",
+        "summary": "Confira os melhores momentos de Chapecoense 3 x 3 Bahia, duelo válido pela 23ª rodada do Campeonato Brasileiro, disputado na manhã deste domingo, na Arena Condá. Como ficou a classificação após Chapecoense 3 x 3 Bahia. C",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55468066455_408a057dd9_o.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Messi perde pênalti no duelo contra o Nashville; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/messi-perde-penalti-no-duelo-contra-o-nashville-veja-o-lance/",
-        "summary": "Messi perde pênalti no duelo contra o Nashville; veja o lance O post Messi perde pênalti no duelo contra o Nashville; veja o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Mes.webp",
+        "title": "Melhores momentos: Colorado Rapids 2 x 0 Sporting Kansas City pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-colorado-rapids-2-x-0-sporting-kansas-city-pela-mls/",
+        "summary": "Melhores momentos: Colorado Rapids 2 x 0 Sporting Kansas City pela MLS O post Melhores momentos: Colorado Rapids 2 x 0 Sporting Kansas City pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Color.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos tem retorno na lateral para enfrentar o Vasco; veja escalações",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-tem-retorno-na-lateral-para-enfrentar-o-vasco-veja-escalacoes/",
-        "summary": "O Santos está escalado para o duelo de logo mais diante do Vasco, neste domingo, pela 23ª rodada do Campeonato Brasileiro. Para a partida, o técnico Cuca conta com o retorno de Igor Vinícius na lateral direita do Peixe. ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HP3ASKvXUAAksbf-2.webp",
+        "title": "Melhores momentos: Real Salt Lake 1 x 1 Minnesota United pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-real-salt-lake-1-x-1-minnesota-united-pela-mls/",
+        "summary": "Melhores momentos: Real Salt Lake 1 x 1 Minnesota United pela MLS O post Melhores momentos: Real Salt Lake 1 x 1 Minnesota United pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Rea.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Nashville SC 4 x 1 Inter Miami CF pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-nashville-sc-4-x-1-inter-miami-cf-pela-mls/",
-        "summary": "Melhores momentos: Nashville SC 4 x 1 Inter Miami CF pela MLS O post Melhores momentos: Nashville SC 4 x 1 Inter Miami CF pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Nash.webp",
+        "title": "Vasco x Santos: siga o tempo real do jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/santos/vasco-x-santos-campeonato-brasileiro/",
+        "summary": "O Santos visita o Vasco neste domingo, às 16h (de Brasília), em São Januário, no Rio de Janeiro (RJ), pela 23ª rodada do Campeonato Brasileiro. O confronto coloca frente a frente dois adversários diretos na luta contra o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55467705436_66f6607d97_o.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do amistoso entre Liverpool x Como",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-do-amistoso-entre-liverpool-x-como/",
-        "summary": "Veja as fotos de Liverpool x Como, amistoso de pré-temporada disputado neste domingo, em Anfield, na Inglaterra. O post Veja fotos do amistoso entre Liverpool x Como apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__C4TB6JU__v1__HighRes__FblEngItaPrSerieaLiverpoolComoFriendly.webp",
+        "title": "Liverpool vence Como em último teste antes do início da temporada",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-vence-como-em-ultimo-teste-antes-do-inicio-da-temporada/",
+        "summary": "O Liverpool venceu o Como por 2 a 0, neste domingo, em Anfield, no último amistoso de pré-temporada antes do início das competições nacionais. Cody Gakpo e Jérémy Jacquet marcaram os gols da vitória dos ingleses. O post ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__C4TB6JR__v1__HighRes__FblEngItaPrSerieaLiverpoolComoFriendly.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sosa tem lesão confirmada, e Palmeiras abre preparação para decisão contra o Cerro",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/sosa-tem-lesao-confirmada-e-palmeiras-abre-preparacao-para-decisao-contra-o-cerro/",
-        "summary": "O Palmeiras iniciou a preparação para o jogo decisivo contra o Cerro Porteño pelas oitavas de final da Libertadores. Khellven avançou na recuperação física, enquanto Ramón Sosa teve lesão na coxa esquerda confirmada e co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/15082026_cg_palmeiras_2797_63.webp",
+        "title": "Lens x PSG: siga o tempo real do jogo pela Supercopa da França",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/lens-x-psg-siga-o-tempo-real-do-jogo-pela-supercopa-da-franca/",
+        "summary": "Lens e Paris Saint-Germain se enfrentam neste domingo pela Supercopa da França. Acompanhe ao vivo, lance a lance, todos os detalhes da decisão no Stade Bollaert-Delelis. O post Lens x PSG: siga o tempo real do jogo pela ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260812__C4HU4ZQ__v1__MidRes__FblEurSupercupPsgAstonVilla.webp",
         "date": "16 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "João Fonseca vence holandês e avança no Masters 1000 de Cincinnati",
+        "link": "https://www.infomoney.com.br/esportes/joao-fonseca-vence-holandes-e-avanca-no-masters-1000-de-cincinnati/",
+        "summary": "Brasileiro de 19 anos bateu Botic van de Zandschulp por 2 sets a 0 e enfrentará o australiano Christopher O'Connell na próxima rodada The post João Fonseca vence holandês e avança no Masters 1000 de Cincinnati appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-29T190051Z_198412681_UP1EM5T1GTEAQ_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?fit=300%2C213&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Flavio: Vou cortar impostos, burocracia, corrupção e carguinhos petistas",
+        "link": "https://www.infomoney.com.br/politica/flavio-vou-cortar-impostos-burocracia-corrupcao-e-carguinhos-petistas/",
+        "summary": "Candidato fez primeiro ato de campanha na praia de Copacabana, no Rio de Janeiro, neste domingo The post Flavio: Vou cortar impostos, burocracia, corrupção e carguinhos petistas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-flavio-bolsonaro-pl-b-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula diz querer quarto mandato para impedir volta de direita que ria de asfixiados",
+        "link": "https://www.infomoney.com.br/politica/lula-diz-querer-quarto-mandato-para-impedir-volta-de-direita-que-ria-de-asfixiados/",
+        "summary": "Lançamento da campanha petista ocorreu neste domingo em São Bernardo do Campo, São Paulo The post Lula diz querer quarto mandato para impedir volta de direita que ria de asfixiados appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-lula-pt-campanha-sao-bernardo-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Não houve nada , diz Tarcísio sobre suposta perseguição da PM a motorista de Haddad",
+        "link": "https://www.infomoney.com.br/politica/nao-houve-nada-diz-tarcisio-sobre-suposta-perseguicao-da-pm-a-motorista-de-haddad/",
+        "summary": "Segundo governador, caso deve virar inquérito na Polícia Civil e motorista deve ser intimado a depor The post Não houve nada , diz Tarcísio sobre suposta perseguição da PM a motorista de Haddad appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate1.avif?resize=300,200",
+        "date": "16 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Mirassol x Flamengo: Onde assistir ao Brasileirão?",
         "link": "https://www.infomoney.com.br/esportes/mirassol-flamengo-onde-assistir-brasileirao/",
         "summary": "Os times se enfrentam na casa do Mirassol The post Mirassol x Flamengo: Onde assistir ao Brasileirão? appeared first on InfoMoney.",
@@ -327,44 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "França sofre ataque hacker e dados de 678 mil contas são extraídos de sistema fiscal",
-        "link": "https://www.infomoney.com.br/mundo/franca-sofre-ataque-hacker-e-dados-de-678-mil-contas-sao-extraidos-de-sistema-fiscal/",
-        "summary": "Invasores tiveram acesso a informações como renda tributável, alíquota de retenção, endereços e dados de imóveis; governo notificará os afetados The post França sofre ataque hacker e dados de 678 mil contas são extraídos",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/paris-bloomberg.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "João Fonseca vence holandês que 'aposentou' Nadal; veja quando será o próximo jogo do brasileiro",
+        "link": "https://exame.com/esporte/joao-fonseca-vence-holandes-que-aposentou-nadal-veja-quando-sera-o-proximo-jogo-do-brasileiro/",
+        "summary": "A melhor marca de João Fonseca em torneios da série Masters 1000 até o momento foram as quartas de final no ATP de Montecarlo deste ano",
+        "image": null,
         "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Grupo Toky, dona da Tok Stok e da Mobly, tem prejuízo de R$ 232,7 milhões no 2T",
-        "link": "https://www.infomoney.com.br/mercados/toky-toky3-resultados-segundo-trimestre-2026/",
-        "summary": "O grupo fechou 12 lojas no semestre e vê a receita cair 37,3% The post Grupo Toky, dona da Tok Stok e da Mobly, tem prejuízo de R$ 232,7 milhões no 2T appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/04/tokstokdivulg.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Novas projeções apontam El Niño de intensidade inédita em séculos",
-        "link": "https://www.infomoney.com.br/mundo/novas-projecoes-apontam-el-nino-de-intensidade-inedita-em-seculos/",
-        "summary": "Dados atualizados em agosto mostram aquecimento excepcional do Pacífico e reforçam o risco de um episódio mais intenso que os grandes eventos das últimas décadas The post Novas projeções apontam El Niño de intensidade in",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/el-nino-pacifico-clima02-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Toda a direita vai estar unida no 2º turno , diz Romeu Zema no 1º dia de campanha",
-        "link": "https://www.infomoney.com.br/politica/toda-a-direita-vai-estar-unida-no-2o-turno-diz-romeu-zema-no-1o-dia-de-campanha/",
-        "summary": "Zema enfatizou sua atuação para atrair investimentos e criticou a política internacional adotada pelo governo Lula The post Toda a direita vai estar unida no 2º turno , diz Romeu Zema no 1º dia de campanha appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Google passa a integrar Gemini ao Classroom - veja como será a mudança",
@@ -410,16 +420,6 @@
         "title": "De Schwarzenegger à Michelle Obama: os planos do SP2B para sua próxima edição",
         "link": "https://exame.com/marketing/de-schwarzenegger-a-michelle-obama-os-planos-do-sp2b-para-sua-proxima-edicao/",
         "summary": "Após estreia no Ibirapuera, festival começa a preparar nova edição com foco em diversidade regional e grandes atrações",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quem são os 30 semifinalistas do programa da Samsung de inovação em escolas públicas",
-        "link": "https://exame.com/esg/quem-sao-os-30-semifinalistas-do-programa-da-samsung-de-inovacao-em-escolas-publicas/",
-        "summary": "Projetos selecionados propõem soluções a desafios das comunidades locais e sustentabilidade é o tema que mais aparece; Equipes seguem agora para mentorias antes da divulgação dos 10 finalistas",
         "image": null,
         "date": "16 de ago. de 2026",
         "source": "Exame",
