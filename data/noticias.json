@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-17T14:32:00.806Z",
+  "updated": "2026-08-17T15:28:30.762Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Caminhão de tijolos tomba e deixa motorista ferido em Indaiatuba",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/17/caminhao-de-tijolos-tomba-e-deixa-motorista-ferido-em-indaiatuba.ghtml",
+        "summary": "Caminhão de tijolos tomba e deixa motorista ferido em Indaiatuba Um caminhão carregado de tijolos tombou na manhã desta segunda-feira (17) em Indaiatuba (SP), após o motorista relatar que não conseguiu frear. O acidente ",
+        "image": "https://s2-g1.glbimg.com/OhhGPS8hgi-URxib1TNch62LA6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/s/4Zx0rzTsiqiuAnyTAISw/tomba-c-t.png",
+        "date": "17 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "EPTV 1 Campinas ao vivo",
         "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/filme-de-fiuk-que-virou-prejuizo-teve-cenas-gravadas-no-interior-de-sp-com-100-carros-e-150-figurantes.ghtml",
         "summary": "Parte da Avenida Anchieta fica interditada para gravação de filme em Campinas O filme que, segundo o cantor e ator Fiuk, contribuiu para sua atual crise financeira teve uma de suas sequências gravadas em Campinas (SP). O",
         "image": "https://s2-g1.glbimg.com/1a6Qf2ckK3-RpO4wCA8ClsukuPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/z/8faWu7TJGonOg6polx9A/longaemcampinas1.jpg",
-        "date": "17 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pato-mergulhão usa cupinzeiro como ninho na Serra da Canastra em registro inédito para a ciência",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/17/pato-mergulhao-usa-cupinzeiro-como-ninho-na-serra-da-canastra-em-registro-inedito-para-a-ciencia.ghtml",
-        "summary": "Pato-mergulhão usa cupinzeiro como ninho na Serra da Canastra em registro inédito Considerada uma das aves aquáticas mais ameaçadas do planeta e carinhosamente batizada de \"Embaixadora das Águas Brasileiras\", o pato-merg",
-        "image": "https://s2-g1.glbimg.com/7lSN63aUf2cgxLAjswIlm3zwhqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Z/aD3b1PQdu9RYlTyQY5Og/pato-mergulhao-cupinzeiro.jpg",
         "date": "17 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "IBC-Br recuou 0,6% em junho, diz Banco Central",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ibc-br-recuou-06-em-junho-diz-banco-central",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ibc-br-recuou-06-em-junho-diz-banco-central img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Confira a agenda dos candidatos à Presidência desta segunda-feira",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-desta-segunda-feira",
+        "summary": "p 1. strong Augusto Cury (Avante) /strong br / Das 9h às 11h30 - Atividades de alinhamento interno de campanha no escritório de campanha em São Paulo; br / Das 17h às 18h30 - Participa de sabatina promovida pelo portal M",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "TSE recebe embaixadores nesta segunda para defender urna eletrônica",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-recebe-embaixadores-nesta-segunda-para-defender-urna-eletronica",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-recebe-embaixadores-nesta-segunda-para-defender-urna-eletronica img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Clariana Barão é a candidata do Democracia Cristã à Presidência",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/clariana-barao-e-candidata-do-democracia-crista-presidencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pelo Avante, escritor Augusto Cury estreia em disputas presidenciais",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pelo-avante-escritor-augusto-cury-estreia-em-disputas-presidenciais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/pelo-avante-escritor-augusto-cury-estreia-em-disputas-presidenciais img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Inspirada na resiliência da flor de lótus, São Paulo lança inédita terceira camisa do time feminino",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/inspirada-na-resiliencia-da-flor-de-lotus-sao-paulo-lanca-inedita-terceira-camisa-do-time-feminino/",
-        "summary": "O São Paulo lançou sua nova terceira camisa feminina para a temporada 2026. Desenvolvido em parceria com a New Balance, o uniforme é o primeiro da história do clube criado exclusivamente para a equipe feminina e tem como",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapDownloader.App_776658694_18624332455058173_6821643063184384634_n.webp",
+        "title": "Kompany: Momentos difíceis mantêm você motivado",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/kompany-momentos-dificeis-mantem-voce-motivado/",
+        "summary": "Vincent Kompany responde a perguntas dos torcedores, revelando como os desafios alimentam sua motivação e o que torna o Bayern de Munique um lar para atletas do mundo todo. O post Kompany: Momentos difíceis mantêm você m",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/3l614qj4-1920Kompany.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do novo uniforme exclusivo da equipe feminina do São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-novo-uniforme-exclusivo-da-equipe-feminina-do-sao-paulo/",
-        "summary": "O São Paulo lançou sua nova terceira camisa feminina para a temporada 2026. Desenvolvido em parceria com a New Balance, o uniforme é o primeiro da história do clube criado exclusivamente para a equipe feminina e tem como",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapDownloader.App_775633598_18624332521058173_4991720437134711310_n.webp",
+        "title": "Ângulo Único: O primeiro gol de Durán com a camisa do Celtic",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/angulo-unico-o-primeiro-gol-de-duran-com-a-camisa-do-celtic/",
+        "summary": "Câmera exclusiva! Confira por um ângulo diferente o primeiro gol do colombiano Camilo Durán pelo Celtic na vitória da Copa da Liga Escocesa contra o Dundee United. O post Ângulo Único: O primeiro gol de Durán com a camis",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/z27ez0ga-1920opa-da-Liga-Escocesa.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Promessa do Real Madrid Jacobo Ortega assina com o Strasbourg",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/promessa-do-real-madrid-jacobo-ortega-assina-com-o-strasbourg/",
-        "summary": "O Strasbourg anunciou a contratação do atacante espanhol Jacobo Ortega, de 20 anos, que deixou o Real Madrid para assinar contrato até 2031. Destaque das categorias de base do clube merengue e campeão da Uefa Youth Leagu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/jacobo.webp",
+        "title": "A seis metros do gol e com sangue frio! A cavadinha de Paixão contra o Atlético",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-seis-metros-do-gol-e-com-sangue-frio-a-cavadinha-de-paixao-contra-o-atletico/",
+        "summary": "Que pintura do brasileiro! Igor Paixão esbanjou categoria e calma ao encobrir o goleiro do Atlético de Madrid no amistoso do Olympique de Marseille. O post A seis metros do gol e com sangue frio! A cavadinha de Paixão co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/xdv1a3k0-1920-seis-metros.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Após goleada, Flamengo aumenta chances de título e cola no Palmeiras",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/apos-goleada-flamengo-aumenta-chances-de-titulo-e-cola-no-palmeiras/",
-        "summary": "A briga pelo título do Campeonato Brasileiro ficou ainda mais equilibrada após a 23ª rodada. Enquanto o Flamengo goleou o Mirassol e manteve sua sequência invicta desde a retomada da competição, o Palmeiras perdeu para o",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/flapal.webp",
+        "title": "Tonali e Robertson combinam para gol de Richarlison contra o Hoffenheim",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/tonali-e-robertson-combinam-para-gol-de-richarlison-contra-o-hoffenheim/",
+        "summary": "Entrosamento das contratações! Tonali e Robertson criaram a jogada para o gol de Richarlison na vitória do Spurs por 3 a 0 na pré-temporada. O post Tonali e Robertson combinam para gol de Richarlison contra o Hoffenheim ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/0yfwg8f0-1920Tonali.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tempo de bola rolando aumenta no Brasileirão após novas regras de arbitragem",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/tempo-bola-rolando-serie-a-novas-regras-cbf/",
-        "summary": "A implementação das novas regras de arbitragem já apresentou reflexos na Série A do Campeonato Brasileiro. Após nove jogos da 23ª rodada, a média de bola rolando passou para 55 minutos e 29 segundos por partida, superand",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466157473_cb842ff803_o.webp",
+        "title": "Arsenal ergue a taça da Supercopa da Inglaterra após vencer o City por 3 a 0",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/arsenal-ergue-a-taca-da-supercopa-da-inglaterra-apos-vencer-o-city-por-3-a-0/",
+        "summary": "Campeões! Confira o momento em que o Arsenal ergueu o troféu do Community Shield após uma vitória convincente sobre o Manchester City. O post Arsenal ergue a taça da Supercopa da Inglaterra após vencer o City por 3 a 0 a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/xegq676v-1920Arsenal-ergue-a-taca.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tottenham aceita proposta da Juventus, e Vicario fica perto de retornar à Itália",
-        "link": "https://www.gazetaesportiva.com/times/juventus/tottenham-aceita-proposta-da-juventus-e-vicario-fica-perto-de-retornar-a-italia/",
-        "summary": "Guillermo Vicario está próximo de deixar o Tottenham para retornar ao futebol italiano. A Juventus avançou nas negociações pelo goleiro após encerrar as tentativas de contratar Emiliano Martínez e Zion Suzuki. Sem espaço",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/vicario.webp",
+        "title": "Melhores momentos: Seattle Sounders FC 0 x 2 Vancouver pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-seattle-sounders-fc-0-x-2-vancouver-pela-mls/",
+        "summary": "Melhores momentos: Seattle Sounders FC 0 x 2 Vancouver pela MLS O post Melhores momentos: Seattle Sounders FC 0 x 2 Vancouver pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/uey19sn7-1920-Sounders.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,26 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Aplicativo do Tesouro Direto é desativado a partir desta segunda-feira",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-e-desativado-partir-desta-segunda-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aplicativo-do-tesouro-direto-e-desativado-partir-desta-segunda-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "IBC-Br recuou 0,6% em junho, diz Banco Central",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ibc-br-recuou-06-em-junho-diz-banco-central",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ibc-br-recuou-06-em-junho-diz-banco-central img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Trabalhadores nascidos em novembro e dezembro recebem abono salarial",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/trabalhadores-nascidos-em-novembro-e-dezembro-recebem-abono-salarial",
@@ -287,89 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Amcham defende que adoção de reciprocidade contra os EUA seja evitada",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/amcham-defende-que-adocao-de-reciprocidade-contra-os-eua-seja-evitada",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/amcham-defende-que-adocao-de-reciprocidade-contra-os-eua-seja-evitada img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Durigan rebate críticas de inércia sobre crise do BRB",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Blue3 lança movimento para atrair profissionais seniores de fora do setor financeiro",
-        "link": "https://www.infomoney.com.br/advisor/blue3-lanca-movimento-para-atrair-profissionais-seniores-de-fora-do-setor-financeiro/",
-        "summary": "Programa Blue3 Future mira talentos com habilidade relacional, de diferentes setores tradicionais, que buscam transição de carreira. Com pacote de remuneração fixa, variável e bônus de até R$100 mil no período de 12 a 18",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2150103555.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Oncoclínicas (ONCO3): ação sobe 18% mesmo após prejuízo saltar; analistas têm cautela",
+        "link": "https://www.infomoney.com.br/mercados/oncoclinicas-onco3-acao-sobe-18-mesmo-apos-prejuizo-saltar-analistas-tem-cautela/",
+        "summary": "Oncoclínicas amplia prejuízo líquido, que fica em R$ 475,7 mi no 2º tri The post Oncoclínicas (ONCO3): ação sobe 18% mesmo após prejuízo saltar; analistas têm cautela appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/31ef2ab6-98c7-462b-8668-b618ef8b5b24.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TSE reúne diplomatas para defender urnas e detalhar plano contra deepfakes",
-        "link": "https://www.infomoney.com.br/politica/tse-reune-diplomatas-para-defender-urnas-e-detalhar-plano-contra-deepfakes/",
-        "summary": "Encontro terá representantes de cerca de cem embaixadas, incluindo os Estados Unidos, e ocorre em meio à discussão sobre IA e desinformação na campanha The post TSE reúne diplomatas para defender urnas e detalhar plano c",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/54960928752_f4dc098afb_k.jpg?fit=300%2C229&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17082026/",
+        "summary": "Bolsas dos EUA começam semana sem direção com peso de tensões no Irã e otimismo sobre IA The post Ibovespa Hoje Ao Vivo: Bolsa oscila com IBC-Br, Focus, eleições e guerra no radar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-23.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Novo marco? Petrobras avança na Margem Equatorial, mas há caminho longo até 1º óleo",
-        "link": "https://www.infomoney.com.br/mercados/novo-marco-petrobras-avanca-na-margem-equatorial-mas-ha-caminho-longo-ate-1o-oleo/",
-        "summary": "Bancos avaliam que o anúncio é relevante por abrir uma nova fronteira de exploração no Brasil The post Novo marco? Petrobras avança na Margem Equatorial, mas há caminho longo até 1º óleo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/FPSO-P-67_Credito_Andre-Motta-de-Souza_Agencia-Petrobras.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Dino afasta presidente TCE do Maranhão em caso que envolve propina e homicídio",
+        "link": "https://www.infomoney.com.br/politica/dino-afasta-presidente-tce-do-maranhao-em-caso-que-envolve-propina-e-homicidio/",
+        "summary": "Daniel Itapary Brandão é citado em apuração que conecta suspeitas de propina em contratos públicos ao assassinato de um empresário em 2022 The post Dino afasta presidente TCE do Maranhão em caso que envolve propina e hom",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55131061486_7dad3a100a_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Flávio adia retorno a local da facada em Jair Bolsonaro e mantém agenda em BH",
-        "link": "https://www.infomoney.com.br/politica/flavio-adia-retorno-a-local-da-facada-em-jair-bolsonaro-e-mantem-agenda-em-bh/",
-        "summary": "Candidato pretendia refazer trajeto ligado à facada sofrida por Jair Bolsonaro em 2018; agenda será remarcada The post Flávio adia retorno a local da facada em Jair Bolsonaro e mantém agenda em BH appeared first on InfoM",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/IMG_3680.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Durigan: intolerância com inflação deve valer também para irresponsabilidade fiscal",
+        "link": "https://www.infomoney.com.br/politica/durigan-intolerancia-com-inflacao-deve-valer-tambem-para-irresponsabilidade-fiscal/",
+        "summary": "Para o ministro da Fazenda, o próximo passo é ampliar esse padrão de intolerância para decisões fiscais sem lastro The post Durigan: intolerância com inflação deve valer também para irresponsabilidade fiscal appeared fir",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "PF indicia Rei do Lixo e mais 24 por suspeita de desvio de emendas parlamentares",
-        "link": "https://www.infomoney.com.br/politica/pf-indicia-rei-do-lixo-e-mais-24-por-suspeita-de-desvio-de-emendas-parlamentares/",
-        "summary": "José Marcos Moura é um dos apontados como responsável por esquema que desviou cerca de R$ 1,4 bilhão em obras superfaturadas The post PF indicia Rei do Lixo e mais 24 por suspeita de desvio de emendas parlamentares appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/rei-do-lixo.avif?resize=300,167",
+        "title": "Durigan: não há motivo para medo da reforma tributária",
+        "link": "https://www.infomoney.com.br/politica/durigan-nao-ha-motivo-para-medo-da-reforma-tributaria/",
+        "summary": "De acordo com o ministro da Fazenda, a reforma precisa sinalizar que 2026 será voltado à educação e adaptação, sem penalidades relacionadas a obrigações acessórias The post Durigan: não há motivo para medo da reforma tri",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-20T215600Z_1_LYNXMPEM4J1XG_RTROPTP_4_BRAZIL-ECONOMY-DURIGAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tesouro IPCA+ que volta ao bolso do investidor nesta 2ª supera o CDI com folga",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-que-volta-ao-bolso-do-investidor-nesta-2a-supera-o-cdi-com-folga/",
-        "summary": "Cálculos do Inter mostram vantagem de até 92 pontos percentuais sobre o benchmark desde 2016, e a proporção entre os ganhos permanece a mesma depois do Imposto de Renda The post Tesouro IPCA+ que volta ao bolso do invest",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-15T133112Z_1_LYNXMPEL3E0LZ_RTROPTP_4_BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal",
+        "link": "https://www.infomoney.com.br/politica/durigan-juros-precisam-ser-enderecados-um-dos-caminhos-e-pelo-lado-fiscal/",
+        "summary": "Ministro da Fazenda destacou que o governo pretende perseguir a trajetória de resultado fiscal prevista no PLDO The post Durigan: juros precisam ser endereçados; um dos caminhos é pelo lado fiscal appeared first on InfoM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-18T142742Z_1_LYNXMPEM5H12V_RTROPTP_4_BRAZIL-ECONOMY-DURIGAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "É seguro comprar na Casas Bahia? As principais dúvidas dos consumidores sobre a RJ",
-        "link": "https://exame.com/invest/minhas-financas/e-seguro-comprar-na-casas-bahia-as-principais-duvidas-dos-consumidores-sobre-a-rj/",
-        "summary": "Especialistas em direito do consumidor respondem as principais dúvidas sobre como os consumidores devem se portar nesse momento",
+        "title": "'Túmulo dos Vagalumes' volta aos cinemas nesta semana; veja onde assistir",
+        "link": "https://exame.com/pop/tumulo-dos-vagalumes-volta-aos-cinemas-nesta-semana-veja-onde-assistir/",
+        "summary": "Filme do Studio Ghibli terá nova temporada no Cinemark com sessões a partir de 20 de agosto",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Arthur Cabral é o primeiro jogador expulso pela ‘Lei Vini Jr.’ no Brasileirão; entenda",
-        "link": "https://exame.com/esporte/arthur-cabral-e-o-primeiro-jogador-expulso-pela-lei-vini-jr-no-brasileirao-entenda/",
-        "summary": "Atacante do Botafogo recebeu cartão vermelho depois de colocar a mão na boca durante uma discussão com o técnico do Vitória após o apito final",
+        "title": "Paraná Pesquisas: Deltan Dallagnol lidera corrida ao Senado no Paraná",
+        "link": "https://exame.com/brasil/parana-pesquisas-deltan-dallagnol-lidera-corrida-ao-senado-no-parana/",
+        "summary": "Ex-procurador lidera corrida pelas duas vagas do estado, seguido de perto por Alexandre Curi, que não concorre, e Gleisi Hoffmann, que lidera índice de rejeição",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Netflix divulga trailer da 4ª temporada de 'A Diplomata'; veja o vídeo",
-        "link": "https://exame.com/pop/netflix-divulga-trailer-da-4a-temporada-de-a-diplomata-veja-o-video/",
-        "summary": "Nova temporada chega à Netflix ainda em 2026 e retoma os acontecimentos após a transformação de Grace Penn em presidente dos Estados Unidos",
+        "title": "Jack Sparrow está de volta? Johnny Depp negocia retorno em 'Piratas do Caribe 6'",
+        "link": "https://exame.com/pop/jack-sparrow-esta-voltando-johnny-depp-negocia-retorno-em-piratas-do-caribe-6/",
+        "summary": "Novo filme deve apresentar uma protagonista vivida por Margot Robbie, com Jack Sparrow em uma possível participação de apoio",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Homem-Aranha: Um Novo Dia' bate US$ 2 bi em bilheteria; veja os filmes que superaram essa marca",
-        "link": "https://exame.com/pop/homem-aranha-um-novo-dia-bate-us-2-bi-em-bilheteria-veja-os-filmes-que-superaram-essa-marca/",
-        "summary": "Longa lidera a bilheteria de 2026 e supera A Odisseia e Toy Story 5 em arrecadação mundial",
+        "title": "Onde nasceu 'A Odisseia'? Caverna na Turquia seria o local onde Homero escreveu a obra",
+        "link": "https://exame.com/ciencia/onde-nasceu-a-odisseia-caverna-na-turquia-seria-o-local-onde-homero-escreveu-a-obra/",
+        "summary": "Local tenta reforçar sua conexão histórica com o autor de \"A Ilíada\" e \"A Odisseia\" em meio ao interesse renovado pelo poeta",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ibovespa opera sem direção com Petrobras em alta e bancos em queda; dólar tem leve queda",
-        "link": "https://exame.com/invest/mercados/ibovespa-opera-sem-direcao-com-petrobras-em-alta-e-bancos-em-queda-dolar-tem-leve-queda/",
-        "summary": "Mercado acompanha indicadores econômicos no Brasil, a guerra no Irã e a alta do petróleo hoje",
+        "title": "O que é o ciclone extratropical que deve atingir o Brasil nesta semana?",
+        "link": "https://exame.com/ciencia/o-que-e-o-ciclone-extratropical-que-deve-atingir-o-brasil-nesta-semana/",
+        "summary": "Sistema de baixa pressão deve provocar chuva intensa, temporais, rajadas de até 100 km/h e queda nas temperaturas na Região Sul",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Paraná Pesquisas: Moro tem 46,1% e Requião Filho, 23,4%, no 1º turno no Paraná",
-        "link": "https://exame.com/brasil/parana-pesquisas-moro-tem-461-e-requiao-filho-234-no-1o-turno-no-parana/",
-        "summary": "Senador lidera corrida pelo governo estadual com ampla margem, enquanto deputado estadual consolida segunda posição e lidera índice de rejeição no estado",
+        "title": "Fuvest abre inscrições para Vestibular 2027; confira tudo que você precisa saber",
+        "link": "https://exame.com/brasil/fuvest-abre-inscricoes-para-vestibular-2027-confira-tudo-que-voce-precisa-saber/",
+        "summary": "Vestibular destinado à entrada na Universidade de São Paulo (USP) em 2027 terá inscrições abertas entre segunda-feira, 17 de agosto, e quarta-feira, 9 de setembro",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
