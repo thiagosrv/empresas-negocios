@@ -1,51 +1,7 @@
 {
-  "updated": "2026-08-17T16:44:48.059Z",
+  "updated": "2026-08-17T17:44:42.071Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Tonali e Robertson combinam para gol de Richarlison contra o Hoffenheim",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/tonali-e-robertson-combinam-para-gol-de-richarlison-contra-o-hoffenheim/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de ago. de 2026",
-      "isoDate": "2026-08-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "A seis metros do gol e com sangue frio! A cavadinha de Paixão contra o Atlético",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-seis-metros-do-gol-e-com-sangue-frio-a-cavadinha-de-paixao-contra-o-atletico/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de ago. de 2026",
-      "isoDate": "2026-08-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ângulo Único: O primeiro gol de Durán com a camisa do Celtic",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/angulo-unico-o-primeiro-gol-de-duran-com-a-camisa-do-celtic/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de ago. de 2026",
-      "isoDate": "2026-08-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Kompany: &#8220;Momentos difíceis mantêm você motivado&#8221;",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/kompany-momentos-dificeis-mantem-voce-motivado/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de ago. de 2026",
-      "isoDate": "2026-08-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
     {
       "title": "Ndiaye: sua trajetória e a forte relação com a mãe",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/ndiaye-sua-trajetoria-e-a-forte-relacao-com-a-mae/",
@@ -55,7 +11,7 @@
       "isoDate": "2026-08-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Primeiro gol na Eredivisie aos 17 anos: O golaço espetacular de Ouazane!",
@@ -66,7 +22,7 @@
       "isoDate": "2026-08-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "O primeiro gol de Jacquet pelo Liverpool",
@@ -77,11 +33,55 @@
       "isoDate": "2026-08-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Benzema pode deixar o Al-Hilal nesta janela após pedido de técnico",
       "link": "https://www.gazetaesportiva.com/al-hilal/benzema-pode-deixar-o-al-hilal-nesta-janela-apos-pedido-de-tecnico/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de ago. de 2026",
+      "isoDate": "2026-08-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Lukaku se aproxima de Neymar em ranking histórico do mercado da bola",
+      "link": "https://www.gazetaesportiva.com/futebol/mercado/neymar-lider-ranking-transferencias-historia-futebol/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de ago. de 2026",
+      "isoDate": "2026-08-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Federação escocesa retira apoio a Infantino",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/federacao-escocesa-retira-apoio-a-infantino/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de ago. de 2026",
+      "isoDate": "2026-08-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Neymar abre o jogo sobre polêmica com Thiago Mendes após vitória do Santos",
+      "link": "https://www.gazetaesportiva.com/times/santos/neymar-thiago-mendes-polemica-santos-vasco/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de ago. de 2026",
+      "isoDate": "2026-08-17",
+      "category": "Brasileirão",
+      "categoryColor": "#27ae60",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1fac0.png"
+    },
+    {
+      "title": "Após brilhar em vitória do América-MÉX, Raphael Veiga se considera adaptado ao futebol mexicano",
+      "link": "https://www.gazetaesportiva.com/times/palmeiras/raphael-veiga-america-mex-atletico-san-luis-adaptado/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "17 de ago. de 2026",
