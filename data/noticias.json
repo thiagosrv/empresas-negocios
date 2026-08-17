@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:03:26.877Z",
+  "updated": "2026-08-17T04:47:36.936Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Santos desencanta no 2º tempo e atropela o Vasco pelo Brasileirão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/santos-desencanta-no-2o-tempo-e-atropela-o-vasco-pelo-brasileirao",
+        "summary": "p O Santos ganhou um respiro na luta pela permanência na elite do Campeonato Brasileiro. Na tarde deste domingo (16), o Peixe desencantou no segundo tempo e venceu o Vasco por 3 a 0 em São Januário, no Rio de Janeiro, pe",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Candidatos iniciam campanha presidencial em redutos eleitorais",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidatos-iniciam-campanha-presidencial-em-redutos-eleitorais",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidatos-iniciam-campanha-presidencial-em-redutos-eleitorais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
@@ -171,19 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Vítimas de tombamento de ônibus em Petrópolis são do sexo feminino",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/vitimas-de-tombamento-de-onibus-em-petropolis-sao-do-sexo-feminino",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/vitimas-de-tombamento-de-onibus-em-petropolis-sao-do-sexo-feminino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Diniz justifica titulares contra o Cruzeiro e vê Corinthians preparado para decisão na Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-justifica-titulares-contra-o-cruzeiro-e-ve-corinthians-preparado-para-decisao-na-libertadores/",
+        "summary": "Às vésperas da decisão das oitavas de final da Copa Libertadores, o técnico Fernando Diniz decidiu mandar a campo um Corinthians titular para enfrentar o Cruzeiro, pela 23ª rodada do Campeonato Brasileiro. Apesar da derr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247461.webp",
+        "date": "17 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Corinthians reabre negociações para renovar com Memphis; veja detalhes",
         "link": "https://www.gazetaesportiva.com/times/corinthians/reviravolta-corinthians-reabre-negociacoes-para-renovar-com-memphis-veja-detalhes/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/santos/cuca-ha-muito-tempo-nao-via-o-santos-comemorar-uma-vitoria-assim/",
         "summary": "Cuca: \"Há muito tempo não via o Santos comemorar uma vitória assim\" O post Cuca: Há muito tempo não via o Santos comemorar uma vitória assim apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/ecnico-Cuca.webp",
-        "date": "17 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: New York City FC 2 x 3 Philadelphia Union pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-new-york-city-fc-2-x-3-philadelphia-union-pela-mls/",
-        "summary": "Melhores momentos: New York City FC 2 x 3 Philadelphia Union pela MLS O post Melhores momentos: New York City FC 2 x 3 Philadelphia Union pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Ne.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Casas Bahia entra com pedido de recuperação judicial para reestruturar dívidas",
+        "link": "https://www.infomoney.com.br/mercados/casas-bahia-entra-com-pedido-de-recuperacao-judicial-para-reestruturar-dividas/",
+        "summary": "A Casas Bahia comunicou na madrugada do domingo que registrou um prejuízo de mais de R$10 bilhões no segundo trimestre, citando impacto de um plano de redimensionamento de sua operação The post Casas Bahia entra com pedi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/casas-bahia-aricanduva.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+        "date": "17 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Cleitinho propõe fim de isenções fiscais em MG; Roscoe diz que medida afasta empresas",
         "link": "https://www.infomoney.com.br/politica/cleitinho-propoe-fim-de-isencoes-fiscais-em-mg-roscoe-diz-que-medida-afasta-empresas/",
         "summary": "Benefícios concedidos a empresas entram no centro do debate sobre como aumentar a arrecadação e enfrentar a dívida do estado The post Cleitinho propõe fim de isenções fiscais em MG; Roscoe diz que medida afasta empresas ",
@@ -351,16 +361,6 @@
         "link": "https://www.infomoney.com.br/politica/kalil-acusa-cleitinho-de-aprovar-propag-sem-ler-senador-mal-necessario/",
         "summary": "Dívida de Minas com a União domina debate da Band; candidatos defendem renegociação, revisão de incentivos e aumento de receita The post Kalil acusa Cleitinho de aprovar Propag “sem ler”; senador diz ser “Mal necessário”",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/cleitinho-alexandre-kalil.jpg?fit=300%2C180&amp;quality=70&amp;strip=all",
-        "date": "16 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Futuros de NY abrem estáveis e petróleo sobe levemente com tensões no Oriente Médio",
-        "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-abrem-estaveis-e-petroleo-sobe-levemente-com-tensoes-no-oriente-medio/",
-        "summary": "Confrontos no Oriente Médio podem complicar ainda mais as já travadas negociações entre Washington e Teerã The post Futuros de NY abrem estáveis e petróleo sobe levemente com tensões no Oriente Médio appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Wall-Street.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "16 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
