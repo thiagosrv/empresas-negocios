@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-17T22:28:19.535Z",
+  "updated": "2026-08-17T23:25:56.796Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Último vídeo de advogado encontrado morto em Mogi Mirim mostra encontro com amigo em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/ultimo-video-de-advogado-encontrado-morto-em-mogi-mirim-mostra-encontro-com-amigo-em-campinas.ghtml",
+        "summary": "Último vídeo de advogado encontrado morto mostra encontro com amigo Um vídeo gravado menos de 24 horas antes da morte do advogado Lucas Lopes, de 30 anos, mostra a vítima durante um encontro com um amigo em Campinas (SP)",
+        "image": "https://s2-g1.glbimg.com/21AijvIxBORr11TRCQNcKedmcqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/J/MCG2zxRvefEJyi1YjHZg/vlcsnap-2026-08-17-12h28m53s033.png",
         "date": "17 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Dino determina afastamento do presidente do TCE do Maranhão",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-determina-afastamento-do-presidente-do-tce-do-maranhao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-determina-afastamento-do-presidente-do-tce-do-maranhao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasil é campeão geral do Grand Prix de judô no Peru com 11 medalhas",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-e-campeao-geral-do-grand-prix-de-judo-no-peru-com-11-medalhas",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-e-campeao-geral-do-grand-prix-de-judo-no-peru-com-11-medalhas img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "TSE lança campanha para estimular participação nas eleições 2026",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-lanca-campanha-para-estimular-participacao-nas-eleicoes-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-lanca-campanha-para-estimular-participacao-nas-eleicoes-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Rybakina vence Frech e avança às oitavas do WTA 1000 de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/rybakina-vence-frech-e-avanca-as-oitavas-do-wta-1000-de-cincinnati/",
-        "summary": "Elena Rybakina garantiu vaga nas oitavas de final do WTA 1000 de Cincinnati nesta segunda-feira ao derrotar a polonesa Magdalena Frech por 6/4 e 7/6 (7-2). Em uma partida marcada por duas paralisações devido à chuva, a n",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260817__2290915942__v1__MidRes__CincinnatiOpen2026Day7.webp",
+        "title": "São Paulo fecha preparação para enfrentar o Bolívar; veja provável escalação",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-fecha-preparacao-para-encarar-o-bolivar-veja-provavel-escalacao/",
+        "summary": "O São Paulo finalizou, na tarde desta segunda-feira, a preparação para o duelo decisivo contra o Bolívar, pelas oitavas da Sul-Americana. O post São Paulo fecha preparação para enfrentar o Bolívar; veja provável escalaçã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2427-jpg-1229x1536-1.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Aubameyang marca, mas La Coruña cede empate na estreia pelo Espanhol",
-        "link": "https://www.gazetaesportiva.com/campeonatos/laliga/aubameyang-marca-mas-la-coruna-cede-empate-na-estreia-pelo-espanhol/",
-        "summary": "Na estreia do Campeonato Espanhol 2026/27, Deportivo La Coruña e Elche empataram por 1 a 1 no Estádio Riazor. Aubameyang marcou seu primeiro gol pelo Deportivo aos 21 minutos do primeiro tempo, após receber lançamento e ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HP8vFwkXMAAPwKH.webp",
+        "title": "Veja fotos do último treino do São Paulo antes de enfrentar o Bolívar",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-ultimo-treino-do-sao-paulo-antes-de-enfrentar-o-bolivar/",
+        "summary": "O post Veja fotos do último treino do São Paulo antes de enfrentar o Bolívar apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2409-jpg-1229x1536-1.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Julio Enciso e Ouattara deixam Strasbourg e assinam com Ipswich",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/julio-enciso-e-ouattara-deixam-strasbourg-e-assinam-com-ipswich/",
-        "summary": "O paraguaio Julio Enciso e o marfinense Abdoul Ouattara deixaram o clube francês Strasbourg para assinar com o inglês Ipswich, anunciou essa equipe nesta segunda-feira (17). O post Julio Enciso e Ouattara deixam Strasbou",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/9dcbf9c0-999a-11f1-bdf1-754d42367efe.webp",
+        "title": "São Paulo x Bolívar pela Sul-Americana: onde assistir ao vivo, estatísticas, histórico e escalações",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/sao-paulo-x-bolivar-sul-americana-18-08-2026/",
+        "summary": "Veja tudo sobre o jogo entre São Paulo e Bolívar-BOL hoje: onde assistir, estatísticas, arbitragem, escalações e histórico de confrontos. O post São Paulo x Bolívar pela Sul-Americana: onde assistir ao vivo, estatísticas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55458727655_3b5b6b0484_o.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Pisa vence o Empoli nos pênaltis e enfrenta a Fiorentina na 2ª fase da Copa da Itália",
-        "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/pisa-vence-empoli-nos-penaltis-e-enfrenta-a-fiorentina-na-2a-fase-da-copa-da-italia/",
-        "summary": "Veja detalhes do duelo entre Pisa e Empoli, pela primeira fase da Copa da Itália. O post Pisa vence o Empoli nos pênaltis e enfrenta a Fiorentina na 2ª fase da Copa da Itália apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1-0-allintervallo-%E2%9A%94%EF%B8%8F%F0%9F%96%A4%F0%9F%92%99%E2%9D%A4%EF%B8%8F.webp",
+        "title": "Independiente Rivadavia x Fluminense pela Libertadores: veja onde assistir ao vivo e prováveis escalações",
+        "link": "https://www.gazetaesportiva.com/times/fluminense/independiente-rivadavia-x-fluminense-pela-libertadores-veja-onde-assistir-ao-vivo-e-provaveis-escalacoes/",
+        "summary": "Independiente Rivadavia e Fluminense decidem nesta terça-feira uma vaga nas quartas de final da Copa Libertadores após empate sem gols no jogo de ida. O Tricolor chega para o confronto embalado pela vitória sobre o Palme",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260811__C4FB6YN__v1__HighRes__FblLibertadoresFluminenseIndrivadavia.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Organizada revela reunião com Dorival e Massis e cobra reação do São Paulo: Vencer ou vencer",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/organizada-revela-reuniao-com-dorival-e-massis-e-cobra-reacao-do-sao-paulo-vencer-ou-vencer/",
-        "summary": "Torcida Independente disse ter se reunido com Dorival, Massis e Rafinha para exigir uma reação do São Paulo já nesta terça, contra o Bolívar. O post Organizada revela reunião com Dorival e Massis e cobra reação do São Pa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55351223491_c9880dd3f1_o-4.webp",
+        "title": "Londrina x Atlético-GO pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/londrina-x-atletico-go-onde-assistir-serie-b/",
+        "summary": "Londrina e Atlético-GO se enfrentam nesta terça-feira pela 23ª rodada da Série B do Campeonato Brasileiro. Enquanto o Tubarão tenta encerrar a sequência negativa para seguir vivo na luta contra o rebaixamento, o Dragão b",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55438046828_60738ed79c_o.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com três de Pavlidis, Benfica faz sete no Casa Pia e vence a primeira pelo Português",
-        "link": "https://www.gazetaesportiva.com/times/benfica/benfica-goleia-casa-pia-7x0-campeonato-portugues/",
-        "summary": "O Benfica goleou o Casa Pia por 7 a 0 nesta segunda-feira (17), no Estádio Municipal de Rio Maior, pela segunda rodada do Campeonato Português. Os Encarnados conquistaram a primeira vitória na competição com gols de Gian",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260817__C4VN2BV__v1__HighRes__FblPorLigaCasaPiaBenfica.webp",
+        "title": "Corinthians x Fluminense: veja onde assistir e prováveis escalações do jogo pelo Brasileirão sub-17",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-x-fluminense-onde-assistir-brasileirao-sub17/",
+        "summary": "Corinthians e Fluminense se enfrentam pela 12ª rodada do Campeonato Brasileiro Sub-17, nesta terça-feira (18), às 17h, no Estádio da Fazendinha, em São Paulo. O Timão busca a recuperação após derrota para o Flamengo e oc",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247251.webp",
         "date": "17 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Durigan defende que Brasil deve ampliar relações comerciais",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-defende-que-brasil-deve-ampliar-relacoes-comerciais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-defende-que-brasil-deve-ampliar-relacoes-comerciais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "FGV estima que PIB desacelerou e cresceu 0,3% no segundo trimestre",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fgv-estima-que-pib-desacelerou-e-cresceu-03-no-segundo-trimestre",
@@ -297,14 +307,24 @@
         "cls": ""
       },
       {
-        "title": "Mercado mantém estáveis projeções para inflação, juros, PIB e dólar",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-mantem-estaveis-projecoes-para-inflacao-juros-pib-e-dolar",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-mantem-estaveis-projecoes-para-inflacao-juros-pib-e-dolar img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
+        "title": "Itaú Unibanco recebe autorização preliminar para ter banco múltiplo nos EUA",
+        "link": "https://www.infomoney.com.br/mercados/itau-unibanco-recebe-autorizacao-preliminar-para-ter-banco-multiplo-nos-eua/",
+        "summary": "Banco obteve autorização inicial do regulador americano para lançar o Itaú Bank, mas ainda depende de aprovações de outras autoridades dos Estados Unidos The post Itaú Unibanco recebe autorização preliminar para ter banc",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T222338Z_1_LYNXMPEM7G1IB_RTROPTP_4_BRAZIL-ECONOMY-BANKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ferrari Luce, elétrico personalizado, é vendido pelo maior valor já pago em leilão",
+        "link": "https://www.infomoney.com.br/consumo/ferrari-vende-carro-eletrico-personalizado-maior-valor-pago-leilao/",
+        "summary": "O modelo foi vendido em leilão beneficente durante a Monterey Car Week The post Ferrari Luce, elétrico personalizado, é vendido pelo maior valor já pago em leilão appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ferrari-luce-chassi-0-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "17 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "Novo ciclone ameaça Sul do Brasil com chuva intensa, granizo e ventos de até 100 km/h",
@@ -347,24 +367,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Nasdaq inicia diálogos para operar 24 horas por dia cinco vezes na semana",
-        "link": "https://www.infomoney.com.br/mercados/nasdaq-inicia-dialogos-para-operar-24-horas-por-dia-cinco-vezes-na-semana/",
-        "summary": "Em comunicado assinado pelo presidente da bolsa, Tal Cohen, a companhia indicou que o cronograma está sujeito à aprovação regulatória The post Nasdaq inicia diálogos para operar 24 horas por dia cinco vezes na semana app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/NASDAQ_stock_market_display.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Comida, história e esporte: Cristiano Ronaldo e suas paixões por Cascais",
+        "link": "https://exame.com/esporte/comida-historia-e-esporte-cristiano-ronaldo-e-suas-paixoes-por-cascais/",
+        "summary": "Cidade litorânea a poucos quilômetros de Lisboa combina praias, mansões, patrimônio histórico e restaurantes sofisticados",
+        "image": null,
         "date": "17 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Ibovespa fecha no 10º dia de queda com pressão de bancos e vai a 166.783 pontos",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-fecha-no-10o-dia-de-queda-com-pressao-de-bancos-e-vai-a-166-783-pontos/",
-        "summary": "Índice renova maior série de perdas desde as 13 quedas seguidas de 1º a 17 de agosto de 2023 The post Ibovespa fecha no 10º dia de queda com pressão de bancos e vai a 166.783 pontos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-03-175402.png?fit=300%2C194&amp;quality=70&amp;strip=all",
+        "title": "Eleições 2026: Garotinho troca de vice pela terceira vez na corrida ao governo do Rio",
+        "link": "https://exame.com/brasil/eleicoes-2026-garotinho-troca-de-vice-pela-terceira-vez-na-corrida-ao-governo-do-rio/",
+        "summary": "Sequência de mudanças começou com a saída do coronel da reserva Venâncio Moura (DC) e, nove dias depois, da major Elaine Gonçalves (Democrata)",
+        "image": null,
         "date": "17 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "'Controle o Paredes': Fifa revela conversa de árbitro com Messi na final da Copa",
+        "link": "https://exame.com/esporte/controle-o-paredes-fifa-revela-conversa-de-arbitro-com-messi-na-final-da-copa/",
+        "summary": "Imagens da câmera de Slavko Vincic mostram momentos inéditos da decisão entre Argentina e Espanha",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "'Tem petróleo, mas ainda não sabemos quanto', diz Petrobras sobre descoberta no Amapá",
@@ -390,36 +420,6 @@
         "title": "Tenho ações da Casas Bahia, e agora? Especialistas explicam se vale a penar vender",
         "link": "https://exame.com/invest/onde-investir/tenho-acoes-da-casas-bahia-e-agora-especialistas-explicam-se-vale-a-penar-vender/",
         "summary": "Companhia declarou R$ 17,3 bilhões em dívidas e, agora, busca se reestruturar financeiramente por meio da recuperação judicial",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Uso de telas é vilão? Estudo acompanha crianças por 8 anos e resultado surpreende",
-        "link": "https://exame.com/ciencia/uso-de-telas-e-vilao-estudo-acompanha-criancas-por-8-anos-e-resultado-surpreende/",
-        "summary": "Pesquisa indica que o impacto pode depender menos do tempo de uso e mais do tipo de atividade realizada em dispositivos digitais",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Moraes autoriza Bolsonaro a sair da prisão domiciliar para ir ao dentista",
-        "link": "https://exame.com/brasil/moraes-autoriza-bolsonaro-a-sair-da-prisao-domiciliar-para-ir-ao-dentista/",
-        "summary": "Ex-presidente cumpre prisão domiciliar desde o ano passado, quando foi condenado a 27 anos e três meses de prisão no processo da trama golpista",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Rainer Cadete anuncia show solo no Blue Note São Paulo com repertório que revisita a MPB",
-        "link": "https://exame.com/pop/rainer-cadete-anuncia-show-solo-no-blue-note-sao-paulo-com-repertorio-que-revisita-a-mpb/",
-        "summary": "Espetáculo reúne músicas autorais, releituras de nomes da MPB e repertório dedicado a Milton Nascimento e ao Clube da Esquina",
         "image": null,
         "date": "17 de ago. de 2026",
         "source": "Exame",
