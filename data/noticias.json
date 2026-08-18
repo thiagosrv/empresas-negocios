@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:51:33.489Z",
+  "updated": "2026-08-18T04:39:12.247Z",
   "feeds": {
     "campinas": [
       {
@@ -61,6 +61,66 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
+      },
+      {
+        "title": "Americana terá Trenzinho da Alegria para incentivar a vacinação de crianças e adolescentes no sábado",
+        "link": "https://jornalamericanense.com.br/saude/americana-tera-trenzinho-da-alegria-para-incentivar-a-vacinacao-de-criancas-e-adolescentes-no-sabado/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, vai disponibilizar os Trenzinhos da Alegria para incentivar crianças e adolescentes a se vacinarem neste sábado (22), durante o Dia D da Campanha de Multivacina",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Semana em Americana será ensolarada, com temperaturas elevadas e baixa umidade",
+        "link": "https://jornalamericanense.com.br/cidades/semana-em-americana-sera-ensolarada-com-temperaturas-elevadas-e-baixa-umidade/",
+        "summary": "Americana terá uma semana marcada por tempo firme, predomínio de sol e temperaturas elevadas, segundo as previsões meteorológicas atualizadas para esta segunda-feira (17). Os termômetros devem superar os 30°C em boa part",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "CCZ de Americana realiza mutirão de castrações entre os dias 20 e 29 de agosto",
+        "link": "https://jornalamericanense.com.br/saude/ccz-de-americana-realiza-mutirao-de-castracoes-entre-os-dias-20-e-29-de-agosto/",
+        "summary": "O Centro de Controle de Zoonoses (CCZ) de Americana, vinculado à Secretaria de Saúde, realiza um mutirão de castrações gratuitas de cadelas e gatas entre os dias 20 e 29 de agosto (exceto no dia 23), na sede do serviço, ",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia abre campanha com adesivaço em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-abre-campanha-com-adesivaco-em-santa-barbara-doeste/",
+        "summary": "Denis Andia, candidato a deputado federal, participou neste domingo (16) do adesivaço que marcou a abertura oficial de sua campanha eleitoral. Durante a manhã, centenas de veículos passaram pelo comitê de campanha, em Sa",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia reforça compromisso de trabalho local",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-reforca-compromisso-de-trabalho-local/",
+        "summary": "O candidato a deputado federal Denis Andia desponta como opção competitiva para a região voltar a ser representada em Brasília. O ex-prefeito de Santa Bárbara d’Oeste tem percorrido as cidades da região em reuniões, visi",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia defende “mandato da vida real” próximo das pessoas em Nova Odessa",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-defende-mandato-da-vida-real-proximo-das-pessoas-em-nova-odessa/",
+        "summary": "O candidato a deputado federal Denis Andia reuniu na noite de quinta-feira (13) lideranças de Nova Odessa em um encontro marcado por manifestações de apoio, diálogo e apresentação de sua trajetória na vida pública. O con",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Remo empata no último lance, mas Inter deixa a zona de rebaixamento",
@@ -125,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Memphis reduz pedida, e Stabile confirma renovação com Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/memphis-reduz-pedida-e-stabile-confirma-renovacao-com-corinthians/",
+        "summary": "Memphis Depay reduziu sua pedida financeira e acertou a renovação com o Corinthians por mais dois anos. O novo contrato prevê R$ 24 milhões em salários e R$ 28 milhões em direitos de imagem, além da quitação parcelada de",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/245183.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "João Fonseca sente incômodo no abdômen e desiste do Masters de Cincinnati",
         "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/joao-fonseca-sente-incomodo-no-abdomen-e-desiste-do-masters-de-cincinnati/",
         "summary": "João Fonseca anunciou nesta segunda-feira sua desistência do Masters 1000 de Cincinnati após sentir um incômodo no lado esquerdo do abdômen. O brasileiro deixará de enfrentar o australiano Christopher O'Connell pela terc",
@@ -169,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/jogo-do-sao-paulo-contra-o-bolivar-tem-mais-de-30-mil-ingressos-vendidos/",
         "summary": "São Paulo anuncia 30 mil ingressos vendidos para o duelo decisivo contra o Bolívar, pelas oitavas de final da Copa Sul-Americana. O post Jogo do São Paulo contra o Bolívar tem mais de 30 mil ingressos vendidos apareceu p",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/54797089000_d287f4f627_o.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Conselho de Orientação do Corinthians aprova renovação de Memphis",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/conselho-de-orientacao-do-corinthians-aprova-renovacao-de-memphis/",
-        "summary": "O Conselho de Orientação do Corinthians (Cori) aprovou nesta segunda-feira a renovação de contrato de Memphis Depay. A votação terminou empatada em 6 a 6, mas o presidente do órgão, Miguel Marques e Silva, desempatou a f",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/05/memphis.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
