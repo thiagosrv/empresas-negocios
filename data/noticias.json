@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-18T11:28:34.978Z",
+  "updated": "2026-08-18T12:53:27.525Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Assista ao Bom Dia Cidade Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
-        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "title": "CNPEM oferece bolsas de verão para universitários com tudo pago; veja como se inscrever",
+        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/08/18/cnpem-oferece-bolsas-de-verao-para-universitarios-com-tudo-pago-veja-como-se-inscrever.ghtml",
+        "summary": "Sirius: maior estrutura científica do país, instalada em Campinas (SP). CNPEM/Sirius/Divulgação O Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), em Campinas (SP), abriu as inscrições para o programa Bolsas d",
+        "image": "https://s2-g1.glbimg.com/pS7XS0xqQJi8Lb4D2U5o74NJTJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/1/4/PxOlzvR62gb3swp4C4Lw/sirius-cnpem.jpg",
         "date": "18 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -63,6 +63,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Homem de 49 anos morre por febre maculosa em Americana",
+        "link": "https://jornalamericanense.com.br/saude/homem-de-49-anos-morre-por-febre-maculosa-em-americana/",
+        "summary": "A Secretaria de Saúde de Americana, por meio da Vigilância Epidemiológica, confirma um óbito causado por febre maculosa. Trata-se de um homem de 49 anos, que estava internado em hospital público e faleceu no dia 24 de ju",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Americana terá Trenzinho da Alegria para incentivar a vacinação de crianças e adolescentes no sábado",
         "link": "https://jornalamericanense.com.br/saude/americana-tera-trenzinho-da-alegria-para-incentivar-a-vacinacao-de-criancas-e-adolescentes-no-sabado/",
         "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, vai disponibilizar os Trenzinhos da Alegria para incentivar crianças e adolescentes a se vacinarem neste sábado (22), durante o Dia D da Campanha de Multivacina",
@@ -113,14 +123,44 @@
         "cls": "servicos"
       },
       {
-        "title": "Denis Andia defende “mandato da vida real” próximo das pessoas em Nova Odessa",
-        "link": "https://jornalamericanense.com.br/politica/denis-andia-defende-mandato-da-vida-real-proximo-das-pessoas-em-nova-odessa/",
-        "summary": "O candidato a deputado federal Denis Andia reuniu na noite de quinta-feira (13) lideranças de Nova Odessa em um encontro marcado por manifestações de apoio, diálogo e apresentação de sua trajetória na vida pública. O con",
+        "title": "Brasileira defende mais influência dos jovens nas decisões da COP17",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasileira-defende-mais-influencia-dos-jovens-nas-decisoes-da-cop17",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasileira-defende-mais-influencia-dos-jovens-nas-decisoes-da-cop17 img src= https://cdn.jsdelivr.net/gh/sergios",
         "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Democracia e crescimento de organizações criminosas é tema de encontro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/democracia-e-crescimento-de-organizacoes-criminosas-e-tema-de-encontro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/democracia-e-crescimento-de-organizacoes-criminosas-e-tema-de-encontro img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Morre atriz Laura Cardoso aos 98 anos, em São Paulo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-atriz-laura-cardoso-aos-98-anos-em-sao-paulo",
+        "summary": "p A atriz Laura Cardoso morreu aos 98 anos em São Paulo. A informação foi confirmada nesta terça-feira (18) em seu perfil oficial na rede social Instagram. img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1699936 o=r",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Grande parte do país tem temperaturas elevadas nesta terça-feira",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-parte-do-pais-tem-temperaturas-elevadas-nesta-terca-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-parte-do-pais-tem-temperaturas-elevadas-nesta-terca-feira img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Justiça do Rio promove campanha pela paz em casa",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Remo empata no último lance, mas Inter deixa a zona de rebaixamento",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/remo-empata-no-ultimo-lance-mas-inter-deixa-zona-de-rebaixamento",
-        "summary": "p strong A partida que finalizou a 23ª rodada do Campeonato Brasileiro promoveu uma mudança na zona de rebaixamento. Nesta segunda-feira (17), o Internacional empatou por 1 a 1 com o Remo no Beira-Rio, em Porto Alegre, e",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Petrobras encontra petróleo em poço na Margem Equatorial",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-encontra-petroleo-em-poco-na-margem-equatorial",
-        "summary": "p strong A Petrobras anunciou nesta segunda-feira (17) a descoberta de petróleo no poço Morpho, localizado no bloco BM-FZA-59, na Margem Equatorial, em águas profundas na costa do Amapá.​ A estatal ainda deverá concluir ",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Marina Silva sofre tentativa de intimidação durante campanha em SP",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/marina-silva-sofre-tentativa-de-intimidacao-durante-campanha-em-sp",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/marina-silva-sofre-tentativa-de-intimidacao-durante-campanha-em-sp img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil estreia mal no qualificatório para o Pré-Olímpico de basquete",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-estreia-mal-no-qualificatorio-para-o-pre-olimpico-de-basquete",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-estreia-mal-no-qualificatorio-para-o-pre-olimpico-de-basquete img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Confira as melhores defesas da semana da MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-mls-7/",
+        "summary": "Confira as melhores defesas da semana da MLS O post Confira as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/sem.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "São Paulo enfrenta concorrência de clubes ingleses na briga por Jamie Vardy",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-disputa-jamie-vardy-clubes-ingleses/",
+        "summary": "O São Paulo demonstrou interesse na contratação de Jamie Vardy, que está livre no mercado após passagem pelo Cremonese. Apesar do avanço do interesse tricolor, o atacante de 39 anos também é alvo de clubes ingleses, como",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/03/01/vardyy.jpg",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Confira os melhores gols da semana da MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-mls-6/",
+        "summary": "Confira os melhores gols da semana da MLS O post Confira os melhores gols da semana da MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Melh.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Manchester City define prioridade para substituir Rodri e mira campeão do mundo",
+        "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-enzo-fernandez-substituto-rodri/",
+        "summary": "O Manchester City segue em busca de um substituto para Rodri e mantém Enzo Fernández, do Chelsea, como principal alvo para o meio-campo. O clube também está próximo de contratar Ayyoub Bouaddi, promessa do Lille, mas o a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QN4YT__v1__MidRes__776540534.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "A cobrança de falta esperta de Müller dentro da área; veja o lance",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-cobranca-de-falta-esperta-de-muller-dentro-da-area-veja-o-lance/",
+        "summary": "A cobrança de falta esperta de Müller dentro da área; veja o lance O post A cobrança de falta esperta de Müller dentro da área; veja o lance apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/cobra.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Petar Musa marca um golaço e garante a vitória do FC Dallas sobre o Austin; veja o lance",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/petar-musa-marca-um-golaco-e-garante-a-vitoria-do-fc-dallas-sobre-o-austin-veja-o-lance/",
         "summary": "Petar Musa marca um golaço e garante a vitória do FC Dallas sobre o Austin; veja o lance O post Petar Musa marca um golaço e garante a vitória do FC Dallas sobre o Austin; veja o lance apareceu primeiro em Gazeta Esporti",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/Petar-M.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Jardim vê crescimento do Fla e pede sobriedade: Temos que gerir os momentos",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/jardim-ve-crescimento-do-fla-e-pede-sobriedade-temos-que-gerir-os-momentos/",
-        "summary": "Jardim vê crescimento do Fla e pede sobriedade: \"Temos que gerir os momentos\" O post Jardim vê crescimento do Fla e pede sobriedade: Temos que gerir os momentos apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/7kq5xate-1920Jardim-analisa.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Willian Arão responde na zaga e ganha nova função no Santos",
-        "link": "https://www.gazetaesportiva.com/times/santos/willian-arao-responde-na-zaga-e-ganha-nova-funcao-no-santos/",
-        "summary": "Willian Arão foi utilizado como zagueiro nos últimos dois jogos do Santos e correspondeu. O volante marcou dois gols, teve bons números defensivos e virou mais uma opção para Cuca no setor. O post Willian Arão responde n",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55469301423_3d2839df9f_4k.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Sob pressão, São Paulo encara decisão contra o Bolívar para cumprir meta na Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sob-pressao-sao-paulo-encara-decisao-contra-o-bolivar-para-cumprir-meta-na-sul-americana/",
-        "summary": "O São Paulo desafia o Bolívar-BOL em busca de uma vaga nas quartas de final da Copa Sul-Americana. O duelo de volta das oitavas de final está agendado para esta terça-feira, às 21h30 (de Brasília), no Morumbis. Para gara",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465537477_dafbeff8b4_o.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cerro Porteño x Palmeiras: saiba onde assistir ao jogo de volta das oitavas da Libertadores",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/cerro-porteno-x-palmeiras-saiba-onde-assistir-ao-jogo-de-volta-das-oitavas-da-libertadores/",
-        "summary": "O Palmeiras entra em campo nesta quarta-feira para enfrentar o Cerro Porteño, pela volta das oitavas de final da Copa Libertadores. A bola rola a partir das 19h (de Brasília), no Estádio Ueno La Nueva Olla, em Assunção, ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/12082026_cg_palmeiras_1244_21.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Sem Allan, Diniz avalia opções no Corinthians para jogo decisivo pela Libertadores",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/sem-allan-diniz-avalia-opcoes-no-corinthians-para-jogo-decisivo-pela-libertadores/",
-        "summary": "Fernando Diniz terá que alterar o meio-campo do Corinthians para o duelo decisivo contra o Rosario Central, pelas oitavas de final da Libertadores. Sem Allan, suspenso, e André, lesionado, o treinador avalia alternativas",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247157.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "BHIA3 de acima de R$ 400 a R$ 0,44: a derrocada das ações de Casas Bahia em 6 anos",
-        "link": "https://www.infomoney.com.br/mercados/bhia3-de-acima-de-r-400-a-r-044-a-derrocada-das-acoes-de-casas-bahia-em-6-anos/",
-        "summary": "Ao pedir recuperação judicial com uma dívida de R$ 17,3 bilhões, a Casas Bahia afirmou enfrentar a “pior crise financeira” desde sua fundação The post BHIA3 de acima de R$ 400 a R$ 0,44: a derrocada das ações de Casas Ba",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-08-at-17.52.34-e1786825063739.jpeg?fit=300%2C172&amp;quality=70&amp;strip=all",
+        "title": "Augusto Cury diz que Brasil precisa de um primeiro-ministro como Tarcísio de Freitas",
+        "link": "https://www.infomoney.com.br/politica/augusto-cury-diz-que-brasil-precisa-de-um-primeiro-ministro-como-tarcisio-de-freitas/",
+        "summary": "Postulante à Presidência da República também citou que primeiro-ministro deveria ter perfil semelhante ao do governador Tarcísio de Freitas The post Augusto Cury diz que Brasil precisa de um primeiro-ministro como Tarcís",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Augusto_Cury_escritor_28339139296.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Casas Bahia, Positivo, Brava, Braskem e mais ações para acompanhar hoje",
-        "link": "https://www.infomoney.com.br/mercados/casas-bahia-positivo-brava-braskem-e-mais-acoes-para-acompanhar-hoje/",
-        "summary": "Confira os princiṕais destaques do noticiário corporativo desta terça-feira The post Casas Bahia, Positivo, Brava, Braskem e mais ações para acompanhar hoje appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/B3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "MPF pede esclarecimento sobre plano da Petrobras de novos poços na Foz do Amazonas",
+        "link": "https://www.infomoney.com.br/mercados/mpf-pede-esclarecimento-sobre-plano-da-petrobras-de-novos-pocos-na-foz-do-amazonas/",
+        "summary": "MPF pede esclarecimento ao Ibama sobre plano da Petrobras de novos poços na Foz do Amazonas The post MPF pede esclarecimento sobre plano da Petrobras de novos poços na Foz do Amazonas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-20-165412.png?fit=300%2C188&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026/",
-        "summary": "Índices futuros dos EUA recuam com a persistência das tensões entre EUA e Irã The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-59.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Controlada da Orizon compra participação adicional de 5,85% na Ecourbis por R$ 69 mi",
+        "link": "https://www.infomoney.com.br/mercados/controlada-da-orizon-compra-participacao-adicional-de-585-na-ecourbis-por-r-69-mi/",
+        "summary": "A Ecourbis, que opera em São Paulo ‌sob modelo de ​tarifa fixa mensal, da ordem de R$130 milhões The post Controlada da Orizon compra participação adicional de 5,85% na Ecourbis por R$ 69 mi appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/05/Orizon-Ecoparque-de-Nova-Iguacu-RJ-Divulgacao-min.png?fit=300%2C228&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Taesa adiciona R$ 5,4 milhões em RAP com energização de Tangará",
-        "link": "https://www.infomoney.com.br/mercados/taesa-adiciona-r-54-milhoes-em-rap-com-energizacao-de-tangara/",
-        "summary": "ONS emitiu os Termos de Liberação relativos à energização do Compensador Síncrono da Subestação de Encruzo Novo na concessão Tangará The post Taesa adiciona R$ 5,4 milhões em RAP com energização de Tangará appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Taesa-TAEE11-1024x576-1.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Minério sobe com preocupações sobre demanda da China e esperanças de estímulos",
+        "link": "https://www.infomoney.com.br/mercados/minerio-sobe-com-preocupacoes-sobre-demanda-da-china-e-esperancas-de-estimulos/",
+        "summary": "A referência de minério de ferro ⁠para setembro na Bolsa de Cingapura avançava 1%, para US$96,25 por tonelada The post Minério sobe com preocupações sobre demanda da China e esperanças de estímulos appeared first on Info",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ecopetrol conclui aquisição do controle da Brava (BRAV3)",
-        "link": "https://www.infomoney.com.br/mercados/ecopetrol-conclui-aquisicao-do-controle-da-brava-brav3/",
-        "summary": "Ecopetrol passou a deter 51% do capital social da Brava The post Ecopetrol conclui aquisição do controle da Brava (BRAV3) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/brava-_energia.png?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "Liquidação domina mercado de títulos dos EUA ao Japão com questões fiscais e inflação",
+        "link": "https://www.infomoney.com.br/mercados/liquidacao-domina-mercado-de-titulos-dos-eua-ao-japao-com-questoes-fiscais-e-inflacao/",
+        "summary": "Os rendimentos dos títulos de 30 anos ‌nos Estados Unidos, o mercado de títulos públicos mais crucial do mundo do ponto de vista sistêmico, atingiram seu nível mais alto desde 2007 The post Liquidação domina mercado de t",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Captura-de-tela-2024-04-29-084645.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BHP tem lucro líquido anual de US$ 9,83 bi, alta de 9%, com cobre como propulsor",
-        "link": "https://www.infomoney.com.br/mercados/bhp-tem-lucro-liquido-anual-de-us-983-bi-alta-de-9-com-cobre-como-propulsor/",
-        "summary": "O lucro por ação diluída foi de US$ 1,932 no ano, ante US$ 1,774 em 2025 The post BHP tem lucro líquido anual de US$ 9,83 bi, alta de 9%, com cobre como propulsor appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-29T125816Z_1_LYNXMPEK4S0KR_RTROPTP_4_ANGLO-AMERICAN-M-A-BHP-GROUP-AU.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "title": "Vale: o cobre escondido na tese de VALE3 que pode destravar valor para ação",
+        "link": "https://www.infomoney.com.br/mercados/vale-o-cobre-escondido-na-tese-de-vale3-que-pode-destravar-valor-para-acao/",
+        "summary": "Em relatório, JPMorgan argumenta que a exposição da mineradora ao metal não está refletida adequadamente no preço das ações The post Vale: o cobre escondido na tese de VALE3 que pode destravar valor para ação appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-25T022702Z_1079690458_RC2P4EAW4CHG_RTRMADP_3_VALE-RESULTS.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Warren Buffett ainda dá as cartas na Berkshire? A carteira de US$ 360 bi responde",
-        "link": "https://exame.com/invest/mercados/warren-buffett-ainda-da-as-cartas-na-berkshire-a-carteira-de-us-360-bi-responde/",
-        "summary": "Compra de US$ 17 bilhões em ações da Alphabet foi a maior aposta da Berkshire no trimestre",
+        "title": "Pinot Noir tem seu dia, e poucas castas merecem tanto a data",
+        "link": "https://exame.com/casual/pinot-noir-tem-seu-dia-e-poucas-castas-merecem-tanto-a-data/",
+        "summary": "A Pinot Noir é delicada, de casca fina, sensível ao calor e exigente no vinhedo. Não costuma esconder erros e tampouco responde da mesma maneira em todos os lugares",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Candidatos à Presidência têm agendas em três capitais nesta terça; veja os compromissos",
-        "link": "https://exame.com/brasil/candidatos-a-presidencia-tem-agendas-em-tres-capitais-nesta-terca-veja-os-compromissos/",
-        "summary": "Renan Santos, Ronaldo Caiado, Romeu Zema e Flávio Bolsonaro têm compromissos públicos nesta terça-feira, 18; Lula ainda não divulgou a agenda",
+        "title": "A nova aposta bilionária de Carlos Wizard: consórcios com franquias de R$ 30 mil",
+        "link": "https://exame.com/negocios/a-nova-aposta-bilionaria-de-carlos-wizard-consorcios-com-franquias-de-r-30-mil/",
+        "summary": "Empresário entra como sócio da FVL Consórcios e quer levar a rede de 10 para 50 unidades ainda em 2026",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fãs do BTS reclamam de aproximação de membros com Chris Brown; relembre polêmicas do cantor",
-        "link": "https://exame.com/pop/fas-do-bts-reclamam-de-aproximacao-de-membros-com-chris-brown-relembre-polemicas-do-cantor/",
-        "summary": "Interação entre os astros do k-pop e o rapper gerou debates online; público relembra histórico de violência doméstica de Chris Brown e aponta contradição",
+        "title": "Brasil chega a COP17, da desertificação, sob pressão para restaurar Cerrado e Caatinga",
+        "link": "https://exame.com/esg/brasil-chega-a-cop17-da-desertificacao-sob-pressao-para-restaurar-cerrado-e-caatinga/",
+        "summary": "País apresenta metas de neutralidade da degradação, planos para áreas secas e iniciativas de recuperação; organizações defendem ampliar financiamento e ações em escala",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Petróleo no Amapá: o que a descoberta pode mudar para a Petrobras, segundo os bancos",
-        "link": "https://exame.com/invest/mercados/petroleo-no-amapa-o-que-a-descoberta-pode-mudar-para-a-petrobras-segundo-os-bancos/",
-        "summary": "A estatal confirmou nesta segunda, 17, a descoberta de petróleo no poço Morpho, na bacia da Foz do Amazonas, no litoral amapaense",
+        "title": "Após cinco anos sem pedir dinheiro, startup de IA em escolas capta R$ 5 milhões para expandir",
+        "link": "https://exame.com/negocios/apos-cinco-anos-sem-pedir-dinheiro-startup-de-ia-em-escolas-capta-r-5-milhoes-para-expandir/",
+        "summary": "Fundada em 2021, Premia desenvolve tecnologia de inteligência artificial para identificar lacunas de aprendizagem e quer usar o primeiro aporte externo de sua história para ampliar vendas, contratar e fazer aquisições",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Salas VIP, laser e baldes: como a Cinépolis chegará aos R$ 410 milhões em bilheteria no Brasil",
-        "link": "https://exame.com/negocios/salas-vip-laser-e-baldes-como-a-cinepolis-chegara-aos-r-410-milhoes-em-bilheteria-no-brasil/",
-        "summary": "Com investimento de R$ 80 milhões, rede mexicana reforçou tecnologia e formatos premium para receber 17 milhões de espectadores em 2026",
+        "title": "Morgan Stanley vê ação da Amazon chegando a US$ 500 com avanço da IA",
+        "link": "https://exame.com/invest/mercados/morgan-stanley-ve-acao-da-amazon-chegando-a-us-500-com-avanco-da-ia/",
+        "summary": "Cenário mais otimista considera forte expansão da divisão global de computação em nuvem da Amazon",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Getnet troca CEO no Brasil e traz executiva de volta para comandar operação",
-        "link": "https://exame.com/exame-in/getnet-troca-ceo-no-brasil-e-traz-executiva-de-volta-para-comandar-operacao/",
-        "summary": "Cristiane Nogueira foi escolhida para assumir como CEO no lugar de Cassio Schmitt, que está há quase cinco anos à frente da companhia",
+        "title": "'RuPaul's Drag Race' é renovada para nova temporada após sucesso da 18ª edição",
+        "link": "https://exame.com/pop/rupauls-drag-race-e-renovada-para-nova-temporada-apos-sucesso-da-18a-edicao/",
+        "summary": "Nova temporada do reality vencedor do Emmy já está em preparação e deve chegar à televisão em 2027",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
