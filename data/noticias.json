@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:41:09.575Z",
+  "updated": "2026-08-18T09:37:16.995Z",
   "feeds": {
     "campinas": [
       {
@@ -61,6 +61,66 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
+      },
+      {
+        "title": "Americana terá Trenzinho da Alegria para incentivar a vacinação de crianças e adolescentes no sábado",
+        "link": "https://jornalamericanense.com.br/saude/americana-tera-trenzinho-da-alegria-para-incentivar-a-vacinacao-de-criancas-e-adolescentes-no-sabado/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, vai disponibilizar os Trenzinhos da Alegria para incentivar crianças e adolescentes a se vacinarem neste sábado (22), durante o Dia D da Campanha de Multivacina",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Semana em Americana será ensolarada, com temperaturas elevadas e baixa umidade",
+        "link": "https://jornalamericanense.com.br/cidades/semana-em-americana-sera-ensolarada-com-temperaturas-elevadas-e-baixa-umidade/",
+        "summary": "Americana terá uma semana marcada por tempo firme, predomínio de sol e temperaturas elevadas, segundo as previsões meteorológicas atualizadas para esta segunda-feira (17). Os termômetros devem superar os 30°C em boa part",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "CCZ de Americana realiza mutirão de castrações entre os dias 20 e 29 de agosto",
+        "link": "https://jornalamericanense.com.br/saude/ccz-de-americana-realiza-mutirao-de-castracoes-entre-os-dias-20-e-29-de-agosto/",
+        "summary": "O Centro de Controle de Zoonoses (CCZ) de Americana, vinculado à Secretaria de Saúde, realiza um mutirão de castrações gratuitas de cadelas e gatas entre os dias 20 e 29 de agosto (exceto no dia 23), na sede do serviço, ",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia abre campanha com adesivaço em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-abre-campanha-com-adesivaco-em-santa-barbara-doeste/",
+        "summary": "Denis Andia, candidato a deputado federal, participou neste domingo (16) do adesivaço que marcou a abertura oficial de sua campanha eleitoral. Durante a manhã, centenas de veículos passaram pelo comitê de campanha, em Sa",
+        "image": null,
+        "date": "16 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia reforça compromisso de trabalho local",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-reforca-compromisso-de-trabalho-local/",
+        "summary": "O candidato a deputado federal Denis Andia desponta como opção competitiva para a região voltar a ser representada em Brasília. O ex-prefeito de Santa Bárbara d’Oeste tem percorrido as cidades da região em reuniões, visi",
+        "image": null,
+        "date": "15 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia defende “mandato da vida real” próximo das pessoas em Nova Odessa",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-defende-mandato-da-vida-real-proximo-das-pessoas-em-nova-odessa/",
+        "summary": "O candidato a deputado federal Denis Andia reuniu na noite de quinta-feira (13) lideranças de Nova Odessa em um encontro marcado por manifestações de apoio, diálogo e apresentação de sua trajetória na vida pública. O con",
+        "image": null,
+        "date": "14 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Remo empata no último lance, mas Inter deixa a zona de rebaixamento",
@@ -125,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "Sem Allan, Diniz avalia opções no Corinthians para jogo decisivo pela Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/sem-allan-diniz-avalia-opcoes-no-corinthians-para-jogo-decisivo-pela-libertadores/",
+        "summary": "Fernando Diniz terá que alterar o meio-campo do Corinthians para o duelo decisivo contra o Rosario Central, pelas oitavas de final da Libertadores. Sem Allan, suspenso, e André, lesionado, o treinador avalia alternativas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247157.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras aposta em invencibilidade no estádio do Cerro por vaga nas quartas da Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-invencibilidade-estadio-cerro-libertadores/",
+        "summary": "Palmeiras e Cerro Porteño decidem uma vaga nas quartas de final da Copa Libertadores nesta quarta-feira, em Assunção, no Paraguai. O palco da decisão será o Estádio Ueno La Nueva Olla, estádio onde a equipe de Abel Ferre",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/8dd9541c-34cf-4d44-b1f3-c56e8f19508e-195.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Memphis reduz pedida, e Stabile confirma renovação com Corinthians",
         "link": "https://www.gazetaesportiva.com/times/corinthians/memphis-reduz-pedida-e-stabile-confirma-renovacao-com-corinthians/",
         "summary": "Memphis Depay reduziu sua pedida financeira e acertou a renovação com o Corinthians por mais dois anos. O novo contrato prevê R$ 24 milhões em salários e R$ 28 milhões em direitos de imagem, além da quitação parcelada de",
@@ -159,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/remo-pa/decisivo-vitor-bueno-ve-empate-do-remo-contra-o-inter-como-justo/",
         "summary": "Vitor Bueno valorizou o empate por 1 a 1 conquistado pelo Remo diante do Internacional, no Beira-Rio, pela 23ª rodada do Campeonato Brasileiro. Autor do gol nos minutos finais, o meio-campista destacou a entrega da equip",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-17-at-22.27.11.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Internacional 1 x 1 Remo pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/melhores-momentos-internacional-1-x-1-remo-pelo-brasileirao/",
-        "summary": "Confira os melhores momentos de Internacional 1 x 1 Remo, duelo válido pela 23ª rodada do Campeonato Brasileiro, disputado na noite desta segunda-feira, no Estádio Beira-Rio (RS). O post Melhores momentos: Internacional ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55470165492_66f9fa1e90_k.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Jogo do São Paulo contra o Bolívar tem mais de 30 mil ingressos vendidos",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/jogo-do-sao-paulo-contra-o-bolivar-tem-mais-de-30-mil-ingressos-vendidos/",
-        "summary": "São Paulo anuncia 30 mil ingressos vendidos para o duelo decisivo contra o Bolívar, pelas oitavas de final da Copa Sul-Americana. O post Jogo do São Paulo contra o Bolívar tem mais de 30 mil ingressos vendidos apareceu p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/54797089000_d287f4f627_o.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Positivo diz que exposição à Casas Bahia é baixa",
+        "link": "https://www.infomoney.com.br/mercados/positivo-diz-que-exposicao-a-casas-bahia-e-baixa/",
+        "summary": "A ‌companhia afirmou que o saldo atual de contas a receber da Casas ​Bahia é de cerca de R$19 milhões e ​que a totalidade está coberta por seguro de crédito The post Positivo diz que exposição à Casas Bahia é baixa appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/05/Linha-Producao-Positivo-Tecnologia-Manaus-1.jpg?fit=300%2C172&amp;quality=70&amp;strip=all",
+        "date": "18 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Petróleo, indústria nos EUA, balanço da Home Depot e mais destaques nesta 3ª",
+        "link": "https://www.infomoney.com.br/mercados/petroleo-industria-eua-home-depot-18082026/",
+        "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (18) The post Petróleo, indústria nos EUA, balanço da Home Depot e mais destaques nesta 3ª appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/arvind-vallabh-rqWWhKzVCaU-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "18 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Casas Bahia é só a ponta do iceberg: 986 varejistas estão em recuperação",
+        "link": "https://www.infomoney.com.br/business/casas-bahia-e-so-a-ponta-do-iceberg-986-varejistas-estao-em-recuperacao/",
+        "summary": "Recuperações judiciais crescem 20,4% em 12 meses, mas setor tem 686 empresas falidas The post Casas Bahia é só a ponta do iceberg: 986 varejistas estão em recuperação appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/chelaxy-designs-XfRjmYl4UHs-unsplash_251244.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "18 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dow Jones Futuro cai com petróleo em alta e incerteza sobre cessar-fogo EUA-Irã",
+        "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-petroleo-em-alta-e-incerteza-sobre-cessar-fogo-eua-ira/",
+        "summary": "Petróleo sobe com incerteza sobre trégua entre EUA e Irã, enquanto yield do Treasury de 30 anos atinge maior nível desde 2007 The post Dow Jones Futuro cai com petróleo em alta e incerteza sobre cessar-fogo EUA-Irã appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/wall-street-4758079_1920.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "date": "18 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Por que os times esportivos estão sendo vendidos por cifras bilionárias",
         "link": "https://www.infomoney.com.br/business/global/por-que-os-times-esportivos-estao-sendo-vendidos-por-cifras-bilionarias/",
         "summary": "Direitos de TV bilionários, apostas esportivas e a disputa entre magnatas impulsionam avaliações recordes de franquias como Lakers, Celtics e Yankees The post Por que os times esportivos estão sendo vendidos por cifras b",
@@ -267,49 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Queda das reservas estratégicas dos EUA ameaça até cavernas que armazenam petróleo",
-        "link": "https://www.infomoney.com.br/business/global/queda-das-reservas-estrategicas-dos-eua-ameaca-ate-cavernas-que-armazenam-petroleo/",
-        "summary": "Estoques caíram ao menor nível em 40 anos, enquanto especialistas alertam para riscos à integridade das cavernas de sal onde o petróleo é armazenado The post Queda das reservas estratégicas dos EUA ameaça até cavernas qu",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/US-STRATEGIC-RESERVES-ARE-GETTING-SO-LOW-IT-THREATENS-DAMAGING-THE-60-UNDERGROUND-SALT-CAVERNS-STORING-AMERICAN-OIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "18 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quem afundou a Casas Bahia: Juros, dívida, bets ou erros de estratégia?",
-        "link": "https://www.infomoney.com.br/business/quem-afundou-a-casas-bahia-juros-divida-bets-ou-erros-de-estrategia/",
-        "summary": "Juros, endividamento, bets, comércio digital e um carnê que perdeu o apelo entre os consumidores: a história de uma crise que não começou agora The post Quem afundou a Casas Bahia: Juros, dívida, bets ou erros de estraté",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-17-093508-e1786971936467.png?fit=300%2C154&amp;quality=70&amp;strip=all",
-        "date": "18 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Investidores em cripto já são 2,3 vezes mais do que na Bolsa, aponta pesquisa",
-        "link": "https://www.infomoney.com.br/onde-investir/investidores-em-cripto-ja-sao-23-vezes-mais-do-que-na-bolsa-aponta-pesquisa/",
-        "summary": "Levantamento do Datafolha com a Paradigma mostra que 17,2% da população tem ou já teve criptomoedas, a maior parte pelo app do próprio banco e com renda de até três salários mínimos The post Investidores em cripto já são",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pesquisa-datafolha-e-paradigma-1-e1786979554725.jpeg?fit=300%2C151&amp;quality=70&amp;strip=all",
-        "date": "18 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Tesouraço : como é o plano de Flávio Bolsonaro para corte de gastos e impostos",
-        "link": "https://www.infomoney.com.br/politica/tesouraco-o-plano-de-flavio-bolsonaro-para-corte-de-gastos-e-impostos/",
-        "summary": "Programa prevê substituir o arcabouço fiscal por uma regra mais rígida, limitar o crescimento dos gastos e abrir espaço para a redução de impostos; detalhes do modelo ainda não foram divulgados The post Tesouraço : como ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IMG_4312.JPG.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "18 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dados dos EUA e reunião de Galípolo com bancos: o que move os mercados",
-        "link": "https://exame.com/invest/mercados/dados-dos-eua-e-reuniao-de-galipolo-com-bancos-o-que-move-os-mercados/",
-        "summary": "Sem indicadores econômicos relevantes previstos para o Brasil nesta terça-feira, a agenda institucional do Banco Central chama atenção",
+        "title": "Chilli Beans lança maquininha própria e prepara oferta de crédito para franqueados",
+        "link": "https://exame.com/negocios/chilli-beans-lanca-maquininha-propria-e-prepara-oferta-de-credito-para-franqueados/",
+        "summary": "Com tecnologia da Zoop, empresa do iFood, novo sistema dará à rede mais visibilidade sobre o caixa de suas 1.100 lojas",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Guia definitivo: como construir dashboards usando IA para acompanhamento de metas",
-        "link": "https://exame.com/inteligencia-artificial/guia-definitivo-como-construir-dashboards-usando-ia-para-acompanhamento-de-metas/",
-        "summary": "Com os comandos certos, ferramentas de inteligência artificial podem ajudar a transformar dados dispersos em painéis visuais para acompanhar indicadores, identificar desvios e facilitar a tomada de decisão",
+        "title": "Da garagem popular ao carregador: a segunda vida da categoria hatch no Brasil",
+        "link": "https://exame.com/casual/a-segunda-vida-da-categoria-hatch-no-brasil/",
+        "summary": "O hatch continua extremamente presente nas conversas dos brasileiros, exercendo um papel crucial na eletrificação do setor",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Estas 5 ações podem gerar R$ 1 mil por mês em dividendos",
-        "link": "https://exame.com/invest/onde-investir/estas-5-acoes-podem-gerar-r-1-mil-por-mes-em-dividendos/",
-        "summary": "Simulação da Rico mostra quanto seria necessário investir em cinco ações para buscar R$ 12 mil por ano",
+        "title": "Laura Cardoso, atriz e ícone da dramaturgia brasileira, morre aos 98 anos",
+        "link": "https://exame.com/pop/laura-cardoso-atriz-e-icone-da-dramaturgia-brasileira-morre-aos-98-anos/",
+        "summary": "Velório está previsto para acontecer em São Paulo a partir das 8h",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Número de brasileiros que já investiram em criptomoedas supera torcida do Corinthians, diz Datafolha",
-        "link": "https://exame.com/future-of-money/numero-de-brasileiros-que-ja-investiram-em-criptomoedas-supera-torcida-do-corinthians-diz-datafolha/",
-        "summary": "Criptoativos são o quinto investimento mais popular do país, superando em muito as ações, mas ainda bem abaixo da caderneta de poupança",
+        "title": "O plano de R$ 30 bilhões da Coca-Cola Brasil: ‘Teremos novas fábricas’, diz presidente",
+        "link": "https://exame.com/negocios/o-plano-de-r-30-bilhoes-da-coca-cola-brasil-teremos-novas-fabricas-diz-presidente/",
+        "summary": "Luciana Batista conta à EXAME como a Coca-Cola Zero, bebidas alcóolicas e IA podem sustentar um novo salto de crescimento da multinacional até 2030",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que não o Brasil?: VP da OpenAI detalha planos um dos maiores mercados do ChatGPT",
-        "link": "https://exame.com/inteligencia-artificial/por-que-nao-o-brasil-os-planos-da-openai-para-um-dos-maiores-mercados-do-chatgpt/",
-        "summary": "Oliver Jay conta que o país envia 215 milhões de mensagens por dia no ChatGPT, é o primeiro do mundo em geração de imagens por habitante e não descarta construir um data center no Brasil",
+        "title": "Claude lidera corrida do vibe coding e dispara 1.567% nas buscas, diz Locaweb",
+        "link": "https://exame.com/inteligencia-artificial/claude-lidera-corrida-do-vibe-coding-e-dispara-1-567-nas-buscas-diz-locaweb/",
+        "summary": "Dados exclusivos enviados à EXAME pela Locaweb mostram brasileiro também de olho em low code e \"melhor IA para programar\"",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "ChatGPT expande operação no Brasil e mira empresas para crescer",
-        "link": "https://exame.com/inteligencia-artificial/chatgpt-expande-operacao-no-brasil-e-mira-empresas-para-crescer/",
-        "summary": "Licenças corporativas quintuplicaram em um ano e o país é o segundo maior em desenvolvedores usando a API. Brasileiros enviam 215 milhões de mensagens por dia",
+        "title": "Function calling: a técnica que permite à IA de fato executar uma tarefa, não só sugerir como fazer",
+        "link": "https://exame.com/inteligencia-artificial/function-calling-a-tecnica-que-permite-a-ia-de-fato-executar-uma-tarefa-nao-so-sugerir-como-fazer/",
+        "summary": "Recurso permite conectar modelos de inteligência artificial a sistemas externos para consultar informações, acionar ferramentas e realizar ações a partir de comandos em linguagem natural",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
