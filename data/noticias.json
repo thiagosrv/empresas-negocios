@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T02:58:50.037Z",
+  "updated": "2026-08-18T03:51:33.489Z",
   "feeds": {
     "campinas": [
       {
@@ -61,66 +61,6 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
-      },
-      {
-        "title": "Americana terá Trenzinho da Alegria para incentivar a vacinação de crianças e adolescentes no sábado",
-        "link": "https://jornalamericanense.com.br/saude/americana-tera-trenzinho-da-alegria-para-incentivar-a-vacinacao-de-criancas-e-adolescentes-no-sabado/",
-        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, vai disponibilizar os Trenzinhos da Alegria para incentivar crianças e adolescentes a se vacinarem neste sábado (22), durante o Dia D da Campanha de Multivacina",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Semana em Americana será ensolarada, com temperaturas elevadas e baixa umidade",
-        "link": "https://jornalamericanense.com.br/cidades/semana-em-americana-sera-ensolarada-com-temperaturas-elevadas-e-baixa-umidade/",
-        "summary": "Americana terá uma semana marcada por tempo firme, predomínio de sol e temperaturas elevadas, segundo as previsões meteorológicas atualizadas para esta segunda-feira (17). Os termômetros devem superar os 30°C em boa part",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "CCZ de Americana realiza mutirão de castrações entre os dias 20 e 29 de agosto",
-        "link": "https://jornalamericanense.com.br/saude/ccz-de-americana-realiza-mutirao-de-castracoes-entre-os-dias-20-e-29-de-agosto/",
-        "summary": "O Centro de Controle de Zoonoses (CCZ) de Americana, vinculado à Secretaria de Saúde, realiza um mutirão de castrações gratuitas de cadelas e gatas entre os dias 20 e 29 de agosto (exceto no dia 23), na sede do serviço, ",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Denis Andia abre campanha com adesivaço em Santa Bárbara d’Oeste",
-        "link": "https://jornalamericanense.com.br/politica/denis-andia-abre-campanha-com-adesivaco-em-santa-barbara-doeste/",
-        "summary": "Denis Andia, candidato a deputado federal, participou neste domingo (16) do adesivaço que marcou a abertura oficial de sua campanha eleitoral. Durante a manhã, centenas de veículos passaram pelo comitê de campanha, em Sa",
-        "image": null,
-        "date": "16 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Denis Andia reforça compromisso de trabalho local",
-        "link": "https://jornalamericanense.com.br/politica/denis-andia-reforca-compromisso-de-trabalho-local/",
-        "summary": "O candidato a deputado federal Denis Andia desponta como opção competitiva para a região voltar a ser representada em Brasília. O ex-prefeito de Santa Bárbara d’Oeste tem percorrido as cidades da região em reuniões, visi",
-        "image": null,
-        "date": "15 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Denis Andia defende “mandato da vida real” próximo das pessoas em Nova Odessa",
-        "link": "https://jornalamericanense.com.br/politica/denis-andia-defende-mandato-da-vida-real-proximo-das-pessoas-em-nova-odessa/",
-        "summary": "O candidato a deputado federal Denis Andia reuniu na noite de quinta-feira (13) lideranças de Nova Odessa em um encontro marcado por manifestações de apoio, diálogo e apresentação de sua trajetória na vida pública. O con",
-        "image": null,
-        "date": "14 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
       },
       {
         "title": "Remo empata no último lance, mas Inter deixa a zona de rebaixamento",
@@ -307,6 +247,16 @@
         "cls": ""
       },
       {
+        "title": "O dilema da alta renda no Brasil: 95% reconhecem privilégio e 14% se consideram ricos",
+        "link": "https://www.infomoney.com.br/minhas-financas/o-dilema-da-alta-renda-no-brasil-95-reconhecem-privilegio-e-14-se-consideram-ricos/",
+        "summary": "Para o topo da pirâmide de renda, riqueza não é uma questão de salário, mas de patrimônio e liberdade de escolha, segundo uma pesquisa inédita do Google The post O dilema da alta renda no Brasil: 95% reconhecem privilégi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/natalya-zaritskaya-SIOdjcYotms-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "18 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "União Europeia pretende impor sanções mais severas contra a Rússia",
         "link": "https://www.infomoney.com.br/mundo/uniao-europeia-pretende-impor-sancoes-mais-severas-contra-a-russia/",
         "summary": "Segundo chefe da diplomacia, Europa também está enfrentando pressões da Rússia por meio de uma guerra híbrida The post União Europeia pretende impor sanções mais severas contra a Rússia appeared first on InfoMoney.",
@@ -351,16 +301,6 @@
         "link": "https://www.infomoney.com.br/mercados/itau-unibanco-recebe-autorizacao-preliminar-para-ter-banco-multiplo-nos-eua/",
         "summary": "Banco obteve autorização inicial do regulador americano para lançar o Itaú Bank, mas ainda depende de aprovações de outras autoridades dos Estados Unidos The post Itaú Unibanco recebe autorização preliminar para ter banc",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-17T222338Z_1_LYNXMPEM7G1IB_RTROPTP_4_BRAZIL-ECONOMY-BANKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "17 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ferrari Luce, elétrico personalizado, é vendido pelo maior valor já pago em leilão",
-        "link": "https://www.infomoney.com.br/consumo/ferrari-vende-carro-eletrico-personalizado-maior-valor-pago-leilao/",
-        "summary": "O modelo foi vendido em leilão beneficente durante a Monterey Car Week The post Ferrari Luce, elétrico personalizado, é vendido pelo maior valor já pago em leilão appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ferrari-luce-chassi-0-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
