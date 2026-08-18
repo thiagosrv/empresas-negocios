@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18T13:45:23.902Z",
+  "updated": "2026-08-18T14:36:55.647Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Motociclista fica gravemente ferido após acidente com carro em rodovia de Valinhos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/18/motociclista-fica-gravemente-ferido-apos-acidente-com-carro-em-rodovia-de-valinhos.ghtml",
+        "summary": "Uma das faixas da Rodovia Comendador Guilherme Mamprim precisou ser bloqueada para atendimento João Pedro Mariano Um motociclista ficou gravemente ferido após bater em um carro na Rodovia Comendador Guilherme Mamprim, em",
+        "image": "https://s2-g1.glbimg.com/urIYU0X5bvprlxLHukxFsEOebbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/s/xuvCOrR620ylllvYvm6w/design-sem-nome-3-.png",
+        "date": "18 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Motociclista morre após cair na Rodovia Anhanguera, em Vinhedo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/18/motociclista-morre-apos-cair-na-rodovia-anhanguera-em-vinhedo.ghtml",
+        "summary": "Motociclista morre após cair na Rodovia Anhanguera, em Vinhedo Artesp Um motociclista morreu nesta terça-feira (18) após cair na Rodovia Anhanguera, em Vinhedo (SP). O acidente aconteceu por volta de 5h na pista sentido ",
+        "image": "https://s2-g1.glbimg.com/9DI2c4GyoEi6qWVEFQf9kzQPkwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/D/EAAiU4ReuzEItJYJHZpA/artesp-2.png",
+        "date": "18 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "É #FAKE que Toyota deixou de fabricar Corolla no Brasil; produção foi transferida para outra cidade",
         "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/18/e-fake-que-toyota-deixou-de-fabricar-corolla-no-brasil-producao-foi-transferida-para-outra-cidade.ghtml",
@@ -38,26 +58,6 @@
         "summary": "Polícia Civil apreendeu 140 kg de pasta base de cocaína que estavam escondidos em caminhão de transporte de combustível em Paulínia (SP), nesta segunda-feira (17) Polícia Civil A Polícia Civil apreendeu 140 kg de pasta b",
         "image": "https://s2-g1.glbimg.com/x9dBn3YLsjfl2bCiE9ygrskbLi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/d/i5TpcxSnKTYGNYevGZrA/whatsapp-image-2026-08-17-at-21.40.39.jpeg",
         "date": "18 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cotuca 2027: inscrições para processo seletivo seguem até quinta; veja como participar",
-        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/08/17/cotuca-2027-inscricoes-para-processo-seletivo-seguem-ate-quinta-veja-como-participar.ghtml",
-        "summary": "Fachada de prédio do Cotuca, em Campinas Antoninho Perri/SEC Unicamp O Colégio Técnico da Unicamp (Cotuca), em Campinas (SP), está com inscrições abertas para o processo seletivo de 2027 até esta quinta-feira (20). A tax",
-        "image": "https://s2-g1.glbimg.com/a-qq0ou5bVBiM_BWPHrRGclEkv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/l6U5RsQAejRPMvodJ4zA/design-sem-nome-2026-08-17t212903.647.jpg",
-        "date": "18 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Incêndio em ônibus bloqueia trecho da Rodovia Santos Dumont em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/incendio-em-onibus-bloqueia-trecho-da-rodovia-santos-dumont-em-campinas.ghtml",
-        "summary": "Ônibus ficou totalmente destruído após incêndio que bloqueou trecho da Rodovia Santos Dumont (SP-075), em Campinas (SP), na noite desta segunda-feira (17) Daniely Fernandes/EPTV O incêndio em um ônibus bloqueou um trecho",
-        "image": "https://s2-g1.glbimg.com/scYPeQnUnsImzTDJbwqH6cli7Sc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/D1MwsbR7KgWPIXvLJD9g/design-sem-nome-2026-08-17t220031.399.jpg",
-        "date": "17 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Relatório traz soluções para reduzir emissões de metano",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/relatorio-traz-solucoes-para-reduzir-emissoes-de-metano-no-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/relatorio-traz-solucoes-para-reduzir-emissoes-de-metano-no-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Confira a agenda dos candidatos à Presidência nesta terça-feira",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-terca-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-terca-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mineiro Romeu Zema concorrerá à Presidência pelo Novo",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/mineiro-romeu-zema-concorrera-presidencia-pelo-novo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/mineiro-romeu-zema-concorrera-presidencia-pelo-novo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Terremoto: Brasil doará 10 toneladas de arroz à Colômbia",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/terremoto-brasil-doara-10-toneladas-de-arroz-colombia",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/terremoto-brasil-doara-10-toneladas-de-arroz-colombia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
@@ -143,16 +173,6 @@
         "cls": "brasil"
       },
       {
-        "title": "Área urbanizada no Brasil cresceu 12,3% de 2019 a 2022, mostra IBGE",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/area-urbanizada-no-brasil-cresceu-123-de-2019-2022-mostra-ibge",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/area-urbanizada-no-brasil-cresceu-123-de-2019-2022-mostra-ibge img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
         "title": "PRTB traz Pablo Marçal para disputar a Presidência",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prtb-traz-pablo-marcal-para-disputar-presidencia",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prtb-traz-pablo-marcal-para-disputar-presidencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
@@ -161,29 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Brasileira defende mais influência dos jovens nas decisões da COP17",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasileira-defende-mais-influencia-dos-jovens-nas-decisoes-da-cop17",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasileira-defende-mais-influencia-dos-jovens-nas-decisoes-da-cop17 img src= https://cdn.jsdelivr.net/gh/sergios",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Democracia e crescimento de organizações criminosas é tema de encontro",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/democracia-e-crescimento-de-organizacoes-criminosas-e-tema-de-encontro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/democracia-e-crescimento-de-organizacoes-criminosas-e-tema-de-encontro img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Mesmo sem acesso na Série D, Matheus Cadorini faz balanço positivo do ano na Portuguesa",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/matheus-cadorini-portuguesa-melhor-temporada-carreira/",
+        "summary": "Aos 23 anos, Matheus Cadorini viveu sua melhor temporada ofensiva no futebol profissional. Pelo Portuguesa, o atacante disputou 21 partidas em 2026, marcou dez gols e se consolidou como uma das principais referências da ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Matheus-Cadorini-Divulgacao-Portuguesa-4.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "José Mourinho é oficialmente apresentado no Real Madrid",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/jose-mourinho-apresentado-real-madrid/",
+        "summary": "José Mourinho foi apresentado nesta terça-feira como novo técnico do Real Madrid. O treinador português assinou contrato por três temporadas ao lado do presidente Florentino Pérez e destacou a emoção de retornar ao clube",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-18-111135.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Confira as melhores defesas da semana da Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-liga-saudita-8/",
+        "summary": "Confira as melhores defesas da semana da Liga Saudita O post Confira as melhores defesas da semana da Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/efes.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "São Paulo inicia preparação no CT para decisão contra o Bolívar pela Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-inicia-preparacao-no-ct-para-decisao-contra-o-bolivar-pela-sul-americana/",
+        "summary": "São Paulo inicia preparação no CT para decisão contra o Bolívar pela Sul-Americana O post São Paulo inicia preparação no CT para decisão contra o Bolívar pela Sul-Americana apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2409-jpg-1229x1536-1.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Momentos difíceis mantêm você motivado ; diz Kompany, treinador do Bayern de Munique",
         "link": "https://www.gazetaesportiva.com/times/bayern/momentos-dificeis-mantem-voce-motivado-diz-kompany-treinador-do-bayern-de-munique/",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/santos/santos-ingressos-mirassol-brasileirao-vila-belmiro/",
         "summary": "O Santos iniciou a venda de ingressos para o confronto com o Mirassol, pela 24ª rodada do Campeonato Brasileiro. A partida será disputada no próximo domingo, às 18h30, na Vila Belmiro, com bilhetes entre R$ 40 e R$ 140. ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55469182911_e923251c23_o.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Confira os melhores gols da semana da Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/futebol/confira-os-melhores-gols-da-semana-da-liga-saudita-7/",
-        "summary": "Confira os melhores gols da semana da Liga Saudita O post Confira os melhores gols da semana da Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Melho.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Técnicos de Vélez e Defensa y Justicia trocam socos após empate na Argentina",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/schelotto-vaccari-agressoes-velez-defensa-y-justicia/",
-        "summary": "O empate por 1 a 1 entre Vélez Sarsfield e Defensa y Justicia, pela quinta rodada do Campeonato Argentino, terminou em confusão fora das quatro linhas. Os técnicos Guillermo Barros Schelotto e Julio Vaccari se desentende",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-18-101507.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Técnico do Egito desmaia ao tentar separar briga entre atual esposa e ex-mulher",
-        "link": "https://www.gazetaesportiva.com/times/egito/hossam-hassan-desmaia-ao-separar-briga/",
-        "summary": "Hossam Hassan, técnico da seleção do Egito, precisou ser levado ao hospital após passar mal e desmaiar ao tentar separar uma briga entre sua atual esposa e sua ex-companheira. O treinador de 60 anos recebeu atendimento m",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ONTW74ZVPVED3MQAQSTC3B234U.avif",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Confira as melhores defesas da semana da MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-mls-7/",
-        "summary": "Confira as melhores defesas da semana da MLS O post Confira as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/sem.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Os 70 das Casas Bahia: do crediário e slogans-chiclete à RJ de R$ 17,3 bilhões",
-        "link": "https://www.infomoney.com.br/business/os-70-das-casas-bahia-do-crediario-e-slogans-chiclete-a-rj-de-r-173-bilhoes/",
-        "summary": "Fundada em São Caetano do Sul (SP) nos anos 1950, empresa cresceu impulsionada por compras parceladas no crediário para as classe média e baixa The post Os 70 das Casas Bahia: do crediário e slogans-chiclete à RJ de R$ 1",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Sede-casas-bahia.jpg?fit=300%2C230&amp;quality=70&amp;strip=all",
+        "title": "Tesouro IPCA+ cai na contramão do exterior em dia de leilão e após compras de fundos",
+        "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-18082026/",
+        "summary": "Recomposição das carteiras dos índices IMA-B após vencimento de NTN-B nesta segunda gera demanda técnica que ajuda a segurar os títulos de inflação; petróleo volta a US$ 90 e pressiona prefixados The post Tesouro IPCA+ c",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/dinheiro-real.jpg?fit=300%2C222&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Construtoras de baixa renda mostram resultados mais consistentes no 2T, diz XP",
-        "link": "https://www.infomoney.com.br/mercados/construtoras-de-baixa-renda-mostram-resultados-mais-consistentes-no-2t-diz-xp/",
-        "summary": "Todas as incorporadas do segmento reportaram crescimento de receita e a maioria manteve ou ampliou suas margens em relação ao trimestre anterior The post Construtoras de baixa renda mostram resultados mais consistentes n",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Empreendimento-MRV-Credito_Divulgacao.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Trump publica imagem do Estreito de Ormuz como novo território dos Estados Unidos",
+        "link": "https://www.infomoney.com.br/mundo/trump-publica-imagem-do-estreito-de-ormuz-como-novo-territorio-dos-estados-unidos/",
+        "summary": "A montagem foi divulgada na plataforma Truth Social The post Trump publica imagem do Estreito de Ormuz como novo território dos Estados Unidos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/trump.webp?fit=300%2C213&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Seguro de carro pode ficar R$ 900 mais barato para motorista de menor risco",
-        "link": "https://www.infomoney.com.br/minhas-financas/seguro-de-carro-pode-ficar-r-900-mais-barato-para-motorista-de-menor-risco/",
-        "summary": "Análise considera a sinistralidade, que relaciona os valores recebidos pelas seguradoras aos gastos com indenizações, para ajustar preços The post Seguro de carro pode ficar R$ 900 mais barato para motorista de menor ris",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/traffic-jam-688566_640.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "OpenAI lança ChatGPT para adolescentes com medidas de proteção e controles parentais",
+        "link": "https://www.infomoney.com.br/mercados/openai-lanca-chatgpt-para-adolescentes-com-medidas-de-protecao-e-controles-parentais/",
+        "summary": "A startup avaliada em US$852 bilhões enfrenta vários processos judiciais alegando que o ChatGPT causou danos a crianças, enquanto se prepara para uma oferta pública inicial (IPO) que pode bater recordes The post OpenAI l",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-18T144700Z_1_LYNXMPELAH0RR_RTROPTP_4_TECH-INTERRUPCAO-X-CHATGPT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Motorista de Haddad depõe e mantém versão sobre horários; polícia fala em contradição",
-        "link": "https://www.infomoney.com.br/mercados/motorista-de-haddad-depoe-e-mantem-versao-sobre-horarios-policia-fala-em-contradicao/",
-        "summary": "Haddad afirmou que motorista foi perseguido por PMs em abordagem fora do padrão no último dia 11 The post Motorista de Haddad depõe e mantém versão sobre horários; polícia fala em contradição appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-06T122100Z_1_LYNXMPELA50OS_RTROPTP_4_MACRO-SEGURO-DEFESO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Axia Energia deverá desembolsar R$ 1,5 bi com resgates de ações PNC, calcula Itaú BBA",
+        "link": "https://www.infomoney.com.br/mercados/axia-energia-devera-desembolsar-r-15-bi-com-resgates-de-acoes-pnc-calcula-itau-bba/",
+        "summary": "Os resgates de PNCs funcionam como uma espécie ⁠de ‌programa de recompra pela Axia The post Axia Energia deverá desembolsar R$ 1,5 bi com resgates de ações PNC, calcula Itaú BBA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-06-104531.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TSE aceita ação sobre financiamento de desfile no carnaval que homenageou Lula",
-        "link": "https://www.infomoney.com.br/politica/tse-aceita-acao-sobre-financiamento-de-desfile-no-carnaval-que-homenageou-lula/",
-        "summary": "Ação movida pelo partido Novo questiona abuso de poder econômico e uso indevido dos meios de comunicação pelo presidente e vice, Geraldo Alckmin The post TSE aceita ação sobre financiamento de desfile no carnaval que hom",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/SaveClip.App_630076239_18396127489199497_5941238820809473030_n.jpg?fit=300%2C156&amp;quality=70&amp;strip=all",
+        "title": "Home Depot tem lucro líquido de US$ 4,8 bilhões no 2º trimestre fiscal",
+        "link": "https://www.infomoney.com.br/mercados/home-depot-tem-lucro-liquido-de-us-48-bilhoes-no-2o-trimestre-fiscal/",
+        "summary": "As vendas comparáveis, que excluem aberturas e fechamentos de lojas, cresceram 1,7% no segundo trimestre, acima do avanço de 0,9% projetado pelos analistas The post Home Depot tem lucro líquido de US$ 4,8 bilhões no 2º t",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-25T111253Z_686466297_RC2M1DA9Q9XR_RTRMADP_3_HOME-DEPOT-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O julgamento que pode mudar as redes sociais: 29 estados americanos contra a Meta",
-        "link": "https://www.infomoney.com.br/business/o-julgamento-que-pode-mudar-as-redes-sociais-29-estados-americanos-contra-a-meta/",
-        "summary": "Segundo a empresa fundada por Mark Zuckerberg, as multas poderiam chegar a US$1,4 trilhão, valor próximo ao valor de mercado da empresa, que é de US$1,5 trilhão The post O julgamento que pode mudar as redes sociais: 29 e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-29T181317Z_894935948_RC2GOJAX733N_RTRMADP_3_META-PLATFORMS-RESULTS.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
+        "title": "Busca de empresas por crédito cresce 9,2% em 12 meses até junho, diz Serasa Experian",
+        "link": "https://www.infomoney.com.br/economia/busca-de-empresas-por-credito-cresce-92-em-12-meses-ate-junho-diz-serasa-experian/",
+        "summary": "Na análise por porte, as micro e pequenas empresas (MPEs) registraram a variação anualizada mais elevada entre os grupos analisados The post Busca de empresas por crédito cresce 9,2% em 12 meses até junho, diz Serasa Exp",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Colunistas-IM-38.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Casal fatura R$ 2,1 milhões com móveis planejados, mas freia vendas. Marcus Marques explica o erro",
-        "link": "https://exame.com/negocios/casal-fatura-r-21-milhoes-com-moveis-planejados-mas-freia-vendas-marcus-marques-explica-o-erro/",
-        "summary": "Com vendas em alta, fundadores da AC Móveis precisam descentralizar a operação e organizar as finanças para sustentar o crescimento",
+        "title": "Criatividade está entre as cinco habilidades mais decisivas, segundo Fórum Econômico Mundial",
+        "link": "https://exame.com/carreira/criatividade-esta-entre-as-cinco-habilidades-mais-decisivas-segundo-forum-economico-mundial/",
+        "summary": "Relatório com centenas de empregadores mostra que pensamento criativo cresce mais rápido que técnica",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Do estágio ao conselho: o que mais de duas décadas em finanças ensinaram a este gestor",
-        "link": "https://exame.com/carreira/do-estagio-ao-conselho-o-que-mais-de-duas-decadas-em-financas-ensinaram-a-este-gestor/",
-        "summary": "Após deixar a gerência financeira do Grupo Opet, executivo relata como o MBA em Finanças mudou seu diálogo com o conselho de administração",
+        "title": "Após anos de atraso, Vin Diesel revela quando será filmado o último 'Velozes e Furiosos'",
+        "link": "https://exame.com/pop/apos-anos-de-atraso-vin-diesel-revela-quando-sera-filmado-o-ultimo-velozes-e-furiosos/",
+        "summary": "Depois de anos de adiamentos, \"Velozes e Furiosos 11\" ganha uma nova previsão para o início das filmagens",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "ChatGPT ganha versão para adolescentes que restringe tópicos de conversas",
-        "link": "https://exame.com/inteligencia-artificial/chatgpt-ganha-versao-para-adolescentes-que-restringe-topicos-de-conversas/",
-        "summary": "Empresa usa mais de 2.000 sinais de comportamento para inferir se o usuário é menor de 18 anos",
+        "title": "MIT aposta em curso que usa jazz e Cirque du Soleil para formar líder de negócios",
+        "link": "https://exame.com/carreira/mit-aposta-em-curso-que-usa-jazz-e-cirque-du-soleil-para-formar-lider-de-negocios/",
+        "summary": "Escola de negócios integra artistas ao currículo para desenvolver liderança na prática",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Harry Kane diz que vai negociar renovação de contrato com o Bayern nesta semana",
-        "link": "https://exame.com/esporte/harry-kane-diz-que-vai-negociar-renovacao-de-contrato-com-o-bayern-nesta-semana/",
-        "summary": "Capitão da Inglaterra diz que clube e jogador estão tranquilos sobre novo vínculo; imprensa alemã aponta acordo até 2029",
+        "title": "BTG Pactual Empresas faz primeiro Fórum Empreendedor em setembro; evento será on-line e gratuito",
+        "link": "https://exame.com/negocios/btg-pactual-empresas-faz-primeiro-forum-empreendedor-em-setembro-evento-sera-on-line-e-gratuito/",
+        "summary": "Primeira edição do Fórum Empreendedor BTG Pactual Empresas será transmitida on-line em 10 de setembro e reunirá empresários, executivos e especialistas para discutir economia, gestão, tecnologia e IA",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mineração pode destravar R$ 1,3 tri em arrecadação no Brasil, aponta Vale",
-        "link": "https://exame.com/economia/mineracao-pode-destravar-r-13-tri-em-arrecadacao-no-brasil-aponta-vale/",
-        "summary": "Ampliar a atividade mineral entre 2026 e 2035 poderia gerar R$ 1,3 trilhão em arrecadação fiscal adicional e criar de 5,3 milhões de empregos ao longo da próxima década",
+        "title": "Real Time Big Data: Deltan lidera disputa pelo Senado no Paraná com 19%; Curi e Barros têm 17%",
+        "link": "https://exame.com/brasil/real-time-big-data-deltan-lidera-disputa-pelo-senado-no-parana-com-19-curi-e-barros-tem-17/",
+        "summary": "Disputa por duas vagas tem empate técnico triplo na liderança e mais uma quarta candidata encostada no primeiro pelotão",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Qual era o verdadeiro nome de Laura Cardoso? Conheça a trajetória da atriz",
-        "link": "https://exame.com/pop/qual-era-o-verdadeiro-nome-de-laura-cardoso-conheca-a-trajetoria-da-atriz/",
-        "summary": "Artista brasileira morreu na madrugada desta terça-feira aos 98 anos",
+        "title": "Uso excessivo de IA pode fazer colegas pensarem que você é relaxado no trabalho, diz especialista",
+        "link": "https://exame.com/carreira/uso-excessivo-de-ia-pode-fazer-colegas-pensarem-que-voce-e-relaxado-no-trabalho-diz-especialista/",
+        "summary": "Professor da Saint Paul, Rafael Crispim explica como o uso indiscriminado da inteligência artificial pode reduzir a qualidade das entregas, expor dados estratégicos e comprometer a reputação profissional",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
