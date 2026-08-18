@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:30:27.545Z",
+  "updated": "2026-08-18T18:42:38.870Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Analistas veem risco de ação cibernética de EUA e bigtechs em eleições",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/analistas-veem-risco-de-acao-cibernetica-de-eua-e-bigtechs-em-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/analistas-veem-risco-de-acao-cibernetica-de-eua-e-bigtechs-em-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Democrata tem veterinário Wilson Grassi na disputa presidencial",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/democrata-tem-veterinario-wilson-grassi-na-disputa-presidencial img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -133,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Samara Martins é a candidata do União Popular ao pleito presidencial",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-uniao-popular-ao-pleito-presidencial",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-uniao-popular-ao-pleito-presidencial img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "Samara Martins é a candidata do Unidade Popular ao pleito presidencial",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/samara-martins-e-candidata-do-unidade-popular-ao-pleito-presidencial img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Agência Brasil",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Tremores voltam a atingir Granada, na Espanha",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/novos-tremores-voltam-atingir-granada-na-espanha",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/novos-tremores-voltam-atingir-granada-na-espanha img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Palmeiras fecha preparação e terá reforços para decisão na Libertadores; veja provável escalaçã",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-fecha-preparacao-e-tera-reforcos-para-decisao-na-libertadores-veja-provavel-escalaca/",
-        "summary": "O Palmeiras fechou, na manhã desta terça-feira, a preparação para o jogo de volta das oitavas de final da Copa Libertadores, em atividade realizada na Academia de Futebol. Embora tenha dois reforços para o jogo, o técnic",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/18082026_cg_palmeiras_0724_10.webp",
+        "title": "Ødegaard comanda a festa do Arsenal após o título da Supercopa da Inglaterra",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/odegaard-comanda-a-festa-do-arsenal-apos-o-titulo-da-supercopa-da-inglaterra/",
+        "summary": "Capitão ergue a taça! Confira a celebração do Arsenal liderada por Martin Ødegaard após a vitória por 3 a 0 sobre o Manchester City. O post Ødegaard comanda a festa do Arsenal após o título da Supercopa da Inglaterra apa",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/kwy83mfq-1920Odegaard.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos viaja sem Neymar e Gabigol para decisão na Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-viaja-sem-neymar-e-gabigol-para-decisao-na-sul-americana/",
-        "summary": "O Santos divulgou a lista de relacionados para o jogo de volta das oitavas de final da Copa Sul-Americana contra o Macará, marcado para esta quinta-feira, no Equador. Neymar e Gabigol, decisivos na vitória por 2 a 1 na p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471172852_e40ba1c76b_k.webp",
+        "title": "Vasco se reapresenta no CT Moacyr Barbosa e inicia preparação após derrota no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/vasco/vasco-se-reapresenta-no-ct-moacyr-barbosa-e-inicia-preparacao-apos-derrota-no-brasileirao-2/",
+        "summary": "Vasco se reapresenta no CT Moacyr Barbosa e inicia preparação após derrota no Brasileirão O post Vasco se reapresenta no CT Moacyr Barbosa e inicia preparação após derrota no Brasileirão apareceu primeiro em Gazeta Espor",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Vasc.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Piloto tailandês Alex Albon renova com a Williams para 2027",
-        "link": "https://www.gazetaesportiva.com/motor/piloto-tailandes-alex-albon-renova-com-a-williams-para-2027/",
-        "summary": "Alex Albon renovou seu contrato com a Williams e seguirá na equipe de Fórmula 1 até pelo menos a temporada de 2027. O piloto tailandês, que está na escuderia desde 2022, afirmou que pretende continuar ajudando no process",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260211__972C4NZ__v1__HighRes__AutoPrixF1BrnTest.webp",
+        "title": "Memphis se reapresenta e aguarda regularização para voltar a jogar pelo Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/memphis-se-reapresenta-e-aguarda-regularizacao-para-voltar-a-jogar-pelo-corinthians/",
+        "summary": "Memphis Depay voltou aos trabalhos no Corinthians nesta terça-feira, após semanas de indefinição envolvendo a renovação de seu contrato. O atacante treinou com bola no CT Joaquim Grava e agora depende apenas da regulariz",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260202__94RN67F__v1__HighRes__FblBraSupercopaFlamengoCorinthians.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "WTA confirma participantes do SP Open 2026; veja as principais estrelas",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/wta-confirma-participantes-do-sp-open-2026-veja-as-principais-estrelas/",
-        "summary": "A WTA confirmou a lista de entrada da segunda edição do SP Open, que será disputado entre 12 e 20 de setembro, em São Paulo. O torneio terá como principais atrações a canadense Leylah Fernandez, vice-campeã do US Open de",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/fer.webp",
+        "title": "Veja fotos do treino do Santos desta terça-feira",
+        "link": "https://www.gazetaesportiva.com/times/santos/veja-fotos-do-treino-do-santos-desta-terca-feira-43/",
+        "summary": "O post Veja fotos do treino do Santos desta terça-feira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55472275328_7383a83637_c.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do treino do Palmeiras desta terça-feira",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-terca-feira-38/",
-        "summary": "Veja fotos do treino do Palmeiras nesta terça-feira. O post Veja fotos do treino do Palmeiras desta terça-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/18082026_cg_palmeiras_0724_10.webp",
+        "title": "Santos faz treino físico antes de viajar ao Equador",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-faz-treino-fisico-antes-de-viajar-ao-equador/",
+        "summary": "O Santos realizou nesta terça-feira um treino físico no CT Rei Pelé antes da viagem ao Equador para enfrentar o Macará, pela volta das oitavas de final da Copa Sul-Americana. Neymar, Gabriel Barbosa, Igor Vinícius e Barr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471172932_46194347b7_c.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Niclas Füllkrug retorna ao Werder Bremen por empréstimo",
-        "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/niclas-fullkrug-retorna-ao-werder-bremen-por-emprestimo/",
-        "summary": "O Werder Bremen anunciou o retorno do atacante Niclas Füllkrug por empréstimo junto ao West Ham. Ídolo do clube alemão e peça-chave no acesso à Bundesliga em 2022, o jogador de 33 anos volta três anos após sua saída e af",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260818__C4XH266__v1__HighRes__FootballBundesligaDay1WerderBremenVBayernMunich.webp",
+        "title": "Barcelona anuncia a contratação de Rodri, campeão do mundo com a Espanha",
+        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-anuncia-a-contratacao-de-rodri-campeao-do-mundo-com-a-espanha/",
+        "summary": "O Barcelona anunciou a contratação do volante espanhol Rodri, que deixa o Manchester City e assinou contrato até junho de 2030. Revelado nas categorias de base do Atlético de Madrid e com passagem pelo Villarreal, o joga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-18-at-18.36.52-3-.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Flávio Bolsonaro diz que usará imagem do pai na campanha dentro dos limites da lei",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-diz-que-usara-imagem-do-pai-na-campanha-dentro-dos-limites-da-lei/",
-        "summary": "Uso da imagem de Jair Bolsonaro feita por IA ganhou destaque após o PL ter apresentado, durante convenção, um vídeo em que o ex-presidente manifesta apoio ao filho The post Flávio Bolsonaro diz que usará imagem do pai na",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/jair-bolsonaro-pl-convencao-flavio-ia-deep-fake-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Disney e ABC processam órgão dos EUA por ameaças às suas licenças de transmissão",
+        "link": "https://www.infomoney.com.br/mundo/disney-e-abc-processam-orgao-dos-eua-por-ameacas-as-suas-licencas-de-transmissao/",
+        "summary": "Empresas pediram ao tribunal que emitisse rapidamente uma ordem judicial de liminar para suspender o processo de renovação da licença The post Disney e ABC processam órgão dos EUA por ameaças às suas licenças de transmis",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/01/2024-01-03T163702Z_1_LYNXMPEK020I2_RTROPTP_4_DISNEY-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lei Seca: Blitz terá procedimento para álcool, drogas e até bombom de licor",
-        "link": "https://www.infomoney.com.br/brasil/lei-seca-blitz-tera-procedimento-para-alcool-drogas-e-ate-bombom-de-licor/",
-        "summary": "A Resolução entra em vigor a partir de sua publicação no Diário Oficial da União (DOU), mas há um prazo de 60 dias para entidades integrantes do Sistema Nacional de Trânsito (SNT) realizem as adaptações necessárias em su",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/9091743.184201.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Empresas brasileiras dominam ranking de executivos na América Latina; veja destaques",
+        "link": "https://www.infomoney.com.br/carreira/empresas-brasileiras-dominam-ranking-de-executivos-na-america-latina-veja-destaques/",
+        "summary": "AXIA Energia, Itaú Unibanco, Localiza, PRIO, Rede D'Or, Vale e WEG foram as sete empresas brasileiras que alcançaram o status All-Star The post Empresas brasileiras dominam ranking de executivos na América Latina; veja d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-4872010.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Marçal corrige declaração ao TSE e patrimônio cai de R$ 7,4 bi para R$ 149,9 mi",
-        "link": "https://www.infomoney.com.br/politica/marcal-corrige-declaracao-ao-tse-e-patrimonio-cai-de-r-74-bi-para-r-1499-mi/",
-        "summary": "Candidato atribuiu diferença a erros de digitação; nova versão amplia de 18 para 43 a relação de bens informados à Justiça Eleitoral The post Marçal corrige declaração ao TSE e patrimônio cai de R$ 7,4 bi para R$ 149,9 m",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/https__img.migalhas.com_.br__SL__gf_base__SL__empresas__SL__MIGA__SL__imagens__SL__2024__SL__05__SL__02__SL__302bc53d-424b-4f5d-a214-e008df52d384.jpg._PROC_CP65.jpg?fit=300%2C183&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA: Passarela é atingida por carreta e desaba em SP; duas pessoas morrem",
+        "link": "https://www.infomoney.com.br/brasil/assista-passarela-e-atingida-por-carreta-e-desaba-em-sp-duas-pessoas-morrem/",
+        "summary": "Acidente ocorreu por volta das 10h da manhã no km 4,1 da Rodovia Fernão Dias The post ASSISTA: Passarela é atingida por carreta e desaba em SP; duas pessoas morrem appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/ciclopassarela.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Renan Santos questiona Justiça do Trabalho, diz que CLT já era e critica fim da 6 1",
-        "link": "https://www.infomoney.com.br/politica/renan-santos-questiona-justica-do-trabalho-diz-que-clt-ja-era-e-critica-fim-da-6x1/",
-        "summary": "Nesta terça-feira (18), o postulante do Missão defendeu uma \"reforma trabalhista decente\" e criticou legislação trabalhista \"inadequada\" The post Renan Santos questiona Justiça do Trabalho, diz que CLT já era e critica f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/renan-santos-convencao-missao.jpg?fit=300%2C173&amp;quality=70&amp;strip=all",
+        "title": "Ex-chefe da FAB relata pressão de Bolsonaro e temor de golpe iminente em 2022",
+        "link": "https://www.infomoney.com.br/politica/ex-chefe-da-fab-relata-pressao-de-bolsonaro-e-temor-de-golpe-iminente-em-2022/",
+        "summary": "Carlos Baptista Junior afirma que temia ruptura dentro do Exército e descreve reuniões em que comandantes militares foram pressionados após a derrota eleitoral The post Ex-chefe da FAB relata pressão de Bolsonaro e temor",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/05/Cid-e-Bolsonaro.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa cai 8,5% em dólar e só fica à frente da Bolsa argentina no mês; veja ranking",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-cai-85-em-dolar-e-so-fica-a-frente-da-bolsa-argentina-no-mes-veja-ranking/",
-        "summary": "Bolsa brasileira só perde para Argentina entre 21 mercados globais em agosto, aponta estudo da Elos Ayta The post Ibovespa cai 8,5% em dólar e só fica à frente da Bolsa argentina no mês; veja ranking appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-24-162333.png?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "title": "R$ 40,5 mil por mês: onde estão os empregos em tecnologia no Brasil?",
+        "link": "https://www.infomoney.com.br/carreira/empregos-em-tecnologia/",
+        "summary": "Sudeste ainda concentra vagas, mas o mercado de tecnologia avança fora dos polos tradicionais The post R$ 40,5 mil por mês: onde estão os empregos em tecnologia no Brasil? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Empregos-em-tecnologia.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Para mais da metade dos trabalhadores do país, sobra mês no fim do salário",
-        "link": "https://www.infomoney.com.br/economia/para-mais-da-metade-dos-trabalhadores-do-pais-sobra-mes-no-fim-do-salario/",
-        "summary": "Pesquisa de Saúde Financeira dos Trabalhadores, realizada pela datatech Serasa Experian, mostra que 53% dos trabalhadores brasileiros chegam ao fim do mês sem dinheiro suficiente para pagar todas as despesas The post Par",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-s4McgMfr-IA-unsplash-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Chelsea entra no radar de negócio bilionário entre acionistas",
+        "link": "https://www.infomoney.com.br/esportes/chelsea-entra-no-radar-de-negocio-bilionario-entre-acionistas/",
+        "summary": "Controladora do clube inglês avalia comprar participação de Mark Walter, em operação que pode reorganizar a estrutura de poder da equipe londrina The post Chelsea entra no radar de negócio bilionário entre acionistas app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464637130.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Cansado de tarefas repetitivas? 5 coisas que a IA pode automatizar no seu trabalho hoje",
-        "link": "https://exame.com/inteligencia-artificial/cansado-de-tarefas-repetitivas-5-coisas-que-a-ia-pode-automatizar-no-seu-trabalho-hoje/",
-        "summary": "De e-mails a planilhas, profissionais podem usar ferramentas de IA para reduzir tarefas repetitivas e dedicar mais tempo a atividades que exigem análise",
+        "title": "Ela abriu um negócio e criou uma equipe de executivos de IA para ajudar na gestão da empresa",
+        "link": "https://exame.com/inteligencia-artificial/ela-abriu-um-negocio-e-criou-uma-equipe-de-executivos-de-ia-para-ajudar-na-gestao-da-empresa/",
+        "summary": "Sara Russell transformou projetos de IA em uma espécie de equipe virtual para organizar marketing, vendas, finanças e desenvolvimento de produtos",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "O preço do café pode subir? El Niño ameaça safra recorde no Brasil",
-        "link": "https://exame.com/agro/o-preco-do-cafe-pode-subir-el-nino-ameaca-safra-recorde-no-brasil/",
-        "summary": "Fenômeno ameaça a florada no Sudeste em meio a estoques globais baixos e pode pressionar as cotações em 2026/27",
+        "title": "'Cem Anos de Solidão': Netflix divulga trailer do último episódio; assista",
+        "link": "https://exame.com/pop/cem-anos-de-solidao-netflix-divulga-trailer-do-ultimo-episodio-assista/",
+        "summary": "O capítulo encerra a saga da família Buendía e o ciclo de Macondo",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cinco formas de aproveitar a faculdade para acelerar sua carreira antes do diploma",
-        "link": "https://exame.com/carreira/cinco-formas-de-aproveitar-a-faculdade-para-acelerar-sua-carreira-antes-do-diploma/",
-        "summary": "Projetos, conexões e experiências práticas podem transformar a graduação em um período decisivo de desenvolvimento profissional",
+        "title": "Emissões de metano crescem no Brasil; agro concentra 75% do total",
+        "link": "https://exame.com/esg/emissoes-de-metano-crescem-no-brasil-agro-concentra-75-do-total/",
+        "summary": "Criação de gado domina a conta nacional, enquanto pesquisadores apontam manejo, gestão de resíduos e controle de vazamentos entre as frentes de redução",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Eleições 2026: quem são os candidatos ao governo da Paraíba?",
-        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-da-paraiba/",
-        "summary": "Conheça os seis candidatos ao governo da Paraíba nas eleições de 2026, suas propostas, o patrimônio declarado ao TSE e como está a disputa a poucas semanas do primeiro turno.",
+        "title": "Flamengo aciona órgão para analisar situação financeira do Vasco",
+        "link": "https://exame.com/esporte/flamengo-aciona-orgao-para-analisar-situacao-financeira-do-vasco/",
+        "summary": "Rubro-Negro questiona contratações do rival enquanto clube está em recuperação judicial e solicita novo financiamento emergencial",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Eleições 2026: quem são os candidatos ao governo do Piauí?",
-        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-do-piaui/",
-        "summary": "Acompanhe o cenário político das eleições 2026 no Piauí. Conheça os candidatos ao governo do estado, suas principais propostas e como acompanhar as pesquisas de intenção de voto.",
+        "title": "Qual será o próximo torneio de João Fonseca após desistência em Cincinnati?",
+        "link": "https://exame.com/esporte/qual-sera-o-proximo-torneio-de-joao-fonseca-apos-desistencia-em-cincinnati/",
+        "summary": "Brasileiro desistiu da disputa devido a um incômodo no lado esquerdo do abdômen e tem o US Open como próximo torneio",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Levi’s traz campanha global ao Brasil e escolhe Ludmilla como embaixadora",
-        "link": "https://exame.com/marketing/levis-traz-campanha-global-ao-brasil-e-escolhe-ludmilla-como-embaixadora/",
-        "summary": "Cantora é a representante brasileira de \"Keep It Loose\", plataforma que também reúne nomes como Rosé e Shai Gilgeous-Alexander",
+        "title": "Criatividade pode valer 10% do PIB mundial até 2030, projetam especialistas",
+        "link": "https://exame.com/carreira/criatividade-pode-valer-10-do-pib-mundial-ate-2030-projetam-especialistas/",
+        "summary": "Setor já soma trilhões em exportações e cresce mais rápido que boa parte da economia tradicional",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
