@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T01:25:20.732Z",
+  "updated": "2026-08-18T02:58:50.037Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Remo empata no último lance, mas Inter deixa a zona de rebaixamento",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/remo-empata-no-ultimo-lance-mas-inter-deixa-zona-de-rebaixamento",
+        "summary": "p strong A partida que finalizou a 23ª rodada do Campeonato Brasileiro promoveu uma mudança na zona de rebaixamento. Nesta segunda-feira (17), o Internacional empatou por 1 a 1 com o Remo no Beira-Rio, em Porto Alegre, e",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Petrobras encontra petróleo em poço na Margem Equatorial",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-encontra-petroleo-em-poco-na-margem-equatorial",
         "summary": "p strong A Petrobras anunciou nesta segunda-feira (17) a descoberta de petróleo no poço Morpho, localizado no bloco BM-FZA-59, na Margem Equatorial, em águas profundas na costa do Amapá.​ A estatal ainda deverá concluir ",
@@ -171,75 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Dino determina afastamento do presidente do TCE do Maranhão",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-determina-afastamento-do-presidente-do-tce-do-maranhao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-determina-afastamento-do-presidente-do-tce-do-maranhao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Guarani cede empate ao Ypiranga e perde chance de ser vice-líder da Série C",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/guarani-cede-empate-ao-ypiranga-e-perde-chance-de-ser-vice-lider-da-serie-c/",
-        "summary": "Guarani e Ypiranga empataram por 2 a 2 nesta segunda-feira, no Estádio Brinco de Ouro da Princesa, pela 17ª rodada da Série C do Campeonato Brasileiro. O Bugre chegou a abrir dois gols de vantagem com Dudu e Maurício Ant",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-17-at-22.04.55.webp",
+        "title": "João Fonseca sente incômodo no abdômen e desiste do Masters de Cincinnati",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/joao-fonseca-sente-incomodo-no-abdomen-e-desiste-do-masters-de-cincinnati/",
+        "summary": "João Fonseca anunciou nesta segunda-feira sua desistência do Masters 1000 de Cincinnati após sentir um incômodo no lado esquerdo do abdômen. O brasileiro deixará de enfrentar o australiano Christopher O'Connell pela terc",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260816__2290756204__v1__MidRes__CincinnatiOpen2026Day6.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Matheus Bahia lamenta empate do Inter pelo Brasileiro: “Muito amargo”",
-        "link": "https://www.gazetaesportiva.com/times/internacional/matheus-bahia-lamenta-empate-internacional-muito-amargo/",
-        "summary": "Matheus Bahia lamenta empate do Internacional com o Remo e classifica resultado como “muito amargo” após gol sofrido nos acréscimos. O post Matheus Bahia lamenta empate do Inter pelo Brasileiro: “Muito amargo” apareceu p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471448975_74f910bf2b_o.webp",
+        "title": "NBA não encontra evidências de irregularidades dos Clippers no caso Kawhi Leonard",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nba/nba-nao-encontra-irregularidades-clippers-kawhi-leonard/",
+        "summary": "Investigação da NBA não encontrou evidências de que os Clippers tenham burlado o teto salarial para beneficiar Kawhi Leonard por meio de patrocínios. O post NBA não encontra evidências de irregularidades dos Clippers no ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260812__2290099104__v1__HighRes__Wta1000NationalBankOpenPresentedByRogers2026.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Inter cede empate ao Remo no final, mas sai do Z4 do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/internacional/internacional-x-remo-brasileirao-2026/",
-        "summary": "Internacional empata em 1 a 1 com o Remo no Beira-Rio e chega a sete jogos sem vencer no Campeonato Brasileiro. O post Inter cede empate ao Remo no final, mas sai do Z4 do Brasileirão apareceu primeiro em Gazeta Esportiv",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471150221_0e90a3b939_o.webp",
+        "title": "Decisivo, Vitor Bueno vê empate do Remo contra o Inter como justo",
+        "link": "https://www.gazetaesportiva.com/times/remo-pa/decisivo-vitor-bueno-ve-empate-do-remo-contra-o-inter-como-justo/",
+        "summary": "Vitor Bueno valorizou o empate por 1 a 1 conquistado pelo Remo diante do Internacional, no Beira-Rio, pela 23ª rodada do Campeonato Brasileiro. Autor do gol nos minutos finais, o meio-campista destacou a entrega da equip",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-17-at-22.27.11.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Jódar atropela Tabilo e vai às oitavas do Masters 1000 de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/jodar-atropela-tabilo-e-vai-as-oitavas-do-masters-1000-de-cincinnati/",
-        "summary": "Rafael Jódar derrota Alejandro Tabilo em sets diretos e avança às oitavas de final do Masters 1000 de Cincinnati. O post Jódar atropela Tabilo e vai às oitavas do Masters 1000 de Cincinnati apareceu primeiro em Gazeta Es",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260817__2290925740__v1__HighRes__CincinnatiOpen2026Day7.webp",
+        "title": "Melhores momentos: Internacional 1 x 1 Remo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/melhores-momentos-internacional-1-x-1-remo-pelo-brasileirao/",
+        "summary": "Confira os melhores momentos de Internacional 1 x 1 Remo, duelo válido pela 23ª rodada do Campeonato Brasileiro, disputado na noite desta segunda-feira, no Estádio Beira-Rio (RS). O post Melhores momentos: Internacional ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55470165492_66f9fa1e90_k.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira as fotos de Internacional x Remo pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/internacional/confira-as-fotos-de-internacional-x-remo-pelo-brasileirao/",
-        "summary": "O post Confira as fotos de Internacional x Remo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471229999_c2c0302513_k.webp",
+        "title": "Jogo do São Paulo contra o Bolívar tem mais de 30 mil ingressos vendidos",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/jogo-do-sao-paulo-contra-o-bolivar-tem-mais-de-30-mil-ingressos-vendidos/",
+        "summary": "São Paulo anuncia 30 mil ingressos vendidos para o duelo decisivo contra o Bolívar, pelas oitavas de final da Copa Sul-Americana. O post Jogo do São Paulo contra o Bolívar tem mais de 30 mil ingressos vendidos apareceu p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/54797089000_d287f4f627_o.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo fecha preparação para enfrentar o Bolívar; veja provável escalação",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-fecha-preparacao-para-encarar-o-bolivar-veja-provavel-escalacao/",
-        "summary": "O São Paulo finalizou, na tarde desta segunda-feira, a preparação para o duelo decisivo contra o Bolívar, pelas oitavas da Sul-Americana. O post São Paulo fecha preparação para enfrentar o Bolívar; veja provável escalaçã",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/img_2427-jpg-1229x1536-1.webp",
-        "date": "17 de ago. de 2026",
+        "title": "Conselho de Orientação do Corinthians aprova renovação de Memphis",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/conselho-de-orientacao-do-corinthians-aprova-renovacao-de-memphis/",
+        "summary": "O Conselho de Orientação do Corinthians (Cori) aprovou nesta segunda-feira a renovação de contrato de Memphis Depay. A votação terminou empatada em 6 a 6, mas o presidente do órgão, Miguel Marques e Silva, desempatou a f",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/memphis.webp",
+        "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
