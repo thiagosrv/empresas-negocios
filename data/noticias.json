@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-18T12:53:27.525Z",
+  "updated": "2026-08-18T13:45:23.902Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "É #FAKE que Toyota deixou de fabricar Corolla no Brasil; produção foi transferida para outra cidade",
+        "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/08/18/e-fake-que-toyota-deixou-de-fabricar-corolla-no-brasil-producao-foi-transferida-para-outra-cidade.ghtml",
+        "summary": "É #FAKE que Toyota deixou de fabricar Corolla no Brasil; produção foi transferida para Sorocaba Reprodução Circulam nas redes sociais publicações com um vídeo mostrando o último Corolla, carro da Toyota, produzido na fáb",
+        "image": "https://s2-g1.glbimg.com/kyg1nYjshfbO0FDR6sdig3ETvfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/8/TaUoqzQASOQji64ZKVCA/corolla.jpg",
+        "date": "18 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "CNPEM oferece bolsas de verão para universitários com tudo pago; veja como se inscrever",
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/08/18/cnpem-oferece-bolsas-de-verao-para-universitarios-com-tudo-pago-veja-como-se-inscrever.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/incendio-em-onibus-bloqueia-trecho-da-rodovia-santos-dumont-em-campinas.ghtml",
         "summary": "Ônibus ficou totalmente destruído após incêndio que bloqueou trecho da Rodovia Santos Dumont (SP-075), em Campinas (SP), na noite desta segunda-feira (17) Daniely Fernandes/EPTV O incêndio em um ônibus bloqueou um trecho",
         "image": "https://s2-g1.glbimg.com/scYPeQnUnsImzTDJbwqH6cli7Sc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/D1MwsbR7KgWPIXvLJD9g/design-sem-nome-2026-08-17t220031.399.jpg",
-        "date": "17 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Após 6 anos de espera, pedido de vista tira de pauta projeto voltado à população LGBT em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/apos-6-anos-de-espera-pedido-de-vista-tira-de-pauta-projeto-voltado-a-populacao-lgbt-em-campinas.ghtml",
-        "summary": "Foto de arquivo de vereadores de Campinas (SP) durante sessão em junho de 2026 Câmara Municipal de Campinas Após uma espera de seis anos e nove meses para chegar ao plenário da Câmara Municipal de Campinas, o projeto par",
-        "image": "https://s2-g1.glbimg.com/Y_t8HR2Rs0_h0D64VCBWQqSj-w8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/O/Bl0c6MQUmyuEIOp9fnng/55355218200-1936f3c329-k.jpg",
         "date": "17 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "Terremoto: Brasil doará 10 toneladas de arroz à Colômbia",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/terremoto-brasil-doara-10-toneladas-de-arroz-colombia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/terremoto-brasil-doara-10-toneladas-de-arroz-colombia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Defensor do impeachment em 2016, Renan Santos é candidato do Missão",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/defensor-do-impeachment-em-2016-renan-santos-e-candidato-do-missao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/defensor-do-impeachment-em-2016-renan-santos-e-candidato-do-missao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Área urbanizada no Brasil cresceu 12,3% de 2019 a 2022, mostra IBGE",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/area-urbanizada-no-brasil-cresceu-123-de-2019-2022-mostra-ibge",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/area-urbanizada-no-brasil-cresceu-123-de-2019-2022-mostra-ibge img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "PRTB traz Pablo Marçal para disputar a Presidência",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prtb-traz-pablo-marcal-para-disputar-presidencia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prtb-traz-pablo-marcal-para-disputar-presidencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasileira defende mais influência dos jovens nas decisões da COP17",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasileira-defende-mais-influencia-dos-jovens-nas-decisoes-da-cop17",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasileira-defende-mais-influencia-dos-jovens-nas-decisoes-da-cop17 img src= https://cdn.jsdelivr.net/gh/sergios",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Morre atriz Laura Cardoso aos 98 anos, em São Paulo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-atriz-laura-cardoso-aos-98-anos-em-sao-paulo",
-        "summary": "p A atriz Laura Cardoso morreu aos 98 anos em São Paulo. A informação foi confirmada nesta terça-feira (18) em seu perfil oficial na rede social Instagram. img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1699936 o=r",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Grande parte do país tem temperaturas elevadas nesta terça-feira",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-parte-do-pais-tem-temperaturas-elevadas-nesta-terca-feira",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-parte-do-pais-tem-temperaturas-elevadas-nesta-terca-feira img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Justiça do Rio promove campanha pela paz em casa",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-promove-campanha-pela-paz-em-casa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-promove-campanha-pela-paz-em-casa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasileirão Feminino A3: Planalto abre vantagem sobre Realidade Jovem",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-planalto-abre-vantagem-sobre-realidade-jovem",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-planalto-abre-vantagem-sobre-realidade-jovem img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "18 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Momentos difíceis mantêm você motivado ; diz Kompany, treinador do Bayern de Munique",
+        "link": "https://www.gazetaesportiva.com/times/bayern/momentos-dificeis-mantem-voce-motivado-diz-kompany-treinador-do-bayern-de-munique/",
+        "summary": "\"Momentos difíceis mantêm você motivado\"; diz Kompany, treinador do Bayern de Munique O post Momentos difíceis mantêm você motivado ; diz Kompany, treinador do Bayern de Munique apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Kompa.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Santos abre venda de ingressos para jogo contra o Mirassol; veja preços e informações",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-ingressos-mirassol-brasileirao-vila-belmiro/",
+        "summary": "O Santos iniciou a venda de ingressos para o confronto com o Mirassol, pela 24ª rodada do Campeonato Brasileiro. A partida será disputada no próximo domingo, às 18h30, na Vila Belmiro, com bilhetes entre R$ 40 e R$ 140. ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55469182911_e923251c23_o.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Confira os melhores gols da semana da Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/futebol/confira-os-melhores-gols-da-semana-da-liga-saudita-7/",
+        "summary": "Confira os melhores gols da semana da Liga Saudita O post Confira os melhores gols da semana da Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Melho.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Técnicos de Vélez e Defensa y Justicia trocam socos após empate na Argentina",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/schelotto-vaccari-agressoes-velez-defensa-y-justicia/",
+        "summary": "O empate por 1 a 1 entre Vélez Sarsfield e Defensa y Justicia, pela quinta rodada do Campeonato Argentino, terminou em confusão fora das quatro linhas. Os técnicos Guillermo Barros Schelotto e Julio Vaccari se desentende",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-18-101507.webp",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Técnico do Egito desmaia ao tentar separar briga entre atual esposa e ex-mulher",
+        "link": "https://www.gazetaesportiva.com/times/egito/hossam-hassan-desmaia-ao-separar-briga/",
+        "summary": "Hossam Hassan, técnico da seleção do Egito, precisou ser levado ao hospital após passar mal e desmaiar ao tentar separar uma briga entre sua atual esposa e sua ex-companheira. O treinador de 60 anos recebeu atendimento m",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ONTW74ZVPVED3MQAQSTC3B234U.avif",
+        "date": "18 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Confira as melhores defesas da semana da MLS",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-mls-7/",
         "summary": "Confira as melhores defesas da semana da MLS O post Confira as melhores defesas da semana da MLS apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/sem.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo enfrenta concorrência de clubes ingleses na briga por Jamie Vardy",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-disputa-jamie-vardy-clubes-ingleses/",
-        "summary": "O São Paulo demonstrou interesse na contratação de Jamie Vardy, que está livre no mercado após passagem pelo Cremonese. Apesar do avanço do interesse tricolor, o atacante de 39 anos também é alvo de clubes ingleses, como",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/03/01/vardyy.jpg",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Confira os melhores gols da semana da MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-mls-6/",
-        "summary": "Confira os melhores gols da semana da MLS O post Confira os melhores gols da semana da MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Melh.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Manchester City define prioridade para substituir Rodri e mira campeão do mundo",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-enzo-fernandez-substituto-rodri/",
-        "summary": "O Manchester City segue em busca de um substituto para Rodri e mantém Enzo Fernández, do Chelsea, como principal alvo para o meio-campo. O clube também está próximo de contratar Ayyoub Bouaddi, promessa do Lille, mas o a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QN4YT__v1__MidRes__776540534.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "A cobrança de falta esperta de Müller dentro da área; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-cobranca-de-falta-esperta-de-muller-dentro-da-area-veja-o-lance/",
-        "summary": "A cobrança de falta esperta de Müller dentro da área; veja o lance O post A cobrança de falta esperta de Müller dentro da área; veja o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/cobra.webp",
-        "date": "18 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Petar Musa marca um golaço e garante a vitória do FC Dallas sobre o Austin; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/petar-musa-marca-um-golaco-e-garante-a-vitoria-do-fc-dallas-sobre-o-austin-veja-o-lance/",
-        "summary": "Petar Musa marca um golaço e garante a vitória do FC Dallas sobre o Austin; veja o lance O post Petar Musa marca um golaço e garante a vitória do FC Dallas sobre o Austin; veja o lance apareceu primeiro em Gazeta Esporti",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Petar-M.webp",
         "date": "18 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Augusto Cury diz que Brasil precisa de um primeiro-ministro como Tarcísio de Freitas",
-        "link": "https://www.infomoney.com.br/politica/augusto-cury-diz-que-brasil-precisa-de-um-primeiro-ministro-como-tarcisio-de-freitas/",
-        "summary": "Postulante à Presidência da República também citou que primeiro-ministro deveria ter perfil semelhante ao do governador Tarcísio de Freitas The post Augusto Cury diz que Brasil precisa de um primeiro-ministro como Tarcís",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Augusto_Cury_escritor_28339139296.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Os 70 das Casas Bahia: do crediário e slogans-chiclete à RJ de R$ 17,3 bilhões",
+        "link": "https://www.infomoney.com.br/business/os-70-das-casas-bahia-do-crediario-e-slogans-chiclete-a-rj-de-r-173-bilhoes/",
+        "summary": "Fundada em São Caetano do Sul (SP) nos anos 1950, empresa cresceu impulsionada por compras parceladas no crediário para as classe média e baixa The post Os 70 das Casas Bahia: do crediário e slogans-chiclete à RJ de R$ 1",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Sede-casas-bahia.jpg?fit=300%2C230&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "MPF pede esclarecimento sobre plano da Petrobras de novos poços na Foz do Amazonas",
-        "link": "https://www.infomoney.com.br/mercados/mpf-pede-esclarecimento-sobre-plano-da-petrobras-de-novos-pocos-na-foz-do-amazonas/",
-        "summary": "MPF pede esclarecimento ao Ibama sobre plano da Petrobras de novos poços na Foz do Amazonas The post MPF pede esclarecimento sobre plano da Petrobras de novos poços na Foz do Amazonas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-20-165412.png?fit=300%2C188&amp;quality=70&amp;strip=all",
+        "title": "Construtoras de baixa renda mostram resultados mais consistentes no 2T, diz XP",
+        "link": "https://www.infomoney.com.br/mercados/construtoras-de-baixa-renda-mostram-resultados-mais-consistentes-no-2t-diz-xp/",
+        "summary": "Todas as incorporadas do segmento reportaram crescimento de receita e a maioria manteve ou ampliou suas margens em relação ao trimestre anterior The post Construtoras de baixa renda mostram resultados mais consistentes n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Empreendimento-MRV-Credito_Divulgacao.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Controlada da Orizon compra participação adicional de 5,85% na Ecourbis por R$ 69 mi",
-        "link": "https://www.infomoney.com.br/mercados/controlada-da-orizon-compra-participacao-adicional-de-585-na-ecourbis-por-r-69-mi/",
-        "summary": "A Ecourbis, que opera em São Paulo ‌sob modelo de ​tarifa fixa mensal, da ordem de R$130 milhões The post Controlada da Orizon compra participação adicional de 5,85% na Ecourbis por R$ 69 mi appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/05/Orizon-Ecoparque-de-Nova-Iguacu-RJ-Divulgacao-min.png?fit=300%2C228&amp;quality=70&amp;strip=all",
+        "title": "Seguro de carro pode ficar R$ 900 mais barato para motorista de menor risco",
+        "link": "https://www.infomoney.com.br/minhas-financas/seguro-de-carro-pode-ficar-r-900-mais-barato-para-motorista-de-menor-risco/",
+        "summary": "Análise considera a sinistralidade, que relaciona os valores recebidos pelas seguradoras aos gastos com indenizações, para ajustar preços The post Seguro de carro pode ficar R$ 900 mais barato para motorista de menor ris",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/traffic-jam-688566_640.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Minério sobe com preocupações sobre demanda da China e esperanças de estímulos",
-        "link": "https://www.infomoney.com.br/mercados/minerio-sobe-com-preocupacoes-sobre-demanda-da-china-e-esperancas-de-estimulos/",
-        "summary": "A referência de minério de ferro ⁠para setembro na Bolsa de Cingapura avançava 1%, para US$96,25 por tonelada The post Minério sobe com preocupações sobre demanda da China e esperanças de estímulos appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Motorista de Haddad depõe e mantém versão sobre horários; polícia fala em contradição",
+        "link": "https://www.infomoney.com.br/mercados/motorista-de-haddad-depoe-e-mantem-versao-sobre-horarios-policia-fala-em-contradicao/",
+        "summary": "Haddad afirmou que motorista foi perseguido por PMs em abordagem fora do padrão no último dia 11 The post Motorista de Haddad depõe e mantém versão sobre horários; polícia fala em contradição appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-06T122100Z_1_LYNXMPELA50OS_RTROPTP_4_MACRO-SEGURO-DEFESO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Liquidação domina mercado de títulos dos EUA ao Japão com questões fiscais e inflação",
-        "link": "https://www.infomoney.com.br/mercados/liquidacao-domina-mercado-de-titulos-dos-eua-ao-japao-com-questoes-fiscais-e-inflacao/",
-        "summary": "Os rendimentos dos títulos de 30 anos ‌nos Estados Unidos, o mercado de títulos públicos mais crucial do mundo do ponto de vista sistêmico, atingiram seu nível mais alto desde 2007 The post Liquidação domina mercado de t",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Captura-de-tela-2024-04-29-084645.png?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "TSE aceita ação sobre financiamento de desfile no carnaval que homenageou Lula",
+        "link": "https://www.infomoney.com.br/politica/tse-aceita-acao-sobre-financiamento-de-desfile-no-carnaval-que-homenageou-lula/",
+        "summary": "Ação movida pelo partido Novo questiona abuso de poder econômico e uso indevido dos meios de comunicação pelo presidente e vice, Geraldo Alckmin The post TSE aceita ação sobre financiamento de desfile no carnaval que hom",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/SaveClip.App_630076239_18396127489199497_5941238820809473030_n.jpg?fit=300%2C156&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Vale: o cobre escondido na tese de VALE3 que pode destravar valor para ação",
-        "link": "https://www.infomoney.com.br/mercados/vale-o-cobre-escondido-na-tese-de-vale3-que-pode-destravar-valor-para-acao/",
-        "summary": "Em relatório, JPMorgan argumenta que a exposição da mineradora ao metal não está refletida adequadamente no preço das ações The post Vale: o cobre escondido na tese de VALE3 que pode destravar valor para ação appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-25T022702Z_1079690458_RC2P4EAW4CHG_RTRMADP_3_VALE-RESULTS.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "O julgamento que pode mudar as redes sociais: 29 estados americanos contra a Meta",
+        "link": "https://www.infomoney.com.br/business/o-julgamento-que-pode-mudar-as-redes-sociais-29-estados-americanos-contra-a-meta/",
+        "summary": "Segundo a empresa fundada por Mark Zuckerberg, as multas poderiam chegar a US$1,4 trilhão, valor próximo ao valor de mercado da empresa, que é de US$1,5 trilhão The post O julgamento que pode mudar as redes sociais: 29 e",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-29T181317Z_894935948_RC2GOJAX733N_RTRMADP_3_META-PLATFORMS-RESULTS.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
         "date": "18 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Pinot Noir tem seu dia, e poucas castas merecem tanto a data",
-        "link": "https://exame.com/casual/pinot-noir-tem-seu-dia-e-poucas-castas-merecem-tanto-a-data/",
-        "summary": "A Pinot Noir é delicada, de casca fina, sensível ao calor e exigente no vinhedo. Não costuma esconder erros e tampouco responde da mesma maneira em todos os lugares",
+        "title": "Casal fatura R$ 2,1 milhões com móveis planejados, mas freia vendas. Marcus Marques explica o erro",
+        "link": "https://exame.com/negocios/casal-fatura-r-21-milhoes-com-moveis-planejados-mas-freia-vendas-marcus-marques-explica-o-erro/",
+        "summary": "Com vendas em alta, fundadores da AC Móveis precisam descentralizar a operação e organizar as finanças para sustentar o crescimento",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "A nova aposta bilionária de Carlos Wizard: consórcios com franquias de R$ 30 mil",
-        "link": "https://exame.com/negocios/a-nova-aposta-bilionaria-de-carlos-wizard-consorcios-com-franquias-de-r-30-mil/",
-        "summary": "Empresário entra como sócio da FVL Consórcios e quer levar a rede de 10 para 50 unidades ainda em 2026",
+        "title": "Do estágio ao conselho: o que mais de duas décadas em finanças ensinaram a este gestor",
+        "link": "https://exame.com/carreira/do-estagio-ao-conselho-o-que-mais-de-duas-decadas-em-financas-ensinaram-a-este-gestor/",
+        "summary": "Após deixar a gerência financeira do Grupo Opet, executivo relata como o MBA em Finanças mudou seu diálogo com o conselho de administração",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil chega a COP17, da desertificação, sob pressão para restaurar Cerrado e Caatinga",
-        "link": "https://exame.com/esg/brasil-chega-a-cop17-da-desertificacao-sob-pressao-para-restaurar-cerrado-e-caatinga/",
-        "summary": "País apresenta metas de neutralidade da degradação, planos para áreas secas e iniciativas de recuperação; organizações defendem ampliar financiamento e ações em escala",
+        "title": "ChatGPT ganha versão para adolescentes que restringe tópicos de conversas",
+        "link": "https://exame.com/inteligencia-artificial/chatgpt-ganha-versao-para-adolescentes-que-restringe-topicos-de-conversas/",
+        "summary": "Empresa usa mais de 2.000 sinais de comportamento para inferir se o usuário é menor de 18 anos",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após cinco anos sem pedir dinheiro, startup de IA em escolas capta R$ 5 milhões para expandir",
-        "link": "https://exame.com/negocios/apos-cinco-anos-sem-pedir-dinheiro-startup-de-ia-em-escolas-capta-r-5-milhoes-para-expandir/",
-        "summary": "Fundada em 2021, Premia desenvolve tecnologia de inteligência artificial para identificar lacunas de aprendizagem e quer usar o primeiro aporte externo de sua história para ampliar vendas, contratar e fazer aquisições",
+        "title": "Harry Kane diz que vai negociar renovação de contrato com o Bayern nesta semana",
+        "link": "https://exame.com/esporte/harry-kane-diz-que-vai-negociar-renovacao-de-contrato-com-o-bayern-nesta-semana/",
+        "summary": "Capitão da Inglaterra diz que clube e jogador estão tranquilos sobre novo vínculo; imprensa alemã aponta acordo até 2029",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Morgan Stanley vê ação da Amazon chegando a US$ 500 com avanço da IA",
-        "link": "https://exame.com/invest/mercados/morgan-stanley-ve-acao-da-amazon-chegando-a-us-500-com-avanco-da-ia/",
-        "summary": "Cenário mais otimista considera forte expansão da divisão global de computação em nuvem da Amazon",
+        "title": "Mineração pode destravar R$ 1,3 tri em arrecadação no Brasil, aponta Vale",
+        "link": "https://exame.com/economia/mineracao-pode-destravar-r-13-tri-em-arrecadacao-no-brasil-aponta-vale/",
+        "summary": "Ampliar a atividade mineral entre 2026 e 2035 poderia gerar R$ 1,3 trilhão em arrecadação fiscal adicional e criar de 5,3 milhões de empregos ao longo da próxima década",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "'RuPaul's Drag Race' é renovada para nova temporada após sucesso da 18ª edição",
-        "link": "https://exame.com/pop/rupauls-drag-race-e-renovada-para-nova-temporada-apos-sucesso-da-18a-edicao/",
-        "summary": "Nova temporada do reality vencedor do Emmy já está em preparação e deve chegar à televisão em 2027",
+        "title": "Qual era o verdadeiro nome de Laura Cardoso? Conheça a trajetória da atriz",
+        "link": "https://exame.com/pop/qual-era-o-verdadeiro-nome-de-laura-cardoso-conheca-a-trajetoria-da-atriz/",
+        "summary": "Artista brasileira morreu na madrugada desta terça-feira aos 98 anos",
         "image": null,
         "date": "18 de ago. de 2026",
         "source": "Exame",
