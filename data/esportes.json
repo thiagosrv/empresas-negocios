@@ -1,29 +1,7 @@
 {
-  "updated": "2026-08-19T20:44:52.985Z",
+  "updated": "2026-08-19T21:40:37.371Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Ansu Fati e Minamino marcam golaços no treino; confira",
-      "link": "https://www.gazetaesportiva.com/times/monaco/ansu-fati-e-minamino-marcam-golacos-no-treino-confira/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "19 de ago. de 2026",
-      "isoDate": "2026-08-19",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Mika Godts: “O PSG é o melhor clube do mundo”",
-      "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/mika-godts-o-psg-e-o-melhor-clube-do-mundo/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "19 de ago. de 2026",
-      "isoDate": "2026-08-19",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Mourinho revela bastidores de renovação de Vini Jr. com o Real Madrid",
       "link": "https://www.gazetaesportiva.com/times/real-madrid/mourinho-aconselhou-vini-jr-permanecer-real-madrid/",
@@ -33,7 +11,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Rodri se despede dos torcedores do City após transferência para o Barcelona",
@@ -44,7 +22,7 @@
       "isoDate": "2026-08-19",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Estreia do PSG no Francês é transferida do Parque dos Príncipes para casa do Rennes",
@@ -55,7 +33,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores: o primeiro dia de Lucumí na Juventus",
@@ -66,7 +44,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores: o primeiro dia de Vicario na Juventus",
@@ -77,7 +55,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Com gol de Raphinha, Barcelona vence Al-Ahly em último teste da pré-temporada",
@@ -91,7 +69,29 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
-      "title": "Joias de Palmeiras e São Paulo marcam em goleada da Seleção Sub-15 sobre o Uruguai",
+      "title": "Celtic vence time austríaco e fica perto da vaga na Liga dos Campeões",
+      "link": "https://www.gazetaesportiva.com/campeonatos/champions-league/celtic-vence-time-austriaco-e-fica-perto-da-vaga-na-liga-dos-campeoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "19 de ago. de 2026",
+      "isoDate": "2026-08-19",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Sem Julián Álvarez, Atlético de Madrid bate Málaga na estreia pelo Espanhol",
+      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/sem-julian-alvarez-atletico-de-madrid-bate-malaga-na-estreia-pelo-espanhol/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "19 de ago. de 2026",
+      "isoDate": "2026-08-19",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Joias de Palmeiras e São Paulo marcam em goleada da Seleção sub-15 sobre o Uruguai",
       "link": "https://www.gazetaesportiva.com/times/brasil/brasil-sub-15-goleia-uruguai-amistoso-liga-evolucao/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
