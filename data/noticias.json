@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:39:58.980Z",
+  "updated": "2026-08-19T19:29:11.513Z",
   "feeds": {
     "campinas": [
       {
@@ -35,7 +35,7 @@
       {
         "title": "Grávida passa por curetagem após diagnóstico errado de aborto e descobre bebê vivo um mês depois",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/19/gravida-passa-por-curetagem-apos-diagnostico-errado-de-aborto-e-descobre-bebe-vivo-um-mes-depois.ghtml",
-        "summary": "Gestante passa por curetagem com bebê vivo no Hospital Estadual de Sumaré Uma moradora de Sumaré (SP) descobriu que continuava grávida um mês após ter sido submetida a uma curetagem depois de receber um diagnóstico equiv",
+        "summary": "Grávida passa por curetagem após diagnóstico errado de aborto e descobre bebê vivo um mês Uma moradora de Sumaré (SP) descobriu que continuava grávida um mês após ter sido submetida a uma curetagem depois de receber um d",
         "image": "https://s2-g1.glbimg.com/mQH-EXbEdFBS02oZCeRE3XMDLB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/R/CGXesqQjat62fGrSBwAw/eptv1-1908-negligencia-cp004ena-2026-08-19-12-49-19.mxf-snapshot-00.29.189.jpg",
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
@@ -60,6 +60,96 @@
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "DAE realiza reconstrução emergencial de poço de visita de esgoto na Avenida Iacanga",
+        "link": "https://jornalamericanense.com.br/cidades/dae-realiza-reconstrucao-emergencial-de-poco-de-visita-de-esgoto-na-avenida-iacanga/",
+        "summary": "O Departamento de Água e Esgoto (DAE) de Americana realiza, nesta quarta-feira (19), uma reconstrução emergencial de um poço de visita (PV) da rede de esgoto localizado na Avenida Iacanga, na esquina com a Rua Itajaí, no",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "BAEP apreende quase 900 gramas de cocaína em imóvel no Jardim São Roque, em Americana",
+        "link": "https://jornalamericanense.com.br/policia/baep-apreende-quase-900-gramas-de-cocaina-em-imovel-no-jardim-sao-roque-em-americana/",
+        "summary": "Cão policial Blaster indicou presença dos entorpecentes escondidos no banheiro; foram apreendidas 693 porções de cocaína Uma ação do 10º Batalhão de Ações Especiais de Polícia (BAEP) resultou na apreensão de 693 porções ",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Câmara de Americana aprova 46 proposituras durante sessão ordinária",
+        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-46-proposituras-durante-sessao-ordinaria/",
+        "summary": "Vereadores aprovaram cinco projetos de lei, 32 requerimentos e nove moções; pauta também contou com 403 indicações encaminhadas ao Executivo A Câmara Municipal de Americana aprovou 46 proposituras durante a 29ª sessão or",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Homem de 49 anos morre por febre maculosa em Americana",
+        "link": "https://jornalamericanense.com.br/saude/homem-de-49-anos-morre-por-febre-maculosa-em-americana/",
+        "summary": "A Secretaria de Saúde de Americana, por meio da Vigilância Epidemiológica, confirma um óbito causado por febre maculosa. Trata-se de um homem de 49 anos, que estava internado em hospital público e faleceu no dia 24 de ju",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana terá Trenzinho da Alegria para incentivar a vacinação de crianças e adolescentes no sábado",
+        "link": "https://jornalamericanense.com.br/saude/americana-tera-trenzinho-da-alegria-para-incentivar-a-vacinacao-de-criancas-e-adolescentes-no-sabado/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, vai disponibilizar os Trenzinhos da Alegria para incentivar crianças e adolescentes a se vacinarem neste sábado (22), durante o Dia D da Campanha de Multivacina",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Semana em Americana será ensolarada, com temperaturas elevadas e baixa umidade",
+        "link": "https://jornalamericanense.com.br/cidades/semana-em-americana-sera-ensolarada-com-temperaturas-elevadas-e-baixa-umidade/",
+        "summary": "Americana terá uma semana marcada por tempo firme, predomínio de sol e temperaturas elevadas, segundo as previsões meteorológicas atualizadas para esta segunda-feira (17). Os termômetros devem superar os 30°C em boa part",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Embrapa entrega propostas de agricultura sustentável para candidatos",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/embrapa-entrega-propostas-de-agricultura-sustentavel-para-candidatos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/embrapa-entrega-propostas-de-agricultura-sustentavel-para-candidatos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Manual traz nova classificação de riscos de desastres em áreas urbanas",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/manual-traz-nova-classificacao-de-riscos-de-desastres-em-areas-urbanas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/manual-traz-nova-classificacao-de-riscos-de-desastres-em-areas-urbanas img src= https://cdn.jsdelivr.net/gh/serg",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Autorizações para importação de cannabis aumentam 29% em 2026",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/autorizacoes-para-importacao-de-cannabis-aumentam-29-em-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/autorizacoes-para-importacao-de-cannabis-aumentam-29-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -91,39 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Exposição em SP reúne fotos de movimentos feministas do Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-em-sp-reune-fotos-de-movimentos-feministas-do-brasil",
-        "summary": "p O Museu da Diversidade Sexual inaugura nesta quarta-feira (19), Dia do Orgulho Lésbico, a exposição em Alice Oliveira /em , que reconhece o trabalho de mais de quatro décadas da ativista e fotógrafa. img src= https://a",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Eleições de 2026 registram recorde de candidaturas indígenas",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/eleicoes-de-2026-registram-recorde-de-candidaturas-indigenas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/eleicoes-de-2026-registram-recorde-de-candidaturas-indigenas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fundação lança edital para ampliar acesso à saúde mental em São Paulo",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/fundacao-lanca-edital-para-ampliar-acesso-saude-mental-em-sao-paulo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/fundacao-lanca-edital-para-ampliar-acesso-saude-mental-em-sao-paulo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Estreia do PSG no Francês é transferida do Parque dos Príncipes para casa do Rennes",
+        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/estreia-do-psg-no-frances-e-transferida-do-parque-dos-principes-para-casa-do-rennes/",
+        "summary": "O PSG fará sua estreia no Campeonato Francês contra o Rennes fora de casa, após a Liga Francesa transferir a partida do Parque dos Príncipes para o estádio Roazhon Park devido às más condições do gramado em Paris. Com a ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260819__C62Q79E__v2__HighRes__FilesFblFraLigue1PsgRennes.webp",
+        "date": "19 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Athletico-PR anuncia contratação de atacante uruguaio para o sub-20",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-contrata-nicolas-azambuja-sub-20/",
+        "summary": "O Athletico-PR anunciou a contratação do atacante uruguaio Nicolás Azambuja, de 18 anos, que chega do Danubio com contrato de quatro anos para reforçar a equipe sub-20. O jogador estreou profissionalmente aos 16 anos, di",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Nicolas-Azambuja-2880x1600-1-scaled-1.webp",
+        "date": "19 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Socorro : torcida do Corinthians protesta no MP-SP e pede intervenção judicial",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/socorro-torcida-do-corinthians-protesta-no-mp-sp-e-pede-intervencao-judicial/",
+        "summary": "As principais torcidas organizadas do Corinthians realizaram um protesto em frente ao Ministério Público de São Paulo pedindo intervenção judicial no clube em meio à crise política e administrativa. Os torcedores defende",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/dinei-protesto-corinthians.webp",
+        "date": "19 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Veja galeria de fotos do protesto da torcida do Corinthians na sede do MP-SP",
         "link": "https://www.gazetaesportiva.com/times/corinthians/veja-galeria-de-fotos-do-protesto-da-torcida-do-corinthians-na-sede-do-mp-sp/",
@@ -149,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/iga-swiatek-quartas-wta-cincinnati/",
         "summary": "A polonesa Iga Swiatek, atual número 5 do ranking mundial, garantiu vaga nas quartas de final do WTA 1000 de Cincinnati ao vencer a francesa Diane Parry por 2 sets a 0, com parciais de 6-3 e 6-3. Embalada pelo título con",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260819__2291171949__v1__HighRes__CincinnatiOpen2026Day9.webp",
-        "date": "19 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Há 14 anos, Oscar fazia sua estreia pelo Chelsea; relembre melhores momentos",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/ha-14-anos-oscar-fazia-sua-estreia-pelo-chelsea-relembre-melhores-momentos/",
-        "summary": "Há 14 anos, Oscar fazia sua estria pelo Chelsea; relembre melhores O post Há 14 anos, Oscar fazia sua estreia pelo Chelsea; relembre melhores momentos apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2017/03/15/oscar-afp.jpg",
-        "date": "19 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Arsenal chega a acordo com Aston Villa para contratar zagueiro Ezri Konsa",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-chega-a-acordo-com-aston-villa-para-contratar-zagueiro-ezri-konsa/",
-        "summary": "O Arsenal está perto de anunciar a contratação do zagueiro Ezri Konsa, do Aston Villa, por cerca de US$ 68 milhões. O defensor inglês de 28 anos chega para reforçar o sistema defensivo após os problemas físicos de Willia",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/aston-villa.webp",
-        "date": "19 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Vice-presidente do Conselho da Fifa retira apoio a Infantino",
-        "link": "https://www.gazetaesportiva.com/bastidores/sandor-csanyi-retira-apoio-gianni-infantino-fifa/",
-        "summary": "O vice-presidente do Conselho da Fifa, Sandor Csanyi, anunciou a retirada de seu apoio ao presidente Gianni Infantino, alegando ter perdido a confiança na liderança do dirigente. Em carta divulgada pela AFP, o húngaro cr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QU8NR__v1__MidRes__FilesFblFifaUefaEconomy.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Como apostar na Lotofácil da Independência 2026? Veja prazo e prêmio",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-independencia-como-apostar/",
-        "summary": "Concurso especial da Caixa tem período próprio de apostas e diferentes opções para quem quiser participar The post Como apostar na Lotofácil da Independência 2026? Veja prazo e prêmio appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Haddad: Fazenda ainda estuda forma zerar tarifa no transporte, com equilíbrio fiscal",
+        "link": "https://www.infomoney.com.br/politica/haddad-fazenda-ainda-estuda-forma-zerar-tarifa-no-transporte-com-equilibrio-fiscal/",
+        "summary": "Ex-ministro da Fazenda também recordou que, anteriormente, já haviam sido estudadas formas de trazer a tarifa zero para a cidade de São Paulo The post Haddad: Fazenda ainda estuda forma zerar tarifa no transporte, com eq",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/lula-combustiveis-bdm-mc_abr_12032026-15.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Parte do Fed vê que necessidade de subir juros se inflação não cair, mostra ata",
-        "link": "https://www.infomoney.com.br/mercados/parte-do-fed-ve-que-necessidade-de-subir-juros-se-inflacao-nao-cair-mostra-ata/",
-        "summary": "A maioria dos participantes, segundo o documento, votou pela manutenção das taxas, mas alguns foram a favor de uma alta The post Parte do Fed vê que necessidade de subir juros se inflação não cair, mostra ata appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T185612Z_509635631_RC2UVLAMB0G1_RTRMADP_3_USA-FED.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Márcio Rosa indica que eventual reciprocidade contra EUA não seria aplicada neste ano",
+        "link": "https://www.infomoney.com.br/politica/marcio-rosa-indica-que-eventual-reciprocidade-contra-eua-nao-seria-aplicada-neste-ano/",
+        "summary": "Márcio Rosa indica que eventual reciprocidade do Brasil sobre EUA não seria aplicada neste ano The post Márcio Rosa indica que eventual reciprocidade contra EUA não seria aplicada neste ano appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/55187410663_55b7a1469e_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ministro da Fazenda diz que juros pagos pelo Tesouro são muito altos",
-        "link": "https://www.infomoney.com.br/economia/ministro-da-fazenda-diz-que-juros-pagos-pelo-tesouro-sao-muito-altos/",
-        "summary": "Taxa de juros implícita chegou a 13,2% no acumulado em 12 meses para a dívida bruta, o maior patamar desde novembro de 2016 The post Ministro da Fazenda diz que juros pagos pelo Tesouro são muito altos appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Esquerda democrata vence primária do Senado na Flórida; Trump volta a comemorar",
+        "link": "https://www.infomoney.com.br/mundo/esquerda-democrata-vence-primaria-do-senado-na-florida-trump-volta-a-comemorar/",
+        "summary": "A deputada estadual Angie Nixon, considerada uma radical de esquerda, bateu Alexander Vindman, um tenente-coronel aposentado do Exército e desafeto de Donald Trump The post Esquerda democrata vence primária do Senado na ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Angie-Nixon_Partido-Democrata.jpg?fit=300%2C213&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Preço médio da gasolina nos EUA completa um mês acima de US$ 4 por galão",
-        "link": "https://www.infomoney.com.br/economia/preco-medio-da-gasolina-nos-eua-completa-um-mes-acima-de-us-4-por-galao/",
-        "summary": "A última vez que o preço ficou abaixo dos 4 dólares foi em 19 de julho, quando atingiu US$ 3,99; incerteza sobre um acordo de cessar-fogo entre EUA e Irã levaram o petróleo Brent a uma cotação de mais de US$ 90 The post ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Gasolina-nos-EUA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Libertadores: Onde assistir à Cerro Porteño x Palmeiras?",
+        "link": "https://www.infomoney.com.br/esportes/cerro-porteno-palmeiras-libertadores-onde-assistir/",
+        "summary": "O jogo de hoje define quem vai seguir às quartas de final The post Libertadores: Onde assistir à Cerro Porteño x Palmeiras? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-cerro-porteno-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe e tenta defender os 168 mil; VALE ganha 1%",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19082026/",
-        "summary": "Bolsas dos EUA têm leves altas com Tesouro aliviando pressão no mercado de títulos The post Ibovespa Hoje Ao Vivo: Bolsa sobe e tenta defender os 168 mil; VALE ganha 1% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/4.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "title": "Justiça restabelece sanções do MEC a cursos de Medicina mal avaliados no Enamed",
+        "link": "https://www.infomoney.com.br/politica/justica-restabelece-sancoes-do-mec-a-cursos-de-medicina-mal-avaliados-no-enamed/",
+        "summary": "No começo do mês, uma decisão do TRF-SP havia suspendido o resultado do exame para os cursos de medicina com notas insuficientes The post Justiça restabelece sanções do MEC a cursos de Medicina mal avaliados no Enamed ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/03/stj.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dia D da multivacinação acontece neste sábado; veja quem deve se imunizar",
-        "link": "https://www.infomoney.com.br/saude/dia-d-da-multivacinacao-acontece-neste-sabado-veja-quem-deve-se-imunizar/",
-        "summary": "Campanha nacional acontece com aplicação de 20 vacinas; pela primeira vez, ação inclui a pneumo 20, que amplia a proteção contra pneumonia e meningite The post Dia D da multivacinação acontece neste sábado; veja quem dev",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/int1308.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Haddad critica Tarcísio e volta a defender uso de câmeras corporais na polícia",
+        "link": "https://www.infomoney.com.br/politica/haddad-critica-tarcisio-e-volta-a-defender-uso-de-cameras-corporais-na-policia/",
+        "summary": "Durante sabatina, ex-ministro da Fazenda afirmou que atual governador de São Paulo faz \"ziguezague\" de opinião sobre necessidade das câmeras The post Haddad critica Tarcísio e volta a defender uso de câmeras corporais na",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-02-102602.png?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Por que a OpenAI decidiu desacelerar o desenvolvimento de inteligência artificial",
-        "link": "https://exame.com/inteligencia-artificial/por-que-a-openai-decidiu-desacelerar-o-desenvolvimento-de-inteligencia-artificial/",
-        "summary": "Medida ocorre depois que agentes autônomos da companhia burlaram mecanismos de controle e acessaram sistemas de outra empresa durante testes",
+        "title": "'Lanternas', da HBO Max, usa Barack Obama para entregar uma das melhores piadas do 1º episódio",
+        "link": "https://exame.com/pop/lanternas-da-hbo-max-usa-barack-obama-para-entregar-uma-das-melhores-piadas-do-1o-episodio/",
+        "summary": "A referência ao ex-presidente dos Estados Unidos aparece durante um interrogatório e ajuda Hal Jordan a perceber que há algo estranho com um suspeito",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -317,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Rock in Rio: festival promete 8 mil horas de experiências de marcas e 1 milhão de brindes",
-        "link": "https://exame.com/marketing/rock-in-rio-festival-promete-8-mil-horas-de-experiencias-de-marcas-e-1-milhao-de-brindes/",
-        "summary": "Mais de 100 ativações reúnem marcas em experiências de música, tecnologia, gastronomia e entretenimento durante os sete dias de festival",
+        "title": "2ª temporada de 'Stranger Things: Histórias de 85' ganha data e primeiras imagens",
+        "link": "https://exame.com/pop/2a-temporada-de-stranger-things-historias-de-85-ganha-data-e-primeiras-imagens/",
+        "summary": "Spin-off animado da Netflix retorna poucos meses após a estreia da primeira temporada com novos mistérios em Hawkins",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -327,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "SEC propõe novo marco regulatório para ofertas de criptoativos",
-        "link": "https://exame.com/future-of-money/sec-propoe-novo-marco-regulatorio-para-ofertas-de-criptoativos/",
-        "summary": "Regras simplificam os requisitos para a emissão de tokens, algo que foi celebrado pelo setor cripto",
+        "title": "Criptomoeda que já subiu 145% neste ano entra na carteira do fundo HASH11",
+        "link": "https://exame.com/future-of-money/criptomoeda-que-ja-subiu-145-neste-ano-entra-na-carteira-do-fundo-hash11/",
+        "summary": "Ativo é o queridinho dos analistas em 2026 por fundamentos fortes e famoso programa de recompra de tokens",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -337,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "O que faz a Unitree, que virou símbolo chinês da era dos robôs humanoides",
-        "link": "https://exame.com/inteligencia-artificial/o-que-faz-a-unitree-que-virou-simbolo-chines-da-era-dos-robos-humanoides/",
-        "summary": "Fabricante chinesa levantou 6,1 bilhões de yuans em IPO, chegou a avançar 629% no primeiro pregão e encerrou o dia avaliada em cerca de US$ 50 bilhões",
+        "title": "OpenAI, ElevenLabs e Cimed: quem mais estará na premiação NEEX promovida pela EXAME e BTG Pactual",
+        "link": "https://exame.com/negocios/openai-elevenlabs-e-cimed-quem-mais-estara-na-premiacao-neex-promovida-pela-exame-e-btg-pactual/",
+        "summary": "Evento reúne lideranças de tecnologia, inovação e negócios em São Paulo para celebrar as empresas que mais crescem no Brasil, com ingressos disponíveis por tempo limitado",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -347,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Opinião: Setor de educação vive sua própria ‘guerra dos chips’",
-        "link": "https://exame.com/bussola/opiniao-setor-de-educacao-esta-vivendo-sua-propria-guerra-dos-chips/",
-        "summary": "Avanço da IA exige que escolas formem estudantes capazes de usar tecnologia com pensamento crítico, autonomia e protagonismo humano",
+        "title": "Administração e economia formam 38% dos CEOs no Brasil, aponta levantamento",
+        "link": "https://exame.com/carreira/administracao-e-economia-formam-38-dos-ceos-no-brasil-aponta-levantamento/",
+        "summary": "Levantamento da consultoria Falconi com as 82 empresas do Ibovespa mostra que só a engenharia forma mais líderes",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -357,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Linkin Park: Unshatter' abre pré-venda de ingressos no Brasil; veja como comprar",
-        "link": "https://exame.com/pop/linkin-park-unshatter-abre-pre-venda-de-ingressos-no-brasil-veja-como-comprar/",
-        "summary": "Produção reúne material de arquivo pouco conhecido do público, bastidores, sessões de estúdio e trechos de shows em São Paulo",
+        "title": "Com ajuda deste prêmio nacional, universitários vão à China com tudo pago; veja como participar",
+        "link": "https://exame.com/carreira/com-ajuda-deste-premio-nacional-universitarios-vao-a-china-com-tudo-pago-veja-como-participar/",
+        "summary": "Iniciativa busca aproximar estudantes brasileiros do universo chinês de inovação e liderança",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
