@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-19T14:37:37.849Z",
+  "updated": "2026-08-19T15:35:08.349Z",
   "feeds": {
     "campinas": [
       {
-        "title": "TCE anula licitação de R$ 11,8 bilhões do transporte de Campinas por irregularidades",
+        "title": "TCE anula leilão de R$ 11,8 bilhões do transporte de Campinas por irregularidades",
         "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/19/tce-anula-licitacao-de-r-118-bilhoes-do-transporte-de-campinas-por-irregularidades.ghtml",
-        "summary": "Ônibus do transporte público municipal de Campinas Fernanda Sunega/Prefeitura Municipal de Campinas O Tribunal de Contas do Estado de São Paulo (TCE-SP) decidiu nesta quarta-feira (19) anular a licitação do transporte pú",
+        "summary": "Ônibus do transporte público municipal de Campinas Fernanda Sunega/Prefeitura Municipal de Campinas O Tribunal de Contas do Estado de São Paulo (TCE-SP) decidiu nesta quarta-feira (19) anular o leilão do transporte públi",
         "image": "https://s2-g1.glbimg.com/bNJNdPFuKNZQQtTKmn3ER24kmSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/W/y/8gRKqFQlKkC3pkFjKtQA/071022-prefeitura-envia-a-camara-projetos-de-lei-da-nova-licitacao-do-transporte-coletivo-foto-fernanda-sunega-18-copia.jpg",
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
@@ -25,7 +25,7 @@
       {
         "title": "Carga de detergente cai de caminhão e interdita rodovia em Morungaba",
         "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/19/carga-de-detergente-cai-de-caminhao-e-interdita-rodovia-em-morungaba.ghtml",
-        "summary": "Carga de detergente cai de caminhão e interdita rodovia em Morungaba Reginaldo Oliveira Parte da carga de um caminhão que transportava detergentes caiu na Rodovia Engenheiro Constâncio Cintra (SP-360), em Morungaba (SP),",
+        "summary": "Carga de detergente cai de caminhão e interdita rodovia em Morungaba Parte da carga de um caminhão que transportava detergentes caiu na Rodovia Engenheiro Constâncio Cintra (SP-360), em Morungaba (SP), na manhã desta qua",
         "image": "https://s2-g1.glbimg.com/iN1jRKHZzCQx0o3MPntmhqi6tsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lKK1ECTEAubDpRFoMwBA/cai-ype.png",
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Atacada por EUA, regra do TSE evita bigtechs de privilegiar candidatos",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-proibe-algoritmo-de-recomendar-pol%C3%ADticos-na-eleicao-eua-criticam",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-proibe-algoritmo-de-recomendar-pol%C3%ADticos-na-eleicao-eua-criticam img src= https://cdn.jsdelivr.net/gh/sergio",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Novas regras do Contran para Lei Seca prevê pré-teste; entenda",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/novas-regras-do-contran-para-lei-seca-preve-pre-teste-entenda",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/novas-regras-do-contran-para-lei-seca-preve-pre-teste-entenda img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Veja a agenda dos candidatos à Presidência nesta quarta-feira",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-nesta-quarta-feira",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-nesta-quarta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Palmeiras desembarca no Paraguai para decisão; veja bastidores da viagem",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-desembarca-no-paraguai-para-decisao-veja-bastidores-da-viagem/",
-        "summary": "Palmeiras desembarca no Paraguai para decisão; veja bastidores da viagem O post Palmeiras desembarca no Paraguai para decisão; veja bastidores da viagem apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Palmeir.webp",
+        "title": "Ansu Fati e Minamino marcam golaços no treino; confira",
+        "link": "https://www.gazetaesportiva.com/times/monaco/ansu-fati-e-minamino-marcam-golacos-no-treino-confira/",
+        "summary": "Ansu Fati e Minamino marcam golaços no treino; confira O post Ansu Fati e Minamino marcam golaços no treino; confira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Ans.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sainz renova com Williams e completa dupla da equipe para 2027",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/carlos-sainz-renova-williams-2027/",
-        "summary": "A Williams confirmou a renovação contratual de Carlos Sainz para a temporada 2027 da Fórmula 1. O piloto espanhol assinou um novo vínculo plurianual e reafirmou sua confiança no projeto liderado por James Vowles. A exten",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/images-2.webp",
+        "title": "Confira a primeira entrevista de Veerman como jogador do Dortmund",
+        "link": "https://www.gazetaesportiva.com/times/borussia-dortmund/confira-a-primeira-entrevista-de-veerman-como-jogador-do-dortmund/",
+        "summary": "Confira a primeira entrevista de Veerman como jogador do Dortmund O post Confira a primeira entrevista de Veerman como jogador do Dortmund apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/entrevist.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fábio salva! Goleiro pega dois pênaltis e classifica o Fluminense na Libertadores; veja",
-        "link": "https://www.gazetaesportiva.com/times/fluminense/fabio-salva-goleiro-pega-dois-penaltis-e-classifica-o-fluminense-na-libertadores-veja/",
-        "summary": "Fábio salva! Goleiro pega dois pênaltis e classifica o Fluminense na CONMEBOL Libertadores; veja O post Fábio salva! Goleiro pega dois pênaltis e classifica o Fluminense na Libertadores; veja apareceu primeiro em Gazeta ",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/08/AFP__20250820__722F263__v2__MidRes__FilesFblBraFluminenseFabio.webp",
+        "title": "Novos reforços conhecem a história do Grêmio",
+        "link": "https://www.gazetaesportiva.com/times/gremio/novos-reforcos-conhecem-a-historia-do-gremio/",
+        "summary": "Novos reforços conhecem a história do Grêmio O post Novos reforços conhecem a história do Grêmio apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Nov.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Artilheiro da Libertadores, Alex Arce empata para o Rivadavia nos acréscimos do segundo tempo; confira",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/artilheiro-da-libertadores-alex-arce-empata-para-o-rivadavia-nos-acrescimos-do-segundo-tempo-confira/",
-        "summary": "Artilheiro da Libertadores, Alex Arce empata para o Rivadavia nos acréscimos do segundo tempo; confira O post Artilheiro da Libertadores, Alex Arce empata para o Rivadavia nos acréscimos do segundo tempo; confira aparece",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Artilhe.webp",
+        "title": "Fred revela insistência por liberação para poder fechar com o Galo",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/fred-revela-insistencia-por-liberacao-para-poder-fechar-com-o-galo/",
+        "summary": "Fred revela 'insistência' por liberação para poder fechar com o Galo O post Fred revela insistência por liberação para poder fechar com o Galo apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Fre.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Liverpool prepara oferta milionária para tirar Endrick do Real Madrid",
-        "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-prepara-proposta-por-endrick/",
-        "summary": "O Liverpool planeja uma investida por Endrick para reforçar o ataque após a saída de Mohamed Salah. Segundo o jornal espanhol Mundo Deportivo, os Reds preparam uma proposta de 65 milhões de libras pelo brasileiro, que re",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/ENDRICK-COPA.webp",
+        "title": "Bernardo Silva é apresentado pelo Real Madrid e destaca sonho de infância",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/bernardo-silva-apresentado-real-madrid/",
+        "summary": "Bernardo Silva foi apresentado oficialmente como jogador do Real Madrid nesta quarta-feira. Contratado sem custos após deixar o Manchester City, o meio-campista português assinou contrato por duas temporadas e revelou a ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ND-ACTO-BIENVENIDA-BERNARDO-SILVA_AV11119.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Juiz acertou? Veja o pênalti marcado para o Ind. Rivadavia nos acréscimos do segundo tempo",
-        "link": "https://www.gazetaesportiva.com/times/fluminense/juiz-acertou-veja-o-penalti-marcado-para-o-ind-rivadavia-nos-acrescimos-do-segundo-tempo/",
-        "summary": "Juiz acertou? Veja o pênalti marcado para o Ind. Rivadavia nos acréscimos do segundo tempo O post Juiz acertou? Veja o pênalti marcado para o Ind. Rivadavia nos acréscimos do segundo tempo apareceu primeiro em Gazeta Esp",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Juiz-a.webp",
+        "title": "Arthur negocia rescisão com a Juventus após volta à Itália; Turquia é opção",
+        "link": "https://www.gazetaesportiva.com/times/juventus/arthur-melo-negocia-rescisao-juventus/",
+        "summary": "Arthur Melo negocia a rescisão amigável de seu contrato com a Juventus, válido até junho de 2027. Após retornar ao futebol italiano depois de uma passagem pelo Grêmio, o brasileiro pode ficar livre no mercado e já aparec",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HK9EVgMWYAAtOWJ.webp",
         "date": "19 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,29 +307,39 @@
         "cls": ""
       },
       {
-        "title": "Quem é a “Impressora Humana”, assistente de Trump pivô de ataques a jornalista",
-        "link": "https://www.infomoney.com.br/mundo/quem-e-a-impressora-humana-assistente-de-trump-pivo-de-ataques-a-jornalista/",
-        "summary": "Natalie Harp, assistente executiva do presidente dos EUA, foi uma das poucas pessoas do círculo íntimo dele a participar da troca secreta de aviões na Turquia; senador democrata fez insinuações sobre a relação entre os d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Natalie-Harp.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Emirados Árabes cortam laços econômicos com Irã após mísseis atingirem seu território",
+        "link": "https://www.infomoney.com.br/mundo/emirados-arabes-cortam-lacos-economicos-com-ira-apos-misseis-atingirem-seu-territorio/",
+        "summary": "País acusa Teerã de lançar mísseis contra seu território e suspende transações comerciais e financeiras; petróleo avança com temor sobre o Estreito de Ormuz The post Emirados Árabes cortam laços econômicos com Irã após m",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464767154.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Wall Street abre em alta com queda nos rendimentos e de olho em balanços",
-        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abertura-fechamento-19082026/",
-        "summary": "O rendimento do título de 10 anos do Tesouro dos Estados Unidos recuava a 4,6506%, de 4,706% na véspera The post Wall Street abre em alta com queda nos rendimentos e de olho em balanços appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-29T060934Z_964769431_RC25EKAJLMU1_RTRMADP_3_USA-MARKETS-IRAN-TRADING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Navio de guerra dos EUA passou quatro dias sem energia no Mar da China",
+        "link": "https://www.infomoney.com.br/mundo/navio-de-guerra-dos-eua-passou-quatro-dias-sem-energia-no-mar-da-china/",
+        "summary": "Durante o período, mais de 300 marinheiros ficaram sem serviços de cozinha, banheiros e ar-condicionado – o caso também afetou a reserva de água potável; problemas com navios em serviço têm se multiplicado The post Navio",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/USS-Benfold_2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe 2%, após Tesouro dos EUA atuar em títulos",
+        "title": "Kyrgios é suspenso do tênis após ser pego no antidoping por uso de cocaína",
+        "link": "https://www.infomoney.com.br/esportes/kyrgios-e-suspenso-do-tenis-apos-ser-pego-no-antidoping-por-uso-de-cocaina/",
+        "summary": "Ex-finalista de Wimbledon foi afastado provisoriamente pela agência antidoping do tênis após exame realizado em Mallorca; australiano admitiu o erro e pediu desculpas The post Kyrgios é suspenso do tênis após ser pego no",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-19T120715Z_1_LYNXMPEM7I0RT_RTROPTP_4_TENNIS-BATTLE.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe, após Tesouro dos EUA atuar em títulos",
         "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19082026/",
-        "summary": "Bolsas dos EUA operam mistas com plano do Tesouro para aliviar pressão no mercado de títulos The post Ibovespa Hoje Ao Vivo: Bolsa sobe 2%, após Tesouro dos EUA atuar em títulos appeared first on InfoMoney.",
+        "summary": "Bolsas dos EUA avançam com plano do Tesouro para aliviar pressão no mercado de títulos The post Ibovespa Hoje Ao Vivo: Bolsa sobe, após Tesouro dos EUA atuar em títulos appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-19.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
@@ -337,39 +347,29 @@
         "cls": "brasil"
       },
       {
-        "title": "Liquidação de títulos da zona do euro dá pausa, mas petróleo continua pressionando",
-        "link": "https://www.infomoney.com.br/mercados/liquidacao-de-titulos-da-zona-do-euro-da-pausa-mas-petroleo-continua-pressionando/",
-        "summary": "Investidores e analistas afirmaram que um pequeno rali nos Treasuries, o mercado global de títulos dominante que influencia o resto do mundo, estava contribuindo para melhorar o ânimo do mercado The post Liquidação de tí",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/euro1.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Acidente com micro-ônibus no interior do Paraná deixa 23 mortos e cinco feridos",
+        "link": "https://www.infomoney.com.br/brasil/acidente-com-micro-onibus-no-interior-do-parana-deixa-23-mortos-e-cinco-feridos/",
+        "summary": "Veículo da Secretaria de Saúde de Imbituva levava pacientes para Curitiba quando foi atingido por uma carreta na BR-373 The post Acidente com micro-ônibus no interior do Paraná deixa 23 mortos e cinco feridos appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/acidente_no_parana.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa avança mais de 2% com notícia sobre recompra de títulos pelo Tesouro dos EUA",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-19082026/",
-        "summary": "Às 11h13, o Ibovespa, referência do mercado acionário brasileiro, subia 2,13%, a 169.870,48 pontos The post Ibovespa avança mais de 2% com notícia sobre recompra de títulos pelo Tesouro dos EUA appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2020/08/Stocksss.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "SK Hynix anuncia recompra recorde de US$ 28 bilhões após queda das ações",
+        "link": "https://www.infomoney.com.br/mercados/sk-hynix-anuncia-recompra-recorde-de-us-28-bilhoes-apos-queda-das-acoes/",
+        "summary": "Fabricante de chips da Nvidia vai recomprar 3,3% dos papéis em circulação e elevar retorno aos acionistas, apesar da forte correção do setor de IA The post SK Hynix anuncia recompra recorde de US$ 28 bilhões após queda d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T160447Z_1_LYNXMPEM690YJ_RTROPTP_4_SK-HYNIX-LISTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "19 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ações de fabricante chinesa de robôs acrobatas disparam até 629% em estreia",
-        "link": "https://www.infomoney.com.br/mercados/acoes-de-fabricante-chinesa-de-robos-acrobatas-disparam-ate-629-em-estreia/",
-        "summary": "No ano passado, do total de cerca de 15 mil robôs humanoides comercializados globalmente, a Unitree e a Agibot, também chinesa, entregaram mais de 5 mil unidades casa The post Ações de fabricante chinesa de robôs acrobat",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-19T090142Z_737085091_RC2H1NAPY241_RTRMADP_3_CHINA-TECH-ROBOT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Na era das canetas emagrecedoras, 'Coca-Cola Zero cresce como startup', diz presidente",
-        "link": "https://exame.com/negocios/na-era-das-canetas-emagrecedoras-coca-cola-zero-cresce-como-startup-diz-presidente/",
-        "summary": "Luciana Batista, presidente da Coca-Cola Brasil, conta como a busca por menos açúcar e calorias está transformando o portfólio e dando um novo ‘gás’ de crescimento para a multinacional",
+        "title": "Dança das cadeiras na Red Bull: Verstappen terá novo companheiro no GP da Holanda",
+        "link": "https://exame.com/esporte/danca-das-cadeiras-na-red-bull-verstappen-tera-novo-companheiro-no-gp-da-holanda/",
+        "summary": "Lesão de Isack Hadjar leva Liam Lawson de volta à equipe principal e faz Yuki Tsunoda retornar à Racing Bulls",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Australian Open começará no Brasil; entenda",
-        "link": "https://exame.com/casual/australian-open-comecara-no-brasil-entenda/",
-        "summary": "Acordo de longo prazo leva a AO Junior Series South America ao Boa Vista Village entre 2026 e 2028, com oito quadras no padrão das usadas em Melbourne",
+        "title": "'Outer Banks' chega ao fim: quando estreia a 5ª temporada na Netflix?",
+        "link": "https://exame.com/pop/outer-banks-chega-ao-fim-quando-estreia-a-5a-temporada-na-netflix/",
+        "summary": "Quinta temporada encerra a história dos Pogues após a morte de JJ e chega completa à Netflix",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Nheengatu ou Bororo: a USP escolhe qual língua brasileira entra na IA latino-americana",
-        "link": "https://exame.com/inteligencia-artificial/nheengatu-ou-bororo-a-usp-escolhe-qual-lingua-brasileira-entra-na-ia-latino-americana/",
-        "summary": "Centro de IA da universidade paulista definirá entre o Nheengatu, herdeiro do tupi antigo, e o Bororo para integrar a segunda versão do LatAm GPT, modelo aberto coordenado pelo Chile",
+        "title": "Menos China, menos gado: o que está segurando o preço do boi gordo",
+        "link": "https://exame.com/agro/menos-china-menos-gado-o-que-esta-segurando-o-preco-do-boi-gordo/",
+        "summary": "Com menos gado disponível e China comprando menos, mercado se equilibra entre preços firmes e demanda mais fraca, diz Itaú BBA",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Red Teaming IA; por que empresas de tecnologia pagam para atacar a própria inteligência artificial",
-        "link": "https://exame.com/inteligencia-artificial/red-teaming-ia-por-que-empresas-de-tecnologia-pagam-para-atacar-a-propria-inteligencia-artificial/",
-        "summary": "Prática de segurança ganha espaço entre empresas de tecnologia para testar limites e falhas da inteligência artificial antes do uso real",
+        "title": "Foguete dá ré? Vídeo mostra feito inédito da China ao pousar em terra firme",
+        "link": "https://exame.com/ciencia/foguete-da-re-video-mostra-feito-inedito-da-china-ao-pousar-em-terra-firme/",
+        "summary": "Missão do Zhuque-3 marca um avanço na reutilização de foguetes e pode reduzir o custo e aumentar a frequência de lançamentos espaciais",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Promessa de campanha pró-impeachment de ministros do STF é equívoco que não impressiona, diz Gilmar",
-        "link": "https://exame.com/brasil/promessa-de-campanha-pro-impeachment-de-ministros-do-stf-e-equivoco-que-nao-impressiona-diz-gilmar/",
-        "summary": "Ministro também defendeu as urnas eletrônicas e o processo eleitoral do Brasil",
+        "title": "Eclipse lunar no Brasil acontecerá na próxima semana; veja data, horário e onde observar",
+        "link": "https://exame.com/ciencia/eclipse-lunar-no-brasil-acontecera-na-proxima-semana-veja-data-horario-e-onde-observar/",
+        "summary": "Cerca de 93% da Lua ficará coberta pela sombra da Terra durante fenômeno visível de todas as regiões do Brasil",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Guerra do azeite na Europa pode criar gigante de 2,2 bilhões de euros; entenda",
-        "link": "https://exame.com/negocios/guerra-do-azeite-na-europa-pode-criar-gigante-de-22-bilhoes-de-euros-entenda/",
-        "summary": "Italianos, franceses e australianos disputam a Deoleo, mas uma oferta da espanhola Dcoop colocou a cooperativa à frente na corrida pela companhia.",
+        "title": "FedEx transforma quatro toneladas de uniformes em mais de 6 mil cobertores",
+        "link": "https://exame.com/negocios/fedex-toneladas-uniformes-cobertores/",
+        "summary": "Programa reaproveita materiais têxteis para apoiar pessoas em situação de vulnerabilidade social e animais acolhidos por ONGs",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
