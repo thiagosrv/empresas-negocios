@@ -1,18 +1,7 @@
 {
-  "updated": "2026-08-19T22:41:00.934Z",
+  "updated": "2026-08-19T23:35:53.871Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Rodri se despede dos torcedores do City após transferência para o Barcelona",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/rodri-se-despede-dos-torcedores-do-manchester-city-com-emocao-apos-transferencia-para-o-barcelona/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "19 de ago. de 2026",
-      "isoDate": "2026-08-19",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
     {
       "title": "Estreia do PSG no Francês é transferida do Parque dos Príncipes para casa do Rennes",
       "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/estreia-do-psg-no-frances-e-transferida-do-parque-dos-principes-para-casa-do-rennes/",
@@ -22,7 +11,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores: o primeiro dia de Lucumí na Juventus",
@@ -33,7 +22,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores: o primeiro dia de Vicario na Juventus",
@@ -44,7 +33,7 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Com gol de Raphinha, Barcelona vence Al-Ahly em último teste da pré-temporada",
@@ -88,7 +77,106 @@
       "isoDate": "2026-08-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Macará x Santos pela Sul-Americana: onde assistir ao vivo, estatísticas e prováveis escalações",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/macara-x-santos-onde-assistir-escalacoes-sul-americana/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "19 de ago. de 2026",
+      "isoDate": "2026-08-19",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26aa.png"
+    },
+    {
+      "title": "Joias de Palmeiras e São Paulo marcam em goleada da Seleção sub-15 sobre o Uruguai",
+      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-sub-15-goleia-uruguai-amistoso-liga-evolucao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "19 de ago. de 2026",
+      "isoDate": "2026-08-19",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Santos, São Paulo e Corinthians têm convocadas para a Seleção feminina sub-20",
+      "link": "https://www.gazetaesportiva.com/times/brasil/santos-sao-paulo-e-corinthians-tem-convocadas-para-a-selecao-feminina-sub-20/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "19 de ago. de 2026",
+      "isoDate": "2026-08-19",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Seleção terá homenagem a Oscar no uniforme em jogos pelas Eliminatórias",
+      "link": "https://www.gazetaesportiva.com/times/brasil/selecao-tera-homenagem-a-oscar-no-uniforme-em-jogos-pelas-eliminatorias/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "19 de ago. de 2026",
+      "isoDate": "2026-08-19",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Em visita à CBF, Zico ganha placa e camisa da Seleção personalizada",
+      "link": "https://www.gazetaesportiva.com/times/brasil/em-visita-a-cbf-zico-ganha-placa-e-camisa-da-selecao-personalizada/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "18 de ago. de 2026",
+      "isoDate": "2026-08-18",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "CBF repudia ameaças contra presidente do Corinthians e familiares",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/cbf-repudia-ameacas-contra-presidente-do-corinthians-e-familiares/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "18 de ago. de 2026",
+      "isoDate": "2026-08-18",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2694.png"
+    },
+    {
+      "title": "Bruninho celebra sonho de vestir a camisa da Seleção sub-20 e mira Sul-Americano",
+      "link": "https://www.gazetaesportiva.com/times/brasil/bruninho-celebra-sonho-de-vestir-a-camisa-da-selecao-sub-20-e-mira-sul-americano/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "11 de ago. de 2026",
+      "isoDate": "2026-08-11",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Em fim de contrato, Gabriel Martinelli entra na mira de Galatasaray e Roma",
+      "link": "https://www.gazetaesportiva.com/times/arsenal/em-fim-de-contrato-gabriel-martinelli-entra-na-mira-de-galatasaray-e-roma/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "10 de ago. de 2026",
+      "isoDate": "2026-08-10",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Seleção sub-20 retoma treinos após vitória e foca em amistoso contra Bolívia",
+      "link": "https://www.gazetaesportiva.com/times/brasil/selecao-sub-20-retoma-treinos-apos-vitoria-e-foca-em-amistoso-contra-bolivia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "10 de ago. de 2026",
+      "isoDate": "2026-08-10",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://gc-api-evnvui3szq-rj.sampi.ai/_public/pixel/wp-819fd0fc81f5c242.gif"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
@@ -100,94 +188,6 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26bd.png"
-    },
-    {
-      "title": "Copa do Mundo: confira todas as convocações já divulgadas pelas seleções",
-      "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/copa-do-mundo-confira-todas-as-convocacoes-ja-divulgadas-pelas-selecoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Seleção Brasileira inicia preparação para a Copa de 2026; veja programação",
-      "link": "https://www.gazetaesportiva.com/times/brasil/selecao-brasileira-preparacao-copa-2026-programacao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Adversário do Brasil na estreia da Copa do Mundo, Marrocos divulga convocação",
-      "link": "https://www.gazetaesportiva.com/times/marrocos/marrocos-convocacao-copa-do-mundo-2026/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30d.png"
-    },
-    {
-      "title": "Gazeta na Copa: 1958, o primeiro título de Pelé e do Brasil",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/gazeta-na-copa-1958-o-primeiro-titulo-de-pele-e-do-brasil/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Rival do Brasil em amistoso, Panamá anuncia convocação para a Copa",
-      "link": "https://www.gazetaesportiva.com/times/panama/rival-do-brasil-em-amistoso-panama-anuncia-convocacao-para-a-copa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de mai. de 2026",
-      "isoDate": "2026-05-26",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1f5-1f1e6.png"
-    },
-    {
-      "title": "Bidu vibra com retorno de Memphis no Corinthians e mira oportunidade na Seleção",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/bidu-vibra-com-retorno-de-memphis-no-corinthians-e-mira-oportunidade-na-selecao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de mai. de 2026",
-      "isoDate": "2026-05-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f51f.png"
-    },
-    {
-      "title": "Ancelotti completa um ano na Seleção e é parabenizado pela CBF",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-completa-um-ano-na-selecao-e-e-parabenizado-pela-cbf/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de mai. de 2026",
-      "isoDate": "2026-05-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
-    },
-    {
-      "title": "Gazeta na Copa: 1950, Brasil perde título para o Uruguai no Maracanã",
-      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/gazeta-na-copa-1950-brasil-perde-titulo-para-o-uruguai-no-maracana/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de mai. de 2026",
-      "isoDate": "2026-05-25",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Atlético-MG e Fluminense ficam mais perto de acordo por Hulk",
