@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-19T16:35:36.479Z",
+  "updated": "2026-08-19T17:29:28.864Z",
   "feeds": {
     "campinas": [
       {
         "title": "Grávida passa por curetagem após diagnóstico errado de aborto e descobre bebê vivo um mês depois",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/19/gravida-passa-por-curetagem-apos-diagnostico-errado-de-aborto-e-descobre-bebe-vivo-um-mes-depois.ghtml",
-        "summary": "Grávida passa por curetagem por engano e descobre feto vivo sem líquido amniótico em Sumaré Reprodução/EPTV Uma moradora de Sumaré (SP) descobriu que continuava grávida um mês após ter sido submetida a uma curetagem depo",
+        "summary": "Gestante passa por curetagem com bebê vivo no Hospital Estadual de Sumaré Uma moradora de Sumaré (SP) descobriu que continuava grávida um mês após ter sido submetida a uma curetagem depois de receber um diagnóstico equiv",
         "image": "https://s2-g1.glbimg.com/mQH-EXbEdFBS02oZCeRE3XMDLB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/R/CGXesqQjat62fGrSBwAw/eptv1-1908-negligencia-cp004ena-2026-08-19-12-49-19.mxf-snapshot-00.29.189.jpg",
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
@@ -25,7 +25,7 @@
       {
         "title": "TCE anula leilão de R$ 11,8 bilhões do transporte de Campinas por irregularidades",
         "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/19/tce-anula-licitacao-de-r-118-bilhoes-do-transporte-de-campinas-por-irregularidades.ghtml",
-        "summary": "Ônibus do transporte público municipal de Campinas Fernanda Sunega/Prefeitura Municipal de Campinas O Tribunal de Contas do Estado de São Paulo (TCE-SP) decidiu nesta quarta-feira (19) anular o leilão do transporte públi",
+        "summary": "TCE anula leilão de R$ 11,8 bilhões do transporte de Campinas por irregularidades O Tribunal de Contas do Estado de São Paulo (TCE-SP) decidiu nesta quarta-feira (19) anular o leilão do transporte público coletivo de Cam",
         "image": "https://s2-g1.glbimg.com/bNJNdPFuKNZQQtTKmn3ER24kmSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/W/y/8gRKqFQlKkC3pkFjKtQA/071022-prefeitura-envia-a-camara-projetos-de-lei-da-nova-licitacao-do-transporte-coletivo-foto-fernanda-sunega-18-copia.jpg",
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
@@ -60,6 +60,76 @@
         "date": "19 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "BAEP apreende quase 900 gramas de cocaína em imóvel no Jardim São Roque, em Americana",
+        "link": "https://jornalamericanense.com.br/policia/baep-apreende-quase-900-gramas-de-cocaina-em-imovel-no-jardim-sao-roque-em-americana/",
+        "summary": "Cão policial Blaster indicou presença dos entorpecentes escondidos no banheiro; foram apreendidas 693 porções de cocaína Uma ação do 10º Batalhão de Ações Especiais de Polícia (BAEP) resultou na apreensão de 693 porções ",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Câmara de Americana aprova 46 proposituras durante sessão ordinária",
+        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-46-proposituras-durante-sessao-ordinaria/",
+        "summary": "Vereadores aprovaram cinco projetos de lei, 32 requerimentos e nove moções; pauta também contou com 403 indicações encaminhadas ao Executivo A Câmara Municipal de Americana aprovou 46 proposituras durante a 29ª sessão or",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Homem de 49 anos morre por febre maculosa em Americana",
+        "link": "https://jornalamericanense.com.br/saude/homem-de-49-anos-morre-por-febre-maculosa-em-americana/",
+        "summary": "A Secretaria de Saúde de Americana, por meio da Vigilância Epidemiológica, confirma um óbito causado por febre maculosa. Trata-se de um homem de 49 anos, que estava internado em hospital público e faleceu no dia 24 de ju",
+        "image": null,
+        "date": "18 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana terá Trenzinho da Alegria para incentivar a vacinação de crianças e adolescentes no sábado",
+        "link": "https://jornalamericanense.com.br/saude/americana-tera-trenzinho-da-alegria-para-incentivar-a-vacinacao-de-criancas-e-adolescentes-no-sabado/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Saúde, vai disponibilizar os Trenzinhos da Alegria para incentivar crianças e adolescentes a se vacinarem neste sábado (22), durante o Dia D da Campanha de Multivacina",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Semana em Americana será ensolarada, com temperaturas elevadas e baixa umidade",
+        "link": "https://jornalamericanense.com.br/cidades/semana-em-americana-sera-ensolarada-com-temperaturas-elevadas-e-baixa-umidade/",
+        "summary": "Americana terá uma semana marcada por tempo firme, predomínio de sol e temperaturas elevadas, segundo as previsões meteorológicas atualizadas para esta segunda-feira (17). Os termômetros devem superar os 30°C em boa part",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "CCZ de Americana realiza mutirão de castrações entre os dias 20 e 29 de agosto",
+        "link": "https://jornalamericanense.com.br/saude/ccz-de-americana-realiza-mutirao-de-castracoes-entre-os-dias-20-e-29-de-agosto/",
+        "summary": "O Centro de Controle de Zoonoses (CCZ) de Americana, vinculado à Secretaria de Saúde, realiza um mutirão de castrações gratuitas de cadelas e gatas entre os dias 20 e 29 de agosto (exceto no dia 23), na sede do serviço, ",
+        "image": null,
+        "date": "17 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Exposição em SP reúne fotos de movimentos feministas do Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-em-sp-reune-fotos-de-movimentos-feministas-do-brasil",
+        "summary": "p O Museu da Diversidade Sexual inaugura nesta quarta-feira (19), Dia do Orgulho Lésbico, a exposição em Alice Oliveira /em , que reconhece o trabalho de mais de quatro décadas da ativista e fotógrafa. img src= https://a",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -111,19 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Democrata da Flórida vence primárias para Senado dos Estados Unidos",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/democrata-da-florida-vence-primarias-para-senado-dos-estados-unidos",
-        "summary": "p A democrata socialista Angie Nixon conquistou vitória inesperada nessa terça-feira (18) nas primárias democratas da Flórida para o Senado dos Estados Unidos (EUA), enquanto eleitores em vários estados escolhiam candida",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Arsenal chega a acordo com Aston Villa para contratar zagueiro Ezri Konsa",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-chega-a-acordo-com-aston-villa-para-contratar-zagueiro-ezri-konsa/",
+        "summary": "O Arsenal está perto de anunciar a contratação do zagueiro Ezri Konsa, do Aston Villa, por cerca de US$ 68 milhões. O defensor inglês de 28 anos chega para reforçar o sistema defensivo após os problemas físicos de Willia",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/aston-villa.webp",
+        "date": "19 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Vice-presidente do Conselho da Fifa retira apoio a Infantino",
+        "link": "https://www.gazetaesportiva.com/bastidores/sandor-csanyi-retira-apoio-gianni-infantino-fifa/",
+        "summary": "O vice-presidente do Conselho da Fifa, Sandor Csanyi, anunciou a retirada de seu apoio ao presidente Gianni Infantino, alegando ter perdido a confiança na liderança do dirigente. Em carta divulgada pela AFP, o húngaro cr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QU8NR__v1__MidRes__FilesFblFifaUefaEconomy.webp",
+        "date": "19 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Mourinho revela bastidores de renovação de Vini Jr. com o Real Madrid",
         "link": "https://www.gazetaesportiva.com/times/real-madrid/mourinho-aconselhou-vini-jr-permanecer-real-madrid/",
@@ -163,29 +243,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Novos reforços conhecem a história do Grêmio",
-        "link": "https://www.gazetaesportiva.com/times/gremio/novos-reforcos-conhecem-a-historia-do-gremio/",
-        "summary": "Novos reforços conhecem a história do Grêmio O post Novos reforços conhecem a história do Grêmio apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Nov.webp",
-        "date": "19 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Fred revela insistência por liberação para poder fechar com o Galo",
-        "link": "https://www.gazetaesportiva.com/times/atletico-mg/fred-revela-insistencia-por-liberacao-para-poder-fechar-com-o-galo/",
-        "summary": "Fred revela 'insistência' por liberação para poder fechar com o Galo O post Fred revela insistência por liberação para poder fechar com o Galo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Fre.webp",
-        "date": "19 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Governo fará esforço por fim da taxa das blusinhas, diz Durigan",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-fara-esforco-por-fim-da-taxa-das-blusinhas-diz-durigan",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-fara-esforco-por-fim-da-taxa-das-blusinhas-diz-durigan img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "19 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Beneficiários com NIS de final 2 recebem Bolsa Família de agosto",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-agosto",
@@ -237,79 +307,99 @@
         "cls": ""
       },
       {
-        "title": "Durigan defende que Brasil deve ampliar comércio exterior",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-defende-que-brasil-deve-ampliar-comercio-exterior",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-defende-que-brasil-deve-ampliar-comercio-exterior img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "title": "Após descoberta de petróleo, Lula chama presidente da Petrobras de rainha do Brasil",
+        "link": "https://www.infomoney.com.br/politica/apos-descoberta-de-petroleo-lula-chama-presidente-da-petrobras-de-rainha-do-brasil/",
+        "summary": "Na última sexta-feira, a Petrobras anunciou que atingiu o reservatório do Poço de Morpho, na bacia da Foz do Amazonas, na Margem Equatorial brasileira The post Após descoberta de petróleo, Lula chama presidente da Petrob",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55278823613_df9c6b19db_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Gilmar minimiza defesa de impeachment de ministros do STF por candidatos ao Senado",
+        "link": "https://www.infomoney.com.br/politica/gilmar-minimiza-defesa-de-impeachment-de-ministros-do-stf-por-candidatos-ao-senado/",
+        "summary": "Questionado se há risco de impeachment de ministros caso o senador Flávio Bolsonaro (PL-RJ) seja eleito presidente da República, Gilmar afirmou que não pretende debater \"cenários\" neste momento The post Gilmar minimiza d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Gilmar-Mendes_12.06.2024-Andressa-Anholete-scaled-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Recado ou bazuca? Entenda a intervenção do Tesouro dos EUA que animou o mercado",
+        "link": "https://www.infomoney.com.br/mercados/recado-ou-bazuca-entenda-a-intervencao-do-tesouro-dos-eua-que-animou-o-mercado/",
+        "summary": "Anúncio inesperado derrubou o juro de 30 anos, enfraqueceu o dólar e destravou alta global em ações, ouro e Bitcoin The post Recado ou bazuca? Entenda a intervenção do Tesouro dos EUA que animou o mercado appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-15T143026Z_360685814_RC2DCHANKPWT_RTRMADP_3_IMF-WORLDBANK-BESSENT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Foco do governo é constituir comissão da MP da taxa de blusinhas , diz Durigan",
+        "link": "https://www.infomoney.com.br/politica/foco-do-governo-e-constituir-comissao-da-mp-da-taxa-de-blusinhas-diz-durigan/",
+        "summary": "A previsão é que a comissão mista da MP se reúna em 1º de setembro para eleger o presidente do colegiado e dar andamento ao tema The post Foco do governo é constituir comissão da MP da taxa de blusinhas , diz Durigan app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55342766298_765b99d2ca_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Consultores de investimentos crescem mais de 20% ao ano e mercado muda de perfil",
+        "link": "https://www.infomoney.com.br/advisor/consultores-de-investimentos-crescem-mais-de-20-ao-ano-e-mercado-muda-de-perfil/",
+        "summary": "Consultoria de investimentos cresce acima de 20% ao ano desde 2023 e ganha espaço no Brasil. Maior transparência e avanço do modelo fee-based ajudam a explicar o movimento. The post Consultores de investimentos crescem m",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pexels-silverkblack-30535786.jpg?fit=300%2C158&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "FII XPLG11 reduz vacância de 8,8% para 3,9% com sequência de novas locações",
+        "link": "https://www.infomoney.com.br/onde-investir/fii-xplg11-reduz-vacancia-de-88-para-39-com-sequencia-de-novas-locacoes/",
+        "summary": "O XPLG11 fechou um novo contrato de locação para a totalidade do CD CL Imigrantes V The post FII XPLG11 reduz vacância de 8,8% para 3,9% com sequência de novas locações appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/galpao-logistico.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Sucesso exige olhar amplo",
+        "link": "https://exame.com/lideres-extraordinarios/sucesso-exige-olhar-amplo/",
+        "summary": "Disciplina, clareza e visão de longo prazo diferenciam carreiras que crescem daquelas que apenas se movimentam",
         "image": null,
-        "date": "17 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "19 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Mulheres são minoria entre consumidores de seguros e aportam menos na previdência",
-        "link": "https://www.infomoney.com.br/minhas-financas/mulheres-sao-minoria-entre-consumidores-de-seguros-e-aportam-menos-na-previdencia/",
-        "summary": "Apesar do avanço no mercado de trabalho, disparidade salarial e falta de produtos específicos reduzem presença feminina entre seguradas The post Mulheres são minoria entre consumidores de seguros e aportam menos na previ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/vitaly-gariev-1frri_Mi7A0-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Eudora põe 25 mil creators para testar nova linha de cabelos",
+        "link": "https://exame.com/marketing/eudora-poe-25-mil-creators-para-testar-nova-linha-de-cabelos/",
+        "summary": "Operação distribui 100 mil produtos e transforma consumidoras em produtoras de conteúdo para lançar a maior aposta de Siàge",
+        "image": null,
         "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "FIIs chegam a 3,3 milhões de investidores em julho, alta de 14% em nove meses, diz B3",
-        "link": "https://www.infomoney.com.br/onde-investir/fiis-chegam-a-33-milhoes-de-investidores-em-julho-alta-de-14-em-nove-meses-diz-b3/",
-        "summary": "O número representa um aumento de aproximadamente 47 mil investidores em relação a junho The post FIIs chegam a 3,3 milhões de investidores em julho, alta de 14% em nove meses, diz B3 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1451284691-e1574366270886.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "title": "Itaú cria um listening bar dentro do Rock in Rio para o público premium do festival",
+        "link": "https://exame.com/marketing/itau-cria-um-listening-bar-dentro-do-rock-in-rio-para-o-publico-premium-do-festival/",
+        "summary": "Chamada Listening Club, a experiência aposta em vinil, acústica e drinks para criar experiência imersiva na área VIP do festival",
+        "image": null,
         "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ações da Moderna sobem 150% após vacina contra melanoma, em parceria com a Merck",
-        "link": "https://www.infomoney.com.br/mercados/acoes-da-moderna-sobem-150-apos-vacina-contra-melanoma-em-parceria-com-a-merck/",
-        "summary": "Os resultados preliminares do estudo em andamento mostraram que o tratamento com Intismeran atingiu tanto seu objetivo principal de reduzir a recorrência do câncer The post Ações da Moderna sobem 150% após vacina contra ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-04T150024Z_1783274554_RC2LCR9UK8N7_RTRMADP_3_MODERNA-STUDY-EBOLA.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Relatório da PF não vê indício de crime em jornalista alvo de Moraes, diz TV",
-        "link": "https://www.infomoney.com.br/politica/relatorio-da-pf-nao-ve-indicio-de-crime-em-jornalista-alvo-de-moraes-diz-tv/",
-        "summary": "Documento também afirma que não é possível afirmar se jornalista recebeu dinheiro para produzir notícias contra Flávio Dino The post Relatório da PF não vê indício de crime em jornalista alvo de Moraes, diz TV appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55129476823_7ea5518c8f_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Trump escolhe aliada da Casa Branca para comandar FDA em meio a crise",
-        "link": "https://www.infomoney.com.br/mundo/trump-escolhe-aliada-da-casa-branca-para-comandar-fda-em-meio-a-crise/",
-        "summary": "Heidi Overton assume indicação para liderar a agência que regula medicamentos, vacinas e alimentos nos EUA após uma onda de saídas de executivos e críticas da indústria The post Trump escolhe aliada da Casa Branca para c",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464775011.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Target eleva projeções e vê retomada após três anos de queda nas vendas",
-        "link": "https://www.infomoney.com.br/mercados/target-eleva-projecoes-e-ve-retomada-apos-tres-anos-de-queda-nas-vendas/",
-        "summary": "Varejista superou as expectativas no trimestre, aumentou as previsões de receita e lucro para o ano e reforçou sinais de recuperação em meio à disputa com Walmart e Costco The post Target eleva projeções e vê retomada ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464737637.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "19 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Urgente: Bitcoin dispara 5% em 2 horas e bate máxima em mais de dois meses",
         "link": "https://exame.com/future-of-money/urgente-bitcoin-dispara-5-em-2-horas-e-bate-maxima-em-mais-de-dois-meses/",
-        "summary": "Mais informações em breve",
+        "summary": "Movimento de valorização veio depois de notícia afirmando que o Tesouro dos EUA vai dobrar as recompras de títulos",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
@@ -330,36 +420,6 @@
         "title": "Meli Music 2026 anuncia Normani como atração; Luísa Sonza e Anitta também estão no line-up",
         "link": "https://exame.com/pop/meli-music-2026-anuncia-normani-como-atracao-luisa-sonza-e-anitta-tambem-estao-no-line-up/",
         "summary": "Cantora norte-americana será a primeira atração internacional do Meli Music, que acontece em outubro no Pacaembu",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ariana Grande e Cynthia Erivo se reúnem para apresentação em Londres; veja vídeos",
-        "link": "https://exame.com/pop/ariana-grande-e-cynthia-erivo-se-reunem-para-apresentacao-em-londres-veja-videos/",
-        "summary": "Estrelas de \"Wicked\" dividem o palco durante a \"The Eternal Sunshine Tour\" em Londres; cantora também anunciou pausa na carreira após o fim da turnê",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Swiss Steel vende operação brasileira para Sacchelli em meio a excesso global de aço",
-        "link": "https://exame.com/exame-in/acos-sacchelli-compra-operacao-brasileira-da-swiss-steel/",
-        "summary": "Companhia atravessa um período de ajustes em meio à fraqueza da indústria europeia e à pressão sobre a demanda por aço",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Serviços de autoatendimento: O que explica a projeção de US$ 17,2 bi até 2032",
-        "link": "https://exame.com/bussola/servicos-de-autoatendimento-o-que-esta-por-tras-da-projecao-de-us-172-bi-ate-2032/",
-        "summary": "Com a expansão dos serviços self-service, empresas precisam equilibrar eficiência operacional e atendimento excepcional para fidelizar clientes",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
