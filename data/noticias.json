@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:33:05.708Z",
+  "updated": "2026-08-20T18:45:10.951Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Cine A Americana divulga valores de ingressos para sessões 2D, 3D e salas VIP",
+        "link": "https://jornalamericanense.com.br/cultura/cine-a-americana-divulga-valores-de-ingressos-para-sessoes-2d-3d-e-salas-vip/",
+        "summary": "O Cine A Americana divulgou a tabela oficial de preços dos ingressos para as sessões de filmes em 2D e 3D, além dos valores praticados nas Salas VIP e nas Poltronas VIP. Os preços variam de acordo com o dia da semana e o",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Americana participa de discussão sobre “Vale do Silício Brasileiro” em reunião da RMC",
         "link": "https://jornalamericanense.com.br/cidades/americana-participa-de-discussao-sobre-vale-do-silicio-brasileiro-em-reuniao-da-rmc/",
         "summary": "O secretário de Desenvolvimento Econômico, Rafael de Barros, representou o prefeito Chico Sardelli nesta terça-feira (18), na reunião do Conselho de Desenvolvimento da Região Metropolitana de Campinas (RMC), realizada no",
@@ -106,16 +116,6 @@
         "title": "BAEP apreende quase 900 gramas de cocaína em imóvel no Jardim São Roque, em Americana",
         "link": "https://jornalamericanense.com.br/policia/baep-apreende-quase-900-gramas-de-cocaina-em-imovel-no-jardim-sao-roque-em-americana/",
         "summary": "Cão policial Blaster indicou presença dos entorpecentes escondidos no banheiro; foram apreendidas 693 porções de cocaína Uma ação do 10º Batalhão de Ações Especiais de Polícia (BAEP) resultou na apreensão de 693 porções ",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Câmara de Americana aprova 46 proposituras durante sessão ordinária",
-        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-46-proposituras-durante-sessao-ordinaria/",
-        "summary": "Vereadores aprovaram cinco projetos de lei, 32 requerimentos e nove moções; pauta também contou com 403 indicações encaminhadas ao Executivo A Câmara Municipal de Americana aprovou 46 proposituras durante a 29ª sessão or",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Americanense",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Pênalti de Lewandowski garante vitória de Chicago sobre Orlando; confira o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/penalti-de-lewandowski-garante-vitoria-de-chicago-sobre-orlando-confira-o-lance/",
-        "summary": "Pênalti de Lewandowski garante vitória de Chicago sobre Orlando; confira o lance O post Pênalti de Lewandowski garante vitória de Chicago sobre Orlando; confira o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Pena.webp",
+        "title": "Confira os primeiros momentos de Stones na Inter de Milão",
+        "link": "https://www.gazetaesportiva.com/times/internazionale/confira-os-primeiros-momentos-de-stones-na-inter-de-milao/",
+        "summary": "Confira os primeiros momentos de Stones na Inter de Milão O post Confira os primeiros momentos de Stones na Inter de Milão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Stone.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sem proposta oficial, Santos não descarta negociar Robinho Jr. em meio a sondagens da Europa",
-        "link": "https://www.gazetaesportiva.com/times/santos/robinho-jr-santos-sondagens-europa-negociacao/",
-        "summary": "Robinho Jr. despertou sondagens de clubes europeus, mas o Santos ainda não recebeu proposta oficial. O Peixe não descarta negociar o atacante de 18 anos caso surja um acordo vantajoso, enquanto o jovem busca mais minutos",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55366640794_444885c659_3k.webp",
+        "title": "Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vancouver-0-x-1-houston-dynamo-fc-pela-mls/",
+        "summary": "Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS O post Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Vancouv.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Orlando City 1 x 2 Chicago Fire FC pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-orlando-city-1-x-2-chicago-fire-fc-pela-mls/",
-        "summary": "Melhores momentos: Orlando City 1 x 2 Chicago Fire FC pela MLS O post Melhores momentos: Orlando City 1 x 2 Chicago Fire FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Orla.webp",
+        "title": "Melhores momentos: LA Galaxy 1 x 0 San Jose Earthquakes pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-la-galaxy-1-x-0-san-jose-earthquakes-pela-mls/",
+        "summary": "Melhores momentos: LA Galaxy 1 x 0 San Jose Earthquakes pela MLS O post Melhores momentos: LA Galaxy 1 x 0 San Jose Earthquakes pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/LA-Gal.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Laura Pigossi é confirmada na chave principal do SP Open 2026",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/laura-pigossi-e-confirmada-na-chave-principal-do-sp-open-2026/",
-        "summary": "Laura Pigossi foi anunciada como a terceira convidada da chave principal de simples do SP Open, que será disputado entre 12 e 20 de setembro no Parque Villa-Lobos, em São Paulo. Atual número 2 do Brasil, Pigossi tem no c",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/4EjZ6UDOyYDZ3ojci5SbvNmLhRXZ6F2Z2RHQhJXYi12bs92YuwWZ15WYtVmOyQjMxIzN5EjNzozZwpmL1gzN4QjM5YzMxYkMlYzMx8Gd1FmRyUSN0ADNx8VL1ETLf9VLwITLfpTM.webp",
+        "title": "Melhores momentos: Portland Timbers 3 x 1 San Diego FC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-portland-timbers-3-x-1-san-diego-fc-pela-mls/",
+        "summary": "Melhores momentos: Portland Timbers 3 x 1 San Diego FC pela MLS O post Melhores momentos: Portland Timbers 3 x 1 San Diego FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Portl.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Minnesota United 1 x 2 Atlanta United pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-minnesota-united-1-x-2-atlanta-united-pela-mls/",
-        "summary": "Melhores momentos: Minnesota United 1 x 2 Atlanta United pela MLS O post Melhores momentos: Minnesota United 1 x 2 Atlanta United pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Minneso.webp",
+        "title": "Abel Ferreira visita sede da Conmebol e recebe réplicas de taças conquistadas",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-visita-conmebol-apos-classificacao-palmeiras-libertadores/",
+        "summary": "O técnico Abel Ferreira visitou a sede da Conmebol, no Paraguai, após a classificação do Palmeiras às quartas de final da Copa Libertadores. O treinador português recebeu réplicas das taças da Libertadores e da Recopa, c",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/20082026_cg_palmeiras_1663_15.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasil sub-17 vence Venezuela de virada em amistoso preparatório para o Mundial",
-        "link": "https://www.gazetaesportiva.com/times/brasil/brasil-sub-17-vence-venezuela-de-virada-em-amistoso-preparatorio-para-o-mundial/",
-        "summary": "A Seleção Brasileira Sub-17 venceu a Venezuela por 2 a 1, de virada, nesta quinta-feira, na Granja Comary, em Teresópolis. Após sair atrás no placar com gol de Araujo, o Brasil reagiu ainda no primeiro tempo com Rodrigo ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Whats_App_Image_2026_08_20_at_12_06_53_b7aca57657.webp",
+        "title": "CBF reconhece erro em pênalti não marcado para o São Paulo contra o Coritiba",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/cbf-reconhece-erro-em-penalti-nao-marcado-para-o-sao-paulo-contra-o-coritiba/",
+        "summary": "São Paulo cobrou pênalti de Keno em cima de Calleri em lance aos 38 minutos do segundo tempo, quando jogo estava empatado em 1 a 1. O post CBF reconhece erro em pênalti não marcado para o São Paulo contra o Coritiba apar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55466651619_b7fc642c21_o.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Oxfam Brasil: concentração de riqueza amplia desigualdade política",
         "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oxfam-brasil-concentracao-de-riqueza-amplia-desigualdade-politica",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Correios entregam no Brasil compras feitas em sites do Paraguai",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/correios-entregam-no-brasil-compras-feitas-em-sites-do-paraguai",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/correios-entregam-no-brasil-compras-feitas-em-sites-do-paraguai img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Análise: Irã desafia pressão dos EUA e prolonga impasse — mas quem cede primeiro?",
-        "link": "https://www.infomoney.com.br/business/global/analise-ira-desafia-pressao-dos-eua-e-prolonga-impasse-mas-quem-cede-primeiro/",
-        "summary": "Há semanas, não há avanços diplomáticos, mas também não há combates em grande escala, já que ambos os lados parecem acreditar que conseguem resistir por mais tempo do que o adversário The post Análise: Irã desafia pressã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Iran-rua.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open",
+        "link": "https://www.infomoney.com.br/esportes/apos-lesao-e-queda-no-ranking-alcaraz-anuncia-volta-para-defender-titulo-do-us-open/",
+        "summary": "Espanhol não joga desde abril, perdeu três Masters 1000 e dois Grand Slams, e hoje ocupa a terceira posição mundial The post Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-20T181541Z_1_LYNXMPEM7J1FB_RTROPTP_4_TENNIS-MONTECARLO.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mansão centenária do cofundador do Facebook é vendida por R$ 44 milhões",
-        "link": "https://www.infomoney.com.br/consumo/mansao-centenaria-de-fundador-do-facebook/",
-        "summary": "Em um dos endereços mais cobiçados de Washington, mansão centenária mistura charme de época e luxo contemporâneo The post Mansão centenária do cofundador do Facebook é vendida por R$ 44 milhões appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Area-externa-mansao.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "title": "Horário eleitoral: veja quem terá direito e quanto tempo cada presidenciável terá",
+        "link": "https://www.infomoney.com.br/politica/horario-eleitoral-veja-quem-tera-direito-e-quanto-tempo-cada-presidenciavel-tera/",
+        "summary": "TSE definiu divisão do horário gratuito e das inserções no primeiro turno; apenas quatro candidaturas presidenciais terão tempo na TV e no rádio The post Horário eleitoral: veja quem terá direito e quanto tempo cada pres",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/horario_eleitoral1.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Brasil ganha 2.023 novos assessores de investimento até julho; veja os números",
-        "link": "https://www.infomoney.com.br/advisor/brasil-ganha-2-023-novos-assessores-de-investimento-ate-julho-veja-os-numeros/",
-        "summary": "Mercado de assessoria avança em 2026, enquanto educação continuada mantém foco na qualificação dos profissionais The post Brasil ganha 2.023 novos assessores de investimento até julho; veja os números appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pexels-rdne-7414212.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "SP vai cumprir metas do marco de saneamento até 2030, promete Tarcísio",
+        "link": "https://www.infomoney.com.br/politica/sp-vai-cumprir-metas-do-marco-de-saneamento-ate-2030-promete-tarcisio/",
+        "summary": "Ao defender atual gestão da Sabesp, governador reforçou que maioria das reclamações sobre a companhia são sobre preço da tarifa e não sobre qualidade do serviço ofertado The post SP vai cumprir metas do marco de saneamen",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Tarcisio-de-Freitas.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "AtlasIntel: Hana lidera todos os cenários de 1º e 2º turno no Pará",
-        "link": "https://www.infomoney.com.br/politica/atlasintel-hana-lidera-todos-os-cenarios-de-1o-e-2o-turno-no-para/",
-        "summary": "Atual governadora pode ser reeleita ainda no primeiro turno The post AtlasIntel: Hana lidera todos os cenários de 1º e 2º turno no Pará appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Hana-Ghlassan.avif?resize=300,200",
+        "title": "Anthropic quer quebrar recorde da SpaceX em megacaptação na bolsa",
+        "link": "https://www.infomoney.com.br/mercados/anthropic-quer-quebrar-recorde-da-spacex-em-megacaptacao-na-bolsa/",
+        "summary": "Empresa de IA avaliada em US$ 965 bilhões prepara abertura de capital que pode se tornar a maior da história dos EUA The post Anthropic quer quebrar recorde da SpaceX em megacaptação na bolsa appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/464994128.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Escritórios de assessoria de investimentos avançam no Brasil fora do eixo tradicional",
-        "link": "https://www.infomoney.com.br/advisor/escritorios-de-assessoria-de-investimentos-avancam-no-brasil-fora-do-eixo-tradicional/",
-        "summary": "São Paulo perde espaço relativo e assessoria cresce em estados como Santa Catarina e Goiás The post Escritórios de assessoria de investimentos avançam no Brasil fora do eixo tradicional appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Barueri_Prefeitura-Municipal-de-Barueri.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
+        "title": "Caiado volta a criticar taxa de juros e atribui alta à irresponsabilidade do governo",
+        "link": "https://www.infomoney.com.br/politica/caiado-volta-a-criticar-taxa-de-juros-e-atribui-alta-a-irresponsabilidade-do-governo/",
+        "summary": "O ex-governador de Goiás também voltou a criticar o fim da \"taxa das blusinhas\", proposto pelo governo neste ano The post Caiado volta a criticar taxa de juros e atribui alta à irresponsabilidade do governo appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Caixa passa a considerar renda de apps como formal para financiamento",
-        "link": "https://www.infomoney.com.br/minhas-financas/caixa-passa-a-considerar-renda-de-apps-como-formal-para-financiamento/",
-        "summary": "Banco passou a considerar como formal a renda de profissionais na análise de crédito; especialista avalia que medida beneficia uma categoria que cresceu nos últimos anos The post Caixa passa a considerar renda de apps co",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/03/5A36E1E1-8799-49E0-90D3-46C54D06CB9C.jpeg?fit=300%2C176&amp;quality=70&amp;strip=all",
+        "title": "Douglas Ruas defende que vencedor das eleições assuma o governo do Rio em outubro",
+        "link": "https://www.infomoney.com.br/politica/douglas-ruas-defende-que-vencedor-das-eleicoes-assuma-o-governo-do-rio-em-outubro/",
+        "summary": "Principal adversário de Eduardo Paes nesta eleição, o deputado, atual presidente da Alerj, era aposta à função depois que Castro renunciou ao cargo, mas acabou de fora da linha sucessória The post Douglas Ruas defende qu",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/douglasruas_368716.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Robôs estão perto de viver 'momento ChatGPT', diz CEO da Unitree",
-        "link": "https://exame.com/inteligencia-artificial/robos-estao-perto-de-viver-momento-chatgpt-diz-ceo-da-unitree/",
-        "summary": "Wang Xingxing fala em salto para a robótica humanoide um dia depois de ação da chinesa cair 11% na bolsa de Xangai",
+        "title": "TRXF11 aprova captação de R$ 5 bilhões: 'Não queremos crescer a qualquer custo', diz CEO",
+        "link": "https://exame.com/mercado-imobiliario/trxf11-aprova-captacao-de-r-5-bilhoes-nao-queremos-crescer-a-qualquer-custo-diz-ceo/",
+        "summary": "Após transformar um fundo concentrado em varejo em uma carteira diversificada, o TRXF11 aposta em ativos premium e reciclagem de imóveis para sustentar uma nova fase de expansão",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "ETFs de ether têm maior saldo positivo do ano com alta de 22% da criptomoeda",
-        "link": "https://exame.com/future-of-money/etfs-de-ether-tem-maior-saldo-positivo-do-ano-com-alta-de-22-da-criptomoeda/",
-        "summary": "Segunda maior criptomoeda registra uma valorização que supera a que tem o bitcoin, considerado o benchmark do setor",
+        "title": "A mulher chegou à alta liderança — mas muitas vezes continua sozinha",
+        "link": "https://exame.com/carreira/a-mulher-chegou-a-alta-lideranca-mas-muitas-vezes-continua-sozinha/",
+        "summary": "Levantamento da B3 aponta recorde de mulheres na liderança, mas maioria ocupa cadeira solitária",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Claude acha que tem 15% a 20% de chance de ser consciente. E agora?",
-        "link": "https://exame.com/inteligencia-artificial/claude-acha-que-tem-15-a-20-de-chance-de-ser-consciente-e-agora/",
-        "summary": "Anthropic, Google DeepMind e Meta contrataram filósofos para estudar a questão. Cientistas discordam sobre o que os achados significam",
+        "title": "Casas Bahia e Marabraz em recuperação judicial: quais são os direitos dos funcionários?",
+        "link": "https://exame.com/carreira/casas-bahia-e-marabraz-em-recuperacao-quais-sao-os-direitos-dos-funcionarios/",
+        "summary": "A lei coloca o trabalhador entre os primeiros da fila para receber, mas isso não significa que o dinheiro está garantido. Advogada trabalhista responde 15 dúvidas sobre processos de demissão e salários – inclusive em cas",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "US$ 1,2 bilhão pela Pilgrim’s: por que a listagem nos EUA mudou o jogo para a JBS",
-        "link": "https://exame.com/agro/us-12-bilhao-pela-pilgrims-por-que-a-listagem-nos-eua-mudou-o-jogo-para-a-jbs/",
-        "summary": "BTG vê listagem americana como peça-chave da nova oferta pelos 18% da Pilgrim’s Pride que a empresa brasileira ainda não controla",
+        "title": "Mulheres ocupam só um terço dos cargos C-Level no mercado financeiro, mostra estudo",
+        "link": "https://exame.com/carreira/mulheres-ocupam-so-um-terco-dos-cargos-c-level-no-mercado-financeiro-mostra-estudo/",
+        "summary": "Levantamento com 82 instituições revela onde mulheres avançam e onde ainda são exceção nas finanças",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Café com jacaré: a cafeteria da Lacoste em São Paulo",
-        "link": "https://exame.com/casual/cafe-com-jacare-a-cafeteria-da-lacoste-em-sao-paulo/",
-        "summary": "Espaço fica ao lado da boutique da marca no Shopping Cidade Jardim e reproduz o conceito criado para a unidade parisiense, unindo gastronomia e hospitalidade francesa",
+        "title": "Opinião: Depois do Pix, Brasil pode liderar pagamentos por agentes de IA",
+        "link": "https://exame.com/bussola/opiniao-com-experiencia-do-pix-brasil-pode-liderar-pagamentos-por-agentes-de-ia/",
+        "summary": "Para liderar os pagamentos agênticos, o país precisa ir além de Pix e Open Finance: deve construir uma infraestrutura capaz de provar o que um agente pode fazer — e por quê",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ronaldinho abandona aposentadoria e assina com clube da Itália — mas sem salário tradicional",
-        "link": "https://exame.com/esporte/ronaldinho-abandona-aposentadoria-e-assina-com-clube-da-italia-mas-sem-salario-tradicional/",
-        "summary": "Aos 46 anos, Ronaldinho volta ao futebol profissional após mais de uma década e será inscrito pelo Ravenna para disputar partidas oficiais",
+        "title": "Menções à IA nos calls de resultado saltam 10 vezes — mas porque a produtividade ainda não virou",
+        "link": "https://exame.com/carreira/mencoes-a-ia-nos-calls-de-resultado-saltam-10-vezes-mas-porque-a-produtividade-ainda-nao-virou/",
+        "summary": "Fed de St. Louis analisou 500 mil teleconferências: otimismo dos CEOs corre à frente da entrega real",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
