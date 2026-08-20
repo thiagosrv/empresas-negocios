@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-20T14:39:36.358Z",
+  "updated": "2026-08-20T15:37:25.086Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Cavernas do Pará escondem mistérios; duas novas espécies são encontradas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/20/cavernas-do-para-escondem-misterios-duas-novas-especies-sao-encontradas.ghtml",
+        "summary": "Cavernas de Carajás guardavam espécies ainda desconhecidas pela ciência Jonas Eduardo Gallão Duas novas espécies de caracóis foram descobertas em cavernas da Serra dos Carajás, no Pará, durante um levantamento da fauna s",
+        "image": "https://s2-g1.glbimg.com/t87gSQ93oW2kirv5iyrUuJGwqUs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/BKwOSYT2uRNRoSBqgziw/a-2026-08-20t120016.009.jpg",
+        "date": "20 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "EPTV 1 Campinas ao vivo",
         "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/20/adolescente-morre-apos-tentar-assaltar-guarda-de-folga-em-sumare-segundo-suspeito-foi-preso.ghtml",
         "summary": "Adolescente morre após tentar assaltar guarda de folga em Sumaré; 2º suspeito foi preso Um adolescente de 16 anos morreu após ser baleado durante uma tentativa de assalto a um guarda municipal de folga na noite de quarta",
         "image": "https://s2-g1.glbimg.com/OItocVsq0JvyFhrKv51CSMScm_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/G/LzBtYPR4qJKKHxQeZHcw/design-sem-nome.png",
-        "date": "20 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com novo entrave no TCE, licitação do transporte de Campinas acumula uma década de impasses; relembre a cronologia",
-        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/20/anulada-pelo-tce-licitacao-do-transporte-de-campinas-acumula-uma-decada-de-impasses-relembre-a-cronologia.ghtml",
-        "summary": "Ônibus do Corredor BRT Campo Grande, em Campinas (SP) Prefeitura de Campinas/Divulgação A decisão do Tribunal de Contas do Estado de São Paulo (TCE-SP) de anular o leilão de R$ 11,8 bilhões do transporte público de Campi",
-        "image": "https://s2-g1.glbimg.com/Lvr9X8--suSD8tKtOu25Ax0Z5FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/A/THBdFTSLiahcaHHXBBvQ/campo-grande.jpg",
         "date": "20 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Fifa sorteia confrontos da repescagem internacional da Copa Feminina",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fifa-sorteia-confrontos-da-repescagem-internacional-da-copa-feminina",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fifa-sorteia-confrontos-da-repescagem-internacional-da-copa-feminina img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Oxfam Brasil: concentração de riqueza amplia desigualdade política",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oxfam-brasil-concentracao-de-riqueza-amplia-desigualdade-politica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oxfam-brasil-concentracao-de-riqueza-amplia-desigualdade-politica img src= https://cdn.jsdelivr.net/gh/sergio",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Safra de cana-de-açúcar deve crescer 4,7% em relação ao ano de 2025",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/safra-de-cana-de-acucar-deve-crescer-47-em-relacao-ao-ano-de-2025",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/safra-de-cana-de-acucar-deve-crescer-47-em-relacao-ao-ano-de-2025 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Confira a agenda dos candidatos à Presidência nesta quinta-feira",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-quinta-feira",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-quinta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Frente fria associada a ciclone baixa temperatura no Sul do país",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frente-fria-associada-ciclone-baixa-temperatura-no-sul-do-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frente-fria-associada-ciclone-baixa-temperatura-no-sul-do-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Abel Ferreira faz desabafo sobre o futebol após classificação do Palmeiras no Paraguai",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-faz-desabafo-sobre-o-futebol-apos-classificacao-do-palmeiras-no-paraguai/",
-        "summary": "Abel Ferreira faz desabafo sobre o futebol após classificação do Palmeiras no Paraguai O post Abel Ferreira faz desabafo sobre o futebol após classificação do Palmeiras no Paraguai apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/09/Abel-Ferreira.webp",
+        "title": "Jovem estrela suíça solta um foguete após arrancada espetacular desde o meio-campo; veja o lance",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/jovem-estrela-suica-solta-um-foguete-apos-arrancada-espetacular-desde-o-meio-campo-veja-o-lance/",
+        "summary": "Jovem estrela suíça solta um foguete após arrancada espetacular desde o meio-campo; veja o lance O post Jovem estrela suíça solta um foguete após arrancada espetacular desde o meio-campo; veja o lance apareceu primeiro e",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Jovem-es.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Artur Jorge reconhece Cruzeiro abaixo e momento duro após eliminação",
-        "link": "https://www.gazetaesportiva.com/times/cruzeiro/artur-jorge-reconhece-cruzeiro-abaixo-e-momento-duro-apos-eliminacao/",
-        "summary": "Artur Jorge reconhece Cruzeiro abaixo e 'momento duro' após eliminação O post Artur Jorge reconhece Cruzeiro abaixo e momento duro após eliminação apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/rgl0qh3l-1920Artur-Jorge-exalta.webp",
+        "title": "Melhores momentos: Columbus 1 x 2 CF Montréal pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-columbus-1-x-2-cf-montreal-pela-mls/",
+        "summary": "Melhores momentos: Columbus 1 x 2 CF Montréal pela MLS O post Melhores momentos: Columbus 1 x 2 CF Montréal pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Colum.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Há 48 anos, Sócrates fazia sua estreia com a camisa do Corinthians",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/ha-48-anos-socrates-fazia-sua-estreia-com-a-camisa-do-corinthians/",
-        "summary": "Há 48 anos, Sócrates fazia sua estreia com a camisa do Corinthians O post Há 48 anos, Sócrates fazia sua estreia com a camisa do Corinthians apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/08/20/00148417-1.jpg",
+        "title": "Arthur Elias vê vantagem para o Brasil na Copa do Mundo de 2027 e sonha com final no Maracanã",
+        "link": "https://www.gazetaesportiva.com/times/brasil/arthur-elias-copa-do-mundo-feminina-2027-maracana/",
+        "summary": "O técnico Arthur Elias celebrou a definição do calendário da Copa do Mundo Feminina de 2027 e destacou a importância de disputar o torneio em casa. O comandante da Seleção Brasileira acredita que atuar no Maracanã, palco",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/54879606395_a4f9fc86ed_b.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Samuel Lino deixa William no chão e marca o gol da classificação do Flamengo; veja o lance",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/samuel-lino-deixa-william-no-chao-e-marca-o-gol-da-classificacao-do-flamengo-veja-o-lance/",
-        "summary": "Samuel Lino deixa William no chão e marca o gol da classificação do Flamengo; veja o lance O post Samuel Lino deixa William no chão e marca o gol da classificação do Flamengo; veja o lance apareceu primeiro em Gazeta Esp",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-20-002536.webp",
+        "title": "São Paulo não deve avançar por contratação de Vardy",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-nao-deve-avancar-por-contratacao-de-vardy/",
+        "summary": "O São Paulo decidiu não avançar na contratação de Jamie Vardy. Após consultar os representantes do atacante inglês de 39 anos, a diretoria concluiu que os valores exigidos estão acima do que o clube pode investir neste m",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/03/01/vardyy.jpg",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-atleta britânico dado como desaparecido é preso em Marrocos por abuso sexual",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/atletismo/leon-baptiste-preso-marrocos/",
-        "summary": "O ex-velocista e treinador britânico Leon Baptiste, que era considerado desaparecido desde maio, foi localizado em uma prisão de Marrakech, no Marrocos. Segundo a BBC Sports, o ex-atleta foi condenado por abuso sexual de",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/X2Twitter.com_HQH0URmXQAAMUCF.webp",
+        "title": "Melhores momentos: New York Red Bulls 0 x 1 Nashville SC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-new-york-red-bulls-0-x-1-nashville-sc-pela-mls/",
+        "summary": "Melhores momentos: New York Red Bulls 0 x 1 Nashville SC pela MLS O post Melhores momentos: New York Red Bulls 0 x 1 Nashville SC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/New-Y.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ouro olímpico no futebol completa 10 anos: veja fotos da conquista",
-        "link": "https://www.gazetaesportiva.com/fotos/veja-as-fotos-de-brasil-x-alemanha/",
-        "summary": "Ouro olímpico no futebol completa 10 anos: veja fotos da conquista O post Ouro olímpico no futebol completa 10 anos: veja fotos da conquista apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2016/08/20/000_FF8PO.jpg",
+        "title": "Evander dá belo giro e marca o gol da vitória do Cincinnati no último lance; confira",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/evander-da-belo-giro-e-marca-o-gol-da-vitoria-do-cincinnati-no-ultimo-lance-confira/",
+        "summary": "Evander dá belo giro e marca o gol da vitória do Cincinnati no último lance; confira O post Evander dá belo giro e marca o gol da vitória do Cincinnati no último lance; confira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Evand.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "US Open quebra barreira dos US$ 100 mi em premiação e faz aceno a estrelas do tênis",
+        "link": "https://www.infomoney.com.br/esportes/us-open-quebra-barreira-dos-us-100-mi-em-premiacao-e-faz-aceno-a-estrelas-do-tenis/",
+        "summary": "Torneio eleva premiação em 19%, cria conselho de jogadores e tenta conter pressões por uma distribuição mais generosa das receitas do esporte The post US Open quebra barreira dos US$ 100 mi em premiação e faz aceno a est",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-20T151323Z_1802256490_RC2ANGAS6BVT_RTRMADP_3_TENNIS-USOPEN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "20 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Bessent diz que operação de recompra do Tesouro pode superar US$ 4 bilhões",
+        "link": "https://www.infomoney.com.br/mercados/bessent-diz-que-operacao-de-recompra-do-tesouro-pode-superar-us-4-bilhoes/",
+        "summary": "Em entrevista ao vivo, Bessent disse que seu departamento pretende \"criar mercado\" para os títulos de prazo mais longo The post Bessent diz que operação de recompra do Tesouro pode superar US$ 4 bilhões appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/441776926.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "20 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Shein adia IPO para o dia 1º de setembro, segundo fonte da Reuters",
+        "link": "https://www.infomoney.com.br/mercados/shein-adia-ipo-para-o-dia-1o-de-setembro-diz-reuters/",
+        "summary": "A abertura de capital pode ocorrer alguns dias depois da listagem The post Shein adia IPO para o dia 1º de setembro, segundo fonte da Reuters appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438985463.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "20 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com apoio de PETR4, VALE3 e mira os 170 mil",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20082026/",
+        "summary": "Bolsas dos EUA recuam após dados de auxílio-desemprego e tensões com o Irã The post Ibovespa Hoje Ao Vivo: Bolsa sobe com apoio de PETR4, VALE3 e mira os 170 mil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-15.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "20 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Gerdau: possível acordo entre EUA e Canadá preocupa menos do que parece; entenda",
+        "link": "https://www.infomoney.com.br/mercados/gerdau-possivel-acordo-entre-eua-e-canada-preocupa-menos-do-que-parece-entenda/",
+        "summary": "Informações na mídia suguerem uma possível redução das tarifas americanas sobre o aço canadense The post Gerdau: possível acordo entre EUA e Canadá preocupa menos do que parece; entenda appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/gerdau-09-fabrica.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
+        "date": "20 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "TSE barra Marçal de debates e suspende acesso a recursos públicos de campanha",
         "link": "https://www.infomoney.com.br/politica/tse-barra-marcal-de-debates-e-suspende-acesso-a-recursos-publicos-de-campanha/",
         "summary": "Decisão cautelar vale enquanto Corte analisa registro do candidato do PRTB, que está inelegível até 2032 e enfrenta questionamento sobre filiação partidária The post TSE barra Marçal de debates e suspende acesso a recurs",
@@ -317,59 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Meta vira uma das maiores clientes de IA da Microsoft",
-        "link": "https://www.infomoney.com.br/business/meta-vira-uma-das-maiores-clientes-de-ia-da-microsoft/",
-        "summary": "Dona do Facebook desembolsa centenas de milhões de dólares por ano no Azure para acessar modelos de IA, mostrando que a demanda mais forte pela tecnologia ainda vem das big techs The post Meta vira uma das maiores client",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-29T201955Z_1606699093_RC2D0FAEPILS_RTRMADP_3_META-PLATFORMS-RESULTS.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "20 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Até 15,80% ao ano: 8 títulos para travar taxa alta na renda fixa",
-        "link": "https://www.infomoney.com.br/onde-investir/ate-1580-ao-ano-8-titulos-para-travar-taxa-alta-na-renda-fixa/",
-        "summary": "Recomendações são por prazo intermediário, em meio a alertas de que o ciclo de queda dos juros pode ser mais lento do que o investidor espera The post Até 15,80% ao ano: 8 títulos para travar taxa alta na renda fixa appe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/notas-de-50-reais-4.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "20 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Gastos do governo devoram receita extra vinda com a alta do petróleo",
-        "link": "https://www.infomoney.com.br/economia/gastos-governo-receita-extra-petroleo-ifi/",
-        "summary": "O aumento das despesas públicas anulou a alta na arrecadação, gerando um rombo bilionário e reforçando a preocupação com a trajetória da dívida, alerta o IFI The post Gastos do governo devoram receita extra vinda com a a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/07/Planalto.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "20 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fim da escala 6 1 avança, mas empresas pressionam Senado por mais debate",
-        "link": "https://www.infomoney.com.br/politica/fim-da-escala-6x1-avanca-mas-empresas-pressionam-senado-por-mais-debate/",
-        "summary": "Empresas pressionam por mais tempo para discutir custos da mudança The post Fim da escala 6 1 avança, mas empresas pressionam Senado por mais debate appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-06-03T213859Z_1500500804_RC26VEAV1W6R_RTRMADP_3_BRAZIL-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "20 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Por que o dólar pode pagar o preço por esforço do Tesouro dos EUA para conter juros",
-        "link": "https://www.infomoney.com.br/mercados/por-que-o-dolar-pode-pagar-o-preco-por-esforco-do-tesouro-dos-eua-para-conter-juros/",
-        "summary": "Investidores veem recompra agressiva de títulos pelo Tesouro como um sinal de que Washington está disposto a sacrificar a força do dólar para manter os custos da dívida sob controle The post Por que o dólar pode pagar o ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465128453.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "20 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "O que fez o interesse por X-Men e Vingadores disparar? Estudo explica novo hype da Marvel",
-        "link": "https://exame.com/pop/o-que-fez-o-interesse-por-x-men-e-vingadores-disparar-estudo-explica-novo-hype-da-marvel/",
-        "summary": "Interesse por X-Men subiu 129%, enquanto Kevin Feige registrou alta de 6.278%",
+        "title": "Este 'pequeno invasor' está se espalhando pelo mundo e custando US$ 423 bilhões às economias por ano",
+        "link": "https://exame.com/ciencia/este-pequeno-invasor-esta-se-espalhando-pelo-mundo-e-custando-us-423-bilhoes-as-economias-por-ano/",
+        "summary": "Espécie de besouro ameaça milhões de árvores urbanas e levou diversas cidades a ampliar medidas de controle",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "‘Não vai funcionar aumentar carga tributária, é preciso controlar gasto’, diz Mansueto",
-        "link": "https://exame.com/economia/nao-vai-funcionar-aumentar-carga-tributaria-e-preciso-controlar-gasto-diz-mansueto/",
-        "summary": "Apesar dos desafios fiscais que ainda pressionam a economia, o Brasil de hoje apresenta uma série de avanços em setores estratégicos que o colocam em uma posição muito diferente da observada há uma década",
+        "title": "Os 15 destinos mais caros do mundo para viajar em 2026",
+        "link": "https://exame.com/casual/os-15-destinos-mais-caros-do-mundo-para-viajar-em-2026/",
+        "summary": "Levantamento da Squaremouth comparou passagens, hospedagem, aluguel de carro e alimentação em 50 destinos turísticos e mostra quanto custa, na prática, fechar roteiros de sonho no próximo ano",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Real Time Big Data: Elmano e Ciro empatam no 1º e 2º turno no Ceará",
-        "link": "https://exame.com/brasil/real-time-big-data-elmano-e-ciro-empatam-no-1o-e-2o-turno-no-ceara/",
-        "summary": "Cenário para o governo do Ceará aponta empate técnico numérico e técnico entre os principais candidatos, enquanto gestão estadual é aprovada por 58% dos eleitores",
+        "title": "O que está em alta na Netflix? Veja o filme mais visto da semana no Brasil",
+        "link": "https://exame.com/pop/o-que-esta-em-alta-na-netflix-veja-o-filme-mais-visto-da-semana-no-brasil/",
+        "summary": "Levantamento semanal da plataforma mostra uma disputa entre novidades e filmes clássicos já conhecidos pelo público",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "BTG entra em benefícios com cartão que reúne vale-alimentação e refeição",
-        "link": "https://exame.com/invest/mercados/btg-entre-em-beneficios-com-cartao-que-reune-vale-alimentacao-e-refeicao/",
-        "summary": "Solução do BTG integra benefícios ao aplicativo do banco e oferece plataforma para empresas",
+        "title": "Com reforma tributária, PMEs vão operacionalizar cashback – só não se sabe como",
+        "link": "https://exame.com/economia/com-reforma-tributaria-pmes-vao-operacionalizar-cashback-so-nao-se-sabe-como/",
+        "summary": "Beneficiários do sistema inaugurado pela reforma tributária tendem a comprar dos menores, que devem correr para se adaptar",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Aos 27 anos, ele abriu um delivery de macarrão na garagem do pai. Hoje fatura R$ 237 milhões",
-        "link": "https://exame.com/negocios/aos-27-anos-ele-abriu-um-delivery-de-macarrao-na-garagem-do-pai-hoje-fatura-r-237-milhoes/",
-        "summary": "Ital'in House nasceu como delivery de massas com R$ 10.000 e chegou a 194 franquias em operação; rede agora acelera expansão nos Estados Unidos",
+        "title": "Do homem mais rico da Ásia à prisão perpétua: quem é o fundador da Evergrande",
+        "link": "https://exame.com/mundo/do-homem-mais-rico-da-asia-a-prisao-perpetua-quem-e-o-fundador-da-evergrande/",
+        "summary": "Nascido no dia 9 de outubro de 1958, Hui, aos 68 anos de idade, declarou-se culpado em abril, após três anos sob detenção",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Onde comer Fideuá, especialidade espanhola, em São Paulo",
-        "link": "https://exame.com/casual/onde-comer-fideua-especialidade-espanhola-em-sao-paulo/",
-        "summary": "Irmão da paella, a receita espanhola feita com macarrão ganha versões que vão da tradição ibérica aos toques peruanos; confira quatro endereços na capital",
+        "title": "Quando será o sorteio dos grupos da Copa do Mundo Feminina? Veja a provável data",
+        "link": "https://exame.com/esporte/quando-sera-o-sorteio-dos-grupos-da-copa-do-mundo-feminina-veja-a-provavel-data/",
+        "summary": "Brasil receberá a Copa do Mundo Feminina entre junho e julho de 2027, com jogos em oito cidades e 32 seleções participantes",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
