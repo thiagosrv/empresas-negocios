@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-20T19:34:06.916Z",
+  "updated": "2026-08-20T20:32:37.095Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Com novos jardins e moinho gigante, Expoflora anuncia novidades para 43ª edição em Holambra",
+        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/08/20/com-novos-jardins-e-moinho-gigante-expoflora-anuncia-novidades-para-43a-edicao-em-holambra.ghtml",
+        "summary": "Com novos jardins e moinho gigante, Expoflora anuncia novidades para 43ª edição Divulgação A Expoflora, tradicional festa holandesa realizada anualmente em Holambra (SP), chega à 43ª edição em 2026 com novidades para o p",
+        "image": "https://s2-g1.glbimg.com/rMOVjj8I0iSeiIvfQHOiA3cW1k4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/YXmdZVTCWxUvKjeqSB0Q/pinceis.jpg",
+        "date": "20 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Seu espaço está realmente seguro?",
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/previl-seguranca/noticia/2026/08/20/seu-espaco-esta-realmente-seguro.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/20/pai-e-filha-ficam-em-estado-grave-apos-acidente-entre-moto-e-carro-em-campinas.ghtml",
         "summary": "Homem é socorrido em estado grave após acidente entre moto e carro em Campinas Rafael santos Um motociclista, que completa 50 anos nesta quinta-feira (20), e a filha dele, de 20, ficaram feridos após um acidente entre ca",
         "image": "https://s2-g1.glbimg.com/_5coLVah34Yl8WHRHp2WVFdOmZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/f/AwkqqOSomuON54K1Sm6g/1.jpg",
-        "date": "20 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Homem faz 'joinha' para câmera de segurança após roubar farmácia e é preso em Valinhos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/20/homem-faz-joinha-para-camera-de-seguranca-antes-de-roubar-farmacia-e-e-preso-em-valinhos.ghtml",
-        "summary": "Homem faz 'joinha' para câmera de segurança antes de roubar farmácia e é preso em Valinhos Um homem de 24 anos foi preso em flagrante após roubar uma farmácia e acenar para as câmeras de segurança na madrugada desta quar",
-        "image": "https://s2-g1.glbimg.com/GvACd08vznjhKrWhZqVLwO6XtqM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/i/cnugXsQsi1DVKoOAj4JQ/screenshot-6.jpg",
         "date": "20 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "Após 2 anos, Rebeca Andrade volta a disputar etapa da Copa do Mundo",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/apos-2-anos-rebeca-andrade-volta-disputar-etapa-da-copa-do-mundo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/apos-2-anos-rebeca-andrade-volta-disputar-etapa-da-copa-do-mundo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rio de Janeiro lança ação integrada de prevenção ao El Niño",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-lanca-acao-integrada-de-prevencao-ao-el-nino",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-lanca-acao-integrada-de-prevencao-ao-el-nino img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Maranhão terá eleição simulada no domingo para testar urnas",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/maranhao-tera-eleicao-simulada-no-domingo-para-testar-urnas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/maranhao-tera-eleicao-simulada-no-domingo-para-testar-urnas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Aviação doméstica brasileira tem a maior movimentação em 26 anos",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aviacao-domestica-brasileira-tem-maior-movimentacao-em-26-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/aviacao-domestica-brasileira-tem-maior-movimentacao-em-26-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -141,104 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Respostas à crise climática exigem inovação, defende setor elétrico",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/respostas-crise-climatica-exigem-inovacao-defende-setor-eletrico",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/respostas-crise-climatica-exigem-inovacao-defende-setor-eletrico img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vítimas do acidente na BR-737 são veladas em Imbituva (PR)",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/vitimas-do-acidente-na-br-737-sao-veladas-em-imbituva-PR",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/vitimas-do-acidente-na-br-737-sao-veladas-em-imbituva-PR img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dívida dos EUA ultrapassa US$ 40 trilhões após governos Trump e Biden",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/divida-dos-eua-ultrapassa-us-40-trilhoes-apos-governos-trump-e-biden",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/divida-dos-eua-ultrapassa-us-40-trilhoes-apos-governos-trump-e-biden img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "UnB muda regras de ingresso para ampliar acesso às vagas de graduação",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/unb-muda-regras-de-ingresso-para-ampliar-acesso-vagas-de-graduacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/unb-muda-regras-de-ingresso-para-ampliar-acesso-vagas-de-graduacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Confira fotos da reapresentação do São Paulo nesta quinta-feira",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/confira-fotos-da-reapresentacao-do-sao-paulo-nesta-quinta-feira-2/",
-        "summary": "O post Confira fotos da reapresentação do São Paulo nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55477322795_c5574b6ec0_4k.webp",
+        "title": "Melhores momentos: Al Fayha 0 x 3 Al Hilal pela Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-fayha-0-x-3-al-hilal-pela-liga-saudita/",
+        "summary": "Melhores momentos: Al Fayha 0 x 3 Al Hilal pela Liga Saudita O post Melhores momentos: Al Fayha 0 x 3 Al Hilal pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/unijfmze-1920-Al-Hilal.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Arteta lança desafio aos jogadores do Arsenal",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arteta-lanca-desafio-aos-jogadores-do-arsenal/",
-        "summary": "Arteta lança desafio aos jogadores do Arsenal O post Arteta lança desafio aos jogadores do Arsenal apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/12/Arteta-aras.webp",
+        "title": "Danilo Barbosa destaca identificação com o Grêmio em apresentação: “Conheço muito bem",
+        "link": "https://www.gazetaesportiva.com/times/gremio/danilo-barbosa-destaca-identificacao-com-o-gremio-em-apresentacao-conheco-muito-bem/",
+        "summary": "O volante Danilo Barbosa foi apresentado oficialmente como novo reforço do Grêmio nesta quinta-feira (20), em coletiva realizada na sala de conferências do CT Luiz Carvalho. O post Danilo Barbosa destaca identificação co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/068bJ00000nF2DeQAK_20AUG26_ApresentaGremio_320.jpg.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Top 5 novos destaques de LaLiga para ficar de olho",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/top-5-novos-destaques-de-laliga-para-ficar-de-olho/",
-        "summary": "Top 5 novos destaques de LaLiga para ficar de olho O post Top 5 novos destaques de LaLiga para ficar de olho apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/5-nov.webp",
+        "title": "Seleção feminina ganha documentário sobre disputa inédita da Copa do Mundo de Rugby",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/selecao-feminina-ganha-documentario-sobre-disputa-inedita-da-copa-do-mundo-de-rugby/",
+        "summary": "A Seleção Brasileira Feminina de Rugby, as Yaras, ganhará uma série documental que retrata os bastidores da inédita participação do país na Copa do Mundo de Rugby Feminino. Produzida pelo Brasil Rugby e pelo Olimpíada To",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/331e579e-9d6f-4a13-8a28-f85920464fe5.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Lee Kang-in celebra primeiro gol pelo Atletico de Madrid",
-        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/lee-kang-in-celebra-primeiro-gol-pelo-atletico-de-madrid/",
-        "summary": "Lee Kang-in celebra primeiro gol pelo Atletico de Madrid O post Lee Kang-in celebra primeiro gol pelo Atletico de Madrid apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Lee-Kan.webp",
+        "title": "São Paulo vence Paulinense e cola no líder de grupo do Paulistão sub-20",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-paulinense-paulistao-sub-20-rodada-13/",
+        "summary": "O São Paulo venceu o Paulinense por 2 a 0 nesta quinta-feira (20), no Estádio Prefeito José Liberatti, em Osasco, pela 13ª rodada do Paulistão Sub-20. Os gols da partida foram marcados por Isac e Nicolas, ambos ainda no ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55477025983_79b3d62228_o.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Confira os primeiros momentos de Stones na Inter de Milão",
-        "link": "https://www.gazetaesportiva.com/times/internazionale/confira-os-primeiros-momentos-de-stones-na-inter-de-milao/",
-        "summary": "Confira os primeiros momentos de Stones na Inter de Milão O post Confira os primeiros momentos de Stones na Inter de Milão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Stone.webp",
+        "title": "Carlos Alcaraz anuncia retorno às quadras 10 dias antes do US Open",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/carlos-alcaraz-anuncia-retorno-as-quadras-10-dias-antes-do-us-open/",
+        "summary": "O tenista espanhol Carlos Alcaraz anunciou seu retorno às quadras nesta quinta-feira (20), a dez dias para o início do US Open, após se recuperar de uma lesão no punho. O post Carlos Alcaraz anuncia retorno às quadras 10",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260820__C66L6ZQ__v1__HighRes__FilesTennisUsaOpenAlcaraz.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vancouver-0-x-1-houston-dynamo-fc-pela-mls/",
-        "summary": "Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS O post Melhores momentos: Vancouver 0 x 1 Houston Dynamo FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Vancouv.webp",
+        "title": "Ex-São Paulo revela dívida alta em apostas e desabafa: Perdi tudo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/ex-sao-paulo-revela-divida-alta-em-apostas-e-desabafa-perdi-tudo/",
+        "summary": "O ex-meia do São Paulo Jonatan Gómez revelou enfrentar um quadro de ludopatia e afirmou ter perdido patrimônio, estabilidade familiar e perspectivas profissionais por causa do vício em apostas. Em entrevista à MargaTV, o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/jonatan_gomez.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Marca d’água do Claude é burlada após lançamento; entenda",
-        "link": "https://www.infomoney.com.br/mundo/marca-dagua-do-claude-e-burlada/",
-        "summary": "Reescritas com outras IAs e até traduções estão entre as ferramentas para apagar os rastros deixados pelo Claude The post Marca d’água do Claude é burlada após lançamento; entenda appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Claude-marca-d´agua.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
+        "title": "Petróleo sobe pelo 5º dia seguido com ameaça de novas sanções dos EUA ao Irã",
+        "link": "https://www.infomoney.com.br/mercados/petroleo-sobe-pelo-5o-dia-seguido-com-ameaca-de-novas-sancoes-dos-eua-ao-ira/",
+        "summary": "WTI fecha acima de US$ 86 e Brent se aproxima de US$ 94 após Washington prometer endurecer pressão econômica contra Teerã e manter tensão no Estreito de Ormuz The post Petróleo sobe pelo 5º dia seguido com ameaça de nova",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-19T080149Z_967072128_RC2CYJA41HDV_RTRMADP_3_BRITAIN-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde assistir Maracá x Santos?",
-        "link": "https://www.infomoney.com.br/esportes/onde-assistir-maraca-santos/",
-        "summary": "O Santos chega com vantagem após a vitória na ida das oitavas de final The post Onde assistir Maracá x Santos? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-macara-x-santos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Caminhão da JBS roda mais de 500 mil km abastecido exclusivamente com biodiesel",
+        "link": "https://www.infomoney.com.br/mercados/caminhao-da-jbs-roda-mais-de-500-mil-km-abastecido-exclusivamente-com-biodiesel/",
+        "summary": "O caminhão está em operação há três anos e faz diariamente o trajeto entre Lins (SP), onde está instalada uma unidade da Friboi, e o Porto de Santos The post Caminhão da JBS roda mais de 500 mil km abastecido exclusivame",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-29T184531Z_1_LYNXNPEL2S08U_RTROPTP_4_VIETNAM-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Rede D Or: Goldman Sachs eleva preço-alvo para R$ 42, após 2º tri",
-        "link": "https://www.infomoney.com.br/mercados/rede-dor-goldman-sachs-eleva-preco-alvo-para-r-42-apos-2o-tri/",
-        "summary": "Para o banco, a ação segue sendo negociada abaixo do valor justo The post Rede D Or: Goldman Sachs eleva preço-alvo para R$ 42, após 2º tri appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Fachada-Hospital-Sao-Luiz-Itaim_Rede-DOR-3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa sofre com exterior mas volta a subir; dólar avança a R$ 5,19",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20082026/",
+        "summary": "Índices nos EUA terminam em baixa com preocupações sobre rendimentos dos títulos The post Ibovespa sofre com exterior mas volta a subir; dólar avança a R$ 5,19 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-5.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Valdemar pede que Justiça autorize Michelle a ser substituída no cuidado de Bolsonaro",
-        "link": "https://www.infomoney.com.br/politica/valdemar-pede-que-justica-autorize-michelle-a-ser-substituida-no-cuidado-de-bolsonaro/",
-        "summary": "Segundo Valdemar, ex-primeira-dama tem papel estratégico na campanha de Flávio Bolsonaro e precisa ampliar sua presença em agendas eleitorais The post Valdemar pede que Justiça autorize Michelle a ser substituída no cuid",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/1_vcn-28-08-23-1-34201887-42001905-59005407.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa avança com apoio de Petrobras, mas incertezas ainda pressionam",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-avanca-com-apoio-de-petrobras-mas-incertezas-ainda-pressionam/",
+        "summary": "Nesta quinta-feira, o cenário externo também se mostrava desfavorável ao apetite a risco, com o avanço nos rendimentos dos Treasuries The post Ibovespa avança com apoio de Petrobras, mas incertezas ainda pressionam appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/ibovespa-alta-grafico-investimento.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open",
-        "link": "https://www.infomoney.com.br/esportes/apos-lesao-e-queda-no-ranking-alcaraz-anuncia-volta-para-defender-titulo-do-us-open/",
-        "summary": "Espanhol não joga desde abril, perdeu três Masters 1000 e dois Grand Slams, e hoje ocupa a terceira posição mundial The post Após lesão e queda no ranking, Alcaraz anuncia volta para defender título do US Open appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-20T181541Z_1_LYNXMPEM7J1FB_RTROPTP_4_TENNIS-MONTECARLO.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "title": "Quem ama cuida : Como organizar herança, reduzir custos e evitar conflitos",
+        "link": "https://www.infomoney.com.br/minhas-financas/quem-ama-cuida-como-organizar-heranca-reduzir-custos-e-evitar-conflitos/",
+        "summary": "Brasileiros estão se antecipando a problemas, como os vividos pela protagonista da novela 'Quem ama cuida', e fazendo testamentos, que foram recorde em 2025. Veja como se planejar The post Quem ama cuida : Como organizar",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/quem-ama-cuida-cofre.avif?resize=300,169",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Horário eleitoral: veja quem terá direito e quanto tempo cada presidenciável terá",
-        "link": "https://www.infomoney.com.br/politica/horario-eleitoral-veja-quem-tera-direito-e-quanto-tempo-cada-presidenciavel-tera/",
-        "summary": "TSE definiu divisão do horário gratuito e das inserções no primeiro turno; apenas quatro candidaturas presidenciais terão tempo na TV e no rádio The post Horário eleitoral: veja quem terá direito e quanto tempo cada pres",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/horario_eleitoral1.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "O que alívio nos Treasuries pode representar para tese para mercado de ações?",
+        "link": "https://www.infomoney.com.br/mercados/o-que-alivio-nos-treasuries-pode-representar-para-tese-para-mercado-de-acoes/",
+        "summary": "A alta dos rendimentos e das projeções de lucros corporativos ao mesmo tempo não parece coincidência, para a BlackRock The post O que alívio nos Treasuries pode representar para tese para mercado de ações? appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-07-30T142241Z_874570014_RC2KAFAOFS4N_RTRMADP_3_STOCKS-USA-WELLS-FARGO.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Marcas próprias avançam no Brasil, mas ainda enfrentam desafio para conquistar preferência",
-        "link": "https://exame.com/marketing/marcas-proprias-avancam-no-brasil-mas-ainda-enfrentam-desafio-para-conquistar-preferencia/",
-        "summary": "Pesquisa da Simon-Kucher mostra avanço das marcas próprias, impulsionado por preço e qualidade, sobretudo entre os mais jovens",
+        "title": "Agregador Inteligov/EXAME: Lula lidera com 39,71% e Flávio Bolsonaro tem 33,04%",
+        "link": "https://exame.com/brasil/agregador-inteligov-exame-lula-lidera-com-3971-e-flavio-bolsonaro-tem-3304/",
+        "summary": "O petista aparece com tendência positiva moderada em relação à rodada do agregado divulgada no início de agosto",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Homem-Aranha: Um Novo Dia': membro da equipe revela easter egg secreto do Demolidor",
-        "link": "https://exame.com/pop/homem-aranha-um-novo-dia-membro-da-equipe-revela-easter-egg-secreto-do-demolidor/",
-        "summary": "Item de cena criado para o personagem de Tom Holland não chegou a aparecer no corte final, mas presta uma homenagem ao personagem de Charlie Cox",
+        "title": "Dona da franquia GTA enfrenta vazamentos e perde US$ 2 bilhões na bolsa",
+        "link": "https://exame.com/tecnologia/dona-da-franquia-do-gta-enfrenta-vazamentos-e-perde-us-2-bilhoes-na-bolsa/",
+        "summary": "Em quatro meses, a Rockstar sofreu dois ataques de naturezas opostas — um expôs finanças e valorizou a ação, o outro ameaça o produto em si e já custou mais de US$ 2 bilhões em valor de mercado",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Três habilidades de liderança que ganham força na era da IA — e podem começar na faculdade",
-        "link": "https://exame.com/carreira/tres-habilidades-de-lideranca-que-ganham-forca-na-era-da-ia-e-podem-comecar-na-faculdade/",
-        "summary": "Ler o ambiente, adaptar a forma de liderar e fazer boas perguntas são competências cada vez mais valorizadas",
+        "title": "Agregador Inteligov/EXAME estreia com dados para presidente e governos dos estados e DF",
+        "link": "https://exame.com/brasil/agregador-inteligov-exame-estreia-com-dados-para-presidente-e-governos-dos-estados-e-df/",
+        "summary": "Ferramenta reúne pesquisas registradas no TSE e apresenta médias agregadas para a disputa presidencial e para os governos dos 26 estados e do Distrito Federal",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Antes do Ravenna, Ronaldinho Gaúcho já teve 'rolê aleatório' na carreira no México",
-        "link": "https://exame.com/esporte/antes-do-ravenna-ronaldinho-gaucho-ja-teve-role-aleatorio-na-carreira-no-mexico/",
-        "summary": "Em 2014, o Querétaro, do México, anunciou o pentacampeão como reforço dos Gallos Blancos",
+        "title": "56% das horas trabalhadas no Brasil podem ser automatizadas pela IA, aponta estudo da McKinsey",
+        "link": "https://exame.com/inteligencia-artificial/56-das-horas-trabalhadas-no-brasil-podem-ser-automatizadas-pela-ia-aponta-estudo-da-mckinsey/",
+        "summary": "Levantamento mostra que agentes de IA e robôs podem assumir parte relevante das atividades atuais, enquanto competências humanas continuam necessárias",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após falências e escândalos, clube italiano de 3ª divisão aposta em Ronaldinho para se reerguer",
-        "link": "https://exame.com/esporte/apos-falencias-e-escandalos-clube-italiano-de-3a-divisao-aposta-em-ronaldinho-para-se-reerguer/",
-        "summary": "Aos 46 anos, brasileiro será acionista e deve disputar ao menos uma partida pelo Ravenna",
+        "title": "Publicidade: como ganhar relevância por meio da cultura local",
+        "link": "https://exame.com/bussola/publicidade-como-marcas-podem-utilizar-a-cultura-local-para-ganhar-relevancia/",
+        "summary": "Campanhas globais ganham relevância quando preservam a identidade da marca sem ignorar os códigos culturais de cada mercado",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Cinco atitudes empreendedoras que podem acelerar sua carreira na era da IA",
-        "link": "https://exame.com/carreira/cinco-atitudes-empreendedoras-que-podem-acelerar-sua-carreira-na-era-da-ia/",
-        "summary": "Iniciativa, adaptação e capacidade de resolver problemas ganham valor à medida que a tecnologia acelera a execução",
+        "title": "Flávio Bolsonaro diz que Dark Horse é 'página virada' e tenta associar caso Master a Lula",
+        "link": "https://exame.com/brasil/flavio-bolsonaro-diz-que-dark-horse-e-pagina-virada-e-tenta-associar-caso-master-a-lula/",
+        "summary": "Episódio veio à tona após trocas de mensagens mostrarem que Flávio Bolsonaro pediu dinheiro ao ex-banqueiro Daniel Vorcaro, dono do Banco Master, para financiar o filme",
         "image": null,
         "date": "20 de ago. de 2026",
         "source": "Exame",
