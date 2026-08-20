@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:44:43.108Z",
+  "updated": "2026-08-20T08:43:07.940Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Atuações do Palmeiras: Gómez define vaga, e Carlos Miguel se redime",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-cerro-oitavas-volta-libertadores/",
+        "summary": "Gustavo Gómez foi o herói do Palmeiras na classificação às quartas de final da Copa Libertadores na última quarta-feira. Em noite em que prevaleceu mais a entrega do time do que futebol jogado, o capitão foi herói e marc",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/19082026_cg_palmeiras_3295_30.webp",
+        "date": "20 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Derrota no Maracanã finda série de 11 jogos do Cruzeiro como visitante",
         "link": "https://www.gazetaesportiva.com/times/cruzeiro/derrota-no-maracana-finda-serie-de-11-jogos-do-cruzeiro-como-visitante/",
         "summary": "A derrota por 2 a 1 para o Flamengo, nesta quarta-feira, no Maracanã, pela partida de volta das oitavas de final da Copa Libertadores, encerrou uma sequência de 11 jogos de invencibilidade do Cruzeiro como visitante. O p",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/inter-miami/messi-marca-pela-primeira-vez-desde-a-morte-do-pai-em-empate-do-inter-miami/",
         "summary": "O Inter Miami empatou em 2 a 2 com o Philadelphia Union nesta quarta-feira, em uma rodada no meio de semana da MLS na qual Lionel Messi marcou seu primeiro gol desde a morte de seu pai. O astro argentino colocou o Inter ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260820__2290614725__v1__HighRes__PhiladelphiaUnionVInterMiamiCf.webp",
-        "date": "20 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Zverev, cabeça de chave número 1, é eliminado por Tommy Paul nas oitavas de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-cabeca-de-chave-numero-1-e-eliminado-por-tommy-paul-nas-oitavas-de-cincinnati/",
-        "summary": "O tenista alemão Alexander Zverev foi derrotado nesta quarta-feira pelo americano Tommy Paul nas oitavas de final do Masters 1000 de Cincinnati, torneio no qual era o principal favorito ao título. Paul venceu com parciai",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260819__2291184825__v1__HighRes__CincinnatiOpen2026Day9.webp",
         "date": "20 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,104 @@
         "cls": ""
       },
       {
-        "title": "Candidatos a governador do Tocantins em 2026: veja nomes, números e biografias",
-        "link": "https://www.infomoney.com.br/politica/candidatos-governador-tocantins-2026/",
-        "summary": "Professora Dorinha, Vicentinho Júnior e Laurez Moreira estão entre os sete candidatos na disputa pelo Palácio Araguaia The post Candidatos a governador do Tocantins em 2026: veja nomes, números e biografias appeared firs",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Palacio_do_Araguaia.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa volta a subir após 11 quedas: até onde pode ir a recuperação?",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-volta-a-subir-apos-11-quedas-ate-onde-pode-ir-a-recuperacao/",
+        "summary": "Alívio externo e alta das blue chips sustentaram a reação, enquanto análise técnica ainda pede cautela The post Ibovespa volta a subir após 11 quedas: até onde pode ir a recuperação? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-sobe-e-se-recupera.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Candidatos a governador de Sergipe em 2026: veja nomes, números e biografias",
-        "link": "https://www.infomoney.com.br/politica/candidatos-governador-sergipe-2026/",
-        "summary": "Fábio Mitidieri tenta a reeleição em disputa com Valmir de Francisquinho e outros quatro candidatos The post Candidatos a governador de Sergipe em 2026: veja nomes, números e biografias appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/b49a0bfa0b9ba3e920a6cb2a82ec9e1d-1.webp?fit=300%2C131&amp;quality=70&amp;strip=all",
+        "title": "Como a Marinha dos EUA está ajudando a transportar petróleo pelo Estreito de Ormuz",
+        "link": "https://www.infomoney.com.br/business/global/como-a-marinha-dos-eua-esta-ajudando-a-transportar-petroleo-pelo-estreito-de-ormuz/",
+        "summary": "Com o Irã tornando o tráfego marítimo perigoso, uma operação dos EUA oferece uma alternativa para parte das exportações de energia, escoltando discretamente petroleiros em viagens arriscadas The post Como a Marinha dos E",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-08T175151Z_376591435_RC2M9MAFHVM3_RTRMADP_3_IRAN-CRISIS-USA-STRIKES-e1783546121723.jpg?fit=168%2C300&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Candidatos a governador de São Paulo em 2026: veja nomes, números e biografias",
-        "link": "https://www.infomoney.com.br/politica/candidatos-governador-sao-paulo-2026/",
-        "summary": "Tarcísio tenta a reeleição e enfrenta Fernando Haddad e outros cinco candidatos na disputa pelo Palácio dos Bandeirantes The post Candidatos a governador de São Paulo em 2026: veja nomes, números e biografias appeared fi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Barueri_Prefeitura-Municipal-de-Barueri.jpg?fit=300%2C188&amp;quality=70&amp;strip=all",
+        "title": "O conselho de Steve Jobs que Larry Page não seguiu ao criar a Alphabet",
+        "link": "https://www.infomoney.com.br/business/global/o-conselho-de-steve-jobs-que-larry-page-nao-seguiu-ao-criar-a-alphabet/",
+        "summary": "O cofundador da Apple recomendou que o Google focasse em poucos produtos, mas Page tinha planos mais ambiciosos para a empresa The post O conselho de Steve Jobs que Larry Page não seguiu ao criar a Alphabet appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/GOOGLES-FOUNDERS-DIDNT-MARKET-TEST-ALPHABETS-NAME-BEFORE-LAUNCHING-THE-NOW-19-TRILLION-JUGGERNAUT-HERES-THE-ADVICE-STEVE-JOBS-GAVE-LARRY-PAGE.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Candidatos a governador de Santa Catarina em 2026: veja nomes, números e biografias",
-        "link": "https://www.infomoney.com.br/politica/candidatos-governador-santa-catarina-2026/",
-        "summary": "Jorginho Mello tenta a reeleição em disputa com João Rodrigues, Gelson Merísio e outros cinco candidatos The post Candidatos a governador de Santa Catarina em 2026: veja nomes, números e biografias appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/DanielVianna_PalacioCruzeSousa_Florianopolis_SC_41528409642.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Casas Bahia em crise: quem mais no varejo tem problema de dívida?",
+        "link": "https://www.infomoney.com.br/mercados/casas-bahia-em-crise-quem-mais-no-varejo-tem-problema-de-divida/",
+        "summary": "Balanços do segundo trimestre mostram vendas fracas em quase todo o setor, de um lado com empresas reportando caixa líquido, mas com endividamento mais preocupante no Magazine Luiza The post Casas Bahia em crise: quem ma",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/trbr0763_0.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Candidatos a governador de Roraima em 2026: veja nomes, números e biografias",
-        "link": "https://www.infomoney.com.br/politica/candidatos-governador-roraima-2026/",
-        "summary": "Soldado Sampaio, Arthur Henrique e outros três candidatos disputam o governo após eleição suplementar marcada por impasse judicial The post Candidatos a governador de Roraima em 2026: veja nomes, números e biografias app",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Palacio-do-Governo-Senador-Helio-Campos-ok.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Desenrola até ajuda no bolso, mas endividamento só muda com corte estrutural de juros",
+        "link": "https://www.infomoney.com.br/economia/desenrola-inadimplencia-juros-altos/",
+        "summary": "Renegociação do governo alivia o orçamento no curto prazo, mas a oferta de crédito fácil por fintechs e a Selic elevada mantêm as famílias na armadilha financeira, dizem especialistas The post Desenrola até ajuda no bols",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/desenrola-economia-fazenda.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Candidatos a governador de Rondônia em 2026: veja nomes, números e biografias",
-        "link": "https://www.infomoney.com.br/politica/candidatos-governador-rondonia-2026/",
-        "summary": "Marcos Rogério, Adailton Fúria e Hildon Chaves estão entre os seis candidatos na sucessão de Marcos Rocha The post Candidatos a governador de Rondônia em 2026: veja nomes, números e biografias appeared first on InfoMoney",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/palacio-presidente-vargas_foto_daiane-mendonca-1.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Depois do Pix, o comércio agêntico é a nova revolução para consumidores e empresas",
+        "link": "https://www.infomoney.com.br/minhas-financas/depois-do-pix-o-comercio-agentico-e-a-nova-revolucao-para-consumidores-e-empresas/",
+        "summary": "O comércio \"agêntico\", que permitirá desde a pesquisa até a efetivação da compra, deve dar ainda mais poder ao consumidor The post Depois do Pix, o comércio agêntico é a nova revolução para consumidores e empresas appear",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Estrategia-automarizada.-Imagem-gerada-com-uso-de-Inteligencia-Artificial-Bruno-Nadai-1.jpeg?fit=300%2C168&amp;quality=70&amp;strip=all",
         "date": "20 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Emprego nos EUA, ata do BCE e leilão do Tesouro: o que move os mercados",
+        "link": "https://exame.com/invest/mercados/emprego-nos-eua-ata-do-bce-e-leilao-do-tesouro-o-que-move-os-mercados/",
+        "summary": "No Brasil, o mercado também acompanha nesta sexta, 20, a entrevista do ministro da Fazenda, Dario Durigan, à rádio CBN, às 7h30",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "5 prompts para fazer o ChatGPT trabalhar como seu assistente pessoal",
+        "link": "https://exame.com/inteligencia-artificial/prompts-para-fazer-o-chatgpt-trabalhar-como-seu-assistente-pessoal/",
+        "summary": "Com instruções específicas, o chatbot pode ajudar a organizar compromissos, tarefas, estudos, compras e outras atividades da rotina",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Casas Bahia deve R$ 5 bi ao Bradesco: como isso pode afetar a recuperação do banco?",
+        "link": "https://exame.com/invest/mercados/casas-bahia-deve-r-5-bi-ao-bradesco-como-isso-pode-afetar-a-recuperacao-do-banco/",
+        "summary": "Bradesco está entre os maiores credores da varejista, que entrou em recuperação judicial para reorganizar R$ 17,3 bilhões em dívidas",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Depois de Carrefour e GPA, Barzel quer imóveis que a Casas Bahia deixou para trás",
+        "link": "https://exame.com/mercado-imobiliario/depois-de-carrefour-e-gpa-barzel-quer-imoveis-que-a-casas-bahia-deixou-para-tras/",
+        "summary": "Gestora imobiliária ficou conhecida por comprar ativos de empresas pressionadas por caixa e agora monitora oportunidades no patrimônio da varejista em recuperação judicial",
+        "image": null,
+        "date": "20 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Trump declara 'guerra econômica' contra o Irã e ameaça 'qualquer país' que ajudar o regime",
@@ -380,46 +420,6 @@
         "title": "Uso de IA pode injetar até R$ 1 trilhão no PIB brasileiro, afirma estudo",
         "link": "https://exame.com/esferabrasil/uso-de-ia-pode-injetar-ate-r-1-trilhao-no-pib-brasileiro-afirma-estudo/",
         "summary": "De acordo com a pesquisa da Reglab, até 2030 o Produto Interno Bruto poderia subir cerca de 7,6%",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Michelle publica primeiro vídeo de campanha ao lado de Flávio Bolsonaro após crise familiar",
-        "link": "https://exame.com/brasil/michelle-publica-primeiro-video-de-campanha-ao-lado-de-flavio-bolsonaro-apos-crise-familiar/",
-        "summary": "O registro marca um novo capítulo na relação entre os dois, que passou por meses de desgaste público",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Como o 'Quarteto Fantástico' virou peça central para 'Vingadores: Doutor Destino'",
-        "link": "https://exame.com/pop/como-o-quarteto-fantastico-virou-peca-central-para-vingadores-doutor-destino/",
-        "summary": "Conexões estabelecidas em 'Quarteto Fantástico: Primeiros Passos' ajudam a explicar por que a equipe terá importância maior no próximo grande evento da Marvel",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Futebol europeu volta em meio a calor extremo e alerta para condições dos gramados",
-        "link": "https://exame.com/esporte/futebol-europeu-volta-em-meio-a-calor-extremo-e-alerta-para-condicoes-dos-gramados/",
-        "summary": "Seca e temperaturas recordes afetam gramados e obrigam clubes e ligas a rever protocolos antes do início da temporada",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "'Técnicos e viáveis': como jogadores africanos chamam a atenção dos clubes brasileiros",
-        "link": "https://exame.com/esporte/tecnicos-e-viaveis-como-jogadores-africanos-chamam-a-atencao-dos-clubes-brasileiros/",
-        "summary": "Ao longo da história, o primeiro atleta africano a atuar por aqui foi o atacante nigeriano Ricky, pelo América-RJ, em 1984",
         "image": null,
         "date": "19 de ago. de 2026",
         "source": "Exame",
