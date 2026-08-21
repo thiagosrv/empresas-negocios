@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-21T21:28:06.796Z",
+  "updated": "2026-08-21T22:28:46.928Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Campinas supera marca de 2 mil câmeras privadas integradas ao monitoramento municipal de segurança pública",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/campinas-supera-marca-de-2-mil-cameras-privadas-integradas-ao-monitoramento-municipal-de-seguranca-publica.ghtml",
+        "summary": "Imagem de arquivo. Reprodução/EPTV Campinas (SP) atingiu a marca de 2.062 câmeras privadas integradas ao sistema de monitoramento da cidade. O sistema faz parte do \"Monitora Campinas\", programa lançado em dezembro de 202",
+        "image": "https://s2-g1.glbimg.com/Dq7A-nN3MYQg2p3aymFDT8boKkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/4/a2tCvZSPqDKl6OX2JeBg/design-sem-nome-2026-08-21t165534.531.jpg",
+        "date": "21 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "21 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "'Unicamp de Portas Abertas' recebe visitantes com oficinas e palestras neste sábado",
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/08/21/unicamp-de-portas-abertas-recebe-visitantes-com-oficinas-e-palestras-neste-sabado.ghtml",
@@ -43,24 +63,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Motociclista tenta fugir da Guarda na contramão, bate em viatura e acaba detido em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/motociclista-tenta-fugir-da-guarda-na-contramao-bate-em-viatura-e-acaba-detido-em-americana.ghtml",
-        "summary": "Motociclista tenta fugir da Guarda na contramão, bate em viatura e é detido em Americana Guarda Municipal de Americana Um motociclista de 49 anos foi detido após tentar fugir de uma abordagem da Guarda Municipal na madru",
-        "image": "https://s2-g1.glbimg.com/QhuecDLAas1DhDcxezpGIr7tqbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/7tljeyTPusVliAY5CH3w/fuga-gcm.png",
+        "title": "Denis Andia realiza caminhadas e fortalece proximidade com Santa Bárbara e região",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-realiza-caminhadas-e-fortalece-proximidade-com-santa-barbara-e-regiao/",
+        "summary": "O candidato a deputado federal Denis Andia tem realizado visitas e caminhadas em Santa Bárbara d’Oeste e região, fortalecendo o compromisso de um trabalho próximo das cidades e das pessoas. Entre as primeiras agendas, o ",
+        "image": null,
         "date": "21 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Terra da Gente acompanha evento dedicado à observação de aves e revela biodiversidade de Tapiraí (SP)",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/21/terra-da-gente-acompanha-evento-dedicado-a-observacao-de-aves-e-revela-biodiversidade-de-tapirai-sp.ghtml",
-        "summary": "A saíra-sete-cores (Tangara seledon) foi escolhida como ave-símbolo do município Leonardo Vilela O Terra da Gente deste sábado (22) participa de um evento especial em Tapiraí, no interior paulista. Para chegar até lá, a ",
-        "image": "https://s2-g1.glbimg.com/PMg-cwlXbtUiEG5_nlMgpcrhgt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/l/0hMdPYRkWSWsm0lNJ6Rw/img-4645.jpg.jpeg",
-        "date": "21 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Prefeitura oferece 28 vagas de estágio para estudantes de Americana em parceria com o CIEE",
@@ -113,14 +123,34 @@
         "cls": "servicos"
       },
       {
-        "title": "Americana participa de discussão sobre “Vale do Silício Brasileiro” em reunião da RMC",
-        "link": "https://jornalamericanense.com.br/cidades/americana-participa-de-discussao-sobre-vale-do-silicio-brasileiro-em-reuniao-da-rmc/",
-        "summary": "O secretário de Desenvolvimento Econômico, Rafael de Barros, representou o prefeito Chico Sardelli nesta terça-feira (18), na reunião do Conselho de Desenvolvimento da Região Metropolitana de Campinas (RMC), realizada no",
+        "title": "Sete em cada dez brasileiros temem comprar remédios pela internet",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sete-em-cada-dez-brasileiros-temem-comprar-remedios-pela-internet",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sete-em-cada-dez-brasileiros-temem-comprar-remedios-pela-internet img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasileiro Feminino: 6 times lutam no sábado para avançar às quartas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-6-times-lutam-no-sabado-para-avancar-quartas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-6-times-lutam-no-sabado-para-avancar-quartas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mais de 3 milhões com benefícios federais são bloqueados em bets",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/mais-de-3-milhoes-com-beneficios-federais-sao-bloqueados-em-bets",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/mais-de-3-milhoes-com-beneficios-federais-sao-bloqueados-em-bets img src= https://cdn.jsdelivr.net/gh/sergios",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "STF marca para setembro retomada do julgamento da Lei da Ficha Limpa",
@@ -151,39 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/com-autorizacao-de-moraes-bolsonaro-podera-voltar-receber-visitas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/com-autorizacao-de-moraes-bolsonaro-podera-voltar-receber-visitas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cosméticos sem registro têm fabricação e venda proibidas pela Anvisa",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/cosmeticos-sem-registro-tem-fabricacao-e-venda-proibidas-pela-anvisa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/cosmeticos-sem-registro-tem-fabricacao-e-venda-proibidas-pela-anvisa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "ANS suspende cautelar contra Hapvida após explicações sobre reajustes",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/ans-suspende-cautelar-contra-hapvida-apos-explicacoes-sobre-reajustes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/ans-suspende-cautelar-contra-hapvida-apos-explicacoes-sobre-reajustes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Final entre Vasco e Palmeiras terá impedimento semiautomático no Brasileiro Sub-20",
+        "link": "https://www.gazetaesportiva.com/futebol/final-entre-vasco-e-palmeiras-tera-impedimento-semiautomatico-no-brasileiro-sub-20/",
+        "summary": "A CBF confirmou o uso do impedimento semiautomático (SAOT) nas finais do Brasileiro Sub-20 A, entre Vasco e Palmeiras. A ida acontece na próxima sexta-feira, em São Januário, às 18h, enquanto a volta acontece no dia 4 de",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Whats_App_Image_2026_07_02_at_14_02_52_889c212b80.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "CBF adia estreia de terceira camisa do Palmeiras; entenda",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-estreia-terceira-camisa-adiada/",
+        "summary": "O Palmeiras foi comunicado pela Confederação Brasileira de Futebol (CBF) nesta sexta-feira de que não poderá utilizar sua nova terceira camisa na partida contra o Vasco, marcada para este domingo, pela 24ª rodada do Camp",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQP5OFCXgAAX0wa.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Titulares fazem regenerativo e Corinthians treina com jovens da base de olho no Coritiba",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/titulares-fazem-regenerativo-e-corinthians-treina-com-jovens-da-base-de-olho-no-coritiba/",
+        "summary": "O Corinthians se reapresentou nesta sexta-feira após garantir vaga nas quartas de final da Libertadores e iniciou a preparação para enfrentar o Coritiba pelo Brasileirão. Fernando Diniz recebeu a boa notícia da liberação",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247571.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Messi é multado pela MLS por acertar tapa em adversário",
+        "link": "https://www.gazetaesportiva.com/inter-miami/messi-e-multado-pela-mls-por-acertar-tapa-em-adversario/",
+        "summary": "A MLS multou Lionel Messi por atingir um adversário durante o empate entre Inter Miami e Philadelphia Union. Valor da punição não foi divulgado. O post Messi é multado pela MLS por acertar tapa em adversário apareceu pri",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260820__2290614725__v1__HighRes__PhiladelphiaUnionVInterMiamiCf.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Confira as fotos de Arsenal x Coventry City pelo Inglês",
         "link": "https://www.gazetaesportiva.com/times/arsenal/confira-as-fotos-de-arsenal-x-coventry-city-pelo-ingles/",
@@ -203,49 +243,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Após eliminar Sabalenka, Bejlek vence Keys e vai à semifinal do WTA 1000 de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/apos-eliminar-sabalenka-bejlek-vence-keys-e-vai-a-semifinal-do-wta-1000-de-cincinnati/",
-        "summary": "ara Bejlek venceu Madison Keys de virada e avançou à semifinal do WTA 1000 de Cincinnati. A tcheca de 20 anos já havia eliminado Sabalenka. O post Após eliminar Sabalenka, Bejlek vence Keys e vai à semifinal do WTA 1000 ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__2291458910__v1__HighRes__CincinnatiOpen2026Day11.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Atual campeão, Arsenal vence Coventry na abertura do Inglês",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-x-coventry-premier-league-2026-27/",
-        "summary": "O Arsenal começou a defesa do título da Premier League 2026/27 com vitória por 3 a 0 sobre o Coventry no Emirates Stadium, em Londres. Kai Havertz abriu o placar no primeiro tempo, Bukayo Saka ampliou ainda antes do inte",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C69C8V6__v1__HighRes__FblEngPrArsenalCoventry.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Real Betis vence Real Sociedad e estreia com vitória no Campeonato Espanhol",
-        "link": "https://www.gazetaesportiva.com/times/real-betis/real-betis-vence-real-sociedad-campeonato-espanhol/",
-        "summary": "Real Betis vence a Real Sociedad por 1 a 0, com gol de Rodrigo Riquelme, e estreia com vitória na primeira rodada do Campeonato Espanhol. O post Real Betis vence Real Sociedad e estreia com vitória no Campeonato Espanhol",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C69G2HA__v2__HighRes__CorrectionFblEspLigaBetisRealSociedad.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Corinthians resolve impasse e pode ter Memphis contra o Coritiba",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-resolve-impasse-e-pode-ter-memphis-contra-o-coritiba/",
-        "summary": "Memphis Depay está liberado para defender o Corinthians contra o Coritiba, neste domingo, pelo Brasileirão. O clube regularizou a situação do visto de trabalho do atacante, que havia se tornado dúvida para a partida. Apó",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C66Y7KX__v1__HighRes__FblLibertadoresCorinthiansRosario.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Dólar cai a R$ 5,14 com alívio no mercado externo",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-r-514-com-alivio-no-mercado-externo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-r-514-com-alivio-no-mercado-externo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Empresas com 100 ou mais empregados devem atualizar dados até dia 31",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-com-100-ou-mais-empregados-devem-atualizar-dados-ate-dia-31",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Navio-plataforma da Petrobras atinge produção máxima no pré-sal",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/navio-plataforma-da-petrobras-atinge-producao-maxima-no-pre-sal",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/navio-plataforma-da-petrobras-atinge-producao-maxima-no-pre-sal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Suprema Corte libera Trump para manter obra de salão bilionário na Casa Branca",
-        "link": "https://www.infomoney.com.br/mundo/suprema-corte-libera-trump-para-manter-obra-de-salao-bilionario-na-casa-branca/",
-        "summary": "Presidente da Corte, John Roberts, suspendeu decisão que obrigaria a paralisação do projeto, contestado por avançar sem autorização explícita do Congresso The post Suprema Corte libera Trump para manter obra de salão bil",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465304543.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Moraes determina cassação da aposentadoria de ex-diretor da PRF",
+        "link": "https://www.infomoney.com.br/politica/moraes-determina-cassacao-da-aposentadoria-de-ex-diretor-da-prf/",
+        "summary": "Silvinei Vasques foi condenado a 24 anos de prisão por trama golpista The post Moraes determina cassação da aposentadoria de ex-diretor da PRF appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula9054-16_0.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Bolsas de NY fecham em alta e reduzem perdas da semana ditada pelos Treasuries",
-        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-e-reduzem-perdas-da-semana-ditada-pelos-treasuries/",
-        "summary": "Na semana, o Dow Jones caiu 1,97%, o S P 500 perdeu 0,64% e o Nasdaq cedeu 0,69% The post Bolsas de NY fecham em alta e reduzem perdas da semana ditada pelos Treasuries appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: Paes lidera corrida pelo governo do Rio com 41%; Ruas registra 19%",
+        "link": "https://www.infomoney.com.br/politica/datafolha-paes-lidera-corrida-pelo-governo-do-rio-com-41-ruas-registra-19/",
+        "summary": "Terceiro colocado, Garotinho tem 9%; ex-governador ainda aguarda decisão sobre seu registro The post Datafolha: Paes lidera corrida pelo governo do Rio com 41%; Ruas registra 19% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/toms0755.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa sobe 1,85%, apoiado por bancos; na semana, alta é de 2,45%",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-21082026/",
-        "summary": "A performance na bolsa paulista encontrava respaldo no viés positivo em Wall Street, onde o S P 500 subia 0,32% The post Ibovespa sobe 1,85%, apoiado por bancos; na semana, alta é de 2,45% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/06/stocks-vs-market-md.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: Cleitinho tem 32% e abre vantagem na disputa pelo governo de MG",
+        "link": "https://www.infomoney.com.br/politica/datafolha-cleitinho-tem-32-e-abre-vantagem-na-disputa-pelo-governo-de-mg/",
+        "summary": "Senador abre vantagem no primeiro levantamento após o início oficial da campanha; disputa pelo segundo lugar segue embolada The post Datafolha: Cleitinho tem 32% e abre vantagem na disputa pelo governo de MG appeared fir",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/1_wpt20420-67374530.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "ANS suspede bloqueio de reajustes e cancelamentos de contratos pela Hapvida",
-        "link": "https://www.infomoney.com.br/business/ans-suspede-bloqueio-de-reajustes-e-cancelamentos-de-contratos-pela-hapvida/",
-        "summary": "ANS suspede bloqueio de reajustes e cancelamentos de contratos pela Hapvida The post ANS suspede bloqueio de reajustes e cancelamentos de contratos pela Hapvida appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-02-170330.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ministro da Fazenda quer apertar o arcabouço fiscal para ajudar política monetária",
+        "link": "https://www.infomoney.com.br/economia/ministro-da-fazenda-quer-apertar-o-arcabouco-fiscal-para-ajudar-politica-monetaria/",
+        "summary": "Para Durigan, essa é uma forma de ajudar o Banco Central na política juros The post Ministro da Fazenda quer apertar o arcabouço fiscal para ajudar política monetária appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/53200984844_792ae2c4d4_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa fecha com forte alta, com exterior, Lula e Trump; dólar cai a R$ 5,14",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21082026/",
-        "summary": "Índices nos EUA terminaram positivos, mas semana fecha no vermelho The post Ibovespa fecha com forte alta, com exterior, Lula e Trump; dólar cai a R$ 5,14 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-5.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "O que Lula e Trump conversaram, o que ficou de fora e qual estratégia do governo",
+        "link": "https://www.infomoney.com.br/politica/o-que-lula-e-trump-conversaram-o-que-ficou-de-fora-e-qual-estrategia-do-governo/",
+        "summary": "Foco da conversa era a relação bilateral, embora também tenham discutido as guerras e o papel das Nações Unidas The post O que Lula e Trump conversaram, o que ficou de fora e qual estratégia do governo appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-26T080003Z_1565482000_RC2KJHA1K77V_RTRMADP_3_ASEAN-SUMMIT.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Petrobras inicia negociações para quatro blocos marítimos na Bacia de Keta, em Gana",
-        "link": "https://www.infomoney.com.br/business/petrobras-inicia-negociacoes-para-quatro-blocos-maritimos-na-bacia-de-keta-em-gana/",
-        "summary": "Empresa planeja fazer do continente africano sua principal região de exploração fora do Brasil The post Petrobras inicia negociações para quatro blocos marítimos na Bacia de Keta, em Gana appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/petrobras-agencia-brasil.webp?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: Lula tem 47% e Flávio Bolsonaro, 43%, em eventual segundo turno",
+        "link": "https://www.infomoney.com.br/politica/datafolha-lula-tem-47-e-flavio-bolsonaro-43-em-eventual-segundo-turno/",
+        "summary": "Diferença de quatro pontos coloca os dois no limite do empate técnico; no primeiro turno, petista marca 39% e senador, 33% The post Datafolha: Lula tem 47% e Flávio Bolsonaro, 43%, em eventual segundo turno appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-03.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Libertadores define três confrontos das quartas; veja os caminhos dos brasileiros",
-        "link": "https://exame.com/esporte/libertadores-define-tres-confrontos-das-quartas-veja-os-caminhos-dos-brasileiros/",
-        "summary": "Corinthians, Palmeiras e Fluminense já conhecem seus adversários, enquanto Flamengo aguarda definição entre Tolima e Independiente del Valle",
+        "title": "Em conversa, Trump pergunta sobre eleição a Lula e presidentes evitam temas polêmicos",
+        "link": "https://exame.com/brasil/em-conversa-trump-pergunta-sobre-eleicao-a-lula-e-presidentes-evitam-temas-polemicos/",
+        "summary": "Presidente americano questionou de forma breve como está o andamento da eleição brasileira; segundo relato, tema não avançou e conversa se concentrou em comércio, crime organizado e conflitos internacionais",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que família Batista, da JBS, comprou Avibras via family office",
-        "link": "https://exame.com/exame-in/por-que-familia-batista-da-jbs-comprou-avibras-via-family-office/",
-        "summary": "Desde emissão de US$ 700 milhões em bonds em abril, Grupo J F passou a focar em investimentos mais maduros e geradores de caixa",
+        "title": "Eleições 2026: Raquel Lyra abre vantagem sobre João Campos na disputa por Pernambuco, diz Datafolha",
+        "link": "https://exame.com/brasil/eleicoes-2026-raquel-lyra-abre-vantagem-sobre-joao-campos-na-disputa-por-pernambuco-diz-datafolha/",
+        "summary": "Lyra tem 47% das intenções de voto, contra 40% de Campos, uma diferença que supera a margem de erro da pesquisa",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Trump elogia Lula e deixa portas abertas para conversa 'a qualquer momento’",
-        "link": "https://exame.com/brasil/trump-elogia-lula-e-deixa-portas-abertas-para-conversa-a-qualquer-momento/",
-        "summary": "Governo brasileiro avalia que contato pode destravar diálogo com equipes do governo americano em meio ao tarifaço",
+        "title": "Eleições 2026: Paes tem 41% dos votos, contra 19% de Ruas para o governo do Rio, diz Datafolha",
+        "link": "https://exame.com/brasil/eleicoes-2026-paes-tem-41-dos-votos-contra-19-de-ruas-para-o-governo-do-rio-diz-datafolha/",
+        "summary": "Esta é a primeira pesquisa do Datafolha sobre a eleição para o governo do Rio de Janeiro",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Avibras: conheça a fabricante brasileira de mísseis comprada por Wesley e Joesley Batista",
-        "link": "https://exame.com/negocios/avibras-conheca-a-fabricante-brasileira-de-misseis-comprada-por-wesley-e-joesley-batista/",
-        "summary": "Dona do sistema Astros, a companhia de Jacareí voltou a operar em maio depois de uma greve de 1.280 dias, uma das mais longas da história do país",
+        "title": "Cleitinho lidera disputa em Minas Gerais com 32%; Petrus e Kalil têm 12%",
+        "link": "https://exame.com/brasil/cleitinho-lidera-disputa-em-minas-gerais-com-32-petrus-e-kalil-tem-12/",
+        "summary": "Na sequência do levantamento do Datafolha, nenhum outro nome passa dos 4%",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ibovespa reage, fecha acima dos 171 mil pontos e acumula alta de 2,45% na semana",
-        "link": "https://exame.com/invest/mercados/ibovespa-reage-fecha-acima-dos-171-mil-pontos-e-acumula-alta-de-245-na-semana/",
-        "summary": "No mercado doméstico, o movimento de alívio ganhou força após uma sequência de dados de inflação mais comportados",
+        "title": "O fim do líder que sabe mais que todo mundo, segundo especialista em RH",
+        "link": "https://exame.com/carreira/o-fim-do-lider-que-sabe-mais-que-todo-mundo-segundo-especialista-em-rh/",
+        "summary": "A inteligência artificial elimina a principal vantagem competitiva de quem lidera hoje: ter mais informação que o time, avalia Daniel Campos, CHRO do Sem Parar Corpay",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "5 livros para começar (e terminar) neste fim de semana",
-        "link": "https://exame.com/casual/5-livros-para-comecar-e-terminar-neste-fim-de-semana/",
-        "summary": "De clássicos da literatura nacional a thrillers psicológicos e debates sobre a cultura brasileira, a Casual EXAME separou uma seleção de leituras para aproveitar os dias de descanso",
+        "title": "Eleições 2026: Tarcísio chega a 45%, contra 27% de Haddad no 1º turno em SP, diz Datafolha",
+        "link": "https://exame.com/brasil/eleicoes-2026-tarcisio-chega-a-45-contra-27-de-haddad-no-1o-turno-em-sp-diz-datafolha/",
+        "summary": "Num eventual segundo turno entre os dois, Tarcísio venceria Haddad por 54% a 35%, segundo o Datafolha",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
