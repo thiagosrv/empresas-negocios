@@ -1,18 +1,7 @@
 {
-  "updated": "2026-08-21T20:40:49.799Z",
+  "updated": "2026-08-21T21:37:46.777Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Top 5 novos destaques da Premier League para ficar de olho",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/top-5-novos-destaques-da-premier-league-para-ficar-de-olho/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "21 de ago. de 2026",
-      "isoDate": "2026-08-21",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
     {
       "title": "Top 5 novos destaques da Serie A do Italiano para ficar de olho",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/top-5-novos-destaques-da-serie-a-do-italiano-para-ficar-de-olho/",
@@ -22,7 +11,7 @@
       "isoDate": "2026-08-21",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Top 5 novos destaques da Ligue 1 para ficar de olho",
@@ -33,7 +22,7 @@
       "isoDate": "2026-08-21",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Maresca: &#8220;Para mim é um privilégio estar aqui&#8221;",
@@ -44,7 +33,7 @@
       "isoDate": "2026-08-21",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Al Riyadh 0 x 4 Al Nassr pela Liga Saudita",
@@ -55,7 +44,7 @@
       "isoDate": "2026-08-21",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Treinador do Liverpool, Iraola mira reforços pelas pontas antes do fim da janela de transferências",
@@ -66,7 +55,7 @@
       "isoDate": "2026-08-21",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Al Hazem 0 x 1 Diriyah Club pela Liga Saudita",
@@ -77,7 +66,7 @@
       "isoDate": "2026-08-21",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Kompany: &#8220;Nada melhor do que levantar uma taça em Dortmund&#8221;",
@@ -88,7 +77,18 @@
       "isoDate": "2026-08-21",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Marselha goleia Strasbourg e abre Campeonato Francês com vitória",
+      "link": "https://www.gazetaesportiva.com/times/olympique-de-marselha/olympique-marselha-x-strasbourg-4-0-campeonato-frances-2026/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "21 de ago. de 2026",
+      "isoDate": "2026-08-21",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
       "title": "Ouro olímpico no futebol completa 10 anos: veja fotos da conquista",
