@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:53:27.964Z",
+  "updated": "2026-08-21T07:46:34.411Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Atuações do Corinthians: Raniele é expulso, mas Memphis e Bidon brilham",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-raniele-e-expulso-mas-memphis-e-bidon-brilham/",
+        "summary": "O Corinthians contou com atuações decisivas de Memphis Depay e Breno Bidon para vencer o Rosario Central por 1 a 0 e avançar às quartas de final da Libertadores. O holandês saiu do banco para dar a assistência do gol da ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C6733M8__v1__HighRes__FblLibertadoresCorinthiansRosario.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Diniz exalta Memphis após classificação do Corinthians: Tem um brilho diferente",
         "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-exalta-memphis-apos-classificacao-do-corinthians-tem-um-brilho-diferente/",
         "summary": "Fernando Diniz exaltou Memphis Depay após a classificação do Corinthians às quartas de final da Libertadores. O treinador comemorou a renovação do atacante, destacou sua importância na vitória sobre o Rosario Central e c",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/botafogo/veja-os-melhores-momentos-de-botafogo-1-x-0-cienciano-pela-sul-americana/",
         "summary": "Confira os melhores momentos de Botafogo 1 x 0 Cienciano, pela Sul-Americana. Glorioso foi eliminado e havia perdido por 6 a 1 na ida. O post Veja os melhores momentos de Botafogo 1 x 0 Cienciano pela Sul-Americana apare",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C6727VQ__v1__MidRes__FblSudamericanaBotafogoCienciano.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Corinthians 1 x 0 Rosario Central pela Libertadores",
-        "link": "https://www.gazetaesportiva.com/dugout/melhores-momentos-corinthians-1-x-0-rosario-central-pela-libertadores/",
-        "summary": "O Corinthians está classificado para as quartas de final da Libertadores. O Timão superou a desvantagem numérica causada pela expulsão de Raniele e venceu o Rosario Central por 1 a 0 na noite desta quinta-feira, na Neo Q",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C6727WC__v1__HighRes__FblLibertadoresCorinthiansRosario.webp",
         "date": "21 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -365,66 +365,6 @@
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
-      },
-      {
-        "title": "Para 81% dos brasileiros, é fundamental que candidato acredite em Deus, aponta pesquisa",
-        "link": "https://exame.com/brasil/para-81-dos-brasileiros-e-fundamental-que-candidato-acredite-em-deus-aponta-pesquisa/",
-        "summary": "A Igreja Católica aparece com o maior nível de credibilidade, com 56% de confiança, seguida pelas igrejas protestantes e pelos centros kardecistas",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Estudo revela por que mulheres são mais vulneráveis a doenças autoimunes",
-        "link": "https://exame.com/ciencia/estudo-revela-por-que-mulheres-sao-mais-vulneraveis-a-doencas-autoimunes/",
-        "summary": "Pesquisa identificou mais de mil alterações genéticas que influenciam a resposta do sistema imunológico e podem orientar tratamentos mais personalizados",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Cientistas propõem grande revisão na árvore genealógica da humanidade",
-        "link": "https://exame.com/ciencia/cientistas-propoem-grande-revisao-na-arvore-genealogica-da-humanidade/",
-        "summary": "Novos fósseis e análises evolutivas levaram pesquisadores a questionar a divisão atual entre os principais grupos de hominíneos",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Vacina contra câncer da Moderna e Merck pode abrir nova era de tratamentos",
-        "link": "https://exame.com/ciencia/vacina-contra-cancer-da-moderna-e-merck-pode-abrir-nova-era-de-tratamentos/",
-        "summary": "Resultado positivo contra melanoma reforça potencial da tecnologia de mRNA e impulsiona testes em tumores como pulmão, bexiga, rim, pâncreas e cólon",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Irã classifica novas sanções dos EUA como \"terrorismo econômico\" e \"crimes contra a humanidade\"",
-        "link": "https://exame.com/mundo/ira-classifica-novas-sancoes-dos-eua-como-terrorismo-economico-e-crimes-contra-a-humanidade/",
-        "summary": "Por outro lado, Bessent afirmou que a aposta na pressão econômica reduz, por enquanto, a chance de uma nova escalada militar americana contra Teerã",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por onde andam os campeões olímpicos de 2016?",
-        "link": "https://exame.com/esporte/por-onde-andam-os-campeoes-olimpicos-de-2016/",
-        "summary": "Seleção comandada por Rogério Micale conquistou o primeiro ouro do futebol masculino brasileiro; veja o destino dos 18 jogadores",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
       }
     ]
   }
