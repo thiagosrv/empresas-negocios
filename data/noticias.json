@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21T13:49:17.024Z",
+  "updated": "2026-08-21T14:39:06.027Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 1 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "date": "21 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Motociclista tenta fugir da Guarda na contramão, bate em viatura e acaba detido em Americana",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/motociclista-tenta-fugir-da-guarda-na-contramao-bate-em-viatura-e-acaba-detido-em-americana.ghtml",
@@ -53,74 +63,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Batida entre dois caminhões deixa duas pessoas feridas na Rodovia Anhanguera, em Sumaré",
-        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/21/batida-entre-dois-caminhoes-deixa-duas-pessoas-feridas-na-rodovia-anhanguera-em-sumare.ghtml",
-        "summary": "Batida entre dois caminhões interdita duas faixas e acostamento na Rodovia Anhanguera, em Sumaré Johnny Inselsperger Uma batida entre dois caminhões deixou duas pessoas levemente feridas e interditou duas faixas na manhã",
-        "image": "https://s2-g1.glbimg.com/i7Li0cAQ3ZQTnRR6BedIR6LsaCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/i/FIXO4CTASvsmc8pSsYSA/capas-belly-39-.png",
+        "title": "País terá Dia D de Multivacinação neste sábado",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pais-tera-dia-d-de-vacinacao-neste-sabado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pais-tera-dia-d-de-vacinacao-neste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/",
+        "image": null,
         "date": "21 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
-        "title": "ACIA realiza entrega de 151 bolos neste sábado",
-        "link": "https://jornalamericanense.com.br/cidades/acia-realiza-entrega-de-151-bolos-neste-sabado/",
-        "summary": "Em comemoração aos 151 anos da fundação de Americana, no dia 27 de agosto, a ACIA – Associação Comercial e Industrial de Americana realiza uma ação especial neste sábado, dia 22, com a entrega de 151 bolos para seus asso",
+        "title": "Meteorologia emite alerta de ventos de até 100 km/h no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/meteorologia-emite-alerta-de-ventos-de-ate-100-kmh-no-rio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/meteorologia-emite-alerta-de-ventos-de-ate-100-kmh-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "21 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Filhotes de emus são apresentados ao público no Zoo Americana",
-        "link": "https://jornalamericanense.com.br/cidades/filhotes-de-emus-sao-apresentados-ao-publico-no-zoo-americana/",
-        "summary": "O Parque Ecológico Municipal Engenheiro Cid Almeida Franco – Zoo Americana apresenta ao público os seis filhotes de emu nascidos em meados de julho deste ano. As aves já podem ser vistas pelos visitantes em um recinto pr",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Cine A Americana divulga valores de ingressos para sessões 2D, 3D e salas VIP",
-        "link": "https://jornalamericanense.com.br/cultura/cine-a-americana-divulga-valores-de-ingressos-para-sessoes-2d-3d-e-salas-vip/",
-        "summary": "O Cine A Americana divulgou a tabela oficial de preços dos ingressos para as sessões de filmes em 2D e 3D, além dos valores praticados nas Salas VIP e nas Poltronas VIP. Os preços variam de acordo com o dia da semana e o",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Americana participa de discussão sobre “Vale do Silício Brasileiro” em reunião da RMC",
-        "link": "https://jornalamericanense.com.br/cidades/americana-participa-de-discussao-sobre-vale-do-silicio-brasileiro-em-reuniao-da-rmc/",
-        "summary": "O secretário de Desenvolvimento Econômico, Rafael de Barros, representou o prefeito Chico Sardelli nesta terça-feira (18), na reunião do Conselho de Desenvolvimento da Região Metropolitana de Campinas (RMC), realizada no",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Banda Municipal e Banda AR40 fazem show especial para celebrar 48 anos do Zanaga",
-        "link": "https://jornalamericanense.com.br/cultura/banda-municipal-e-banda-ar40-fazem-show-especial-para-celebrar-48-anos-do-zanaga/",
-        "summary": "A Banda Municipal Monsenhor Nazareno Maggi e a Banda AR40 fazem um show especial em comemoração aos 48 anos do bairro Antonio Zanaga, em Americana, neste sábado (22), às 21h, na Praça Lino Duzzi, localizada à Avenida Cec",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Jornalista do JA conversa com alunos sobre profissão e produção de notícias em escola de Piracicaba",
-        "link": "https://jornalamericanense.com.br/cidades/jornalista-do-ja-conversa-com-alunos-sobre-profissao-e-producao-de-noticias-em-escola-de-piracicaba/",
-        "summary": "A jornalista do Jornal Americanense (JA), Mirela Visnadi, esteve nesta terça-feira (18) na Escola Municipal Tercilia Bernadete Sanches Costa, no bairro Vem Viver, região norte de Piracicaba, para conversar com alunos do ",
-        "image": null,
-        "date": "19 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Confira a agenda dos candidatos à Presidência nesta sexta-feira",
@@ -161,29 +121,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Beneficiários com NIS de final 4 recebem Bolsa Família de agosto",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-4-recebem-bolsa-familia-de-agosto",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-4-recebem-bolsa-familia-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fungos podem restaurar terras degradadas e combater crise climática",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fungos-podem-restaurar-terras-degradadas-e-combater-crise-climatica",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fungos-podem-restaurar-terras-degradadas-e-combater-crise-climatica img src= https://cdn.jsdelivr.net/gh/sergios",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Veja o momento que Raniele é expulso e deixa o Corinthians com um a menos na Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/veja-o-momento-que-raniele-e-expulso-e-deixa-o-corinthians-com-um-a-menos-na-libertadores/",
+        "summary": "Veja o momento que Raniele é expulso e deixa o Corinthians com um a menos na Libertadores O post Veja o momento que Raniele é expulso e deixa o Corinthians com um a menos na Libertadores apareceu primeiro em Gazeta Espor",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/mom.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Gabriel Jesus entra no radar do Atlético de Madrid após perder espaço no Arsenal",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/gabriel-jesus-atletico-de-madrid-arsenal/",
+        "summary": "Gabriel Jesus entrou no radar do Atlético de Madrid para a temporada, segundo o jornal espanhol As. O atacante brasileiro vive o último ano de contrato com o Arsenal e perdeu espaço após uma série de lesões, embora ainda",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/12/AFP__20251210__87QT9HV__v1__HighRes__FblEurC1BruggeArsenal.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Breno Bidon marca o gol da classificação do Corinthians com assistência de Memphis Depay; veja",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/breno-bidon-marca-o-gol-da-classificacao-do-corinthians-com-assistencia-de-memphis-depay-veja/",
+        "summary": "Breno Bidon marca o gol da classificação do Corinthians com assistência de Memphis Depay; veja O post Breno Bidon marca o gol da classificação do Corinthians com assistência de Memphis Depay; veja apareceu primeiro em Ga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C6733MU__v1__MidRes__FblLibertadoresCorinthiansRosario.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Palmeiras treina no Paraguai e Abel visita sede da Conmebol",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-treina-no-paraguai-e-abel-visita-sede-da-conmebol/",
@@ -213,39 +183,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Arthur Melo deixa a Juventus após rescisão de contrato em comum acordo",
-        "link": "https://www.gazetaesportiva.com/times/juventus/juventus-rescinde-contrato-arthur-melo/",
-        "summary": "A Juventus confirmou a rescisão amigável do contrato com Arthur Melo, que tinha vínculo com o clube italiano até junho de 2027. Livre no mercado e sem custos de transferência, o meio-campista passa a ser observado por eq",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/01/arthurmelo.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Deyverson vai encarar o Palmeiras! Veja o pênalti batido pelo brasileiro da LDU contra o Mirassol",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/deyverson-vai-encarar-o-palmeiras-veja-o-penalti-batido-pelo-brasileiro-da-ldu-contra-o-mirassol/",
-        "summary": "Deyverson vai encarar o Palmeiras! Veja o pênalti batido pelo atacante brasileiro da LDU contra o Mirassol O post Deyverson vai encarar o Palmeiras! Veja o pênalti batido pelo brasileiro da LDU contra o Mirassol apareceu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Deyver.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "A Premier League moderna: como o futebol inglês atrai investimentos de grandes proporções",
-        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/a-premier-league-moderna-como-o-futebol-ingles-atrai-investimentos-de-grandes-proporcoes/",
-        "summary": "A entrada de Jeff Bezos como acionista minoritário do Liverpool reforça uma tendência crescente no futebol inglês: clubes da Premier League deixaram de ser vistos apenas como equipes esportivas e passaram a ser considera",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/05/3B2E4BN.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Desigualdades marcam formalização do trabalho entre jovens brasileiros",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desigualdades-marcam-formalizacao-do-trabalho-entre-jovens-brasileiros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desigualdades-marcam-formalizacao-do-trabalho-entre-jovens-brasileiros img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Beneficiários com NIS de final 4 recebem Bolsa Família de agosto",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-4-recebem-bolsa-familia-de-agosto",
@@ -297,29 +247,9 @@
         "cls": ""
       },
       {
-        "title": "Crédito para carros de aplicativo tem teto elevado para R$ 200 mil",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/credito-para-carros-de-aplicativo-tem-teto-elevado-para-r-200-mil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "20 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Seguro de carro, casa e outros bens terão novas regras para indenização",
-        "link": "https://www.infomoney.com.br/minhas-financas/seguro-de-carro-casa-e-outros-bens-terao-novas-regras-para-indenizacao/",
-        "summary": "Nova resolução do Conselho Nacional de Seguros Privados (CNSP) reforça direitos do consumidor e prevê multa de 2% para atraso no pagamento da indenização The post Seguro de carro, casa e outros bens terão novas regras pa",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/seguros-insurance-foto-de-versipedia-pixabay.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "21 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe 1% com ajuda do exterior",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe 2% com exterior e volta aos 171 mil pontos",
         "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21082026/",
-        "summary": "Bolsas dos EUA avançam juntas, mas continuam a caminho de queda semanal The post Ibovespa Hoje Ao Vivo: Bolsa sobe 1% com ajuda do exterior appeared first on InfoMoney.",
+        "summary": "Bolsas dos EUA avançam juntas, mas continuam a caminho de queda semanal The post Ibovespa Hoje Ao Vivo: Bolsa sobe 2% com exterior e volta aos 171 mil pontos appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-74.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
@@ -327,49 +257,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Equatorial tem desconto “injustificado” e múltiplos catalisadores, diz Morgan Stanley",
-        "link": "https://www.infomoney.com.br/mercados/equatorial-tem-desconto-injustificado-e-multiplos-catalisadores-diz-morgan-stanley/",
-        "summary": "Embora o mercado já reconheça o forte potencial de crescimento orgânico da Equatorial, os avanços regulatórios podem abrir espaço para revisões positivas The post Equatorial tem desconto “injustificado” e múltiplos catal",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Equatorial_Piaui_Sede_Divulgacao-7.jpg?fit=300%2C218&amp;quality=70&amp;strip=all",
+        "title": "Dólar hoje cai no Brasil com exterior e eleições no radar",
+        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21082026/",
+        "summary": "O dólar à vista encerrou a sessão de quinta-feira com alta de 0,31%, aos R$ 5,1937 The post Dólar hoje cai no Brasil com exterior e eleições no radar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-18-125421.png?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "EUA fazem operações militares contra cartéis e narcotráfico no Equador",
-        "link": "https://www.infomoney.com.br/mundo/eua-fazem-operacoes-militares-contra-carteis-e-narcotrafico-no-equador/",
-        "summary": "As ações fazem parte da Coalizão das Américas Contra os Cartéis, iniciativa norte-americana com o apoio de 18 países na América Latina e Caribe The post EUA fazem operações militares contra cartéis e narcotráfico no Equa",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/US-NAVAL-BLOCKADE-ON-IRAN-WILL-TRIGGER-A-CURRENCY-DEVALUATION-SPIRAL-AND-HYPERINFLATION-POTENTIALLY-ENDING-THE-WAR-MORE-QUICKLY-ANALYST-SAYS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "MP-SP pede manutenção da prisão de Deolane Bezerra em investigação ligada ao PCC",
+        "link": "https://www.infomoney.com.br/politica/mp-sp-pede-manutencao-da-prisao-de-deolane-bezerra-em-investigacao-ligada-ao-pcc/",
+        "summary": "Influenciadora está presa desde maio; Promotoria sustenta que ela integraria núcleo financeiro de esquema investigado na Operação Vérnix The post MP-SP pede manutenção da prisão de Deolane Bezerra em investigação ligada ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-24-132449.png?fit=300%2C218&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tesouro IPCA+ fica abaixo de 8% pela 1ª vez desde junho, na contramão do exterior",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-fica-abaixo-de-8-pela-1a-vez-desde-junho-na-contramao-do-exterior/",
-        "summary": "Nos EUA, os rendimentos dos Treasuries voltaram a subir depois que a intervenção do Tesouro americano na quarta-feira proporcionou apenas um dia de trégua à onda de vendas The post Tesouro IPCA+ fica abaixo de 8% pela 1ª",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (21)",
+        "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-21082026/",
+        "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta sexta-feira (21) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-004.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "PF convoca policial candidato que prendeu Lula para explicar ato com pixuleco em SP",
-        "link": "https://www.infomoney.com.br/politica/pf-convoca-policial-candidato-que-prendeu-lula-para-explicar-ato-com-pixuleco-em-sp/",
-        "summary": "Danilo Campetti, policial federal que participou da prisão do petista em 2018, nega relação com peça usada em manifestação e questiona procedimento interno The post PF convoca policial candidato que prendeu Lula para exp",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-20-at-23.58.27-e1787281526688.webp?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "Debandada de estrangeiros e desaceleração à vista: é hora de sair da Bolsa?",
+        "link": "https://www.infomoney.com.br/onde-investir/debandada-de-estrangeiros-e-desaceleracao-a-vista-e-hora-de-sair-da-bolsa/",
+        "summary": "Gestores dizem que a debandada reflete realização de lucro e incerteza fiscal e eleitoral, e não aposta em recessão, e recomendam o que investidor deve fazer agora The post Debandada de estrangeiros e desaceleração à vis",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/EspacoB3_04.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Soja e algodão ensaiam uma virada — e o BTG vê uma empresa pronta para ganhar",
-        "link": "https://exame.com/agro/soja-e-algodao-ensaiam-uma-virada-e-o-btg-ve-uma-empresa-pronta-para-ganhar/",
-        "summary": "Após anos de preços baixos, redução da oferta e queda dos estoques globais abrem espaço para uma recuperação em 2027",
+        "title": "Marçal transforma incerteza eleitoral em exposição e engajamento nas redes",
+        "link": "https://www.infomoney.com.br/politica/marcal-transforma-incerteza-eleitoral-em-exposicao-e-engajamento-nas-redes/",
+        "summary": "Paulo Gama vê candidatura de última hora como movimento capaz de gerar mídia espontânea e ampliar presença de Marçal na disputa, mesmo com futuro jurídico incerto The post Marçal transforma incerteza eleitoral em exposiç",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Captura-de-tela-2026-01-29-202717-1.png?fit=300%2C157&amp;quality=70&amp;strip=all",
+        "date": "21 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Entenda a polêmica por trás dos shows de Kanye West na Rússia",
+        "link": "https://exame.com/pop/entenda-a-polemica-por-tras-dos-shows-de-kanye-west-na-russia/",
+        "summary": "Rapper se apresentará em São Petersburgo em outubro; mais de 100 mil ingressos já foram vendidos, segundo organizadores",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +317,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil juntou China e Estados Unidos para construir infraestrutura de IA no Rio Grande do Norte",
-        "link": "https://exame.com/inteligencia-artificial/brasil-juntou-china-e-estados-unidos-para-construir-infraestrutura-de-ia-no-rio-grande-do-norte/",
-        "summary": "Investimento de R$ 2,5 bilhões combina fornecedor americano, cooperação chinesa e chip nacional em três frentes paralelas; primeira máquina, de R$ 1,06 bilhão, sai de Macaíba com 7.200 petaflops de capacidade",
+        "title": "Heineken leva pulseira inteligente do Coachella ao Rock in Rio",
+        "link": "https://exame.com/marketing/heineken-leva-pulseira-inteligente-do-coachella-ao-rock-in-rio/",
+        "summary": "The Clinker identifica afinidade musical entre fãs e ganha novas funções durante o festival; marca também terá experiências com música, sustentabilidade e ativações no MetrôRio",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +327,9 @@
         "cls": "startups"
       },
       {
-        "title": "‘Você é responsável pelo resultado’: gestor de risco bancário usa IA na prevenção a fraudes",
-        "link": "https://exame.com/carreira/voce-e-responsavel-pelo-resultado-gestor-de-risco-bancario-usa-ia-na-prevencao-a-fraudes/",
-        "summary": "O executivo relata como a tecnologia mudou sua rotina de compliance e defende comitês técnicos de IA nos conselhos",
+        "title": "Frete rodoviário cai 2,7% em julho com redução do preço do diesel",
+        "link": "https://exame.com/brasil/frete-rodoviario-cai-27-em-julho-com-reducao-do-preco-do-diesel/",
+        "summary": "Preço médio encerrou o mês em R$ 0,403 por tonelada/km; Norte foi a única região a registrar alta",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +337,9 @@
         "cls": "startups"
       },
       {
-        "title": "Dave Bautista substitui Ryan Hurst como Kratos em 'God of War'",
-        "link": "https://exame.com/pop/dave-bautista-substitui-ryan-hurst-como-kratos-em-god-of-war/",
-        "summary": "Astro de \"Guardiões da Galáxia\" será o novo intérprete do protagonista na adaptação dos jogos da PlayStation",
+        "title": "Plano da Estrela para dívida de R$ 109 milhões mira adultos nostálgicos e Shopee",
+        "link": "https://exame.com/invest/mercados/plano-da-estrela-para-divida-de-r-109-milhoes-mira-adultos-nostalgicos-e-shopee/",
+        "summary": "Fabricante de brinquedos quer explorar o mercado kidult e fortalecer vendas digitais em plataformas como Shopee, Amazon e Mercado Livre e para recuperar caixa",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +347,9 @@
         "cls": "startups"
       },
       {
-        "title": "Paraná Pesquisas: Zucco tem 34,4% e Juliana Brizola, 31,4%, no 1º turno no Rio Grande do Sul",
-        "link": "https://exame.com/brasil/parana-pesquisas-zucco-tem-344-e-juliana-brizola-314-no-1o-turno-no-rio-grande-do-sul/",
-        "summary": "Levantamento aponta empate técnico no limite da margem de erro, enquanto governo atual divide opiniões",
+        "title": "Tudo sobre a nova série da HBO que investiga mistérios na Amazônia",
+        "link": "https://exame.com/pop/tudo-sobre-a-nova-serie-da-hbo-que-investiga-misterios-na-amazonia/",
+        "summary": "'Morte e Mistério na Amazônia' revisita expedições, desaparecimentos e teorias envolvendo a suposta cidade perdida de Akakor",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +357,9 @@
         "cls": "startups"
       },
       {
-        "title": "QI Tech abre escritório em Xangai e quer levar tecnologia brasileira para a China",
-        "link": "https://exame.com/negocios/qi-tech-abre-escritorio-em-xangai-e-quer-levar-tecnologia-brasileira-para-a-china/",
-        "summary": "Empresa de infraestrutura financeira já atende grupos chineses no Brasil e agora mira serviços de antifraude e crédito no mercado local",
+        "title": "Missão da Nasa para salvar telescópio espacial fracassa após falha de espaçonave",
+        "link": "https://exame.com/ciencia/missao-da-nasa-para-salvar-telescopio-espacial-fracassa-apos-falha-de-espaconave/",
+        "summary": "Veículo desenvolvido para elevar a órbita do Swift perdeu o controle logo após o lançamento, encerrando uma tentativa inédita de prolongar a vida útil do observatório",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
