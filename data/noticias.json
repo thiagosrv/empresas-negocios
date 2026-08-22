@@ -1,17 +1,7 @@
 {
-  "updated": "2026-08-22T22:25:56.855Z",
+  "updated": "2026-08-22T23:24:18.307Z",
   "feeds": {
     "campinas": [
-      {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-        "date": "22 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
       {
         "title": "Vencedora de leilão é desclassificada e arrematação de terreno do Exército em Valinhos é anulada",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/vencedora-leilao-desclassificada-arrematacao-terreno-exercito-valinhos-anulada.ghtml",
@@ -57,6 +47,16 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/muro-de-duas-casas-desaba-apos-obra-no-bairro-taquaral-em-campinas.ghtml",
         "summary": "Muro de duas casas desabam após obra no bairro Taquaral, em Campinas Imagens cedidas O muro de duas casas desabou após uma obra, na manhã deste sábado (22), na Avenida Doutor Heitor Penteado, no bairro Taquaral, em Campi",
         "image": "https://s2-g1.glbimg.com/YaGv3gsA7qKeAy2xhQlKot_DaEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/oows7NSQmuB8BtnBFgDg/1200px-x-800px-19-.jpg",
+        "date": "22 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Caderneta atrasada? Região de Campinas tem 'Dia D' de vacinação neste sábado; veja locais",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/caderneta-atrasada-regiao-de-campinas-tem-dia-d-de-vacinacao-neste-sabado-veja-locais.ghtml",
+        "summary": "Profissional aplica vacina contra covid-19 em São Paulo Governo do Estado de SP As cidades da região de Campinas (SP) realizam neste sábado (22) o \"Dia D\" da Campanha Nacional de Multivacinação. A mobilização começa a pa",
+        "image": "https://s2-g1.glbimg.com/AI6Vnp2AHL14ia7Ij-bC5fzsnyo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/AzwVraT7iXhjUfTEe48g/governo-do-estado-9.9.21.jpg",
         "date": "22 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Peixe antes desprezado melhora renda de mulheres da pesca no Rio",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdli",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3 img src= https://cdn.jsdelivr.net/gh/sergiosdl",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Dalla Déa destaca evolução da Seleção Sub-15 em amistosos antes da Liga Evolução",
-        "link": "https://www.gazetaesportiva.com/times/brasil/dalla-dea-destaca-evolucao-da-selecao-sub-15-em-amistosos-antes-da-liga-evolucao/",
-        "summary": "Guilherme Dalla Déa destaca evolução da Seleção Brasileira Sub-15 após goleadas sobre o Uruguai e mira a Liga Evolução, em setembro. O post Dalla Déa destaca evolução da Seleção Sub-15 em amistosos antes da Liga Evolução",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-22_191736706.webp",
+        "title": "Cruzeiro x Flamengo: siga o tempo real do jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-x-flamengo-brasileirao-2026/",
+        "summary": "Cruzeiro e Flamengo se enfrentam neste sábado, às 20h30, no Mineirão, pela 24ª rodada do Campeonato Brasileiro. Acompanhe todos os lances da partida em tempo real. O post Cruzeiro x Flamengo: siga o tempo real do jogo pe",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQWxexfWMAA0DR4.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fluminense oficializa Marcão como técnico para sequência da temporada",
-        "link": "https://www.gazetaesportiva.com/times/fluminense/fluminense-oficializa-marcao-como-tecnico-para-sequencia-da-temporada/",
-        "summary": "O Fluminense tem um novo técnico para a sequência da temporada. Após a vitória de virada por 2 a 1 sobre o Remo na tarde deste sábado, o presidente do clube, Mattheus Montenegro, confirmou a permanência de Marcão como té",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55480023367_fe2afae1c9_o-1.webp",
+        "title": "Ponte Preta x Avaí: onde assistir ao jogo pela Série B do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ponte-preta-x-avai-onde-assistir-ao-jogo-pela-serie-b-do-brasileiro/",
+        "summary": "Ponte Preta x Avaí se enfrentam pela Série B do Campeonato Brasileiro em duelo direto contra o rebaixamento. Veja onde assistir e horário. O post Ponte Preta x Avaí: onde assistir ao jogo pela Série B do Brasileiro apare",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55478401313_d89fff65ec_o.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Uberlândia vence ABC e abre vantagem na semi da Série D",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-d/uberlandia-vence-abc-e-abre-vantagem-na-semi-da-serie-d/",
-        "summary": "O Uberlândia largou em vantagem nas semifinais da Série D do Campeonato Brasileiro ao bater o ABC por 1 a 0 neste sábado, no Estádio Parque do Sabiá, em Uberlândia (MG). Marcelo Calazans, de pênalti, marcou o gol da vitó",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55465208207_c3f584ac29_b.webp",
+        "title": "Chapecoense x São Paulo pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/chapecoense-x-sao-paulo-brasileirao-23-08-2026/",
+        "summary": "Veja tudo sobre o jogo entre Chapecoense e São Paulo hoje: onde assistir, estatísticas, arbitragem, escalações e histórico de confrontos. O post Chapecoense x São Paulo pelo Brasileirão: onde assistir ao vivo, estatístic",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55144696393_b010fde407_o.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Botafogo-PB vence Guarani, assume liderança e garante vaga no quadrangular da Série C",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/botafogo-pb-vence-guarani-assume-lideranca-e-garante-vaga-no-quadrangular-da-serie-c/",
-        "summary": "De virada, o Botafogo-PB venceu por 3 a 1 o Guarani na noite deste sábado, pela penúltima rodada da primeira fase da Série C do Campeonato Brasileiro. Lucas Cândido, Rodolfo e Nenê marcaram no Almeidão para colocar o clu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-22-at-19.02.19.webp",
+        "title": "Santos x Mirassol pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-mirassol-pelo-campeonato-brasileiro-veja-provaveis-escalacoes-e-onde-assistir/",
+        "summary": "Confira informações, onde assistir e as prováveis escalações do duelo entre Santos e Mirassol, pelo Brasileirão. O post Santos x Mirassol pelo Campeonato Brasileiro: veja prováveis escalações e onde assistir apareceu pri",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/03/55141376239_72f6975121_c.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Inter x Atlético-MG: confira fotos da partida pela 24ª rodada do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/inter-x-atletico-mg-confira-fotos-da-partida-pela-24a-rodada-do-brasileirao/",
-        "summary": "O post Inter x Atlético-MG: confira fotos da partida pela 24ª rodada do Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55481252951_7c201351d7_k.webp",
+        "title": "Vitória x Bahia pelo Brasileirão: onde assistir ao vivo, estatísticas, histórico e escalações",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/vitoria-x-bahia-pelo-brasileirao-onde-assistir-ao-vivo-estatisticas-historico-e-escalacoes/",
+        "summary": "Neste domingo Vitória e Bahia se enfrentam em mais um Ba-VI. As equipes duelam em clássico pela 24 rodada do Campeonato Brasileiro, na Arena da Baixada, a partir das 16h (de Brasília) Onde assistir Vitória x Bahia ao viv",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55144719316_a7ccde60de_o.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Fluminense 2 x 1 Remo pelo Campeonato Brasileiro",
-        "link": "https://www.gazetaesportiva.com/dugout/melhores-momentos-fluminense-2-x-1-remo-pelo-campeonato-brasileiro/",
-        "summary": "Após sair atrás no placar, o Fluminense buscou a vitória e superou o Remo por 2 a 1 na tarde deste sábado, pela 24ª rodada do Campeonato Brasileiro. Jajá abriu o placar pelos paraenses no Maracanã, enquanto Hulk e Serna ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55481127248_cea228c595_o.webp",
+        "title": "Criciúma x Fortaleza: onde assistir, horário e prováveis escalações pela Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-fortaleza-onde-assistir-escalacoes/",
+        "summary": "Criciúma e Fortaleza se enfrentam neste domingo, pela 24ª rodada da Série B do Campeonato Brasileiro, em um duelo direto entre equipes que brigam na parte de cima da tabela. Líder da competição com 44 pontos, o Criciúma ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/FOR-X-PAL-6-2048x1365-1.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Corinthians multa Memphis Depay por imagens do Parque São Jorge em chamas",
+        "link": "https://www.infomoney.com.br/esportes/corinthians-multa-memphis-depay-por-imagens-do-parque-sao-jorge-em-chamas/",
+        "summary": "O episódio ganhou ainda mais relevância pelo momento vivido pelo Corinthians, com protestos da torcida ao longo da semana The post Corinthians multa Memphis Depay por imagens do Parque São Jorge em chamas appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-20.03.52.jpeg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Premiê do Canadá e autoridades locais discutem suspensão do comércio com os EUA",
+        "link": "https://www.infomoney.com.br/mundo/premie-do-canada-e-autoridades-locais-discutem-suspensao-do-comercio-com-os-eua/",
+        "summary": "Mark Carney detalhou os próximos passos para proteger os interesses canadenses, incluindo tarifas retaliatórias na mesma proporção The post Premiê do Canadá e autoridades locais discutem suspensão do comércio com os EUA ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-20T155459Z_1083991834_RC235JAMDW7H_RTRMADP_3_DAVOS-MEETING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Engenharia social responde por 40% das fraudes financeiras no Brasil",
+        "link": "https://www.infomoney.com.br/minhas-financas/engenharia-social-responde-por-40-das-fraudes-financeiras-no-brasil/",
+        "summary": "Golpistas usam falsos call centers e operações policiais para enganar The post Engenharia social responde por 40% das fraudes financeiras no Brasil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/engenharia-social-Freepik.png?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tchau, Häagen-Dazs: distribuição dos sorvetes da marca é encerrada no Brasil",
+        "link": "https://www.infomoney.com.br/business/tchau-haagen-dazs-distribuicao-do-sorvete-e-encerrada-no-brasil/",
+        "summary": "A companhia atribuiu a decisão à reformulação de portfólio anunciada em março – quando comunicou a venda da sua operação brasileira para a 3corações The post Tchau, Häagen-Dazs: distribuição dos sorvetes da marca é encer",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorvete.png?fit=300%2C112&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Profunda desconfiança sobre líderes da Boeing continua, diz sindicato",
         "link": "https://www.infomoney.com.br/business/profunda-desconfianca-sobre-lideres-da-boeing-continua-diz-sindicato/",
         "summary": "A desconfiança, segundo os funcionários, é causada pela transferência de empregos para outros estados dos EUA ou terceirizados no exterior, priorização da velocidade em detrimento de qualidade, decisões de engenharia ign",
@@ -321,46 +361,6 @@
         "link": "https://www.infomoney.com.br/esportes/cruzeiro-flamengo-onde-assistir-brasileirao/",
         "summary": "Os times voltam à campo após a disputa na Libertadores The post Cruzeiro x Flamengo: Onde assistir ao Brasileirão? appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-cruzeiro-x-flamengo-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Terremoto de magnitude 5,9 sacode leste do Japão; não há alerta de tsunami",
-        "link": "https://www.infomoney.com.br/mundo/terremoto-de-magnitude-59-sacode-leste-do-japao-nao-ha-alerta-de-tsunami/",
-        "summary": "A TV pública NHK mostrou o tráfego nas estradas em cidades próximas, incluindo Mito e Saitama, aparentemente normal The post Terremoto de magnitude 5,9 sacode leste do Japão; não há alerta de tsunami appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Mapa-do-tremor-japao-usgs.png?fit=300%2C160&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Zelenski diz que acertou com Macron aceleração de entrega de mísseis franceses",
-        "link": "https://www.infomoney.com.br/mundo/zelenski-diz-que-acertou-com-macron-aceleracao-de-entrega-de-misseis-franceses/",
-        "summary": "Confirmação foi feita na rede social X The post Zelenski diz que acertou com Macron aceleração de entrega de mísseis franceses appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-22T151645Z_1_LYNXMPEM0L11G_RTROPTP_4_DAVOS-MEETING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores",
-        "link": "https://www.infomoney.com.br/onde-investir/pedro-jobim-recessao-perdas-ineditas-investimentos/",
-        "summary": "Economista-chefe e sócio-fundador da Legacy Capital afirma que o ciclo de endividamento atual se apoiou no mercado de capitais, e não no crédito bancário, o que jogaria eventuais calotes direto na carteira do investidor ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/FAB_1991.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra",
-        "link": "https://www.infomoney.com.br/politica/lula-volta-a-prometer-retomada-da-industria-da-defesa-mas-diz-nao-querer-guerra/",
-        "summary": "\"Queremos respeito e para ter respeito, as pessoas têm de saber que estamos preparados\", disse em ato de campanha no Rio The post Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T171729Z_1611593833_RC2R3NARG4Z0_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
