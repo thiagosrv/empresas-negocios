@@ -1,40 +1,7 @@
 {
-  "updated": "2026-08-22T17:35:11.629Z",
+  "updated": "2026-08-22T18:48:20.039Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Flick revela que Rodri não estará disponível para a estreia no Campeonato Espanhol",
-      "link": "https://www.gazetaesportiva.com/times/barcelona/rodri-nao-estreia-barcelona-elche/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "22 de ago. de 2026",
-      "isoDate": "2026-08-22",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "João Pedro renova contrato com o Chelsea; veja detalhes",
-      "link": "https://www.gazetaesportiva.com/times/chelsea/joao-pedro-renova-chelsea-2034/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "22 de ago. de 2026",
-      "isoDate": "2026-08-22",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/270d.png"
-    },
-    {
-      "title": "Arteta destaca a boa condição física de Bruno Guimarães e celebra a chegada de Konsa",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/arteta-destaca-a-boa-condicao-fisica-de-bruno-guimaraes-e-celebra-a-chegada-de-konsa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "22 de ago. de 2026",
-      "isoDate": "2026-08-22",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
     {
       "title": "Ferran e Doué se enfrentam em desafio de finalizações antes da estreia na Ligue 1",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/ferran-e-doue-se-enfrentam-em-desafio-de-finalizacoes-antes-da-estreia-na-ligue-1/",
@@ -44,7 +11,7 @@
       "isoDate": "2026-08-22",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Juventus treina com os novos reforços Vicario e Lucumí",
@@ -55,7 +22,7 @@
       "isoDate": "2026-08-22",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Os 10 melhores gols do Inter na rodada de abertura",
@@ -66,7 +33,7 @@
       "isoDate": "2026-08-22",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja fotos de Inter de Milão x Monza pelo Campeonato Italiano 2026/27",
@@ -77,11 +44,44 @@
       "isoDate": "2026-08-22",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja fotos de Brentford x Tottenham pelo Campeonato Inglês 2026/27",
       "link": "https://www.gazetaesportiva.com/times/tottenham/veja-fotos-de-brentford-x-tottenham-pelo-campeonato-ingles-2026-27/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "22 de ago. de 2026",
+      "isoDate": "2026-08-22",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: Al Fateh 0 x 1 Al Ettifaq pela pela Liga Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-fateh-0-x-1-al-ettifaq-pela-pela-liga-saudita/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "22 de ago. de 2026",
+      "isoDate": "2026-08-22",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Atual campeã, Inter goleia o Monza na estreia do Campeonato Italiano",
+      "link": "https://www.gazetaesportiva.com/times/internazionale/atual-campea-inter-goleia-o-monza-na-estreia-do-campeonato-italiano/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "22 de ago. de 2026",
+      "isoDate": "2026-08-22",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Melhores momentos: Al-Kholood 3 x 2 Al Taawoun pela Liga Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-kholood-3-x-2-al-taawoun-pela-liga-saudita/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "22 de ago. de 2026",
