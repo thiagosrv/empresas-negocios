@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:34:33.857Z",
+  "updated": "2026-08-22T14:25:24.741Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Fim de semana terá tempo seco no Centro-Oeste e frio intenso no Sul",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fim-de-semana-tera-tempo-seco-no-centro-oeste-e-frio-intenso-no-sul",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/fim-de-semana-tera-tempo-seco-no-centro-oeste-e-frio-intenso-no-sul img src= https://cdn.jsdelivr.net/gh/sergios",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Focus Cia de Dança representa o Brasil em festival na China",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/focus-cia-de-danca-representa-o-brasil-em-festival-na-china",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/focus-cia-de-danca-representa-o-brasil-em-festival-na-china img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
@@ -161,29 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Veja como foi a sexta-feira (21) dos candidatos a presidente",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-sexta-feira-21-dos-candidatos-presidente",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-sexta-feira-21-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quatro envolvidos na morte de ciclista espancado no RJ estão presos",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/quatro-envolvidos-na-morte-de-ciclista-espancado-no-rj-estao-presos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/quatro-envolvidos-na-morte-de-ciclista-espancado-no-rj-estao-presos img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Flick revela que Rodri não estará disponível para a estreia no Campeonato Espanhol",
+        "link": "https://www.gazetaesportiva.com/times/barcelona/rodri-nao-estreia-barcelona-elche/",
+        "summary": "O técnico Hansi Flick confirmou que Rodri não fará sua estreia pelo Barcelona neste domingo, contra o Elche, pela primeira rodada de LaLiga. Contratado junto ao Manchester City, o volante espanhol deve estar à disposição",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260818__C4XV4QB__v1__HighRes__FblEspEngLigaBarcelona.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Manchester United é surpreendido pelo Hull City e perde na estreia do Campeonato Inglês",
         "link": "https://www.gazetaesportiva.com/times/manchester-united/hull-city-x-manchester-united-premier-league/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/motor/formula-1/george-russell-vence-sprint-gp-da-holanda/",
         "summary": "George Russell confirmou a pole position e venceu neste sábado a corrida sprint do GP da Holanda de Fórmula 1, em Zandvoort. O piloto da Mercedes liderou de ponta a ponta e terminou à frente de Charles Leclerc, da Ferrar",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6A48GA__v1__HighRes__AutoPrixF1Ned.webp",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Dupla agrada Dorival e emenda primeira sequência como titular no São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dupla-de-reforcos-agrada-dorival-e-emenda-primeira-sequencia-como-titular-no-sao-paulo/",
-        "summary": "Domingos Duarte e Newton caíram nas graças da torcida e da comissão técnica nos primeiros jogos com a camisa do São Paulo. O post Dupla agrada Dorival e emenda primeira sequência como titular no São Paulo apareceu primei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55473874620_2a9e7f0db2_o.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Trump nega ter pressionado Bessent a intervir no mercado de títulos dos EUA",
+        "link": "https://www.infomoney.com.br/mercados/trump-nega-ter-pressionado-bessent-a-intervir-no-mercado-de-titulos-dos-eua/",
+        "summary": "Presidente afirma que o secretário do Tesouro agiu por conta própria ao ampliar as recompras de títulos longos, em semana marcada por juros nas máximas de vários anos The post Trump nega ter pressionado Bessent a intervi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-27T081036Z_1388901918_RC28KHAMWKC5_RTRMADP_3_USA-TRUMP-JAPAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Manutenção de crédito ao endividado impede piora da inadimplência, dizem economistas",
+        "link": "https://www.infomoney.com.br/economia/manutencao-de-credito-ao-endividado-impede-piora-da-inadimplencia-dizem-economistas/",
+        "summary": "\"Acreditamos que, se a gente parar de dar crédito, esses números pioram. A inadimplência vai piorar\", afirmou economista do PicPay The post Manutenção de crédito ao endividado impede piora da inadimplência, dizem economi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Colunistas-IM-2.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Nunca vi tão intenso : Cientistas voltam a alertar para El Niño sem precedentes",
         "link": "https://www.infomoney.com.br/mundo/nunca-vi-tao-intenso-cientistas-voltam-a-alertar-para-el-nino-sem-precedentes/",
         "summary": "Anomalia projetada supera qualquer registro desde 1950 e deve ampliar risco de seca no Norte e Nordeste do Brasil, com chuva acima da média no Sul The post Nunca vi tão intenso : Cientistas voltam a alertar para El Niño ",
@@ -347,29 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Quem é a Avibras, empresa de defesa que pode ser comprada pelos irmãos Batista",
-        "link": "https://www.infomoney.com.br/business/quem-e-a-avibras-empresa-de-defesa-que-pode-ser-comprada-pelos-irmaos-batista/",
-        "summary": "Criada há mais de 60 anos por engenheiros do ITA, fabricante brasileira de equipamentos militares já passou por tentativas frustradas de venda The post Quem é a Avibras, empresa de defesa que pode ser comprada pelos irmã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/avibras.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Irã diz que o mundo aceitou sua vitória sobre EUA e promete resposta a novas ameaças",
-        "link": "https://www.infomoney.com.br/mundo/ira-diz-que-o-mundo-aceitou-sua-vitoria-sobre-eua-e-promete-resposta-a-novas-ameacas/",
-        "summary": "O secretário do Tesouro dos EUA, Scott Bessent, disse que detalhará na próxima segunda-feira, 24, as medidas econômicas mais duras já impostas contra Teerã The post Irã diz que o mundo aceitou sua vitória sobre EUA e pro",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/sina-drakhshani-b5fUPypDU2E-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Em choque com Rubio, Lula vê Trump como possível aliado, diz FT",
-        "link": "https://exame.com/brasil/em-choque-com-rubio-lula-ve-trump-como-possivel-aliado-diz-ft/",
-        "summary": "Presidente brasileiro intensificou críticas ao secretário de Estado dos EUA, enquanto mantém canal direto com Donald Trump",
+        "title": "INSS muda regra para empréstimo consignado; veja quem será afetado",
+        "link": "https://exame.com/invest/minhas-financas/inss-muda-regra-para-emprestimo-consignado-veja-quem-sera-afetado/",
+        "summary": "Regra mudou três meses após a biometria se tornar obrigatória",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo",
-        "link": "https://exame.com/ciencia/ozempic-generico-novo-medicamento-de-semaglutida-tem-resultado-promissor-em-estudo/",
-        "summary": "Novo concorrente de Ozempic avança em estudo e ações disparam",
+        "title": "Dia D da vacinação acontece neste sábado; veja quem pode se vacinar",
+        "link": "https://exame.com/brasil/dia-d-da-vacinacao-acontece-neste-sabado-veja-quem-pode-se-vacinar/",
+        "summary": "Campanha oferece vacinas contra mais de 20 doenças para crianças e adolescentes de até 14 anos; ação segue até 1º de setembro",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Pesquisas da semana mostram Lula à frente no 1º turno e empate técnico com Flávio no 2º turno",
-        "link": "https://exame.com/brasil/pesquisas-da-semana-mostram-lula-a-frente-no-1o-turno-e-empate-tecnico-com-flavio-no-2o-turno/",
-        "summary": "Levantamentos divulgados após início oficial da campanha mostram presidente à frente no primeiro turno, mas disputa com Flávio Bolsonaro fica apertada nas simulações de segundo turno",
+        "title": "Pakalolo: o que aconteceu com a marca que abria uma loja por semana e vendia 1 milhão de camisetas",
+        "link": "https://exame.com/negocios/pakalolo-o-que-aconteceu-com-a-marca-que-abria-uma-loja-por-semana-e-vendia-1-milhao-de-camisetas/",
+        "summary": "Fenômeno da moda jovem dos anos 90, a marca de cores berrantes e mochilas coloridas cresceu em ritmo vertiginoso e vestiu uma geração inteira de adolescentes",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Imóveis de luxo em SP chegam a R$ 90 mil o metro quadrado após valorização de 181%",
-        "link": "https://exame.com/mercado-imobiliario/imoveis-de-luxo-em-sp-chegam-a-r-90-mil-o-metro-quadrado-apos-valorizacao-de-181/",
-        "summary": "Levantamento da MBRAS mostra avanço de projetos com terrenos raros, vista verde permanente e baixa densidade nos bairros mais valorizados da capital",
+        "title": "Ray Dalio diz para comprar bitcoin em meio a possível crise da dívida dos EUA",
+        "link": "https://exame.com/future-of-money/ray-dalio-diz-para-comprar-um-pouco-de-bitcoin-em-meio-a-uma-potencial-crise-da-divida/",
+        "summary": "Seus comentários ecoaram os de julho de 2025, quando disse que possuía algum bitcoin",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "A expressão proibida no mundo do uísque",
-        "link": "https://exame.com/casual/a-expressao-proibida-do-mundo-do-uisque/",
-        "summary": "Nomeclatura vetada em 2022 tem uma das histórias mais curiosas do mundo do Scotch Whisky",
+        "title": "Justiça equipara cartas de Pokémon e Magic a livros e isenta colecionador de impostos",
+        "link": "https://exame.com/invest/minhas-financas/justica-equipara-cartas-de-pokemon-e-magic-a-livros-e-isenta-colecionador-de-impostos/",
+        "summary": "Decisão do TRF-1 equipara cartas a materiais de difusão cultural e afasta cobrança de impostos",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Os melhores gadgets de até R$ 300 que testamos: pequenos upgrades que mudam o home office",
-        "link": "https://exame.com/tecnologia/examelab/os-melhores-gadgets-de-ate-r-300-que-testamos-pequenos-upgrades-que-mudam-o-home-office/",
-        "summary": "Seleção reúne acessórios compactos que melhoram o conforto e a qualidade das reuniões no trabalho remoto sem exigir grande investimento",
+        "title": "Beats: como nasce o sabor que promete ser o hit do verão",
+        "link": "https://exame.com/marketing/beats-como-nasce-o-sabor-que-promete-ser-o-hit-do-verao/",
+        "summary": "EXAME acompanhou a escolha final da nova versão da bebida, na sede da Ambev em São Paulo, ao lado de Anitta e Daniela Cachich",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
