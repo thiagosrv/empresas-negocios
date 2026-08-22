@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21T23:27:37.812Z",
+  "updated": "2026-08-22T01:25:44.909Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem é preso após arrastar policial pela janela do carro ao fugir de abordagem em Americana",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/homem-e-preso-apos-arrastar-policial-pela-janela-do-carro-ao-fugir-de-abordagem-em-americana.ghtml",
+        "summary": "Prédio da Polícia Civil em Americana (SP) Reprodução/EPTV Um homem de 71 anos foi preso em flagrante na tarde desta quinta-feira (21) após arrastar um policial pela janela do carro ao fugir de uma abordagem na Avenida Ni",
+        "image": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg",
+        "date": "21 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Campinas supera marca de 2 mil câmeras privadas integradas ao monitoramento municipal de segurança pública",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/campinas-supera-marca-de-2-mil-cameras-privadas-integradas-ao-monitoramento-municipal-de-seguranca-publica.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/forca-tarefa-interdita-comercios-e-apreende-caca-niqueis-e-bebidas-no-itatinga-em-campinas.ghtml",
         "summary": "Força-tarefa apreende caça-níqueis e bebidas no Itatinga, em Campinas Uma força-tarefa com agentes de segurança e fiscalização fechou 16 comércios durante uma operação no Jardim Itatinga, em Campinas, na tarde de quinta-",
         "image": "https://s2-g1.glbimg.com/w3v_rzSEN_CAebTAM7XCEnhoHi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/n/WdnzkbThSQ5PErVjyqGQ/apreensao.jpg",
-        "date": "21 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Motociclista tenta fugir da Guarda na contramão, bate em viatura e acaba detido em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/motociclista-tenta-fugir-da-guarda-na-contramao-bate-em-viatura-e-acaba-detido-em-americana.ghtml",
-        "summary": "Motociclista tenta fugir da Guarda na contramão, bate em viatura e é detido em Americana Guarda Municipal de Americana Um motociclista de 49 anos foi detido após tentar fugir de uma abordagem da Guarda Municipal na madru",
-        "image": "https://s2-g1.glbimg.com/QhuecDLAas1DhDcxezpGIr7tqbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/7tljeyTPusVliAY5CH3w/fuga-gcm.png",
         "date": "21 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-envia-pec-do-fim-da-escala-6x1-para-ccj-do-senado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-envia-pec-do-fim-da-escala-6x1-para-ccj-do-senado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ministros do Brasil e EUA vão retomar negociação comercial",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Rafael Matos e Orlando Luz vão à semi de duplas do ATP de Cincinnati",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rafael-matos-e-orlando-luz-vao-semi-de-duplas-do-atp-de-cincinnati",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rafael-matos-e-orlando-luz-vao-semi-de-duplas-do-atp-de-cincinnati img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -161,29 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Brasileiro Feminino: 6 times lutam no sábado para avançar às quartas",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-6-times-lutam-no-sabado-para-avancar-quartas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-6-times-lutam-no-sabado-para-avancar-quartas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mais de 3 milhões com benefícios federais são bloqueados em bets",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/mais-de-3-milhoes-com-beneficios-federais-sao-bloqueados-em-bets",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/mais-de-3-milhoes-com-beneficios-federais-sao-bloqueados-em-bets img src= https://cdn.jsdelivr.net/gh/sergios",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Novo clipe de Memphis tem sede do Corinthians em chamas e indireta a vice",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/novo-clipe-de-memphis-tem-sede-do-corinthians-em-chamas-e-indireta-a-vice/",
+        "summary": "Memphis Depay voltou a gerar repercussão fora dos gramados ao lançar a música \"Don't Panic\", que traz referências ao Corinthians, críticas ao período de negociação para renovar seu contrato e imagens do Parque São Jorge ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-21-204346.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Ajax faz proposta por Tetê, mas São Paulo faz jogo duro; saiba detalhes",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/ajax-proposta-tete-sao-paulo/",
+        "summary": "O São Paulo não está interessado em negociar o jogador de 19 anos por empréstimo. A situação pode mudar em caso de uma proposta de compra. O post Ajax faz proposta por Tetê, mas São Paulo faz jogo duro; saiba detalhes ap",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55468525160_8e5d2bad4a_k.webp",
+        "date": "21 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Cuiabá x Goiás: veja onde assistir e prováveis escalações do jogo pela Série B",
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/cuiaba-x-goias-onde-assistir-serie-b-2026-2/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/manchester-united/hull-city-x-manchester-united-pelo-ingles-horario-onde-assistir-e-provaveis-escalacoes/",
         "summary": "Hull City x Manchester United se enfrentam pela 1ª rodada do Campeonato Inglês. Veja onde assistir, horário, prováveis escalações e arbitragem. O post Hull City x Manchester United pelo Inglês: horário, onde assistir e p",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260815__C4QR8GU__v1__HighRes__FblFriendlyManUtdAcMilan.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Ceará x Londrina: onde assistir, horário e prováveis escalações pela Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-x-londrina-onde-assistir-escalacoes/",
-        "summary": "Ceará e Londrina se enfrentam neste sábado, na Arena Castelão, pela 23ª rodada da Série B do Campeonato Brasileiro. As duas equipes vivem situação complicada na competição: o Ceará ocupa a última colocação, com 17 pontos",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_5942.webp",
-        "date": "21 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Internacional x Atlético-MG pelo Brasileirão: veja prováveis escalações e onde assistir",
-        "link": "https://www.gazetaesportiva.com/times/internacional/internacional-x-atletico-mg-onde-assistir-escalacoes/",
-        "summary": "Internacional e Atlético-MG se enfrentam neste sábado, no Beira-Rio, pela 24ª rodada do Campeonato Brasileiro. O Colorado busca encerrar uma sequência de oito jogos sem vencer na competição e se afastar da zona de rebaix",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471448975_74f910bf2b_o.webp",
         "date": "21 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Datafolha: 2º turno, Lula vence Caiado por 47% a 40%, Zema por 48% a 38%",
+        "link": "https://www.infomoney.com.br/politica/datafolha-2o-turno-lula-vence-caiado-por-47-a-40-zema-por-48-a-38/",
+        "summary": "Lula também derrota Renan por 47% a 37% em um possível 2º turno The post Datafolha: 2º turno, Lula vence Caiado por 47% a 40%, Zema por 48% a 38% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T165330Z_1130482176_RC23TMAJYCSL_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil hoje, concurso 3768: Confira o resultado sorteado nesta sexta-feira (21)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3768-confira-o-resultado-sorteado-nesta-sexta-feira-21/",
+        "summary": "O prêmio estimado para este concurso era de cerca de R$ 2 milhões The post Lotofácil hoje, concurso 3768: Confira o resultado sorteado nesta sexta-feira (21) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7098: Confira o resultado sorteado nesta sexta-feira (21)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7098-confira-o-resultado-sorteado-nesta-sexta-feira-21/",
+        "summary": "Prêmio estimado para este concurso era de cerca de R$ 16 milhões The post Quina hoje, concurso 7098: Confira o resultado sorteado nesta sexta-feira (21) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "“Efeito Teflon”? Lula resiste nas pesquisas após notícias sobre Lulinha e Marcola",
         "link": "https://www.infomoney.com.br/politica/efeito-teflon-lula-resiste-nas-pesquisas-apos-noticias-sobre-lulinha-e-marcola/",
         "summary": "Analistas apontam que a polarização e o eleitorado consolidado reduzem efeito imediato das denúncias The post “Efeito Teflon”? Lula resiste nas pesquisas após notícias sobre Lulinha e Marcola appeared first on InfoMoney.",
@@ -337,34 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Datafolha: Marina e Tebet têm 12% e André do Prado, 10%, na disputa ao Senado por SP",
-        "link": "https://www.infomoney.com.br/politica/datafolha-marina-e-tebet-tem-12-e-andre-do-prado-10-na-disputa-ao-senado-por-sp/",
-        "summary": "Pesquisa mostra empate técnico entre os três primeiros colocados e elevado número de eleitores ainda sem definição sobre os dois votos The post Datafolha: Marina e Tebet têm 12% e André do Prado, 10%, na disputa ao Senad",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/senado-sp-1.png?fit=300%2C150&amp;quality=70&amp;strip=all",
+        "title": "Eleições 2026: quem são os candidatos ao governo do Pará?",
+        "link": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-do-para/",
+        "summary": "Veja quem são os candidatos ao governo do Pará nas eleições de 2026, as principais propostas das campanhas e o que aponta a pesquisa mais recente sobre um possível segundo turno.",
+        "image": null,
         "date": "21 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Planalto emplaca aliados nas relatorias do fim da escala 6 1 e PEC da Segurança",
-        "link": "https://www.infomoney.com.br/politica/planalto-emplaca-aliados-nas-relatorias-do-fim-da-escala-6x1-e-pec-da-seguranca/",
-        "summary": "Omar Aziz, do PSD, vai relatar mudança na jornada de trabalho, e Rogério Carvalho, do PT, será responsável pela outra proposta The post Planalto emplaca aliados nas relatorias do fim da escala 6 1 e PEC da Segurança appe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Lula-Alcolumbre-960x540.jpg.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Câmara de Comércio França-Brasil cria comissão para impulsionar cooperação em minerais críticos",
+        "link": "https://exame.com/esferabrasil/camara-de-comercio-franca-brasil-cria-comissao-para-impulsionar-cooperacao-em-minerais-criticos/",
+        "summary": "A expectativa é de que a comissão se torne uma plataforma permanente de cooperação entre os dois países e, depois, amplie sua atuação para outros países da América Latina",
+        "image": null,
         "date": "21 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Jota Quest é associado a caso de Viih Tube; banda pode cancelar show de casamento?",
-        "link": "https://www.infomoney.com.br/consumo/viih-tube-show-cancelado-casamento/",
-        "summary": "Influenciadora disse que grupo desistiu a poucos dias da cerimônia The post Jota Quest é associado a caso de Viih Tube; banda pode cancelar show de casamento? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Viih-Tube.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "title": "Estrela mais rápida da Via Láctea atinge 25 mil km/s ao redor de buraco negro",
+        "link": "https://exame.com/ciencia/estrela-mais-rapida-da-via-lactea-atinge-25-mil-km-s-ao-redor-de-buraco-negro/",
+        "summary": "Descoberta pode permitir, pela primeira vez, medir diretamente a rotação de Sagitário A* e testar previsões da teoria de Einstein",
+        "image": null,
         "date": "21 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Quais filmes estão em alta no Brasil? Veja o ranking da semana no cinema e nos streamings",
+        "link": "https://exame.com/pop/quais-filmes-estao-em-alta-no-brasil-veja-o-ranking-da-semana-no-cinema-e-nos-streamings/",
+        "summary": "Rankings da semana mostram quais filmes estão atraindo o público brasileiro nos cinemas e nos principais serviços de streaming",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "IA pode prever a resposta imunológica à vacina antes da aplicação",
@@ -380,46 +420,6 @@
         "title": "Pegadas descobertas no Brasil podem revelar o maior mamífero da era dos dinossauros",
         "link": "https://exame.com/ciencia/pegadas-descobertas-no-brasil-podem-revelar-o-maior-mamifero-da-era-dos-dinossauros/",
         "summary": "Marcas fossilizadas de cerca de 130 milhões de anos indicam um animal do tamanho de um cachorro grande, muito acima do esperado para os mamíferos do período",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Verstappen revela que esteve mais perto de se aposentar do que de trocar de equipe na F1",
-        "link": "https://exame.com/esporte/verstappen-revela-que-esteve-mais-perto-de-se-aposentar-do-que-de-trocar-de-equipe-na-f1/",
-        "summary": "Piloto da Red Bull admite que chegou a questionar permanência na categoria após as mudanças nas regras para 2026",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Em conversa, Trump pergunta sobre eleição a Lula e presidentes evitam temas polêmicos",
-        "link": "https://exame.com/brasil/em-conversa-trump-pergunta-sobre-eleicao-a-lula-e-presidentes-evitam-temas-polemicos/",
-        "summary": "Presidente americano questionou de forma breve como está o andamento da eleição brasileira; segundo relato, tema não avançou e conversa se concentrou em comércio, crime organizado e conflitos internacionais",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eleições 2026: Raquel Lyra abre vantagem sobre João Campos na disputa por Pernambuco, diz Datafolha",
-        "link": "https://exame.com/brasil/eleicoes-2026-raquel-lyra-abre-vantagem-sobre-joao-campos-na-disputa-por-pernambuco-diz-datafolha/",
-        "summary": "Lyra tem 47% das intenções de voto, contra 40% de Campos, uma diferença que supera a margem de erro da pesquisa",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eleições 2026: Paes tem 41% dos votos, contra 19% de Ruas para o governo do Rio, diz Datafolha",
-        "link": "https://exame.com/brasil/eleicoes-2026-paes-tem-41-dos-votos-contra-19-de-ruas-para-o-governo-do-rio-diz-datafolha/",
-        "summary": "Esta é a primeira pesquisa do Datafolha sobre a eleição para o governo do Rio de Janeiro",
         "image": null,
         "date": "21 de ago. de 2026",
         "source": "Exame",
