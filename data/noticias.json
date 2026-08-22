@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-22T12:46:34.580Z",
+  "updated": "2026-08-22T13:34:33.857Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Muro de duas casas desaba após obra no bairro Taquaral, em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/muro-de-duas-casas-desaba-apos-obra-no-bairro-taquaral-em-campinas.ghtml",
+        "summary": "Muro de duas casas desabam após obra no bairro Taquaral, em Campinas Imagens cedidas O muro de duas casas desabou após uma obra na manhã deste sábado (22), na Avenida Doutor Heitor Penteado, no bairro Taquaral, em Campin",
+        "image": "https://s2-g1.glbimg.com/YaGv3gsA7qKeAy2xhQlKot_DaEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/oows7NSQmuB8BtnBFgDg/1200px-x-800px-19-.jpg",
+        "date": "22 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Caderneta atrasada? Região de Campinas tem 'Dia D' de vacinação neste sábado; veja locais",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/caderneta-atrasada-regiao-de-campinas-tem-dia-d-de-vacinacao-neste-sabado-veja-locais.ghtml",
@@ -48,16 +58,6 @@
         "summary": "Pesquisador da Unicamp cria personagem idosa para analisar músicas de Sandy Liberdade, autonomia, crescimento pessoal e a busca pela própria identidade estão entre os temas discutidos em um artigo científico da Unicamp q",
         "image": "https://s2-g1.glbimg.com/vX9Rtm5vun9tteh0_kgUZDBpVRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/WnlIawTCmhAzY7tXZ8Mw/sandy-1-.png",
         "date": "22 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Homem é preso após arrastar policial pela janela do carro ao fugir de abordagem em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/homem-e-preso-apos-arrastar-policial-pela-janela-do-carro-ao-fugir-de-abordagem-em-americana.ghtml",
-        "summary": "Prédio da Polícia Civil em Americana (SP) Reprodução/EPTV Um homem de 71 anos foi preso em flagrante na tarde desta quinta-feira (21) após arrastar um policial pela janela do carro ao fugir de uma abordagem na Avenida Ni",
-        "image": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg",
-        "date": "21 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja a agenda dos candidatos à Presidência neste fim de semana",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Cabeças Cortadas , de Glauber Rocha, ganhará versão restaurada em 4k",
         "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cabecas-cortadas-de-glauber-rocha-voltara-em-versao-restaurada",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cabecas-cortadas-de-glauber-rocha-voltara-em-versao-restaurada img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
@@ -161,29 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-envia-pec-do-fim-da-escala-6x1-para-ccj-do-senado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-envia-pec-do-fim-da-escala-6x1-para-ccj-do-senado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ministros do Brasil e EUA vão retomar negociação comercial",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Manchester United é surpreendido pelo Hull City e perde na estreia do Campeonato Inglês",
+        "link": "https://www.gazetaesportiva.com/times/manchester-united/hull-city-x-manchester-united-premier-league/",
+        "summary": "O Manchester United começou a temporada da Premier League com derrota. Neste sábado, os Red Devils foram superados por 2 a 0 pelo Hull City, recém-promovido à elite inglesa, no MKM Stadium. Semi Ajayi e Nobel Mendy marca",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6A68NH__v1__HighRes__FblEngPrHullManUtd.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Confronto entre torcidas em jogo da Copa da Alemanha deixa 85 feridos",
+        "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/waldhof-mannheim-kaiserslautern-confusao-copa-da-alemanha/",
+        "summary": "A partida entre Waldhof Mannheim e Kaiserslautern, pela fase de 32 avos de final da Copa da Alemanha, foi marcada por graves incidentes entre torcedores. Segundo a polícia, 85 pessoas ficaram feridas, incluindo 35 agente",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2020/04/24/COPA-DA-ALEMANHA.jpg",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Veja fotos da partida entre Hull City e Manchester United pelo Campeonato Inglês",
         "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/veja-fotos-da-partida-entre-hull-city-e-manchester-united-pelo-campeonato-ingles/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/dupla-de-reforcos-agrada-dorival-e-emenda-primeira-sequencia-como-titular-no-sao-paulo/",
         "summary": "Domingos Duarte e Newton caíram nas graças da torcida e da comissão técnica nos primeiros jogos com a camisa do São Paulo. O post Dupla agrada Dorival e emenda primeira sequência como titular no São Paulo apareceu primei",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55473874620_2a9e7f0db2_o.webp",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos defende tabu contra o Mirassol na Vila Belmiro; veja retrospecto",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-defende-tabu-contra-o-mirassol-na-vila-belmiro-veja-retrospecto-2/",
-        "summary": "Buscando subir na tabela, o Santos enfrenta mais um compromisso complicado pelo Campeonato Brasileiro. O Peixe recebe o Mirassol nesta domingo, às 18h30 (de Brasília), na Vila Belmiro, pela 34ª rodada. O Alvinegro Praian",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/03/55141528865_1685d0e0db_c.webp",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "De vantagem esportiva a corpo feminino: entenda o debate sobre veto a atletas trans no vôlei brasileiro",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/de-vantagem-esportiva-a-corpo-feminino-entenda-o-debate-sobre-veto-a-atletas-trans-no-volei-brasileiro/",
-        "summary": "A decisão da Confederação Brasileira de Voleibol (CBV) de adotar a política do Comitê Olímpico Internacional (COI) para a realização do teste do gene SRY pode impactar diretamente a continuidade de Tiffany Abreu na elite",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2019/03/29/esp06022018gz182120-5509881.jpg",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Nunca vi tão intenso : Cientistas voltam a alertar para El Niño sem precedentes",
+        "link": "https://www.infomoney.com.br/mundo/nunca-vi-tao-intenso-cientistas-voltam-a-alertar-para-el-nino-sem-precedentes/",
+        "summary": "Anomalia projetada supera qualquer registro desde 1950 e deve ampliar risco de seca no Norte e Nordeste do Brasil, com chuva acima da média no Sul The post Nunca vi tão intenso : Cientistas voltam a alertar para El Niño ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/el-nino-pacifico-clima02-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Canadá deve reagir a tarifas dos EUA com medidas dólar por dólar",
+        "link": "https://www.infomoney.com.br/mundo/canada-deve-reagir-a-tarifas-dos-eua-com-medidas-dolar-por-dolar/",
+        "summary": "O primeiro-ministro também destacou a estratégia de fortalecer a economia doméstica e diversificar parcerias externas The post Canadá deve reagir a tarifas dos EUA com medidas dólar por dólar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-30T224430Z_1723032768_RC29XFAL3SWI_RTRMADP_3_ISRAEL-PALESTINIANS-CANADA.jpg?fit=300%2C215&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Número de mortos em ataques com drones e mísseis na Ucrânia e Rússia sobe para 9",
+        "link": "https://www.infomoney.com.br/mercados/numero-de-mortos-em-ataques-com-drones-e-misseis-na-ucrania-e-russia-sobe-para-9/",
+        "summary": "Em Kiev, dois mortos foram confirmados após um ataque com míssil balístico russo. Em Zaporizhzhia, ataques de drones russos mataram uma pessoa durante a noite e outras quatro durante o dia The post Número de mortos em at",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T115237Z_1455929525_RC2M3NAFQ78E_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRYVYI-RIH.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Margem Equatorial pode garantir mais 40 anos de petróleo para Petrobras",
         "link": "https://www.infomoney.com.br/mercados/margem-equatorial-pode-garantir-mais-40-anos-de-petroleo-para-petrobras/",
         "summary": "A Margem Equatorial é estratégica para a Petrobras porque pode ajudar a repor reservas de petróleo a partir da próxima década, quando a produção do pré-sal tende a atingir o pico e começar a declinar The post Margem Equa",
@@ -337,39 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Move Brasil: veja quais carros é possível comprar após teto subir para R$ 200 mil",
-        "link": "https://www.infomoney.com.br/minhas-financas/move-brasil-veja-quais-carros-entram-apos-teto-de-credito-subir-para-r-200-mil/",
-        "summary": "O governo federal ampliou os limites de financiamento dentro do programa The post Move Brasil: veja quais carros é possível comprar após teto subir para R$ 200 mil appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/byd-king-2026-estrada-eolicas-2-e1787400877642.webp?fit=300%2C167&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lula: Brasil não vai depender nem da China, nem dos EUA para fazer sua IA",
-        "link": "https://www.infomoney.com.br/politica/lula-brasil-nao-vai-depender-nem-da-china-nem-dos-eua-para-fazer-sua-ia/",
-        "summary": "Ele deu a declaração durante o ato de lançamento da campanha de Patrus Ananias (PT) ao governo de Minas Gerais, em Belo Horizonte The post Lula: Brasil não vai depender nem da China, nem dos EUA para fazer sua IA appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-16T154149Z_1196470336_RC2RZMARSR4D_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "INSS libera empréstimo consignado sem biometria facial a aposentados e pensionistas",
-        "link": "https://www.infomoney.com.br/minhas-financas/inss-libera-emprestimo-consignado-sem-biometria-facial-a-aposentados-e-pensionistas/",
-        "summary": "Instrução normativa também cria prazo para bancos confirmarem portabilidade e condiciona o desconto no benefício ao envio do contrato do crédito pela instituição financeira The post INSS libera empréstimo consignado sem ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/inss-aposentadoria-beneficios-aposentados-1674850481940_v2_900x506.jpg.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Trump aplica tarifa de 50% sobre Canadá após fracasso em acordo",
-        "link": "https://exame.com/mundo/trump-aplica-tarifa-de-50-sobre-canada-apos-fracasso-em-acordo/",
-        "summary": "Medida atinge cerca de US$ 20 bilhões em produtos canadenses; Mark Carney promete retaliação dólar por dólar",
+        "title": "Em choque com Rubio, Lula vê Trump como possível aliado, diz FT",
+        "link": "https://exame.com/brasil/em-choque-com-rubio-lula-ve-trump-como-possivel-aliado-diz-ft/",
+        "summary": "Presidente brasileiro intensificou críticas ao secretário de Estado dos EUA, enquanto mantém canal direto com Donald Trump",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Messi é multado após dar tapa em adversário durante jogo; veja vídeo",
-        "link": "https://exame.com/esporte/messi-e-multado-apos-dar-tapa-em-adversario-durante-jogo-veja-video/",
-        "summary": "Astro argentino acertou Quinn Sullivan durante empate entre Inter Miami e Philadelphia Union; valor da punição não foi divulgado",
+        "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo",
+        "link": "https://exame.com/ciencia/ozempic-generico-novo-medicamento-de-semaglutida-tem-resultado-promissor-em-estudo/",
+        "summary": "Novo concorrente de Ozempic avança em estudo e ações disparam",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "GTA 6: Microsoft e Discord terão que fornecer dados sobre vazamento",
-        "link": "https://exame.com/pop/gta-6-microsoft-e-discord-terao-que-fornecer-dados-sobre-vazamento/",
-        "summary": "Dono da Rockstar tenta identificar responsáveis após vazamentos de gameplay e mapa do jogo provocarem queda de mais de US$ 2 bilhões em valor de mercado",
+        "title": "Pesquisas da semana mostram Lula à frente no 1º turno e empate técnico com Flávio no 2º turno",
+        "link": "https://exame.com/brasil/pesquisas-da-semana-mostram-lula-a-frente-no-1o-turno-e-empate-tecnico-com-flavio-no-2o-turno/",
+        "summary": "Levantamentos divulgados após início oficial da campanha mostram presidente à frente no primeiro turno, mas disputa com Flávio Bolsonaro fica apertada nas simulações de segundo turno",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Qual o impacto do aluguel 'consignado' para quem vive de renda de imóveis",
-        "link": "https://exame.com/mercado-imobiliario/qual-o-impacto-do-aluguel-consignado-para-quem-vive-de-renda-de-imoveis/",
-        "summary": "Nova modalidade de garantia vincula pagamento à folha do inquilino e muda a relação entre proprietário e locatário",
+        "title": "Imóveis de luxo em SP chegam a R$ 90 mil o metro quadrado após valorização de 181%",
+        "link": "https://exame.com/mercado-imobiliario/imoveis-de-luxo-em-sp-chegam-a-r-90-mil-o-metro-quadrado-apos-valorizacao-de-181/",
+        "summary": "Levantamento da MBRAS mostra avanço de projetos com terrenos raros, vista verde permanente e baixa densidade nos bairros mais valorizados da capital",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Bafo de Ozempic': canetas emagrecedoras podem causar mau hálito?",
-        "link": "https://exame.com/ciencia/bafo-de-ozempic-canetas-emagrecedoras-podem-causar-mau-halito/",
-        "summary": "Digestão lenta, desidratação e refluxo provocados pela semaglutida explicam o odor desagradável relatado por pacientes que buscam emagrecer",
+        "title": "A expressão proibida no mundo do uísque",
+        "link": "https://exame.com/casual/a-expressao-proibida-do-mundo-do-uisque/",
+        "summary": "Nomeclatura vetada em 2022 tem uma das histórias mais curiosas do mundo do Scotch Whisky",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "F1: Mercedes vence sprint do GP da Holanda antes da classificação; veja como foi",
-        "link": "https://exame.com/esporte/f1-mercedes-vence-sprint-do-gp-da-holanda-antes-da-classificacao-veja-como-foi/",
-        "summary": "Piloto da Mercedes largou na pole e venceu Charles Leclerc por 1,36 segundo; Gabriel Bortoleto somou a nona posição na corrida deste sábado",
+        "title": "Os melhores gadgets de até R$ 300 que testamos: pequenos upgrades que mudam o home office",
+        "link": "https://exame.com/tecnologia/examelab/os-melhores-gadgets-de-ate-r-300-que-testamos-pequenos-upgrades-que-mudam-o-home-office/",
+        "summary": "Seleção reúne acessórios compactos que melhoram o conforto e a qualidade das reuniões no trabalho remoto sem exigir grande investimento",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
