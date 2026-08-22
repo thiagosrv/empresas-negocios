@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-22T18:35:47.724Z",
+  "updated": "2026-08-22T19:25:25.968Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Caiado afirma ser a favor do fim da escala 6x1 após chamar PEC de 'eleitoreira'",
+        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/22/caiado-afirma-ser-a-favor-do-fim-da-escala-6x1-apos-chamar-pec-de-eleitoreira.ghtml",
+        "summary": "Ronaldo Caiado, candidato à presidência brasileira pelo PSD, em entrevista em Campinas (SP) EPTV O candidato à Presidência Ronaldo Caiado (PSD) disse neste sábado (22), em Campinas (SP), que é a favor do fim da escala 6x",
+        "image": "https://s2-g1.glbimg.com/kWiwO9smZ79gCyzZ22ji7f0r0Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/Y3QHjMSoSu1sXS2OgRNw/captura-de-tela-2026-08-22-155601.png",
+        "date": "22 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "VÍDEO: ônibus articulado quebra ao meio e passageiros abandonam veículo em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/video-onibus-articulado-quebra-ao-meio-e-passageiros-abandonam-veiculo-em-campinas.ghtml",
@@ -53,13 +63,73 @@
         "cls": "brasil"
       },
       {
-        "title": "Inspirado por visão de Nossa Senhora, artista do interior de SP leva obras feitas com a ponta dos dedos ao exterior",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/inspirado-por-visao-de-nossa-senhora-artista-do-interior-de-sp-leva-obras-feitas-com-a-ponta-dos-dedos-ao-exterior.ghtml",
-        "summary": "Artista do interior de SP pinta figuras religiosas usando apenas a ponta dos dedos O pintor Rafael Ferraraccio, de Campinas (SP), encontrou uma forma pouco convencional de produzir suas obras: em vez de pincéis ou espátu",
-        "image": "https://s2-g1.glbimg.com/IdJuI783DRWXuUvicFMHpTlVCYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/Gomk8uQO6JrkiK3x1lHA/design-sem-nome-12-.png",
+        "title": "Dia D de Multivacinação acontece neste sábado (22) em todo o estado de SP; veja quem deve se vacinar",
+        "link": "https://jornalamericanense.com.br/saude/dia-d-de-multivacinacao-acontece-neste-sabado-22-em-todo-o-estado-de-sp-veja-quem-deve-se-vacinar/",
+        "summary": "UBSs de todo o estado estarão abertas para atualizar a caderneta de crianças e adolescentes menores de 15 anos Neste sábado (22), a Secretaria de Estado da Saúde de São Paulo (SES-SP) realiza o Dia D da Campanha de Multi",
+        "image": null,
         "date": "22 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Denis Andia realiza caminhadas e fortalece proximidade com Santa Bárbara e região",
+        "link": "https://jornalamericanense.com.br/politica/denis-andia-realiza-caminhadas-e-fortalece-proximidade-com-santa-barbara-e-regiao/",
+        "summary": "O candidato a deputado federal Denis Andia tem realizado visitas e caminhadas em Santa Bárbara d’Oeste e região, fortalecendo o compromisso de um trabalho próximo das cidades e das pessoas. Entre as primeiras agendas, o ",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Prefeitura oferece 28 vagas de estágio para estudantes de Americana em parceria com o CIEE",
+        "link": "https://jornalamericanense.com.br/politica/prefeitura-oferece-28-vagas-de-estagio-para-estudantes-de-americana-em-parceria-com-o-ciee/",
+        "summary": "A Prefeitura de Americana, por meio da Secretaria de Administração, está com 28 vagas de estágio abertas em diversas áreas, para estudantes de Americana, em parceria com o Centro de Integração Empresa-Escola (CIEE). As v",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "GAMA reforça armamento com a compra de cinco novos fuzis e três carabinas",
+        "link": "https://jornalamericanense.com.br/policia/gama-reforca-armamento-com-a-compra-de-cinco-novos-fuzis-e-tres-carabinas/",
+        "summary": "A Guarda Municipal de Americana (GAMA) adquiriu cinco fuzis e três carabinas para reforçar a estrutura da corporação e ampliar a capacidade de atuação dos patrulheiros no combate à criminalidade. Os novos equipamentos fo",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "ACIA realiza entrega de 151 bolos neste sábado",
+        "link": "https://jornalamericanense.com.br/cidades/acia-realiza-entrega-de-151-bolos-neste-sabado/",
+        "summary": "Em comemoração aos 151 anos da fundação de Americana, no dia 27 de agosto, a ACIA – Associação Comercial e Industrial de Americana realiza uma ação especial neste sábado, dia 22, com a entrega de 151 bolos para seus asso",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Filhotes de emus são apresentados ao público no Zoo Americana",
+        "link": "https://jornalamericanense.com.br/cidades/filhotes-de-emus-sao-apresentados-ao-publico-no-zoo-americana/",
+        "summary": "O Parque Ecológico Municipal Engenheiro Cid Almeida Franco – Zoo Americana apresenta ao público os seis filhotes de emu nascidos em meados de julho deste ano. As aves já podem ser vistas pelos visitantes em um recinto pr",
+        "image": null,
+        "date": "21 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Campanha convoca familiares de desaparecidos para coleta de DNA",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
         "cls": "brasil"
       },
       {
@@ -111,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Canetas emagrecedoras: uso sem supervisão pode causar perda muscular",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-uso-sem-supervisao-pode-causar-perda-muscular",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-uso-sem-supervisao-pode-causar-perda-muscular img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Igor Thiago perde pênalti, mas Brentford goleia o Tottenham na estreia pelo Campeonato Inglês",
-        "link": "https://www.gazetaesportiva.com/times/tottenham/brentford-x-tottenham-siga-o-tempo-real-ao-vivo-do-jogo-pelo-campeonato-ingles/",
-        "summary": "O Brentford estreou com o pé direito no Campeonato Inglês 2026/27. Neste sábado, a equipe venceu o Tottenham por 3 a 0, em casa, com gols de Lewis-Potter, Janelt e Kayode. O post Igor Thiago perde pênalti, mas Brentford ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AT3EP__v1__HighRes__FblEngPrBrentfordTottenham.webp",
+        "title": "Treino do Santos: veja fotos da última atividade antes de enfrentar o Mirassol",
+        "link": "https://www.gazetaesportiva.com/times/santos/treino-santos-fotos-mirassol-brasileirao/",
+        "summary": "Confira as fotos do último treino do Santos antes de enfrentar o Mirassol pela 24ª rodada do Campeonato Brasileiro. O Peixe encerrou a preparação neste sábado, no CT Rei Pelé. O post Treino do Santos: veja fotos da últim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55479545327_aa43f0e2e0_3k.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos paga parcela de direitos de imagem, mas ainda mantém pendências com elenco",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-paga-direitos-imagem-ainda-deve-dois-meses/",
-        "summary": "O Santos pagou uma parcela dos direitos de imagem atrasados com o elenco, conforme apurou a Gazeta Esportiva. O clube, porém, ainda possui dois meses em aberto e busca utilizar as recentes receitas de premiações e negoci",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55480539981_8e200720fa_3k.-gabigol.webp",
+        "title": "Neymar volta ao time, e Santos encerra preparação para pegar o Mirassol; veja provável escalação",
+        "link": "https://www.gazetaesportiva.com/times/santos/neymar-santos-mirassol-provavel-escalacao/",
+        "summary": "O Santos encerrou a preparação para enfrentar o Mirassol neste domingo, na Vila Belmiro. Neymar, Gabigol, Igor Vinícius e Barreal devem retornar ao time, enquanto Gabriel Bontempo e Lucas Veríssimo são dúvidas. O post Ne",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55480658878_c9a2013575_3k.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Atual campeã, Inter goleia o Monza na estreia do Campeonato Italiano",
-        "link": "https://www.gazetaesportiva.com/times/internazionale/atual-campea-inter-goleia-o-monza-na-estreia-do-campeonato-italiano/",
-        "summary": "A Inter de Milão estreou com vitória no Campeonato Italiano 2026/27. Neste sábado, os atuais campeões bateram o Monza por 4 a 1 no San Siro, com gols de Çalhanoğlu, Zieliński, Pio Esposito e Bisseck. O post Atual campeã,",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AT3FB__v1__HighRes__FblItaSerieaInterMonza.webp",
+        "title": "Athletic Bilbao perde em casa para o Sevilla em estreia no Campeonato Espanhol",
+        "link": "https://www.gazetaesportiva.com/campeonatos/laliga/athletic-bilbao-perde-em-casa-para-o-sevilla-em-estreia-no-campeonato-espanhol/",
+        "summary": "O Athletic Bilbao, que jogou quase toda a partida com um homem a menos, perdeu por 3 a 1 em casa para o Sevilla em sua estreia na LaLiga, neste sábado, pela segunda rodada do campeonato espanhol. O clube basco não havia ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ejukegol.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians atrasa direitos de imagem do elenco pelo segundo mês seguido",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-atrasa-direitos-de-imagem-do-elenco-pelo-segundo-mes-seguido/",
-        "summary": "O Corinthians voltou a enfrentar problemas financeiros e acumula dois meses de atraso no pagamento dos direitos de imagem do elenco. Além das pendências com os jogadores, o clube também deve premiações e convive com rest",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/246577.webp",
+        "title": "Fluminense x Remo: siga o tempo real do jogo pelo Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-remo-campeonato-brasileiro-22-08-2026/",
+        "summary": "Fluminense e Remo se enfrentam neste sábado, pela 24ª rodada Campeonato Brasileiro. A partida será realizada às 16h (de Brasília), no Maracanã, no Rio de Janeiro (RJ). Como chega o Fluminense? O Fluminense vem de uma his",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-22-at-15.41.38.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Al Fateh 0 x 1 Al Ettifaq pela pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-fateh-0-x-1-al-ettifaq-pela-pela-liga-saudita/",
-        "summary": "Melhores momentos: Al Fateh 0 x 1 Al Ettifaq pela pela Liga Saudita O post Melhores momentos: Al Fateh 0 x 1 Al Ettifaq pela pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/l5sjybgi-1920Saudi-Pro-League.webp",
+        "title": "Serena Williams e Carlos Alcaraz se unem para as duplas mistas do US Open",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/serena-williams-e-carlos-alcaraz-se-unem-para-as-duplas-mistas-do-us-open/",
+        "summary": "A americana Serena Williams e o espanhol Carlos Alcaraz farão uma parceria para disputar o torneio de duplas mistas do US Open, o último Grand Slam do ano, anunciaram os organizadores neste sábado. Serena, de 44 anos e v",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260820__C66L6ZQ__v1__HighRes__FilesTennisUsaOpenAlcaraz.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras negocia venda de Allan ao Manchester City; saiba valores",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-negocia-venda-de-allan-ao-manchester-city-saiba-valores/",
-        "summary": "O Palmeiras pode selar mais uma venda de um jogador revelado nas categorias de base do clube nos próximos dias. Atacante do Verdão, Allan entrou na mira do Manchester City e, segundo o ge, os clubes teriam uma reunião ag",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/12082026_cg_palmeiras_1584_71-1.webp",
+        "title": "Melhores momentos: Al-Kholood 3 x 2 Al Taawoun pela Liga Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-kholood-3-x-2-al-taawoun-pela-liga-saudita/",
+        "summary": "Melhores momentos: Al-Kholood 3 x 2 Al Taawoun pela Liga Saudita O post Melhores momentos: Al-Kholood 3 x 2 Al Taawoun pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/oqfslyt3-1920holood.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra",
+        "link": "https://www.infomoney.com.br/politica/lula-volta-a-prometer-retomada-da-industria-da-defesa-mas-diz-nao-querer-guerra/",
+        "summary": "\"Queremos respeito e para ter respeito, as pessoas têm de saber que estamos preparados\", disse em ato de campanha no Rio The post Lula volta a prometer retomada da indústria da defesa, mas diz não querer guerra appeared ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T171729Z_1611593833_RC2R3NARG4Z0_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Canadá contra-ataca Trump e anuncia tarifa retaliatória em diversos setores dos EUA",
         "link": "https://www.infomoney.com.br/mundo/canada-contra-ataca-trump-e-anuncia-tarifa-retaliatoria-em-diversos-setores-dos-eua/",
         "summary": "Após dias de intensas negociações, os dois países ⁠não ‌conseguiram chegar a um acordo comercial na ⁠noite de sexta-feira The post Canadá contra-ataca Trump e anuncia tarifa retaliatória em diversos setores dos EUA appea",
@@ -297,14 +367,64 @@
         "cls": "brasil"
       },
       {
-        "title": "Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil",
-        "link": "https://www.infomoney.com.br/esportes/presidente-da-concacaf-pede-a-infantino-que-nao-participe-de-torneio-juvenil/",
-        "summary": "Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil The post Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T141051Z_1_LYNXMPEM790ZP_RTROPTP_4_COLOMBIA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "O futuro chegou: ITMOS e a hora de o Brasil monetizar sua transformação ecológica",
+        "link": "https://exame.com/esg/o-futuro-chegou-itmos-e-a-hora-de-o-brasil-monetizar-sua-transformacao-ecologica/",
+        "summary": "O Brasil tem ativos ambientais que países desenvolvidos precisam comprar. Mas enquanto Gana, Tailandia e Quenia já monetizam suas reduções de emissão, o Brasil ainda discute como autorizá-las. Combinar os Artigos 6.2 e 6",
+        "image": null,
         "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Apple demite 60 funcionários e reduz foco no Vision Pro",
+        "link": "https://exame.com/invest/mercados/apple-demite-60-funcionarios-e-reduz-foco-no-vision-pro/",
+        "summary": "Cortes atingem ao menos 60 funcionários e indicam mudança de estratégia da companhia no mercado de computação espacial",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Renan Santos supera Marçal em menções nas redes, mas avanço vem com desgaste, diz estudo",
+        "link": "https://exame.com/brasil/renan-santos-supera-marcal-em-mencoes-nas-redes-mas-avanco-vem-com-desgaste-diz-estudo/",
+        "summary": "Candidato do Missão acumulou 339.427 publicações e 768,4 milhões de interações em agosto, mas crescimento digital veio acompanhado de piora no sentimento sobre sua imagem",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "TikTok pagará US$ 400 milhões para encerrar processo sobre privacidade infantil",
+        "link": "https://exame.com/tecnologia/tiktok-pagara-us-400-milhoes-para-encerrar-processo-sobre-privacidade-infantil/",
+        "summary": "Departamento de Justiça dos EUA afirma que mudanças na plataforma ajudaram a encerrar a disputa",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Disney corta benefício de saúde para parte dos cônjuges de funcionários",
+        "link": "https://exame.com/negocios/disney-corta-beneficio-de-saude-para-parte-dos-conjuges-de-funcionarios/",
+        "summary": "A mudança valerá para cônjuges que tenham seguro médico pelo próprio empregador",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "'Dólar por dólar': Canadá diz que vai retaliar tarifas de Trump",
+        "link": "https://exame.com/mundo/dolar-por-dolar-canada-diz-que-vai-retaliar-tarifas-de-trump/",
+        "summary": "Medidas começam em 8 de setembro após negociações entre Washington e Ottawa terminarem sem acordo",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       }
     ]
   }
