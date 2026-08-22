@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-22T10:27:24.913Z",
+  "updated": "2026-08-22T11:24:06.713Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Caderneta atrasada? Região de Campinas tem 'Dia D' de vacinação neste sábado; veja locais",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/caderneta-atrasada-regiao-de-campinas-tem-dia-d-de-vacinacao-neste-sabado-veja-locais.ghtml",
+        "summary": "Profissional aplica vacina contra covid-19 em São Paulo Governo do Estado de SP As cidades da região de Campinas (SP) realizam neste sábado (22) o \"Dia D\" da Campanha Nacional de Multivacinação. A mobilização começa a pa",
+        "image": "https://s2-g1.glbimg.com/AI6Vnp2AHL14ia7Ij-bC5fzsnyo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/AzwVraT7iXhjUfTEe48g/governo-do-estado-9.9.21.jpg",
+        "date": "22 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Peixe recém-descoberto na Amazônia já enfrenta risco de desaparecer, aponta estudo",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/22/peixe-recem-descoberto-na-amazonia-ja-enfrenta-risco-de-desaparecer-aponta-estudo.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/homem-e-preso-apos-arrastar-policial-pela-janela-do-carro-ao-fugir-de-abordagem-em-americana.ghtml",
         "summary": "Prédio da Polícia Civil em Americana (SP) Reprodução/EPTV Um homem de 71 anos foi preso em flagrante na tarde desta quinta-feira (21) após arrastar um policial pela janela do carro ao fugir de uma abordagem na Avenida Ni",
         "image": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg",
-        "date": "21 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Campinas supera marca de 2 mil câmeras privadas integradas ao monitoramento municipal de segurança pública",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/campinas-supera-marca-de-2-mil-cameras-privadas-integradas-ao-monitoramento-municipal-de-seguranca-publica.ghtml",
-        "summary": "Imagem de arquivo. Reprodução/EPTV Campinas (SP) atingiu a marca de 2.062 câmeras privadas integradas ao sistema de monitoramento da cidade. O sistema faz parte do \"Monitora Campinas\", programa lançado em dezembro de 202",
-        "image": "https://s2-g1.glbimg.com/Dq7A-nN3MYQg2p3aymFDT8boKkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/4/a2tCvZSPqDKl6OX2JeBg/design-sem-nome-2026-08-21t165534.531.jpg",
         "date": "21 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,26 @@
     ],
     "esportes": [
       {
+        "title": "George Russell conquista vitória na sprint do GP da Holanda; Bortoleto é nono",
+        "link": "https://www.gazetaesportiva.com/motor/formula-1/george-russell-vence-sprint-gp-da-holanda/",
+        "summary": "George Russell confirmou a pole position e venceu neste sábado a corrida sprint do GP da Holanda de Fórmula 1, em Zandvoort. O piloto da Mercedes liderou de ponta a ponta e terminou à frente de Charles Leclerc, da Ferrar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6A48GA__v1__HighRes__AutoPrixF1Ned.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Dupla agrada Dorival e emenda primeira sequência como titular no São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dupla-de-reforcos-agrada-dorival-e-emenda-primeira-sequencia-como-titular-no-sao-paulo/",
+        "summary": "Domingos Duarte e Newton caíram nas graças da torcida e da comissão técnica nos primeiros jogos com a camisa do São Paulo. O post Dupla agrada Dorival e emenda primeira sequência como titular no São Paulo apareceu primei",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55473874620_2a9e7f0db2_o.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Santos defende tabu contra o Mirassol na Vila Belmiro; veja retrospecto",
         "link": "https://www.gazetaesportiva.com/times/santos/santos-defende-tabu-contra-o-mirassol-na-vila-belmiro-veja-retrospecto-2/",
         "summary": "Buscando subir na tabela, o Santos enfrenta mais um compromisso complicado pelo Campeonato Brasileiro. O Peixe recebe o Mirassol nesta domingo, às 18h30 (de Brasília), na Vila Belmiro, pela 34ª rodada. O Alvinegro Praian",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/sao-paulo/bom-reforco-veja-numeros-do-meia-gustavo-scarpa-alvo-do-sao-paulo/",
         "summary": "O São Paulo abriu negociações com o Atlético-MG nos últimos dias para tentar a contratação do meia-atacante Gustavo Scarpa. Seguindo o modelo de contratações adotado recentemente devido à grave crise financeira, a direto",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55239518363_5b666a70fa_o.webp",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Coritiba x Corinthians: onde assistir ao jogo pela 24ª rodada do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-corinthians-onde-assistir-ao-jogo-pela-24a-rodada-do-brasileirao/",
-        "summary": "Coritiba e Corinthians se enfrentam neste domingo, no Couto Pereira, pela 24ª rodada do Brasileirão. Separadas por apenas um ponto na tabela, as equipes buscam se aproximar do G5. O Timão chega motivado pela classificaçã",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/242727.webp",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Conheça joia do futsal do Corinthians testada no campo a pedido de Diniz",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/conheca-joia-do-futsal-do-corinthians-testada-no-campo-a-pedido-de-diniz/",
-        "summary": "O Corinthians iniciou um teste com Maicon, destaque da equipe de futsal, a pedido de Fernando Diniz. O jogador de 22 anos passou a participar de atividades no futebol de campo com o time sub-20 e está sendo avaliado pela",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247661.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Migração do crédito para equity marca nova fase do setor imobiliário nos EUA",
+        "link": "https://www.infomoney.com.br/onde-investir/migracao-do-credito-para-equity-marca-nova-fase-do-setor-imobiliario-nos-eua/",
+        "summary": "Presidente do Drake Real Estate Partners afirma que, após o fim do pico da renda fixa, gestoras redirecionam alocações para a compra direta de imóveis The post Migração do crédito para equity marca nova fase do setor imo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-21-170551.png?fit=300%2C134&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "TRXF11 cresceu rápido demais? Gestão explica dívida, patrimônio e queda de 20% no ano",
+        "link": "https://www.infomoney.com.br/onde-investir/trxf11-cresceu-rapido-demais-gestao-explica-divida-patrimonio-e-futuro-do-fii/",
+        "summary": "Em meio à pressão sobre o preço de mercado, gestão defende que criação de valor dos ativos The post TRXF11 cresceu rápido demais? Gestão explica dívida, patrimônio e queda de 20% no ano appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/TRX-Previas-004-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "IFIX está em “ponto muito bom de compra”, diz CEO da Hedge",
+        "link": "https://www.infomoney.com.br/onde-investir/ifix-esta-em-ponto-muito-bom-de-compra-diz-ceo-da-hedge/",
+        "summary": "Para André Freitas, CEO da Hedge, o movimento atual dos FIIs abriu uma janela de oportunidade para investidores que conseguem olhar além da volatilidade de curto prazo The post IFIX está em “ponto muito bom de compra”, d",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IMG_6726.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Volatilidade dos FIIs, alívio no IPCA e arcabouço fiscal; veja destaques da semana",
+        "link": "https://www.infomoney.com.br/onde-investir/volatilidade-dos-fiis-alivio-no-ipca-e-arcabouco-fiscal-veja-destaques-da-semana/",
+        "summary": "Finalização da temporada de balanços do 2T26 se mostra insatisfatória; cenário macroeconômico ainda é incerto, mesmo com alívio na inflação The post Volatilidade dos FIIs, alívio no IPCA e arcabouço fiscal; veja destaque",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/cropped-7114-e1758133397348.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "A Evertec acelerou em aquisições no Brasil nos últimos anos. Para onde crescer agora?",
+        "link": "https://www.infomoney.com.br/business/a-evertec-acelerou-em-aquisicoes-no-brasil-nos-ultimos-anos-para-onde-crescer-agora/",
+        "summary": "Em três anos, empresa gastou R$ 4 bilhões na compra de novas companhias no país e viu país se tornar segundo maior mercado The post A Evertec acelerou em aquisições no Brasil nos últimos anos. Para onde crescer agora? ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/claudio_prado_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Shein foi a grande aposta do fast fashion. Agora, luta para escrever novo capítulo",
         "link": "https://www.infomoney.com.br/business/global/shein-foi-a-grande-aposta-do-fast-fashion-agora-luta-para-escrever-novo-capitulo/",
         "summary": "Sob pressão nos Estados Unidos e na Europa, a Shein enfrenta dificuldades para encontrar novas formas de crescer antes de sua tão adiada oferta pública inicial de ações (IPO) The post Shein foi a grande aposta do fast fa",
@@ -317,59 +367,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Sentimento de empresários e investidores cai para patamar de pessimismo extremo",
-        "link": "https://www.infomoney.com.br/mercados/sentimento-de-empresarios-e-investidores-vai-ao-fundo-do-poco-aponta-xp/",
-        "summary": "Conferência da XP no Rio reuniu 106 empresas e cerca de 500 investidores, e expôs preocupação generalizada com desaceleração da atividade, endividamento e avanço da inadimplência The post Sentimento de empresários e inve",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2020/12/PMC_HOME_Charles-de-Moura-PMSJC.jpg?fit=300%2C166&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lotofácil da Independência: veja quanto prêmio de R$ 300 milhões pode render por mês",
-        "link": "https://www.infomoney.com.br/onde-investir/lotofacil-da-independencia-quanto-premio-pode-render-por-mes/",
-        "summary": "Simulação com o prêmio estimado do concurso de 15 de setembro mostra diferença de quase R$ 870 mil mensais entre a melhor e a pior aplicação, mas alocar a bolada esbarra em limites do Tesouro Direto e do FGC The post Lot",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/lotofacil-da-independencia.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Marçal pode “bagunçar” eleição, mas não ameaça Lula x Flávio, diz analista",
-        "link": "https://www.infomoney.com.br/politica/marcal-pode-baguncar-eleicao-mas-nao-ameaca-lula-x-flavio-diz-analista/",
-        "summary": "Paulo Gama vê capacidade de mobilização e alcance digital no candidato, mas avalia que voto de oposição está mais consolidado em torno de Flávio Bolsonaro The post Marçal pode “bagunçar” eleição, mas não ameaça Lula x Fl",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-20-225820-1.png?fit=300%2C168&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Como é o modelo de Bukele de combate ao crime que inspira a direita no Brasil?",
-        "link": "https://www.infomoney.com.br/mundo/como-e-o-modelo-de-combate-ao-crime-de-bukele-que-inspira-a-direta-no-brasil/",
-        "summary": "País da América Central está sob regime de exceção desde março de 2022, com policiamento ostensivo e tolerância zero com o crime; taxa de homicídios é uma das mais baixas do mundo, mas há críticas de violações de direito",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Presos_El-Salvador_Divulgacao_AssembleiaLegislativa2.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "A estratégia da NB Steak para atrair 20% mais clientes vendendo menos",
-        "link": "https://www.infomoney.com.br/business/a-estrategia-da-nb-steak-para-atrair-20-mais-clientes-vendendo-menos/",
-        "summary": "Rede criada por Arri Coser lança Menu Essencial, com porções menores e preço mais acessível, para acompanhar novos hábitos de consumo The post A estratégia da NB Steak para atrair 20% mais clientes vendendo menos appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/NB-STEAK-02.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Runway: desbloqueie todo potencial da ferramenta na criação de vídeos profissionais",
-        "link": "https://exame.com/inteligencia-artificial/runway-desbloqueie-todo-potencial-da-ferramenta-na-criacao-de-videos-profissionais/",
-        "summary": "Plataforma reúne geração de vídeo, edição, animação de personagens e diferentes recursos de controle para transformar ideias em cenas prontas para produção",
+        "title": "Não é só carinho: por que grandes primatas se beijam e se abraçam",
+        "link": "https://exame.com/ciencia/nao-e-so-carinho-por-que-grandes-primatas-se-beijam-e-se-abracam/",
+        "summary": "Pesquisadores descobriram que o contato físico fortalece a confiança entre os animais e reduz tensões antes de situações de competição",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "EXCLUSIVO: Como a Globo usa inteligência artificial para pagar direitos de imagem de 340 novelas",
-        "link": "https://exame.com/inteligencia-artificial/exclusivo-como-a-globo-usa-inteligencia-artificial-para-pagar-direitos-de-imagem-de-340-novelas/",
-        "summary": "Globo moderniza gestão de contratos com a Prezensa para processar repasses de 340 novelas; nova fase inclui reconhecimento facial e IA",
+        "title": "Dois irmãos gaúchos compram de uma única vez 220 caminhões a gás e já faturam R$ 2,5 bilhões",
+        "link": "https://exame.com/negocios/dois-irmaos-gauchos-compram-de-uma-unica-vez-220-caminhoes-a-gas-e-ja-faturam-r-25-bilhoes/",
+        "summary": "Reiter Log vai superar 600 veículos movidos a gás e amplia uma rede própria de abastecimento com biometano para atender clientes em busca de reduzir emissões",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Como o Brasil virou alternativa à Índia em projetos globais de tecnologia",
-        "link": "https://exame.com/bussola/como-o-brasil-virou-alternativa-a-india-em-projetos-globais-de-tecnologia/",
-        "summary": "Fuso horário, mão de obra qualificada e proximidade cultural ajudam o Brasil a ganhar projetos antes concentrados na Índia",
+        "title": "O que o deserto do Saara ensina sobre carreira e liderança? Veja 5 lições",
+        "link": "https://exame.com/carreira/o-que-o-deserto-do-saara-ensina-sobre-carreira-e-lideranca-veja-5-licoes/",
+        "summary": "Longe das reuniões, notificações e agendas lotadas, executivas brasileiras vão ao Marrocos para discutir tempo, dinheiro e os rumos da própria carreira",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quer mudar o Brasil? Mude o brasileiro",
-        "link": "https://exame.com/exame-in/quer-mudar-o-brasil-mude-o-brasileiro/",
-        "summary": "ARTIGO: Com fecundidade abaixo da taxa de reposição, Brasil terá de decidir se quer administrar o envelhecimento — ou voltar a crescer importando gente",
+        "title": "6 paradas para um roteiro pela Mantiqueira",
+        "link": "https://exame.com/casual/6-paradas-para-um-roteiro-pela-mantiqueira/",
+        "summary": "Vinícolas, cafés, restaurantes, fazendas e pequenas propriedades abrem as portas para experiências que aproximam o visitante dos sabores da Mantiqueira",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que o PIB de Taiwan deve crescer 11% em 2026? A resposta pode estar na IA",
-        "link": "https://exame.com/mundo/por-que-o-pib-de-taiwan-deve-crescer-11-em-2026-a-resposta-pode-estar-na-ia/",
-        "summary": "Apesar de crescimento, economistas alertam que ritmo pode não ser sustentável ao longo prazo",
+        "title": "Após 23 anos com os fundadores, empresa de R$ 100 milhões se reorganiza para dobrar de tamanho",
+        "link": "https://exame.com/negocios/apos-23-anos-com-os-fundadores-empresa-de-r-100-milhoes-se-reorganiza-para-dobrar-de-tamanho/",
+        "summary": "Finnet reforça time executivo e aposta em novos clientes, IA, Open Finance e crédito para sustentar o próximo ciclo de expansão",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "6 formas de usar o NotebookLM que vão além de resumir PDFs",
-        "link": "https://exame.com/inteligencia-artificial/formas-de-usar-o-notebooklm-que-vao-alem-de-resumir-pdfs/",
-        "summary": "Ferramenta do Google permite transformar documentos, sites, vídeos e outros materiais em mapas mentais, testes, relatórios, apresentações e conteúdos em áudio",
+        "title": "Fábrica de pão de queijo que nasceu em garagem amplia portfólio com empanadas e mira R$ 100 milhões",
+        "link": "https://exame.com/negocios/fabrica-de-pao-de-queijo-que-nasceu-em-garagem-amplia-portfolio-com-empanadas-e-mira-r-100-milhoes/",
+        "summary": "A Cymco, de Curitiba, amplia atuação para além do pão de queijo com a compra de duas empresas de alimentos, focadas em salgados e doces argentinos e em produtos fritos e assados",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
