@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T11:24:06.713Z",
+  "updated": "2026-08-22T12:46:34.580Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Cabeças Cortadas , de Glauber Rocha, ganhará versão restaurada em 4k",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cabecas-cortadas-de-glauber-rocha-voltara-em-versao-restaurada",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cabecas-cortadas-de-glauber-rocha-voltara-em-versao-restaurada img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dia D de vacinação é realizado neste sábado em todo o país",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-de-vacinacao-e-realizado-neste-sabado-em-todo-o-pais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-de-vacinacao-e-realizado-neste-sabado-em-todo-o-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Veja como foi a sexta-feira (21) dos candidatos a presidente",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-sexta-feira-21-dos-candidatos-presidente",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-sexta-feira-21-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
@@ -161,29 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Rafael Matos e Orlando Luz vão à semi de duplas do ATP de Cincinnati",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rafael-matos-e-orlando-luz-vao-semi-de-duplas-do-atp-de-cincinnati",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rafael-matos-e-orlando-luz-vao-semi-de-duplas-do-atp-de-cincinnati img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Moraes determina cassação da aposentadoria de ex-diretor da PRF",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/moraes-determina-cassacao-da-aposentadoria-de-ex-diretor-da-prf",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/moraes-determina-cassacao-da-aposentadoria-de-ex-diretor-da-prf img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Veja fotos da partida entre Hull City e Manchester United pelo Campeonato Inglês",
+        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/veja-fotos-da-partida-entre-hull-city-e-manchester-united-pelo-campeonato-ingles/",
+        "summary": "Veja fotos da partida entre Hull City e Manchester United pelo Campeonato Inglês O post Veja fotos da partida entre Hull City e Manchester United pelo Campeonato Inglês apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6A77P9__v1__HighRes__FblEngPrHullManUtd.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja fotos da Corrida Sprint no Grande Prêmio da Holanda de Fórmula 1",
+        "link": "https://www.gazetaesportiva.com/motor/formula-1/veja-fotos-da-corrida-sprint-no-grande-premio-da-holanda-de-formula-1/",
+        "summary": "Veja fotos da Corrida Sprint no Grande Prêmio da Holanda de Fórmula 1 O post Veja fotos da Corrida Sprint no Grande Prêmio da Holanda de Fórmula 1 apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6A32Z8__v1__HighRes__AutoPrixF1Ned.webp",
+        "date": "22 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "George Russell conquista vitória na sprint do GP da Holanda; Bortoleto é nono",
         "link": "https://www.gazetaesportiva.com/motor/formula-1/george-russell-vence-sprint-gp-da-holanda/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/mais-esportes/volei/de-vantagem-esportiva-a-corpo-feminino-entenda-o-debate-sobre-veto-a-atletas-trans-no-volei-brasileiro/",
         "summary": "A decisão da Confederação Brasileira de Voleibol (CBV) de adotar a política do Comitê Olímpico Internacional (COI) para a realização do teste do gene SRY pode impactar diretamente a continuidade de Tiffany Abreu na elite",
         "image": "https://static.gazetaesportiva.com/uploads/imagem/2019/03/29/esp06022018gz182120-5509881.jpg",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Vasco: saiba onde assistir ao jogo da 24ª rodada do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-vasco-saiba-onde-assistir-ao-jogo-da-24a-rodada-do-brasileirao/",
-        "summary": "O Palmeiras entra em campo neste domingo para enfrentar o Vasco pela 24ª rodada do Campeonato Brasileiro. A bola rola a partir das 16h (de Brasília), no Nubank Parque, em São Paulo (SP). Saiba onde assistir à partida. O ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/onde-assistir-palmeiras.webp",
-        "date": "22 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Bom reforço? Veja números do meia Gustavo Scarpa, alvo do São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/bom-reforco-veja-numeros-do-meia-gustavo-scarpa-alvo-do-sao-paulo/",
-        "summary": "O São Paulo abriu negociações com o Atlético-MG nos últimos dias para tentar a contratação do meia-atacante Gustavo Scarpa. Seguindo o modelo de contratações adotado recentemente devido à grave crise financeira, a direto",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55239518363_5b666a70fa_o.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Migração do crédito para equity marca nova fase do setor imobiliário nos EUA",
-        "link": "https://www.infomoney.com.br/onde-investir/migracao-do-credito-para-equity-marca-nova-fase-do-setor-imobiliario-nos-eua/",
-        "summary": "Presidente do Drake Real Estate Partners afirma que, após o fim do pico da renda fixa, gestoras redirecionam alocações para a compra direta de imóveis The post Migração do crédito para equity marca nova fase do setor imo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-21-170551.png?fit=300%2C134&amp;quality=70&amp;strip=all",
+        "title": "Margem Equatorial pode garantir mais 40 anos de petróleo para Petrobras",
+        "link": "https://www.infomoney.com.br/mercados/margem-equatorial-pode-garantir-mais-40-anos-de-petroleo-para-petrobras/",
+        "summary": "A Margem Equatorial é estratégica para a Petrobras porque pode ajudar a repor reservas de petróleo a partir da próxima década, quando a produção do pré-sal tende a atingir o pico e começar a declinar The post Margem Equa",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-15T191150Z_1_LYNXMPEM4E1EG_RTROPTP_3_BRAZIL-PETROBRAS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TRXF11 cresceu rápido demais? Gestão explica dívida, patrimônio e queda de 20% no ano",
-        "link": "https://www.infomoney.com.br/onde-investir/trxf11-cresceu-rapido-demais-gestao-explica-divida-patrimonio-e-futuro-do-fii/",
-        "summary": "Em meio à pressão sobre o preço de mercado, gestão defende que criação de valor dos ativos The post TRXF11 cresceu rápido demais? Gestão explica dívida, patrimônio e queda de 20% no ano appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/TRX-Previas-004-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Quem é a Avibras, empresa de defesa que pode ser comprada pelos irmãos Batista",
+        "link": "https://www.infomoney.com.br/business/quem-e-a-avibras-empresa-de-defesa-que-pode-ser-comprada-pelos-irmaos-batista/",
+        "summary": "Criada há mais de 60 anos por engenheiros do ITA, fabricante brasileira de equipamentos militares já passou por tentativas frustradas de venda The post Quem é a Avibras, empresa de defesa que pode ser comprada pelos irmã",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/avibras.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "IFIX está em “ponto muito bom de compra”, diz CEO da Hedge",
-        "link": "https://www.infomoney.com.br/onde-investir/ifix-esta-em-ponto-muito-bom-de-compra-diz-ceo-da-hedge/",
-        "summary": "Para André Freitas, CEO da Hedge, o movimento atual dos FIIs abriu uma janela de oportunidade para investidores que conseguem olhar além da volatilidade de curto prazo The post IFIX está em “ponto muito bom de compra”, d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IMG_6726.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Irã diz que o mundo aceitou sua vitória sobre EUA e promete resposta a novas ameaças",
+        "link": "https://www.infomoney.com.br/mundo/ira-diz-que-o-mundo-aceitou-sua-vitoria-sobre-eua-e-promete-resposta-a-novas-ameacas/",
+        "summary": "O secretário do Tesouro dos EUA, Scott Bessent, disse que detalhará na próxima segunda-feira, 24, as medidas econômicas mais duras já impostas contra Teerã The post Irã diz que o mundo aceitou sua vitória sobre EUA e pro",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/sina-drakhshani-b5fUPypDU2E-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Volatilidade dos FIIs, alívio no IPCA e arcabouço fiscal; veja destaques da semana",
-        "link": "https://www.infomoney.com.br/onde-investir/volatilidade-dos-fiis-alivio-no-ipca-e-arcabouco-fiscal-veja-destaques-da-semana/",
-        "summary": "Finalização da temporada de balanços do 2T26 se mostra insatisfatória; cenário macroeconômico ainda é incerto, mesmo com alívio na inflação The post Volatilidade dos FIIs, alívio no IPCA e arcabouço fiscal; veja destaque",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/cropped-7114-e1758133397348.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Move Brasil: veja quais carros é possível comprar após teto subir para R$ 200 mil",
+        "link": "https://www.infomoney.com.br/minhas-financas/move-brasil-veja-quais-carros-entram-apos-teto-de-credito-subir-para-r-200-mil/",
+        "summary": "O governo federal ampliou os limites de financiamento dentro do programa The post Move Brasil: veja quais carros é possível comprar após teto subir para R$ 200 mil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/byd-king-2026-estrada-eolicas-2-e1787400877642.webp?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "A Evertec acelerou em aquisições no Brasil nos últimos anos. Para onde crescer agora?",
-        "link": "https://www.infomoney.com.br/business/a-evertec-acelerou-em-aquisicoes-no-brasil-nos-ultimos-anos-para-onde-crescer-agora/",
-        "summary": "Em três anos, empresa gastou R$ 4 bilhões na compra de novas companhias no país e viu país se tornar segundo maior mercado The post A Evertec acelerou em aquisições no Brasil nos últimos anos. Para onde crescer agora? ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/claudio_prado_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Lula: Brasil não vai depender nem da China, nem dos EUA para fazer sua IA",
+        "link": "https://www.infomoney.com.br/politica/lula-brasil-nao-vai-depender-nem-da-china-nem-dos-eua-para-fazer-sua-ia/",
+        "summary": "Ele deu a declaração durante o ato de lançamento da campanha de Patrus Ananias (PT) ao governo de Minas Gerais, em Belo Horizonte The post Lula: Brasil não vai depender nem da China, nem dos EUA para fazer sua IA appeare",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-16T154149Z_1196470336_RC2RZMARSR4D_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Shein foi a grande aposta do fast fashion. Agora, luta para escrever novo capítulo",
-        "link": "https://www.infomoney.com.br/business/global/shein-foi-a-grande-aposta-do-fast-fashion-agora-luta-para-escrever-novo-capitulo/",
-        "summary": "Sob pressão nos Estados Unidos e na Europa, a Shein enfrenta dificuldades para encontrar novas formas de crescer antes de sua tão adiada oferta pública inicial de ações (IPO) The post Shein foi a grande aposta do fast fa",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SHEIN-OUTLOOK-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "INSS libera empréstimo consignado sem biometria facial a aposentados e pensionistas",
+        "link": "https://www.infomoney.com.br/minhas-financas/inss-libera-emprestimo-consignado-sem-biometria-facial-a-aposentados-e-pensionistas/",
+        "summary": "Instrução normativa também cria prazo para bancos confirmarem portabilidade e condiciona o desconto no benefício ao envio do contrato do crédito pela instituição financeira The post INSS libera empréstimo consignado sem ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/inss-aposentadoria-beneficios-aposentados-1674850481940_v2_900x506.jpg.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "22 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Não é só carinho: por que grandes primatas se beijam e se abraçam",
-        "link": "https://exame.com/ciencia/nao-e-so-carinho-por-que-grandes-primatas-se-beijam-e-se-abracam/",
-        "summary": "Pesquisadores descobriram que o contato físico fortalece a confiança entre os animais e reduz tensões antes de situações de competição",
+        "title": "Trump aplica tarifa de 50% sobre Canadá após fracasso em acordo",
+        "link": "https://exame.com/mundo/trump-aplica-tarifa-de-50-sobre-canada-apos-fracasso-em-acordo/",
+        "summary": "Medida atinge cerca de US$ 20 bilhões em produtos canadenses; Mark Carney promete retaliação dólar por dólar",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Dois irmãos gaúchos compram de uma única vez 220 caminhões a gás e já faturam R$ 2,5 bilhões",
-        "link": "https://exame.com/negocios/dois-irmaos-gauchos-compram-de-uma-unica-vez-220-caminhoes-a-gas-e-ja-faturam-r-25-bilhoes/",
-        "summary": "Reiter Log vai superar 600 veículos movidos a gás e amplia uma rede própria de abastecimento com biometano para atender clientes em busca de reduzir emissões",
+        "title": "Messi é multado após dar tapa em adversário durante jogo; veja vídeo",
+        "link": "https://exame.com/esporte/messi-e-multado-apos-dar-tapa-em-adversario-durante-jogo-veja-video/",
+        "summary": "Astro argentino acertou Quinn Sullivan durante empate entre Inter Miami e Philadelphia Union; valor da punição não foi divulgado",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "O que o deserto do Saara ensina sobre carreira e liderança? Veja 5 lições",
-        "link": "https://exame.com/carreira/o-que-o-deserto-do-saara-ensina-sobre-carreira-e-lideranca-veja-5-licoes/",
-        "summary": "Longe das reuniões, notificações e agendas lotadas, executivas brasileiras vão ao Marrocos para discutir tempo, dinheiro e os rumos da própria carreira",
+        "title": "GTA 6: Microsoft e Discord terão que fornecer dados sobre vazamento",
+        "link": "https://exame.com/pop/gta-6-microsoft-e-discord-terao-que-fornecer-dados-sobre-vazamento/",
+        "summary": "Dono da Rockstar tenta identificar responsáveis após vazamentos de gameplay e mapa do jogo provocarem queda de mais de US$ 2 bilhões em valor de mercado",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "6 paradas para um roteiro pela Mantiqueira",
-        "link": "https://exame.com/casual/6-paradas-para-um-roteiro-pela-mantiqueira/",
-        "summary": "Vinícolas, cafés, restaurantes, fazendas e pequenas propriedades abrem as portas para experiências que aproximam o visitante dos sabores da Mantiqueira",
+        "title": "Qual o impacto do aluguel 'consignado' para quem vive de renda de imóveis",
+        "link": "https://exame.com/mercado-imobiliario/qual-o-impacto-do-aluguel-consignado-para-quem-vive-de-renda-de-imoveis/",
+        "summary": "Nova modalidade de garantia vincula pagamento à folha do inquilino e muda a relação entre proprietário e locatário",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após 23 anos com os fundadores, empresa de R$ 100 milhões se reorganiza para dobrar de tamanho",
-        "link": "https://exame.com/negocios/apos-23-anos-com-os-fundadores-empresa-de-r-100-milhoes-se-reorganiza-para-dobrar-de-tamanho/",
-        "summary": "Finnet reforça time executivo e aposta em novos clientes, IA, Open Finance e crédito para sustentar o próximo ciclo de expansão",
+        "title": "'Bafo de Ozempic': canetas emagrecedoras podem causar mau hálito?",
+        "link": "https://exame.com/ciencia/bafo-de-ozempic-canetas-emagrecedoras-podem-causar-mau-halito/",
+        "summary": "Digestão lenta, desidratação e refluxo provocados pela semaglutida explicam o odor desagradável relatado por pacientes que buscam emagrecer",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fábrica de pão de queijo que nasceu em garagem amplia portfólio com empanadas e mira R$ 100 milhões",
-        "link": "https://exame.com/negocios/fabrica-de-pao-de-queijo-que-nasceu-em-garagem-amplia-portfolio-com-empanadas-e-mira-r-100-milhoes/",
-        "summary": "A Cymco, de Curitiba, amplia atuação para além do pão de queijo com a compra de duas empresas de alimentos, focadas em salgados e doces argentinos e em produtos fritos e assados",
+        "title": "F1: Mercedes vence sprint do GP da Holanda antes da classificação; veja como foi",
+        "link": "https://exame.com/esporte/f1-mercedes-vence-sprint-do-gp-da-holanda-antes-da-classificacao-veja-como-foi/",
+        "summary": "Piloto da Mercedes largou na pole e venceu Charles Leclerc por 1,36 segundo; Gabriel Bortoleto somou a nona posição na corrida deste sábado",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
