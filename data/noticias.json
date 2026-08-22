@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T16:29:03.304Z",
+  "updated": "2026-08-22T17:24:07.237Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Dia D atualiza vacinação infantil e reforça alerta contra sarampo",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo",
         "summary": "p strong A Mega-Sena sorteia neste domingo (23) prêmio estimado em R$ 58 milhões. /strong As seis dezenas do concurso 3.048 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. img src",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Desfalcado, São Paulo fecha preparação para pegar a Chape; veja provável escalação",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-chapecoense-provavel-escalacao-brasileirao/",
-        "summary": "O São Paulo concluiu neste sábado a preparação para o duelo contra a Chapecoense, pela 24ª rodada do Campeonato Brasileiro. Dorival Júnior terá baixas importantes para a partida na Arena Condá e deve manter a base da equ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/whatsapp-image-2026-08-22-at-12-14-57-2.webp",
+        "title": "Veja galeria de fotos do treino do Palmeiras neste sábado",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-galeria-de-fotos-do-treino-do-palmeiras-neste-sabado-4/",
+        "summary": "O post Veja galeria de fotos do treino do Palmeiras neste sábado apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/22082026_cg_palmeiras_2786_24.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brentford x Tottenham: siga o tempo real ao vivo do jogo pelo Campeonato Inglês",
-        "link": "https://www.gazetaesportiva.com/times/tottenham/brentford-x-tottenham-siga-o-tempo-real-ao-vivo-do-jogo-pelo-campeonato-ingles/",
-        "summary": "Acompanhe ao vivo a estreia de Brentford e Tottenham na Premier League 2026/27. As equipes se enfrentam neste sábado, às 13h30 (de Brasília), no Brentford Community Stadium. O post Brentford x Tottenham: siga o tempo rea",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260801__C3QV2AJ__v1__MidRes__FblAusEngChelseaTottenhamFriendly.webp",
+        "title": "São Paulo vence Independente e assume a ponta no Paulista sub-17",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-vence-independente-e-assume-a-ponta-no-paulista-sub-17/",
+        "summary": "O São Paulo venceu o Independente por 2 a 1 na manhã deste sábado, fora de casa, e assumiu a liderança do Grupo 22 do Paulista sub-17. O post São Paulo vence Independente e assume a ponta no Paulista sub-17 apareceu prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/250726_spfc_x_votoraty_sub17_055-1536x1024-1.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Os 10 melhores gols do Inter na rodada de abertura",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/os-10-melhores-gols-do-inter-na-rodada-de-abertura/",
-        "summary": "Confira os melhores gols do Inter na primeira rodada da temporada da Serie A, com Christian Vieri, Roberto Carlos, Antonio Candreva e Álvaro Recoba entre os destaques. O post Os 10 melhores gols do Inter na rodada de abe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/YuSf51mo-1920in.webp",
+        "title": "Paulinho inicia transição e Piquerez desfalca o Palmeiras contra o Vasco; veja provável escalação",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/paulinho-inicia-transicao-e-piquerez-desfalca-o-palmeiras-contra-o-vasco-veja-provavel-escalacao/",
+        "summary": "O Palmeiras está pronto para encarar o Vasco. Na manhã deste sábado, o elenco alviverde treinou pela última vez na Academia de Futebol antes do confronto pelo Campeonato Brasileiro, marcado para as 16h (de Brasília) dest",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/22082026_cg_palmeiras_2681_19-1.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Juventus treina com os novos reforços Vicario e Lucumí",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/juventus-treina-com-os-novos-reforcos-vicario-e-lucumi/",
-        "summary": "Confira o treino da Juventus antes do próximo jogo da Serie A contra o Frosinone, com os novos reforços Guglielmo Vicario e Jhon Lucumí. O post Juventus treina com os novos reforços Vicario e Lucumí apareceu primeiro em ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/o5bin1o4-1920Juventus.webp",
+        "title": "Veja fotos de Brentford x Tottenham pelo Campeonato Inglês 2026/27",
+        "link": "https://www.gazetaesportiva.com/times/tottenham/veja-fotos-de-brentford-x-tottenham-pelo-campeonato-ingles-2026-27/",
+        "summary": "Confira as melhores imagens de Brentford x Tottenham, duelo válido pela primeira rodada do Campeonato Inglês 2026/27. O post Veja fotos de Brentford x Tottenham pelo Campeonato Inglês 2026/27 apareceu primeiro em Gazeta ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AQ4C4__v1__HighRes__FblEngPrBrentfordTottenham.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ferran e Doué se enfrentam em desafio de finalizações antes da estreia na Ligue 1",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ferran-e-doue-se-enfrentam-em-desafio-de-finalizacoes-antes-da-estreia-na-ligue-1/",
-        "summary": "O novo atacante Ferran Torres mostrou muita qualidade em um desafio de finalizações com Désiré Doué enquanto o Paris Saint-Germain se preparava para o duelo contra o Rennes. O post Ferran e Doué se enfrentam em desafio d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/dooqdgl5-1920v.webp",
+        "title": "Veja fotos de Inter de Milão x Monza pelo Campeonato Italiano 2026/27",
+        "link": "https://www.gazetaesportiva.com/times/internazionale/veja-fotos-de-inter-de-milao-x-monza-pelo-campeonato-italiano-2026-27/",
+        "summary": "Confira as melhores imagens de Inter de Milão x Monza, partida válida pela primeira rodada do Campeonato Italiano 2026/27, disputada no San Siro. O post Veja fotos de Inter de Milão x Monza pelo Campeonato Italiano 2026/",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AR6WV__v1__HighRes__FblItaSerieaInterMonza.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Arteta destaca a boa condição física de Bruno Guimarães e celebra a chegada de Konsa",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/arteta-destaca-a-boa-condicao-fisica-de-bruno-guimaraes-e-celebra-a-chegada-de-konsa/",
-        "summary": "O técnico do Arsenal, Mikel Arteta, falou sobre os dois novos reforços do clube, Bruno Guimarães e Ezri Konsa, após a vitória por 3 a 0 sobre o Coventry City na estreia da Premier League. O post Arteta destaca a boa cond",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/uq042nt6-1920Mikel-Arteta.webp",
+        "title": "Veja fotos do último treino do São Paulo antes de pegar a Chapecoense",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-ultimo-treino-do-sao-paulo-antes-de-pegar-a-chapecoense-2/",
+        "summary": "O post Veja fotos do último treino do São Paulo antes de pegar a Chapecoense apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55479567382_cd532e4275_h.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Jogador de futebol Quévin Castro morre aos 25 anos em Portugal",
+        "link": "https://www.infomoney.com.br/esportes/jogador-de-futebol-quevin-castro-morre-aos-25-anos-em-portugal/",
+        "summary": "Parte do elenco do Real Sport Clube de Massamá, recebeu atendimento no campo e foi levado ao hospital após sofrer um mal-estar aos 10 minutos da partida contra o Estrela da Amadora The post Jogador de futebol Quévin Cast",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/quevin-castro.png?fit=300%2C228&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil",
+        "link": "https://www.infomoney.com.br/esportes/presidente-da-concacaf-pede-a-infantino-que-nao-participe-de-torneio-juvenil/",
+        "summary": "Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil The post Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T141051Z_1_LYNXMPEM790ZP_RTROPTP_4_COLOMBIA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "A Odisseia se torna o filme classificado para adultos de maior bilheteria mundial",
+        "link": "https://www.infomoney.com.br/business/a-odisseia-se-torna-o-filme-classificado-para-adultos-de-maior-bilheteria-mundial/",
+        "summary": "Até então, o recorde pertencia ao filme Deadpool Wolverine, lançado em 2024 The post A Odisseia se torna o filme classificado para adultos de maior bilheteria mundial appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/a-odisseia-filme.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Irã condena planos dos EUA de anunciar novas sanções",
         "link": "https://www.infomoney.com.br/mundo/ira-condena-planos-dos-eua-de-anunciar-novas-sancoes/",
         "summary": "Irã condena planos dos EUA de anunciar novas sanções The post Irã condena planos dos EUA de anunciar novas sanções appeared first on InfoMoney.",
@@ -337,89 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Justiça dos EUA anula suspensão de vistos a 75 países, incluindo o Brasil",
-        "link": "https://www.infomoney.com.br/minhas-financas/justica-dos-eua-anula-suspensao-de-vistos-a-75-paises-incluindo-o-brasil/",
-        "summary": "Decisão de tribunal de Nova York considera que o Departamento de Estado extrapolou sua autoridade legal ao recusar pedidos com base apenas no país de origem do solicitante, mas o governo americano ainda pode recorrer The",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/Snapinst.app_415008922_759276389567567_6181270211009578906_n_1080.jpg?fit=300%2C167&amp;quality=70&amp;strip=all",
+        "title": "Mercado por Elas: Após divórcio, ela descobriu dívida de R$ 1 milhão em aluguel da própria casa",
+        "link": "https://exame.com/invest/opina/mercado-por-elas-apos-divorcio-ela-descobriu-divida-de-r-1-milhao-em-aluguel-da-propria-casa/",
+        "summary": "Um retrato da violência patrimonial que cresce no Brasil e que o mercado imobiliário não pode mais ignorar",
+        "image": null,
         "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Tarcísio sobre ausência de Flávio e Lula em debate: Questão de estratégia",
-        "link": "https://www.infomoney.com.br/politica/tarcisio-sobre-ausencia-de-flavio-e-lula-em-debate-questao-de-estrategia/",
-        "summary": "\"Cada candidatura tem a sua estratégia em função da posição das pesquisas e temos que observar isso\", falou The post Tarcísio sobre ausência de Flávio e Lula em debate: Questão de estratégia appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/55369391636_21954ff541_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Do vinhedo à taça, como a Chandon avança na regeneração de solo",
+        "link": "https://exame.com/esg/do-vinhedo-a-taca-como-a-chandon-avanca-na-regeneracao-de-solo/",
+        "summary": "Primeira vinícola brasileira certificada em viticultura sustentável, a marca investe em cobertura vegetal e zero herbicidas: \"Construímos tudo pensando nas próximas gerações\", diz diretora à EXAME",
+        "image": null,
         "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Meta é condenada a indenizar Miss SP por não apagar ataques racistas no Instagram",
-        "link": "https://www.infomoney.com.br/brasil/meta-e-condenada-a-indenizar-miss-sp-por-nao-apagar-ataques-racistas-no-instagram/",
-        "summary": "\"Fui muito humilhada, tentaram desmerecer minha conquista, mas não me calei. Após dois anos, talvez um pouco mais, conseguimos uma vitória\", disse Milla Vieira The post Meta é condenada a indenizar Miss SP por não apagar",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Milla-Vieira.png?fit=300%2C282&amp;quality=70&amp;strip=all",
+        "title": "Rússia avalia compra estatal de grãos após problemas nas exportações",
+        "link": "https://exame.com/mundo/russia-avalia-compra-estatal-de-graos-apos-problemas-nas-exportacoes/",
+        "summary": "Governo russo também estuda ampliar crédito e subsídios para produtores diante das dificuldades de escoamento no Mar de Azov e no Mar Negro",
+        "image": null,
         "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Collab entre Farm e Stanley ultrapassa 8 mil cadastros antes do lançamento",
+        "link": "https://exame.com/marketing/collab-entre-farm-e-stanley-ultrapassa-8-mil-cadastros-antes-do-lancamento/",
+        "summary": "Coleção une estampas da Farm a produtos de hidratação da Stanley e já supera 5 milhões de visualizações nas redes sociais",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Serena Williams volta ao US Open ao lado de Carlos Alcaraz em dupla inédita",
+        "link": "https://exame.com/esporte/serena-williams-volta-ao-us-open-ao-lado-de-carlos-alcaraz-em-dupla-inedita/",
+        "summary": "Ex-número 1 do mundo disputará novamente o Grand Slam de Nova York após quatro anos",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Uber é multada em € 825 milhões por suspender motoristas com algoritmo",
         "link": "https://exame.com/mundo/uber-e-multada-em-e-825-milhoes-por-suspender-motoristas-com-algoritmo/",
         "summary": "Autoridade de proteção de dados da Holanda diz que contas foram suspensas sem aviso adequado e sem revisão humana",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Fórmula 1: horário e onde assistir ao último GP da Holanda",
-        "link": "https://exame.com/esporte/formula-1-horario-e-onde-assistir-ao-ultimo-gp-da-holanda/",
-        "summary": "Lando Norris larga na pole, com George Russell em segundo; brasileiro Gabriel Bortoleto parte da nona posição em Zandvoort",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "GP da Holanda de F1: veja a classificação e o grid de largada",
-        "link": "https://exame.com/esporte/gp-da-holanda-de-f1-veja-a-classificacao-e-o-grid-de-largada/",
-        "summary": "Lando Norris larga na pole em Zandvoort, com George Russell em segundo e Gabriel Bortoleto na nona posição",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "NASA vai explorar lua de Saturno com 'drone' em busca de sinais de vida",
-        "link": "https://exame.com/ciencia/nasa-vai-explorar-lua-de-saturno-com-drone-em-busca-de-sinais-de-vida/",
-        "summary": "Missão Dragonfly vai sobrevoar dezenas de locais em Titã, coletar amostras e investigar moléculas orgânicas que podem ajudar a explicar como a vida surgiu na Terra",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A IA assassinou a criatividade no marketing?",
-        "link": "https://exame.com/marketing/ia-matou-a-criatividade-no-marketing/",
-        "summary": "Estudos indicam que IA e automação podem liberar profissionais do trabalho repetitivo e abrir mais espaço para estratégia e criatividade",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "F1: 'Melhor volta da minha vida', diz Norris após classificação do GP da Holanda",
-        "link": "https://exame.com/esporte/f1-melhor-volta-da-minha-vida-diz-norris-apos-classificacao-do-gp-da-holanda/",
-        "summary": "Britânico da McLaren foi apenas 0s102 mais rápido que Russell; Antonelli larga em terceiro e Verstappen fica na sétima posição",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
