@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-22T20:27:10.180Z",
+  "updated": "2026-08-22T21:25:16.329Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Vencedora de leilão é desclassificada e arrematação de terreno do Exército em Valinhos é anulada",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/vencedora-leilao-desclassificada-arrematacao-terreno-exercito-valinhos-anulada.ghtml",
+        "summary": "Fazenda Remonta, em Valinhos Divulgação/Prefeitura de Valinhos A Fundação Habitacional do Exército (FHE) desclassificou nesta quarta-feira (19) a empresa Alphaville Desenvolvimento Imobiliário do leilão de um terreno de ",
+        "image": "https://s2-g1.glbimg.com/DvVw3ORQLpd_-qERPFMmAJQ3mag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/w68rFsRDS1h60zBno2DQ/1200px-x-800px-6-.jpg",
+        "date": "22 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Caiado afirma ser a favor do fim da escala 6x1 após chamar PEC de 'eleitoreira'",
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/22/caiado-afirma-ser-a-favor-do-fim-da-escala-6x1-apos-chamar-pec-de-eleitoreira.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/caderneta-atrasada-regiao-de-campinas-tem-dia-d-de-vacinacao-neste-sabado-veja-locais.ghtml",
         "summary": "Profissional aplica vacina contra covid-19 em São Paulo Governo do Estado de SP As cidades da região de Campinas (SP) realizam neste sábado (22) o \"Dia D\" da Campanha Nacional de Multivacinação. A mobilização começa a pa",
         "image": "https://s2-g1.glbimg.com/AI6Vnp2AHL14ia7Ij-bC5fzsnyo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/AzwVraT7iXhjUfTEe48g/governo-do-estado-9.9.21.jpg",
-        "date": "22 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Peixe recém-descoberto na Amazônia já enfrenta risco de desaparecer, aponta estudo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/22/peixe-recem-descoberto-na-amazonia-ja-enfrenta-risco-de-desaparecer-aponta-estudo.ghtml",
-        "summary": "Macho da espécie recém-descoberta no Amapá Yuri Abrantes Um peixe de poucos centímetros, de cores intensas e até então desconhecido pela ciência foi encontrado no sul do Amapá. Batizada de Laimosemion laranja, a nova esp",
-        "image": "https://s2-g1.glbimg.com/PechDjxDHG1B_74uvWI52JbPjDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/G/bO96yNTBAXXOBAWK36mA/oo-1751005.jpg",
         "date": "22 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Peixe antes desprezado melhora renda de mulheres da pesca no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia img src= https://cdn.jsdelivr.net/gh/sergio",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Morre veterinária atacada por cachorro no canil do Senado Federal",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Dia D atualiza vacinação infantil e reforça alerta contra sarampo",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo",
-        "summary": "p strong A Mega-Sena sorteia neste domingo (23) prêmio estimado em R$ 58 milhões. /strong As seis dezenas do concurso 3.048 serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo. img src",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Corinthians fecha preparação para pegar o Coritiba; veja provável escalação",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-fecha-preparacao-para-pegar-o-coritiba-veja-provavel-escalacao/",
-        "summary": "O Corinthians encerrou a preparação para enfrentar o Coritiba, neste domingo, pelo Campeonato Brasileiro. Fernando Diniz não poderá contar com Rodrigo Garro, suspenso, e ainda tem uma série de desfalques por questões fís",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247841.webp",
+        "title": "Internacional x Atlético-MG: siga o tempo real do jogo pelo Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-x-atletico-mg-campeonato-brasileiro-22-08-2026/",
+        "summary": "Internacional e Atlético-MG se enfrentam neste sábado, a partir das 18h30 (de Brasília), no Beira-Rio, em Porto Alegre (RS). O duelo é válido pela 24ª rodada do Campeonato Brasileiro. Escalações Internacional Matheus Cun",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQWq-TXUAAN-Z0.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Juventus goleia o Osasco e garante vaga nas quartas de final da Copa Paulista; veja classificados",
-        "link": "https://www.gazetaesportiva.com/times/juventus-mooca/juventus-goleia-o-osasco-e-garante-vaga-nas-quartas-de-final-da-copa-paulista-veja-classificados/",
-        "summary": "A Juventus goleou o Osasco por 5 a 0 na última rodada da fase de grupos da Copa Paulista, assumiu a liderança do Grupo 3 e garantiu vaga direta nas quartas de final da competição. O post Juventus goleia o Osasco e garant",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SnapDownloader.App_780748558_17986094208045862_8305370566858277114_n.webp",
+        "title": "Bayern vence na visita ao Dortmund e conquista Supercopa da Alemanha",
+        "link": "https://www.gazetaesportiva.com/times/bayern/bayern-vence-na-visita-ao-dortmund-e-conquista-supercopa-da-alemanha/",
+        "summary": "O Bayern de Munique, que na temporada passada conquistou a dobradinha nacional (Bundesliga e Copa da Alemanha), venceu neste sábado a Supercopa Franz Beckenbauer do país ao derrotar o Borussia Dortmund por 2 a 1, fora de",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6B246H__v1__HighRes__FblGerSupercupDortmundBayernMunich.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Al Ahli 4 x 0 Abha pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-ahli-4-x-0-abha-pela-liga-saudita/",
-        "summary": "Melhores momentos: Al Ahli 4 x 0 Abha pela Liga Saudita O post Melhores momentos: Al Ahli 4 x 0 Abha pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Al-Ahli-4.webp",
+        "title": "Melhores momentos: Fluminense 2 x 1 Remo pelo Brasileiro",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fluminense-2-x-1-remo-pelo-brasileiro/",
+        "summary": "Confira os melhores momentos de Fluminense 2 x 1 Remo, duelo válido pela 24ª rodada do Campeonato Brasileiro 2026, disputado na tarde de Sábado, no Estádio Jornalista Mário Filho (Maracanã) no Rio de Janeiro (RJ). O post",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/m91lyj3z-1920Fluminense.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Atual vice-campeão, Lens goleia Auxerre em estreia no Campeonato Francês",
-        "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/atual-vice-campeao-lens-goleia-auxerre-em-estreia-no-campeonato-frances/",
-        "summary": "O Lens, que brilhou na temporada passada com o título da Copa da França e o vice-campeonato da Ligue 1, iniciou sua trajetória na nova edição do campeonato francês com uma goleada de 5 a 2 sobre o Auxerre, neste sábado, ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AR4CQ__v1__HighRes__FblFraLigue1LensAuxerre.webp",
+        "title": "Confira as fotos de Sporting x Alverca pelo Campeonato Português",
+        "link": "https://www.gazetaesportiva.com/times/sporting-por/confira-as-fotos-de-sporting-x-alverca-pelo-campeonato-portugues/",
+        "summary": "O post Confira as fotos de Sporting x Alverca pelo Campeonato Português apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AY4EB__v1__MidRes__FblPorLigaSportingAlverca.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Al Khaleej 0 x 0 Al Shabab pela Liga Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-khaleej-0-x-0-al-shabab-pela-liga-saudita/",
-        "summary": "Melhores momentos: Al Khaleej 0 x 0 Al Shabab pela Liga Saudita O post Melhores momentos: Al Khaleej 0 x 0 Al Shabab pela Liga Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1y5rs9ex-1920Khaleej.webp",
+        "title": "Melhores momentos: Dortmund 1 x 2 Bayern pelo Alemão",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-dortmund-1-x-2-bayern-pelo-alemao/",
+        "summary": "Melhores momentos: Dortmund 1 x 2 Bayern pelo Alemão O post Melhores momentos: Dortmund 1 x 2 Bayern pelo Alemão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/l5ucs96k-19202-Bayern.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Arthur Fils vence Cobolli é o primeiro finalista do Masters 1000 de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/arthur-fils-vence-cobolli-e-o-primeiro-finalista-do-masters-1000-de-cincinnati/",
-        "summary": "O tenista francês Arthur Fils derrotou neste sábado o italiano Flavio Cobolli e avançou para a final do Masters 1000 de Cincinnati, a primeira de um torneio desta categoria em sua carreira. Fils, número 21 da ATP, supero",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__2291583984__v1__HighRes__CincinnatiOpen2026Day12.webp",
+        "title": "Fluminense busca virada contra o Remo e garante permanência no G4 do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-remo-campeonato-brasileiro-22-08-2026/",
+        "summary": "Após sair atrás no placar, o Fluminense buscou a vitória e superou o Remo por 2 a 1 na tarde deste sábado, pela 24ª rodada do Campeonato Brasileiro. Jajá abriu o placar pelos paraenses no Maracanã, enquanto Hulk e Serna ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55481309844_f499601eb7_o.webp",
         "date": "22 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Cruzeiro x Flamengo: Onde assistir ao Brasileirão?",
+        "link": "https://www.infomoney.com.br/esportes/cruzeiro-flamengo-onde-assistir-brasileirao/",
+        "summary": "Os times voltam à campo após a disputa na Libertadores The post Cruzeiro x Flamengo: Onde assistir ao Brasileirão? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-cruzeiro-x-flamengo-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Terremoto de magnitude 5,9 sacode leste do Japão; não há alerta de tsunami",
+        "link": "https://www.infomoney.com.br/mundo/terremoto-de-magnitude-59-sacode-leste-do-japao-nao-ha-alerta-de-tsunami/",
+        "summary": "A TV pública NHK mostrou o tráfego nas estradas em cidades próximas, incluindo Mito e Saitama, aparentemente normal The post Terremoto de magnitude 5,9 sacode leste do Japão; não há alerta de tsunami appeared first on In",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Mapa-do-tremor-japao-usgs.png?fit=300%2C160&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Zelenski diz que acertou com Macron aceleração de entrega de mísseis franceses",
+        "link": "https://www.infomoney.com.br/mundo/zelenski-diz-que-acertou-com-macron-aceleracao-de-entrega-de-misseis-franceses/",
+        "summary": "Confirmação foi feita na rede social X The post Zelenski diz que acertou com Macron aceleração de entrega de mísseis franceses appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-22T151645Z_1_LYNXMPEM0L11G_RTROPTP_4_DAVOS-MEETING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "22 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores",
         "link": "https://www.infomoney.com.br/onde-investir/pedro-jobim-recessao-perdas-ineditas-investimentos/",
         "summary": "Economista-chefe e sócio-fundador da Legacy Capital afirma que o ciclo de endividamento atual se apoiou no mercado de capitais, e não no crédito bancário, o que jogaria eventuais calotes direto na carteira do investidor ",
@@ -337,34 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Mundo redescobre dívida colossal dos EUA, e risco de crise começa a preocupar",
-        "link": "https://www.infomoney.com.br/business/global/mundo-redescobre-divida-colossal-eua-risco-comeca-a-preocupar/",
-        "summary": "Poucos economistas acreditam em crise generalizada no mercado de títulos americano, mas, com a era dos juros baixos chegando ao fim, veem os riscos aumentarem The post Mundo redescobre dívida colossal dos EUA, e risco de",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/HIGHER-RATES-1.jpg?fit=300%2C214&amp;quality=70&amp;strip=all",
+        "title": "Datafolha: 30% votam para evitar que outro candidato chegue à Presidência",
+        "link": "https://exame.com/brasil/datafolha-30-votam-para-evitar-que-outro-candidato-chegue-a-presidencia/",
+        "summary": "Levantamento também aponta que 72% dos eleitores já estão totalmente decididos sobre o voto para presidente",
+        "image": null,
         "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ronaldo Caiado muda discurso e se diz ser a favor do fim da escala 6 1",
-        "link": "https://www.infomoney.com.br/politica/ronaldo-caiado-muda-discurso-e-se-diz-ser-a-favor-do-fim-da-escala-6x1/",
-        "summary": "\"Sim, sou a favor\", disse, sem dar mais explicações. The post Ronaldo Caiado muda discurso e se diz ser a favor do fim da escala 6 1 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Flávio sobre combate ao crime: Bandido será tirado de circulação em pé ou deitado",
-        "link": "https://www.infomoney.com.br/politica/flavio-sobre-combate-ao-crime-bandido-sera-tirado-de-circulacao-em-pe-ou-deitado/",
-        "summary": "Falas foram emitidas durante o lançamento da campanha de Douglas Ruas (PL) ao governo do Rio de Janeiro, no Maracanãzinho The post Flávio sobre combate ao crime: Bandido será tirado de circulação em pé ou deitado appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-27T200245Z_1_LYNXMPEM4Q21M_RTROPTP_4_BRAZIL-ELECTION-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "A animação chinesa de US$ 200 que faturou US$ 4 milhões e virou símbolo anti-IA",
@@ -410,16 +420,6 @@
         "title": "TikTok pagará US$ 400 milhões para encerrar processo sobre privacidade infantil",
         "link": "https://exame.com/tecnologia/tiktok-pagara-us-400-milhoes-para-encerrar-processo-sobre-privacidade-infantil/",
         "summary": "Departamento de Justiça dos EUA afirma que mudanças na plataforma ajudaram a encerrar a disputa",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Disney corta benefício de saúde para parte dos cônjuges de funcionários",
-        "link": "https://exame.com/negocios/disney-corta-beneficio-de-saude-para-parte-dos-conjuges-de-funcionarios/",
-        "summary": "A mudança valerá para cônjuges que tenham seguro médico pelo próprio empregador",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
