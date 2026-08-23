@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T08:34:30.821Z",
+  "updated": "2026-08-23T09:31:32.106Z",
   "feeds": {
     "campinas": [
       {
@@ -185,6 +185,16 @@
     ],
     "esportes": [
       {
+        "title": "Corinthians defende longo tabu contra o Coritiba; veja retrospecto",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-defende-longo-tabu-contra-o-coritiba-veja-retrospecto/",
+        "summary": "O Corinthians visita o Coritiba neste domingo defendendo uma invencibilidade de 14 anos como visitante no confronto. O Timão não perde para o Coxa em Curitiba desde 2011 e acumula nove partidas sem derrota no período. A ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/213373.webp",
+        "date": "23 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Orlando Luz e Rafael Matos brilham e vão à decisão em Cincinnati",
         "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/orlando-luz-e-rafael-matos-brilham-e-vao-a-decisao-em-cincinnati/",
         "summary": "Orlando Luz e Rafael Matos estão na final do Masters 1000 de Cincinnati após vencerem Hugo Nys e Edouard Roger-Vasselin. A dupla brasileira busca o segundo título consecutivo em um Masters 1000. O post Orlando Luz e Rafa",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/flamengo/varela-flamengo-cruzeiro-matar-jogo/",
         "summary": "Varela avaliou a derrota do Flamengo por 2 a 1 para o Cruzeiro, no Mineirão, e lamentou a falta de eficiência da equipe. Segundo o lateral, o Rubro-Negro correu riscos por não “matar” a partida quando teve oportunidades.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55481462331_b9e5b8a0ac_3k.webp",
-        "date": "23 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Messi marca, mas Inter Miami perde para o Toronto FC em casa pela MLS",
-        "link": "https://www.gazetaesportiva.com/inter-miami/messi-marca-mas-inter-miami-perde-para-o-toronto-fc-em-casa-pela-mls/",
-        "summary": "Messi marcou, mas o Inter Miami perdeu por 2 a 1 para o Toronto FC, em casa, pela MLS. Veja os gols e os detalhes da partida. O post Messi marca, mas Inter Miami perde para o Toronto FC em casa pela MLS apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6B446C__v1__HighRes__InterMiamiCfVsTorontoFc.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "O que falta para crescimento da Argentina? Para analistas, recuperação segue frágil",
+        "link": "https://www.infomoney.com.br/mercados/o-que-falta-para-crescimento-da-argentina-para-analistas-recuperacao-segue-fragil/",
+        "summary": "Mesmo com comércio exterior e disciplina fiscal, mercado de trabalho e demanda ainda parecem fracos The post O que falta para crescimento da Argentina? Para analistas, recuperação segue frágil appeared first on InfoMoney",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Argentina_Greve.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Por que os postos quebram 22 vezes mais que o varejo — mas quase nunca fecham?",
         "link": "https://www.infomoney.com.br/business/por-que-postos-quebram-22-vezes-mais-que-o-varejo-mas-quase-nunca-fecham/",
         "summary": "Estudo indica que até o final de junho havia 182 postos em recuperação, 31,9% a mais do que em igual período do ano anterior The post Por que os postos quebram 22 vezes mais que o varejo — mas quase nunca fecham? appeare",
@@ -357,14 +367,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Premiê do Canadá e autoridades locais discutem suspensão do comércio com os EUA",
-        "link": "https://www.infomoney.com.br/mundo/premie-do-canada-e-autoridades-locais-discutem-suspensao-do-comercio-com-os-eua/",
-        "summary": "Mark Carney detalhou os próximos passos para proteger os interesses canadenses, incluindo tarifas retaliatórias na mesma proporção The post Premiê do Canadá e autoridades locais discutem suspensão do comércio com os EUA ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-20T155459Z_1083991834_RC235JAMDW7H_RTRMADP_3_DAVOS-MEETING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "22 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Jasper AI vale a pena? Conheça formas de usar a ferramenta para acelerar sua rotina de marketing",
+        "link": "https://exame.com/inteligencia-artificial/jasper-ai-vale-a-pena-conheca-formas-de-usar-a-ferramenta-para-acelerar-sua-rotina-de-marketing/",
+        "summary": "Plataforma reúne recursos voltados à produção de conteúdo, redes sociais, campanhas e padronização de marca; veja onde ela pode ajudar profissionais de marketing",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Balanços do segundo trimestre expõem contrastes no setor de turismo",
+        "link": "https://exame.com/exame-in/balancos-do-segundo-trimestre-expoem-contrastes-no-setor-de-turismo/",
+        "summary": "ARTIGO: Aéreas venderam mais, mas viram o lucro despencar com o combustível; hotéis resistiram e plataformas digitais ampliaram resultados",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "5 hacks infalíveis para destravar o potencial do Claude 3",
@@ -400,26 +420,6 @@
         "title": "Datafolha: 30% votam para evitar que outro candidato chegue à Presidência",
         "link": "https://exame.com/brasil/datafolha-30-votam-para-evitar-que-outro-candidato-chegue-a-presidencia/",
         "summary": "Levantamento também aponta que 72% dos eleitores já estão totalmente decididos sobre o voto para presidente",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A animação chinesa de US$ 200 que faturou US$ 4 milhões e virou símbolo anti-IA",
-        "link": "https://exame.com/pop/a-animacao-chinesa-de-us-200-que-faturou-us-4-milhoes-e-virou-simbolo-anti-ia/",
-        "summary": "Produção foi desenvolvida sem ferramentas de inteligência artificial e ganhou força após viralizar nas redes sociais",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O futuro chegou: ITMOS e a hora de o Brasil monetizar sua transformação ecológica",
-        "link": "https://exame.com/esg/o-futuro-chegou-itmos-e-a-hora-de-o-brasil-monetizar-sua-transformacao-ecologica/",
-        "summary": "O Brasil tem ativos ambientais que países desenvolvidos precisam comprar. Mas enquanto Gana, Tailandia e Quenia já monetizam suas reduções de emissão, o Brasil ainda discute como autorizá-las. Combinar os Artigos 6.2 e 6",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Exame",
