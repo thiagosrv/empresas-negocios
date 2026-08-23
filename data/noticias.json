@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:47:42.754Z",
+  "updated": "2026-08-23T13:34:38.281Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Conheça as atribuições do presidente e do vice-presidente da República",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Veja como foi o sábado (22) dos candidatos a presidente",
         "link": "https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
@@ -166,16 +176,6 @@
         "title": "Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Morre veterinária atacada por cachorro no canil do Senado Federal",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "22 de ago. de 2026",
         "source": "Agência Brasil",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "O Judiciário brasileiro precisa de uma ampla reforma , diz novo presidente do STJ",
+        "link": "https://www.infomoney.com.br/politica/o-judiciario-brasileiro-precisa-de-uma-ampla-reforma-diz-novo-presidente-do-stj/",
+        "summary": "Luís Felipe Salomão propõe pacto entre Poderes para frear explosão de ações, afirma que Tribunal enfrentou crises internas, como venda de sentenças e acusação de assédio, e critica ataques a Cortes como arma eleitoral Th",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/trbr7894_1.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Museu de cera põe Harry e Meghan de malas prontas com anúncio de volta ao Reino Unido",
+        "link": "https://www.infomoney.com.br/mundo/museu-de-cera-poe-harry-e-meghan-de-malas-prontas-com-anuncio-de-volta-ao-reino-unido/",
+        "summary": "Desde que Meghan ganhou sua primeira figura no museu, em 2018, a localização dos dois no Madame Tussauds tem acompanhado, com doses de humor, as mudanças na vida pública do casal The post Museu de cera põe Harry e Meghan",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Reproducao-Instagram-Madame-Tussauds.jpg?fit=271%2C300&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Desdobramentos dos casos Master e Lulinha ampliam divergências entre Mendonça e Gonet",
+        "link": "https://www.infomoney.com.br/politica/desdobramentos-dos-casos-master-e-lulinha-ampliam-divergencias-entre-mendonca-e-gonet/",
+        "summary": "Descompasso ampliou as divergências entre os dois, que vêm se acumulando nos últimos meses e perpassam também, além da apuração sobre descontos indevidos de aposentadorias, o caso ligado ao Banco Master The post Desdobra",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/montagem-infomoney-4.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tesla e chinesas fazem recall de mais de 4 milhões de carros por falha em portas",
+        "link": "https://www.infomoney.com.br/business/tesla-e-chinesas-fazem-recall-de-mais-de-4-milhoes-de-carros-por-falha-em-portas/",
+        "summary": "O recall, o maior deste ano, ocorre depois de as autoridades chinesas terem dito que proibiriam maçanetas de portas ocultas The post Tesla e chinesas fazem recall de mais de 4 milhões de carros por falha em portas appear",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454450042.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "José Mourinho afirma que Vini Jr. sofre bullying: O que fazem com ele é demais",
         "link": "https://www.infomoney.com.br/esportes/jose-mourinho-afirma-que-vini-jr-sofre-bullying-o-que-fazem-com-ele-e-demais/",
         "summary": "Contra o Espanyol, o atacante brasileiro foi derrubado por Calatrava antes dos 3 minutos de jogo. No chão, foi alvo de um chute do adversário The post José Mourinho afirma que Vini Jr. sofre bullying: O que fazem com ele",
@@ -327,99 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Zema defende nova reforma da Previdência com ajuste pela expectativa de vida",
-        "link": "https://www.infomoney.com.br/politica/zema-defende-nova-reforma-da-previdencia-com-ajuste-pela-expectativa-de-vida/",
-        "summary": "Zema se reuniu com pessoas que tiveram descontos indevidos de aposentadorias e pensões do INSS The post Zema defende nova reforma da Previdência com ajuste pela expectativa de vida appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-governador-minas-gerais-politica-novo03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Primeiro \"made in Brazil\" da Adidas no Futsal mira um mercado de R$ 500 milhões",
+        "link": "https://exame.com/exame-in/primeiro-made-in-brazil-da-adidas-no-futsal-mira-um-mercado-de-r-500-milhoes/",
+        "summary": "Lucas Barillari, Diretor de Sports Marketing, detalha estratégia que, além do lançamento de linha exclusiva, conta com uma collab com o atleta Falcão",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "De psicóloga a sócia: como Aline Rosa construiu uma carteira de R$ 300 milhões",
-        "link": "https://www.infomoney.com.br/advisor/de-psicologa-a-socia-como-aline-rosa-construiu-uma-carteira-de-r-300-milhoes/",
-        "summary": "Ela deixou o consultório, começou como caixa de banco e participou da construção da operação da Monte Bravo em Goiânia; hoje, aos 38 anos, é sócia da empresa, acompanha cerca de R$ 300 milhões e mira R$ 500 milhões The p",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Aline-Rosa.jpg.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "O que o seu azeite não te conta",
+        "link": "https://exame.com/casual/o-que-seu-azeite-nao-te-conta/",
+        "summary": "Extra virgem, acidez, prensagem a frio: o que essas palavras realmente dizem sobre o seu azeite",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Após acidente no RJ, especialistas dão recomendações para o turismo de aventura; veja",
-        "link": "https://www.infomoney.com.br/brasil/apos-acidente-no-rj-especialistas-dao-recomendacoes-para-o-turismo-de-aventura-veja/",
-        "summary": "A queda do helicóptero, que matou três colombianas e o piloto, acende o alerta para os cuidados que o viajante deve ter ao contratar esses serviços The post Após acidente no RJ, especialistas dão recomendações para o tur",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Acidente-helicoptero.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Japão registra terremoto de magnitude 5,9; outro tremor atingiu o país no mês passado",
+        "link": "https://exame.com/mundo/japao-registra-novo-terremoto-de-59-outro-tremor-atingiu-o-pais-no-mes-passado/",
+        "summary": "Tremor atingiu Ibaraki neste domingo, 23, deixou ao menos 37 feridos e foi sentido em Tóquio",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Falta de infraestrutura de IA limita crescimento de startups brasileiras",
-        "link": "https://www.infomoney.com.br/business/falta-de-infraestrutura-de-ia-limita-crescimento-de-startups-brasileiras/",
-        "summary": "Mais de um terço das 90 empresas ouvidas relatam que já tiveram a operação limitada pela infraestrutura disponível The post Falta de infraestrutura de IA limita crescimento de startups brasileiras appeared first on InfoM",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/inteligencia-artificial-ai-ia-tecnologia.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Standard Chartered revisa preço do bitcoin e diz que US$ 100 mil 'pode ser pouco'",
+        "link": "https://exame.com/future-of-money/standard-chartered-revisa-preco-do-bitcoin-e-diz-que-us-100-mil-pode-ser-pouco/",
+        "summary": "Banco britânico está otimista com o potencial de valorização da criptomoeda até o fim do ano",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "IA que protege imóveis de enchentes e vendavais e evitou R$ 1,6 milhão em perdas",
+        "link": "https://exame.com/mercado-imobiliario/ia-que-protege-imoveis-de-enchentes-e-vendavais-e-evitou-r-16-milhao-em-perdas/",
+        "summary": "Arch Capital usa inteligência artificial para prever riscos climáticos com até 36 meses de antecedência e proteger edifícios corporativos e galpões logísticos",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "GP da Holanda de F1 hoje: veja horário, onde assistir e grid de largada",
         "link": "https://exame.com/esporte/gp-da-holanda-de-f1-hoje-veja-horario-onde-assistir-e-grid-de-largada/",
         "summary": "Lando Norris larga na pole em Zandvoort, enquanto Gabriel Bortoleto parte em nono; corrida começa às 10h deste domingo, 23",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ela aposta no atendimento humano na era da IA e projeta faturar R$ 30 milhões em 2026",
-        "link": "https://exame.com/negocios/ela-aposta-no-atendimento-humano-na-era-da-ia-e-projeta-faturar-r-30-milhoes-em-2026/",
-        "summary": "Fundada por Marina Vaz, Scooto contrata mulheres para atuar remotamente no atendimento ao cliente e faturou R$ 12 milhões no primeiro semestre, alta de 50%",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "16 múmias e um cachorro: tumba egípcia revela 700 anos de rituais funerários",
-        "link": "https://exame.com/ciencia/16-mumias-e-um-cachorro-tumba-egipcia-revela-700-anos-de-rituais-funerarios/",
-        "summary": "Pesquisadores descobriram que gerações reorganizaram o mesmo espaço sem abandonar antigas tradições de sepultamento",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que o debate da Band é o primeiro da eleição: entenda a tradição histórica",
-        "link": "https://exame.com/brasil/por-que-o-debate-da-band-e-o-primeiro-da-eleicao-entenda-a-tradicao-historica/",
-        "summary": "Pioneirismo da emissora começou na redemocratização e se transformou em um acordo estratégico que marca a largada oficial das campanhas no Brasil",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PIX fora do ar? Usuários relatam instabilidades neste domingo",
-        "link": "https://exame.com/invest/minhas-financas/pix-fora-do-ar-usuarios-relatam-instabilidades-neste-domingo/",
-        "summary": "Mais de 2.500 reclamações foram registradas na manhã deste domingo, 23",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Sapos ficam confusos quando têm opções demais para acasalar, revela estudo",
-        "link": "https://exame.com/ciencia/sapos-ficam-confusos-quando-tem-opcoes-demais-para-acasalar-revela-estudo/",
-        "summary": "Pesquisadores observaram que o aumento no número de pretendentes reduziu a precisão das escolhas e prolongou o tempo de decisão",
         "image": null,
         "date": "23 de ago. de 2026",
         "source": "Exame",
