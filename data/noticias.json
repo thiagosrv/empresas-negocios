@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:34:38.281Z",
+  "updated": "2026-08-23T14:26:59.346Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Pix enfrenta instabilidade na manhã deste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Justiça mantém prisão de seguranças investigados por morte de ciclista",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-segurancas-investigados-por-morte-de-ciclista",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-segurancas-investigados-por-morte-de-ciclista img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Novos editais fortalecem Pontões e Pontos de Cultura no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/novos-editais-fortalecem-pontoes-e-pontos-de-cultura-no-rio",
+        "summary": "p strong O governo fluminense está com inscrições abertas para editais destinados à seleção de dois Pontões de Cultura e 44 Pontos de Cultura, que atuarão no desenvolvimento de ações visando fortalecer a Política Naciona",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Conheça as atribuições do presidente e do vice-presidente da República",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Peixe antes desprezado melhora renda de mulheres da pesca no Rio",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "São Paulo aposta em duelo contra o lanterna para evitar pior jejum da década no Brasileiro",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-aposta-em-duelo-contra-o-lanterna-para-evitar-pior-jejum-da-decada-no-brasileiro/",
-        "summary": "O São Paulo enfrenta a lanterna Chapecoense neste domingo para findar um jejum de nove rodadas sem vencer no Brasileirão. A bola rola às 18h30 (de Brasília), na Arena Condá. O post São Paulo aposta em duelo contra o lant",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55473874640_3a65dc6c60_o.webp",
+        "title": "Melhores momentos: St. Louis CITY 2 x 1 Houston Dynamo FC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-st-louis-city-2-x-1-houston-dynamo-fc-pela-mls/",
+        "summary": "Melhores momentos: St. Louis CITY 2 x 1 Houston Dynamo FC pela MLS O post Melhores momentos: St. Louis CITY 2 x 1 Houston Dynamo FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/3quwu9q6-1920Louis.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Dupla aproveita sequência no Santos e ganha confiança de Cuca em meio a baixas",
-        "link": "https://www.gazetaesportiva.com/times/santos/arao-luan-peres-zaga-santos-cuca/",
-        "summary": "Willian Arão e Luan Peres foram titulares nos últimos três jogos do Santos, período em que o time sofreu apenas um gol. A dupla ganha confiança de Cuca em meio às baixas no sistema defensivo. O post Dupla aproveita sequê",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55478004435_05b00722c9_4k.webp",
+        "title": "Astro suíço marca um golaço de cobertura para o Chicago Fire FC; veja gol",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/astro-suico-marca-um-golaco-de-cobertura-para-o-chicago-fire-fc-veja-gol/",
+        "summary": "Astro suíço marca um golaço de cobertura para o Chicago Fire FC; veja gol O post Astro suíço marca um golaço de cobertura para o Chicago Fire FC; veja gol apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/4hdqsikf-1920Astro.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras busca ampliar domínio sobre o Vasco em casa e manter a ponta do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-busca-ampliar-dominio-sobre-o-vasco-em-casa-e-manter-a-ponta-do-brasileirao/",
-        "summary": "Após garantir a vaga nas quartas de final da Copa Libertadores, o Palmeiras volta a campo neste domingo. O Verdão recebe o Vasco a partir das 16h (de Brasília) no Nubank Parque, onde o clube paulista busca manter a longa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/12032026_cg_palmeiras_4134_40.webp",
+        "title": "O francês Griezmann garante a vitória sobre o Real Salt Lake; veja gol",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-frances-griezmann-garante-a-vitoria-sobre-o-real-salt-lake-veja-gol/",
+        "summary": "O francês Griezmann garante a vitória sobre o Real Salt Lake; veja gol O post O francês Griezmann garante a vitória sobre o Real Salt Lake; veja gol apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/aWtekJyb-1920-Griezmann.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians defende longo tabu contra o Coritiba; veja retrospecto",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-defende-longo-tabu-contra-o-coritiba-veja-retrospecto/",
-        "summary": "O Corinthians visita o Coritiba neste domingo defendendo uma invencibilidade de 14 anos como visitante no confronto. O Timão não perde para o Coxa em Curitiba desde 2011 e acumula nove partidas sem derrota no período. A ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/213373.webp",
+        "title": "Martinelli entra na mira de clube saudita após perder espaço no Arsenal",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/martinelli-entra-na-mira-de-clube-saudita-apos-perder-espaco-no-arsenal/",
+        "summary": "O Al-Hilal abriu conversas para contratar Gabriel Martinelli, do Arsenal. Segundo o The Athletic, o clube saudita negocia com os representantes do atacante brasileiro de 25 anos, enquanto os ingleses aceitam discutir uma",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/11/martinelliiii.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Orlando Luz e Rafael Matos brilham e vão à decisão em Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/orlando-luz-e-rafael-matos-brilham-e-vao-a-decisao-em-cincinnati/",
-        "summary": "Orlando Luz e Rafael Matos estão na final do Masters 1000 de Cincinnati após vencerem Hugo Nys e Edouard Roger-Vasselin. A dupla brasileira busca o segundo título consecutivo em um Masters 1000. O post Orlando Luz e Rafa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__2289866517__v1__MidRes__Atp1000NationalBankOpenPresentedByRogersFinal.webp",
+        "title": "Messi escapa da armadilha do impedimento e diminui para o Inter Miami contra o Toronto",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/messi-escapa-da-armadilha-do-impedimento-e-diminui-para-o-inter-miami-contra-o-toronto/",
+        "summary": "Messi escapa da armadilha do impedimento e diminui para o Inter Miami contra o Toronto O post Messi escapa da armadilha do impedimento e diminui para o Inter Miami contra o Toronto apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6B446C__v1__HighRes__InterMiamiCfVsTorontoFc.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Jardim admite queda do Flamengo e cobra reação após derrota para o Cruzeiro",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/leonardo-jardim-analisa-derrota-flamengo-cruzeiro/",
-        "summary": "Leonardo Jardim analisou a derrota do Flamengo para o Cruzeiro e reconheceu a queda de rendimento no segundo tempo no Mineirão. O post Jardim admite queda do Flamengo e cobra reação após derrota para o Cruzeiro apareceu ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-22_235209588.webp",
+        "title": "Melhores momentos: Orlando City 2 x 1 Real Salt Lake pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-orlando-city-2-x-1-real-salt-lake-pela-mls/",
+        "summary": "Melhores momentos: Orlando City 2 x 1 Real Salt Lake pela MLS O post Melhores momentos: Orlando City 2 x 1 Real Salt Lake pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/nx6csnjz-1920rlando.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Pix enfrenta instabilidade na manhã deste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Dólar cai a R$ 5,14 com alívio no mercado externo",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-r-514-com-alivio-no-mercado-externo",
@@ -297,14 +307,54 @@
         "cls": ""
       },
       {
-        "title": "RN vai abrigar supercomputador brasileiro de Inteligência Artificial",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/rn-vai-abrigar-supercomputador-brasileiro-de-inteligencia-artificial",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/rn-vai-abrigar-supercomputador-brasileiro-de-inteligencia-artificial img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "21 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "“Milei vai ser Milei”: presidente argentino resiste a mudar plano econômico",
+        "link": "https://www.infomoney.com.br/mundo/milei-vai-ser-milei-presidente-argentino-resiste-a-mudar-plano-economico/",
+        "summary": "Apuração do Clarín revela bastidores de um presidente resistente a ajustes enquanto atividade desacelera, inflação pressiona e cresce a preocupação com 2027 The post “Milei vai ser Milei”: presidente argentino resiste a ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-08-081628.png?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina: confira o resultado do concurso 7099 sorteado neste domingo (23)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7099-resultado-sorteado-neste-domingo-23/",
+        "summary": "Para tentar a sorte na Quina, o apostador pode marcar de 5 a 15 números dentre os 80 disponíveis no bilhete The post Quina: confira o resultado do concurso 7099 sorteado neste domingo (23) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/quina-caixa-divulgacao.png?fit=300%2C158&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil: confira o resultado sorteado neste domingo (23)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3769-resultado-sorteado-neste-domingo-23/",
+        "summary": "O apostador fatura se acertar 11, 12, 13, 14 ou 15 números The post Lotofácil: confira o resultado sorteado neste domingo (23) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena: confira o resultado do prêmio de R$ 57,3 mi sorteado neste domingo (23)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-concurso-3048-resultado-sorteado-neste-domingo-23/",
+        "summary": "Os números sorteados foram: 02 - 06 - 27 - 39 - 44 - 50. The post Mega-Sena: confira o resultado do prêmio de R$ 57,3 mi sorteado neste domingo (23) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/mega_sena-111220202168.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Pix fora do ar? BC confirma instabilidade e diz que operação funciona normalmente",
+        "link": "https://www.infomoney.com.br/minhas-financas/quanto-e-preciso-guardar-para-comprar-um-imovel-veja-simulacoes-por-faixa-de-renda-2/",
+        "summary": "Problemas técnicos foram identificados e já estão resolvidos The post Pix fora do ar? BC confirma instabilidade e diz que operação funciona normalmente appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/carteira-dinheiro-digital-mohamed_hassan-pixabay.png?fit=300%2C231&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
         "title": "O Judiciário brasileiro precisa de uma ampla reforma , diz novo presidente do STJ",
@@ -317,109 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Museu de cera põe Harry e Meghan de malas prontas com anúncio de volta ao Reino Unido",
-        "link": "https://www.infomoney.com.br/mundo/museu-de-cera-poe-harry-e-meghan-de-malas-prontas-com-anuncio-de-volta-ao-reino-unido/",
-        "summary": "Desde que Meghan ganhou sua primeira figura no museu, em 2018, a localização dos dois no Madame Tussauds tem acompanhado, com doses de humor, as mudanças na vida pública do casal The post Museu de cera põe Harry e Meghan",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Reproducao-Instagram-Madame-Tussauds.jpg?fit=271%2C300&amp;quality=70&amp;strip=all",
+        "title": "Irã desafia novas sanções dos EUA e diz que medidas vão fracassar",
+        "link": "https://exame.com/mundo/ira-desafia-novas-sancoes-dos-eua-e-diz-que-medidas-vao-fracassar/",
+        "summary": "Teerã afirma que ameaça de punições econômicas mostra “desespero” de Washington",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Desdobramentos dos casos Master e Lulinha ampliam divergências entre Mendonça e Gonet",
-        "link": "https://www.infomoney.com.br/politica/desdobramentos-dos-casos-master-e-lulinha-ampliam-divergencias-entre-mendonca-e-gonet/",
-        "summary": "Descompasso ampliou as divergências entre os dois, que vêm se acumulando nos últimos meses e perpassam também, além da apuração sobre descontos indevidos de aposentadorias, o caso ligado ao Banco Master The post Desdobra",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/montagem-infomoney-4.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Dino dá cinco dias a partidos para responder sobre indicação de emendas; multa é de R$ 100 mil",
+        "link": "https://exame.com/brasil/dino-da-cinco-dias-a-partidos-para-responder-sobre-indicacao-de-emendas-multa-e-de-r-100-mil/",
+        "summary": "Podemos e Solidariedade foram os únicos partidos que não responderam ao pedido de informações do STF; multa diária será aplicada caso as siglas continuem omissas após o novo prazo",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Tesla e chinesas fazem recall de mais de 4 milhões de carros por falha em portas",
-        "link": "https://www.infomoney.com.br/business/tesla-e-chinesas-fazem-recall-de-mais-de-4-milhoes-de-carros-por-falha-em-portas/",
-        "summary": "O recall, o maior deste ano, ocorre depois de as autoridades chinesas terem dito que proibiriam maçanetas de portas ocultas The post Tesla e chinesas fazem recall de mais de 4 milhões de carros por falha em portas appear",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454450042.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "A Suécia pode ser a nova potência do vinho mundial?",
+        "link": "https://exame.com/casual/a-suecia-pode-ser-a-nova-potencia-do-vinho-mundial/",
+        "summary": "Depois de vencer uma degustação às cegas contra rótulos consagrados e chegar à mesa do banquete do Nobel, produtores tentam transformar um resultado pontual em identidade regional",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "José Mourinho afirma que Vini Jr. sofre bullying: O que fazem com ele é demais",
-        "link": "https://www.infomoney.com.br/esportes/jose-mourinho-afirma-que-vini-jr-sofre-bullying-o-que-fazem-com-ele-e-demais/",
-        "summary": "Contra o Espanyol, o atacante brasileiro foi derrubado por Calatrava antes dos 3 minutos de jogo. No chão, foi alvo de um chute do adversário The post José Mourinho afirma que Vini Jr. sofre bullying: O que fazem com ele",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-06T184150Z_1_LYNXMPEM751OI_RTROPTP_4_SOCCER-SPAIN-RMA-ATM.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Compliance deixa de ser área de apoio e ganha importância em ativos digitais",
+        "link": "https://exame.com/future-of-money/compliance-deixa-de-ser-area-de-apoio-e-ganha-importancia-em-ativos-digitais/",
+        "summary": "Com o avanço da tokenização, criar uma cadeia completa que integre normas de conformidade sai na frente",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Presidente do Irã: país precisa decidir sair de situação de nem guerra, nem paz",
-        "link": "https://www.infomoney.com.br/mundo/presidente-do-ira-pais-precisa-decidir-sair-de-situacao-de-nem-guerra-nem-paz/",
-        "summary": "Pezeshkian pediu unidade e coesão internas em discurso neste sábado (22) The post Presidente do Irã: país precisa decidir sair de situação de nem guerra, nem paz appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/IRAN-LEADERSHIP-5.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Terreno há décadas intocado é comprado por R$ 500 milhões para projeto bilionário em SC",
+        "link": "https://exame.com/mercado-imobiliario/terreno-ha-decadas-intocado-e-comprado-por-r-500-milhoes-para-projeto-bilionario-em-sc/",
+        "summary": "Área na Praia Brava Norte será ocupada por empreendimento com arquitetura de Norman Foster e operação Emiliano",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Primeiro \"made in Brazil\" da Adidas no Futsal mira um mercado de R$ 500 milhões",
         "link": "https://exame.com/exame-in/primeiro-made-in-brazil-da-adidas-no-futsal-mira-um-mercado-de-r-500-milhoes/",
         "summary": "Lucas Barillari, Diretor de Sports Marketing, detalha estratégia que, além do lançamento de linha exclusiva, conta com uma collab com o atleta Falcão",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O que o seu azeite não te conta",
-        "link": "https://exame.com/casual/o-que-seu-azeite-nao-te-conta/",
-        "summary": "Extra virgem, acidez, prensagem a frio: o que essas palavras realmente dizem sobre o seu azeite",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Japão registra terremoto de magnitude 5,9; outro tremor atingiu o país no mês passado",
-        "link": "https://exame.com/mundo/japao-registra-novo-terremoto-de-59-outro-tremor-atingiu-o-pais-no-mes-passado/",
-        "summary": "Tremor atingiu Ibaraki neste domingo, 23, deixou ao menos 37 feridos e foi sentido em Tóquio",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Standard Chartered revisa preço do bitcoin e diz que US$ 100 mil 'pode ser pouco'",
-        "link": "https://exame.com/future-of-money/standard-chartered-revisa-preco-do-bitcoin-e-diz-que-us-100-mil-pode-ser-pouco/",
-        "summary": "Banco britânico está otimista com o potencial de valorização da criptomoeda até o fim do ano",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "IA que protege imóveis de enchentes e vendavais e evitou R$ 1,6 milhão em perdas",
-        "link": "https://exame.com/mercado-imobiliario/ia-que-protege-imoveis-de-enchentes-e-vendavais-e-evitou-r-16-milhao-em-perdas/",
-        "summary": "Arch Capital usa inteligência artificial para prever riscos climáticos com até 36 meses de antecedência e proteger edifícios corporativos e galpões logísticos",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "GP da Holanda de F1 hoje: veja horário, onde assistir e grid de largada",
-        "link": "https://exame.com/esporte/gp-da-holanda-de-f1-hoje-veja-horario-onde-assistir-e-grid-de-largada/",
-        "summary": "Lando Norris larga na pole em Zandvoort, enquanto Gabriel Bortoleto parte em nono; corrida começa às 10h deste domingo, 23",
         "image": null,
         "date": "23 de ago. de 2026",
         "source": "Exame",
