@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T03:06:06.681Z",
+  "updated": "2026-08-23T04:41:24.608Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Veja como foi o sábado (22) dos candidatos a presidente",
+        "link": "https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
@@ -171,19 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Campanha convoca familiares de desaparecidos para coleta de DNA",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "22 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Orlando Luz e Rafael Matos brilham e vão à decisão em Cincinnati",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/orlando-luz-e-rafael-matos-brilham-e-vao-a-decisao-em-cincinnati/",
+        "summary": "Orlando Luz e Rafael Matos estão na final do Masters 1000 de Cincinnati após vencerem Hugo Nys e Edouard Roger-Vasselin. A dupla brasileira busca o segundo título consecutivo em um Masters 1000. O post Orlando Luz e Rafa",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260814__2289866517__v1__MidRes__Atp1000NationalBankOpenPresentedByRogersFinal.webp",
+        "date": "23 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Jardim admite queda do Flamengo e cobra reação após derrota para o Cruzeiro",
         "link": "https://www.gazetaesportiva.com/times/flamengo/leonardo-jardim-analisa-derrota-flamengo-cruzeiro/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/inter-miami/messi-marca-mas-inter-miami-perde-para-o-toronto-fc-em-casa-pela-mls/",
         "summary": "Messi marcou, mas o Inter Miami perdeu por 2 a 1 para o Toronto FC, em casa, pela MLS. Veja os gols e os detalhes da partida. O post Messi marca, mas Inter Miami perde para o Toronto FC em casa pela MLS apareceu primeiro",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6B446C__v1__HighRes__InterMiamiCfVsTorontoFc.webp",
-        "date": "23 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Flamengo toma virada do Cruzeiro, e Palmeiras pode aumentar vantagem na ponta",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-x-flamengo-brasileirao-2026/",
-        "summary": "O Cruzeiro venceu o Flamengo por 2 a 1, de virada, neste sábado, no Mineirão, pela 24ª rodada do Campeonato Brasileiro. Pedro abriu o placar, mas Keny Arroyo e Matheus Pereira garantiram a vitória da Raposa. O post Flame",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55481763309_76a86b1144_3k-1.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -365,6 +365,66 @@
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "'Nosso Segredo' vence prêmio de melhor filme brasileiro no Festival de Gramado",
+        "link": "https://exame.com/casual/nosso-segredo-vence-premio-de-melhor-filme-brasileiro-no-festival-de-gramado/",
+        "summary": "Longa estreou no Festival de Berlim no começo do ano, marca a estreia de Grace Passô na direção e concorria com produções como 'Feito Pipa' e 'Chorão: Só os Loucos Sabem'",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Nvidia vai aumentar em mais de 15% o preço de servidores para inteligência artificial",
+        "link": "https://exame.com/tecnologia/nvidia-vai-aumentar-em-mais-de-15-o-preco-de-servidores-para-inteligencia-artificial/",
+        "summary": "Clientes da fabricante já começaram a ser avisados sobre o reajuste, que deve atingir equipamentos com chips mais recentes",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Datafolha: 30% votam para evitar que outro candidato chegue à Presidência",
+        "link": "https://exame.com/brasil/datafolha-30-votam-para-evitar-que-outro-candidato-chegue-a-presidencia/",
+        "summary": "Levantamento também aponta que 72% dos eleitores já estão totalmente decididos sobre o voto para presidente",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "A animação chinesa de US$ 200 que faturou US$ 4 milhões e virou símbolo anti-IA",
+        "link": "https://exame.com/pop/a-animacao-chinesa-de-us-200-que-faturou-us-4-milhoes-e-virou-simbolo-anti-ia/",
+        "summary": "Produção foi desenvolvida sem ferramentas de inteligência artificial e ganhou força após viralizar nas redes sociais",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "O futuro chegou: ITMOS e a hora de o Brasil monetizar sua transformação ecológica",
+        "link": "https://exame.com/esg/o-futuro-chegou-itmos-e-a-hora-de-o-brasil-monetizar-sua-transformacao-ecologica/",
+        "summary": "O Brasil tem ativos ambientais que países desenvolvidos precisam comprar. Mas enquanto Gana, Tailandia e Quenia já monetizam suas reduções de emissão, o Brasil ainda discute como autorizá-las. Combinar os Artigos 6.2 e 6",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Apple demite 60 funcionários e reduz foco no Vision Pro",
+        "link": "https://exame.com/invest/mercados/apple-demite-60-funcionarios-e-reduz-foco-no-vision-pro/",
+        "summary": "Cortes atingem ao menos 60 funcionários e indicam mudança de estratégia da companhia no mercado de computação espacial",
+        "image": null,
+        "date": "22 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       }
     ]
   }
