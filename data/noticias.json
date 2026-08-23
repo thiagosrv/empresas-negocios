@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:23:11.802Z",
+  "updated": "2026-08-23T18:34:34.685Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Decisiva nas urnas, classe C quer Estado que funcione, diz pesquisador",
+        "link": "https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/decisiva-nas-urnas-classe-c-quer-estado-que-funcione-diz-pesquisador",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/decisiva-nas-urnas-classe-c-quer-estado-que-funcione-diz-pesquisador img src= https://cdn.jsdelivr.net/gh/sergio",
+        "image": null,
+        "date": "23 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Provas do Encceja são realizadas neste domingo em todo o país",
         "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-sao-realizadas-neste-domingo-em-todo-o-pais",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-sao-realizadas-neste-domingo-em-todo-o-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Apostadores de bet em periferias buscam ajuda após vida virar pesadelo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/apostadores-de-bet-em-periferias-buscam-ajuda-apos-vida-virar-pesadelo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/apostadores-de-bet-em-periferias-buscam-ajuda-apos-vida-virar-pesadelo img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Veja galeria de fotos do GP da Holanda",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/veja-galeria-de-fotos-do-gp-da-holanda/",
-        "summary": "O post Veja galeria de fotos do GP da Holanda apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6BL9QV__v1__MidRes__AutoPrixF1Ned.webp",
+        "title": "Palmeiras x Vasco: siga o tempo real do jogo pela 24ª rodada do Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-vasco-campeonato-brasileiro-23-08-2026/",
+        "summary": "Palmeiras e Vasco se enfrentam na tarde deste domingo, a partir das 16h (de Brasília), no Nubank Parque, em São Paulo (SP), em duelo válido pela 24ª rodada do Campeonato Brasileiro. Escalações 🟢⚪ Escalação do Palmeiras ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQa4D3oWYAEOTsA.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Seleção sub-17 domina Venezuela com um a menos e fecha série de amistosos com 100%",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/brasil-sub-17-vence-venezuela-3-a-0/",
-        "summary": "A Seleção Brasileira Sub-17 venceu a Venezuela por 3 a 0 neste domingo, na Granja Comary, em Teresópolis (RJ), em amistoso preparatório para a Copa do Mundo da categoria. Mesmo atuando com um jogador a menos desde os 39 ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Whats_App_Image_2026_08_23_at_10_51_57_fbb0cb9392.webp",
+        "title": "Palmeiras terá quatro mudanças e Allan titular contra o Vasco; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/escalacoes-palmeiras-x-vasco-brasileirao-23-08-2026/",
+        "summary": "Palmeiras e Vasco estão escalados para o duelo de logo mais neste domingo, no Nubank Parque, às 16h, pela 24ª rodada do Brasileiro. Veja os times. O post Palmeiras terá quatro mudanças e Allan titular contra o Vasco; vej",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQbA_hWW4AAU_tT.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Lando Norris vence GP da Holanda; Verstappen abandona e Bortoleto é 13º",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/lando-norris-vence-gp-dos-paises-baixos-verstappen-abandona-e-bortoleto-e-13o/",
-        "summary": "Lando Norris venceu o Grande Prêmio dos Países Baixos de Fórmula 1 neste domingo, em Zandvoort, e conquistou sua segunda vitória consecutiva na temporada. O piloto da McLaren superou Kimi Antonelli e George Russell, enqu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6BW79A__v1__MidRes__AutoPrixF1Ned.webp",
+        "title": "Melhores momentos: Le Havre 0 x 1 Monaco pelo Francês",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-le-havre-0-x-1-monaco-pelo-frances/",
+        "summary": "Melhores momentos: Le Havre 0 x 1 Monaco pelo Francês O post Melhores momentos: Le Havre 0 x 1 Monaco pelo Francês apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/kibnta91-1920Le-Havre.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Manchester City vira nos acréscimos sobre o Bournemouth e estreia com vitória no Inglês",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-vira-nos-acrescimos-sobre-o-bournemouth-e-estreia-com-vitoria-no-ingles/",
-        "summary": "O Manchester City venceu o Bournemouth por 2 a 1 neste domingo, no Etihad Stadium, pela primeira rodada da Premier League. Após sair atrás no placar com gol de Tavernier, a equipe comandada por Enzo Maresca buscou a vira",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6BT4B6__v1__MidRes__FblEngPrManCityBournemouth.webp",
+        "title": "Palmeiras encaminha venda do goleiro Kaique ao Sporting, de Portugal",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-encaminha-venda-do-goleiro-kaique-ao-sporting-de-portugal/",
+        "summary": "Por Victória Romanelli e Thais Bueno O goleiro Kaique Pereira está muito próximo de deixar o Palmeiras. A diretoria alviverde encaminhou a venda do jogador de 23 anos ao Sporting, de Portugal. Tido como terceiro goleiro ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/21082026_cg_palmeiras_2018_26.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: San Jose Earthquakes 1 x 5 Minnesota United pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-san-jose-earthquakes-1-x-5-minnesota-united-pela-mls/",
-        "summary": "Melhores momentos: San Jose Earthquakes 1 x 5 Minnesota United pela MLS O post Melhores momentos: San Jose Earthquakes 1 x 5 Minnesota United pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/jj7lxxef-1920San-Jose.webp",
+        "title": "Alison dos Santos faz melhor tempo do ano e vence etapa da Silésia nos 400m com barreiras",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/atletismo/alison-dos-santos-faz-melhor-tempo-do-ano-e-vence-etapa-da-silesia-nos-400m-com-barreiras/",
+        "summary": "Alison dos Santos brilhou na etapa da Silésia da Diamond League ao vencer os 400 metros com barreiras com 46s43, registrando o melhor tempo do mundo em 2026. O brasileiro superou o norueguês Karsten Warholm em uma disput",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6BR2ZW__v1__HighRes__AthleticsDiamondPolHurdlesMen.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do duelo entre Manchester City e Bornemouth pelo Inglês",
-        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/veja-fotos-do-duelo-entre-manchester-city-e-bornemouth-pelo-ingles/",
-        "summary": "O post Veja fotos do duelo entre Manchester City e Bornemouth pelo Inglês apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6BM8QV__v1__MidRes__FblEngPrManCityBournemouth.webp",
+        "title": "Liverpool busca empate nos acréscimos contra o Newcastle na estreia do Inglês",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-busca-empate-nos-acrescimos-contra-o-newcastle-na-estreia-do-ingles/",
+        "summary": "Liverpool e Newcastle empataram por 2 a 2 neste domingo, no St James' Park, pela rodada de abertura da Premier League. Elanga colocou os donos da casa em vantagem, Gakpo empatou para os Reds, Willock voltou a marcar para",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6C269F__v1__MidRes__FblEngPrNewcastleLiverpool.webp",
         "date": "23 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Briga na Família Imperial brasileira: príncipe perde direito de voltar a palácio",
+        "link": "https://www.infomoney.com.br/brasil/briga-na-familia-imperial-brasileira-principe-perde-direito-de-voltar-a-palacio/",
+        "summary": "Dom Pedro Tiago havia conseguido na Justiça o direito de retornar ao imóvel onde afirma morar desde que nasceu The post Briga na Família Imperial brasileira: príncipe perde direito de voltar a palácio appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/palacio-grao-para-principe-familia-imperial-brasil.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quanto é preciso guardar para comprar um imóvel? Veja simulações por faixa de renda",
+        "link": "https://www.infomoney.com.br/minhas-financas/quanto-e-preciso-guardar-para-comprar-um-imovel-veja-simulacoes-por-faixa-de-renda/",
+        "summary": "Especialistas explicam como calcular a entrada, o que muda com o uso do FGTS e quais os prós e contras de financiamento e consórcio The post Quanto é preciso guardar para comprar um imóvel? Veja simulações por faixa de r",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2151015220.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Jogos ‌Mundiais de Robôs Humanóides? São 5 dias, 51 provas e um teste de tecnologia",
+        "link": "https://www.infomoney.com.br/mundo/jogos-mundiais-de-robos-humanoides-sao-5-dias-51-provas-e-um-teste-de-tecnologia/",
+        "summary": "Os Jogos ‌Mundiais de Robôs Humanóides, com duração de cinco dias, que começaram no sábado em Pequim, combinam provas inspiradas em esportes humanos com outras projetadas para testar os robôs The post Jogos ‌Mundiais de ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/robos-e-humanos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Foto de Lula com chapéu na urna não é propaganda eleitoral, diz MP",
+        "link": "https://www.infomoney.com.br/politica/foto-de-lula-com-chapeu-na-urna-nao-e-propaganda-eleitoral-diz-mp/",
+        "summary": "Segundo Ministério Público Eleitoral, acessório não tem \"conotação de propaganda eleitoral\" nem dificulta o reconhecimento do candidato The post Foto de Lula com chapéu na urna não é propaganda eleitoral, diz MP appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-lula-pt-campanha-sao-bernardo-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Trump fecha celebrações de verão dos 250 anos dos EUA com corrida em Washington",
+        "link": "https://www.infomoney.com.br/mundo/trump-fecha-celebracoes-de-verao-dos-250-anos-dos-eua-com-corrida-em-washington/",
+        "summary": "A corrida deve atrair cerca de 200 mil ⁠espectadores, ‌segundo autoridades, e os ingressos são gratuitos The post Trump fecha celebrações de verão dos 250 anos dos EUA com corrida em Washington appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458680932.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "23 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Putin quer recrutar 300 mil novos soldados, afirma Zelenskiy",
         "link": "https://www.infomoney.com.br/mundo/putin-quer-recrutar-300-mil-novos-soldados-afirma-zelenskiy/",
         "summary": "As forças de Moscou estão ‌avançando em uma ofensiva para capturar o restante da região industrializada de Donbas, no leste da Ucrânia The post Putin quer recrutar 300 mil novos soldados, afirma Zelenskiy appeared first ",
@@ -317,54 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Noruega destinará mais de US$9 bi à Ucrânia em 2027",
-        "link": "https://www.infomoney.com.br/mundo/noruega-destinara-mais-de-us9-bi-a-ucrania-em-2027/",
-        "summary": "A doação da Noruega será destinada ​tanto a gastos militares quanto humanitários The post Noruega destinará mais de US$9 bi à Ucrânia em 2027 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-12T165748Z_1_LYNXMPEK7B0HV_RTROPTP_3_UKRAINE-CRISIS-KURSK-e1723483991771.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "'Funcionário barato sai caro': o alerta de Marcus Marques para casal que fatura R$ 2,1 milhões",
+        "link": "https://exame.com/negocios/funcionario-barato-sai-caro-o-alerta-de-marcus-marques-para-casal-que-fatura-r-21-milhoes/",
+        "summary": "Fundadores da AC Móveis ainda concentram etapas importantes da operação. No Choque de Gestão, mentor mostra por que contratar profissionais mais experientes pode destravar o crescimento",
+        "image": null,
         "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Romeu Zema cancela participação no debate eleitoral promovido por Band e Estadão",
-        "link": "https://www.infomoney.com.br/politica/romeu-zema-cancela-participacao-no-debate-eleitoral-promovido-por-band-e-estadao/",
-        "summary": "Em nota, a equipe de Zema afirmou que a mudança de data \"havia sido considerada sob a premissa de que o candidato Lula fosse participar, garantindo a pluralidade do encontro\" The post Romeu Zema cancela participação no d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/romeu-zema-politico-novo01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "United Airlines: CEO demitido pela rival nega vingança e aposta em IA e novas rotas",
-        "link": "https://www.infomoney.com.br/business/united-airlines-ceo-demitido-pela-rival-nega-vinganca-e-aposta-em-ia-e-novas-rotas/",
-        "summary": "Scott Kirby está pensando grande em um momento em que o setor enfrenta custos crescentes e infraestrutura aeroportuária limitada The post United Airlines: CEO demitido pela rival nega vingança e aposta em IA e novas rota",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/united-airlines-3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Irã afirma que chefe do Exército do Paquistão visitará Teerã na segunda-feira",
-        "link": "https://www.infomoney.com.br/mundo/ira-afirma-que-chefe-do-exercito-do-paquistao-visitara-teera-na-segunda-feira/",
-        "summary": "Paquistão assumiu o papel de mediador nas negociações entre o Irã e EUA com o objetivo de pôr fim à guerra The post Irã afirma que chefe do Exército do Paquistão visitará Teerã na segunda-feira appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-14T115331Z_1_LYNXMPEM6D0NG_RTROPTP_4_IRAN-NUCLEAR-IAEA.jpg?fit=300%2C210&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Noruega, Suécia e mais nórdicos perderam a confiança em Infantino e na gestão da Fifa",
-        "link": "https://www.infomoney.com.br/esportes/noruega-suecia-e-mais-nordicos-perderam-a-confianca-em-infantino-e-na-gestao-da-fifa/",
-        "summary": "Os seis membros nórdicos da Fifa — Dinamarca, Finlândia, Islândia, Noruega, Suécia e Ilhas Faroé — se reuniram em Helsinque e emitiram uma rara declaração conjunta The post Noruega, Suécia e mais nórdicos perderam a conf",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-12-120914.png?fit=300%2C192&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Informações sigilosas podem ter gerado lucro de US$ 8 milhões em sites como Polymarket",
@@ -410,16 +420,6 @@
         "title": "Amazon, Walmart e Uber querem que seu próximo pacote chegue voando",
         "link": "https://exame.com/negocios/amazon-walmart-e-uber-querem-que-seu-proximo-pacote-chegue-voando/",
         "summary": "Amazon quer levar seu serviço de drones a quase 500 cidades dos EUA até o fim de 2026",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A internet entrou em guerra fria? Entenda a disputa por soberania digital",
-        "link": "https://exame.com/bussola/a-internet-entrou-em-guerra-fria-entenda-a-disputa-por-soberania-digital/",
-        "summary": "Disputas geopolíticas, soberania de dados e restrições tecnológicas redesenham a infraestrutura digital e criam ecossistemas regionais",
         "image": null,
         "date": "23 de ago. de 2026",
         "source": "Exame",
