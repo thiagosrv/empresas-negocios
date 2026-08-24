@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:57:39.435Z",
+  "updated": "2026-08-24T13:56:29.827Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Indonésia: número de mortos no terremoto chega a 100 mil",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100-mil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100-mil img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mercado reduz projeção para crescimento da economia em 2026",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Frio perde intensidade no Sul e seca persiste no centro do país",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -161,29 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Justiça mantém prisão de entregadores envolvidos na morte de ciclista",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-entregadores-envolvidos-na-morte-de-ciclista",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-entregadores-envolvidos-na-morte-de-ciclista img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Beneficiários com NIS de final 5 recebem Bolsa Família de agosto",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-5-recebem-bolsa-familia-de-agosto",
-        "summary": "p strong A Caixa Econômica Federal paga nesta segunda-feira (24) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 5. Neste mês, 19,3 milhões de família serão beneficiad",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Maior campeão do Palmeiras, Gustavo Gómez renova contrato até 2030",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-renova-gustavo-gomez-ate-2030/",
+        "summary": "O Palmeiras anunciou nesta segunda-feira a renovação de contrato de Gustavo Gómez até o fim de 2030. Capitão e um dos principais ídolos da história recente do clube, o zagueiro paraguaio soma 13 títulos pelo Verdão e é o",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SaveClip.App_786453999_1648693306615882_4263832656812855778_n.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Gavi sofre contusão na estreia do Campeonato Espanhol",
+        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-confirma-contusao-gavi/",
+        "summary": "O Barcelona informou nesta segunda-feira que Gavi sofreu apenas uma contusão após ser substituído durante a goleada por 5 a 0 sobre o Elche, na estreia da LaLiga. O meio-campista espanhol passou por exames médicos que de",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6C689A__v1__MidRes__FblEspLigaElcheBarcelona.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Zé Rafael é anunciado por clube português e inicia primeira experiência na Europa",
         "link": "https://www.gazetaesportiva.com/times/santos/ze-rafael-anunciado-alverca-portugal/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/palmeiras/semana-do-palmeiras-tem-classico-na-copa-do-brasil-e-confronto-paulista-no-brasileirao/",
         "summary": "O Palmeiras terá mais uma semana complicada com clássico contra o Santos e duelo contra o Mirassol. Veja a agenda do time alviverde. O post Semana do Palmeiras tem clássico na Copa do Brasil e confronto paulista no Brasi",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/23082026_cg_palmeiras_3488_116.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Análise: São Paulo decepciona contra a frágil Chapecoense e aumenta jejum no Brasileiro",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/analise-sao-paulo-decepciona-contra-a-fragil-chapecoense-e-aumenta-jejum-no-brasileiro/",
-        "summary": "Confira a análise da equipe do São Paulo após a derrota por 1 a 0 para a Chapecoense. O post Análise: São Paulo decepciona contra a frágil Chapecoense e aumenta jejum no Brasileiro apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55483900304_346bd2b925_k.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Atuações do Palmeiras: Flaco López brilha contra o Vasco, e Vitor Roque volta a marcar",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/atuacoes-do-palmeiras-flaco-lopez-brilha-contra-o-vasco-e-vitor-roque-volta-a-marcar/",
-        "summary": "Confira quem se destacou e quem foi mal no Palmeiras na vitória por 4 a 1 sobre o Vasco no último domingo, no Nubank Parque, pela 24ª rodada do Campeonato Brasileiro. O post Atuações do Palmeiras: Flaco López brilha cont",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/23082026_cg_palmeiras_4989_77.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,124 +307,64 @@
         "cls": ""
       },
       {
-        "title": "Paquistão realizará negociações com Irã enquanto EUA preparam “Dia D econômico”",
-        "link": "https://www.infomoney.com.br/mundo/paquistao-realizara-negociacoes-com-ira-enquanto-eua-preparam-dia-d-economico/",
-        "summary": "Mediador Paquistão realizará negociações no Irã enquanto EUA preparam “Dia D econômico” The post Paquistão realizará negociações com Irã enquanto EUA preparam “Dia D econômico” appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T153452Z_1_LYNXMPEM7L0A4_RTROPTP_4_IRAN-CRISIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Irã adverte contra cooperação de países com os EUA e promete combater sanções",
-        "link": "https://www.infomoney.com.br/mundo/ira-adverte-contra-cooperacao-de-paises-com-os-eua-e-promete-combater-sancoes/",
-        "summary": "Baghaei disse que Teerã atacará bases americanas em países europeus caso a União Europeia participe de agressões contra o Irã The post Irã adverte contra cooperação de países com os EUA e promete combater sanções appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Press_Conference_of_Esmail_Baghaei_22_Mehr_15_April_2026_cropped.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa vira para alta com VALE3 e bancos",
         "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
-        "summary": "Índices futuros dos EUA recuam com ações de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-3-1.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+        "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa vira para alta com VALE3 e bancos appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-53.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Alibaba anuncia oferta de ações de US$ 10,2 bilhões para investir em IA",
-        "link": "https://www.infomoney.com.br/mercados/alibaba-anuncia-oferta-de-acoes-de-us-102-bilhoes-para-investir-em-ia/",
-        "summary": "O gigante chinês de comércio eletrônico informou no domingo (23) que fechou um acordo para colocar 710 milhões de novas ações The post Alibaba anuncia oferta de ações de US$ 10,2 bilhões para investir em IA appeared firs",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-24T121831Z_1_LYNXNPEL8N0L4_RTROPTP_4_TECH-ALIBABA-IA-TRILHAO_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Recuperação extrajudicial da Braskem inclui possível oferta de ações, dizem fontes",
+        "link": "https://www.infomoney.com.br/mercados/recuperacao-extrajudicial-da-braskem-inclui-possivel-oferta-de-acoes-dizem-fontes/",
+        "summary": "Mais cedo, a companhia anunciou que seu conselho de administração aprovou o ajuizamento do pedido para reestruturar dívidas de cerca de US$10,9 bilhões The post Recuperação extrajudicial da Braskem inclui possível oferta",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/01/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Real Time: Derrite, Tebet, André do Prado e Marina empatam para o Senado em SP",
-        "link": "https://www.infomoney.com.br/politica/real-time-derrite-tebet-andre-do-prado-e-marina-empatam-para-o-senado-em-sp/",
-        "summary": "Empate quádruplo reforça cenário polarizado entre candidatos apoiados por Lula e Flávio Bolsonaro The post Real Time: Derrite, Tebet, André do Prado e Marina empatam para o Senado em SP appeared first on InfoMoney.",
-        "image": null,
+        "title": "Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusão com Afya",
+        "link": "https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/",
+        "summary": "Yduqs afirmou ainda que não há garantia de que as negociações resultarão na assinatura de documentos definitivos ou na conclusão da operação The post Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusã",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Minério de ferro sobe com novos sinais de estímulos da China",
-        "link": "https://www.infomoney.com.br/mercados/minerio-de-ferro-sobe-com-novos-sinais-de-estimulos-da-china/",
-        "summary": "A referência de minério de ferro para setembro na Bolsa de Cingapura subia 1,72%, para US$ 97,35 por tonelada The post Minério de ferro sobe com novos sinais de estímulos da China appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Lula diz ter saudade de disputar eleições contra PSDB: nível da política caiu muito",
+        "link": "https://www.infomoney.com.br/politica/lula-diz-ter-saudade-de-disputar-eleicoes-contra-psdb-nivel-da-politica-caiu-muito/",
+        "summary": "Sem citar Renan Santos, candidato pelo Missão, presidente criticou quem \"acha que pode ser candidato só por lacrar na Internet\" The post Lula diz ter saudade de disputar eleições contra PSDB: nível da política caiu muito",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T181519Z_1874074105_RC2MWMAWH8ZB_RTRMADP_3_BRAZIL-ECONOMY-FISCAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Veja quem tem direito ao 4º lote de restituição do Imposto de Renda e como consultar",
-        "link": "https://exame.com/invest/minhas-financas/veja-quem-tem-direito-ao-4o-lote-de-restituicao-do-imposto-de-renda-e-como-consultar/",
-        "summary": "Lote soma R$ 1,23 bilhão e cai na conta dos contribuintes no dia 31; veja se você está na lista",
-        "image": null,
+        "title": "Lula sugeriu que Caixa Econômica crie Desenrola para clubes de futebol",
+        "link": "https://www.infomoney.com.br/politica/lula-sugeriu-que-caixa-economica-crie-desenrola-para-clubes-de-futebol/",
+        "summary": "De acordo com o presidente, a medida semelhante ao programa de refinanciamento de dívidas poderia ajudar os times \"quebrados\" The post Lula sugeriu que Caixa Econômica crie Desenrola para clubes de futebol appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula-record.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
-        "title": "TRE-SP mantém Marçal inelegível até 2032 e multa de R$ 420 mil",
-        "link": "https://exame.com/brasil/tre-sp-mantem-marcal-inelegivel-ate-2032-e-multa-de-r-420-mil/",
-        "summary": "Presidente do tribunal rejeitou recurso da defesa e manteve condenação por campanha de cortes de vídeos nas eleições de 2024",
-        "image": null,
+        "title": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24)",
+        "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-24082026/",
+        "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-007.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que o Brasil está longe de ter um 'criptopresidente'?",
-        "link": "https://exame.com/future-of-money/por-que-o-brasil-esta-longe-de-ter-um-criptopresidente/",
-        "summary": "O podcast Future of Money desta semana discute os rumos da pauta cripto na política brasileira em meio à polarização",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Bolsas nos EUA vão funcionar durante a madrugada a partir de dezembro: entenda",
-        "link": "https://exame.com/invest/mercados/bolsas-nos-eua-vao-funcionar-durante-a-madrugada-a-partir-de-dezembro-entenda/",
-        "summary": "Iniciativa mira investidores asiáticos com negociação noturna, enquanto críticos veem riscos",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EUA anuncia ‘Dia D econômico’ contra Irã: entenda o que significa",
-        "link": "https://exame.com/mundo/eua-anuncia-dia-d-economico-contra-ira-entenda-o-que-significa/",
-        "summary": "Secretário do Tesouro dos EUA, Scott Bessent, promete ofensiva financeira sem precedentes contra Teerã e ameaça países que mantêm relações comerciais com o Irã",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que a Shein perdeu US$ 71 bilhões em valor antes do IPO",
-        "link": "https://exame.com/invest/mercados/de-us-98-bilhoes-a-us-27-bilhoes-por-que-a-shein-perdeu-valor-antes-do-ipo/",
-        "summary": "Varejista de moda rápida enfrenta desaceleração, tarifas e pressão sobre margens antes da estreia",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       }
     ]
   }
