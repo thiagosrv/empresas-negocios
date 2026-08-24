@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:43:28.160Z",
+  "updated": "2026-08-24T13:12:25.232Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,29 +11,29 @@
       "isoDate": "2026-08-24",
       "category": "Futebol",
       "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Zé Rafael é anunciado por clube português e inicia primeira experiência na Europa",
+      "link": "https://www.gazetaesportiva.com/times/santos/ze-rafael-anunciado-alverca-portugal/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "24 de ago. de 2026",
+      "isoDate": "2026-08-24",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Gavi sofre &#8216;contusão&#8217; na estreia do Campeonato Espanhol",
+      "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-confirma-contusao-gavi/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "24 de ago. de 2026",
+      "isoDate": "2026-08-24",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Com dois de Ferran Torres, PSG busca empate com Rennes na estreia do Francês",
-      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/psg-empata-rennes-estreia-campeonato-frances/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "23 de ago. de 2026",
-      "isoDate": "2026-08-23",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
-    },
-    {
-      "title": "Com gols no segundo tempo, Milan bate Torino e estreia com vitória no Italiano",
-      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/com-gols-no-segundo-tempo-milan-bate-torino-e-estreia-com-vitoria-no-italiano/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "23 de ago. de 2026",
-      "isoDate": "2026-08-23",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
       "title": "Melhores momentos: Rennes 2 x 2 Paris Saint-Germain pelo Francês",
@@ -44,7 +44,7 @@
       "isoDate": "2026-08-23",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Com dois de Raphinha, Barcelona goleia Elche em estreia pelo Espanhol",
@@ -66,7 +66,7 @@
       "isoDate": "2026-08-23",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: New England Revolution 1 x 1 New York City FC pela MLS",
@@ -77,7 +77,7 @@
       "isoDate": "2026-08-23",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Maresca destaca impacto de Cherki após vitória no fim sobre o Bournemouth",
@@ -88,7 +88,7 @@
       "isoDate": "2026-08-23",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Seleção sub-17 domina Venezuela com um a menos e fecha série de amistosos com 100%",
