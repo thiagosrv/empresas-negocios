@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-24T13:56:29.827Z",
+  "updated": "2026-08-24T14:49:49.148Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 1 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
+        "date": "24 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Motociclista fica ferido após cair na pista e ser atropelado em Hortolândia; motorista do carro fugiu",
         "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/24/motociclista-fica-ferido-apos-cair-na-pista-e-ser-atropelado-em-hortolandia-motorista-do-carro-fugiu.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/23/juiza-aponta-descaso-condena-facebook-indenizar-promotora-eventos-suspensao-perfil.ghtml",
         "summary": "Após ser comunicada de desativação de perfil, Fernanda tentou resolver problema com o Instagram Arquivo pessoal A Justiça condenou o Facebook Serviços Online do Brasil a indenizar uma promotora de eventos de Campinas (SP",
         "image": "https://s2-g1.glbimg.com/QBdEX3qapj-YB8yDFzhOPFtI85w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/KBDWtuROCJZwnABfBHsw/copia-de-design-sem-nome-13-.png",
-        "date": "23 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cantora adorada por D. Pedro II que foi 'apagada' da história é resgatada em livro vencedor do Jabuti",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/23/cantora-adorada-por-d-pedro-ii-que-foi-apagada-da-historia-e-resgatada-em-livro-vencedor-do-jabuti.ghtml",
-        "summary": "Augusta Candiani Reprodução/Unicamp Se a vida de Augusta Candiani fosse um romance, ela teria todos os elementos de uma personagem impossível de ignorar: uma cantora que atravessou o oceano grávida, denunciou violência d",
-        "image": "https://s2-g1.glbimg.com/4vWjLLuYKNDHg_IgPX6lEZy5b40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/7/93q7fGSRmeyaVKBsZaLA/sandy-2-.jpg",
         "date": "23 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Indonésia: número de mortos no terremoto chega a 100 mil",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100-mil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100-mil img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Indonésia: número de mortos no terremoto chega a 100",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Maior campeão do Palmeiras, Gustavo Gómez renova contrato até 2030",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-renova-gustavo-gomez-ate-2030/",
-        "summary": "O Palmeiras anunciou nesta segunda-feira a renovação de contrato de Gustavo Gómez até o fim de 2030. Capitão e um dos principais ídolos da história recente do clube, o zagueiro paraguaio soma 13 títulos pelo Verdão e é o",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SaveClip.App_786453999_1648693306615882_4263832656812855778_n.webp",
+        "title": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atlanta-united-2-x-1-sporting-kansas-city-pela-mls/",
+        "summary": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS O post Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/h45yibov-1920Atlanta.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Gavi sofre contusão na estreia do Campeonato Espanhol",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-confirma-contusao-gavi/",
-        "summary": "O Barcelona informou nesta segunda-feira que Gavi sofreu apenas uma contusão após ser substituído durante a goleada por 5 a 0 sobre o Elche, na estreia da LaLiga. O meio-campista espanhol passou por exames médicos que de",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6C689A__v1__MidRes__FblEspLigaElcheBarcelona.webp",
+        "title": "Reinaldo faz desabafo após levar cusparada em jogo contra o Santos: Nojento, lamentável e vergonhoso",
+        "link": "https://www.gazetaesportiva.com/times/santos/reinaldo-faz-desabafo-apos-ser-cuspido-em-jogo-contra-o-santos-nojento-lamentavel-e-vergonhoso/",
+        "summary": "O lateral Reinaldo, do Mirassol, denunciou ter sido vítima de uma cusparada de um torcedor do Santos durante o empate em 1 a 1 pela 24ª rodada do Brasileirão, na Vila Belmiro. O jogador classificou o episódio como \"nojen",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/sfcxmfc-pedrozacchi-26.jpg.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Zé Rafael é anunciado por clube português e inicia primeira experiência na Europa",
-        "link": "https://www.gazetaesportiva.com/times/santos/ze-rafael-anunciado-alverca-portugal/",
-        "summary": "O volante Zé Rafael foi anunciado oficialmente pelo Alverca, de Portugal, nesta segunda-feira. Aos 33 anos, o jogador chega ao futebol europeu após rescindir seu contrato com o Santos e inicia a primeira experiência inte",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Designer.webp",
+        "title": "Pedro Emanuel lamenta chances perdidas do Vasco em derrota para o Palmeiras",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/pedro-emanuel-lamenta-chances-perdidas-do-vasco-em-derrota-para-o-palmeiras/",
+        "summary": "Treinador do Vasco elogiou a postura do time no primeiro tempo, mas diz que as chances desperdiçadas no primeiro tempo fizeram a diferença para a mudança de cenário na segunda etapa, em que o Palmeira goleou o Cruzmaltin",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/p2cmo4ni-1920Pedro.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ba-Vi termina com dois mortos, quatro pessoas feridas e seis presos em Salvador",
-        "link": "https://www.gazetaesportiva.com/times/bahia/ba-vi-termina-com-dois-mortos-quatro-pessoas-feridas-e-seis-presos-em-salvador/",
-        "summary": "A tarde do último domingo foi marcada por violência antes do clássico entre Vitória e Bahia. Confrontos envolvendo torcedores organizados deixaram dois membros da Bamor mortos, quatro pessoas feridas e seis suspeitos pre",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-24-at-9.11.31-AM.webp",
+        "title": "Iraola vê passo positivo de Isak após retorno a St James Park",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/iraola-ve-passo-positivo-de-isak-apos-retorno-a-st-james-park/",
+        "summary": "Andoni Iraola afirmou que Alexander Isak tentou de tudo para contribuir de forma positiva desde que o atacante sueco voltou a St James Park pela primeira vez como jogador do Liverpool, em agosto de 2026. O post Iraola vê",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/6j51htzr-1920Iraola.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Shogun e Glover comandam preparação para o Spaten Fight Night na praia do Arpoador",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/lutas/spaten-fight-night-3-treino-aberto/",
-        "summary": "O treino aberto do Spaten Fight Night 3 reuniu grandes nomes das artes marciais brasileiras no último domingo, na praia do Arpoador, no Rio de Janeiro. Maurício Shogun, Glover Teixeira, Bia Souza, Rafaela Silva, Luan Med",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/9IjZ6ATO5ETMyojci5SbvNmLhRXZ6F2Z2RHQhJXYi12bs92YuwWZ15WYtVmO1MDM3YjN1cDOyozZlBnauc3bsRWM5YWOhFGNwMjN1UzN5gzYmFjMzU2N5QWM0ITZwcjMGJTJwcjMGJTJxkTOwEjRyUSN0ADNx8VL1ETLf9VLwITLfpzM.webp",
+        "title": "Fabinho acerta com o Trabzonspor e reedita parceria com Salah",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/fabinho-e-anunciado-pelo-trabzonspor/",
+        "summary": "O Trabzonspor, da Turquia, anunciou nesta segunda-feira a contratação do volante brasileiro Fabinho, de 32 anos. O jogador chega sem custos após deixar o Al Ittihad, da Arábia Saudita, e volta ao futebol europeu para ree",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQd1eyQWEAAzC9f.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Semana do Palmeiras tem clássico na Copa do Brasil e confronto paulista no Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/semana-do-palmeiras-tem-classico-na-copa-do-brasil-e-confronto-paulista-no-brasileirao/",
-        "summary": "O Palmeiras terá mais uma semana complicada com clássico contra o Santos e duelo contra o Mirassol. Veja a agenda do time alviverde. O post Semana do Palmeiras tem clássico na Copa do Brasil e confronto paulista no Brasi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/23082026_cg_palmeiras_3488_116.webp",
+        "title": "Palmeiras abre vantagem, e Santos e São Paulo se complicam; veja as probabilidades do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-abre-vantagem-e-santos-e-sao-paulo-se-complicam-veja-as-probabilidades-do-brasileirao/",
+        "summary": "Após a 24ª rodada do Campeonato Brasileiro, o Palmeiras ampliou sua vantagem sobre o Flamengo e passou a ter 60,5% de chance de conquistar o título, segundo a UFMG. Enquanto o Verdão se fortalece na liderança, Santos e S",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/palvas.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Conselho aprova pedido de recuperação extrajudicial da Braskem",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Mercado reduz projeção para crescimento da economia em 2026",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026",
@@ -297,19 +307,9 @@
         "cls": ""
       },
       {
-        "title": "Opção pelo Simples Nacional para 2027 é antecipada para setembro",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa vira para alta com VALE3 e bancos",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3, bancos e flerta com os 172 mil pontos",
         "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
-        "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa vira para alta com VALE3 e bancos appeared first on InfoMoney.",
+        "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3, bancos e flerta com os 172 mil pontos appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-53.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
@@ -317,54 +317,114 @@
         "cls": "brasil"
       },
       {
-        "title": "Recuperação extrajudicial da Braskem inclui possível oferta de ações, dizem fontes",
-        "link": "https://www.infomoney.com.br/mercados/recuperacao-extrajudicial-da-braskem-inclui-possivel-oferta-de-acoes-dizem-fontes/",
-        "summary": "Mais cedo, a companhia anunciou que seu conselho de administração aprovou o ajuizamento do pedido para reestruturar dívidas de cerca de US$10,9 bilhões The post Recuperação extrajudicial da Braskem inclui possível oferta",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/01/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Tesouro IPCA+ retorna aos 8% após Focus e à espera de discurso de Warsh",
+        "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abre-fecha-24082026/",
+        "summary": "Boletim Focus manteve o IPCA de 2026 em 5,02%, mas elevou a projeção para 2027 e reduziu a estimativa de PIB deste ano; investidores aguardam a estreia de Kevin Warsh em Jackson Hole na sexta-feira The post Tesouro IPCA+",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusão com Afya",
-        "link": "https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/",
-        "summary": "Yduqs afirmou ainda que não há garantia de que as negociações resultarão na assinatura de documentos definitivos ou na conclusão da operação The post Yduqs (YDUQ3) salta 10% após confirmar negociações sobre possível fusã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Usiminas (USIM5) sobe forte com notícia sobre fechamento de capital da companhia",
+        "link": "https://www.infomoney.com.br/mercados/usiminas-usim5-sobe-forte-com-noticia-sobre-fechamento-de-capital-da-companhia/",
+        "summary": "Segundo o jornal O Globo, a Ternium pretende fechar o capital da Usiminas The post Usiminas (USIM5) sobe forte com notícia sobre fechamento de capital da companhia appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-24-133955.png?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula diz ter saudade de disputar eleições contra PSDB: nível da política caiu muito",
-        "link": "https://www.infomoney.com.br/politica/lula-diz-ter-saudade-de-disputar-eleicoes-contra-psdb-nivel-da-politica-caiu-muito/",
-        "summary": "Sem citar Renan Santos, candidato pelo Missão, presidente criticou quem \"acha que pode ser candidato só por lacrar na Internet\" The post Lula diz ter saudade de disputar eleições contra PSDB: nível da política caiu muito",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T181519Z_1874074105_RC2MWMAWH8ZB_RTRMADP_3_BRAZIL-ECONOMY-FISCAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Líder da extrema esquerda deve chegar ao 2º turno da eleição presidencial na França",
+        "link": "https://www.infomoney.com.br/mundo/lider-da-extrema-esquerda-deve-chegar-ao-2o-turno-da-eleicao-presidencial-na-franca/",
+        "summary": "Pesquisa aponta que Mélenchon, candidato do partido de extrema ⁠esquerda “França Insubmissa” (LFI), deve avançar na disputa em ao menos 3 dos 5 cenários testados The post Líder da extrema esquerda deve chegar ao 2º turno",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/reuters.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula sugeriu que Caixa Econômica crie Desenrola para clubes de futebol",
-        "link": "https://www.infomoney.com.br/politica/lula-sugeriu-que-caixa-economica-crie-desenrola-para-clubes-de-futebol/",
-        "summary": "De acordo com o presidente, a medida semelhante ao programa de refinanciamento de dívidas poderia ajudar os times \"quebrados\" The post Lula sugeriu que Caixa Econômica crie Desenrola para clubes de futebol appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula-record.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all",
+        "title": "Após aval de Moraes, Carlos relata visita a Jair Bolsonaro: Choro de emoção",
+        "link": "https://www.infomoney.com.br/politica/apos-aval-de-moraes-carlos-relata-visita-a-jair-bolsonaro-choro-de-emocao/",
+        "summary": "Ministro do STF manteve proibição de manifestações político-eleitorais em encontros do candidato ao Senado por SC e Jair Renan The post Após aval de Moraes, Carlos relata visita a Jair Bolsonaro: Choro de emoção appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/01/2024-01-29T114740Z_1_LYNXMPEK0S0C3_RTROPTP_4_POLITICA-CARLOSBOLSONARO-POLICIAFEDERAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24)",
-        "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-24082026/",
-        "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa The post Renda Fixa Hoje: Confira as taxas de CDBs, LCIs e LCAs na XP nesta segunda-feira (24) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-007.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Braskem diz que conselho aprovou ajuizamento de pedido de recuperação extrajudicial",
+        "link": "https://www.infomoney.com.br/mercados/braskem-diz-que-conselho-aprovou-ajuizamento-de-pedido-de-recuperacao-extrajudicial/",
+        "summary": "Segundo a empresa, a recuperação extrajudicial terá escopo limitado e estritamente financeiro The post Braskem diz que conselho aprovou ajuizamento de pedido de recuperação extrajudicial appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/braskem.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Cientistas descobrem 'dragão' da vida real e o batizam de Syrax, de 'A Casa do Dragão'",
+        "link": "https://exame.com/ciencia/cientistas-descobrem-dragao-da-vida-real-e-o-batizam-de-syrax-de-a-casa-do-dragao/",
+        "summary": "Espécie encontrada em floresta de altitude no oeste da Tailândia recebeu nome inspirado na criatura controlada por Rhaenyra Targaryen",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Após Huawei, Xiaomi lança chip para smartphone visando reduzir dependência de fornecedores",
+        "link": "https://exame.com/tecnologia/apos-huawei-xiaomi-lanca-chip-para-smartphone-visando-reduzir-dependencia-de-fornecedores/",
+        "summary": "O Xring O3, fabricado em processo de 3 nanômetros pela taiwanesa TSMC, pressiona Qualcomm e MediaTek, mas, ao contrário da rival Huawei, a Xiaomi não está sob sanção americana e ainda depende fortemente dos fornecedores ",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Real Time Big Data: Tarcísio tem 52% e Haddad, 35%, no 1º turno",
+        "link": "https://exame.com/brasil/real-time-big-data-tarcisio-tem-52-e-haddad-35-no-1o-turno/",
+        "summary": "Governador consolida vantagem na busca pela reeleição impulsionado por eleitores de alta renda, enquanto disputa acirra na base da pirâmide",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Por que o upcycling se tornou uma estratégia das marcas de luxo",
+        "link": "https://exame.com/casual/por-que-o-upcycling-se-tornou-uma-estrategia-das-marcas-de-luxo/",
+        "summary": "Grifes de luxo ampliam programas de peças reaproveitadas e passam a vender design e exclusividade, não só sustentabilidade, enquanto novas regras europeias pressionam o setor a lidar com o próprio excedente",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Quem é Sinestro? Conheça o personagem que aparece no episódio 2 de ‘Lanternas’",
+        "link": "https://exame.com/pop/quem-e-sinestro-conheca-o-personagem-que-aparece-no-episodio-2-de-lanternas/",
+        "summary": "Interpretado por Ulrich Thomsen, personagem aparece no segundo episódio e tem uma longa história ligada a Hal Jordan",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Manchester City abre era pós-Guardiola com vitória dramática na Premier League",
+        "link": "https://exame.com/esporte/manchester-city-abre-era-pos-guardiola-com-vitoria-dramatica-na-premier-league/",
+        "summary": "Enzo Maresca assumiu um dos trabalhos mais difíceis do futebol europeu; o time precisou de uma reação nos minutos finais para vencer o Bournemouth",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       }
     ]
   }
