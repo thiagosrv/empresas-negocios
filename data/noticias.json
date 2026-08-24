@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-24T14:49:49.148Z",
+  "updated": "2026-08-24T15:42:55.015Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Brasil tem vulcões? Marcas de erupções ainda estão pelo país; veja",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/24/brasil-tem-vulcoes-marcas-de-erupcoes-ainda-estao-pelo-pais-veja.ghtml",
+        "summary": "Ilha de Trindade apresenta registro histórico de atividade vulcânica Simone Marinho/Wikimedia Commons Não há lava escorrendo por encostas, cidades construídas aos pés de vulcões em atividade nem colunas de cinzas ameaçan",
+        "image": "https://s2-g1.glbimg.com/ydfD5Ui7IRONrEs_Mm0RSH_2NSs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/dAKvatQ5OZqwuBGZS7IA/ilha-de-trindade.webp",
+        "date": "24 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "EPTV 1 Campinas ao vivo",
         "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
@@ -48,16 +58,6 @@
         "summary": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita Imagine fazer a mesma pergunta para uma inteligência artificial duas vezes. Na primeira, sem dizer nada sobre suas preferências políticas. ",
         "image": "https://s2-g1.glbimg.com/JVTniidVvgW20H03wc7qVj43flQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/p/TaDsFPTAutTfH3An2tEg/maos-femininas-digitando-no-teclado-computador.jpg",
         "date": "24 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Juíza aponta 'descaso' e condena Facebook a indenizar promotora de eventos por suspensão de perfil",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/23/juiza-aponta-descaso-condena-facebook-indenizar-promotora-eventos-suspensao-perfil.ghtml",
-        "summary": "Após ser comunicada de desativação de perfil, Fernanda tentou resolver problema com o Instagram Arquivo pessoal A Justiça condenou o Facebook Serviços Online do Brasil a indenizar uma promotora de eventos de Campinas (SP",
-        "image": "https://s2-g1.glbimg.com/QBdEX3qapj-YB8yDFzhOPFtI85w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/KBDWtuROCJZwnABfBHsw/copia-de-design-sem-nome-13-.png",
-        "date": "23 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Conselho aprova pedido de recuperação extrajudicial da Braskem",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Indonésia: número de mortos no terremoto chega a 100",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
@@ -171,19 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Saiba quais são as atribuições dos governadores e vice-governadores",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/saiba-quais-sao-atribuicoes-dos-governadores-e-vice-governadores",
-        "summary": "p Nas eleições de 2026, os brasileiros vão escolher os governadores e vice-governadores das 27 unidades federativas. Conhecer as atribuições desses cargos é importante para entender as responsabilidades dos futuros ocupa",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Bastidores: Harry Kane na cerimônia da Chuteira de Ouro",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-harry-kane-na-cerimonia-da-chuteira-de-ouro/",
+        "summary": "Bastidores exclusivos da cerimônia oficial de entrega da Chuteira de Ouro europeia a Harry Kane. O post Bastidores: Harry Kane na cerimônia da Chuteira de Ouro apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/6o5ao0r9-1920Harry-Kane.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "A primeira vitória de Filipe Luís na Ligue 1",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-primeira-vitoria-de-filipe-luis-na-ligue-1/",
+        "summary": "O técnico brasileiro conquistou seus primeiros três pontos na Ligue 1 após a vitória do AS Monaco por 1 a 0, fora de casa, sobre o Le Havre. O post A primeira vitória de Filipe Luís na Ligue 1 apareceu primeiro em Gazeta",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ffLli4BQ-1920Filipe-Luis.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Ferran Torres marca dois gols em estreia dos sonhos pelo PSG",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ferran-torres-marca-dois-gols-em-estreia-dos-sonhos-pelo-psg/",
+        "summary": "O campeão da Copa do Mundo de 2026 se destacou como um jogador para ficar de olho na Ligue 1 após marcar duas vezes em sua primeira partida pelo clube, ajudando o Paris Saint-Germain a conquistar um ponto contra o Rennes",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Pss0fD6S-1920Ferran-Torres.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atlanta-united-2-x-1-sporting-kansas-city-pela-mls/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/pedro-emanuel-lamenta-chances-perdidas-do-vasco-em-derrota-para-o-palmeiras/",
         "summary": "Treinador do Vasco elogiou a postura do time no primeiro tempo, mas diz que as chances desperdiçadas no primeiro tempo fizeram a diferença para a mudança de cenário na segunda etapa, em que o Palmeira goleou o Cruzmaltin",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/p2cmo4ni-1920Pedro.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Iraola vê passo positivo de Isak após retorno a St James Park",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/iraola-ve-passo-positivo-de-isak-apos-retorno-a-st-james-park/",
-        "summary": "Andoni Iraola afirmou que Alexander Isak tentou de tudo para contribuir de forma positiva desde que o atacante sueco voltou a St James Park pela primeira vez como jogador do Liverpool, em agosto de 2026. O post Iraola vê",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/6j51htzr-1920Iraola.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Fabinho acerta com o Trabzonspor e reedita parceria com Salah",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/fabinho-e-anunciado-pelo-trabzonspor/",
-        "summary": "O Trabzonspor, da Turquia, anunciou nesta segunda-feira a contratação do volante brasileiro Fabinho, de 32 anos. O jogador chega sem custos após deixar o Al Ittihad, da Arábia Saudita, e volta ao futebol europeu para ree",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQd1eyQWEAAzC9f.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras abre vantagem, e Santos e São Paulo se complicam; veja as probabilidades do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-abre-vantagem-e-santos-e-sao-paulo-se-complicam-veja-as-probabilidades-do-brasileirao/",
-        "summary": "Após a 24ª rodada do Campeonato Brasileiro, o Palmeiras ampliou sua vantagem sobre o Flamengo e passou a ter 60,5% de chance de conquistar o título, segundo a UFMG. Enquanto o Verdão se fortalece na liderança, Santos e S",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/palvas.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3, bancos e flerta com os 172 mil pontos",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
-        "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa sobe com VALE3, bancos e flerta com os 172 mil pontos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-53.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "B3 anuncia exclusão de Braskem em índices após pedido de recuperação extrajudicial",
+        "link": "https://www.infomoney.com.br/mercados/b3-anuncia-exclusao-de-braskem-em-indices-apos-pedido-de-recuperacao-extrajudicial/",
+        "summary": "Os índices afetados incluem, entre outros, Ibovespa (IBOV), IBrX (IBRA), IBrX-50 (IBXX), entre outros The post B3 anuncia exclusão de Braskem em índices após pedido de recuperação extrajudicial appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tesouro IPCA+ retorna aos 8% após Focus e à espera de discurso de Warsh",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abre-fecha-24082026/",
-        "summary": "Boletim Focus manteve o IPCA de 2026 em 5,02%, mas elevou a projeção para 2027 e reduziu a estimativa de PIB deste ano; investidores aguardam a estreia de Kevin Warsh em Jackson Hole na sexta-feira The post Tesouro IPCA+",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_866688608.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Receita Federal libera consulta ao último lote de restituição do IR 2026",
+        "link": "https://www.infomoney.com.br/minhas-financas/receita-federal-libera-consulta-ao-ultimo-lote-de-restituicao-do-ir-2026/",
+        "summary": "Agora, 521.935 contribuintes receberão R$ 1,2 bilhão The post Receita Federal libera consulta ao último lote de restituição do IR 2026 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/cropped-mca_abr_21031913346-1.webp?fit=225%2C300&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Usiminas (USIM5) sobe forte com notícia sobre fechamento de capital da companhia",
-        "link": "https://www.infomoney.com.br/mercados/usiminas-usim5-sobe-forte-com-noticia-sobre-fechamento-de-capital-da-companhia/",
-        "summary": "Segundo o jornal O Globo, a Ternium pretende fechar o capital da Usiminas The post Usiminas (USIM5) sobe forte com notícia sobre fechamento de capital da companhia appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-24-133955.png?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Os novos ladrões de arte: o crime como serviço, mais violência e foco em ouro",
+        "link": "https://www.infomoney.com.br/mercados/os-novos-ladroes-de-arte-o-crime-como-servico-mais-violencia-e-foco-em-ouro/",
+        "summary": "Europol mapeia nova onda de roubos violentos na Europa: grupos improvisados, recrutados por redes sociais, de olho no ouro que subiu 85% em dois anos The post Os novos ladrões de arte: o crime como serviço, mais violênci",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/roubo-louvre-paris-camera-seguranca01.gif?fit=220%2C140&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Líder da extrema esquerda deve chegar ao 2º turno da eleição presidencial na França",
-        "link": "https://www.infomoney.com.br/mundo/lider-da-extrema-esquerda-deve-chegar-ao-2o-turno-da-eleicao-presidencial-na-franca/",
-        "summary": "Pesquisa aponta que Mélenchon, candidato do partido de extrema ⁠esquerda “França Insubmissa” (LFI), deve avançar na disputa em ao menos 3 dos 5 cenários testados The post Líder da extrema esquerda deve chegar ao 2º turno",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/reuters.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Mercado imobiliário tem recuo de 1,3% lançamentos e alta de 5,3% nas vendas no 2T",
+        "link": "https://www.infomoney.com.br/mercados/mercado-imobiliario-tem-recuo-de-13-lancamentos-e-alta-de-53-nas-vendas-no-2t/",
+        "summary": "Os lançamentos de imóveis no País chegaram a 107,2 mil unidades no segundo trimestre de 2026 The post Mercado imobiliário tem recuo de 1,3% lançamentos e alta de 5,3% nas vendas no 2T appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/53804115232_02913618b5_o.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Após aval de Moraes, Carlos relata visita a Jair Bolsonaro: Choro de emoção",
-        "link": "https://www.infomoney.com.br/politica/apos-aval-de-moraes-carlos-relata-visita-a-jair-bolsonaro-choro-de-emocao/",
-        "summary": "Ministro do STF manteve proibição de manifestações político-eleitorais em encontros do candidato ao Senado por SC e Jair Renan The post Após aval de Moraes, Carlos relata visita a Jair Bolsonaro: Choro de emoção appeared",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/01/2024-01-29T114740Z_1_LYNXMPEK0S0C3_RTROPTP_4_POLITICA-CARLOSBOLSONARO-POLICIAFEDERAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Exportações semanais de grãos da Ucrânia caíram 11,4%, diz consultoria",
+        "link": "https://www.infomoney.com.br/mercados/exportacoes-semanais-de-graos-da-ucrania-cairam-114-diz-consultoria/",
+        "summary": "Os portos marítimos ⁠ucranianos ‌no complexo portuário de Odessa ⁠interromperam efetivamente suas operações no final de julho devido a ataques russos The post Exportações semanais de grãos da Ucrânia caíram 11,4%, diz co",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/2024-11-25T222942Z_971031752_RC2LCBA23FS1_RTRMADP_3_USA-RIVERS-BARGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Braskem diz que conselho aprovou ajuizamento de pedido de recuperação extrajudicial",
-        "link": "https://www.infomoney.com.br/mercados/braskem-diz-que-conselho-aprovou-ajuizamento-de-pedido-de-recuperacao-extrajudicial/",
-        "summary": "Segundo a empresa, a recuperação extrajudicial terá escopo limitado e estritamente financeiro The post Braskem diz que conselho aprovou ajuizamento de pedido de recuperação extrajudicial appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/braskem.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Risco geopolítico pesa e juros intermediários e longos firmam alta",
+        "link": "https://www.infomoney.com.br/mercados/risco-geopolitico-pesa-e-juros-intermediarios-e-longos-firmam-alta/",
+        "summary": "O secretário do Tesouro dos EUA, Scott Bessent, deve falar às 15h, em entrevista coletiva, sobre as sanções The post Risco geopolítico pesa e juros intermediários e longos firmam alta appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/home-broker.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Cientistas descobrem 'dragão' da vida real e o batizam de Syrax, de 'A Casa do Dragão'",
-        "link": "https://exame.com/ciencia/cientistas-descobrem-dragao-da-vida-real-e-o-batizam-de-syrax-de-a-casa-do-dragao/",
-        "summary": "Espécie encontrada em floresta de altitude no oeste da Tailândia recebeu nome inspirado na criatura controlada por Rhaenyra Targaryen",
+        "title": "Nvidia pode investir na Perplexity em rodada que avalia startup em US$ 30 bilhões",
+        "link": "https://exame.com/inteligencia-artificial/nvidia-pode-investir-na-perplexity-em-rodada-que-avalia-startup-em-us-30-bilhoes/",
+        "summary": "Startup foi avaliada em US$ 20 bilhões na última rodada e agora negocia captação que pode elevar seu valor em mais de 50%",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após Huawei, Xiaomi lança chip para smartphone visando reduzir dependência de fornecedores",
-        "link": "https://exame.com/tecnologia/apos-huawei-xiaomi-lanca-chip-para-smartphone-visando-reduzir-dependencia-de-fornecedores/",
-        "summary": "O Xring O3, fabricado em processo de 3 nanômetros pela taiwanesa TSMC, pressiona Qualcomm e MediaTek, mas, ao contrário da rival Huawei, a Xiaomi não está sob sanção americana e ainda depende fortemente dos fornecedores ",
+        "title": "Hugging Face pode ser vendida por US$ 13 bilhões após recusar aporte da Nvidia",
+        "link": "https://exame.com/inteligencia-artificial/hugging-face-pode-ser-vendida-por-us-13-bilhoes-apos-recusar-aporte-da-nvidia/",
+        "summary": "Empresa já havia recusado investimento de US$ 500 milhões da Nvidia para não ter um investidor dominante; negociação ainda não tem comprador definido",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Real Time Big Data: Tarcísio tem 52% e Haddad, 35%, no 1º turno",
-        "link": "https://exame.com/brasil/real-time-big-data-tarcisio-tem-52-e-haddad-35-no-1o-turno/",
-        "summary": "Governador consolida vantagem na busca pela reeleição impulsionado por eleitores de alta renda, enquanto disputa acirra na base da pirâmide",
+        "title": "MCMV impulsiona venda de imóveis novos em 5% no 1⁰ semestre",
+        "link": "https://exame.com/mercado-imobiliario/mcmv-impulsiona-venda-de-imoveis-novos-em-5-no-1%e2%81%b0-semestre/",
+        "summary": "Mercado vendeu 226,5 mil unidades no primeiro semestre, enquanto MCMV atingiu maior participação em 7 anos",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que o upcycling se tornou uma estratégia das marcas de luxo",
-        "link": "https://exame.com/casual/por-que-o-upcycling-se-tornou-uma-estrategia-das-marcas-de-luxo/",
-        "summary": "Grifes de luxo ampliam programas de peças reaproveitadas e passam a vender design e exclusividade, não só sustentabilidade, enquanto novas regras europeias pressionam o setor a lidar com o próprio excedente",
+        "title": "Plástico que polui praias revela desafio da transição energética a partir da Amazônia",
+        "link": "https://exame.com/esg/plastico-que-polui-praias-revela-desafio-da-transicao-energetica-a-partir-da-amazonia/",
+        "summary": "Enquanto o lixo plástico avança nas praias amazônicas, ciência, inovação e políticas públicas buscam alternativas ao petróleo",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem é Sinestro? Conheça o personagem que aparece no episódio 2 de ‘Lanternas’",
-        "link": "https://exame.com/pop/quem-e-sinestro-conheca-o-personagem-que-aparece-no-episodio-2-de-lanternas/",
-        "summary": "Interpretado por Ulrich Thomsen, personagem aparece no segundo episódio e tem uma longa história ligada a Hal Jordan",
+        "title": "BIS transforma lance viral de jogador do Coritiba em marketing no Couto Pereira",
+        "link": "https://exame.com/marketing/bis-transforma-lance-viral-de-jogador-do-coritiba-em-marketing-no-couto-pereira/",
+        "summary": "Marca instalou uma placa com trocadilho no local onde zagueiro Jacy caiu durante comemoração de gol",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Manchester City abre era pós-Guardiola com vitória dramática na Premier League",
-        "link": "https://exame.com/esporte/manchester-city-abre-era-pos-guardiola-com-vitoria-dramatica-na-premier-league/",
-        "summary": "Enzo Maresca assumiu um dos trabalhos mais difíceis do futebol europeu; o time precisou de uma reação nos minutos finais para vencer o Bournemouth",
+        "title": "Ibovespa hoje: índice sobe aos 172 mil pontos puxado por Vale e bancos",
+        "link": "https://exame.com/invest/mercados/ibovespa-hoje-indice-sobe-aos-172-mil-pontos-puxado-por-vale-e-bancos/",
+        "summary": "Debate presidencial no Brasil, Boletim Focus e sanções econômicas dos EUA movimentam o mercado",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
