@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-24T07:05:44.975Z",
+  "updated": "2026-08-24T08:52:38.870Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita, aponta estudo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/ias-mudam-respostas-politicas-conforme-usuario-se-declara-de-esquerda-ou-direita-aponta-estudo.ghtml",
+        "summary": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita Imagine fazer a mesma pergunta para uma inteligência artificial duas vezes. Na primeira, sem dizer nada sobre suas preferências políticas. ",
+        "image": "https://s2-g1.glbimg.com/JVTniidVvgW20H03wc7qVj43flQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/p/TaDsFPTAutTfH3An2tEg/maos-femininas-digitando-no-teclado-computador.jpg",
+        "date": "24 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Juíza aponta 'descaso' e condena Facebook a indenizar promotora de eventos por suspensão de perfil",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/23/juiza-aponta-descaso-condena-facebook-indenizar-promotora-eventos-suspensao-perfil.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/vencedora-leilao-desclassificada-arrematacao-terreno-exercito-valinhos-anulada.ghtml",
         "summary": "Fundação Habitacional do Exército desclassifica vencedora de leilão em Valinhos A Fundação Habitacional do Exército (FHE) desclassificou nesta quarta-feira (19) a empresa Alphaville Desenvolvimento Imobiliário do leilão ",
         "image": "https://s2-g1.glbimg.com/DvVw3ORQLpd_-qERPFMmAJQ3mag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/w68rFsRDS1h60zBno2DQ/1200px-x-800px-6-.jpg",
-        "date": "22 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Caiado afirma ser a favor do fim da escala 6x1 após chamar PEC de 'eleitoreira'",
-        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/22/caiado-afirma-ser-a-favor-do-fim-da-escala-6x1-apos-chamar-pec-de-eleitoreira.ghtml",
-        "summary": "Ronaldo Caiado, candidato à presidência brasileira pelo PSD, em entrevista em Campinas (SP) EPTV O candidato à Presidência Ronaldo Caiado (PSD) disse neste sábado (22), em Campinas (SP), que é a favor do fim da escala 6x",
-        "image": "https://s2-g1.glbimg.com/kWiwO9smZ79gCyzZ22ji7f0r0Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/Y3QHjMSoSu1sXS2OgRNw/captura-de-tela-2026-08-22-155601.png",
         "date": "22 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,46 @@
     ],
     "esportes": [
       {
+        "title": "Atuações do Corinthians: Veja quem decepcionou e quem se salvou na derrota para o Coritiba",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/atuacoes-do-corinthians-veja-quem-decepcionou-e-quem-se-salvou-na-derrota-para-o-coritiba/",
+        "summary": "Desfalcado, o Corinthians perdeu para o Coritiba por 2 a 1 no último domingo, pelo Campeonato Brasileiro, em uma atuação abaixo do esperado. Mesmo com o resultado negativo e desempenhos ruins, alguns jogadores se salvara",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247915-2.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Análise: Santos desperdiça domínio e deixa escapar pontos importantes contra o Mirassol",
+        "link": "https://www.gazetaesportiva.com/times/santos/analise-santos-mirassol-brasileirao-2026/",
+        "summary": "O Santos dominou boa parte do confronto com o Mirassol, criou mais oportunidades e ainda teve superioridade numérica na reta final, mas ficou no empate por 1 a 1 na Vila Belmiro. O resultado manteve o Peixe a apenas dois",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55483913708_446e4e5457_3k-1.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Abel rebate críticas sobre oscilação do Palmeiras e culpa calendário: Nem o Barcelona consegue",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-rebate-criticas-sobre-oscilacao-do-palmeiras-e-culpa-calendario-nem-o-barcelona-consegue/",
+        "summary": "Abel Ferreira culpou o calendário do futebol brasileiro pela oscilação de resultados e de desempenhos do Palmeiras nos últimos jogos. O post Abel rebate críticas sobre oscilação do Palmeiras e culpa calendário: Nem o Bar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/23082026_cg_palmeiras_5295_135.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atuações do São Paulo: ninguém se salva em derrota para a Chapecoense",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/atuacoes-do-sao-paulo-ninguem-se-salva-em-derrota-para-a-chapecoense/",
+        "summary": "Veja as atuações dos jogadores do São Paulo na derrota para a Chapecoense, pela 24ª rodada do Campeonato Brasileiro. O post Atuações do São Paulo: ninguém se salva em derrota para a Chapecoense apareceu primeiro em Gazet",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55483829449_e49fe8568c_k.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Allan vive possível despedida do Palmeiras em meio à negociação com o City; veja detalhes",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/allan-despedida-palmeiras-manchester-city/",
         "summary": "Perto de deixar o Palmeiras, Allan pode ter feito seu último jogo com a equipe na goleada sobre o Vasco, no domingo, no Nubank Parque. Saiba como foi e detalhes das conversas. O post Allan vive possível despedida do Palm",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/palmeiras/mercado-da-bola-palmeiras-novidades/",
         "summary": "O Palmeiras trabalha com cautela no mercado da bola, mas se mantém atento às oportunidades que surgirem nesta janela de transferências, que fecha no dia 11 de setembro. Até o momento, o clube anunciou apenas um reforço p",
         "image": "https://static.gazetaesportiva.com/uploads/2026/07/18072026_cg_palmeiras_2916_3.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Em Buenos Aires, Núbia de Oliveira quebra recorde brasileiro da meia maratona",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/atletismo/nubia-oliveira-recorde-brasileiro-meia-maratona-buenos-aires/",
-        "summary": "A atleta baiana Núbia de Oliveira Silva, de 24 anos, estabeleceu um novo recorde brasileiro da meia maratona ao completar a prova da Meia Maratona de Buenos Aires, na Argentina, em 1h11min13s. O tempo superou a marca de ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/469618_1216909_whatsapp_image_2026_08_16_at_09.53.29_web_.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Coco Gauff vence Jessica Pegula e conquista WTA 1000 de Cincinnati pela 2ª vez",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/coco-gauff-campea-wta-cincinnati-jessica-pegula/",
-        "summary": "Coco Gauff conquistou neste domingo seu segundo título do WTA 1000 de Cincinnati ao derrotar Jessica Pegula por 6-2 e 6-4 em uma final histórica entre tenistas americanas, algo que não acontecia no torneio desde 1970. A ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260824__2291751485__v1__HighRes__CincinnatiOpen2026FinalDay.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Arthur Fils vence Frances Tiafoe e conquista Masters 1000 de Cincinnati",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/arthur-fils-vence-frances-tiafoe-e-conquista-masters-1000-de-cincinnati/",
-        "summary": "O francês Arthur Fils conquistou neste domingo o título do Masters 1000 de Cincinnati ao derrotar o americano Frances Tiafoe na final. Aos 22 anos, ele garantiu o primeiro troféu de Masters 1000 da carreira, tornou-se o ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__2291742501__v1__HighRes__CincinnatiOpen2026FinalDay.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Grêmio protesta contra arbitragem em derrota diante do RB Bragantino e promete ir à CBF",
-        "link": "https://www.gazetaesportiva.com/times/gremio/gremio-critica-arbitragem-gol-anulado-bragantino/",
-        "summary": "Após a derrota por 1 a 0 para o Red Bull Bragantino pelo Campeonato Brasileiro, o Grêmio divulgou uma nota oficial criticando a arbitragem de Felipe Fernandes de Lima pela anulação de um gol de Martin Braithwaite no segu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55483558358_8b16ba0846_o.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,94 @@
         "cls": ""
       },
       {
-        "title": "Ausente de debate, Flávio publica vídeo: Quero debater com quem destrói o Brasil",
-        "link": "https://www.infomoney.com.br/politica/ausente-de-debate-flavio-publica-video-quero-debater-com-quem-destroi-o-brasil/",
-        "summary": "Candidato do PL não foi ao encontro da Band e usou as redes sociais durante o programa para direcionar ataques a Lula e apresentar propostas econômicas The post Ausente de debate, Flávio publica vídeo: Quero debater com ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/flavio-antag.avif?resize=300,170",
+        "title": "Sem contraditório, Lula e Flávio tentam pautar debate de fora do debate presidencial",
+        "link": "https://www.infomoney.com.br/politica/sem-contraditorio-lula-e-flavio-tentam-pautar-debate-de-fora-do-debate-presidencial/",
+        "summary": "Líderes das pesquisas evitaram confronto direto na TV, mas ocuparam o centro dos ataques enquanto recorreram a entrevista e vídeo para falar sem adversários The post Sem contraditório, Lula e Flávio tentam pautar debate ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-03.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mesmo ausente, Lula vira principal alvo de candidatos no debate presidencial",
-        "link": "https://www.infomoney.com.br/politica/mesmo-ausente-lula-vira-principal-alvo-de-candidatos-no-debate-presidencial/",
-        "summary": "Renan Santos, Ronaldo Caiado e Augusto Cury concentraram críticas no presidente ao discutir segurança, economia, educação e política externa The post Mesmo ausente, Lula vira principal alvo de candidatos no debate presid",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate-presidencial-band-eleicoes-2026-renan-caiado-cury-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Decretar que o Brasil é do Senhor Jesus Cristo : Flávio reforça voto evangélico",
+        "link": "https://www.infomoney.com.br/politica/decretar-que-o-brasil-e-do-senhor-jesus-cristo-flavio-reforca-voto-evangelico/",
+        "summary": "Declaração feita em publicação nas redes sociais reforça estratégia do candidato do PL para consolidar segmento em que já abre ampla vantagem sobre Lula The post Decretar que o Brasil é do Senhor Jesus Cristo : Flávio re",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-25T170410Z_939069326_RC24LMAOKIWP_RTRMADP_3_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula elogia diálogo com Trump, mas critica segundo escalão dos EUA",
-        "link": "https://www.infomoney.com.br/politica/lula-elogia-dialogo-com-trump-mas-critica-segundo-escalao-dos-eua/",
-        "summary": "Presidente diz que conversa com republicano é “civilizada”, contesta justificativas para novas tarifas e afirma que negociações comerciais serão retomadas The post Lula elogia diálogo com Trump, mas critica segundo escal",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T235125Z_1336740669_RC2MWMAE7PFV_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ex-piloto diz que fortuna de US$ 150 mi veio de sapatos engraxados e pontualidade",
+        "link": "https://www.infomoney.com.br/business/global/ex-piloto-diz-que-fortuna-de-us-150-mi-veio-de-sapatos-engraxados-e-pontualidade/",
+        "summary": "Sete vezes campeão da NASCAR, Jimmie Johnson diz que atenção aos detalhes, pontualidade e capacidade de aprender com os erros foram decisivos para sua carreira The post Ex-piloto diz que fortuna de US$ 150 mi veio de sap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/RETIRED-RACER-JIMMIE-JOHNSON-CREDITS-HIS-MULTIMILLION-DOLLAR-SUCCESS-TO-SHINING-HIS-SHOES-AND-ARRIVING-10-MINUTES-EARLY-SMALL-THINGS-MATTER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Caiado diz que Lula e Flávio deveriam perder registro por faltar a debate",
-        "link": "https://www.infomoney.com.br/politica/caiado-diz-que-lula-e-flavio-deveriam-perder-registro-por-faltar-a-debate/",
-        "summary": "Candidato do PSD chamou adversários de “fujões” antes do encontro da Band The post Caiado diz que Lula e Flávio deveriam perder registro por faltar a debate appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate-presidencial-band-eleicoes-2026-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
+        "title": "Venezuela pode abandonar bolívar pelo dólar na maior troca de moeda desde o euro",
+        "link": "https://www.infomoney.com.br/business/global/venezuela-pode-abandonar-bolivar-pelo-dolar-na-maior-troca-de-moeda-desde-o-euro/",
+        "summary": "Economista Steve Hanke, assessor de uma liderança da Assembleia Nacional, estima em até 80% as chances de dolarização e vê a medida como chave para conter a inflação e reativar a economia The post Venezuela pode abandona",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/VENEZUELA-ABANDONING-THE-BOLIVAR-AND-ADOPTING-THE-US-DOLLAR-WOULD-BE-THE-BIGGEST-CURRENCY-SWITCH-SINCE-THE-ADVENT-OF-THE-EURO-HANKE-SAYS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Cury critica agressividade de Renan e convida Caiado para Ministério da Segurança",
-        "link": "https://www.infomoney.com.br/politica/cury-critica-agressividade-de-renan-e-convida-caiado-para-ministerio-da-seguranca/",
-        "summary": "Candidato do Avante repreendeu ataques de Renan Santos a Lula e disse que gostaria de ter Caiado como seu “xerife” em eventual governo The post Cury critica agressividade de Renan e convida Caiado para Ministério da Segu",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate-presidencial-band-eleicoes-2026-01_945819.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
+        "title": "Recessão a caminho? O que fazer com seu dinheiro se o temor do mercado se confirmar",
+        "link": "https://www.infomoney.com.br/onde-investir/recessao-a-caminho-o-que-fazer-com-seu-dinheiro-se-temor-do-mercado-se-concretizar/",
+        "summary": "Especialistas veem espaço para prefixados curtos e Tesouro IPCA+ de prazo médio, mas pedem cautela com crédito privado e recomendam esperar sinais concretos antes de mexer na carteira The post Recessão a caminho? O que f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/07/dinheiro-reais.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Por que Pablo Marçal não participa do debate presidencial neste domingo (23)?",
-        "link": "https://www.infomoney.com.br/politica/por-que-pablo-marcal-nao-participa-do-debate-presidencial-neste-domingo-23/",
-        "summary": "Além de o PRTB não ter representação suficiente para garantir convite, decisão do TSE proibiu o candidato de participar de debates enquanto seu registro não é julgado The post Por que Pablo Marçal não participa do debate",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pablo-marcal-candidato-a-presidente-eleicoes-2026.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "23 de ago. de 2026",
+        "title": "IA amplia escala das campanhas, mas não é atalho para vencer eleição, diz cientista",
+        "link": "https://www.infomoney.com.br/politica/ia-sera-ferramenta-de-escala-mas-nao-atalho-para-vencer-eleicao-avalia-cientista/",
+        "summary": "Para especialista, IA reduz custos das campanhas, mas aumentar a produção de conteúdo sem ampliar alcance e engajamento não garante ganhos aos candidatos The post IA amplia escala das campanhas, mas não é atalho para ven",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/eleicao_sp_09.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "Boletim Focus e debate sem Lula e Flávio: o que move os mercados nesta segunda",
+        "link": "https://exame.com/invest/mercados/boletim-focus-e-debate-sem-lula-e-flavio-o-que-move-os-mercados-nesta-segunda/",
+        "summary": "Investidores acompanham novas projeções do mercado para inflação, Selic e PIB; presidente do Banco Central participa da abertura da Febraban Tech",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Como usar o Perplexity para chegar mais preparado a uma entrevista de emprego",
+        "link": "https://exame.com/inteligencia-artificial/como-usar-o-perplexity-para-chegar-mais-preparado-a-uma-entrevista-de-emprego/",
+        "summary": "Ferramenta de busca com inteligência artificial pode ajudar candidato a pesquisar a empresa, entender melhor a vaga e transformar informações encontradas na internet em perguntas para a entrevista",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Taesa, Klabin, Santander: entenda por que a isenção de IR em ações não vale para elas",
+        "link": "https://exame.com/invest/mercados/taesa-klabin-santander-entenda-por-que-a-isencao-de-ir-em-acoes-nao-vale-para-elas/",
+        "summary": "Quando o investidor vende até R$ 20 mil em ações no mês, fica isento do Imposto de Renda",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Palavrões de Renan, recuo de Cury e colinha dos candidatos: os bastidores do debate da Band",
@@ -390,36 +420,6 @@
         "title": "Por que Cury voltou atrás e decidiu participar do debate da Band",
         "link": "https://exame.com/brasil/por-que-cury-voltou-atras-e-decidiu-participar-do-debate-da-band/",
         "summary": "A decisão de Cury de não participar do debate havia surpreendido até membros de sua campanha, que relataram reservadamente não tê-lo visto tão nervoso anteriormente",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Lula elogia diálogo com Trump, mas critica ações dos EUA",
-        "link": "https://exame.com/brasil/lula-elogia-dialogo-com-trump-mas-critica-acoes-dos-eua/",
-        "summary": "\"A minha conversa com o Trump é muito civilizada, é muito respeitosa, tanto da minha parte quanto da parte dele\", disse o presidente em entrevista à Record",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "'Mudei de ideia em respeito ao jornalismo', diz Cury que participará do debate",
-        "link": "https://exame.com/brasil/mudei-de-ideia-em-respeito-ao-jornalismo-diz-cury-que-participara-do-debate/",
-        "summary": "Cury havia tomado a decisão de faltar ao debate de última hora, de acordo com ele próprio",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Augusto Cury anuncia que não participará do debate presidencial",
-        "link": "https://exame.com/brasil/augusto-cury-anuncia-que-nao-participara-do-debate-presidencial/",
-        "summary": "Com a desistência de Zema, Cury (Avante), Lula (PT) e Bolsonaro (PL), o debate terá a participação apenas de Renan Santos (Missão) e Ronaldo Caiado (PSD)",
         "image": null,
         "date": "23 de ago. de 2026",
         "source": "Exame",
