@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-24T15:42:55.015Z",
+  "updated": "2026-08-24T16:41:45.090Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Furto de vírus na Unicamp: imagens mostram suspeitos retirando material de laboratório",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/furto-de-virus-na-unicamp-imagens-mostram-suspeitos-retirando-material-de-laboratorio.ghtml",
+        "summary": "Furto de vírus: imagens mostram retirada de amostras de laboratório da Unicamp Imagens de câmeras de segurança anexadas ao inquérito da Polícia Federal que investiga o furto de vírus da Unicamp, no início deste ano, most",
+        "image": "https://s2-g1.glbimg.com/9lYgNDI4xlQJ1TNsbd6rDQ22WFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/qKjWHXQSqjgr0wTrqwbA/michael-soledad.png",
+        "date": "24 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Brasil tem vulcões? Marcas de erupções ainda estão pelo país; veja",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/24/brasil-tem-vulcoes-marcas-de-erupcoes-ainda-estao-pelo-pais-veja.ghtml",
@@ -13,19 +23,9 @@
         "cls": "brasil"
       },
       {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/eptv-1-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
-        "date": "24 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
         "title": "Motociclista fica ferido após cair na pista e ser atropelado em Hortolândia; motorista do carro fugiu",
         "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/24/motociclista-fica-ferido-apos-cair-na-pista-e-ser-atropelado-em-hortolandia-motorista-do-carro-fugiu.ghtml",
-        "summary": "Um motociclista de aproximadamente 40 anos ficou ferido após cair na Rodovia Jornalista Francisco Aguirre Proença (SP-101), em Hortolândia (SP), e ser atropelado por um carro na manhã desta segunda-feira (24). O motorist",
+        "summary": "Motociclista é atropelado na SP-101 no Jardim Rosolém, em Hortolândia Um motociclista de aproximadamente 40 anos ficou ferido após cair na Rodovia Jornalista Francisco Aguirre Proença (SP-101), em Hortolândia (SP), e ser",
         "image": "https://s2-g1.glbimg.com/DhSqRSj1WXU7F4mQrLik-6ss2N4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/8/ElzxmwQQSwuEuDzjeDwA/vlcsnap-2026-08-24-07h38m08s582-resized.png",
         "date": "24 de ago. de 2026",
         "source": "G1 Campinas",
@@ -61,6 +61,26 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
+      },
+      {
+        "title": "Moradora ateia fogo em colchão após desentendimento e incêndio atinge residência em Americana",
+        "link": "https://jornalamericanense.com.br/policia/moradora-ateia-fogo-em-colchao-apos-desentendimento-e-incendio-atinge-residencia-em-americana/",
+        "summary": "Caso ocorreu na manhã desta segunda-feira (24), na Vila Jones; chamas foram controladas pelo Corpo de Bombeiros e ninguém ficou ferido Um desentendimento entre moradores terminou em incêndio em uma residência na manhã de",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Jovem de 19 anos é preso em flagrante por violência doméstica em Americana",
+        "link": "https://jornalamericanense.com.br/policia/jovem-de-19-anos-e-preso-em-flagrante-por-violencia-domestica-em-americana/",
+        "summary": "Vítima, de 20 anos, relatou à Polícia Militar ter sofrido ameaças de morte, ofensas, empurrões e constrangimentos; caso foi registrado na madrugada desta segunda-feira (24) Um jovem de 19 anos foi preso em flagrante por ",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "GAMA investe em novo drone e cão-robô para reforçar o combate ao crime",
@@ -103,24 +123,14 @@
         "cls": "servicos"
       },
       {
-        "title": "FAM recebe encontro internacional de odontologia equina e reforça protagonismo na Medicina Veterinária",
-        "link": "https://jornalamericanense.com.br/cidades/fam-recebe-encontro-internacional-de-odontologia-equina-e-reforca-protagonismo-na-medicina-veterinaria/",
-        "summary": "A FAM – Faculdade de Americana recebeu, neste sábado (22) e domingo (23), o II Encontro Internacional de Dentistas de Equídeos (ENIDE 2026), evento que reúne médicos-veterinários, especialistas, estudantes e palestrantes",
+        "title": "Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas img src= https://cdn.jsdelivr.net/gh/serg",
         "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "APAE de Americana reúne 750 pessoas em evento sobre transtornos do neurodesenvolvimento",
-        "link": "https://jornalamericanense.com.br/blog/apae-de-americana-reune-750-pessoas-em-evento-sobre-transtornos-do-neurodesenvolvimento/",
-        "summary": "Encontro gratuito realizado no Teatro Municipal Lulu Benencase trouxe especialistas de referência e reforçou a importância da informação para profissionais, famílias e para a promoção da inclusão A APAE de Americana reun",
-        "image": null,
-        "date": "23 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Conselho aprova pedido de recuperação extrajudicial da Braskem",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "COP17 entra em semana decisiva com missão de destravar financiamento",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-entra-em-semana-decisiva-com-missao-de-destravar-financiamento",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-entra-em-semana-decisiva-com-missao-de-destravar-financiamento img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Bastidores: Harry Kane na cerimônia da Chuteira de Ouro",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-harry-kane-na-cerimonia-da-chuteira-de-ouro/",
-        "summary": "Bastidores exclusivos da cerimônia oficial de entrega da Chuteira de Ouro europeia a Harry Kane. O post Bastidores: Harry Kane na cerimônia da Chuteira de Ouro apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/6o5ao0r9-1920Harry-Kane.webp",
+        "title": "Liverpool precisa melhorar após temporada inaceitável , diz Van Dijk",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-precisa-melhorar-apos-temporada-inaceitavel-diz-van-dijk/",
+        "summary": "Virgil van Dijk pediu uma reação do Liverpool após a temporada passada, que culminou na demissão de Arne Slot. Após o empate por 2 a 2 com o Newcastle na estreia da Premier League, o capitão dos Reds afirmou que o desemp",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/virgil-van-dijk_4fyd16ol2yaa140ljz01r5xv0.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "A primeira vitória de Filipe Luís na Ligue 1",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-primeira-vitoria-de-filipe-luis-na-ligue-1/",
-        "summary": "O técnico brasileiro conquistou seus primeiros três pontos na Ligue 1 após a vitória do AS Monaco por 1 a 0, fora de casa, sobre o Le Havre. O post A primeira vitória de Filipe Luís na Ligue 1 apareceu primeiro em Gazeta",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ffLli4BQ-1920Filipe-Luis.webp",
+        "title": "Veja fotos do treino do Palmeiras nesta segunda-feira",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-nesta-segunda-feira-14/",
+        "summary": "O post Veja fotos do treino do Palmeiras nesta segunda-feira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/24082026_cg_palmeiras_3611_9-1.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ferran Torres marca dois gols em estreia dos sonhos pelo PSG",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/ferran-torres-marca-dois-gols-em-estreia-dos-sonhos-pelo-psg/",
-        "summary": "O campeão da Copa do Mundo de 2026 se destacou como um jogador para ficar de olho na Ligue 1 após marcar duas vezes em sua primeira partida pelo clube, ajudando o Paris Saint-Germain a conquistar um ponto contra o Rennes",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Pss0fD6S-1920Ferran-Torres.webp",
+        "title": "Piquerez e Paulinho treinam, e Palmeiras abre preparação para enfrentar o Santos",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/piquerez-e-paulinho-treinam-e-palmeiras-abre-preparacao-para-enfrentar-o-santos/",
+        "summary": "Nesta quarta-feira, após golear o Vasco por 4 a 1, pelo Campeonato Brasileiro, o Palmeiras se reapresentou na Academia de Futebol e virou a chave para as quartas da Copa do Brasil. Com Paulinho e Piquerez em campo, o Ver",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/24082026_cg_palmeiras_3690_19.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atlanta-united-2-x-1-sporting-kansas-city-pela-mls/",
-        "summary": "Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS O post Melhores momentos: Atlanta United 2 x 1 Sporting Kansas City pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/h45yibov-1920Atlanta.webp",
+        "title": "Histórica bola do jogo da Mano de Dios é leiloada por valor milionário",
+        "link": "https://www.gazetaesportiva.com/times/argentina/historica-bola-do-jogo-la-mano-de-dios-e-leiloada-por-valor-milionario/",
+        "summary": "A bola utilizada por Diego Maradona nos históricos gols da \"La Mano de Dios\" e do \"Gol do Século\", na Copa do Mundo de 1986, foi leiloada por cerca de R$ 17,5 milhões. O item pertenceu por décadas ao árbitro Ali Bin Nass",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/11/AFP__20251125__866C863__v1__HighRes__FilesFblArgentinaMaradonaDeathFiveYears.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Reinaldo faz desabafo após levar cusparada em jogo contra o Santos: Nojento, lamentável e vergonhoso",
-        "link": "https://www.gazetaesportiva.com/times/santos/reinaldo-faz-desabafo-apos-ser-cuspido-em-jogo-contra-o-santos-nojento-lamentavel-e-vergonhoso/",
-        "summary": "O lateral Reinaldo, do Mirassol, denunciou ter sido vítima de uma cusparada de um torcedor do Santos durante o empate em 1 a 1 pela 24ª rodada do Brasileirão, na Vila Belmiro. O jogador classificou o episódio como \"nojen",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/sfcxmfc-pedrozacchi-26.jpg.webp",
+        "title": "Veja fotos da bola de La Mano de Dios , usada na Copa do Mundo de 1986",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-da-bola-do-jogo-la-mano-de-dios-usada-na-copa-do-mundo-de-1986/",
+        "summary": "A bola utilizada no histórico jogo que ficou conhecido como 'La Mano de Dios', na Copa do Mundo de 1986, tornou-se uma das relíquias mais valiosas do futebol. Veja fotos do objeto que marcou a vitória da Argentina sobre ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/mar2.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Pedro Emanuel lamenta chances perdidas do Vasco em derrota para o Palmeiras",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/pedro-emanuel-lamenta-chances-perdidas-do-vasco-em-derrota-para-o-palmeiras/",
-        "summary": "Treinador do Vasco elogiou a postura do time no primeiro tempo, mas diz que as chances desperdiçadas no primeiro tempo fizeram a diferença para a mudança de cenário na segunda etapa, em que o Palmeira goleou o Cruzmaltin",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/p2cmo4ni-1920Pedro.webp",
+        "title": "Samuel Eto o apoia Infantino em meio à crise política na Fifa",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/samuel-etoo-apoia-infantino-em-meio-a-crise-politica-na-fifa/",
+        "summary": "Samuel Eto'o manifestou apoio público ao presidente da Fifa, Gianni Infantino, em meio ao aumento das críticas ao dirigente. Atual presidente da Federação Camaronesa de Futebol, o ex-atacante afirmou que a oposição ao ma",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SAmuelEtoo-SelecaoCamaronesa-Camaroes-Futebolinternacional-1.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "B3 anuncia exclusão de Braskem em índices após pedido de recuperação extrajudicial",
-        "link": "https://www.infomoney.com.br/mercados/b3-anuncia-exclusao-de-braskem-em-indices-apos-pedido-de-recuperacao-extrajudicial/",
-        "summary": "Os índices afetados incluem, entre outros, Ibovespa (IBOV), IBrX (IBRA), IBrX-50 (IBXX), entre outros The post B3 anuncia exclusão de Braskem em índices após pedido de recuperação extrajudicial appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/03/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Seguro residencial agrada na cobertura, mas assistência e apps são criticados",
+        "link": "https://www.infomoney.com.br/minhas-financas/seguro-residencial-agrada-na-cobertura-mas-assistencia-e-apps-sao-criticados/",
+        "summary": "Pesquisa com 1,2 mil corretores aponta 93% de avaliações positivas para coberturas básicas, enquanto assistência e canais digitais concentram insatisfação The post Seguro residencial agrada na cobertura, mas assistência ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/seguros-insurance-foto-de-versipedia-pixabay.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Receita Federal libera consulta ao último lote de restituição do IR 2026",
-        "link": "https://www.infomoney.com.br/minhas-financas/receita-federal-libera-consulta-ao-ultimo-lote-de-restituicao-do-ir-2026/",
-        "summary": "Agora, 521.935 contribuintes receberão R$ 1,2 bilhão The post Receita Federal libera consulta ao último lote de restituição do IR 2026 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/cropped-mca_abr_21031913346-1.webp?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3%",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
+        "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-53.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Os novos ladrões de arte: o crime como serviço, mais violência e foco em ouro",
-        "link": "https://www.infomoney.com.br/mercados/os-novos-ladroes-de-arte-o-crime-como-servico-mais-violencia-e-foco-em-ouro/",
-        "summary": "Europol mapeia nova onda de roubos violentos na Europa: grupos improvisados, recrutados por redes sociais, de olho no ouro que subiu 85% em dois anos The post Os novos ladrões de arte: o crime como serviço, mais violênci",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/roubo-louvre-paris-camera-seguranca01.gif?fit=220%2C140&amp;quality=70&amp;strip=all",
+        "title": "Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha",
+        "link": "https://www.infomoney.com.br/politica/maioria-dos-brasileiros-diz-que-votaria-mesmo-sem-obrigacao-aponta-datafolha/",
+        "summary": "Pesquisa revela maior interesse da participação do eleitor em relação aos dados coletados em 2015 The post Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/lacracao-urnas-eletronicas_mcamgo_abr_210920221818-4.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mercado imobiliário tem recuo de 1,3% lançamentos e alta de 5,3% nas vendas no 2T",
-        "link": "https://www.infomoney.com.br/mercados/mercado-imobiliario-tem-recuo-de-13-lancamentos-e-alta-de-53-nas-vendas-no-2t/",
-        "summary": "Os lançamentos de imóveis no País chegaram a 107,2 mil unidades no segundo trimestre de 2026 The post Mercado imobiliário tem recuo de 1,3% lançamentos e alta de 5,3% nas vendas no 2T appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/53804115232_02913618b5_o.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Eduardo Leite e Ratinho Júnior estarão comigo governando o País, diz Caiado",
+        "link": "https://www.infomoney.com.br/politica/eduardo-leite-e-ratinho-junior-estarao-comigo-governando-o-pais-diz-caiado/",
+        "summary": "Ex-governador do Goiás afirmou que presença de aliados em um eventual governo é \"questão de bom senso\" The post Eduardo Leite e Ratinho Júnior estarão comigo governando o País, diz Caiado appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MOF20260726010.jpg?fit=300%2C216&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Exportações semanais de grãos da Ucrânia caíram 11,4%, diz consultoria",
-        "link": "https://www.infomoney.com.br/mercados/exportacoes-semanais-de-graos-da-ucrania-cairam-114-diz-consultoria/",
-        "summary": "Os portos marítimos ⁠ucranianos ‌no complexo portuário de Odessa ⁠interromperam efetivamente suas operações no final de julho devido a ataques russos The post Exportações semanais de grãos da Ucrânia caíram 11,4%, diz co",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/2024-11-25T222942Z_971031752_RC2LCBA23FS1_RTRMADP_3_USA-RIVERS-BARGES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Itamaraty passou a ser um braço político partidário, acusa Caiado",
+        "link": "https://www.infomoney.com.br/politica/itamaraty-passou-a-ser-um-braco-politico-partidario-acusa-caiado/",
+        "summary": "Candidato do PSD afirmou que, se eleito, terá de resgatar a chancelaria brasileira The post Itamaraty passou a ser um braço político partidário, acusa Caiado appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Risco geopolítico pesa e juros intermediários e longos firmam alta",
-        "link": "https://www.infomoney.com.br/mercados/risco-geopolitico-pesa-e-juros-intermediarios-e-longos-firmam-alta/",
-        "summary": "O secretário do Tesouro dos EUA, Scott Bessent, deve falar às 15h, em entrevista coletiva, sobre as sanções The post Risco geopolítico pesa e juros intermediários e longos firmam alta appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/home-broker.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Yduqs (YDUQ3) salta 12% após confirmar negociações sobre possível fusão com Afya",
+        "link": "https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/",
+        "summary": "Yduqs afirmou ainda que não há garantia de que as negociações resultarão na assinatura de documentos definitivos ou na conclusão da operação The post Yduqs (YDUQ3) salta 12% após confirmar negociações sobre possível fusã",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nvidia pode investir na Perplexity em rodada que avalia startup em US$ 30 bilhões",
-        "link": "https://exame.com/inteligencia-artificial/nvidia-pode-investir-na-perplexity-em-rodada-que-avalia-startup-em-us-30-bilhoes/",
-        "summary": "Startup foi avaliada em US$ 20 bilhões na última rodada e agora negocia captação que pode elevar seu valor em mais de 50%",
+        "title": "'Cem Anos de Solidão': veja quando estreia o último episódio da série na Netflix",
+        "link": "https://exame.com/pop/cem-anos-de-solidao-veja-quando-estreia-o-ultimo-episodio-da-serie-na-netflix/",
+        "summary": "Produção baseada no clássico de Gabriel García Márquez chega ao capítulo que encerra a trajetória dos Buendía",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Hugging Face pode ser vendida por US$ 13 bilhões após recusar aporte da Nvidia",
-        "link": "https://exame.com/inteligencia-artificial/hugging-face-pode-ser-vendida-por-us-13-bilhoes-apos-recusar-aporte-da-nvidia/",
-        "summary": "Empresa já havia recusado investimento de US$ 500 milhões da Nvidia para não ter um investidor dominante; negociação ainda não tem comprador definido",
+        "title": "Real Time Big Data: Flávio Bolsonaro lidera contra Lula em São Paulo",
+        "link": "https://exame.com/brasil/real-time-big-data-flavio-bolsonaro-lidera-contra-lula-em-sao-paulo/",
+        "summary": "Senador lidera a corrida no estado paulista, enquanto o presidente enfrenta 55% de desaprovação e empata na preferência do eleitorado feminino",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "MCMV impulsiona venda de imóveis novos em 5% no 1⁰ semestre",
-        "link": "https://exame.com/mercado-imobiliario/mcmv-impulsiona-venda-de-imoveis-novos-em-5-no-1%e2%81%b0-semestre/",
-        "summary": "Mercado vendeu 226,5 mil unidades no primeiro semestre, enquanto MCMV atingiu maior participação em 7 anos",
+        "title": "Corinthians é condenado a pagar cerca de R$ 3 milhões a ex-jogador forçado a se aposentar por lesão",
+        "link": "https://exame.com/esporte/corinthians-e-condenado-a-pagar-cerca-de-r-3-milhoes-a-ex-jogador-forcado-a-se-aposentar-por-lesao/",
+        "summary": "Para chegar a esse valor, a Justiça levou em conta que a carreira de um jogador de futebol costuma durar até os 35 anos e que o atleta tinha um futuro promissor pela frente",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Plástico que polui praias revela desafio da transição energética a partir da Amazônia",
-        "link": "https://exame.com/esg/plastico-que-polui-praias-revela-desafio-da-transicao-energetica-a-partir-da-amazonia/",
-        "summary": "Enquanto o lixo plástico avança nas praias amazônicas, ciência, inovação e políticas públicas buscam alternativas ao petróleo",
+        "title": "O que atrai a Afya na Yduqs — e as contas de uma possível fusão",
+        "link": "https://exame.com/exame-in/o-que-atrai-a-afya-na-yduqs-e-as-contas-de-uma-possivel-fusao/",
+        "summary": "Negócios premium já respondem por quase metade do Ebitda do grupo e estão no centro do interesse do negócio",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "BIS transforma lance viral de jogador do Coritiba em marketing no Couto Pereira",
-        "link": "https://exame.com/marketing/bis-transforma-lance-viral-de-jogador-do-coritiba-em-marketing-no-couto-pereira/",
-        "summary": "Marca instalou uma placa com trocadilho no local onde zagueiro Jacy caiu durante comemoração de gol",
+        "title": "Parceria vai combater a escassez de mão de obra na construção civil",
+        "link": "https://exame.com/bussola/parceria-com-planeja-combate-a-escassez-de-mao-de-obra-na-construcao-civil/",
+        "summary": "Parceria entre Saint-Gobain e SENAI-SP oferece cursos e plataforma digital gratuita para qualificar trabalhadores e reduzir desperdícios na obra",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ibovespa hoje: índice sobe aos 172 mil pontos puxado por Vale e bancos",
-        "link": "https://exame.com/invest/mercados/ibovespa-hoje-indice-sobe-aos-172-mil-pontos-puxado-por-vale-e-bancos/",
-        "summary": "Debate presidencial no Brasil, Boletim Focus e sanções econômicas dos EUA movimentam o mercado",
+        "title": "'Os poderes existem no mundo real': por que o Homem-Aranha é menos absurdo do que parece",
+        "link": "https://exame.com/ciencia/os-poderes-existem-no-mundo-real-por-que-o-homem-aranha-e-menos-absurdo-do-que-parece/",
+        "summary": "Em entrevista à EXAME, o físico Lucas Miranda, autor do livro \"Uma viagem científica pela cultura pop\", analisa quais habilidades do herói são possíveis e as fronteiras entre ficção e realidade",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
