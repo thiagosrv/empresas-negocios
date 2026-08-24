@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-24T16:41:45.090Z",
+  "updated": "2026-08-24T17:33:57.102Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem é atropelado por ônibus em rua de Sumaré",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/homem-e-atropelado-por-onibus-em-rua-de-sumare.ghtml",
+        "summary": "Ônibus metropolitano da linha 636 que atropelou um pedestre, na rua Vinicius de Moraes, no Bairro Parque Residencial Casarão, em Sumaré. Arquivo pessoal Um homem foi atropelado por um ônibus metropolitano da linha 636 ne",
+        "image": "https://s2-g1.glbimg.com/Er2wDxCak7u22HxhMUWcWhjdPug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/w/XxgvW5RIGQBcc84wNXvQ/design-sem-nome-2026-08-24t135015.292.jpg",
+        "date": "24 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Briga por fio de internet cortado termina com casa incendiada em Americana",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/briga-por-fio-de-internet-cortado-termina-com-casa-incendiada-em-americana.ghtml",
+        "summary": "Briga por fio de internet termina com casa incendiada em Americana Uma briga entre vizinhos terminou com uma casa incendiada no Bairro Vila Jones, em Americana, na manhã desta segunda-feira (24). Segundo a Guarda Municip",
+        "image": "https://s2-g1.glbimg.com/UrEmqHUTh0Ja4xMs7EPukBanZ8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/O/yl5HkfRi6WPhvpGPx3hQ/design-sem-nome-14-.png",
+        "date": "24 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Furto de vírus na Unicamp: imagens mostram suspeitos retirando material de laboratório",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/furto-de-virus-na-unicamp-imagens-mostram-suspeitos-retirando-material-de-laboratorio.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/24/seis-pessoas-ficam-feridas-em-batida-entre-dois-carros-na-rodovia-jose-bonifacio-em-campinas.ghtml",
         "summary": "Batida frontal deixa seis feridos na Rodovia José Bonifácio, em Campinas Seis pessoas ficaram feridas em uma batida entre dois carros na noite de domingo (23), na Rodovia José Bonifácio, em Campinas (SP). Uma das vítimas",
         "image": "https://s2-g1.glbimg.com/6SFWSnImM3H9Ib1iGbbYcC2_pbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/K/yH3mjbSAWwWZ986eXZ2A/capas-belly-40-.png",
-        "date": "24 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO: moto em fuga bate em ambulância do Samu e deixa dois feridos em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/moto-em-fuga-bate-em-ambulancia-do-samu-e-deixa-dois-feridos-em-campinas.ghtml",
-        "summary": "Moto em fuga bate em ambulância do Samu e deixa dois feridos em Campinas Duas pessoas em uma motocicleta ficaram feridas depois de bater contra uma ambulância do Samu na madrugada desta segunda-feira (24), na Vila Mimosa",
-        "image": "https://s2-g1.glbimg.com/53kgcWLCwMQ12JZDLQ_I_FWh4NQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/WAHuP3TKKZ1zwfuHO1EQ/paulo-bernardino-7-.jpeg",
-        "date": "24 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita, aponta estudo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/ias-mudam-respostas-politicas-conforme-usuario-se-declara-de-esquerda-ou-direita-aponta-estudo.ghtml",
-        "summary": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita Imagine fazer a mesma pergunta para uma inteligência artificial duas vezes. Na primeira, sem dizer nada sobre suas preferências políticas. ",
-        "image": "https://s2-g1.glbimg.com/JVTniidVvgW20H03wc7qVj43flQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/p/TaDsFPTAutTfH3An2tEg/maos-femininas-digitando-no-teclado-computador.jpg",
         "date": "24 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "TRE-SP nega recurso de Marçal e mantém inelegibilidade",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tre-sp-nega-recurso-de-marcal-e-mantem-inelegibilidade",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tre-sp-nega-recurso-de-marcal-e-mantem-inelegibilidade img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fiocruz lança carta aos candidatos com temas prioritários da saúde",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/fiocruz-lanca-carta-aos-candidatos-com-temas-prioritarios-da-saude",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/fiocruz-lanca-carta-aos-candidatos-com-temas-prioritarios-da-saude img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Anvisa e Roche cancelam registro de Elevidys para doença rara",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "24 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás",
         "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas img src= https://cdn.jsdelivr.net/gh/serg",
@@ -151,39 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Mercado reduz projeção para crescimento da economia em 2026",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Frio perde intensidade no Sul e seca persiste no centro do país",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "São Paulo mantém confiança em Dorival e não planeja troca no comando técnico no momento",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-confianca-dorival-troca-comando-tecnico/",
+        "summary": "O São Paulo não cogita uma mudança na comissão técnica mesmo em meio à crise vivida no Campeonato Brasileiro após a derrota para a Chape. O post São Paulo mantém confiança em Dorival e não planeja troca no comando técnic",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55483774508_808fcf9242_o.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Em alta na temporada, Cruzeiro tem a melhor campanha do returno do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/em-alta-na-temporada-cruzeiro-tem-a-melhor-campanha-do-returno-do-brasileiro/",
+        "summary": "Confira o aproveitamento do Cruzeiro no returno do Campeonato Brasileiro. O post Em alta na temporada, Cruzeiro tem a melhor campanha do returno do Brasileiro apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55201727910-382dfcb123-k.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Tenista tcheca recorre na CAS contra suspensão por recusar teste antidoping",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/marketa-vondrousova-recorre-cas-suspensao-antidoping/",
+        "summary": "A tenista tcheca Marketa Vondrousova, campeã de Wimbledon em 2023, recorreu à Corte Arbitral do Esporte (CAS) contra a suspensão de quatro anos aplicada pela Agência Internacional de Integridade do Tênis (ITIA). A puniçã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/06/cc08959f44699a5a954c1e6df854557a.webp",
+        "date": "24 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Liverpool precisa melhorar após temporada inaceitável , diz Van Dijk",
         "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-precisa-melhorar-apos-temporada-inaceitavel-diz-van-dijk/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/palmeiras/piquerez-e-paulinho-treinam-e-palmeiras-abre-preparacao-para-enfrentar-o-santos/",
         "summary": "Nesta quarta-feira, após golear o Vasco por 4 a 1, pelo Campeonato Brasileiro, o Palmeiras se reapresentou na Academia de Futebol e virou a chave para as quartas da Copa do Brasil. Com Paulinho e Piquerez em campo, o Ver",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/24082026_cg_palmeiras_3690_19.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Histórica bola do jogo da Mano de Dios é leiloada por valor milionário",
-        "link": "https://www.gazetaesportiva.com/times/argentina/historica-bola-do-jogo-la-mano-de-dios-e-leiloada-por-valor-milionario/",
-        "summary": "A bola utilizada por Diego Maradona nos históricos gols da \"La Mano de Dios\" e do \"Gol do Século\", na Copa do Mundo de 1986, foi leiloada por cerca de R$ 17,5 milhões. O item pertenceu por décadas ao árbitro Ali Bin Nass",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/11/AFP__20251125__866C863__v1__HighRes__FilesFblArgentinaMaradonaDeathFiveYears.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos da bola de La Mano de Dios , usada na Copa do Mundo de 1986",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/veja-fotos-da-bola-do-jogo-la-mano-de-dios-usada-na-copa-do-mundo-de-1986/",
-        "summary": "A bola utilizada no histórico jogo que ficou conhecido como 'La Mano de Dios', na Copa do Mundo de 1986, tornou-se uma das relíquias mais valiosas do futebol. Veja fotos do objeto que marcou a vitória da Argentina sobre ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/mar2.webp",
-        "date": "24 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Samuel Eto o apoia Infantino em meio à crise política na Fifa",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/samuel-etoo-apoia-infantino-em-meio-a-crise-politica-na-fifa/",
-        "summary": "Samuel Eto'o manifestou apoio público ao presidente da Fifa, Gianni Infantino, em meio ao aumento das críticas ao dirigente. Atual presidente da Federação Camaronesa de Futebol, o ex-atacante afirmou que a oposição ao ma",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/SAmuelEtoo-SelecaoCamaronesa-Camaroes-Futebolinternacional-1.webp",
         "date": "24 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
+        "title": "Ibovespa sobe aos 172 mil pontos, ajudada por Vale, em dia negativo para petroleiras",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-aos-172-mil-pontos-ajudada-por-vale-em-dia-negativo-para-petroleiras/",
+        "summary": "Na última sexta-feira, o Ibovespa avançou 1,85%, a 171.031,73 pontos, acumulando alta de 2,45% na semana The post Ibovespa sobe aos 172 mil pontos, ajudada por Vale, em dia negativo para petroleiras appeared first on Inf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1059335747.jpg?fit=300%2C158&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Campanha de Flávio tenta frear PEC do fim da 6 1 e aposta em falta de tempo",
+        "link": "https://www.infomoney.com.br/politica/campanha-de-flavio-tenta-frear-pec-do-fim-da-6x1-e-aposta-em-falta-de-tempo/",
+        "summary": "Proposta virou bandeira eleitoral de Lula; oposição articula mudanças e adiamentos para evitar votação antes do primeiro turno The post Campanha de Flávio tenta frear PEC do fim da 6 1 e aposta em falta de tempo appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/IMG_4527.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "PT acusa Tarcísio de propaganda irregular e pede retirada de posts em Barretos",
+        "link": "https://www.infomoney.com.br/politica/pt-acusa-tarcisio-de-propaganda-irregular-e-pede-retirada-de-posts-em-barretos/",
+        "summary": "Partidos alegam propaganda eleitoral irregular em evento com shows; campanha do governador diz que participação foi pontual e sem pedido de voto The post PT acusa Tarcísio de propaganda irregular e pede retirada de posts",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-23.35.40.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "MPE reforça pedido de impugnação da candidatura de Cícero na Paraíba",
+        "link": "https://www.infomoney.com.br/politica/mpe-reforca-pedido-de-impugnacao-da-candidatura-de-cicero-na-paraiba/",
+        "summary": "Ministério Público Eleitoral destacou possuir novas provas \"robustas e independentes\" que ligam o ex-prefeito ao crime organizado The post MPE reforça pedido de impugnação da candidatura de Cícero na Paraíba appeared fir",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/cicerolucena_0.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Real Time: Ribeiro tem 42% contra 35% de Lucena no 2º turno na Paraíba",
+        "link": "https://www.infomoney.com.br/politica/real-time-ribeiro-tem-42-contra-35-de-lucena-no-2o-turno-na-paraiba/",
+        "summary": "Atual governador da Paraíba lidera todos os cenários de 1º e 2º turno The post Real Time: Ribeiro tem 42% contra 35% de Lucena no 2º turno na Paraíba appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/lucas-ribeiro-cicero-lucena.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "24 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Seguro residencial agrada na cobertura, mas assistência e apps são criticados",
         "link": "https://www.infomoney.com.br/minhas-financas/seguro-residencial-agrada-na-cobertura-mas-assistencia-e-apps-sao-criticados/",
         "summary": "Pesquisa com 1,2 mil corretores aponta 93% de avaliações positivas para coberturas básicas, enquanto assistência e canais digitais concentram insatisfação The post Seguro residencial agrada na cobertura, mas assistência ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/seguros-insurance-foto-de-versipedia-pixabay.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/closeup-shot-person-thinking-buying-selling-house-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "24 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3%",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/",
-        "summary": "Bolsas dos EUA operam mistas com queda nas ações de tecnologia The post Ibovespa Hoje Ao Vivo: Bolsa sobe com alta de 4% de VALE3 e bancos; PETR4 cai 3% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-53.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha",
-        "link": "https://www.infomoney.com.br/politica/maioria-dos-brasileiros-diz-que-votaria-mesmo-sem-obrigacao-aponta-datafolha/",
-        "summary": "Pesquisa revela maior interesse da participação do eleitor em relação aos dados coletados em 2015 The post Maioria dos brasileiros diz que votaria mesmo sem obrigação, aponta Datafolha appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/lacracao-urnas-eletronicas_mcamgo_abr_210920221818-4.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Eduardo Leite e Ratinho Júnior estarão comigo governando o País, diz Caiado",
-        "link": "https://www.infomoney.com.br/politica/eduardo-leite-e-ratinho-junior-estarao-comigo-governando-o-pais-diz-caiado/",
-        "summary": "Ex-governador do Goiás afirmou que presença de aliados em um eventual governo é \"questão de bom senso\" The post Eduardo Leite e Ratinho Júnior estarão comigo governando o País, diz Caiado appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MOF20260726010.jpg?fit=300%2C216&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Itamaraty passou a ser um braço político partidário, acusa Caiado",
-        "link": "https://www.infomoney.com.br/politica/itamaraty-passou-a-ser-um-braco-politico-partidario-acusa-caiado/",
-        "summary": "Candidato do PSD afirmou que, se eleito, terá de resgatar a chancelaria brasileira The post Itamaraty passou a ser um braço político partidário, acusa Caiado appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Yduqs (YDUQ3) salta 12% após confirmar negociações sobre possível fusão com Afya",
-        "link": "https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/",
-        "summary": "Yduqs afirmou ainda que não há garantia de que as negociações resultarão na assinatura de documentos definitivos ou na conclusão da operação The post Yduqs (YDUQ3) salta 12% após confirmar negociações sobre possível fusã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "24 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "'Cem Anos de Solidão': veja quando estreia o último episódio da série na Netflix",
-        "link": "https://exame.com/pop/cem-anos-de-solidao-veja-quando-estreia-o-ultimo-episodio-da-serie-na-netflix/",
-        "summary": "Produção baseada no clássico de Gabriel García Márquez chega ao capítulo que encerra a trajetória dos Buendía",
+        "title": "iPhone agora pode transmitir vídeo ao vivo para o 190 durante uma emergência",
+        "link": "https://exame.com/tecnologia/iphone-agora-pode-transmitir-video-ao-vivo-para-o-190-durante-uma-emergencia/",
+        "summary": "Recurso da Apple, que roda por infraestrutura da RapidSOS, permite que o atendente peça imagens em tempo real de quem liga para a polícia; não deve ser confundido com o SOS via satélite, que segue indisponível no país",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Real Time Big Data: Flávio Bolsonaro lidera contra Lula em São Paulo",
-        "link": "https://exame.com/brasil/real-time-big-data-flavio-bolsonaro-lidera-contra-lula-em-sao-paulo/",
-        "summary": "Senador lidera a corrida no estado paulista, enquanto o presidente enfrenta 55% de desaprovação e empata na preferência do eleitorado feminino",
+        "title": "Stablecoins precisam mostrar vantagem mesmo que cobrem IOF, diz Visa",
+        "link": "https://exame.com/future-of-money/stablecoins-precisam-mostrar-vantagem-mesmo-que-cobrem-iof-diz-visa/",
+        "summary": "Exectivo também falou sobre a presença da empresa de pagamentos no consórcio Open Standard, que terá a própria stablecoin",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Corinthians é condenado a pagar cerca de R$ 3 milhões a ex-jogador forçado a se aposentar por lesão",
-        "link": "https://exame.com/esporte/corinthians-e-condenado-a-pagar-cerca-de-r-3-milhoes-a-ex-jogador-forcado-a-se-aposentar-por-lesao/",
-        "summary": "Para chegar a esse valor, a Justiça levou em conta que a carreira de um jogador de futebol costuma durar até os 35 anos e que o atleta tinha um futuro promissor pela frente",
+        "title": "Black Mirror: Netflix começa gravações da oitava temporada",
+        "link": "https://exame.com/pop/black-mirror-netflix-comeca-gravacoes-da-oitava-temporada/",
+        "summary": "O criado Charlie Brooker prometeu que os novos episódios trarão um retorno \"mais 'Black Mirror' do que nunca\"",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "O que atrai a Afya na Yduqs — e as contas de uma possível fusão",
-        "link": "https://exame.com/exame-in/o-que-atrai-a-afya-na-yduqs-e-as-contas-de-uma-possivel-fusao/",
-        "summary": "Negócios premium já respondem por quase metade do Ebitda do grupo e estão no centro do interesse do negócio",
+        "title": "Real Time Big Data: Azevêdo e Veneziano lideram corrida ao Senado na Paraíba",
+        "link": "https://exame.com/brasil/real-time-big-data-azevedo-e-veneziano-lideram-corrida-ao-senado-na-paraiba-2/",
+        "summary": "Apesar do cenário segmentado, eleitorado paraibano começa a desenhar preferência na eleição ao Senado",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Parceria vai combater a escassez de mão de obra na construção civil",
-        "link": "https://exame.com/bussola/parceria-com-planeja-combate-a-escassez-de-mao-de-obra-na-construcao-civil/",
-        "summary": "Parceria entre Saint-Gobain e SENAI-SP oferece cursos e plataforma digital gratuita para qualificar trabalhadores e reduzir desperdícios na obra",
+        "title": "Real Time Big Data: Ribeiro abre 10 pontos sobre Lucena no 1º turno na Paraíba",
+        "link": "https://exame.com/brasil/real-time-big-data-ribeiro-abre-10-pontos-sobre-lucena-no-1o-turno-na-paraiba/",
+        "summary": "Atual governador da Paraíba lidera a disputa e consolida vantagem em cenário que indica aprovação de 65% de sua gestão estadul",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Os poderes existem no mundo real': por que o Homem-Aranha é menos absurdo do que parece",
-        "link": "https://exame.com/ciencia/os-poderes-existem-no-mundo-real-por-que-o-homem-aranha-e-menos-absurdo-do-que-parece/",
-        "summary": "Em entrevista à EXAME, o físico Lucas Miranda, autor do livro \"Uma viagem científica pela cultura pop\", analisa quais habilidades do herói são possíveis e as fronteiras entre ficção e realidade",
+        "title": "Grupo Boticário testa anúncios no ChatGPT e explora nova fronteira da publicidade no Brasil",
+        "link": "https://exame.com/inteligencia-artificial/grupo-boticario-testa-anuncios-no-chatgpt-e-explora-nova-fronteira-da-publicidade-no-brasil/",
+        "summary": "Iniciativa coloca a Make B. entre as primeiras marcas do grupo a experimentar publicidade em uma plataforma de inteligência artificial generativa no Brasil",
         "image": null,
         "date": "24 de ago. de 2026",
         "source": "Exame",
