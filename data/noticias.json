@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-25T18:43:53.270Z",
+  "updated": "2026-08-25T19:34:59.206Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Disfarçado com jaleco, criminoso quebra vidro e furta objetos de carro em plena luz do dia; VÍDEO",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/disfarcado-com-jaleco-criminoso-quebra-vidro-e-furta-objetos-de-carro-em-plena-luz-do-dia-video.ghtml",
+        "summary": "Disfarçado com jaleco, criminoso quebra vidro e furta objetos de carro em plena luz do dia Um criminoso disfarçado com um jaleco quebrou o vidro de um carro para furtar objetos em plena luz do dia nesta terça-feira (25),",
+        "image": "https://s2-g1.glbimg.com/0CJiTlWO11oUIIUfSraMmfURKm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/teheB4RcedXKzQ4Unkcw/design-sem-nome-2026-08-25t160132.339.jpg",
+        "date": "25 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "VÍDEO mostra motorista de caminhão mexendo no celular antes de matar homem atropelado na SP-304",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/video-mostra-motorista-caminhao-mexendo-celular-antes-matar-homem-atropelado-sp-304.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/video-homem-finge-ser-cliente-ameaca-funcionaria-e-rouba-hortifruti-em-campinas.ghtml",
         "summary": "Homem finge ser cliente, ameaça funcionária e rouba hortifrúti em Campinas Um homem roubou R$ 758 de um hortifrúti no bairro Bom Sucesso, em Campinas (SP), na tarde desta segunda-feira (24), após ameaçar uma funcionária ",
         "image": "https://s2-g1.glbimg.com/3pHrRlLWkIh8YrqusqGFY3VLuXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/b/qw3rBGT4OSd79trzIheQ/assalta-hortifruti.png",
-        "date": "25 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Jovem fica em estado grave após acidente no primeiro dia de trabalho em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/jovem-fica-gravemente-ferido-apos-ser-atingido-por-placas-de-madeira-no-primeiro-dia-de-trabalho-em-campinas.ghtml",
-        "summary": "Jovem fica gravemente ferido após ser atingido por placas de madeira no primeiro dia de trabalho em Campinas Reprodução/EPTV Um homem de 23 anos ficou gravemente ferido após sofrer um acidente de trabalho, na manhã desta",
-        "image": "https://s2-g1.glbimg.com/xq3GeLJZHbCCqZJh74ANWk4yrvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/dsqasHSuCGcdmUjIYNnA/design-sem-nome-15-.png",
         "date": "25 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Justiça preserva direito de idosos a passagens interestaduais",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-preserva-direito-de-idosos-passagens-interestaduais",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-preserva-direito-de-idosos-passagens-interestaduais img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
@@ -171,19 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "SP confirma dois casos de febre do Nilo Ocidental",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sp-confirma-dois-casos-de-febre-do-nilo-ocidental",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sp-confirma-dois-casos-de-febre-do-nilo-ocidental img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Veja fotos do treino do São Paulo nesta terça-feira",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-terca-feira-11/",
+        "summary": "Veja uma galeria de fotos do treino do São Paulo nesta terça-feira, no SuperCT. Equipe se prepara para encarar o RB Bragantino. O post Veja fotos do treino do São Paulo nesta terça-feira apareceu primeiro em Gazeta Espor",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQlY_W-XsAArhPL.webp",
+        "date": "25 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Suzano fará amistoso contra seleção do Japão durante o Paulista masculino de vôlei",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/suzano-fara-amistoso-contra-selecao-do-japao-durante-o-paulista-masculino-de-volei/",
+        "summary": "O Suzano terá um desafio internacional durante a disputa do Campeonato Paulista. O clube anunciou nesta segunda-feira um amistoso contra a seleção do Japão, marcado para o dia 6 de setembro, às 17h (de Brasília), na Aren",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/783240993_18101791946621540_7094806127638014549_n.webp",
+        "date": "25 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita",
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-fayha-pelo-saudita/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/chelsea/chelsea-encaminha-acerto-pela-venda-de-delap-ao-nottingham-forest/",
         "summary": "O atacante Liam Delap está próximo de deixar o Chelsea e partir para o Nottingham Forest. Nesta terça-feira, os clubes entraram em acordo para negociar o jogador de 23 anos, e a equipe londrina deve embolsar cerca de 45 ",
         "image": "https://static.gazetaesportiva.com/uploads/2025/09/liam-delap_chelsea.webp",
-        "date": "25 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos avança em tratativas por Arthur, mas vê entrave; entenda situação",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-arthur-melo-negociacao-transfer-ban/",
-        "summary": "O Santos avançou nas tratativas pela contratação de Arthur Melo, mas a negociação está paralisada por causa do transfer ban. Antes de resolver a punição, o Peixe prioriza o pagamento dos direitos de imagem atrasados do e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HK9EVgMWYAAtOWJ.webp",
-        "date": "25 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Flamengo negocia a venda de Gonzalo Plata para o futebol russo",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-negocia-a-venda-de-gonzalo-plata-para-o-futebol-russo/",
-        "summary": "O atacante Gonzalo Plata, de 25 anos, pode deixar o Flamengo nesta janela de transferências. O Dínamo Moscou, da Rússia, acompanha o jogador e negocia um acordo financeiro com o clube carioca, enquanto a imprensa russa a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55219900765_c3d3112531_o.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "PT lança vaquinha para financiar campanha de Lula à reeleição",
-        "link": "https://www.infomoney.com.br/politica/pt-lanca-vaquinha-para-financiar-campanha-de-lula-a-reeleicao/",
-        "summary": "Plataforma aceita doações entre R$ 13 e R$ 1.064; petista já usou financiamento coletivo nas campanhas de 2018 e 2022 The post PT lança vaquinha para financiar campanha de Lula à reeleição appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-16T154149Z_1196470336_RC2RZMARSR4D_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Adeus ao frio? Calor volta a ganhar força no Brasil; veja quando",
+        "link": "https://www.infomoney.com.br/brasil/adeus-ao-frio-calor-volta-a-ganhar-forca-no-brasil-veja-quando/",
+        "summary": "Após mínimas negativas no Sul e frio intenso no Sudeste, avanço de ar mais quente deve elevar as temperaturas a partir de quarta-feira, com chance de onda de calor em áreas do interior The post Adeus ao frio? Calor volta",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/d6a4895_01.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 173 mil pontos; VALE3 tem mais de 1%",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25082026/",
-        "summary": "Bolsas dos EUA avançam à espera de balanço de Nvidia e dados de inflação The post Ibovespa Hoje Ao Vivo: Bolsa sobe aos 173 mil pontos; VALE3 tem mais de 1% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-12.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "title": "Eclipse lunar quase total será visível no Brasil nesta semana; saiba como observar",
+        "link": "https://www.infomoney.com.br/brasil/eclipse-lunar-quase-total-sera-visivel-no-brasil-nesta-semana-saiba-como-observar/",
+        "summary": "Fenômeno vai ocultar 96,2% da Lua na madrugada de sexta-feira e poderá ser observado a olho nu em todo o País, se o céu estiver limpo The post Eclipse lunar quase total será visível no Brasil nesta semana; saiba como obs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-14T081631Z_1609288822_RC2UCDARACSC_RTRMADP_3_LUNAR-ECLIPSE-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "LeBron captou US$ 300 milhões com seguradoras em operação estruturada pela Guggenheim",
-        "link": "https://www.infomoney.com.br/business/lebron-captou-us-300-milhoes-com-seguradoras-em-operacao-estruturada-pela-guggenheim/",
-        "summary": "Astro da NBA usou receitas futuras, incluindo contratos de patrocínio fora das quadras, como garantia para obter financiamento de longo prazo junto a seguradoras americanas The post LeBron captou US$ 300 milhões com segu",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465585776.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Se eleito, Flávio deve enviar PEC do ajuste fiscal ainda na transição de governos",
+        "link": "https://www.infomoney.com.br/politica/se-eleito-flavio-deve-enviar-pec-do-ajuste-fiscal-ainda-na-transicao-de-governos/",
+        "summary": "Campanha do senador à Presidência antecipou que textos já serão preparados para que novo governo possa aplicar corte de gastos logo no início do mandato The post Se eleito, Flávio deve enviar PEC do ajuste fiscal ainda n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T200624Z_1_LYNXMPEM7A1GS_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Regras no trânsito: o que vale para bikes elétricas e modais em SP a partir do dia 28",
-        "link": "https://www.infomoney.com.br/brasil/regras-no-transito-o-que-vale-para-bikes-eletricas-e-modais-em-sp-a-partir-do-dia-28/",
-        "summary": "Aumento da circulação de equipamentos na cidade provocou mudanças nas leis de trânsito The post Regras no trânsito: o que vale para bikes elétricas e modais em SP a partir do dia 28 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/d6a8304.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Jackson Hole: Warsh encara prova de fogo após ruído que abalou mercados",
+        "link": "https://www.infomoney.com.br/economia/jackson-hole-vira-teste-para-warsh-responder-a-criticas-sobre-o-fed/",
+        "summary": "Presidente do banco central americano tenta defender sua estratégia de comunicação após reação negativa dos mercados à coletiva de julho The post Jackson Hole: Warsh encara prova de fogo após ruído que abalou mercados ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465308952.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "InfoMoney e Rico lançam série grátis para quem quer entender a Bolsa sem complicação",
-        "link": "https://www.infomoney.com.br/onde-investir/infomoney-e-rico-lancam-serie-gratis-para-quem-quer-entender-a-bolsa-sem-complicacao/",
-        "summary": "Conteúdo reúne aulas e materiais que explicam conceitos fundamentais do mercado acionário para iniciantes The post InfoMoney e Rico lançam série grátis para quem quer entender a Bolsa sem complicação appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/promo-1200x675-iab-so-imagem.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "ASSISTA: avião pega fogo e cai em MG; piloto se lança de paraquedas e escapa",
+        "link": "https://www.infomoney.com.br/brasil/assista-aviao-pega-fogo-e-cai-em-mg-piloto-se-lanca-de-paraquedas-e-escapa/",
+        "summary": "Imagens registraram o momento da queda da aeronave em Mateus Leme; FAB abriu investigação para apurar as causas do acidente The post ASSISTA: avião pega fogo e cai em MG; piloto se lança de paraquedas e escapa appeared f",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-25-155400.png?fit=300%2C196&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Squadra reduz fatia na Hapvida, e fala em maior erro de investimento de sua história",
-        "link": "https://www.infomoney.com.br/mercados/squadra-reduz-fatia-na-hapvida-e-fala-em-maior-erro-de-investimento-de-sua-historia/",
-        "summary": "Ações da companhia acumulam queda de 44% no mês e de 57% em 2026 The post Squadra reduz fatia na Hapvida, e fala em maior erro de investimento de sua história appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-02-170330.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Um robô chinês superou o recorde de Usain Bolt nos 100 metros. Isso é impressionante?",
+        "link": "https://www.infomoney.com.br/business/global/um-robo-chines-superou-o-recorde-de-usain-bolt-nos-100-metros-isso-e-impressionante/",
+        "summary": "Os robôs humanoides chineses estão alcançando feitos atléticos sobre-humanos. Mas, segundo especialistas, ainda permanece em aberto a questão de como esses avanços podem ser aplicados no mundo real The post Um robô chinê",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-25T141947Z_1_LYNXMPEM7O10H_RTROPTP_4_CHINA-TECH-ROBOT-GAMES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Adeus a Dolly Parton: relembre as 10 músicas mais marcantes da carreira da cantora",
-        "link": "https://exame.com/pop/adeus-a-dolly-parton-relembre-as-10-musicas-mais-marcantes-da-carreira-da-cantora/",
-        "summary": "Entre suas obras mais conhecidas estão “Jolene”, “Coat of Many Colors” e “I Will Always Love You”",
+        "title": "Pesquisa Gerp: Tarcísio tem 50% e Haddad, 32%, no 1º turno em São Paulo",
+        "link": "https://exame.com/brasil/pesquisa-gerp-tarcisio-tem-50-e-haddad-32-no-1o-turno-em-sao-paulo/",
+        "summary": "Governador lidera isolado com 50% do eleitorado ao seu lado, e consolida vantagem contra adversário petista nos cenários estimulados",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Por que o Brasil não consegue formar especialistas em IA na velocidade que o mercado pede",
-        "link": "https://exame.com/inteligencia-artificial/por-que-o-brasil-nao-consegue-formar-especialistas-em-ia-na-velocidade-que-o-mercado-pede/",
-        "summary": "País forma cerca de 53 mil profissionais de tecnologia por ano, mas demanda anual estimada chegou a 159 mil, segundo levantamento da Brasscom",
+        "title": "GP de São Paulo 2026: horário, ingressos e tudo o que você precisa saber",
+        "link": "https://exame.com/esporte/gp-de-sao-paulo-2026-horario-ingressos-e-tudo-o-que-voce-precisa-saber/",
+        "summary": "Etapa em Interlagos acontece em novembro; confira o guia completo com preços de ingressos, opções de transporte, setores disponíveis e o que é proibido levar",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Dolly Parton e Stranger Things: relembre o clássico da cantora que o seriado reviveu",
-        "link": "https://exame.com/pop/dolly-parton-e-stranger-things-relembre-o-classico-da-cantora-que-o-seriado-reviveu/",
-        "summary": "Lançada em 1983, a canção foi originalmente gravada para o álbum Eyes That See in the Dark, de Kenny Rogers, um dos maiores nomes do country de todos os tempos",
+        "title": "CCXP26 começa em 100 dias: veja atrações, datas e preços dos ingressos",
+        "link": "https://exame.com/pop/ccxp26-comeca-em-100-dias-veja-atracoes-datas-e-precos-dos-ingressos/",
+        "summary": "Evento acontece de 3 a 6 de dezembro, no São Paulo Expo, com Elijah Wood e Brian Michael Bendis entre os convidados confirmados",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após telefonema entre Lula e Trump, Brasil e EUA marcam nova reunião sobre tarifaço",
-        "link": "https://exame.com/brasil/apos-telefonema-entre-lula-e-trump-brasil-e-eua-marcam-nova-reuniao-sobre-tarifaco/",
-        "summary": "Governo brasileiro tenta driblar influência de Rubio sobre política tarifária",
+        "title": "Chefe da CIA visita Moscou pela 1ª vez desde o início da guerra na Ucrânia, diz mídia",
+        "link": "https://exame.com/mundo/chefe-da-cia-visita-moscou-pela-1a-vez-desde-o-inicio-da-guerra-na-ucrania-diz-midia/",
+        "summary": "A visita não foi divulgada oficialmente; o diretor da espionagem dos Estados Unidos permaneceu na capital russa por oito horas",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "De Miley Cyrus a Beyoncé: como Dolly Parton influenciou o pop",
-        "link": "https://exame.com/pop/de-miley-cyrus-a-beyonce-como-dolly-parton-influenciou-o-pop/",
-        "summary": "A cantora morreu nesta terça-feira, 25, aos 80 anos; a morte foi confirmada pela família da artista por meio de um vídeo publicado nas redes sociais.",
+        "title": "Existe uma dupla de competências que nenhum executivo treina ao mesmo tempo, mas a Saint Paul ensina",
+        "link": "https://exame.com/carreira/existe-uma-dupla-de-competencias-que-nenhum-executivo-treina-ao-mesmo-tempo-mas-a-saint-paul-ensina/",
+        "summary": "Pesquisa de Harvard e McKinsey mostra por que algumas habilidades raramente convivem na mesma liderança",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Dolly Parton, cantora de 'Jolene' e 'I Will Always Love You', morre aos 80 anos",
-        "link": "https://exame.com/pop/dolly-parton-cantora-de-jolene-e-i-will-always-love-you-morre-aos-80-anos/",
-        "summary": "Família da cantora confirmou a morte em um vídeo publicado nas redes sociais nesta terça-feira",
+        "title": "Adeus a Dolly Parton: entenda por que a cantora não cedeu 'I Will Always Love You' a Elvis Presley",
+        "link": "https://exame.com/pop/adeus-a-dolly-parton-entenda-por-que-a-cantora-nao-cedeu-i-will-always-love-you-a-elvis-presley/",
+        "summary": "Décadas depois, a música ganhou fama mundial na voz de Whitney Houston",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
