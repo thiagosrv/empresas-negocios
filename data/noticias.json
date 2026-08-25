@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-25T10:36:40.170Z",
+  "updated": "2026-08-25T11:31:53.059Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Carreta tomba e pega fogo após bater em defensa metálica na SP-340 em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/25/carreta-tomba-e-pega-fogo-apos-bater-em-defesa-metalica-na-sp-340-em-campinas.ghtml",
+        "summary": "Carreta tomba e pega fogo após bater em defensa metálica na SP-340 em Campinas Uma carreta tombou e pegou fogo após bater contra a defensa metálica e o muro de contenção do canteiro central da Rodovia Governador Adhemar ",
+        "image": "https://s2-g1.glbimg.com/ZpRZaggxY6dPZk2al9AYeLMe0PU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/M6EaPHRwKeWU5icbJGrQ/capas-belly-41-.png",
+        "date": "25 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Assista ao Bom Dia Cidade Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/motorista-desvia-rota-de-onibus-para-socorrer-passageira-com-deficiencia-que-passou-mal-em-campinas.ghtml",
         "summary": "Motorista desvia rota de ônibus para socorrer passageira com deficiência que passou mal Uma mulher com deficiência foi socorrida após passar mal dentro de um ônibus do transporte público de Campinas (SP), na tarde de sáb",
         "image": "https://s2-g1.glbimg.com/nJ0q78FVTu7-YRxs2dgx2caIcYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/z/9U2HXAS9OaQyltFYsieQ/design-sem-nome-2026-08-24t180352.846.jpg",
-        "date": "24 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Rede de supermercados oferece 90 vagas de emprego em Campinas; veja como participar",
-        "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/08/24/rede-de-supermercados-oferece-90-vagas-de-emprego-em-campinas-veja-como-participar.ghtml",
-        "summary": "Rede de supermercados oferece 90 vagas de emprego em Campinas; veja como participar Divulgação: São Vicente Supermercados Uma rede de supermercados realiza, entre terça-feira (25) e sexta-feira (28), das 9h às 16h, um fe",
-        "image": "https://s2-g1.glbimg.com/wR0ddyF0sezpV1dw34fZtksekaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/2/IjzvmOSMA702Z2QA382g/2.png",
         "date": "24 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Justiça decreta prisão de envolvidos na morte de advogado no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/justica-decreta-prisao-de-envolvidos-na-morte-de-advogado-no-rio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/justica-decreta-prisao-de-envolvidos-na-morte-de-advogado-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Beneficiários com NIS de final 6 recebem Bolsa Família de agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-6-recebem-bolsa-familia-de-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-6-recebem-bolsa-familia-de-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Salário mínimo deverá subir para R$ 1.741 em 2027",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
@@ -161,29 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "SBPC convida candidatos a governador a se comprometerem com a ciência",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/sbpc-convida-candidatos-governador-se-comprometerem-com-ciencia",
-        "summary": "p A Sociedade Brasileira para o Progresso da Ciência (SBPC) convida candidatos a governador a assumir compromissos com a Ciência, Tecnologia e Inovação (CT amp;I) nas eleições de 2026. A iniciativa faz parte do Observató",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Unicef pede a candidatos mais ações de prevenção à violência infantil",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/unicef-pede-candidatos-mais-acoes-de-prevencao-violencia-infantil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/unicef-pede-candidatos-mais-acoes-de-prevencao-violencia-infantil img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Bellão lamenta chances perdidas do Botafogo contra o Athletico",
+        "link": "https://www.gazetaesportiva.com/times/botafogo/bellao-lamenta-chances-perdidas-do-botafogo-contra-o-athletico/",
+        "summary": "Bellão lamenta chances perdidas do Botafogo contra o Athletico O post Bellão lamenta chances perdidas do Botafogo contra o Athletico apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Bella.webp",
+        "date": "25 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Entenda como Diniz planeja utilizar semana livre no Corinthians",
         "link": "https://www.gazetaesportiva.com/times/corinthians/entenda-como-diniz-planeja-utilizar-semana-livre-no-corinthians/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-santos-veja-onde-assistir-ao-jogo-pela-copa-do-brasil/",
         "summary": "Nesta quarta-feira, Palmeiras e Santos medem forças pelo jogo de ida das quartas de final da Copa do Brasil. A bola rola para o clássico às 21h30 (de Brasília), no Nubank Parque, em São Paulo. O post Palmeiras x Santos: ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/02052026_cg_palmeiras_5865_61.webp",
-        "date": "25 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "EXCLUSIVO: Ítalo Ferreira mostra preocupação com futuro do surfe brasileiro e aconselha jovens",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/surfe/italo-ferreira-futuro-surfe-brasileiro-jovens/",
-        "summary": "Ítalo Ferreira, campeão mundial de surfe em 2019 e medalhista de ouro olímpico em Tóquio 2021, demonstrou preocupação com o futuro do Brasil no cenário internacional da modalidade. Em entrevista exclusiva à Gazeta Esport",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/italo_ferreira_210826_22.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,64 +307,84 @@
         "cls": ""
       },
       {
-        "title": "Brasil e EUA agendam reunião para discutir tarifaço para próxima segunda-feira",
-        "link": "https://www.infomoney.com.br/politica/brasil-e-eua-agendam-reuniao-para-discutir-tarifaco-para-proxima-segunda-feira/",
-        "summary": "Um representante do Itamaraty também deverá participar das conversas que vão dar início à retomada das negociações em torno do tarifaço The post Brasil e EUA agendam reunião para discutir tarifaço para próxima segunda-fe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/bandeira-brasil-eua750-1.png?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "title": "Relator da PEC 6 1 descarta mudanças e prevê votação na CCJ na próxima semana",
+        "link": "https://www.infomoney.com.br/politica/relator-da-pec-6x1-descarta-mudancas-e-preve-votacao-na-ccj-na-proxima-semana/",
+        "summary": "Proposta passará primeiro pelo colegiado de Constituição e Justiça da Casa antes de seguir para o Plenário The post Relator da PEC 6 1 descarta mudanças e prevê votação na CCJ na próxima semana appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/49092876257_a393bf91da_o.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Governo confirma que salário mínimo será de R$ 1.741 em 2027",
-        "link": "https://www.infomoney.com.br/minhas-financas/governo-confirma-que-salario-minimo-sera-de-r-1-741-em-2027/",
-        "summary": "Valor consta no projeto da ‌Lei Orçamentária Anual (PLOA), disse o ministro da Fazenda, Dario Durigan The post Governo confirma que salário mínimo será de R$ 1.741 em 2027 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/reais-7.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25082026/",
+        "summary": "Índices futuros dos EUA avançam à espera de balanço de Nvidia e dados de inflação The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-1.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Minidólar (WDOU26): confira os pontos para operar nesta terça-feira",
-        "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-25082026/",
-        "summary": "Saiba o que esperar para o minidólar nesta terça (25) The post Minidólar (WDOU26): confira os pontos para operar nesta terça-feira appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-25.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
+        "title": "Bitcoin supera US$ 80 mil com volta do otimismo ao mercado cripto",
+        "link": "https://www.infomoney.com.br/onde-investir/bitcoin-supera-us-80-mil-com-volta-do-otimismo-ao-mercado-cripto/",
+        "summary": "Plano de recompra de títulos do Tesouro americano enfraqueceu o dólar e ajudou a tirar os criptoativos de meses de estagnação The post Bitcoin supera US$ 80 mil com volta do otimismo ao mercado cripto appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465539389.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mini-índice (WINV26): recuperação continua ou perde força? Veja os níveis",
-        "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-25082026/",
-        "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (25 de agosto) The post Mini-índice (WINV26): recuperação continua ou perde força? Veja os níveis appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINV26-15-MINUTOS-25.08.2026.png?fit=300%2C136&amp;quality=70&amp;strip=all",
+        "title": "Paquistão e Irã discutem retomada de acordo para encerrar a guerra, diz ministro",
+        "link": "https://www.infomoney.com.br/mundo/paquistao-e-ira-discutem-retomada-de-acordo-para-encerrar-a-guerra-diz-ministro/",
+        "summary": "Segundo o ministro paquistanês, \"progresso significativo foi alcançado\", e a reunião terminou em uma \"nota altamente positiva\" The post Paquistão e Irã discutem retomada de acordo para encerrar a guerra, diz ministro app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-14T115331Z_1_LYNXMPEM6D0NG_RTROPTP_4_IRAN-NUCLEAR-IAEA.jpg?fit=300%2C210&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Day Trade hoje (25): Ibovespa mantém sequência de altas; veja a análise",
-        "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-25082026/",
-        "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (25): Ibovespa mantém sequência de altas; veja a análise appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Hapvida, Desktop, Braskem, Viveo e mais ações para acompanhar hoje",
+        "link": "https://www.infomoney.com.br/mercados/hapvida-desktop-braskem-viveo-e-mais-acoes-para-acompanhar-hoje/",
+        "summary": "Confira os principais destaques do noticiário corporativo desta terça-feira The post Hapvida, Desktop, Braskem, Viveo e mais ações para acompanhar hoje appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-17-115206-e1770668490299.png?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Fatia dos deepfakes em fraudes sobe de 0,1% para 6,5% e inflama desconfiança",
-        "link": "https://www.infomoney.com.br/minhas-financas/fatia-dos-deepfakes-em-fraudes-sobe-de-01-para-65-e-inflama-desconfianca/",
-        "summary": "IA aparece em 42,5% das ocorrências de fraude financeira no país, segundo dados compartilhados durante a Febraban Tech 2026 The post Fatia dos deepfakes em fraudes sobe de 0,1% para 6,5% e inflama desconfiança appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Deepfake.png?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "title": "EUA preparam a maior revogação da história de vistos de turismo e negócios",
+        "link": "https://www.infomoney.com.br/mundo/eua-preparam-a-maior-revogacao-da-historia-de-vistos-de-turismo-e-negocios/",
+        "summary": "Departamento de Estado deve anunciar nas próximas semanas o cancelamento de até 200 mil vistos B1 e B2 emitidos entre 2016 e 2026 The post EUA preparam a maior revogação da história de vistos de turismo e negócios appear",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/Snapinst.app_415008922_759276389567567_6181270211009578906_n_1080.jpg?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
+      },
+      {
+        "title": "O conselho do cofundador do PayPal que fez a OpenAI apostar tudo no ChatGPT",
+        "link": "https://exame.com/inteligencia-artificial/o-conselho-do-cofundador-do-paypal-que-fez-a-openai-apostar-tudo-no-chatgpt/",
+        "summary": "Após considerar mudar de foco devido ao crescimento instável do chatbot, a OpenAI decidiu apostar tudo no ChatGPT por conselho do investidor Peter Thiel",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Por que as Sentinelas do X-Men estarão em 'Vingadores: Doutor Destino'?",
+        "link": "https://exame.com/pop/por-que-as-sentinelas-do-x-men-estarao-em-vingadores-doutor-destino/",
+        "summary": "Robôs tradicionalmente associados aos X-Men aparecem sob o comando de Doutor Destino e ampliam a conexão do filme com o universo dos mutantes",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Por que o TikTok foi multado em R$ 153,7 milhões no Brasil",
@@ -378,7 +398,7 @@
       },
       {
         "title": "Agência federal brasileira multa TikTok em R$ 153,7 milhões por dados de crianças e adolescentes",
-        "link": "https://exame.com/tecnologia/agencia-federal-brasileira-multa-tiktok-em-r-1537-milhoes-por-dados-de-criancas-e-adolescentes/",
+        "link": "https://exame.com/brasil/agencia-federal-brasileira-multa-tiktok-em-r-1537-milhoes-por-dados-de-criancas-e-adolescentes/",
         "summary": "Decisão determina ainda eliminação de dados de adolescentes cadastrados sem autorização dos responsáveis; multa pode cair para R$ 115,3 milhões em caso de acordo",
         "image": null,
         "date": "25 de ago. de 2026",
@@ -400,26 +420,6 @@
         "title": "Rumo aos R$ 18 milhões, famosa pizzaria gaúcha abre trattoria e mira criação de grupo gastronômico",
         "link": "https://exame.com/negocios/rumo-aos-r-18-milhoes-famosa-pizzaria-gaucha-abre-trattoria-e-mira-criacao-de-grupo-gastronomico/",
         "summary": "Depois de levar a Grani ao limite da capacidade, empresário gaúcho Igor Henrique aposta R$ 1,5 milhão em um restaurante italiano e quer transformar a marca em um grupo gastronômico",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Um terço das startups não avança em IA devido à falta de infraestrutura",
-        "link": "https://exame.com/bussola/um-terco-das-startups-nao-avancam-em-ia-devido-a-falta-de-infraestrutura/",
-        "summary": "Levantamento revela que empresas enfrentam pressões sobre custo, segurança, capacidade computacional e soberania de dados",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Braskem ganha tempo com recuperação extrajudicial. Agora, alguém terá de ceder",
-        "link": "https://exame.com/exame-in/braskem-ganha-tempo-com-recuperacao-extrajudicial-agora-alguem-tera-de-ceder/",
-        "summary": "Petrobras quer dar prazo sem aumentar sua exposição à petroquímica, mas credores resistem e pressionam por conversão de dívida em ações nos próximos 90 dias",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
