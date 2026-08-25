@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:34:59.206Z",
+  "updated": "2026-08-25T20:33:08.274Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,16 @@
         "cls": "brasil"
       },
       {
+        "title": "Câmara de Americana aprova programa para autorregularização de débitos de ISS",
+        "link": "https://jornalamericanense.com.br/politica/camara-de-americana-aprova-programa-para-autorregularizacao-de-debitos-de-iss/",
+        "summary": "Projeto aprovado em primeira discussão prevê perdão de juros, correção monetária e multas para contribuintes que regularizarem voluntariamente obrigações não declaradas A Câmara Municipal de Americana aprovou, em primeir",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Operação da DISE prende dois e apreende drogas e arma em Santa Bárbara d’Oeste",
         "link": "https://jornalamericanense.com.br/policia/operacao-da-dise-prende-dois-e-apreende-drogas-e-arma-em-santa-barbara-doeste/",
         "summary": "Ação denominada “Operação Romano” investigava suposto esquema de entrega de entorpecentes; cocaína, maconha, revólver calibre .38 e motocicleta foram apreendidos Dois homens, de 33 e 40 anos, foram presos em flagrante ne",
@@ -113,14 +123,24 @@
         "cls": "servicos"
       },
       {
-        "title": "ExpoEmpresas começa nesta terça com 90 expositores e 120 estandes",
-        "link": "https://jornalamericanense.com.br/cidades/expoempresas-comeca-nesta-terca-com-90-expositores-e-120-estandes/",
-        "summary": "A 1ª edição da ExpoEmpresas organizada pela ACIA – Associação Comercial e Industrial de Americana será aberta nesta terça-feira, dia 25, a partir das 14 horas, na FIDAM – Feira Industrial de Americana. O evento, que até ",
+        "title": "Brasil e EUA definem data de reunião para discutir tarifaço",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-e-eua-definem-data-de-reuniao-para-discutir-tarifaco",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-e-eua-definem-data-de-reuniao-para-discutir-tarifaco img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
         "image": null,
         "date": "25 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Anvisa aprova segundo genérico de semaglutida em caneta injetável",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Justiça preserva direito de idosos a passagens interestaduais",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Saiba os sintomas e os tratamentos para a febre do Nilo Ocidental",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saiba-os-sintomas-e-os-tratamentos-para-febre-do-nilo-ocidental",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saiba-os-sintomas-e-os-tratamentos-para-febre-do-nilo-ocidental img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Marinha emite aviso de ressaca no litoral de São Paulo e do Rio",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/marinha-emite-aviso-de-ressaca-no-litoral-de-sao-paulo-e-do-rio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/marinha-emite-aviso-de-ressaca-no-litoral-de-sao-paulo-e-do-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Veja fotos do treino do São Paulo nesta terça-feira",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-terca-feira-11/",
-        "summary": "Veja uma galeria de fotos do treino do São Paulo nesta terça-feira, no SuperCT. Equipe se prepara para encarar o RB Bragantino. O post Veja fotos do treino do São Paulo nesta terça-feira apareceu primeiro em Gazeta Espor",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQlY_W-XsAArhPL.webp",
+        "title": "O goleiro Bento expulso, Al-Nassr vira sobre o Al-Ettifaq pelo Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-goleiro-bento-expulso-al-nassr-vira-sobre-o-al-ettifaq-pelo-saudita/",
+        "summary": "O goleiro Bento expulso, Al-Nassr vira sobre o Al-Ettifaq pelo Saudita O post O goleiro Bento expulso, Al-Nassr vira sobre o Al-Ettifaq pelo Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/51v3fn74-1920bento.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Suzano fará amistoso contra seleção do Japão durante o Paulista masculino de vôlei",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/suzano-fara-amistoso-contra-selecao-do-japao-durante-o-paulista-masculino-de-volei/",
-        "summary": "O Suzano terá um desafio internacional durante a disputa do Campeonato Paulista. O clube anunciou nesta segunda-feira um amistoso contra a seleção do Japão, marcado para o dia 6 de setembro, às 17h (de Brasília), na Aren",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/783240993_18101791946621540_7094806127638014549_n.webp",
+        "title": "Atacante francês Christopher Nkunku volta ao RB Leipzig por empréstimo",
+        "link": "https://www.gazetaesportiva.com/futebol/mercado/atacante-frances-christopher-nkunku-volta-ao-rb-leipzig-por-emprestimo/",
+        "summary": "Christopher Nkunku foi emprestado pelo Milan ao RB Leipzig até o fim da temporada, com opção de compra. O atacante francês retorna ao clube alemão, onde viveu o melhor momento da carreira entre 2019 e 2023, somando 70 go",
+        "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/10/18/000_32NL4G3.jpg",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-fayha-pelo-saudita/",
-        "summary": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita O post Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/4mghxep9-1920-Taawoun.webp",
+        "title": "Melhores momentos: Al Ettifaq 2 x 3 Al Nassr pelo Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-ettifaq-2-x-3-al-nassr-pelo-saudita/",
+        "summary": "Melhores momentos: Al Ettifaq 2 x 3 Al Nassr pelo Saudita O post Melhores momentos: Al Ettifaq 2 x 3 Al Nassr pelo Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/whkq33zt-1920Al-Ettifaq.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-abha-1-x-1-al-khaleej-pelo-saudita/",
-        "summary": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita O post Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1y6b629o-1920Khaleej.webp",
+        "title": "Melhores momentos: Al Shabab 3 x 3 Al Riyadh pela Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-shabab-3-x-3-al-riyadh-pela-saudita/",
+        "summary": "Melhores momentos: Al Shabab 3 x 3 Al Riyadh pela Saudita O post Melhores momentos: Al Shabab 3 x 3 Al Riyadh pela Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/el1fcfjr-1920Al-Shabab.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Rio Open anuncia ampliação do complexo para receber maior público em 2027",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/rio-open-ampliacao-jockey-club-2027/",
-        "summary": "O Rio Open anunciou uma grande expansão de sua estrutura no Jockey Club Brasileiro a partir da edição de 2027. A ampliação aumentará a área total do complexo de 40 mil m² para 67 mil m², além de elevar significativamente",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ro_mapa_0021.webp",
+        "title": "Com Bento expulso no primeiro tempo, Al-Nassr vira sobre o Al-Ettifaq pelo Saudita",
+        "link": "https://www.gazetaesportiva.com/al-nassr/com-bento-expulso-no-primeiro-tempo-al-nassr-vira-sobre-o-al-ettifaq-no-saudita/",
+        "summary": "O Al-Nassr venceu o Al-Ettifaq por 3 a 2, de virada, pela terceira rodada do Campeonato Saudita e manteve os 100% de aproveitamento e a liderança da competição com 9 pontos. A equipe teve dificuldades após a expulsão do ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C6969YT__v1__HighRes__FblKsaNassrRiyadh-1.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Chelsea encaminha acerto pela venda de Delap ao Nottingham Forest",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/chelsea-encaminha-acerto-pela-venda-de-delap-ao-nottingham-forest/",
-        "summary": "O atacante Liam Delap está próximo de deixar o Chelsea e partir para o Nottingham Forest. Nesta terça-feira, os clubes entraram em acordo para negociar o jogador de 23 anos, e a equipe londrina deve embolsar cerca de 45 ",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/09/liam-delap_chelsea.webp",
+        "title": "Conmebol anuncia datas de Libertadores, Sul-Americana e Recopa de 2027; veja calendário",
+        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/calendario-conmebol-2027-libertadores-sul-americana-recopa/",
+        "summary": "A Conmebol definiu o calendário de Libertadores, Sul-Americana e Recopa para 2027. A temporada terá pausa durante a Copa do Mundo Feminina no Brasil, enquanto as finais dos principais torneios estão previstas para novemb",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/06/taca-libertadores-da-america.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Brasil e EUA definem data de reunião para discutir tarifaço",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-e-eua-definem-data-de-reuniao-para-discutir-tarifaco",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-e-eua-definem-data-de-reuniao-para-discutir-tarifaco img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes",
@@ -297,129 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-atingidas-por-tarifaco-e-guerras-terao-r-135-bi-em-credito",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-atingidas-por-tarifaco-e-guerras-terao-r-135-bi-em-credito img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "Quaest: Cleitinho lidera em Minas com 29%; Patrus tem 11% e Kalil, 10%",
+        "link": "https://www.infomoney.com.br/politica/quaest-cleitinho-lidera-em-minas-com-29-patrus-tem-11-e-kalil-10/",
+        "summary": "Senador mantém vantagem ampla no primeiro turno, mas 19% dos mineiros ainda estão indecisos The post Quaest: Cleitinho lidera em Minas com 29%; Patrus tem 11% e Kalil, 10% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/1_wpt20420-67374530.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vale vê potencial para até 50 mi t de minério de ferro em projeto em Carajás, diz CEO",
+        "link": "https://www.infomoney.com.br/mercados/vale-ve-potencial-para-ate-50-mi-t-de-minerio-de-ferro-em-projeto-em-carajas-diz-ceo/",
+        "summary": "Pimenta defendeu que sejam realizadas reformas regulatórias para que o projeto possa deslanchar The post Vale vê potencial para até 50 mi t de minério de ferro em projeto em Carajás, diz CEO appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ibovespa consegue 5ª alta seguida, de novo com Vale e bancos; dólar desce a R$ 5,14",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25082026/",
+        "summary": "Índices nos EUA fecham com altas à espera de Nvidia e com Treasuries em baixa The post Ibovespa consegue 5ª alta seguida, de novo com Vale e bancos; dólar desce a R$ 5,14 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-hoje-ao-vivo-4.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Criptomoedas: bitcoin opera em alta, com menor ímpeto após chegar aos US$ 81 mil",
+        "link": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-alta-com-menor-impeto-apos-chegar-aos-us-81-mil/",
+        "summary": "Analistas observam que o avanço súbito nos preços abriu espaço para uma perda de força The post Criptomoedas: bitcoin opera em alta, com menor ímpeto após chegar aos US$ 81 mil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-16T150140Z_1_LYNXMPEM6F11M_RTROPTP_4_FINTECH-CRYPTO-QUANTUM-COMPUTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Diretor de Ainda Estou Aqui doa R$ 100 mil para campanha de neto de Rubens Paiva",
+        "link": "https://www.infomoney.com.br/politica/diretor-de-ainda-estou-aqui-doa-r-100-mil-para-campanha-de-neto-de-rubens-paiva/",
+        "summary": "Walter Salles destinou quantia para a campanha de Chico Rubens Paiva (PSB-RJ) por uma vaga na Câmara dos Deputados The post Diretor de Ainda Estou Aqui doa R$ 100 mil para campanha de neto de Rubens Paiva appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-03T030107Z_1885080214_HP1EL3308DUNW_RTRMADP_3_AWARDS-OSCARS.jpg?fit=300%2C221&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quaest: Raquel Lyra tem 44% e João Campos, 36%, na disputa em Pernambuco",
+        "link": "https://www.infomoney.com.br/politica/quaest-raquel-lyra-tem-44-e-joao-campos-36-na-disputa-em-pernambuco/",
+        "summary": "Governadora mantém vantagem numérica sobre o ex-prefeito do Recife; diferença é de oito pontos no primeiro turno The post Quaest: Raquel Lyra tem 44% e João Campos, 36%, na disputa em Pernambuco appeared first on InfoMon",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/JOAO-CAMPOS-RAQUEL-LYRA.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quais corridas ainda serão transmitidas pela Globo em 2026?",
+        "link": "https://exame.com/esporte/quais-corridas-ainda-serao-transmitidas-pela-globo-em-2026/",
+        "summary": "Após o fim da pausa de verão da Fórmula 1, confira quais das etapas restantes da temporada de 2026 serão transmitidas na TV aberta",
         "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "25 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Adeus ao frio? Calor volta a ganhar força no Brasil; veja quando",
-        "link": "https://www.infomoney.com.br/brasil/adeus-ao-frio-calor-volta-a-ganhar-forca-no-brasil-veja-quando/",
-        "summary": "Após mínimas negativas no Sul e frio intenso no Sudeste, avanço de ar mais quente deve elevar as temperaturas a partir de quarta-feira, com chance de onda de calor em áreas do interior The post Adeus ao frio? Calor volta",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/d6a4895_01.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Pantys expande portfólio em saúde íntima e mira crescimento de 18%",
+        "link": "https://exame.com/esg/pantys-expande-portfolio-em-saude-intima-e-mira-crescimento-de-18/",
+        "summary": "Empresa afirma ter evitado o descarte de 2,3 bilhões de absorventes desde a fundação e quer fazer dos novos produtos até 25% de sua receita ao longo do próximo ano",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Eclipse lunar quase total será visível no Brasil nesta semana; saiba como observar",
-        "link": "https://www.infomoney.com.br/brasil/eclipse-lunar-quase-total-sera-visivel-no-brasil-nesta-semana-saiba-como-observar/",
-        "summary": "Fenômeno vai ocultar 96,2% da Lua na madrugada de sexta-feira e poderá ser observado a olho nu em todo o País, se o céu estiver limpo The post Eclipse lunar quase total será visível no Brasil nesta semana; saiba como obs",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-14T081631Z_1609288822_RC2UCDARACSC_RTRMADP_3_LUNAR-ECLIPSE-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Terceira onda chinesa acirra disputa no mercado automotivo e na publicidade",
+        "link": "https://exame.com/bussola/terceira-onda-chinesa-acirra-disputa-no-mercado-automotivo-e-na-publicidade/",
+        "summary": "Novas montadoras ampliam a concorrência e levam a disputa do mercado automotivo brasileiro também para publicidade, celebridades e futebol",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Se eleito, Flávio deve enviar PEC do ajuste fiscal ainda na transição de governos",
-        "link": "https://www.infomoney.com.br/politica/se-eleito-flavio-deve-enviar-pec-do-ajuste-fiscal-ainda-na-transicao-de-governos/",
-        "summary": "Campanha do senador à Presidência antecipou que textos já serão preparados para que novo governo possa aplicar corte de gastos logo no início do mandato The post Se eleito, Flávio deve enviar PEC do ajuste fiscal ainda n",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T200624Z_1_LYNXMPEM7A1GS_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "NEEX 2026: empresas que mais crescem se encontram em São Paulo",
+        "link": "https://exame.com/negocios/neex-2026-empresas-que-mais-crescem-se-encontram-em-sao-paulo/",
+        "summary": "Empresários, executivos e profissionais se reúnem para celebrar empresas em expansão e ampliar conexões no ambiente de negócios brasileiro",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Jackson Hole: Warsh encara prova de fogo após ruído que abalou mercados",
-        "link": "https://www.infomoney.com.br/economia/jackson-hole-vira-teste-para-warsh-responder-a-criticas-sobre-o-fed/",
-        "summary": "Presidente do banco central americano tenta defender sua estratégia de comunicação após reação negativa dos mercados à coletiva de julho The post Jackson Hole: Warsh encara prova de fogo após ruído que abalou mercados ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465308952.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Acordo Irã-Omã: sem presença dos EUA, países negociam reabertura de Ormuz",
+        "link": "https://exame.com/mundo/acordo-ira-oma-sem-presenca-dos-eua-paises-negociam-reabertura-de-ormuz/",
+        "summary": "Os Estados do Oriente Médio discutem nesta terça-feira, 25, a adoção de um sistema temporário de navegação conjunta, acompanhado de uma operação para retirar minas do estratégico corredor comercial",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "ASSISTA: avião pega fogo e cai em MG; piloto se lança de paraquedas e escapa",
-        "link": "https://www.infomoney.com.br/brasil/assista-aviao-pega-fogo-e-cai-em-mg-piloto-se-lanca-de-paraquedas-e-escapa/",
-        "summary": "Imagens registraram o momento da queda da aeronave em Mateus Leme; FAB abriu investigação para apurar as causas do acidente The post ASSISTA: avião pega fogo e cai em MG; piloto se lança de paraquedas e escapa appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-25-155400.png?fit=300%2C196&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Um robô chinês superou o recorde de Usain Bolt nos 100 metros. Isso é impressionante?",
-        "link": "https://www.infomoney.com.br/business/global/um-robo-chines-superou-o-recorde-de-usain-bolt-nos-100-metros-isso-e-impressionante/",
-        "summary": "Os robôs humanoides chineses estão alcançando feitos atléticos sobre-humanos. Mas, segundo especialistas, ainda permanece em aberto a questão de como esses avanços podem ser aplicados no mundo real The post Um robô chinê",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-25T141947Z_1_LYNXMPEM7O10H_RTROPTP_4_CHINA-TECH-ROBOT-GAMES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Pesquisa Gerp: Tarcísio tem 50% e Haddad, 32%, no 1º turno em São Paulo",
         "link": "https://exame.com/brasil/pesquisa-gerp-tarcisio-tem-50-e-haddad-32-no-1o-turno-em-sao-paulo/",
         "summary": "Governador lidera isolado com 50% do eleitorado ao seu lado, e consolida vantagem contra adversário petista nos cenários estimulados",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "GP de São Paulo 2026: horário, ingressos e tudo o que você precisa saber",
-        "link": "https://exame.com/esporte/gp-de-sao-paulo-2026-horario-ingressos-e-tudo-o-que-voce-precisa-saber/",
-        "summary": "Etapa em Interlagos acontece em novembro; confira o guia completo com preços de ingressos, opções de transporte, setores disponíveis e o que é proibido levar",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "CCXP26 começa em 100 dias: veja atrações, datas e preços dos ingressos",
-        "link": "https://exame.com/pop/ccxp26-comeca-em-100-dias-veja-atracoes-datas-e-precos-dos-ingressos/",
-        "summary": "Evento acontece de 3 a 6 de dezembro, no São Paulo Expo, com Elijah Wood e Brian Michael Bendis entre os convidados confirmados",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Chefe da CIA visita Moscou pela 1ª vez desde o início da guerra na Ucrânia, diz mídia",
-        "link": "https://exame.com/mundo/chefe-da-cia-visita-moscou-pela-1a-vez-desde-o-inicio-da-guerra-na-ucrania-diz-midia/",
-        "summary": "A visita não foi divulgada oficialmente; o diretor da espionagem dos Estados Unidos permaneceu na capital russa por oito horas",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Existe uma dupla de competências que nenhum executivo treina ao mesmo tempo, mas a Saint Paul ensina",
-        "link": "https://exame.com/carreira/existe-uma-dupla-de-competencias-que-nenhum-executivo-treina-ao-mesmo-tempo-mas-a-saint-paul-ensina/",
-        "summary": "Pesquisa de Harvard e McKinsey mostra por que algumas habilidades raramente convivem na mesma liderança",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Adeus a Dolly Parton: entenda por que a cantora não cedeu 'I Will Always Love You' a Elvis Presley",
-        "link": "https://exame.com/pop/adeus-a-dolly-parton-entenda-por-que-a-cantora-nao-cedeu-i-will-always-love-you-a-elvis-presley/",
-        "summary": "Décadas depois, a música ganhou fama mundial na voz de Whitney Houston",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Exame",
