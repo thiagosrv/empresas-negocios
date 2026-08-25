@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T01:27:21.544Z",
+  "updated": "2026-08-25T03:02:08.923Z",
   "feeds": {
     "campinas": [
       {
@@ -13,9 +13,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Câmara aprova parcelamento de dívida com o Camprev e aumento da idade mínima para servidor se aposentar em Campinas",
+        "title": "Câmara de Campinas aprova aumento da idade mínima para servidor se aposentar e parcelamento de dívida com o Camprev",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/24/camara-aprova-parcelamento-divida-camprev-aumento-idade-minima-servidor-aposentar-campinas.ghtml",
-        "summary": "Ao fundo, servidores protestaram contra aprovação de projeto Álvaro Jr./Câmara de Campinas A Câmara de Campinas (SP) aprovou nesta segunda-feira (24), em primeiro turno, um projeto de lei complementar de autoria do gover",
+        "summary": "Câmara aprova parcelamento de dívida e aumento da idade mínima para servidor se aposentar A Câmara de Campinas (SP) aprovou nesta segunda-feira (24), em primeiro turno, um projeto de lei complementar de autoria do govern",
         "image": "https://s2-g1.glbimg.com/uKTJuvIpeD-1vUUob9fRWNMqZUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/g/X7hYXsQqiT1GRF5WE28A/55486370554-b5c347f58c-k.jpg",
         "date": "25 de ago. de 2026",
         "source": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Salário mínimo deverá subir para R$ 1.741 em 2027",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Estados do Nordeste tentam atrair investimentos para Caatinga na COP17",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/estados-do-nordeste-tentam-atrair-investimentos-para-caatinga-na-cop17",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/estados-do-nordeste-tentam-atrair-investimentos-para-caatinga-na-cop17 img src= https://cdn.jsdelivr.net/gh/serg",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Comércio eletrônico em compras federais é regulamentado",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/comercio-eletronico-em-compras-federais-e-regulamentado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/comercio-eletronico-em-compras-federais-e-regulamentado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
-        "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Botafogo 2 x 3 Athletico-PR: veja os melhores momentos pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/botafogo/botafogo-2-x-3-athletico-pr-veja-os-melhores-momentos-pelo-brasileirao/",
-        "summary": "Botafogo perdeu para o Athletico-PR por 3 a 2 pelo Brasileirão. Veja os melhores momentos da partida disputada no Nilton Santos. O post Botafogo 2 x 3 Athletico-PR: veja os melhores momentos pelo Brasileirão apareceu pri",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55486386413_fec11e13b5_o.webp",
+        "title": "Com dois de Di María, Rosario Central busca empate com o Talleres no Argentino",
+        "link": "https://www.gazetaesportiva.com/times/rosario-central/com-dois-de-di-maria-rosario-central-busca-empate-com-o-talleres-no-argentino/",
+        "summary": "Ángel Di María marca duas vezes, e Rosario Central reage após sair perdendo por 2 a 0 e empata com o Talleres pelo Campeonato Argentino. O post Com dois de Di María, Rosario Central busca empate com o Talleres no Argenti",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260821__C6727TK__v1__HighRes__FblLibertadoresCorinthiansRosario-1.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Estêvão retorna aos gramados após lesão que o tirou da Copa do Mundo",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/estevao-retorna-aos-gramados-apos-lesao-que-o-tirou-da-copa-do-mundo/",
-        "summary": "A estreia do Chelsea no Campeonato Inglês na tarde desta segunda-feira contou com um retorno importante para o técnico Xabi Alonso. Sem atuar desde o dia 18 de abril, Estêvão foi acionado pelo treinador espanhol aos 38 m",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260824__C6EQ8FF__v1__HighRes__FblEngPrFulhamChelsea.webp",
+        "title": "Bellão explica derrota do Botafogo e mira ajustes no setor ofensivo",
+        "link": "https://www.gazetaesportiva.com/times/botafogo/bellao-aponta-ajustes-botafogo-derrota-athletico-pr/",
+        "summary": "Técnico do Botafogo, Rodrigo Bellão aponta necessidade de ajustes defensivos e ofensivos após derrota para o Athletico-PR no Brasileirão. O post Bellão explica derrota do Botafogo e mira ajustes no setor ofensivo aparece",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55486642545_b637f3ff21_o-1.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com dois de Viveros, Athletico-PR vence o Botafogo e cola no Flamengo",
-        "link": "https://www.gazetaesportiva.com/times/botafogo/botafogo-x-athletico-pr-24-08-2026-brasileirao/",
-        "summary": "thletico-PR vence o Botafogo por 3 a 2 no Nilton Santos e chega ao nono jogo consecutivo sem perder no Campeonato Brasileiro. O post Com dois de Viveros, Athletico-PR vence o Botafogo e cola no Flamengo apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55486320538_ee6b7b75fd_o.webp",
+        "title": "Inter anuncia mais de 40 mil ingressos para clássico da Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/times/internacional/inter-vende-mais-de-40-mil-ingressos-classico-gremio-copa-do-brasil/",
+        "summary": "Internacional anuncia mais de 40 mil ingressos vendidos para o clássico contra o Grêmio, no Beira-Rio, pela ida das quartas de final da Copa do Brasil. O post Inter anuncia mais de 40 mil ingressos para clássico da Copa ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55471150266_03db23d633_o.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Reunião do Conselho que cobraria explicações de Teixeira no Santos é adiada; entenda",
-        "link": "https://www.gazetaesportiva.com/times/santos/reuniao-conselho-santos-marcelo-teixeira-adiada/",
-        "summary": "Reunião extraordinária do Conselho Deliberativo que discutiria a situação financeira e o planejamento esportivo do Santos foi adiada após pedido dos conselheiros que solicitaram o encontro. Uma nova data ainda será defin",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55252076246_aed206f0c9_k.webp",
+        "title": "Odair Hellmann exalta evolução do Athletico-PR fora de casa e evita falar de luta pelo título",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/odair-hellmann-exalta-evolucao-do-athletico-pr-fora-de-casa-e-evita-falar-de-luta-pelo-titulo/",
+        "summary": "O Athletico-PR bateu o Botafogo por 3 a 2, na noite desta segunda-feira, no Estádio Nilton Santos, pela 24ª rodada do Campeonato Brasileiro. Após a partida, o técnico Odair Hellmann destacou a evolução do time ao longo d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-24-at-23.19.15.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sport anuncia a contratação de Patrick de Paula, ex-Palmeiras e Botafogo",
-        "link": "https://www.gazetaesportiva.com/times/sport/sport-anuncia-contratacao-patrick-de-paula-ex-palmeiras-botafogo/",
-        "summary": "Sport anuncia a contratação de Patrick de Paula, ex-Palmeiras e Botafogo. Volante de 26 anos estava sem clube e assina até novembro. O post Sport anuncia a contratação de Patrick de Paula, ex-Palmeiras e Botafogo aparece",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-24_212645918.webp",
+        "title": "Viveros vira artilheiro e cita “objetivo em segredo” do Athletico-PR no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/viveros-vira-artilheiro-e-revela-objetivo-em-segredo-do-athletico-pr-no-brasileirao/",
+        "summary": "Autor de dois gols na vitória do Athletico-PR por 3 a 2 sobre o Botafogo nesta segunda-feira, Kevin Viveros celebrou a vitória conquistada no Rio de Janeiro. O atacante ainda revelou que o clube tem um objetivo neste Cam",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/IMG_6017.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fifa confirma sorteio da Copa do Mundo Feminina de 2027 no MAM do Rio",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo-feminina/fifa-confirma-sorteio-da-copa-do-mundo-feminina-de-2027-no-mam-do-rio/",
-        "summary": "A Fifa confirmou nesta segunda-feira que o sorteio final da Copa do Mundo Feminina de 2027 será realizado na sexta-feira do dia 11 de dezembro de 2026, no Museu de Arte Moderna do Rio de Janeiro. O evento reunirá represe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/MailContentHandler.webp",
+        "title": "Santi Rodríguez aponta erros e cobra eficiência após derrota do Botafogo",
+        "link": "https://www.gazetaesportiva.com/times/botafogo/santi-rodriguez-aponta-erros-botafogo-derrota-athletico-pr/",
+        "summary": "Santi Rodríguez aponta erros defensivos e cobra mais eficácia do Botafogo após derrota por 3 a 2 para o Athletico-PR no Brasileirão. O post Santi Rodríguez aponta erros e cobra eficiência após derrota do Botafogo aparece",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55486659405_5006fec680_o-1.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,9 +247,9 @@
     ],
     "negocios": [
       {
-        "title": "Salário mínimo deverá subir para R$ 1.741 em 2027, diz Durigan",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027-diz-durigan",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027-diz-durigan img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "title": "Salário mínimo deverá subir para R$ 1.741 em 2027",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
         "image": null,
         "date": "25 de ago. de 2026",
         "source": "Agência Brasil",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Quaest: Moro lidera no PR com 37%; Requião e Sandro Alex estão empatados tecnicamente",
+        "link": "https://www.infomoney.com.br/politica/quaest-moro-lidera-com-37-requiao-e-sandro-alex-estao-empatados-tecnicamente/",
+        "summary": "Candidato do PDT aparece com 21%, contra 15% do deputado do PSD; Moro abre 16 pontos sobre o segundo colocado The post Quaest: Moro lidera no PR com 37%; Requião e Sandro Alex estão empatados tecnicamente appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/urna-eletronica.jpg?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quaest: Renan Filho tem 42% das intenções de votos em Alagoas, e JHC, 40%",
+        "link": "https://www.infomoney.com.br/politica/quaest-renan-filho-tem-42-das-intencoes-de-votos-em-alagoas-e-jhc-40/",
+        "summary": "Senador do MDB aparece numericamente à frente do prefeito de Maceió na primeira pesquisa da Quaest para a eleição estadual The post Quaest: Renan Filho tem 42% das intenções de votos em Alagoas, e JHC, 40% appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Votar-sem-o-titulo-de-eleitor-e1725918140128.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quaest: Zucco tem 26% e Juliana Brizola, 23%, em empate técnico em disputa no RS",
+        "link": "https://www.infomoney.com.br/politica/quaest-zucco-tem-26-e-juliana-brizola-23-em-empate-tecnico-em-disputa-no-rs/",
+        "summary": "Candidatos do PL e do PDT também aparecem empatados em simulação de segundo turno The post Quaest: Zucco tem 26% e Juliana Brizola, 23%, em empate técnico em disputa no RS appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/pesquisarsd.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quaest: Jorginho Mello lidera em SC com 50%, contra 17% de João Rodrigues",
+        "link": "https://www.infomoney.com.br/politica/quaest-jorginho-mello-lidera-disputa-em-sc-com-50-contra-17-de-joao-rodrigues/",
+        "summary": "Governador também aparece à frente nos dois cenários de segundo turno testados pela pesquisa The post Quaest: Jorginho Mello lidera em SC com 50%, contra 17% de João Rodrigues appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/01/lacracao-urnas-eletronicas_mcamgo_abr_210920221818-4.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Zema diz ser contra vacinação obrigatória e chama medida de “antidemocrática”",
         "link": "https://www.infomoney.com.br/politica/zema-diz-ser-contra-vacinacao-obrigatoria-e-chama-medida-de-antidemocratica/",
         "summary": "Candidato do Novo afirma estar com vacinas em dia e diz acreditar na ciência, mas rejeita punições para quem não se vacinar The post Zema diz ser contra vacinação obrigatória e chama medida de “antidemocrática” appeared ",
@@ -321,46 +361,6 @@
         "link": "https://www.infomoney.com.br/politica/zema-admite-flexibilizar-ajuste-fiscal-e-manter-regra-de-ganho-real-do-salario-minimo/",
         "summary": "Candidato do Novo diz que pode preservar política atual se contas estiverem equilibradas e adia mudanças na idade mínima da aposentadoria The post Zema admite flexibilizar ajuste fiscal e manter regra de ganho real do sa",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-24-222327.png?fit=300%2C194&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Oscar 2027: Brasil tem 15 filmes na disputa para escolher seu representante",
-        "link": "https://www.infomoney.com.br/consumo/oscar-2027-brasil-tem-15-filmes-na-disputa-para-escolher-seu-representante/",
-        "summary": "Academia Brasileira de Cinema divulgou os longas habilitados; pré-lista terá seis títulos e escolha final será anunciada em setembro The post Oscar 2027: Brasil tem 15 filmes na disputa para escolher seu representante ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/mirko-fabian-S_oSMDZ5Kbg-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Zema promete reposição da inflação no salário mínimo se for eleito",
-        "link": "https://www.infomoney.com.br/politica/zema-promete-reposicao-da-inflacao-no-salario-minimo-se-for-eleito/",
-        "summary": "Candidato do Novo diz que aposentados não terão perda e mantém promessa de privatizar Petrobras, BB e Caixa The post Zema promete reposição da inflação no salário mínimo se for eleito appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-24-221810.png?fit=300%2C195&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Após reunião com Lula, Durigan diz que salário mínimo será de R$ 1.741",
-        "link": "https://www.infomoney.com.br/economia/apos-reuniao-com-lula-durigan-diz-que-salario-minimo-sera-de-r-1-741/",
-        "summary": "Ministro nega desvinculação e afirma que o reajuste valerá para a Previdência e benefícios sociais The post Após reunião com Lula, Durigan diz que salário mínimo será de R$ 1.741 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-durigan-ministro-economia-06.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lotofácil hoje, concurso 3770: Confira o resultado sorteado nesta segunda-feira (24)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3770-confira-o-resultado-sorteado-nesta-segunda-feira-24/",
-        "summary": "O prêmio estimado para este concurso era de cerca de R$ 12 milhões The post Lotofácil hoje, concurso 3770: Confira o resultado sorteado nesta segunda-feira (24) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "25 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
