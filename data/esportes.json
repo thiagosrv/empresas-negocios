@@ -1,29 +1,7 @@
 {
-  "updated": "2026-08-25T17:45:03.074Z",
+  "updated": "2026-08-25T18:56:03.302Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Confia os melhores gols da semana da Liga Saudita",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/confia-os-melhores-gols-da-semana-da-liga-saudita/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de ago. de 2026",
-      "isoDate": "2026-08-25",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Confira a primeira vitória de Filipe Luís na Ligue 1",
-      "link": "https://www.gazetaesportiva.com/times/monaco/confira-a-primeira-vitoria-de-filipe-luis-na-ligue-1/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de ago. de 2026",
-      "isoDate": "2026-08-25",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Confira os melhores gols da semana da MLS",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-mls-7/",
@@ -33,7 +11,7 @@
       "isoDate": "2026-08-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Confira as melhores defesas da semana da MLS",
@@ -44,7 +22,7 @@
       "isoDate": "2026-08-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Manchester United anuncia reforço para substituir Casemiro",
@@ -55,7 +33,7 @@
       "isoDate": "2026-08-25",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Savinho revela primeira conversa com De Zerbi no Tottenham",
@@ -66,7 +44,7 @@
       "isoDate": "2026-08-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Fonseca sobre Fofana: &#8220;Se outros clubes o quiserem, vão ter que pagar caro&#8221;",
@@ -77,7 +55,7 @@
       "isoDate": "2026-08-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Xavi promete devolver futebol ofensivo à seleção holandesa",
@@ -88,6 +66,28 @@
       "isoDate": "2026-08-25",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-abha-1-x-1-al-khaleej-pelo-saudita/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de ago. de 2026",
+      "isoDate": "2026-08-25",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-fayha-pelo-saudita/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de ago. de 2026",
+      "isoDate": "2026-08-25",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
