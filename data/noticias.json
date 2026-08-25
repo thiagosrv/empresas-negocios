@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-25T17:34:44.561Z",
+  "updated": "2026-08-25T18:43:53.270Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "VÍDEO mostra motorista de caminhão mexendo no celular antes de matar homem atropelado na SP-304",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/video-mostra-motorista-caminhao-mexendo-celular-antes-matar-homem-atropelado-sp-304.ghtml",
+        "summary": "Motorista de caminhão mexe no celular antes de matar homem atropelado na SP-304 Um motorista de caminhão, identificado como Vanderlei Meira de Jesus, mexeu no telefone celular segundos antes de matar um homem atropelado ",
+        "image": "https://s2-g1.glbimg.com/4_W0xpo6M9FDbRYvsyoj8Kt33u8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/k/FhiXPeQByjcifwBtgg6A/copia-de-area-1-73-.png",
+        "date": "25 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "VÍDEO: Bióloga encontra família de sauás no quintal e se emociona com filhote",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/25/biologa-encontra-familia-de-sauas-no-quintal-e-se-emociona-com-filhote.ghtml",
@@ -15,7 +25,7 @@
       {
         "title": "Projeto que autoriza parcelamento de dívidas com Camprev é aprovado em 2ª votação e vai à sanção em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/projeto-que-autoriza-parcelamento-de-dividas-com-camprev-e-aprovado-em-2a-votacao.ghtml",
-        "summary": "A Câmara de Campinas (SP) aprovou, em segunda discussão nesta terça-feira (25), o projeto de lei complementar que autoriza o parcelamento e reparcelamento de dívidas junto ao Instituto de Previdência Social de Campinas (",
+        "summary": "Projeto foi aprovado em sessão extraordinária nesta terça Câmara de Campinas A Câmara de Campinas (SP) aprovou, em segunda discussão nesta terça-feira (25), o projeto de lei complementar que autoriza o parcelamento e rep",
         "image": "https://s2-g1.glbimg.com/-OqFHWVs6PUJWdi7ABW7k0idPsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/o/6j0tsVS0WikufgEg0txA/55485213332-c1f78da585-k.jpg",
         "date": "25 de ago. de 2026",
         "source": "G1 Campinas",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/jovem-fica-gravemente-ferido-apos-ser-atingido-por-placas-de-madeira-no-primeiro-dia-de-trabalho-em-campinas.ghtml",
         "summary": "Jovem fica gravemente ferido após ser atingido por placas de madeira no primeiro dia de trabalho em Campinas Reprodução/EPTV Um homem de 23 anos ficou gravemente ferido após sofrer um acidente de trabalho, na manhã desta",
         "image": "https://s2-g1.glbimg.com/xq3GeLJZHbCCqZJh74ANWk4yrvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/dsqasHSuCGcdmUjIYNnA/design-sem-nome-15-.png",
-        "date": "25 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dia do Feirante: de geração em geração, região de Campinas soma 10,7 mil negócios ligados às feiras",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/dia-do-feirante-de-geracao-em-geracao-regiao-de-campinas-soma-107-mil-negocios-ligados-as-feiras.ghtml",
-        "summary": "Barraca 'Dona Amélia' no ano de 1989, em Campinas Arquivo pessoal/Sérgio Nacazato Às 4h30 da manhã, enquanto boa parte da cidade de Campinas (SP) ainda dormia, Sérgio Nacazato chegava à feira para montar, pela primeira v",
-        "image": "https://s2-g1.glbimg.com/fvAoUk7M-3EthLiXZTaAKu_AIuk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/E/LMKSW3Tqm8bqLEEhSM0A/dona.png",
         "date": "25 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Entidade cobra compromisso de candidatos com direitos da natureza",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/entidade-cobra-compromisso-de-candidatos-com-direitos-da-natureza",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/entidade-cobra-compromisso-de-candidatos-com-direitos-da-natureza img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "SUS: mulheres em situação de violência têm teleatendimento psicológico",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-mulheres-em-situacao-de-violencia-tem-teleatendimento-psicologico",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-mulheres-em-situacao-de-violencia-tem-teleatendimento-psicologico img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Saiba os sintomas e os tratamentos para a febre do Nilo Ocidental",
         "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saiba-os-sintomas-e-os-tratamentos-para-febre-do-nilo-ocidental",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saiba-os-sintomas-e-os-tratamentos-para-febre-do-nilo-ocidental img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Pé-de-Meia 2026: nascidos em março e abril recebem parcela nesta terça",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-2026-nascidos-em-marco-e-abril-recebem-parcela-nesta-terca",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-2026-nascidos-em-marco-e-abril-recebem-parcela-nesta-terca img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil promete restaurar 163 mil km² de terras degradadas até 2030",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasil-promete-restaurar-163-mil-km2-de-terras-degradadas-ate-2030",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/brasil-promete-restaurar-163-mil-km2-de-terras-degradadas-ate-2030 img src= https://cdn.jsdelivr.net/gh/sergiosd",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Entenda Doença de Creutzfeldt-Jakob, diagnóstico do piloto Lito Souza",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/entenda-doenca-de-creutzfeldt-jakob-diagnostico-do-piloto-lito-souza",
-        "summary": "p strong A comunidade científica tem, até o momento, mais perguntas e hipóteses do que certezas absolutas a respeito da a href= https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dcj target= _blank Doença de Creutz",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Palmeiras anuncia contratação do goleiro Bruno Bertinato; veja detalhes",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-contratacao-do-goleiro-bruno-bertinato-veja-detalhes/",
-        "summary": "O Palmeiras anunciou nesta terça-feira a contratação do goleiro Bruno Bertinato. O jogador, de 28 anos, chega ao clube após se destacar pela Portuguesa e passa a integrar o elenco alviverde para a sequência da temporada.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/FTM_9389-1024x576-1.webp",
+        "title": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-taawoun-0-x-0-al-fayha-pelo-saudita/",
+        "summary": "Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita O post Melhores momentos: Al Taawoun 0 x 0 Al Fayha pelo Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/4mghxep9-1920-Taawoun.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Xavi promete devolver futebol ofensivo à seleção holandesa",
-        "link": "https://www.gazetaesportiva.com/times/holanda/xavi-promete-devolver-futebol-ofensivo-a-selecao-holandesa/",
-        "summary": "Xavi Hernández foi apresentado como novo técnico da seleção dos Países Baixos e afirmou que pretende resgatar o tradicional estilo ofensivo da equipe, acreditando que um futebol mais agressivo e dominante aumentará as ch",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260825__C6GM3G4__v1__HighRes__FblNedXavi.webp",
+        "title": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-abha-1-x-1-al-khaleej-pelo-saudita/",
+        "summary": "Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita O post Melhores momentos: Abha 1 x 1 Al Khaleej pelo Saudita apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/1y6b629o-1920Khaleej.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fonseca sobre Fofana: Se outros clubes o quiserem, vão ter que pagar caro",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/fonseca-sobre-fofana-se-outros-clubes-o-quiserem-vao-ter-que-pagar-caro/",
-        "summary": "Paulo Fonseca destacou a força mental e o foco de Malick Fofana no Lyon, deixando claro aos interessados que o ponta não será vendido barato. O post Fonseca sobre Fofana: Se outros clubes o quiserem, vão ter que pagar ca",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/5derpqpj-1920Paulo-Fonseca.webp",
+        "title": "Rio Open anuncia ampliação do complexo para receber maior público em 2027",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/rio-open-ampliacao-jockey-club-2027/",
+        "summary": "O Rio Open anunciou uma grande expansão de sua estrutura no Jockey Club Brasileiro a partir da edição de 2027. A ampliação aumentará a área total do complexo de 40 mil m² para 67 mil m², além de elevar significativamente",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ro_mapa_0021.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Savinho revela primeira conversa com De Zerbi no Tottenham",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/savinho-revela-primeira-conversa-com-de-zerbi-no-tottenham/",
-        "summary": "Savinho celebra a chegada ao Tottenham e revela os detalhes da conversa com Roberto De Zerbi que o convenceu a assinar com o clube. O post Savinho revela primeira conversa com De Zerbi no Tottenham apareceu primeiro em G",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/9n8cjtem-1920Savinho.webp",
+        "title": "Chelsea encaminha acerto pela venda de Delap ao Nottingham Forest",
+        "link": "https://www.gazetaesportiva.com/times/chelsea/chelsea-encaminha-acerto-pela-venda-de-delap-ao-nottingham-forest/",
+        "summary": "O atacante Liam Delap está próximo de deixar o Chelsea e partir para o Nottingham Forest. Nesta terça-feira, os clubes entraram em acordo para negociar o jogador de 23 anos, e a equipe londrina deve embolsar cerca de 45 ",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/09/liam-delap_chelsea.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians negocia venda de André ao Nottingham Forest; veja detalhes",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-negocia-venda-de-andre-ao-nottingham-forest-veja-detalhes/",
-        "summary": "André pode deixar o Corinthians e partir rumo ao Nottingham Forest, da Inglaterra. O Timão recebeu uma proposta do clube da Premier League e negocia os valores pela venda do jovem volante de 20 anos. O post Corinthians n",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/247187-1.webp",
+        "title": "Santos avança em tratativas por Arthur, mas vê entrave; entenda situação",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-arthur-melo-negociacao-transfer-ban/",
+        "summary": "O Santos avançou nas tratativas pela contratação de Arthur Melo, mas a negociação está paralisada por causa do transfer ban. Antes de resolver a punição, o Peixe prioriza o pagamento dos direitos de imagem atrasados do e",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/HK9EVgMWYAAtOWJ.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Manchester United anuncia reforço para substituir Casemiro",
-        "link": "https://www.gazetaesportiva.com/times/manchester-united/manchester-united-anuncia-contratacao-carlos-baleba/",
-        "summary": "O Manchester United anunciou a contratação do volante camaronês Carlos Baleba, de 22 anos, ex-Brighton, como reforço para a temporada. Alvo antigo dos Red Devils, o jogador chega para reforçar o meio-campo após a saída d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/media_120944594_120558016_compressed-1.webp",
+        "title": "Flamengo negocia a venda de Gonzalo Plata para o futebol russo",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-negocia-a-venda-de-gonzalo-plata-para-o-futebol-russo/",
+        "summary": "O atacante Gonzalo Plata, de 25 anos, pode deixar o Flamengo nesta janela de transferências. O Dínamo Moscou, da Rússia, acompanha o jogador e negocia um acordo financeiro com o clube carioca, enquanto a imprensa russa a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55219900765_c3d3112531_o.webp",
         "date": "25 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "25 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Beneficiários com NIS de final 6 recebem Bolsa Família de agosto",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-6-recebem-bolsa-familia-de-agosto",
@@ -297,74 +307,124 @@
         "cls": ""
       },
       {
-        "title": "Banco do Brasil lança novo aplicativo com foco em IA e personalização",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-do-brasil-lanca-novo-aplicativo-com-foco-em-ia-e-personalizacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-do-brasil-lanca-novo-aplicativo-com-foco-em-ia-e-personalizacao img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "PT lança vaquinha para financiar campanha de Lula à reeleição",
+        "link": "https://www.infomoney.com.br/politica/pt-lanca-vaquinha-para-financiar-campanha-de-lula-a-reeleicao/",
+        "summary": "Plataforma aceita doações entre R$ 13 e R$ 1.064; petista já usou financiamento coletivo nas campanhas de 2018 e 2022 The post PT lança vaquinha para financiar campanha de Lula à reeleição appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-16T154149Z_1196470336_RC2RZMARSR4D_RTRMADP_3_BRAZIL-ELECTION-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe aos 173 mil pontos; VALE3 tem mais de 1%",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25082026/",
+        "summary": "Bolsas dos EUA avançam à espera de balanço de Nvidia e dados de inflação The post Ibovespa Hoje Ao Vivo: Bolsa sobe aos 173 mil pontos; VALE3 tem mais de 1% appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-12.png?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "LeBron captou US$ 300 milhões com seguradoras em operação estruturada pela Guggenheim",
+        "link": "https://www.infomoney.com.br/business/lebron-captou-us-300-milhoes-com-seguradoras-em-operacao-estruturada-pela-guggenheim/",
+        "summary": "Astro da NBA usou receitas futuras, incluindo contratos de patrocínio fora das quadras, como garantia para obter financiamento de longo prazo junto a seguradoras americanas The post LeBron captou US$ 300 milhões com segu",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/465585776.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Regras no trânsito: o que vale para bikes elétricas e modais em SP a partir do dia 28",
+        "link": "https://www.infomoney.com.br/brasil/regras-no-transito-o-que-vale-para-bikes-eletricas-e-modais-em-sp-a-partir-do-dia-28/",
+        "summary": "Aumento da circulação de equipamentos na cidade provocou mudanças nas leis de trânsito The post Regras no trânsito: o que vale para bikes elétricas e modais em SP a partir do dia 28 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/d6a8304.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "InfoMoney e Rico lançam série grátis para quem quer entender a Bolsa sem complicação",
+        "link": "https://www.infomoney.com.br/onde-investir/infomoney-e-rico-lancam-serie-gratis-para-quem-quer-entender-a-bolsa-sem-complicacao/",
+        "summary": "Conteúdo reúne aulas e materiais que explicam conceitos fundamentais do mercado acionário para iniciantes The post InfoMoney e Rico lançam série grátis para quem quer entender a Bolsa sem complicação appeared first on In",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/promo-1200x675-iab-so-imagem.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Squadra reduz fatia na Hapvida, e fala em maior erro de investimento de sua história",
+        "link": "https://www.infomoney.com.br/mercados/squadra-reduz-fatia-na-hapvida-e-fala-em-maior-erro-de-investimento-de-sua-historia/",
+        "summary": "Ações da companhia acumulam queda de 44% no mês e de 57% em 2026 The post Squadra reduz fatia na Hapvida, e fala em maior erro de investimento de sua história appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-02-170330.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "25 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Adeus a Dolly Parton: relembre as 10 músicas mais marcantes da carreira da cantora",
+        "link": "https://exame.com/pop/adeus-a-dolly-parton-relembre-as-10-musicas-mais-marcantes-da-carreira-da-cantora/",
+        "summary": "Entre suas obras mais conhecidas estão “Jolene”, “Coat of Many Colors” e “I Will Always Love You”",
         "image": null,
-        "date": "24 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "25 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Mesmo com saída recorde de estrangeiros, o que fez Ibovespa subir?",
-        "link": "https://www.infomoney.com.br/mercados/mesmo-com-saida-recorde-de-estrangeiros-o-que-fez-ibovespa-subir/",
-        "summary": "Após semanas de fluxo estrangeiro negativo e com recorde de saídas desde que os dados são acompanhados, a alta do índice fez investidores questionaram se a tendência teria revertido The post Mesmo com saída recorde de es",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ibovespa-acoes-alta.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Por que o Brasil não consegue formar especialistas em IA na velocidade que o mercado pede",
+        "link": "https://exame.com/inteligencia-artificial/por-que-o-brasil-nao-consegue-formar-especialistas-em-ia-na-velocidade-que-o-mercado-pede/",
+        "summary": "País forma cerca de 53 mil profissionais de tecnologia por ano, mas demanda anual estimada chegou a 159 mil, segundo levantamento da Brasscom",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Ibovespa vira para alta, mesmo com queda do petróleo derrubando petroleiras",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-25082026/",
-        "summary": "O índice chega ao final da manhã perto da estabilidade, prejudicado pelas perdas das ações da Petrobras, porém com mais da metade dos demais componentes em alta The post Ibovespa vira para alta, mesmo com queda do petról",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1432118810.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
+        "title": "Dolly Parton e Stranger Things: relembre o clássico da cantora que o seriado reviveu",
+        "link": "https://exame.com/pop/dolly-parton-e-stranger-things-relembre-o-classico-da-cantora-que-o-seriado-reviveu/",
+        "summary": "Lançada em 1983, a canção foi originalmente gravada para o álbum Eyes That See in the Dark, de Kenny Rogers, um dos maiores nomes do country de todos os tempos",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Brasil e EUA marcam reunião para negociar tarifas após ligação de Lula e Trump",
-        "link": "https://www.infomoney.com.br/politica/brasil-e-eua-marcam-reuniao-para-negociar-tarifas-apos-ligacao-de-lula-e-trump/",
-        "summary": "Márcio Elias Rosa e Jamieson Greer terão reunião virtual após conversa entre Lula e Trump; governo quer ampliar lista de produtos brasileiros isentos The post Brasil e EUA marcam reunião para negociar tarifas após ligaçã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55254428527_9d23f35f64_k.jpg?fit=300%2C181&amp;quality=70&amp;strip=all",
+        "title": "Após telefonema entre Lula e Trump, Brasil e EUA marcam nova reunião sobre tarifaço",
+        "link": "https://exame.com/brasil/apos-telefonema-entre-lula-e-trump-brasil-e-eua-marcam-nova-reuniao-sobre-tarifaco/",
+        "summary": "Governo brasileiro tenta driblar influência de Rubio sobre política tarifária",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Geração Z investe mais cedo e é mais conservadora do que se imagina, diz estudo",
-        "link": "https://www.infomoney.com.br/onde-investir/geracao-z-investe-mais-cedo-e-e-mais-conservadora-do-que-se-imagina-diz-estudo/",
-        "summary": "Levantamento do braço de pesquisa da Binance aponta que investidores nascidos entre 1997 e 2012 usam menos alavancagem e têm mais educação financeira formal que as gerações anteriores The post Geração Z investe mais cedo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/vitaly-gariev-7xQq-oEkO6s-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "De Miley Cyrus a Beyoncé: como Dolly Parton influenciou o pop",
+        "link": "https://exame.com/pop/de-miley-cyrus-a-beyonce-como-dolly-parton-influenciou-o-pop/",
+        "summary": "A cantora morreu nesta terça-feira, 25, aos 80 anos; a morte foi confirmada pela família da artista por meio de um vídeo publicado nas redes sociais.",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Futuro embaixador dos EUA diz que não interferirá na eleição brasileira",
-        "link": "https://www.infomoney.com.br/politica/futuro-embaixador-dos-eua-diz-que-nao-interferira-na-eleicao-brasileira/",
-        "summary": "Daniel Perez, já aprovado pelo Senado dos EUA, ainda aguarda aval do governo Lula para assumir a embaixada em Brasília The post Futuro embaixador dos EUA diz que não interferirá na eleição brasileira appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Screenshot-2026-06-01-183031.png?fit=300%2C208&amp;quality=70&amp;strip=all",
+        "title": "Dolly Parton, cantora de 'Jolene' e 'I Will Always Love You', morre aos 80 anos",
+        "link": "https://exame.com/pop/dolly-parton-cantora-de-jolene-e-i-will-always-love-you-morre-aos-80-anos/",
+        "summary": "Família da cantora confirmou a morte em um vídeo publicado nas redes sociais nesta terça-feira",
+        "image": null,
         "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "InfoMoney se une à Palco! Network para atrair anunciantes além do setor financeiro",
-        "link": "https://www.infomoney.com.br/business/infomoney-se-une-a-palco-network-para-atrair-anunciantes-alem-do-setor-financeiro/",
-        "summary": "Parceria mira marcas de tecnologia, saúde e automotivo com novos formatos de branded content The post InfoMoney se une à Palco! Network para atrair anunciantes além do setor financeiro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/InfoMoney-Logo-_-Leo-Albertino.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "25 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       }
     ]
   }
