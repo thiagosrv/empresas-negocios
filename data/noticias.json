@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-26T12:59:34.919Z",
+  "updated": "2026-08-26T13:59:29.727Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Quem era o jovem morto após ser atingido por 300 kg de madeira no primeiro dia de trabalho",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/26/quem-era-o-jovem-que-morreu-apos-ser-atingido-por-300-kg-de-madeira-em-campinas.ghtml",
+        "summary": "Cauã Godoy morreu após ser atingido por placas de madeira Redes sociais Cauã Godoy, de 23 anos, morreu após ser atingido por cerca de 300 kg de placas de madeira enquanto trabalhava em uma marcenaria no Jardim São Gabrie",
+        "image": "https://s2-g1.glbimg.com/vbbcCoN0hh1HscHmn4C0kz-eHMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/OSh3ETTwWIB2AJOFaUHg/caua.png",
+        "date": "26 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Harpia é flagrada predando macaco-guariba; \"não consegui entender o que que era\", diz biólogo",
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/26/harpia-e-flagrada-predando-macaco-guariba-nao-consegui-entender-o-que-que-era-diz-biologo.ghtml",
@@ -48,16 +58,6 @@
         "summary": "Motorista de ônibus ajuda mulher a fugir de tentativa de atropelamento em Campinas Um motorista de ônibus ajudou uma mulher a escapar de uma tentativa de atropelamento na manhã desta terça-feira (25), no Parque Floresta,",
         "image": "https://s2-g1.glbimg.com/Ft9B-7gcgMN02Hucotee5EHjs5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/AagFTWQvmcuOSIyqTokQ/mulher-tentativa-atropelamento.png",
         "date": "26 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Tentativa de assalto a farmácia termina com criminoso morto baleado em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/ocorrencia-mobiliza-pm-e-bombeiros-em-farmacia-de-campinas.ghtml",
-        "summary": "Tentativa de assalto a farmácia termina com criminoso baleado em Campinas Uma tentativa de assalto terminou com um criminoso morto baleado em uma farmácia no Jardim Nova Europa, em Campinas (SP), na noite desta terça-fei",
-        "image": "https://s2-g1.glbimg.com/NTNf8bVQ7oVcVS-JTLBBOeGOaYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/47kUGpQNA61uKQd8i6Ig/whatsapp-image-2026-08-25-at-20.13.58-2-.jpeg",
-        "date": "25 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Prévia da inflação fica em -0,40%, a menor desde agosto de 2022",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "26 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Anvisa atualiza regras de segurança sanitária para aviões e aeroportos",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anvisa-atualiza-regras-de-seguranca-sanitaria-para-avioes-e-aeroportos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anvisa-atualiza-regras-de-seguranca-sanitaria-para-avioes-e-aeroportos img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "26 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Centro-Oeste tem três alertas ativos para chuvas e baixa umidade",
         "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/centro-oeste-tem-tres-alertas-ativos-para-chuvas-e-baixa-umidade",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/centro-oeste-tem-tres-alertas-ativos-para-chuvas-e-baixa-umidade img src= https://cdn.jsdelivr.net/gh/sergiosdli",
@@ -161,29 +181,59 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Candidaturas negras avançam e se aproximam de perfil racial do país",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Olimpíada de educação financeira tem última semana de inscrições",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Domínguez aprova atuação do Atlético em clássico: Fiquei contente",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/dominguez-aprova-atuacao-do-atletico-em-classico-fiquei-contente/",
+        "summary": "Domínguez aprova atuação do Atlético em clássico: \"Fiquei contente\" O post Domínguez aprova atuação do Atlético em clássico: Fiquei contente apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Eduardo-Dominguez.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Confira imagens do último treino do Vasco para pegar o Vitória pela Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-imagens-do-ultimo-treino-do-vasco-para-pegar-o-vitoria-pela-copa-do-brasil/",
+        "summary": "Vasco vira a chave e inicia preparação para quartas da Copa do Brasil O post Confira imagens do último treino do Vasco para pegar o Vitória pela Copa do Brasil apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/cha.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Julián Álvarez não se reapresenta ao Atlético de Madrid e volta a alimentar rumores de saída",
+        "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/julian-alvarez-nao-se-reapresenta-ao-atletico-de-madrid-e-volta-a-alimentar-rumores-de-saida/",
+        "summary": "Julián Álvarez voltou a ser o centro das atenções no mercado da bola após não se reapresentar ao Atlético de Madrid nesta quarta-feira. Em meio ao interesse do Barcelona, a ausência do atacante argentino aumentou as espe",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/04/3AN8FKJ.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Ezri Konsa é apresentado no Emirates Stadium",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/ezri-konsa-e-apresentado-no-emirates-stadium/",
+        "summary": "Ezri Konsa é apresentado no Emirates Stadium O post Ezri Konsa é apresentado no Emirates Stadium apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Ezri-Konsa.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Ex-City e Chelsea é acusado de direção perigosa e posse de gás do riso",
+        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/raheem-sterling-acusado-direcao-perigosa-e-posse-de-gas-do-riso/",
+        "summary": "O atacante Raheem Sterling foi acusado pela polícia britânica de direção perigosa, posse de óxido nitroso e recusa em fornecer uma amostra após um acidente ocorrido em 28 de maio na rodovia M3, no sul da Inglaterra. Segu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/chelsea-fc-v-manchester-city-pre-season-friendly-raheem-sterling-chelsea-scaled-1.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Manchester City anuncia o marroquino Bouaddi por mais de R$ 600 milhões",
         "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-anuncia-o-marroquino-bouaddi-por-mais-de-r-600-milhoes/",
@@ -193,59 +243,19 @@
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
-      },
-      {
-        "title": "Pineda coloca o Monterrey na semifinal da Leagues Cup; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/pineda-coloca-o-monterrey-na-semifinal-da-leagues-cup-veja-o-lance/",
-        "summary": "Pineda coloca o Monterrey na semifinal da Leagues Cup; veja o lance O post Pineda coloca o Monterrey na semifinal da Leagues Cup; veja o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Pine.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Time saudita entra na briga para tirar Richard Ríos do Benfica",
-        "link": "https://www.gazetaesportiva.com/times/benfica/richard-rios-entra-na-mira-de-clubes-da-europa-e-arabia-saudita/",
-        "summary": "Richard Ríos pode estar atraindo interesse de diversos clubes europeus e do futebol saudita após ganhar destaque no Benfica. Segundo a imprensa portuguesa, Roma, Getafe e Bournemouth acompanham a situação do meio-campist",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/04/AFP__20260425__A8YG228__v2__MidRes__TopshotFblPorLigaBenficaMoreirense.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras faz 112 anos com clássico, uniforme novo e retrospecto favorável no aniversário",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/em-seu-aniversario-de-112-anos-palmeiras-recebe-o-santos-pelas-quartas-da-copa-do-brasil/",
-        "summary": "No dia em que completa 112 anos de história, o Palmeiras recebe o Santos pelo jogo de ida das quartas de final da Copa do Brasil. Às vésperas do clássico, o goleiro Carlos Miguel celebrou seu primeiro ano no clube e dest",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/02052026_cg_palmeiras_5599_41.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "De Zerbi explica por que o Tottenham gastou alto para contratar Savinho",
-        "link": "https://www.gazetaesportiva.com/times/tottenham/de-zerbi-explica-por-que-o-tottenham-gastou-alto-para-contratar-savinho/",
-        "summary": "De Zerbi explica por que o Tottenham gastou alto para contratar Savio O post De Zerbi explica por que o Tottenham gastou alto para contratar Savinho apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/De-Zerbi.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras completa 112 anos! Relembre em fotos a história do clube",
-        "link": "https://www.gazetaesportiva.com/fotos/palmeiras-completa-112-anos-relembre-em-fotos-a-historia-do-clube/",
-        "summary": "Palmeiras completa 112 anos! Relembre em fotos a história do clube O post Palmeiras completa 112 anos! Relembre em fotos a história do clube apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2015/08/26/00181688.jpg",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Prévia da inflação fica em -0,40%, a menor desde agosto de 2022",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "image": null,
+        "date": "26 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Fila de espera do INSS cai para 1,2 milhão de requerimentos",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fila-de-espera-do-inss-cai-para-12-milhao-de-requerimentos",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Prévia da inflação surpreende e derruba taxas do Tesouro Direto nesta quarta",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abre-fecha-26082026/",
-        "summary": "Taxas recuam de forma generalizada após deflação de 0,40% no IPCA-15, ante expectativa de 0,30% The post Prévia da inflação surpreende e derruba taxas do Tesouro Direto nesta quarta appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/notas-de-50-reais-4.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Flávio convoca ato de 7 de Setembro na Paulista e retoma palco histórico de Bolsonaro",
+        "link": "https://www.infomoney.com.br/politica/flavio-convoca-ato-de-7-de-setembro-na-paulista-e-retoma-palco-historico-de-bolsonaro/",
+        "summary": "Avenida foi usada repetidamente pelo ex-presidente para mobilizar apoiadores e agora entra na estratégia do filho na disputa pelo Planalto The post Flávio convoca ato de 7 de Setembro na Paulista e retoma palco histórico",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-flavio-bolsonaro-pl-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "PIB dos EUA tem alta anualizada de 1,5% no 2º tri de 2026",
-        "link": "https://www.infomoney.com.br/economia/pib-dos-eua-tem-alta-anualizada-de-15-no-2o-tri-de-2026/",
-        "summary": "O crescimento econômico dos Estados Unidos desacelerou no segundo trimestre em meio ao aumento do déficit comercial The post PIB dos EUA tem alta anualizada de 1,5% no 2º tri de 2026 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/2024-07-11T124744Z_1_LYNXMPEK6A0FS_RTROPTP_4_USA-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Emenda parlamentar banca R$ 800 mil de cachê de Ana Castela em cidade do RJ",
+        "link": "https://www.infomoney.com.br/politica/emenda-parlamentar-banca-r-800-mil-de-cache-de-ana-castela-em-cidade-do-rj/",
+        "summary": "Apresentação na Expo São Fidélis será financiada com recursos de emenda parlamentar indicada por Dani Cunha e contrapartida da prefeitura The post Emenda parlamentar banca R$ 800 mil de cachê de Ana Castela em cidade do ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/ana-castela.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa sobe com dados de inflação em foco",
         "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26082026/",
-        "summary": "Índices futuros dos EUA operam mistos com PCE dentro do esperado The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-12.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "summary": "Bolsas dos EUA operam com viés de baixa com PCE dentro do esperado The post Ibovespa Hoje Ao Vivo: Bolsa sobe com dados de inflação em foco appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-43.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TRE-SP derruba uma das inelegibilidades de Pablo Marçal; outras ações continuam",
-        "link": "https://www.infomoney.com.br/politica/tre-sp-derruba-uma-das-inelegibilidades-de-pablo-marcal-outras-acoes-continuam/",
-        "summary": "Corte afastou condenação por abuso de poder e uso indevido dos meios de comunicação, mas candidato ainda enfrenta processo que o mantém inelegível até 2032 The post TRE-SP derruba uma das inelegibilidades de Pablo Marçal",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Pablo_Marcal.png?fit=300%2C206&amp;quality=70&amp;strip=all",
+        "title": "Dólar hoje sobe com dados de inflação dos EUA no radar antes de Jackson Hole",
+        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-26082026/",
+        "summary": "No Brasil, o Índice Nacional de Preços ao Consumidor Amplo-15 (IPCA-15), prévia da inflação oficial, caiu 0,40% em agosto de 2026 The post Dólar hoje sobe com dados de inflação dos EUA no radar antes de Jackson Hole appe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/448264696.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ecopetrol assume Brava e prioriza governança, caixa e desalavancagem; entenda",
-        "link": "https://www.infomoney.com.br/mercados/ecopetrol-assume-brava-e-prioriza-governanca-caixa-e-desalavancagem-entenda/",
-        "summary": "Após adquirir 51% da companhia, petroleira colombiana vê espaço para reduzir custos, elevar eficiência operacional e destravar valor das reservas da Brava no médio e longo prazo The post Ecopetrol assume Brava e prioriza",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/brava-_energia.png?fit=300%2C196&amp;quality=70&amp;strip=all",
+        "title": "Eduardo Bolsonaro ironiza saída da Häagen-Dazs do Brasil: “É culpa do Bolsonaro!”",
+        "link": "https://www.infomoney.com.br/politica/eduardo-bolsonaro-ironiza-saida-da-haagen-dazs-do-brasil-e-culpa-do-bolsonaro/",
+        "summary": "Marca encerrou distribuição após quase 30 anos; dona atribui decisão a uma reformulação global do portfólio iniciada em março The post Eduardo Bolsonaro ironiza saída da Häagen-Dazs do Brasil: “É culpa do Bolsonaro!” app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/eduardo-bolsonaro-pl.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Jornada de 40 horas pode elevar custos de empresas em quase 7%, aponta estudo",
-        "link": "https://www.infomoney.com.br/economia/jornada-de-40-horas-pode-elevar-custos-de-empresas-em-quase-7-aponta-estudo/",
-        "summary": "Levantamento da Íntegra Associados estima que 23,4 milhões de empregos formais seriam alcançados pela redução da jornada The post Jornada de 40 horas pode elevar custos de empresas em quase 7%, aponta estudo appeared fir",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-24T194831Z_1_LYNXMPEM2N18T_RTROPTP_4_BRAZIL-BRASILIA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "MPT processa Uber em R$ 321 milhões por taxa cobrada a motoristas para trabalharem",
+        "link": "https://www.infomoney.com.br/brasil/mpt-processa-uber-em-r-321-milhoes-por-taxa-cobrada-a-motoristas-para-trabalharem/",
+        "summary": "Órgão destaca que mecanismo de cobrança pode gerar uma estrutura de endividamento permanente para motoristas que utilizam a plataforma The post MPT processa Uber em R$ 321 milhões por taxa cobrada a motoristas para traba",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/2024-05-23T200401Z_1_LYNXMPEK4M0TX_RTROPTP_3_BRASIL-UBER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Não existe poder computacional capaz de derrubar a rede do bitcoin, diz executivo da Lenovo",
-        "link": "https://exame.com/future-of-money/nao-existe-poder-computacional-capaz-de-derrubar-a-rede-do-bitcoin-diz-executivo-da-lenovo/",
-        "summary": "Empresa diz que nem mesmo as melhores máquinas serão capazes de trazer risco à criptomoeda no curto prazo",
+        "title": "O que aconteceu no Nepal hoje? 4 pontos sobre os deslizamentos no país",
+        "link": "https://exame.com/mundo/o-que-aconteceu-no-nepal-hoje-4-pontos-sobre-os-deslizamentos-no-pais/",
+        "summary": "Terremoto pode ter provocado deslizamento que bloqueou rio e desencadeou enxurrada em região usada por peregrinos e turistas",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "A Oi ainda pode escapar da falência? O que dizem os advogados",
-        "link": "https://exame.com/invest/mercados/a-oi-ainda-pode-escapar-da-falencia-o-que-dizem-os-advogados/",
-        "summary": "Recurso que suspendeu a primeira falência já foi esgotado, e reverter a decisão agora depende de convencer o STJ a derrubar um acórdão unânime",
+        "title": "Na 4ª edição do Asaas Connect, a meta é fazer o empresário sair ‘melhor do que entrou’",
+        "link": "https://exame.com/negocios/4a-edicao-asaas-connect-empresario/",
+        "summary": "Com gravação ao vivo do Shark Tank Brasil, evento ocorre no dia 14 de outubro, em São Paulo, reúne mais de 30 palestrantes e feira de negócios",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "IPCA-15 de agosto cai 0,40%, com inflação em 12 meses a 4,24%",
-        "link": "https://exame.com/economia/ipca-15-de-agosto-cai-040-com-inflacao-em-12-meses-a-424/",
-        "summary": "Queda de habitação e transportes leva IPCA-15 a registrar deflação em agosto",
+        "title": "Meta faz acordo de US$ 16,7 bilhões em caso sobre dependência de menores nas redes sociais",
+        "link": "https://exame.com/tecnologia/meta-faz-acordo-de-us-167-bilhoes-em-caso-sobre-dependencia-de-menores-nas-redes-sociais/",
+        "summary": "Acordo com 29 estados dos EUA prevê limites de uso e novas medidas de proteção para adolescentes no Facebook e Instagram",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Muitos empregos vão desaparecer': os 3 maiores riscos da era da IA, segundo Bill Gates",
-        "link": "https://exame.com/inteligencia-artificial/muitos-empregos-vao-desaparecer-os-3-maiores-riscos-da-era-da-ia-segundo-bill-gates/",
-        "summary": "Em ensaio de quase 12 páginas, cofundador da Microsoft lista três riscos que considera subestimados por líderes mundiais e propõe empregos reservados a humanos e taxação de tokens de IA",
+        "title": "Por que a geração Z está renascendo a Abercrombie e a Hollister",
+        "link": "https://exame.com/casual/por-que-a-geracao-z-esta-renascendo-a-abercrombie-e-a-hollister/",
+        "summary": "Geração que ainda estava na escola quando as duas marcas eram símbolo de status adolescente agora garimpa peças antigas em sites de brechó e ajuda a puxar resultados recordes da companhia",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Preço do barril do petróleo ainda pode superar US$ 100, afirmam gestores",
-        "link": "https://exame.com/invest/mercados/preco-do-barril-do-petroleo-ainda-pode-superar-us-100-afirmam-gestores/",
-        "summary": "Gestores veem estoques baixos de diesel e queda do xisto dos EUA como gatilhos para nova alta",
+        "title": "Os 5 melhores apss para digitalizar documentos pelo celular e criar PDFs em 2026",
+        "link": "https://exame.com/tecnologia/examelab/os-5-melhores-apss-para-digitalizar-documentos-pelo-celular-e-criar-pdfs-em-2026/",
+        "summary": "Seleção reúne opções nativas e gratuitas para Android e iPhone que transformam fotos de documentos em arquivos limpos, com correção de bordas e reconhecimento de texto",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "OpenAI diz que novo chip próprio de IA é mais eficiente que Nvidia",
-        "link": "https://exame.com/inteligencia-artificial/openai-diz-que-novo-chip-proprio-de-ia-e-mais-eficiente-que-nvidia/",
-        "summary": "Jalapeño, primeiro chip de inferência desenvolvido internamente pela empresa, foi comparado a sistemas GB200 e GB300 em testes públicos de desempenho",
+        "title": "Como fotografar shows e eventos à noite sem foto tremida e escura? Veja 5 recursos para celular",
+        "link": "https://exame.com/tecnologia/examelab/como-fotografar-shows-e-eventos-a-noite-sem-foto-tremida-e-escura-veja-5-recursos-para-celular/",
+        "summary": "Apps gratuitos e acessórios de bolso ajudam a capturar imagens nítidas com o celular, mesmo com pouca luz e artistas em movimento",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
