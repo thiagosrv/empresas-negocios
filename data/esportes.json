@@ -1,40 +1,7 @@
 {
-  "updated": "2026-08-26T15:55:26.932Z",
+  "updated": "2026-08-26T16:58:33.295Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Ex-City e Chelsea é acusado de direção perigosa e posse de gás do riso",
-      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/raheem-sterling-acusado-direcao-perigosa-e-posse-de-gas-do-riso/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de ago. de 2026",
-      "isoDate": "2026-08-26",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ezri Konsa é apresentado no Emirates Stadium",
-      "link": "https://www.gazetaesportiva.com/times/arsenal/ezri-konsa-e-apresentado-no-emirates-stadium/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de ago. de 2026",
-      "isoDate": "2026-08-26",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Julián Álvarez não se reapresenta ao Atlético de Madrid e volta a alimentar rumores de saída",
-      "link": "https://www.gazetaesportiva.com/times/atletico-de-madrid/julian-alvarez-nao-se-reapresenta-ao-atletico-de-madrid-e-volta-a-alimentar-rumores-de-saida/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "26 de ago. de 2026",
-      "isoDate": "2026-08-26",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4aa-1f3fc.png"
-    },
     {
       "title": "Chelsea considera proposta de última hora por goleiro da seleção argentina",
       "link": "https://www.gazetaesportiva.com/times/chelsea/dibu-martinez-chelsea-proposta/",
@@ -44,7 +11,7 @@
       "isoDate": "2026-08-26",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Fofana, do Lyon, esbanja categoria para castigar a frágil defesa do Toulouse; confira",
@@ -55,7 +22,7 @@
       "isoDate": "2026-08-26",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Itália retira apoio, e Infantino continua perdendo aliados",
@@ -77,11 +44,44 @@
       "isoDate": "2026-08-26",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Primeiro dia de Savinho no Tottenham; confira",
       "link": "https://www.gazetaesportiva.com/times/tottenham/primeiro-dia-de-savinho-no-tottenham-confira/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de ago. de 2026",
+      "isoDate": "2026-08-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Eric Dier marca o primeiro gol da temporada do Monaco",
+      "link": "https://www.gazetaesportiva.com/times/monaco/eric-dier-marca-o-primeiro-gol-da-temporada-do-monaco/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de ago. de 2026",
+      "isoDate": "2026-08-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Benfica contrata meia português João Palhinha, do Bayern",
+      "link": "https://www.gazetaesportiva.com/times/benfica/benfica-anuncia-retorno-de-joao-palhinha/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de ago. de 2026",
+      "isoDate": "2026-08-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Fonseca sobre Fofana: &#8220;Se outros clubes o quiserem, vão ter que pagar caro&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/lyon/fonseca-sobre-fofana-se-outros-clubes-o-quiserem-vao-ter-que-pagar-caro-2/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "26 de ago. de 2026",
