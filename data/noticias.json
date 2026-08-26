@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-26T09:47:20.006Z",
+  "updated": "2026-08-26T10:38:44.773Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Assista ao Bom Dia Cidade Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "date": "26 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Condephaat pede ampliação de espaço entre gradil e Centro de Convivência de Campinas; entenda",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/26/condephaat-pede-ampliacao-de-espaco-entre-gradil-e-centro-de-convivencia-de-campinas-entenda.ghtml",
+        "summary": "Gradis de aço instalados no entorno do Centro de Convivência Cultura de Campinas (SP): Prefeitura diz que espaço permanecerá aberto à população ads 8h às 19h Daniel Ribeiro O projeto de cercamento do Centro de Convivênci",
+        "image": "https://s2-g1.glbimg.com/latAHpJwHk6Q8m6WxJ0aXfuYpsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/Y/hTKshESjyaY0OSxMQI9g/copia-de-bate-moto-indaiatuba-1-.jpg",
+        "date": "26 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Motorista de ônibus ajuda mulher a fugir de tentativa de atropelamento em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/motorista-de-onibus-ajuda-mulher-a-fugir-de-tentativa-de-atropelamento-em-campinas.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/25/elevador-teve-falha-mecanica-e-despencou-enquanto-grupo-desembarcava-diz-ssp.ghtml",
         "summary": "Elevador despenca e deixa dois adultos e duas crianças feridos em Hortolândia O elevador que despencou em Hortolândia (SP), na manhã de terça-feira (25), teve uma falha mecânica e caiu enquanto quatro pessoas tentavam de",
         "image": "https://s2-g1.glbimg.com/1NRiUJbXMPq69BLw1S46D27QfBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/3pUAtVTm6mCGB0WDqZig/capas-belly-42-.png",
-        "date": "25 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Grupo EP oferece 15 vagas de estágio em jornalismo, tecnologia e negócios; veja como participar",
-        "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/08/25/grupo-ep-oferece-15-vagas-de-estagio-em-jornalismo-tecnologia-e-negocios-veja-como-participar.ghtml",
-        "summary": "Redação de Jornalismo do Grupo EP, em Campinas Isadora de Paiva O Grupo EP está com 15 vagas abertas para seu programa de estágio nas áreas de jornalismo, tecnologia e negócios. As inscrições vão até a próxima segunda-fe",
-        "image": "https://s2-g1.glbimg.com/e4MQ0_dLgTa281YU0l9in_PU26U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/q/5HVzqfQFKOWomOC1Z9oQ/design-sem-nome-2026-08-25t174924.775.jpg",
-        "date": "25 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Americana recebe multinacional chinesa com investimento de R$ 140 milhões",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/prefeitura-de-americana-americana-feliz-de-verdade/noticia/2026/08/25/americana-recebe-multinacional-chinesa-com-investimento-de-r-140-milhoes.ghtml",
-        "summary": "Americana recebe multinacional chinesa com investimento de R$ 140 milhões Créditos: Divulgação Americana avança no fortalecimento de sua economia e na atração de novos investimentos com a instalação da nova unidade da YA",
-        "image": "https://s2-g1.glbimg.com/xuZdgvgNsVr-d6kGHwcPAjnoocA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/f/k96lupSHu9aOmoDuAfRg/foto-1.jpeg",
         "date": "25 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "PM ocupa cinco comunidades do Complexo de Israel, no Rio",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0",
+        "image": null,
+        "date": "26 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Mendonça propõe tese para julgamento sobre deep fake no TSE",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
@@ -171,19 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Presidente do TSE conclama eleitores a comparecerem às urnas",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/presidente-do-tse-conclama-eleitores-comparecerem-urnas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/presidente-do-tse-conclama-eleitores-comparecerem-urnas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
-        "image": null,
-        "date": "25 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Mourinho reencontra o Santiago Bernabéu no Campeonato Espanhol",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/mourinho-reencontra-o-bernabeu-em-laliga/",
+        "summary": "José Mourinho volta ao Santiago Bernabéu pela LaLiga 13 anos após sua saída do Real Madrid. Equipe enfrenta a Real Sociedad na estreia em casa no Espanhol. O post Mourinho reencontra o Santiago Bernabéu no Campeonato Esp",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260822__C6AX88T__v1__HighRes__FblEspLigaEspanyolRealMadrid.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras defende invencibilidade de cinco jogos como mandante contra o Santos",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-defende-invencibilidade-de-cinco-jogos-como-mandante-contra-o-santos/",
+        "summary": "O Palmeiras não perde para o Santos como mandante há cinco jogos. O retrospecto recente no confronto mostra domínio alviverde, com quatro vitórias e um empate nos últimos cinco duelos disputados com mando do Verdão. O po",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/02052026_cg_palmeiras_5897_65.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Dupla Calleri e Luciano participou de mais da metade dos gols do São Paulo na temporada",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/luciano-calleri-mais-da-metade-gols-sao-paulo-2026/",
+        "summary": "Luciano e Calleri seguem como os principais responsáveis pelos gols do São Paulo na temporada 2026. Juntos, os atacantes somam 29 participações diretas em gols, o equivalente a 54,72% dos 53 gols marcados pelo Tricolor n",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55473874640_3a65dc6c60_o.webp",
+        "date": "26 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Carlos Miguel celebra um ano de Palmeiras e projeta clássico contra o Santos: Estamos focados",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/carlos-miguel-celebra-um-ano-de-palmeiras-e-projeta-classico-contra-o-santos-estamos-focados/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/santos/por-onde-anda-nilson-ex-santos/",
         "summary": "Vilão da final da Copa do Brasil de 2015 entre Santos e Palmeiras, Nilson deixou o Peixe logo após o vice-campeonato. O atacante passou por clubes do Brasil, Japão, Bolívia, Hong Kong e Tailândia antes de ser anunciado p",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-24-at-17.14.06.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Corinthians já admite venda de André; saiba o que falta",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-ja-admite-venda-de-andre-saiba-o-que-falta/",
-        "summary": "O Corinthians está próximo de acertar a venda do volante André para o Nottingham Forest, da Inglaterra. Após recusar uma primeira investida, o Timão avançou nas negociações com uma proposta de cerca de R$ 95 milhões e di",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/246717.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Del Valle ganha e encara Flamengo na Libertadores; veja duelos das quartas",
-        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/del-valle-ganha-encara-flamengo-libertadores-veja-duelos-quartas-2026/",
-        "summary": "O Independiente del Valle eliminou o Tolima e será o adversário do Flamengo nas quartas da Libertadores. Confira todos os confrontos da próxima fase. O post Del Valle ganha e encara Flamengo na Libertadores; veja duelos ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260826__C6HE2QY__v1__HighRes__FblLibertadoresDelvalleTolima.webp",
-        "date": "26 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Confira os melhores momentos de Cruzeiro 1 x 1 Atlético-MG pela Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/confira-os-melhores-momentos-de-cruzeiro-1-x-1-atletico-mg-pela-copa-do-brasil/",
-        "summary": "Confira os melhores momentos de Cruzeiro 1 x 1 Atlético-MG, pelo jogo de ida das quartas de final da Copa do Brasil. O post Confira os melhores momentos de Cruzeiro 1 x 1 Atlético-MG pela Copa do Brasil apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55488801985_417738b049_o.webp",
         "date": "26 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Bradesco (BBDC4) diz que não há acordo com Advent e Bain sobre compra da Amil",
+        "link": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-diz-que-nao-ha-acordo-com-advent-e-bain-sobre-compra-da-amil/",
+        "summary": "Declaração veio após rumores apontarem que o Bradesco disponibilizaria R$ 12 bilhões para a operação The post Bradesco (BBDC4) diz que não há acordo com Advent e Bain sobre compra da Amil appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Bradesco_Pau_dos_Ferros_RN.jpg?fit=300%2C174&amp;quality=70&amp;strip=all",
+        "date": "26 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Minidólar (WDOU26): canal de baixa mantém cautela nesta quarta-feira",
+        "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-26082026/",
+        "summary": "Saiba o que esperar para o minidólar nesta quarta (26) The post Minidólar (WDOU26): canal de baixa mantém cautela nesta quarta-feira appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-26.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
+        "date": "26 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mini-índice (WINV26): PCE e PIB dos EUA testam o apetite ao risco",
+        "link": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-26082026/",
+        "summary": "Confira o que a análise técnica aponta para o mini-índice hoje (26 de agosto) The post Mini-índice (WINV26): PCE e PIB dos EUA testam o apetite ao risco appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINV26-15-MINUTOS-26.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
+        "date": "26 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Day Trade hoje (26): Ibovespa ganha força e mira novas altas; veja análise",
+        "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-26082026/",
+        "summary": "Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (26): Ibovespa ganha força e mira novas altas; veja análise appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "26 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Centaurus terá de fazer oferta pública de ações da Oncoclínicas, decide CVM",
         "link": "https://www.infomoney.com.br/mercados/centaurus-tera-de-fazer-oferta-publica-de-acoes-da-oncoclinicas-decide-cvm/",
         "summary": "Com decisão da autarquia, a gestora terá que desembolsar mais de R$ 6 bilhões para comprar a participação dos minoritários na rede de clínicas oncológicas. The post Centaurus terá de fazer oferta pública de ações da Onco",
@@ -318,7 +358,7 @@
       },
       {
         "title": "Irã e Omã discutem corredor temporário em Ormuz enquanto impasse com EUA se prolonga",
-        "link": "https://www.infomoney.com.br/mercados/ira-e-oma-discutem-corredor-temporario-em-ormuz-enquanto-impasse-com-eua-se-prolonga/",
+        "link": "https://www.infomoney.com.br/mundo/ira-e-oma-discutem-corredor-temporario-em-ormuz-enquanto-impasse-com-eua-se-prolonga/",
         "summary": "Irã e Omã vêm mantendo negociações intermitentes há semanas sobre o controle do tráfego por essa via navegável estratégica The post Irã e Omã discutem corredor temporário em Ormuz enquanto impasse com EUA se prolonga app",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Estreito-de-Ormuz.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "26 de ago. de 2026",
@@ -327,99 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "US$ 300 por hora de conversa: o preço da informação na guerra iFood x Keeta",
-        "link": "https://www.infomoney.com.br/business/us-300-por-hora-de-conversa-o-preco-da-informacao-na-guerra-ifood-x-keeta/",
-        "summary": "Segundo a empresa brasileira, cerca de 100 funcionários foram abordados nas primeiras semanas de agosto em busca de dados internos The post US$ 300 por hora de conversa: o preço da informação na guerra iFood x Keeta appe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/ifood-entregadores-agencia-brasil.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "SAF de R$ 500 milhões: como o Confiança foi parar na Série D em seu primeiro ano",
+        "link": "https://exame.com/esporte/saf-de-r-500-milhoes-como-o-confianca-foi-parar-na-serie-d-em-seu-primeiro-ano/",
+        "summary": "Clube sergipano fechou parceria com empresa liderada por Rodolfo Landim, mas terminou a Série C na última colocação",
+        "image": null,
         "date": "26 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "IPCA-15, inflação PCE, balanço da Nvidia e mais destaques desta quarta-feira",
-        "link": "https://www.infomoney.com.br/mercados/ipca-15-inflacao-pce-nvidia-26082026/",
-        "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (26) The post IPCA-15, inflação PCE, balanço da Nvidia e mais destaques desta quarta-feira appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/inflacion12.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Vasco x Vitória: veja números históricos do confronto de hoje da Copa do Brasil",
+        "link": "https://exame.com/esporte/vasco-x-vitoria-veja-numeros-historicos-do-confronto-de-hoje-da-copa-do-brasil/",
+        "summary": "Rivais se enfrentam nesta quarta-feira, às 21h30, pelo jogo de ida das quartas de final da Copa do Brasil",
+        "image": null,
         "date": "26 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Petróleo cai e futuros de NY operam perto da estabilidade antes de Nvidia e PCE",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-cai-e-futuros-de-ny-operam-perto-da-estabilidade-antes-de-nvidia-e-pce/",
-        "summary": "Mercado monitora inflação americana e balanço da Nvidia em meio à queda do petróleo The post Petróleo cai e futuros de NY operam perto da estabilidade antes de Nvidia e PCE appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-14T203455Z_1_LYNXMPEK5D0PS_RTROPTP_4_USA-STOCKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Como a terceira geração desta família fará gigante dos queijos de Minas passar dos R$ 2 bilhões",
+        "link": "https://exame.com/negocios/o-plano-da-terceira-geracao-de-uma-gigante-dos-queijos-de-minas-para-passar-dos-r-2-bilhoes/",
+        "summary": "Conhecida durante décadas pelo fornecimento a pizzarias e restaurantes, Scala amplia presença diante do consumidor final e projeta crescimento de dois dígitos em 2026",
+        "image": null,
         "date": "26 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Inadimplência do aluguel cai ao menor nível em 3 anos, mas melhora é desigual",
-        "link": "https://www.infomoney.com.br/minhas-financas/inadimplencia-do-aluguel-cai-ao-menor-nivel-em-3-anos-mas-melhora-e-desigual/",
-        "summary": "Taxa recua de 3,20% para 3,05% em julho, mas imóveis comerciais com aluguel de até R$ 1 mil pioram The post Inadimplência do aluguel cai ao menor nível em 3 anos, mas melhora é desigual appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/05/img_4219.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Bússola Cia: 61% das brasileiras não realizaram o Papanicolau no último ano",
+        "link": "https://exame.com/bussola/bussola-cia-61-das-brasileiras-nao-realizou-o-papanicolau-no-ultimo-ano/",
+        "summary": "Campanha Setembro Em Flor, da MSD Brasil e o Grupo EVA, começou com pesquisa que revela principais motivos da não prevenção ao câncer de colo do útero. Confira esta e outras notícias de destaque desta semana",
+        "image": null,
         "date": "26 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Após chegar a R$ 38 bilhões, Boticário muda a fórmula para fazer escala render",
+        "link": "https://exame.com/exame-in/apos-chegar-a-r-38-bilhoes-boticario-muda-a-formula-para-fazer-escala-render/",
+        "summary": "Depois de multiplicar as vendas por 2,5 em cinco anos, grupo entra em nova fase com foco em produtividade, integração das operações e crescimento sem ampliar a estrutura no mesmo ritmo",
+        "image": null,
+        "date": "26 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "'Rita Lee', 'Última Entrevista' e mais: 11 peças para ver de graça em setembro",
         "link": "https://exame.com/casual/rita-lee-ultima-entrevista-e-mais-11-boas-pecas-para-ver-de-graca-em-setembro/",
         "summary": "Projeto do Instituto Arlequim realiza 20 apresentações gratuitas entre 3 de setembro e 3 de outubro em seis teatros municipais de São Paulo",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Agendamentos para vistos de imigrantes dos EUA são suspensos; o que muda para brasileiros",
-        "link": "https://exame.com/mundo/agendamentos-para-vistos-de-imigrantes-dos-eua-sao-suspensos-o-que-muda-para-brasileiros/",
-        "summary": "Departamento de Estado diz que pausa permitirá treinamento de funcionários para avaliar candidatos e pode atingir entrevistas já marcadas",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Tudo o que um líder precisa saber sobre letramento em IA para não ficar ultrapassado",
-        "link": "https://exame.com/inteligencia-artificial/tudo-o-que-um-lider-precisa-saber-sobre-letramento-em-ia-para-nao-ficar-ultrapassado/",
-        "summary": "Entender como sistemas de inteligência artificial funcionam, onde aplicá-los e quais são seus limites já faz parte das competências necessárias para quem ocupa posições de liderança",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Muro de Trump ameaça pinturas rupestres de até 5 mil anos na fronteira dos EUA",
-        "link": "https://exame.com/mundo/muro-de-trump-ameaca-pinturas-rupestres-de-ate-5-mil-anos-na-fronteira-dos-eua/",
-        "summary": "Terra necessária para o projeto abriga dezenas de pinturas rupestres tão antigas quanto as pirâmides do Egito",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EXAME Negócios em Expansão 2026 reúne 491 empresas e anuncia vencedoras nesta quarta-feira",
-        "link": "https://exame.com/negocios/exame-negocios-em-expansao-2026-reune-491-empresas-e-anuncia-vencedoras-nesta-quarta-feira/",
-        "summary": "Premiação acontece no BTG Pactual Hall, em São Paulo, com programação sobre gestão, inovação e crescimento dos negócios",
-        "image": null,
-        "date": "26 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Sem Redata, data centers buscam alternativas tributárias no Brasil, aponta PwC",
-        "link": "https://exame.com/inteligencia-artificial/sem-redata-data-centers-buscam-alternativas-tributarias-no-brasil-aponta-pwc/",
-        "summary": "Sem o Redata, gigantes de tecnologia recorrem a ZPEs e incentivos de infraestrutura para sustentar investimentos em data centers no Brasil, diz PwC",
         "image": null,
         "date": "26 de ago. de 2026",
         "source": "Exame",
