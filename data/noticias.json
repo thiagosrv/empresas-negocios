@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T15:15:40.262Z",
+  "updated": "2026-08-30T19:11:34.237Z",
   "feeds": {
     "campinas": [
       {
@@ -23,10 +23,10 @@
         "cls": "brasil"
       },
       {
-        "title": "Mulher fica ferida após ser agredida pelo namorado e pelo pai dele em Jaguariúna",
+        "title": "Mulher é agredida por namorado e sogro e jogada de carro em movimento em Jaguariúna; dupla foi presa",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/29/mulher-fica-ferida-apos-ser-agredida-pelo-namorado-e-pelo-pai-dele-em-jaguariuna.ghtml",
-        "summary": "Delegacia de Polícia Civil de Jaguariúna Jefferson Barbosa/EPTV Uma mulher de 25 anos ficou ferida após ser agredida pelo namorado e pelo pai dele na noite deste sábado (29), em Jaguariúna (SP). Segundo informações da Gu",
-        "image": "https://s2-g1.glbimg.com/xggNz2J0FU5BS2XQibXT92_dEy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/o/EIZALwS9Gd2CDZHyTVBA/delegacia-jaguariuna-jefferson-barbosa.png",
+        "summary": "Mulher é agredida por namorado e sogro e jogada de carro em movimento em Jaguariúna; dupla foi presa Arquivo pessoal Uma mulher foi agredida pelo namorado e pelo sogro e empurrada para fora de um carro em movimento na no",
+        "image": "https://s2-g1.glbimg.com/KWQV0iYOt6l-sALjLIYcv4qR5IQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/4/PfKUpOQvOMhisyx0xkPw/agressao-jaguariuna.png",
         "date": "30 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -61,6 +61,16 @@
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
+      },
+      {
+        "title": "Adesivaço de Franco Sardelli reúne apoiadores e movimenta campanha em Americana",
+        "link": "https://jornalamericanense.com.br/politica/adesivaco-de-franco-sardelli-reune-apoiadores-e-movimenta-campanha-em-americana/",
+        "summary": "O candidato a deputado estadual Franco Sardelli (PL) realizou neste domingo (30) um adesivaço que reuniu apoiadores e lideranças políticas de Americana e de cidades da região. A ação aconteceu das 9h às 13h, no estaciona",
+        "image": null,
+        "date": "30 de ago. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Reforma Tributária: Sebrae lança Simulador gratuito",
@@ -113,14 +123,54 @@
         "cls": "servicos"
       },
       {
-        "title": "Odir Demarchi reúne lideranças em apoio à candidatura de Franco Sardelli",
-        "link": "https://jornalamericanense.com.br/politica/odir-demarchi-reune-liderancas-em-apoio-a-candidatura-de-franco-sardelli/",
-        "summary": "O vice-prefeito de Americana, Odir Demarchi, reuniu cerca de 700 apoiadores na noite desta sexta-feira (28) em um encontro de apoio à candidatura de Franco Sardelli (PL) a deputado estadual. Durante o evento, Odir falou ",
+        "title": "Grupo de 20 pessoas fica à deriva no Rio e é resgatado pelos bombeiros",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/grupo-de-20-pessoas-fica-deriva-no-rio-e-e-resgatado-pelos-bombeiros",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/grupo-de-20-pessoas-fica-deriva-no-rio-e-e-resgatado-pelos-bombeiros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
-        "date": "28 de ago. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "30 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ferroviária é campeã brasileira sub-17 feminina",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-campea-brasileira-sub-17-feminina",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-campea-brasileira-sub-17-feminina img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
+        "image": null,
+        "date": "30 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Região Sul tem risco de temporal e granizo; outras regiões têm calor",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/regiao-sul-tem-risco-de-temporal-e-granizo-outras-regioes-tem-calor",
+        "summary": "p strong O risco de tempestades e queda de granizo permanece para a Região Sul. Para as demais regiões do país, a previsão é de aumento da temperatura nos próximos dias, segundo o Instituto Nacional de Meteorologia (Inme",
+        "image": null,
+        "date": "30 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Consulta sobre bens sustentáveis no acordo Mercosul–UE acaba na quarta",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consulta-sobre-bens-sustentaveis-no-acordo-mercosul-ue-acaba-na-quarta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consulta-sobre-bens-sustentaveis-no-acordo-mercosul-ue-acaba-na-quarta img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "30 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena não tem acertador e prêmio sobe para R$ 36 milhões",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-nao-tem-acertador-e-premio-sobe-para-r-36-milhoes",
+        "summary": "p Nenhum apostador acertou as seis dezenas do Concurso 3.051 da Mega-Sena, realizado neste domingo (30). strong O prêmio acumulou e está estimado em R$ 36 milhões para o próximo sorteio. /strong img src= https://agenciab",
+        "image": null,
+        "date": "30 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Congresso vota nesta semana fim da escala 6x1 e taxa das blusinhas",
@@ -131,114 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Eleições 2026: saiba o que é permitido e proibido no dia da votação",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/eleicoes-2026-saiba-o-que-e-permitido-e-proibido-no-dia-da-votacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/eleicoes-2026-saiba-o-que-e-permitido-e-proibido-no-dia-da-votacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Neste domingo, Rádio Nacional transmite clássico Flamengo x Botafogo",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/neste-domingo-radio-nacional-transmite-classico-flamengo-x-botafogo",
-        "summary": "p strong Neste domingo (30), a bola rola no Maracanã para o confronto entre Flamengo e Botafogo, e a Rádio Nacional transmite todos os lances da partida válida pela 25ª rodada da Série A do Brasileirão 2026. /strong img ",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasil participa de pesquisa inédita que busca a cura da hepatite B",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/brasil-participa-de-pesquisa-inedita-que-busca-cura-da-hepatite-b",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/brasil-participa-de-pesquisa-inedita-que-busca-cura-da-hepatite-b img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasileirão Feminino: Flamengo vence Ferroviára nas quartas por 1 a 0",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-flamengo-vence-ferroviara-nas-quartas-por-1-0",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-flamengo-vence-ferroviara-nas-quartas-por-1-0 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "29 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vacinação é ampliada em comunidades indígenas da Amazônia",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/vacinacao-e-ampliada-em-comunidades-indigenas-da-amazonia",
-        "summary": "p strong A partir deste domingo (30), uma nova fase da Operação Gota vai beneficiar 20 aldeias indígenas na Amazônia Legal. /strong img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1701013 o=rss style= width:1px; hei",
-        "image": null,
-        "date": "29 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Santos negocia com Rodinei e aguarda liberação do Olympiacos",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-negocia-com-rodinei-e-aguarda-liberacao-do-olympiacos/",
-        "summary": "O Santos negocia a contratação do lateral-direito Rodinei, atualmente no Olympiacos, da Grécia. O clube está otimista em fechar o acordo e conta com a vontade do jogador de retornar ao futebol brasileiro, mas ainda preci",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Fn4TdtsX0AENyM0.webp",
+        "title": "Freiburg goleia Werder Bremen com hat-trick de Suzuki",
+        "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/freiburg-goleia-werder-bremen-com-hat-trick-de-suzuki/",
+        "summary": "O japonês Yuito Suzuki marcou um hat-trick e comandou a vitória do Freiburg por 4 a 1 sobre o Werder Bremen, em casa, neste domingo (30), enquanto o Schalke 04 foi derrotado pelo Augsburg em seu retorno à primeira divisã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260830__C6UR8YM__v1__MidRes__FblGerBundesligaFreiburgWerderBremen.webp",
         "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Chelsea vence Brighton com destaque brasileiro em partida de sete gols",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/chelsea-vence-brighton-em-jogo-de-sete-gols-na-premier-league/",
-        "summary": "O Chelsea venceu o Brighton por 4 a 3 neste domingo, em Stamford Bridge, pela segunda rodada da Premier League. Em uma partida movimentada, os Blues abriram vantagem de três gols ainda no primeiro tempo com Lavia, Pedro ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260830__C6UN6KY__v1__HighRes__FblEngPrChelseaBrighton.webp",
+        "title": "Melhores momentos: St. Pauli 1 x 2 Karlsruher SC pela Segunda Divisão da Bundesliga",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-st-pauli-1-x-2-karlsruher-sc-pela-segunda-divisao-da-bundesliga/",
+        "summary": "Melhores momentos: St. Pauli 1 x 2 Karlsruher SC pela Segunda Divisão da Bundesliga O post Melhores momentos: St. Pauli 1 x 2 Karlsruher SC pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/t.-Pa.webp",
         "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Toronto FC 1 x 1 New York City FC pela MLS",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-toronto-fc-1-x-1-new-york-city-fc-pela-mls/",
-        "summary": "Melhores momentos: Toronto FC 1 x 1 New York City FC pela MLS O post Melhores momentos: Toronto FC 1 x 1 New York City FC pela MLS apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ron.webp",
+        "title": "Gabriel Martinelli deixa o Arsenal e acerta com o Al-Hilal; veja valores",
+        "link": "https://www.gazetaesportiva.com/al-hilal/gabriel-martinelli-deixa-o-arsenal-e-acerta-com-o-al-hilal-veja-valores/",
+        "summary": "Gabriel Martinelli está próximo de deixar o Arsenal para defender o Al-Hilal, da Arábia Saudita. Os clubes chegaram a um acordo verbal por mais de 65 milhões de euros, e o atacante brasileiro assinará contrato por quatro",
+        "image": "https://static.gazetaesportiva.com/uploads/2025/10/martinelli.webp",
         "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja as fotos do confronto entre Chelsea e Brighton neste domingo",
-        "link": "https://www.gazetaesportiva.com/futebol/veja-as-fotos-do-confronto-entre-chelsea-e-brighton-neste-domingo/",
-        "summary": "Veja as fotos do confronto entre Chelsea e Brighton neste domingo pela segunda rodada do Campeonato Inglês no Stamford Bridge. O post Veja as fotos do confronto entre Chelsea e Brighton neste domingo apareceu primeiro em",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260830__C6UN6KY__v1__HighRes__FblEngPrChelseaBrighton.webp",
+        "title": "Melhores momentos: Portland Timbers 1 x 2 Austin FC pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-portland-timbers-1-x-2-austin-fc-pela-mls/",
+        "summary": "Melhores momentos: Portland Timbers 1 x 2 Austin FC pela MLS O post Melhores momentos: Portland Timbers 1 x 2 Austin FC pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/ortlan.webp",
         "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Barcelona avança pela contratação de Gabriel Jesus, do Arsenal",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-encaminha-contratacao-de-gabriel-jesus/",
-        "summary": "O Barcelona está muito próximo de anunciar a contratação de Gabriel Jesus para reforçar seu setor ofensivo. Segundo informações divulgadas pelo jornalista Fabrizio Romano, o clube catalão chegou a um acordo com o Arsenal",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/75f5f9c9-5299-4c91-8c11-e58c1c7a8c5a.webp",
+        "title": "Flamengo x Botafogo: siga o tempo real do jogo pelo Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-x-botafogo-campeonato-brasileiro-30-08-26/",
+        "summary": "Flamengo e Botafogo se enfrentam neste domingo, pela 25ª rodada do Campeonato Brasileiro. A bola rola às 16h, no Maracanã, no Rio de Janeiro. Acompanhe todos os lances, gols e principais acontecimentos da partida em temp",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55148223795_b69ae592d0_k.webp",
         "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Athletico-PR x Fluminense: acompanhe a partida em tempo real",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-pr-x-fluminense-lance-a-lance-ao-vivo/",
-        "summary": "Athletico-PR e Fluminense se enfrentam em mais um duelo importante da temporada. Acompanhe todos os lances, gols, substituições, cartões e principais momentos da partida em tempo real. O post Athletico-PR x Fluminense: a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55497496218_767536a054_o-1.webp",
+        "title": "Melhores momentos: San Diego FC 3 x 1 LA Galaxy pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-san-diego-fc-3-x-1-la-galaxy-pela-mls/",
+        "summary": "Melhores momentos: San Diego FC 3 x 1 LA Galaxy pela MLS O post Melhores momentos: San Diego FC 3 x 1 LA Galaxy pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Dieg.webp",
         "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Consulta sobre bens sustentáveis no acordo Mercosul–UE acaba na quarta",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consulta-sobre-bens-sustentaveis-no-acordo-mercosul-ue-acaba-na-quarta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/consulta-sobre-bens-sustentaveis-no-acordo-mercosul-ue-acaba-na-quarta img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "30 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Programa de renegociação de dívidas termina nesta segunda-feira",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-termina-nesta-segunda-feira",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Governo sanciona lei que permite reduzir tributos sobre combustíveis",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-sanciona-lei-que-permite-reduzir-tributos-sobre-combustiveis",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-sanciona-lei-que-permite-reduzir-tributos-sobre-combustiveis img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "28 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Método pomodoro e mais: veja dicas para estudar para o Enem e reduzir estresse",
-        "link": "https://www.infomoney.com.br/carreira/metodo-pomodoro-e-mais-veja-dicas-para-estudar-para-o-enem-e-reduzir-estresse/",
-        "summary": "Todos os vestibulares vão exigir estudos e, por isso, ter uma rotina que acabe se tornando um hábito pode ajudar The post Método pomodoro e mais: veja dicas para estudar para o Enem e reduzir estresse appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/1790.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "EUA treinam forças polonesas em exercício com drones inspirado na guerra na Ucrânia",
+        "link": "https://www.infomoney.com.br/mundo/eua-treinam-forcas-polonesas-em-exercicio-com-drones-inspirado-na-guerra-na-ucrania/",
+        "summary": "O exercício também testa a capacidade das tropas de operar sem serem identificadas por civis e de evitar a vigilância de drones The post EUA treinam forças polonesas em exercício com drones inspirado na guerra na Ucrânia",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453257867_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Häagen-Dazs derreteu no Brasil, mas onda wellness impulsiona sorvetes premium",
-        "link": "https://www.infomoney.com.br/business/haagen-dazs-derreteu-no-brasil-mas-onda-wellness-impulsiona-sorvetes-premium/",
-        "summary": "Categoria de preços mais elevados cresce mesmo diante da retração dos números gerais do setor The post Häagen-Dazs derreteu no Brasil, mas onda wellness impulsiona sorvetes premium appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/zach-camp-3D0HUHFcRrk-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Lula pede inelegibilidade de Flávio ao TSE por suposto abuso econômico em Barretos",
+        "link": "https://www.infomoney.com.br/politica/lula-pede-inelegibilidade-de-flavio-ao-tse-por-suposto-abuso-economico-em-barretos/",
+        "summary": "Os advogados do petista pedem que o caso seja analisado pelo Ministério Público Eleitoral e que Flávio seja intimado em até cinco dias The post Lula pede inelegibilidade de Flávio ao TSE por suposto abuso econômico em Ba",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/lula-record.jpeg?fit=300%2C152&amp;quality=70&amp;strip=all",
         "date": "30 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Loteria Federal: confira o resultado do concurso 6096-8 sorteado neste domingo (30)",
-        "link": "https://www.infomoney.com.br/consumo/loteria-federal-confira-o-resultado-do-concurso-6096-8-sorteado-neste-domingo-30/",
-        "summary": "Os sorteios da Loteria Federal acontecem às quartas-feiras, a partir das 20h; e aos domingos, a partir das 11h The post Loteria Federal: confira o resultado do concurso 6096-8 sorteado neste domingo (30) appeared first o",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Loteria-Federal.jpg?fit=300%2C214&amp;quality=70&amp;strip=all",
+        "title": "Mortos no desastre no Himalaia se aproximam de 800; clima dificulta resgate",
+        "link": "https://www.infomoney.com.br/mundo/mortos-no-desastre-no-himalaia-se-aproximam-de-800-clima-dificulta-resgate/",
+        "summary": "Equipes de resgate enfrentam enchentes e escombros enquanto número de mortos no desastre no Himalaia se aproxima de 800 The post Mortos no desastre no Himalaia se aproximam de 800; clima dificulta resgate appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-26T115251Z_1997959012_RC2B6NAORK75_RTRMADP_3_NEPAL-FLOODS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Apesar de esforço regulatório, slots e mercado ainda desafiam chegada de low costs",
-        "link": "https://www.infomoney.com.br/business/apesar-de-esforco-regulatorio-slots-e-mercado-ainda-desafiam-chegada-de-low-costs/",
-        "summary": "Para especialistas, principais obstáculos para novos entrantes são domésticos, como a concentração de slots nos principais aeroportos e a carga tributária The post Apesar de esforço regulatório, slots e mercado ainda des",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/easyjet.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Chanceler da Alemanha diz que vitória do AfD afastaria investidores estrangeiros",
+        "link": "https://www.infomoney.com.br/mundo/chanceler-da-alemanha-diz-que-vitoria-do-afd-afastaria-investidores-estrangeiros/",
+        "summary": "O partido anti-imigração AfD (Alternativa para a Alemanha) detém atualmente uma ​forte liderança nas pesquisas de opinião, com 42%, contra 22% dos democratas-cristãos conservadores de Merz, de ​acordo com uma pesquisa re",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-08T111151Z_1_LYNXMPEL770H1_RTROPTP_4_GERMANY-POLITICS-CABINET.jpg?fit=300%2C213&amp;quality=70&amp;strip=all",
         "date": "30 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Suíça: Tiroteio em rave deixa um morto e cinco feridos",
-        "link": "https://www.infomoney.com.br/mundo/suica-tiroteio-em-rave-deixa-um-morto-e-cinco-feridos/",
-        "summary": "As informações são de que o agressor continua foragido The post Suíça: Tiroteio em rave deixa um morto e cinco feridos appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-30T081950Z_1571820550_RC2W8NA3ML8C_RTRMADP_3_SWISS-SHOOTING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Líder supremo do Irã pede união muçulmana contra EUA e Israel",
+        "link": "https://www.infomoney.com.br/mundo/lider-supremo-do-ira-pede-uniao-muculmana-contra-eua-e-israel/",
+        "summary": "As declarações foram feitas por ocasião do aniversário do profeta Maomé e da Semana da Unidade Islâmica The post Líder supremo do Irã pede união muçulmana contra EUA e Israel appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-14T073025Z_1833252061_RC20BKANZY9E_RTRMADP_3_IRAN-CRISIS-UNESCO-DAMAGE-ARTISANS.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
         "date": "30 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "BNDES aprova R$ 25 milhões para fornecedora do SUS instalada em Goiânia",
-        "link": "https://www.infomoney.com.br/business/bndes-aprova-r-25-milhoes-para-fornecedora-do-sus-instalada-em-goiania/",
-        "summary": "O novo financiamento dá continuidade ao vínculo da empresa com o programa, que condiciona a concessão do crédito à realização de vendas ao SUS em valor correspondente aos recursos liberados The post BNDES aprova R$ 25 mi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-25T172817Z_1_LYNXNPEL1O0MU_RTROPTP_4_BRAZIL-POLITICS-BNDES.jpg?fit=300%2C187&amp;quality=70&amp;strip=all",
+        "title": "Receita prevê obrigatoriedade do split payment para 2028; saiba o que falta",
+        "link": "https://www.infomoney.com.br/business/receita-preve-obrigatoriedade-do-split-payment-para-2028-saiba-o-que-falta/",
+        "summary": "A exigência só deverá ocorrer quando todos os meios de pagamento abrangidos pelo modelo estiverem preparados The post Receita prevê obrigatoriedade do split payment para 2028; saiba o que falta appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/3167.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "30 de ago. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Onde vai ser a Bienal do Livro 2026? Veja local e datas do evento",
-        "link": "https://exame.com/pop/onde-vai-ser-a-bienal-do-livro-2026-veja-local-e-datas-do-evento/",
-        "summary": "Principal evento literário de São Paulo reúne editoras, autores e leitores durante dez dias no Distrito Anhembi",
+        "title": "Meta tenta conter crise de privacidade nos óculos com IA e atualiza configurações de proteção",
+        "link": "https://exame.com/tecnologia/meta-tenta-conter-crise-de-privacidade-nos-oculos-com-ia-e-atualiza-configuracoes-de-protecao/",
+        "summary": "Empresa intensificou campanha para explicar mecanismos de segurança após vídeos gravados sem consentimento ganharem as redes sociais",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Shows hoje em SP e no Rio: veja agenda deste domingo, 30",
-        "link": "https://exame.com/pop/shows-hoje-em-sp-e-no-rio-veja-agenda-deste-domingo-30/",
-        "summary": "Mari Fernandez, Jon Secada, Marina Elali, Phill Veras e Alcione estão entre as atrações deste domingo",
+        "title": "'Coyote vs. Acme' bate recorde de distribuidora independente",
+        "link": "https://exame.com/casual/coyote-vs-acme-bate-recorde-de-distribuidora-independente/",
+        "summary": "Cancelado pela Warner Bros. para corte de custos, longa supera expectativas de bilheteria e reposiciona a Ketchup Entertainment no mercado de Hollywood",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "O roxo ganha espaço no pulso e vira tendência na relojoaria",
-        "link": "https://exame.com/casual/o-roxo-ganha-espaco-no-pulso-e-vira-tendencia-na-relojoaria/",
-        "summary": "Bulova, Citizen e Seiko lançam modelos na tonalidade que vem crescendo na moda e na beleza, com preços que vão de R$ 3.990 a R$ 7.990",
+        "title": "Plano de saúde já é um dos maiores custo da folha de pagamento de empresas",
+        "link": "https://exame.com/negocios/plano-de-saude-ja-e-um-dos-maiores-custo-da-folha-de-pagamento-de-empresas/",
+        "summary": "Inflação médica pressiona orçamentos corporativos e leva benefício para a mesa do CFO; menos de 5% das companhias gerenciam saúde de forma preditiva e estratégica",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Uma pessoa morre e cinco ficam feridas em tiroteio durante rave na Suíça",
-        "link": "https://exame.com/mundo/uma-pessoa-morre-e-cinco-ficam-feridas-em-tiroteio-durante-rave-na-suica/",
-        "summary": "O DJ suíço Tekibo, que se apresentou na rave, escreveu no Instagram “O que aconteceu na rave de Aarauer é absolutamente de partir o coração”",
+        "title": "Perfil de Maduro publica fotos do ex-presidente na prisão de NY; confira",
+        "link": "https://exame.com/mundo/perfil-de-maduro-publica-fotos-do-ex-presidente-na-prisao-de-ny-confira/",
+        "summary": "Maduro e a esposa, Cilia Flores, estão detidos desde a captura por forças dos EUA em janeiro",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Baleias retiram 231 milhões de XRP da Binance, mas o que isso significa para a criptomoeda?",
-        "link": "https://exame.com/future-of-money/baleias-retiram-231-milhoes-de-xrp-da-binance-maior-saque-em-6-meses/",
-        "summary": "Saques de criptomoedas das corretoras costumam representar menos oferta, o que valoriza os ativos, mas analistas levantam dúvidas neste caso",
+        "title": "Quem é a única brasileira na lista da Time dos 100 mais influentes em IA",
+        "link": "https://exame.com/inteligencia-artificial/quem-sao-os-4-brasileiros-na-lista-da-time-dos-100-mais-influentes-em-ia/",
+        "summary": "Ranking da revista americana destaca nomes nacionais que vão de semicondutores e saúde a grandes modelos de linguagem e impacto social",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Lito Sousa diz que pretende ser o 1º a controlar doença rara: 'Não perdi minha capacidade'",
-        "link": "https://exame.com/ciencia/lito-sousa-diz-que-pretende-ser-o-1o-a-controlar-doenca-rara-nao-perdi-minha-capacidade/",
-        "summary": "Influenciador foi diagnosticado com Creutzfeldt-Jakob após investigação iniciada durante tratamento contra câncer de próstata",
+        "title": "Quando 'Vingadores: Ultimato Encore' estreia no Disney+? Veja o que sabemos",
+        "link": "https://exame.com/pop/quando-vingadores-ultimato-encore-estreia-no-disney-veja-o-que-sabemos/",
+        "summary": "Página do relançamento já apareceu na plataforma antes da estreia nos cinemas, marcada para setembro",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
