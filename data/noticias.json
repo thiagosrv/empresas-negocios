@@ -1,11 +1,21 @@
 {
-  "updated": "2026-08-29T23:07:53.343Z",
+  "updated": "2026-08-30T04:39:51.346Z",
   "feeds": {
     "campinas": [
       {
+        "title": "Mulher fica ferida após ser agredida pelo namorado e pelo pai dele em Jaguariúna",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/29/mulher-fica-ferida-apos-ser-agredida-pelo-namorado-e-pelo-pai-dele-em-jaguariuna.ghtml",
+        "summary": "Delegacia de Polícia Civil de Jaguariúna Jefferson Barbosa/EPTV Uma mulher de 25 anos ficou ferida após ser agredida pelo namorado e pelo pai dele na noite deste sábado (29), em Jaguariúna (SP). Segundo informações da Gu",
+        "image": "https://s2-g1.glbimg.com/xggNz2J0FU5BS2XQibXT92_dEy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/o/EIZALwS9Gd2CDZHyTVBA/delegacia-jaguariuna-jefferson-barbosa.png",
+        "date": "30 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
         "title": "Com alta de 17% no 1º semestre, eventos geram 17 mil empregos em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/29/com-alta-de-17percent-no-1o-semestre-eventos-geram-17-mil-empregos-em-campinas.ghtml",
-        "summary": "O setor de eventos gerou 17,4 mil novos empregos em Campinas (SP) no primeiro semestre deste ano, em comparação com o mesmo período do ano passado. Com uma alta de 17%, o número de postos de trabalho passou de 97.575 par",
+        "summary": "Campinas gera 17 mil empregos a mais com eventos no primeiro semestre O setor de eventos gerou 17,4 mil novos empregos em Campinas (SP) no primeiro semestre deste ano, em comparação com o mesmo período do ano passado. Co",
         "image": "https://s2-g1.glbimg.com/2k18nGpGCmdLtFbWSpCOhO7JqFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/e/CZG50QTs22EX1AJLevTg/eptv2-2908-cresce-event-cp004fli-2026-08-29-16-39-19.mxf-snapshot-00.46.151.jpg",
         "date": "29 de ago. de 2026",
         "source": "G1 Campinas",
@@ -17,16 +27,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/08/29/exposicao-gratuita-revela-documentos-raros-sobre-a-historia-de-campinas.ghtml",
         "summary": "Manoel de Oliveira Lima e sua esposa Flora nos Estados Unidos, onde ficaram até a morte dele, em 1928 Library of Congress A Pontifícia Universidade Católica de Campinas (PUC-Campinas) abre nesta quinta-feira (3) uma expo",
         "image": "https://s2-g1.glbimg.com/mwsOqIs9Q7Pzycrp6j-hWs_U2G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/g/OogmnBRZCoXDDb30SZfg/biblioteca-oliveira-lima-4-.jpg",
-        "date": "29 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
         "date": "29 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasileirão Feminino: Flamengo vence Ferroviára nas quartas por 1 a 0",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-flamengo-vence-ferroviara-nas-quartas-por-1-0",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-flamengo-vence-ferroviara-nas-quartas-por-1-0 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "29 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Vacinação é ampliada em comunidades indígenas da Amazônia",
         "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/vacinacao-e-ampliada-em-comunidades-indigenas-da-amazonia",
         "summary": "p strong A partir deste domingo (30), uma nova fase da Operação Gota vai beneficiar 20 aldeias indígenas na Amazônia Legal. /strong img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1701013 o=rss style= width:1px; hei",
@@ -163,19 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Mega-Sena sorteia prêmio acumulado de R$ 30 milhões neste domingo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-30-milhoes-neste-domingo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-30-milhoes-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "29 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ministério da Saúde reforça chamamento para vacina contra o sarampo",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/ministerio-da-saude-reforca-chamamento-para-vacina-contra-o-sarampo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/ministerio-da-saude-reforca-chamamento-para-vacina-contra-o-sarampo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Presidente da Venezuela confirma acordo petrolífero com Estados Unidos",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/presidente-da-venezuela-confirma-acordo-petrolifero-com-estados-unidos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/presidente-da-venezuela-confirma-acordo-petrolifero-com-estados-unidos img src= https://cdn.jsdelivr.net/gh/serg",
         "image": null,
         "date": "29 de ago. de 2026",
         "source": "Agência Brasil",
@@ -185,61 +185,61 @@
     ],
     "esportes": [
       {
-        "title": "Flamengo x Botafogo pelo Brasileirão: veja prováveis escalações e onde assistir",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-x-botafogo-onde-assistir-brasileirao/",
-        "summary": "Flamengo e Botafogo fazem clássico carioca neste domingo, no Maracanã, pela 25ª rodada do Campeonato Brasileiro. O Rubro-Negro busca reduzir a diferença para o líder Palmeiras, enquanto o Alvinegro tenta se aproximar da ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260813__C4JF9D7__v1__HighRes__FblLibertadoresCruzeiroFlamengo.webp",
-        "date": "29 de ago. de 2026",
+        "title": "Dorival celebra fim do jejum do São Paulo e espera “reinício de um novo momento”",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-celebra-fim-do-jejum-do-sao-paulo-e-espera-reinicio-de-um-novo-momento/",
+        "summary": "O São Paulo voltou a vencer no Campeonato Brasileiro neste sábado. Após dez partidas sem triunfar na competição, o Tricolor derrotou o Red Bull Bragantino por 2 a 1 e conseguiu um importante resultado para aliviar a pres",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55496235721_e698ac3815_o-2.webp",
+        "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Chelsea x Brighton: prováveis escalações e onde assistir ao jogo pelo Inglês",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/chelsea-x-brighton-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-ingles/",
-        "summary": "O Chelsea volta a campo neste domingo para enfrentar o Brighton, pela segunda rodada do Campeonato Inglês. A bola rola às 10h (de Brasília), no Stamford Bridge. Onde assistir O duelo terá transmissão de ESPN e Disney+. V",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260827__C6NZ2RT__v1__HighRes__776547637.webp",
-        "date": "29 de ago. de 2026",
+        "title": "Vasco vence Cruzeiro, dorme fora do Z4 e encerra longo jejum no Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/vasco/vasco-x-cruzeiro-brasileirao-rodada-25/",
+        "summary": "O Vasco da Gama venceu o Cruzeiro por 3 a 1 neste sábado (29), em São Januário, pela 25ª rodada do Brasileirão Série A. Com gols de Tchê Tchê, Lucas Freitas e David, o time carioca encerrou uma sequência de oito partidas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQ7pQP-XcAI8NB3.webp",
+        "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vila Nova x Ceará: onde assistir e prováveis escalações do jogo pela Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-x-ceara-onde-assistir-e-provaveis-escalacoes-do-jogo-pela-serie-b/",
-        "summary": "Vila Nova e Ceará se enfrentam neste domingo, às 18h30 (de Brasília), no Estádio Onésio Brasileiro Alvarenga, em Goiânia, pela 25ª rodada da Série B do Campeonato Brasileiro. O time goiano ocupa a terceira colocação, com",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQcS5trXQAAtmV2.webp",
-        "date": "29 de ago. de 2026",
+        "title": "Domínguez destaca mentalidade do elenco do Galo: Estão acreditando",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/dominguez-destaca-mentalidade-do-elenco-do-galo-estao-acreditando/",
+        "summary": "Domínguez destaca mentalidade do elenco do Galo: \"Estão acreditando\" O post Domínguez destaca mentalidade do elenco do Galo: Estão acreditando apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/07/Eduardo-Dominguez.webp",
+        "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Real Madrid x Málaga: prováveis escalações e onde assistir ao jogo pelo Espanhol",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-x-malaga-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-espanhol/",
-        "summary": "O Real Madrid volta a campo neste domingo para enfrentar o Málaga, pela terceira rodada do Campeonato Espanhol. A bola rola às 12h (de Brasília), no Santiago Bernabéu. Onde assistir O duelo terá transmissão da Cazé TV. V",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260826__C6KU8Z3__v1__HighRes__FblEspLigaRealMadridRealSociedad.webp",
-        "date": "29 de ago. de 2026",
+        "title": "Treinador do Liverpool, Iraola fica frustrado com demora nas substituições antes de pênalti decisivo",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/treinador-do-liverpool-iraola-fica-frustrado-com-demora-nas-substituicoes-antes-de-penalti-decisivo/",
+        "summary": "Treinador do Liverpool, Iraola fica frustrado com demora nas substituições antes de pênalti decisivo O post Treinador do Liverpool, Iraola fica frustrado com demora nas substituições antes de pênalti decisivo apareceu pr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Iraola.webp",
+        "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "América-MG x Ponte Preta: onde assistir e prováveis escalações do jogo pela Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/america-mg-x-ponte-preta-serie-b/",
-        "summary": "América-MG e Ponte Preta se enfrentam neste domingo, pela 25ª rodada da Série B, em busca de recuperação. Enquanto o Coelho tenta voltar a pontuar após derrota para o Sport, a Macaca busca reagir em meio à crise e à troc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/07/55403056345_4e08555aee_o.webp",
-        "date": "29 de ago. de 2026",
+        "title": "Com show de Messi e gol de Casemiro, Inter Miami faz sete no Montréal pela MLS",
+        "link": "https://www.gazetaesportiva.com/inter-miami/inter-miami-x-montreal-messi-quatro-gols-mls-2026/",
+        "summary": "O Inter Miami goleou o Montréal por 7 a 1 neste sábado (29), pela 23ª rodada da MLS, no Nu Stadium, em Miami. Com atuação histórica de Lionel Messi, autor de quatro gols, a equipe da Flórida consolidou a vice-liderança d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260830__C6TZ7PX__v1__HighRes__InterMiamiCfAndCfMontreal.webp",
+        "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Monaco x Olympique de Marselha: onde assistir e prováveis escalações do jogo do Francês",
-        "link": "https://www.gazetaesportiva.com/times/monaco/monaco-x-olympique-de-marselha-onde-assistir-e-provaveis-escalacoes-do-jogo-do-frances/",
-        "summary": "Monaco e Olympique de Marseille se enfrentam neste domingo, às 15h45 (de Brasília), no Stade Louis II, pela segunda rodada do Campeonato Francês. As duas equipes venceram na estreia da competição e buscam manter os 100% ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260823__C6C49T3__v1__MidRes__FblFraLigue1LeHavreMonaco.webp",
-        "date": "29 de ago. de 2026",
+        "title": "Luciano exalta vitória no Brasileirão em meio à pior fase da história do São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/luciano-exalta-vitoria-no-brasileirao-em-meio-a-pior-fase-da-historia-do-sao-paulo/",
+        "summary": "Autor do primeiro gol da equipe, em cobrança de pênalti, o atacante reconheceu o momento delicado vivido pelo clube e classificou a fase atual como a “pior” da história do Tricolor. O post Luciano exalta vitória no Brasi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55496235706_a51382e582_o.webp",
+        "date": "30 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Justiça passa a ter sistema único digital para penhora e arresto de imóveis",
+        "link": "https://www.infomoney.com.br/brasil/justica-passa-a-ter-sistema-unico-digital-para-penhora-e-arresto-de-imoveis/",
+        "summary": "Plataforma se torna obrigatória em tribunais e cartórios de todo o país. Ordens de sequestro de bens também são recebidas The post Justiça passa a ter sistema único digital para penhora e arresto de imóveis appeared firs",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/pexels-ekaterina-bolovtsova-6077326.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "30 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Nova diretriz atualiza definição de infarto e muda critérios para diagnóstico",
         "link": "https://www.infomoney.com.br/saude/nova-diretriz-atualiza-definicao-de-infarto-e-muda-criterios-para-diagnostico/",
         "summary": "Pela nova abordagem, os casos passam a ser agrupados em três categorias principais: infarto primário, infarto secundário e infarto relacionado a procedimentos médicos The post Nova diretriz atualiza definição de infarto ",
@@ -357,14 +367,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Mega-Sena sorteia prêmio acumulado de R$ 30 milhões neste domingo",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-sorteia-premio-acumulado-de-r-30-milhoes-neste-domingo/",
-        "summary": "Apostas podem ser feitas até às 22h de sábado The post Mega-Sena sorteia prêmio acumulado de R$ 30 milhões neste domingo appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/20230622_182547.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Candidata ao governo do Piauí, Lourdes Melo sofre AVC e é internada",
+        "link": "https://exame.com/brasil/candidata-ao-governo-do-piaui-lourdes-melo-sofre-avc-e-e-internada/",
+        "summary": "Professora de 73 anos ficou conhecida nacionalmente após o meme “ah, você quer me calar?”, durante debate eleitoral em 2022 e agenda da campanha foi suspensa após a internação",
+        "image": null,
         "date": "29 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Temporal em SC deixa estragos e tamanho do granizo impressiona moradores",
+        "link": "https://exame.com/brasil/temporal-em-sc-deixa-estragos-e-tamanho-do-granizo-impressiona-moradores/",
+        "summary": "Ao menos dez municípios registraram danos e cerca de 200 casas foram atingidas só em Ipuaçu; Estado está em alerta para fortes chuvas, com risco também para rajadas de vento",
+        "image": null,
+        "date": "29 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Nepal estima até US$ 5 bi para reconstrução após tragédia e cobra financiamento climático",
@@ -400,26 +420,6 @@
         "title": "EUA cogitam usar Ilhas Malvinas como moeda de troca para pressionar Reino Unido",
         "link": "https://exame.com/mundo/eua-cogitam-usar-ilhas-malvinas-como-moeda-de-troca-para-pressionar-reino-unido/",
         "summary": "Segundo autoridade americana ouvida pelo The Telegraph, Pentágono revisa compromisso de aliados da OTAN com meta de 5% do PIB em defesa e Londres deve receber \"atenção especial\"",
-        "image": null,
-        "date": "29 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Mourinho diz que Mbappé deve ganhar Bola de Ouro 2026: 'Fez história'",
-        "link": "https://exame.com/esporte/mourinho-diz-que-mbappe-deve-ganhar-bola-de-ouro-2026-fez-historia/",
-        "summary": "Treinador argumenta que o prêmio deve reconhecer o melhor jogador do mundo, não o vencedor de Copa do Mundo ou Champions League",
-        "image": null,
-        "date": "29 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "F1: Norris renova contrato com a McLaren até 2030",
-        "link": "https://exame.com/esporte/f1-norris-renova-contrato-com-a-mclaren-ate-2030/",
-        "summary": "Britânico entrou no programa júnior da equipe aos 17 anos e estreou na Fórmula 1 em 2019, aos 19 anos",
         "image": null,
         "date": "29 de ago. de 2026",
         "source": "Exame",
