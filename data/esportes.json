@@ -1,21 +1,54 @@
 {
-  "updated": "2026-08-31T13:49:44.486Z",
+  "updated": "2026-08-31T20:04:28.623Z",
   "totalOk": 3,
   "items": [
     {
-      "title": "Barcelona x Rayo Vallecano pelo Espanhol: veja prováveis escalações e onde assistir",
-      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/barcelona-x-rayo-vallecano-onde-assistir-laliga/",
+      "title": "Siga as novidades do Mercado da Bola desta segunda-feira, 31 de agosto",
+      "link": "https://www.gazetaesportiva.com/futebol/mercado/siga-as-novidades-do-mercado-da-bola-desta-segunda-feira-31-de-agosto/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "31 de ago. de 2026",
       "isoDate": "2026-08-31",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a5.png"
     },
     {
-      "title": "Filipe Luís tem início avassalador como técnico do Monaco",
-      "link": "https://www.gazetaesportiva.com/times/monaco/filipe-luis-tem-inicio-avassalador-como-tecnico-do-monaco/",
+      "title": "Gabriel Jesus desembarca na Espanha para exames antes de assinar com o Barcelona",
+      "link": "https://www.gazetaesportiva.com/times/barcelona/gabriel-jesus-chega-espanha-assinar-barcelona/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6ec.png"
+    },
+    {
+      "title": "Karim Benzema rescinde com o Al-Hilal e pode anunciar aposentadoria",
+      "link": "https://www.gazetaesportiva.com/al-hilal/karim-benzema-rescinde-com-al-hilal-e-avalia-futuro/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f539.png"
+    },
+    {
+      "title": "Messi anuncia aposentadoria da seleção argentina após 21 anos",
+      "link": "https://www.gazetaesportiva.com/times/argentina/messi-anuncia-aposentadoria-da-selecao-argentina/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Bastidores: O primeiro dia de Kamil Grabara na Juventus",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-o-primeiro-dia-de-kamil-grabara-na-juventus/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "31 de ago. de 2026",
@@ -25,70 +58,37 @@
       "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
-      "title": "Allan é anunciado pelo Manchester City e se declara ao Palmeiras",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/allan-e-anunciado-pelo-manchester-city-e-se-declara-ao-palmeiras/",
+      "title": "Nova contratação do Flamengo chega ao Rio de Janeiro para assinar contrato",
+      "link": "https://www.gazetaesportiva.com/times/flamengo/nova-contratacao-do-flamengo-chega-ao-rio-de-janeiro-para-assinar-contrato/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Daniel Alves é condenado a pagar R$ 12 milhões a clube mexicano",
+      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/daniel-alves-pumas-indenizacao-suica/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Com assistência de Wesley, Roma goleia Lecce e assume a liderança do Italiano",
+      "link": "https://www.gazetaesportiva.com/times/roma/com-assistencia-de-wesley-roma-goleia-lecce-e-assume-a-lideranca-do-italiano/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "31 de ago. de 2026",
       "isoDate": "2026-08-31",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
-      "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-26-at-20.52.17-1024x466.webp"
-    },
-    {
-      "title": "O gol de cabeça decisivo de Bremer contra o Frosinone",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-gol-de-cabeca-decisivo-de-bremer-contra-o-frosinone/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Lyon empata com o Le Havre após drama com o VAR no fim",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/lyon-empata-com-o-le-havre-apos-drama-com-o-var-no-fim/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Melhores momentos: Paris FC 3 x 0 Nice pelo Francês",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-paris-fc-3-x-0-nice-pelo-frances/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "30 de ago. de 2026",
-      "isoDate": "2026-08-30",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Aston Villa x Arsenal: prováveis escalações e onde assistir ao jogo pelo Inglês",
-      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/aston-villa-x-arsenal-onde-assistir-premier-league-2026/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "30 de ago. de 2026",
-      "isoDate": "2026-08-30",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png"
-    },
-    {
-      "title": "Melhores momentos: Columbus 1 x 3 New England Revolution pela MLS",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-columbus-1-x-3-new-england-revolution-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "30 de ago. de 2026",
-      "isoDate": "2026-08-30",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
       "title": "EXCLUSIVO: Ex-técnico do Palmeiras vê brecha para Allan ganhar vaga na Seleção Brasileira",
