@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-31T01:13:54.659Z",
+  "updated": "2026-08-31T08:24:24.474Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Lito Sousa: como superlaboratório brasileiro estuda proteína ligada a doenças raras como a do influenciador",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/31/lito-sousa-como-superlaboratorio-brasileiro-estuda-proteina-ligada-a-doencas-raras-como-a-do-influenciador.ghtml",
+        "summary": "Entenda como funciona a Creutzfeldt-Jakob, doença do influenciador Lito Sousa O diagnóstico recente de doença de Creutzfeldt-Jakob (DCJ) do piloto e influenciador Lito Sousa chamou a atenção do país para uma condição neu",
+        "image": "https://s2-g1.glbimg.com/I7JULYoRCnYFJETt8CWuFtWo0_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/Y/TIGCgLQWWcBVmO6piKeQ/superlaboratorio-sitius.jpg",
+        "date": "31 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Quem eram Carla Vendramin e Silvia Geraldi, pesquisadoras homenageadas em defesa póstuma inédita na Unicamp",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/30/quem-eram-carla-vendramin-e-silvia-geraldi-pesquisadoras-homenageadas-em-defesa-postuma-inedita-na-unicamp.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/30/de-cameras-sovieticas-a-aplicativos-o-que-mudou-na-rotina-dos-detetives-particulares-no-interior-de-sp.ghtml",
         "summary": "De câmeras soviéticas a aplicativos: o que mudou na rotina dos detetives particulares Os filmes de Hollywood ajudaram a entalhar a imagem de um detetive particular na memória coletiva: sobretudo, chapéu e um olhar atento",
         "image": "https://s2-g1.glbimg.com/2LAIQiur4QmZAUqnDN5GHsnYQ5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/t/NG6RMBRk20x6832UF20g/milton-silveira.jpg",
-        "date": "30 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mulher é agredida por namorado e sogro e jogada de carro em movimento em Jaguariúna; dupla foi presa",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/29/mulher-fica-ferida-apos-ser-agredida-pelo-namorado-e-pelo-pai-dele-em-jaguariuna.ghtml",
-        "summary": "Mulher é agredida por namorado e sogro e jogada de carro em movimento em Jaguariúna; dupla foi presa Arquivo pessoal Uma mulher foi agredida pelo namorado e pelo sogro e empurrada para fora de um carro em movimento na no",
-        "image": "https://s2-g1.glbimg.com/KWQV0iYOt6l-sALjLIYcv4qR5IQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/4/PfKUpOQvOMhisyx0xkPw/agressao-jaguariuna.png",
         "date": "30 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasileiro Feminino: Planalto (GO) larga em vantagem na final da A3",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-planalto-go-larga-em-vantagem-na-final-da-a3",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileiro-feminino-planalto-go-larga-em-vantagem-na-final-da-a3 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Jacky Godmann e Gabriel Nascimento são prata no Mundial de Canoagem",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/jacky-godmann-e-gabriel-nascimento-sao-prata-no-mundial-de-canoagem",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/jacky-godmann-e-gabriel-nascimento-sao-prata-no-mundial-de-canoagem img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
@@ -171,19 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Ferroviária é campeã brasileira sub-17 feminina",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-campea-brasileira-sub-17-feminina",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-campea-brasileira-sub-17-feminina img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Análise: Santos aproveita bola parada, mostra organização defensiva e vence primeiro clássico no ano",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-vence-corinthians-eficiencia-classico/",
+        "summary": "O Santos derrotou o Corinthians por 1 a 0 neste domingo, na Neo Química Arena, pela 25ª rodada do Campeonato Brasileiro, e conquistou seu primeiro triunfo em clássicos na temporada. Com um gol de Christian Oliva após cob",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55498912070_24044408f1_o.webp",
+        "date": "31 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Análise: Corinthians decepciona maior público do ano em derrota no clássico",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/analise-corinthians-decepciona-maior-publico-do-ano-em-derrota-no-classico/",
+        "summary": "Confira uma análise da atuação do Corinthians no duelo com o Santos, pela 25ª rodada do Campeonato Brasileiro. O post Análise: Corinthians decepciona maior público do ano em derrota no clássico apareceu primeiro em Gazet",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/248235.webp",
+        "date": "31 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Análise: ausência de Arias pesa, e Palmeiras sente falta de criatividade contra o Mirassol",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/analise-ausencia-arias-pesa-palmeiras-sente-falta-criatividade-mirassol-2026/",
+        "summary": "Sem Jhon Arias, Palmeiras teve dificuldades para criar contra o Mirassol e abusou dos cruzamentos no empate pela 25ª rodada do Brasileirão. O post Análise: ausência de Arias pesa, e Palmeiras sente falta de criatividade ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/30082026_cg_palmeiras_destaque_6573_6.webp",
+        "date": "31 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Barcelona x Rayo Vallecano pelo Espanhol: veja prováveis escalações e onde assistir",
         "link": "https://www.gazetaesportiva.com/campeonatos/laliga/barcelona-x-rayo-vallecano-onde-assistir-laliga/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/bahia/bahia-x-internacional-campeonato-brasileiro-30-08-26/",
         "summary": "O Bahia venceu o Internacional por 3 a 2, neste domingo, na Arena Fonte Nova, pela 25ª rodada do Campeonato Brasileiro. Erick Pulga marcou duas vezes, enquanto Cristian Oliveira também balançou as redes para garantir a v",
         "image": "https://static.gazetaesportiva.com/uploads/2026/08/55497443947_2b88755290_k.webp",
-        "date": "31 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Abel cobra mais do Palmeiras, critica arbitragem e cita desgaste após empate",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-cobra-palmeiras-critica-arbitragem-desgaste-empate-mirassol-2026/",
-        "summary": "Abel Ferreira cobrou mais desempenho do Palmeiras, criticou a arbitragem e destacou o desgaste físico após o empate com o Mirassol. O post Abel cobra mais do Palmeiras, critica arbitragem e cita desgaste após empate apar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/30082026_cg_palmeiras_destaque_6777_21.webp",
-        "date": "31 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos de Grêmio x Chapecoense pelo Campeonato Brasileiro",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-de-gremio-x-chapecoense-pelo-campeonato-brasileiro/",
-        "summary": "Grêmio e Chapecoense se enfrentaram neste domingo, na Arena do Grêmio, pela 25ª rodada do Campeonato Brasileiro. O Tricolor venceu por 3 a 1, de virada, e você pode conferir os principais registros da partida na galeria ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55498595964_19a6cbd725_k.webp",
-        "date": "31 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos de Bahia x Internacional pelo Campeonato Brasileiro",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-de-bahia-x-internacional-pelo-campeonato-brasileiro/",
-        "summary": "Bahia e Internacional se enfrentaram neste domingo, na Arena Fonte Nova, pela 25ª rodada do Campeonato Brasileiro. Confira os principais registros da partida em nossa galeria de fotos. O post Veja fotos de Bahia x Intern",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55498820225_72ee7f6e09_k.webp",
         "date": "31 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Casa de luxo pode ser penhorada por dívida? STJ reforça proteção ao bem de família",
+        "link": "https://www.infomoney.com.br/minhas-financas/casa-de-luxo-pode-ser-penhorada-por-divida-stj-reforca-protecao-ao-bem-de-familia/",
+        "summary": "Tribunal decide que alto valor do imóvel não autoriza penhora e impede venda da residência para pagar credor The post Casa de luxo pode ser penhorada por dívida? STJ reforça proteção ao bem de família appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "31 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula x Flávio: o que cada lado sinaliza fazer com as contas públicas em 2027",
+        "link": "https://www.infomoney.com.br/politica/lula-x-flavio-o-que-cada-lado-sinaliza-fazer-com-as-contas-publicas-em-2027/",
+        "summary": "Continuidade do arcabouço, revisão da regra fiscal e cortes na máquina pública estão entre caminhos discutidos pelas campanhas The post Lula x Flávio: o que cada lado sinaliza fazer com as contas públicas em 2027 appeare",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-28-as-09.42.31.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "date": "31 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tarlula? Pesquisa mostra voto cruzado de Tarcísio com Lula crescendo em São Paulo",
+        "link": "https://www.infomoney.com.br/politica/tarcisio-com-lula-pesquisa-mostra-voto-cruzado-crescendo-em-sao-paulo/",
+        "summary": "Governador consegue avançar sobre lulistas e independentes, enquanto Haddad encontra mais dificuldade para conquistar votos da direita The post Tarlula? Pesquisa mostra voto cruzado de Tarcísio com Lula crescendo em São ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/tarcisio-lula-e1755771593366.webp?fit=300%2C219&amp;quality=70&amp;strip=all",
+        "date": "31 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Onda de recuperações judiciais faz fundos mirarem ganho de até 30% ao ano",
+        "link": "https://www.infomoney.com.br/onde-investir/onda-de-recuperacoes-judiciais-faz-fundos-mirarem-ganho-de-ate-30-ao-ano/",
+        "summary": "Gestores de situações especiais veem nova onda de inadimplência como oportunidade para bons negócios e preparam captações The post Onda de recuperações judiciais faz fundos mirarem ganho de até 30% ao ano appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Flavio-Aragao-051-Capital.jpg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "31 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Nasa lança Telescópio Espacial Roman, um satélite de espionagem de estrelas",
         "link": "https://www.infomoney.com.br/mercados/nasa-lanca-telescopio-espacial-roman-um-satelite-de-espionagem-de-estrelas/",
         "summary": "O telescópio, que se posicionará em órbita além da Lua, foi projetado para investigar enigmas cósmicos, como a energia escura e a matéria escura The post Nasa lança Telescópio Espacial Roman, um satélite de espionagem de",
@@ -327,49 +367,49 @@
         "cls": "brasil"
       },
       {
-        "title": "Trump diz que denunciará jornalista da NBC ao órgão regulador da mídia nos EUA",
-        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-denunciara-jornalista-da-nbc-ao-orgao-regulador-da-midia-nos-eua/",
-        "summary": "O comentário sobre Kristen Welker, da NBC, é o mais recente de uma série de ataques contra a mídia The post Trump diz que denunciará jornalista da NBC ao órgão regulador da mídia nos EUA appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/donald-trump-eua03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "30 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Pixies em São Paulo: pré-venda de ingressos começa hoje; veja preços e como comprar",
+        "link": "https://exame.com/pop/pixies-em-sao-paulo-pre-venda-de-ingressos-comeca-hoje-veja-precos-e-como-comprar/",
+        "summary": "Pré-venda abre às 10h desta segunda-feira, 31, para cadastrados; banda celebra 40 anos com show no Espaço Unimed em abril de 2027",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Benzema rescinde com Al-Hilal e pode encerrar carreira, diz jornalista",
-        "link": "https://www.infomoney.com.br/esportes/benzema-rescinde-com-al-hilal-e-pode-encerrar-carreira-diz-jornalista/",
-        "summary": "Enquanto o Al-Hilal está próximo de acertar a saída do centroavante francês, o inglês Ollie Watkins foi anunciado neste domingo The post Benzema rescinde com Al-Hilal e pode encerrar carreira, diz jornalista appeared fir",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/karim-benzema.png?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "30 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Consumo menor de bebida alcoólica deixa ações do setor com ressaca",
+        "link": "https://exame.com/invest/mercados/consumo-menor-de-bebida-alcoolica-deixa-acoes-do-setor-com-ressaca/",
+        "summary": "Mudança de hábitos, preferência por bebidas sem álcool e hábitos da Geração Z pressionam consumo",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Guarda Revolucionária do Irã promete retaliar ataque dos EUA à ilha de Larak",
-        "link": "https://www.infomoney.com.br/mundo/guarda-revolucionaria-do-ira-promete-retaliar-ataque-dos-eua-a-ilha-de-larak/",
-        "summary": "Guarda Revolucionária do Irã promete retaliar ataque dos EUA à ilha de Larak The post Guarda Revolucionária do Irã promete retaliar ataque dos EUA à ilha de Larak appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T153452Z_1_LYNXMPEM7L0A4_RTROPTP_4_IRAN-CRISIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "30 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Menos 'feeling', mais fórmulas: onde o investimento quantitativo está colocando dinheiro",
+        "link": "https://exame.com/invest/mercados/menos-feeling-mais-formulas-onde-o-investimento-quantitativo-esta-colocando-dinheiro/",
+        "summary": "Estratégia baseada em dados ganha espaço no mercado financeiro e encontra na inteligência artificial uma nova ferramenta de análise",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Agência Fars noticia explosão perto da ilha iraniana de Larak",
-        "link": "https://www.infomoney.com.br/mundo/agencia-fars-noticia-explosao-perto-da-ilha-iraniana-de-larak/",
-        "summary": "Pouco antes, ‌o Axios ​noticiou que os EUA aacaram dois ​lançadores iranianos na ​ilha ⁠de Larak The post Agência Fars noticia explosão perto da ilha iraniana de Larak appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-30T194759Z_1_LYNXMPEM7T0KL_RTROPTP_4_IRAN-CRISIS-USA-MILITARYFAMILIES.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "30 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Por que o risco da IA não está no quanto as empresas investem ‐ mas no como",
+        "link": "https://exame.com/invest/mercados/por-que-o-risco-da-ia-nao-esta-no-quanto-as-empresas-investem-%e2%80%90-mas-no-como/",
+        "summary": "Gastos com chips, data centers e energia já somam trilhões, mas ciclo ainda pode ter espaço para avançar",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Incêndio atinge residência de Kassio Nunes Marques após vazamento em Brasília",
-        "link": "https://exame.com/brasil/incendio-atinge-residencia-de-kassio-nunes-marques-apos-vazamento-em-brasilia/",
-        "summary": "Chamas começaram em forno na área externa do imóvel do presidente do TSE; Corpo de Bombeiros controlou o fogo e não houve feridos",
+        "title": "Aaron Donald sai da aposentadoria e volta aos Rams, com contrato de até US$ 30 milhões",
+        "link": "https://exame.com/esporte/aaron-donald-sai-da-aposentadoria-e-volta-aos-rams-com-contrato-de-ate-us-30-milhoes/",
+        "summary": "Ídolo da franquia assina contrato de um ano por US$ 20 milhões e passa a formar a linha defensiva ao lado de Myles Garrett",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
@@ -377,49 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Brasil bate recorde de inadimplência em 2026 entre famílias, empresas e governo",
-        "link": "https://exame.com/economia/brasil-bate-recorde-de-inadimplencia-em-2026-entre-familias-empresas-e-governo/",
-        "summary": "Taxa no crédito livre chega ao maior patamar em 15 anos, recuperações judiciais avançam no varejo e dívida pública atinge 81,9% do PIB sob juros elevados",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Novo ciclone extratropical aumenta risco de alagamentos e deslizamentos no Sul",
-        "link": "https://exame.com/brasil/novo-ciclone-extratropical-aumenta-risco-de-alagamentos-e-deslizamentos-no-sul/",
-        "summary": "Serra Gaúcha, Planalto Norte e Missões estão entre as áreas de maior risco",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Três meses antes de desastre, Nepal pediu mais dados da China sobre geleiras",
-        "link": "https://exame.com/mundo/tres-meses-antes-de-desastre-nepal-pediu-mais-dados-da-china-sobre-geleiras/",
-        "summary": "Encontro em Catmandu, em maio, discutiu o fortalacimento da cooperação entre os países no monitoramento de inundações, condições climáticas adversas e riscos ligados a geleiras",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EUA atacam Irã no Estreito de Ormuz após semanas de trégua",
-        "link": "https://exame.com/mundo/eua-atacam-ira-no-estreito-de-ormuz-apos-semanas-de-tregua/",
-        "summary": "Ofensiva militar interrompe impasse na região estratégica após inteligência americana detectar preparativos para o lançamento de minas no canal marítimo",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Uma em cada três famílias está endividada na Argentina",
-        "link": "https://exame.com/mundo/uma-em-cada-tres-familias-esta-endividada-na-argentina/",
-        "summary": "Dados do Banco Central e de consultorias apontam 6 milhões de inadimplentes; sem regulação de juros pelo governo Milei, busca por crédito migra para fintechs e agiotagem",
+        "title": "Brasil é superado pela Itália em preparação para o Pré-Olímpico de vôlei",
+        "link": "https://exame.com/esporte/brasil-e-superado-pela-italia-em-preparacao-para-o-pre-olimpico-de-volei/",
+        "summary": "eleção venceu a primeira parcial, mas sofreu a virada dos donos da casa no torneio amistoso disputado em Messina",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
