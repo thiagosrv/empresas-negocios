@@ -1,62 +1,7 @@
 {
-  "updated": "2026-08-31T20:04:28.623Z",
+  "updated": "2026-08-31T23:50:46.534Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Siga as novidades do Mercado da Bola desta segunda-feira, 31 de agosto",
-      "link": "https://www.gazetaesportiva.com/futebol/mercado/siga-as-novidades-do-mercado-da-bola-desta-segunda-feira-31-de-agosto/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a5.png"
-    },
-    {
-      "title": "Gabriel Jesus desembarca na Espanha para exames antes de assinar com o Barcelona",
-      "link": "https://www.gazetaesportiva.com/times/barcelona/gabriel-jesus-chega-espanha-assinar-barcelona/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6ec.png"
-    },
-    {
-      "title": "Karim Benzema rescinde com o Al-Hilal e pode anunciar aposentadoria",
-      "link": "https://www.gazetaesportiva.com/al-hilal/karim-benzema-rescinde-com-al-hilal-e-avalia-futuro/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f539.png"
-    },
-    {
-      "title": "Messi anuncia aposentadoria da seleção argentina após 21 anos",
-      "link": "https://www.gazetaesportiva.com/times/argentina/messi-anuncia-aposentadoria-da-selecao-argentina/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Bastidores: O primeiro dia de Kamil Grabara na Juventus",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-o-primeiro-dia-de-kamil-grabara-na-juventus/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
     {
       "title": "Nova contratação do Flamengo chega ao Rio de Janeiro para assinar contrato",
       "link": "https://www.gazetaesportiva.com/times/flamengo/nova-contratacao-do-flamengo-chega-ao-rio-de-janeiro-para-assinar-contrato/",
@@ -66,7 +11,7 @@
       "isoDate": "2026-08-31",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Daniel Alves é condenado a pagar R$ 12 milhões a clube mexicano",
@@ -77,7 +22,7 @@
       "isoDate": "2026-08-31",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Com assistência de Wesley, Roma goleia Lecce e assume a liderança do Italiano",
@@ -89,6 +34,61 @@
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Veja fotos do duelo entre Aston Villa e Arsenal pelo Inglês",
+      "link": "https://www.gazetaesportiva.com/futebol/veja-fotos-do-duelo-entre-aston-villa-e-arsenal-pelo-ingles/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja fotos de Benfica x Estoril pelo Campeonato Português",
+      "link": "https://www.gazetaesportiva.com/times/benfica/veja-fotos-de-benfica-x-estoril-pelo-campeonato-portugues-3/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Com gol de Saka, Arsenal bate Aston Villa e vence segunda pelo Inglês",
+      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/com-gol-de-saka-arsenal-bate-aston-villa-e-vence-segunda-pelo-ingles/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Benfica supera Estoril em casa e vence a segunda pelo Português",
+      "link": "https://www.gazetaesportiva.com/times/benfica/benfica-supera-estoril-em-casa-e-vence-a-segunda-pelo-portugues/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Ex-Santos chega a 200 jogos na carreira e relembra trajetória: &#8220;Passa um filme&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/santos/gabriel-pirani-200-jogos-carreira-ex-santos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "31 de ago. de 2026",
+      "isoDate": "2026-08-31",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f981.png"
     },
     {
       "title": "EXCLUSIVO: Ex-técnico do Palmeiras vê brecha para Allan ganhar vaga na Seleção Brasileira",
