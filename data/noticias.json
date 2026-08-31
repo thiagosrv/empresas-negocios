@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-30T22:32:46.967Z",
+  "updated": "2026-08-31T01:13:54.659Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Quem eram Carla Vendramin e Silvia Geraldi, pesquisadoras homenageadas em defesa póstuma inédita na Unicamp",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/30/quem-eram-carla-vendramin-e-silvia-geraldi-pesquisadoras-homenageadas-em-defesa-postuma-inedita-na-unicamp.ghtml",
+        "summary": "Aluna e orientadora morrem antes de banca e Unicamp tem 1ª defesa póstuma de doutorado A defesa póstuma inédita realizada pela Unicamp na segunda-feira (24) transformou uma tese em homenagem ao encontro de duas pesquisad",
+        "image": "https://s2-g1.glbimg.com/3fpOfSvJkJoVexmHfhz37w_8kIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/2/I8pgmpQIe088ROws3NZg/2.png",
+        "date": "30 de ago. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Região de Campinas tem 3,2 mil vagas de emprego abertas nesta segunda; veja onde se candidatar",
         "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/08/30/regiao-de-campinas-tem-32-mil-vagas-de-emprego-abertas-nesta-segunda-veja-onde-se-candidatar.ghtml",
@@ -48,16 +58,6 @@
         "summary": "Mulher é agredida por namorado e sogro e jogada de carro em movimento em Jaguariúna; dupla foi presa Arquivo pessoal Uma mulher foi agredida pelo namorado e pelo sogro e empurrada para fora de um carro em movimento na no",
         "image": "https://s2-g1.glbimg.com/KWQV0iYOt6l-sALjLIYcv4qR5IQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/4/PfKUpOQvOMhisyx0xkPw/agressao-jaguariuna.png",
         "date": "30 de ago. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Com alta de 17% no 1º semestre, eventos geram 17 mil empregos em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/29/com-alta-de-17percent-no-1o-semestre-eventos-geram-17-mil-empregos-em-campinas.ghtml",
-        "summary": "Campinas gera 17 mil empregos a mais com eventos no primeiro semestre O setor de eventos gerou 17,4 mil novos empregos em Campinas (SP) no primeiro semestre deste ano, em comparação com o mesmo período do ano passado. Co",
-        "image": "https://s2-g1.glbimg.com/2k18nGpGCmdLtFbWSpCOhO7JqFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/e/CZG50QTs22EX1AJLevTg/eptv2-2908-cresce-event-cp004fli-2026-08-29-16-39-19.mxf-snapshot-00.46.151.jpg",
-        "date": "29 de ago. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -185,61 +185,61 @@
     ],
     "esportes": [
       {
-        "title": "Bahia x Internacional: siga o tempo real do jogo pelo Campeonato Brasileiro",
+        "title": "Barcelona x Rayo Vallecano pelo Espanhol: veja prováveis escalações e onde assistir",
+        "link": "https://www.gazetaesportiva.com/campeonatos/laliga/barcelona-x-rayo-vallecano-onde-assistir-laliga/",
+        "summary": "O Barcelona recebe o Rayo Vallecano nesta segunda-feira, no Camp Nou, pela terceira rodada do Campeonato Espanhol. Com 100% de aproveitamento nas duas primeiras rodadas, a equipe de Hansi Flick busca a liderança da compe",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260827__C6P46A2__v1__HighRes__FblEspLigaBarcelonaAthleticBilbao.webp",
+        "date": "31 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Melhores momentos: Bahia 3 x 2 Internacional pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-bahia-3-x-2-internacional-pelo-brasileirao/",
+        "summary": "Melhores momentos: Bahia 3 x 2 Internacional pelo Brasileirão O post Melhores momentos: Bahia 3 x 2 Internacional pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55498820225_72ee7f6e09_k.webp",
+        "date": "31 de ago. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Com dois de Pulga, Bahia vence Internacional, amplia série invicta e sobe para quinto no Brasileirão",
         "link": "https://www.gazetaesportiva.com/times/bahia/bahia-x-internacional-campeonato-brasileiro-30-08-26/",
-        "summary": "Bahia e Internacional se enfrentam neste domingo, pela 25ª rodada do Campeonato Brasileiro. A bola rola às 18h30, na Arena Fonte Nova, em Salvador. Acompanhe todos os lances, gols e principais acontecimentos da partida e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55152158488_68537f89e5_k.webp",
-        "date": "30 de ago. de 2026",
+        "summary": "O Bahia venceu o Internacional por 3 a 2, neste domingo, na Arena Fonte Nova, pela 25ª rodada do Campeonato Brasileiro. Erick Pulga marcou duas vezes, enquanto Cristian Oliveira também balançou as redes para garantir a v",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55497443947_2b88755290_k.webp",
+        "date": "31 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "ASA e Uberlândia avançam às finais da Série D do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/asa-e-uberlandia-avancam-as-finais-da-serie-d-do-brasileirao/",
-        "summary": "Dois empates neste domingo (30) definiram os finalistas da Série D do Campeonato Brasileiro de 2026. No Distrito Federal, o ASA empatou o Gama por 0 a 0 e garantiu sua vaga, já que havia vencido o jogo de ida em casa por",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/asa_comemora.webp",
-        "date": "30 de ago. de 2026",
+        "title": "Abel cobra mais do Palmeiras, critica arbitragem e cita desgaste após empate",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-cobra-palmeiras-critica-arbitragem-desgaste-empate-mirassol-2026/",
+        "summary": "Abel Ferreira cobrou mais desempenho do Palmeiras, criticou a arbitragem e destacou o desgaste físico após o empate com o Mirassol. O post Abel cobra mais do Palmeiras, critica arbitragem e cita desgaste após empate apar",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/30082026_cg_palmeiras_destaque_6777_21.webp",
+        "date": "31 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do clássico entre Corinthians e Santos pelo Brasileiro",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/veja-fotos-do-classico-entre-corinthians-e-santos-pelo-brasileiro/",
-        "summary": "Veja uma galeria de fotos do clássico entre Corinthians e Santos, pela 25ª rodada do Campeonato Brasileiro. O post Veja fotos do clássico entre Corinthians e Santos pelo Brasileiro apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/248243.webp",
-        "date": "30 de ago. de 2026",
+        "title": "Veja fotos de Grêmio x Chapecoense pelo Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-de-gremio-x-chapecoense-pelo-campeonato-brasileiro/",
+        "summary": "Grêmio e Chapecoense se enfrentaram neste domingo, na Arena do Grêmio, pela 25ª rodada do Campeonato Brasileiro. O Tricolor venceu por 3 a 1, de virada, e você pode conferir os principais registros da partida na galeria ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55498595964_19a6cbd725_k.webp",
+        "date": "31 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Paris FC 3 x 0 Nice pelo Francês",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-paris-fc-3-x-0-nice-pelo-frances/",
-        "summary": "Melhores momentos: Paris FC 3 x 0 Nice pelo Francês O post Melhores momentos: Paris FC 3 x 0 Nice pelo Francês apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Paris-F.webp",
-        "date": "30 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Neymar projeta reação do Santos contra o Palmeiras: “A responsabilidade é deles”",
-        "link": "https://www.gazetaesportiva.com/times/santos/neymar-reacao-palmeiras-copa-do-brasil/",
-        "summary": "Após a vitória do Santos sobre o Corinthians pelo Campeonato Brasileiro, Neymar projetou o duelo decisivo contra o Palmeiras pelas quartas de final da Copa do Brasil. O atacante mostrou confiança em uma possível remontad",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HQ_pM9JWMAA0rhA.webp",
-        "date": "30 de ago. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Garro lamenta derrota do Corinthians em clássico: Não adianta falar",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/garro-lamenta-derrota-do-corinthians-em-classico-nao-adianta-falar/",
-        "summary": "O Corinthians perdeu por 1 a 0 para o Santos neste domingo, pela 25ª rodada do Campeonato Brasileiro, na Neo Química Arena. O meia Rodrigo Garro lamentou o revés, evitou desculpas e afirmou que o Timão precisa \"continuar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/248230.webp",
-        "date": "30 de ago. de 2026",
+        "title": "Veja fotos de Bahia x Internacional pelo Campeonato Brasileiro",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/veja-fotos-de-bahia-x-internacional-pelo-campeonato-brasileiro/",
+        "summary": "Bahia e Internacional se enfrentaram neste domingo, na Arena Fonte Nova, pela 25ª rodada do Campeonato Brasileiro. Confira os principais registros da partida em nossa galeria de fotos. O post Veja fotos de Bahia x Intern",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55498820225_72ee7f6e09_k.webp",
+        "date": "31 de ago. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Nasa lança Telescópio Espacial Roman, um satélite de espionagem de estrelas",
+        "link": "https://www.infomoney.com.br/mercados/nasa-lanca-telescopio-espacial-roman-um-satelite-de-espionagem-de-estrelas/",
+        "summary": "O telescópio, que se posicionará em órbita além da Lua, foi projetado para investigar enigmas cósmicos, como a energia escura e a matéria escura The post Nasa lança Telescópio Espacial Roman, um satélite de espionagem de",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-31T001124Z_1_LYNXMPEM7U00C_RTROPTP_4_SPACE-NASA-TELESCOPE.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
+        "date": "31 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "O lado do GLP-1 que ninguém comenta nas redes, mas milhões assistem",
+        "link": "https://www.infomoney.com.br/consumo/o-lado-do-glp-1-que-ninguem-comenta-nas-redes-mas-milhoes-assistem/",
+        "summary": "Enquanto conteúdos sobre estética dominam as redes, usuários buscam informações sobre efeitos menos discutidos publicamente, segundo um estudo da consultoria Winnin The post O lado do GLP-1 que ninguém comenta nas redes,",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/vitaly-gariev-drg_Bj-JULQ-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "31 de ago. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Trump diz que denunciará jornalista da NBC ao órgão regulador da mídia nos EUA",
         "link": "https://www.infomoney.com.br/mundo/trump-diz-que-denunciara-jornalista-da-nbc-ao-orgao-regulador-da-midia-nos-eua/",
         "summary": "O comentário sobre Kristen Welker, da NBC, é o mais recente de uma série de ataques contra a mídia The post Trump diz que denunciará jornalista da NBC ao órgão regulador da mídia nos EUA appeared first on InfoMoney.",
@@ -347,24 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Governo Lula anuncia que Correios vai receber aporte de R$ 6 bi no PLOA 2027",
-        "link": "https://www.infomoney.com.br/politica/governo-lula-anuncia-que-correios-vai-receber-aporte-de-r-6-bi-no-ploa-2027/",
-        "summary": "O Projeto de Lei Orçamentária Anual deve ser enviado pelo governo ao Congresso Nacional nesta segunda-feira, dia 31 The post Governo Lula anuncia que Correios vai receber aporte de R$ 6 bi no PLOA 2027 appeared first on ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/08/cropped-correios.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "title": "Incêndio atinge residência de Kassio Nunes Marques após vazamento em Brasília",
+        "link": "https://exame.com/brasil/incendio-atinge-residencia-de-kassio-nunes-marques-apos-vazamento-em-brasilia/",
+        "summary": "Chamas começaram em forno na área externa do imóvel do presidente do TSE; Corpo de Bombeiros controlou o fogo e não houve feridos",
+        "image": null,
         "date": "30 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Nepal inicia enterros coletivos de vítimas não identificadas de enchentes",
-        "link": "https://www.infomoney.com.br/mundo/nepal-inicia-enterros-coletivos-de-vitimas-nao-identificadas-de-enchentes/",
-        "summary": "As autoridades enterraram 96 corpos não identificados na floresta no sábado e planejavam enterrar mais de 100 outros no domingo The post Nepal inicia enterros coletivos de vítimas não identificadas de enchentes appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-30T190700Z_1_LYNXMPEM7T0J9_RTROPTP_4_NEPAL-FLOODS-MASSBURIAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "30 de ago. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Brasil bate recorde de inadimplência em 2026 entre famílias, empresas e governo",
@@ -410,16 +420,6 @@
         "title": "Uma em cada três famílias está endividada na Argentina",
         "link": "https://exame.com/mundo/uma-em-cada-tres-familias-esta-endividada-na-argentina/",
         "summary": "Dados do Banco Central e de consultorias apontam 6 milhões de inadimplentes; sem regulação de juros pelo governo Milei, busca por crédito migra para fintechs e agiotagem",
-        "image": null,
-        "date": "30 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Congresso vota nesta semana fim da escala 6x1 e 'taxa das blusinhas'",
-        "link": "https://exame.com/brasil/congresso-vota-nesta-semana-fim-da-escala-6x1-e-taxa-das-blusinhas/",
-        "summary": "Câmara também vota nesta segunda, 31, medidas para mototaxistas e entregadores",
         "image": null,
         "date": "30 de ago. de 2026",
         "source": "Exame",
