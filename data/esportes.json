@@ -1,73 +1,7 @@
 {
-  "updated": "2026-09-01T18:30:24.211Z",
+  "updated": "2026-09-01T21:46:38.262Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Ex-Palmeiras, Allan fala sobre chegada ao Manchester City",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/ex-palmeiras-allan-fala-sobre-chegada-ao-manchester-city/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Confrontos da 1ª rodada da Fase de Liga da Champions 2026/27",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/confrontos-da-1a-rodada-da-fase-de-liga-da-champions-2026-27/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Kompany confirma Urbig titular no Bayern: &#8220;Temos enorme confiança no Jonas&#8221;",
-      "link": "https://www.gazetaesportiva.com/times/bayern/kompany-confirma-urbig-titular-no-bayern-temos-enorme-confianca-no-jonas/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "&#8216;Não me incomoda&#8217;, diz Gabriel Jesus sobre ser &#8216;plano B&#8217; de Julián Álvarez",
-      "link": "https://www.gazetaesportiva.com/times/barcelona/gabriel-jesus-diz-nao-se-incomodar-com-status-de-plano-b-no-barcelona/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/260e.png"
-    },
-    {
-      "title": "Zagueiro Antonio Rudiger anuncia aposentadoria da seleção alemã",
-      "link": "https://www.gazetaesportiva.com/times/alemanha/zagueiro-antonio-rudiger-anuncia-aposentadoria-da-selecao-alema/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Condições frustram Santos, e negociação por Emerson Palmieri não avança",
-      "link": "https://www.gazetaesportiva.com/times/santos/emerson-palmieri-santos-negociacao-nao-avanca/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f31f.png"
-    },
     {
       "title": "&#8220;Legado de Messi ficará para sempre&#8221;, destaca David Beckham",
       "link": "https://www.gazetaesportiva.com/futebol/legado-de-messi-ficara-para-sempre-destaca-david-beckham/",
@@ -89,6 +23,72 @@
       "category": "Mercado",
       "categoryColor": "#e67e22",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f31f.png"
+    },
+    {
+      "title": "Argentina vive momento de incerteza sem Messi e com futuro de Scaloni indefinido",
+      "link": "https://www.gazetaesportiva.com/times/argentina/argentina-vive-momento-de-incerteza-sem-messi-e-com-futuro-de-scaloni-indefinido/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Robinho Jr. assina com clube italiano e deixa o Santos por empréstimo",
+      "link": "https://www.gazetaesportiva.com/times/santos/robinho-jr-assina-com-clube-italiano-e-deixa-o-santos-por-emprestimo/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3f3.png"
+    },
+    {
+      "title": "Juventus empresta atacante canadense Jonathan David ao Atlético de Madrid",
+      "link": "https://www.gazetaesportiva.com/futebol/mercado/juventus-empresta-atacante-canadense-jonathan-david-ao-atletico-de-madrid/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: Al Hilal 3 x 0 Al Ahli pelo Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-hilal-3-x-0-al-ahli-pelo-saudita/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Borussia Dortmund goleia time amador e avança à segunda fase da Copa da Alemanha",
+      "link": "https://www.gazetaesportiva.com/times/borussia-dortmund/borussia-dortmund-goleia-time-amador-e-avanca-a-segunda-fase-da-copa-da-alemanha/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f929.png"
+    },
+    {
+      "title": "Monza derrota Torino e enfrentará o Milan nas oitavas da Copa da Itália",
+      "link": "https://www.gazetaesportiva.com/times/torino/monza-derrota-torino-e-enfrentara-o-milan-nas-oitavas-da-copa-da-italia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
       "title": "SAF com Ronaldo Fenômeno e Roberto Carlos é aprovada pela Inter de Limeira",
