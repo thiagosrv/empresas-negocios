@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-01T10:05:56.383Z",
+  "updated": "2026-09-01T14:53:16.638Z",
   "totalOk": 3,
   "items": [
+    {
+      "title": "Confira os melhores gols da semana da Liga Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-liga-saudita-8/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Confira os melhores gols da semana da MLS",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-os-melhores-gols-da-semana-da-mls-8/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Barcelona anuncia contratação de Gabriel Jesus como novo reforço",
+      "link": "https://www.gazetaesportiva.com/times/barcelona/gabriel-jesus-anunciado-pelo-barcelona/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Confira as melhores defesas da semana da MLS",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/confira-as-melhores-defesas-da-semana-da-mls-9/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Meia do Napoli se afasta dos gramados para passar por procedimento cardíaca",
+      "link": "https://www.gazetaesportiva.com/times/napoli/mctominay-arritmia-ablacao-cardiaca-napoli/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja as capas dos jornais argentinos estampadas com a aposentadoria de Messi na seleção",
+      "link": "https://www.gazetaesportiva.com/messi/veja-as-capas-dos-jornais-argentinos-estampadas-com-a-aposentadoria-de-messi-na-selecao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Confira a trajetória de Bradley Barcola em Paris",
+      "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/confira-a-trajetoria-de-bradley-barcola-em-paris/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ex-Palmeiras, Allan fala sobre chegada ao Manchester City",
+      "link": "https://www.gazetaesportiva.com/times/manchester-city/ex-palmeiras-allan-fala-sobre-chegada-ao-manchester-city/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de set. de 2026",
+      "isoDate": "2026-09-01",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
     {
       "title": "SAF com Ronaldo Fenômeno e Roberto Carlos é aprovada pela Inter de Limeira",
       "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/inter-limeira-aprova-saf-ronaldo-roberto-carlos/",
@@ -12,94 +100,6 @@
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Nova contratação do Flamengo chega ao Rio de Janeiro para assinar contrato",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/nova-contratacao-do-flamengo-chega-ao-rio-de-janeiro-para-assinar-contrato/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Daniel Alves é condenado a pagar R$ 12 milhões a clube mexicano",
-      "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/daniel-alves-pumas-indenizacao-suica/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Com assistência de Wesley, Roma goleia Lecce e assume a liderança do Italiano",
-      "link": "https://www.gazetaesportiva.com/times/roma/com-assistencia-de-wesley-roma-goleia-lecce-e-assume-a-lideranca-do-italiano/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Veja fotos do duelo entre Aston Villa e Arsenal pelo Inglês",
-      "link": "https://www.gazetaesportiva.com/futebol/veja-fotos-do-duelo-entre-aston-villa-e-arsenal-pelo-ingles/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Veja fotos de Benfica x Estoril pelo Campeonato Português",
-      "link": "https://www.gazetaesportiva.com/times/benfica/veja-fotos-de-benfica-x-estoril-pelo-campeonato-portugues-3/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Com gol de Saka, Arsenal bate Aston Villa e vence segunda pelo Inglês",
-      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/com-gol-de-saka-arsenal-bate-aston-villa-e-vence-segunda-pelo-ingles/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
-    },
-    {
-      "title": "Benfica supera Estoril em casa e vence a segunda pelo Português",
-      "link": "https://www.gazetaesportiva.com/times/benfica/benfica-supera-estoril-em-casa-e-vence-a-segunda-pelo-portugues/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Ex-Santos chega a 200 jogos na carreira e relembra trajetória: &#8220;Passa um filme&#8221;",
-      "link": "https://www.gazetaesportiva.com/times/santos/gabriel-pirani-200-jogos-carreira-ex-santos/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "31 de ago. de 2026",
-      "isoDate": "2026-08-31",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f981.png"
     },
     {
       "title": "EXCLUSIVO: Ex-técnico do Palmeiras vê brecha para Allan ganhar vaga na Seleção Brasileira",
