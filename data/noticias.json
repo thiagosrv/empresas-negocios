@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T01:06:44.261Z",
+  "updated": "2026-09-01T07:31:53.217Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,46 @@
         "cls": "servicos"
       },
       {
+        "title": "De virada, Coritiba vence Remo no fim da 25ª rodada do Brasileirão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/de-virada-coritiba-vence-remo-no-fim-da-25a-rodada-do-brasileirao",
+        "summary": "p strong A 25ª rodada do Campeonato Brasileiro terminou na noite desta segunda-feira (31). No Mangueirão, em Belém, o Coritiba superou o Remo por 3 a 2, em jogo com duas viradas no marcador e decidido nos acréscimos do s",
+        "image": null,
+        "date": "01 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Corinthians vence Cruzeiro e fica a um empate das semifinais",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/corinthians-vence-cruzeiro-e-fica-um-empate-das-semifinais",
+        "summary": "p O Corinthians saiu na frente do Cruzeiro pelas quartas de final da Série A1 (primeira divisão) do Campeonato Brasileiro Feminino de futebol. Nesta segunda-feira (31), as Brabas venceram as Cabulosas por 1 a 0 na Arena ",
+        "image": null,
+        "date": "01 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Instituto Vladimir Herzog alerta Fachin sobre interferência dos EUA",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/instituto-vladimir-herzog-alerta-fachin-sobre-interferencia-dos-eua",
+        "summary": "p strong O presidente do Instituto Vladimir Herzog, Rogério Sottili, alertou, em carta enviada ao presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, para o risco de interferência dos Estados Unidos nas ",
+        "image": null,
+        "date": "01 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Confira como foi a segunda-feira (31) dos candidatos a presidente",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-segunda-feira-31-dos-candidatos-presidente",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-segunda-feira-31-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "01 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Arrecadação com ‘imposto do pecado’ deve chegar a R$ 41,9 bi em 2027",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-com-imposto-do-pecado-deve-chegar-r-419-bi-em-2027",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-com-imposto-do-pecado-deve-chegar-r-419-bi-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
@@ -141,105 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Governo prevê arrecadar R$ 636 bilhões com nova CBS em 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-preve-arrecadar-r-636-bi-com-nova-cbs-em-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-preve-arrecadar-r-636-bi-com-nova-cbs-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "EBC lança Centro de Inovação e Pesquisa em Comunicação Pública",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Governo publica regras para proteger consumidores em grandes eventos",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/governo-publica-regras-para-proteger-consumidores-em-grandes-eventos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/governo-publica-regras-para-proteger-consumidores-em-grandes-eventos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bolsa Família não terá reajuste previsto no Orçamento de 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bolsa-familia-nao-tera-reajuste-previsto-no-orcamento-de-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bolsa-familia-nao-tera-reajuste-previsto-no-orcamento-de-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Coritiba bate Remo com gol no fim e fica mais perto do G5 do Brasileiro",
-        "link": "https://www.gazetaesportiva.com/futebol/remo-x-coritiba-brasileirao-2026/",
-        "summary": "Coritiba venceu o Remo por 3 a 2 no Mangueirão com gol de Pedro Rocha nos acréscimos e encostou no G5 do Brasileirão. O post Coritiba bate Remo com gol no fim e fica mais perto do G5 do Brasileiro apareceu primeiro em Ga",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-31_215915159.webp",
+        "title": "SDC Sports faz reunião com Conselho e se diz pronta para assumir SAF do Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/sdc-sports-avanca-negociacoes-saf-santos/",
+        "summary": "A SDC Sports avançou nas negociações para investir na futura SAF do Santos. Representantes do grupo se apresentaram ao Conselho Deliberativo e detalharam o projeto, que ainda depende de aprovações internas e mudanças no ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Captura-de-tela-2026-09-01-004846.webp",
         "date": "01 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Comercial bate o São Bernardo e larga na frente pelos playoffs da Copa Paulista",
-        "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/comercial-bate-o-sao-bernardo-e-larga-na-frente-pelos-playoffs-da-copa-paulista/",
-        "summary": "O Comercial venceu o São Bernardo por 1 a 0 nesta segunda-feira, no Estádio Palma Travassos, em Ribeirão Preto, pelo jogo de ida dos playoffs da Copa Paulista. O único gol da partida foi marcado por Filipinho, que aprove",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/WhatsApp-Image-2026-08-31-at-21.37.34.webp",
+        "title": "SAF com Ronaldo Fenômeno e Roberto Carlos é aprovada pela Inter de Limeira",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-c/inter-limeira-aprova-saf-ronaldo-roberto-carlos/",
+        "summary": "A Inter de Limeira aprovou a constituição de sua Sociedade Anônima do Futebol (SAF) em Assembleia Geral Extraordinária realizada nesta segunda-feira. O modelo prevê a venda de 80% das ações para um grupo de investidores ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Ronaldo-e-Roberto-Carlos.jpg.webp",
         "date": "01 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fortaleza cede empate ao Operário-PR e se distancia do G2 da Série B",
-        "link": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-x-operario-pr-serie-b-rodada-25/",
-        "summary": "Fortaleza e Operário-PR empataram por 1 a 1 nesta segunda-feira (31), na Arena Castelão, pela 25ª rodada da Série B do Campeonato Brasileiro. Maílton abriu o placar para o time cearense ainda no primeiro tempo, mas Ángel",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/HRFo9D_WsAAPwUo.webp",
+        "title": "Giulia Carvalho e Leo Alcântara quebram recordes sul-americanos no Troféu José Finkel",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/natacao/giulia-carvalho-e-leo-alcantara-recordes-sul-americanos-trofeu-jose-finkel-2026/",
+        "summary": "Giulia Carvalho e Leonardo Alcântara bateram recordes sul-americanos no primeiro dia do Troféu José Finkel. Competição vale vaga no Mundial de Piscina Curta. O post Giulia Carvalho e Leo Alcântara quebram recordes sul-am",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-31_234600698.webp",
         "date": "01 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com gol no fim, Corinthians vence o Cruzeiro na ida das quartas do Brasileirão feminino",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/com-gol-no-fim-corinthians-vence-o-cruzeiro-na-ida-das-quartas-do-brasileirao-feminino/",
-        "summary": "Com gol de Vic Albuquerque aos 50 minutos do segundo tempo, o Corinthians venceu o Cruzeiro por 1 a 0 e abriu vantagem nas quartas do Brasileiro feminino. O post Com gol no fim, Corinthians vence o Cruzeiro na ida das qu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/imagem_2026-08-31_204947099.webp",
+        "title": "Bia Zaneratto lamenta pênalti perdido em empate do Palmeiras com o Bahia",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/bia-zaneratto-lamenta-penalti-palmeiras-bahia-brasileirao-feminino/",
+        "summary": "Palmeiras e Bahia empataram por 1 a 1 no jogo de ida das quartas de final do Brasileirão Feminino, disputado na Arena Fonte Nova, em Salvador. Após a partida, a atacante e capitã Bia Zaneratto lamentou o pênalti desperdi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55501289273_6e1e7af098_o.webp",
         "date": "01 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Hansi Flick exalta Gabriel Jesus e celebra chegada do brasileiro ao Barcelona",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/hansi-flick-exalta-gabriel-jesus-e-celebra-chegada-do-brasileiro-ao-barcelona/",
-        "summary": "O técnico do Barcelona, Hansi Flick, elogiou Gabriel Jesus após a vitória sobre o Rayo Vallecano pelo Campeonato Espanhol. O treinador classificou o brasileiro como um \"atacante top\" e afirmou que ele pode agregar muito ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/02/AFP__20260215__97MZ8JG__v1__HighRes__776452864.webp",
-        "date": "31 de ago. de 2026",
+        "title": "Wawrinka se despede dos Grand Slams com derrota no US Open",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/wawrinka-se-despede-dos-grand-slams-com-derrota-no-us-open/",
+        "summary": "Stan Wawrinka disputou seu último jogo em Grand Slams ao ser derrotado por Matteo Berrettini na estreia do US Open. Suíço encerra carreira ao fim da temporada. O post Wawrinka se despede dos Grand Slams com derrota no US",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260831__2292901937__v1__HighRes__2026UsOpenDay2.webp",
+        "date": "01 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-Santos chega a 200 jogos na carreira e relembra trajetória: Passa um filme",
-        "link": "https://www.gazetaesportiva.com/times/santos/gabriel-pirani-200-jogos-carreira-ex-santos/",
-        "summary": "Revelado pelo Santos, Gabriel Pirani alcançou a marca de 200 jogos como profissional aos 24 anos. Atualmente no San Diego, o meia relembrou a trajetória que também teve passagens por Fluminense, Cuiabá e D.C. United. O p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Pirani-San-Diego-4.jpg-1.webp",
-        "date": "31 de ago. de 2026",
+        "title": "Bia erra pênalti, e Palmeiras empata com o Bahia pelo Brasileiro feminino",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/bahia-palmeiras-empate-quartas-brasileirao-feminino-2026/",
+        "summary": "Bahia e Palmeiras empataram em 1 a 1 nesta segunda-feira (31), na Arena Fonte Nova, em Salvador, pelo jogo de ida das quartas de final do Brasileirão Feminino. O Palmeiras abriu o placar com Brena, aos 29 minutos do prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55501289273_6e1e7af098_o.webp",
+        "date": "01 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Ações da Shein despencam 10% em estreia na Bolsa de Hong Kong",
+        "link": "https://www.infomoney.com.br/mercados/acoes-da-shein-despencam-10-em-estreia-na-bolsa-de-hong-kong/",
+        "summary": "Varejista enfrenta dúvidas sobre crescimento diante de tarifas mais altas, pressão regulatória e concorrência de Temu e Alibaba The post Ações da Shein despencam 10% em estreia na Bolsa de Hong Kong appeared first on Inf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/466145364.jpg?fit=300%2C230&amp;quality=70&amp;strip=all",
+        "date": "01 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Anthropic fecha acordo de US$ 35 bilhões para ampliar capacidade de IA",
+        "link": "https://www.infomoney.com.br/business/anthropic-fecha-acordo-de-us-35-bilhoes-para-ampliar-capacidade-de-ia/",
+        "summary": "Contrato com a Lambda, provedora de nuvem apoiada pela Nvidia, faz parte da corrida da dona do Claude para expandir sua infraestrutura de computação The post Anthropic fecha acordo de US$ 35 bilhões para ampliar capacida",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/5WWIA5MXEJOR5CZTTNGXYY3UP4.jpg?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "date": "01 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Secretário do Exército dos EUA deixará cargo em nova saída na gestão Trump",
+        "link": "https://www.infomoney.com.br/mundo/secretario-do-exercito-dos-eua-deixara-cargo-em-nova-saida-na-gestao-trump/",
+        "summary": "Dan Driscoll, aliado de JD Vance, deixa a função após 18 meses em meio a uma série de mudanças na cúpula militar e relatos de tensões com Pete Hegseth The post Secretário do Exército dos EUA deixará cargo em nova saída n",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-31T231913Z_530877441_RC2FCLAELN2Q_RTRMADP_3_USA-ARMY-DRISCOLL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "01 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Empresa dos EUA assumirá campos de petróleo da China e da Rússia na Venezuela",
+        "link": "https://www.infomoney.com.br/mundo/empresa-dos-eua-assumira-campos-de-petroleo-da-china-e-da-russia-na-venezuela/",
+        "summary": "Acordo faz parte da estratégia de Trump para ampliar a influência americana sobre as reservas venezuelanas e redirecionar o petróleo do país para os EUA The post Empresa dos EUA assumirá campos de petróleo da China e da ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-31T231602Z_1_LYNXMPEM7U1WU_RTROPTP_4_USA-TRUMP-VENEZUELA.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
+        "date": "01 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Dia de Sorte: confira o resultado do concurso 1286 sorteado nesta segunda (31)",
         "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1286-sorteado-nesta-segunda-31/",
         "summary": "Veja os números sorteados no concurso do Dia de Sorte, o Mês da Sorte e o valor estimado do prêmio The post Dia de Sorte: confira o resultado do concurso 1286 sorteado nesta segunda (31) appeared first on InfoMoney.",
@@ -327,44 +367,34 @@
         "cls": "brasil"
       },
       {
-        "title": "Lotomania: confira o resultado do concurso 2970 sorteado nesta segunda-feira (31)",
-        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2970-sorteado-nesta-segunda-feira-31/",
-        "summary": "Veja as 20 dezenas sorteadas no concurso 2970 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 2970 sorteado nesta segunda-feira (31) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Image-8.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Open Finance chega a 240 milhões de consentimentos, mas 61,5% das consultas são desperdício",
+        "link": "https://exame.com/future-of-money/open-finance-chega-a-240-milhoes-de-consentimentos-mas-615-das-consultas-sao-desperdicio/",
+        "summary": "Estudo da Zetta sugere maneiras de tornar a plataforma mais efetiva, reduzindo fricção na portabilidade salarial e do crédito consignado, por exemplo",
+        "image": null,
         "date": "01 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Tarcísio de Freitas é multado pelo TRE-SP por discurso eleitoral em culto evangélico",
-        "link": "https://www.infomoney.com.br/politica/tarcisio-de-freitas-e-multado-pelo-tre-sp-por-discurso-eleitoral-em-culto-evangelico/",
-        "summary": "Procurada, a campanha de Tarcísio ainda não se manifestou The post Tarcísio de Freitas é multado pelo TRE-SP por discurso eleitoral em culto evangélico appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-16-at-15.55.07.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "01 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "Lupin ganha primeiras imagens da 4ª temporada; veja o que sabemos até agora",
+        "link": "https://exame.com/pop/lupin-ganha-primeiras-imagens-da-4a-temporada-veja-o-que-sabemos-ate-agora/",
+        "summary": "Produção retorna após Assane Diop se entregar à polícia no fim da terceira parte",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Governo reserva R$ 44,8 bilhões para emendas parlamentares em 2027",
-        "link": "https://www.infomoney.com.br/economia/governo-reserva-r-448-bilhoes-para-emendas-parlamentares-em-2027/",
-        "summary": "Valor que será usado pelos deputados e senadores, porém, tende a ser maior The post Governo reserva R$ 44,8 bilhões para emendas parlamentares em 2027 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/11/rodrigo-pacheco_ac995d.jpg?fit=300%2C174&amp;quality=70&amp;strip=all",
-        "date": "01 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lotofácil hoje, concurso 3776: Confira o resultado sorteado nesta segunda-feira (31)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3776-confira-o-resultado-sorteado-nesta-segunda-feira-31/",
-        "summary": "As apostas podem ser feitas até às 20h (horário de Brasília) nas lotéricas credenciadas da Caixa, em todo o país, ou pela internet The post Lotofácil hoje, concurso 3776: Confira o resultado sorteado nesta segunda-feira ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/cropped-11-09-2020_loteria-4.webp?fit=225%2C300&amp;quality=70&amp;strip=all",
-        "date": "01 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "title": "EUA convidam ministro russo para reunião do G20 e irritam europeus",
+        "link": "https://exame.com/mundo/eua-convidam-ministro-russo-para-reuniao-do-g20-e-irritam-europeus/",
+        "summary": "Os encontros, que seguem até terça-feira, 1º, são realizados sob a presidência dos Estados Unidos no G20",
+        "image": null,
+        "date": "31 de ago. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "'Os Donos do Jogo' encerra filmagens da 2ª temporada e ganha vídeo; veja",
@@ -390,36 +420,6 @@
         "title": "'Reacher': quando estreia o sexto episódio da 4ª temporada no Prime Video?",
         "link": "https://exame.com/pop/reacher-quando-estreia-o-sexto-episodio-da-4a-temporada-no-prime-video/",
         "summary": "Nova temporada da série estrelada por Alan Ritchson adapta o 13º livro de Lee Child e segue com episódios semanais",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Esforço Concentrado no Congresso: saiba quais são os principais temas em pauta",
-        "link": "https://exame.com/esferabrasil/esforco-concentrado-no-congresso-saiba-quais-sao-os-principais-temas-em-pauta/",
-        "summary": "Agenda anunciada inclui decisão sobre jornada de trabalho, segurança pública e economia",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Flamengo é contra retirada de recursos das bets destinados ao esporte",
-        "link": "https://exame.com/esporte/flamengo-e-contra-retirada-de-recursos-das-bets-destinados-ao-esporte/",
-        "summary": "Clube diz apoiar mais recursos para a segurança pública, mas afirma que medida não deve reduzir verba já destinada ao esporte pela legislação das bets",
-        "image": null,
-        "date": "31 de ago. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Problemas de saúde bucal podem estar associados à doença renal crônica, aponta pesquisa",
-        "link": "https://exame.com/ciencia/problemas-de-saude-bucal-podem-estar-associados-a-doenca-renal-cronica-aponta-pesquisa/",
-        "summary": "Pesquisa da Unesp encontrou relação entre problemas na boca e maior risco de doença nos rins",
         "image": null,
         "date": "31 de ago. de 2026",
         "source": "Exame",
