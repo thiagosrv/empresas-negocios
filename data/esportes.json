@@ -1,40 +1,7 @@
 {
-  "updated": "2026-09-02T14:29:06.302Z",
+  "updated": "2026-09-02T18:42:24.320Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Flamengo detona time russo por reprovação de Plata: “Amadorismo e irresponsabilidade”",
-      "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-critica-dinamo-moscou-apos-reprovacao-de-gonzalo-plata/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "02 de set. de 2026",
-      "isoDate": "2026-09-02",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Enzo Fernández é anunciado pelo Manchester City e iguala recorde no Campeonato Inglês",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-enzo-fernandez-contratacao-recorde/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "02 de set. de 2026",
-      "isoDate": "2026-09-02",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Arteta confirma que o Arsenal ainda busca novos reforços",
-      "link": "https://www.gazetaesportiva.com/times/arsenal/arteta-confirma-que-o-arsenal-ainda-busca-novos-reforcos/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "02 de set. de 2026",
-      "isoDate": "2026-09-02",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
     {
       "title": "Zagueiro do Real Madrid é condenado por dirigir embriagado",
       "link": "https://www.gazetaesportiva.com/times/real-madrid/zagueiro-do-real-madrid-e-condenado-por-dirigir-embriagado/",
@@ -49,6 +16,72 @@
     {
       "title": "Mudryk: “De Zerbi é meu pai no futebol”",
       "link": "https://www.gazetaesportiva.com/times/tottenham/mudryk-de-zerbi-e-meu-pai-no-futebol/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Torcedores invadem campo e agridem jogadores do próprio time no Uruguai",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/torcedores-invadem-campo-e-agridem-jogadores-do-proprio-time-no-uruguai/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "O jovem italiano Ahanor chega ao Crystal Palace por empréstimo",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-jovem-italiano-ahanor-chega-ao-crystal-palace-por-emprestimo/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "A persistência de Ángel Correa é recompensada contra o Banfield; confira o lance",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/a-persistencia-de-angel-correa-e-recompensada-contra-o-banfield-confira-o-lance/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Aubameyang se diz &#8216;humilhado&#8217; e deixa seleção do Gabão",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/aubameyang-se-diz-humilhado-e-deixa-selecao-do-gabao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Espanha muda legislação e aumenta rigor sobre contratações de clubes",
+      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/espanha-muda-legislacao-e-aumenta-rigor-sobre-contratacoes-de-clubes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Homem é preso depois de se passar por Luís Castro e dar golpe em jogador do Grêmio",
+      "link": "https://www.gazetaesportiva.com/times/gremio/homem-e-preso-depois-de-se-passar-por-luis-castro-e-dar-golpe-em-jogador-do-gremio/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "02 de set. de 2026",
@@ -77,28 +110,6 @@
       "isoDate": "2026-09-02",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Monza derrota Torino e enfrentará o Milan nas oitavas da Copa da Itália",
-      "link": "https://www.gazetaesportiva.com/times/torino/monza-derrota-torino-e-enfrentara-o-milan-nas-oitavas-da-copa-da-italia/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Osnabruck x Bayern de Munique: veja prováveis escalações e onde assistir ao duelo pela Copa da Alemanha",
-      "link": "https://www.gazetaesportiva.com/times/bayern/osnabruck-x-bayern-de-munique-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-copa-da-alemanha/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
