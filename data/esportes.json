@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T09:37:27.060Z",
+  "updated": "2026-09-02T14:29:06.302Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,62 +11,73 @@
       "isoDate": "2026-09-02",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
-      "title": "Argentina vive momento de incerteza sem Messi e com futuro de Scaloni indefinido",
-      "link": "https://www.gazetaesportiva.com/times/argentina/argentina-vive-momento-de-incerteza-sem-messi-e-com-futuro-de-scaloni-indefinido/",
+      "title": "Enzo Fernández é anunciado pelo Manchester City e iguala recorde no Campeonato Inglês",
+      "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-enzo-fernandez-contratacao-recorde/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Arteta confirma que o Arsenal ainda busca novos reforços",
+      "link": "https://www.gazetaesportiva.com/times/arsenal/arteta-confirma-que-o-arsenal-ainda-busca-novos-reforcos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Zagueiro do Real Madrid é condenado por dirigir embriagado",
+      "link": "https://www.gazetaesportiva.com/times/real-madrid/zagueiro-do-real-madrid-e-condenado-por-dirigir-embriagado/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Robinho Jr. assina com clube italiano e deixa o Santos por empréstimo",
-      "link": "https://www.gazetaesportiva.com/times/santos/robinho-jr-assina-com-clube-italiano-e-deixa-o-santos-por-emprestimo/",
+      "title": "Mudryk: “De Zerbi é meu pai no futebol”",
+      "link": "https://www.gazetaesportiva.com/times/tottenham/mudryk-de-zerbi-e-meu-pai-no-futebol/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3f3.png"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
-      "title": "Juventus empresta atacante canadense Jonathan David ao Atlético de Madrid",
-      "link": "https://www.gazetaesportiva.com/futebol/mercado/juventus-empresta-atacante-canadense-jonathan-david-ao-atletico-de-madrid/",
+      "title": "Lateral com passagem pela Seleção Brasileira é emprestado ao Werder Bremen, da Alemanha",
+      "link": "https://www.gazetaesportiva.com/futebol/lateral-com-passagem-pela-selecao-brasileira-e-emprestado-ao-werder-bremen-da-alemanha/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Melhores momentos: Al Hilal 3 x 0 Al Ahli pelo Saudita",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-hilal-3-x-0-al-ahli-pelo-saudita/",
+      "title": "CBF confirma data da primeira convocação de Ancelotti após a Copa do Mundo",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-convocacao-selecao-brasileira-9-setembro/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Borussia Dortmund goleia time amador e avança à segunda fase da Copa da Alemanha",
-      "link": "https://www.gazetaesportiva.com/times/borussia-dortmund/borussia-dortmund-goleia-time-amador-e-avanca-a-segunda-fase-da-copa-da-alemanha/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de set. de 2026",
-      "isoDate": "2026-09-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f929.png"
+      "date": "02 de set. de 2026",
+      "isoDate": "2026-09-02",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Monza derrota Torino e enfrentará o Milan nas oitavas da Copa da Itália",
@@ -88,7 +99,7 @@
       "isoDate": "2026-09-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "SAF com Ronaldo Fenômeno e Roberto Carlos é aprovada pela Inter de Limeira",
@@ -99,7 +110,7 @@
       "isoDate": "2026-09-01",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "EXCLUSIVO: Ex-técnico do Palmeiras vê brecha para Allan ganhar vaga na Seleção Brasileira",
@@ -121,7 +132,7 @@
       "isoDate": "2026-08-29",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Rugby Brasil Experience: veja informações e onde acompanhar neste sábado",
@@ -143,7 +154,7 @@
       "isoDate": "2026-08-27",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Dirigente comemora evolução do futebol feminino no Brasil: &#8220;Temos várias Martas&#8221;",
@@ -155,28 +166,6 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png"
-    },
-    {
-      "title": "Barcelona encaminha algoz do Brasil na Copa do Mundo de 2022",
-      "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-encaminha-contratacao-de-dominik-livakovic/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de ago. de 2026",
-      "isoDate": "2026-08-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Com quatro Palmeiras, Seleção Brasileira sub-15 é convocada para a Liga Evolução; veja lista",
-      "link": "https://www.gazetaesportiva.com/times/brasil/com-quatro-do-palmeiras-selecao-brasileira-sub-15-e-convocada-para-a-liga-evolucao-veja-lista/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de ago. de 2026",
-      "isoDate": "2026-08-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
