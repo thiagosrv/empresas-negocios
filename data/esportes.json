@@ -1,51 +1,7 @@
 {
-  "updated": "2026-09-03T15:01:11.738Z",
+  "updated": "2026-09-03T18:38:25.163Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Porto anuncia Gabriel Mec, mas deixa brasileiro fora da Champions",
-      "link": "https://www.gazetaesportiva.com/times/porto/porto-anuncia-gabriel-mec-mas-deixa-brasileiro-fora-da-champions/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de set. de 2026",
-      "isoDate": "2026-09-03",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a9.png"
-    },
-    {
-      "title": "Há 23 anos, Ronaldinho Gaúcho marcava seu primeiro gol pelo Barcelona; relembre",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-23-anos-ronaldinho-gaucho-marcava-seu-primeiro-gol-pelo-barcelona-relembre/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de set. de 2026",
-      "isoDate": "2026-09-03",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Richarlison pressiona Tottenham por saída e fica perto de acerto com clube turco",
-      "link": "https://www.gazetaesportiva.com/times/tottenham/richarlison-acordo-trabzonspor-tottenham/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de set. de 2026",
-      "isoDate": "2026-09-03",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ndiaye se inspira em lendas brasileiras para aprimorar suas habilidades no Manchester City",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/ndiaye-se-inspira-em-lendas-brasileiras-para-aprimorar-suas-habilidades-no-manchester-city/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de set. de 2026",
-      "isoDate": "2026-09-03",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
     {
       "title": "Arteta parabeniza Saka após vitória sobre o Aston Villa",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/arteta-parabeniza-saka-apos-vitoria-sobre-o-aston-villa/",
@@ -55,7 +11,7 @@
       "isoDate": "2026-09-03",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Diego Rossi marca um golaço contra o Club América de um ângulo impossível",
@@ -66,7 +22,7 @@
       "isoDate": "2026-09-03",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Marmoush se despede dos companheiros de Man City antes de ir para o Spurs",
@@ -77,11 +33,44 @@
       "isoDate": "2026-09-03",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores: O primeiro dia de Pape Sarr na Juventus",
       "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/bastidores-o-primeiro-dia-de-pape-sarr-na-juventus/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "03 de set. de 2026",
+      "isoDate": "2026-09-03",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Bastidores: O primeiro dia de Nick Woltemade na Juventus",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-o-primeiro-dia-de-nick-woltemade-na-juventus/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "03 de set. de 2026",
+      "isoDate": "2026-09-03",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: Al Fayha 2 x 2 Al-Kholood pelo Saudita",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-al-fayha-2-x-2-al-kholood-pelo-saudita/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "03 de set. de 2026",
+      "isoDate": "2026-09-03",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ex-Vasco, Hugo Moura marca e Al Fayha no empate contra o Al-Kholood; veja gol",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ex-vasco-hugo-moura-marca-e-al-fayha-no-empate-contra-o-al-kholood-veja-gol/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "03 de set. de 2026",
@@ -110,7 +99,18 @@
       "isoDate": "2026-09-03",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Após sete temporadas no Arsenal, Gabriel Martinelli é anunciado pelo Al-Hilal",
+      "link": "https://www.gazetaesportiva.com/al-hilal/apos-sete-temporadas-no-arsenal-gabriel-martinelli-e-anunciado-pelo-al-hilal/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "03 de set. de 2026",
+      "isoDate": "2026-09-03",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png"
     },
     {
       "title": "Lateral com passagem pela Seleção Brasileira é emprestado ao Werder Bremen, da Alemanha",
@@ -121,7 +121,7 @@
       "isoDate": "2026-09-02",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "CBF confirma data da primeira convocação de Ancelotti após a Copa do Mundo",
@@ -132,7 +132,7 @@
       "isoDate": "2026-09-02",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "SAF com Ronaldo Fenômeno e Roberto Carlos é aprovada pela Inter de Limeira",
@@ -143,7 +143,7 @@
       "isoDate": "2026-09-01",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "EXCLUSIVO: Ex-técnico do Palmeiras vê brecha para Allan ganhar vaga na Seleção Brasileira",
@@ -165,18 +165,7 @@
       "isoDate": "2026-08-29",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Rugby Brasil Experience: veja informações e onde acompanhar neste sábado",
-      "link": "https://www.gazetaesportiva.com/mais-esportes/rugby-brasil-experience-veja-informacoes-e-onde-acompanhar-neste-sabado/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "28 de ago. de 2026",
-      "isoDate": "2026-08-28",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
