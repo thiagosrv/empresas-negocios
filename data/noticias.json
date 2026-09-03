@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T03:48:17.537Z",
+  "updated": "2026-09-03T08:45:41.523Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Flamengo vence e fica a um ponto do Palmeiras, líder do Brasileirão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-vence-e-fica-um-ponto-do-palmeiras-lider-do-brasileirao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/flamengo-vence-e-fica-um-ponto-do-palmeiras-lider-do-brasileirao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "03 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Toffoli libera propaganda digital do candidato a presidente Grassi",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/toffoli-libera-propaganda-digital-do-candidato-presidente-grassi",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/toffoli-libera-propaganda-digital-do-candidato-presidente-grassi img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "03 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "TSE aprova registros de seis candidatos à Presidência da República",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-aprova-registros-de-seis-candidatos-presidencia-da-republica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -161,33 +181,43 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Discord terá dez dias para apresentar proposta de proteção a usuários",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/discord-tera-dez-dias-para-apresentar-proposta-de-protecao-usuarios",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/discord-tera-dez-dias-para-apresentar-proposta-de-protecao-usuarios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Aquecimento além de 1,5°C ameaça saúde, agricultura e economia",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/aquecimento-alem-de-15degc-ameaca-saude-agricultura-e-economia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/aquecimento-alem-de-15degc-ameaca-saude-agricultura-e-economia img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
+        "title": "Cuca abre portas para mais reforços, e Santos define prioridades no mercado",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-reforcos-mercado-lateral-atacante-prioridades/",
+        "summary": "Cuca abriu as portas para novas contratações, e o Santos ainda busca de dois a três reforços. Lateral-esquerdo e atacante estão entre as prioridades do Peixe no mercado. O post Cuca abre portas para mais reforços, e Sant",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55505246373_a165995533_3k.webp",
+        "date": "03 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Saiba quanto o Palmeiras arrecadou com vaga na semifinal da Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-premiacao-copa-do-brasil/",
+        "summary": "Confira o valor arrecadado pelo Palmeiras em premiação pela vaga nas semifinais da Copa do Brasil, conquistada na última quarta-feira. O post Saiba quanto o Palmeiras arrecadou com vaga na semifinal da Copa do Brasil apa",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/02092026_cg_palmeiras_7845_59.webp",
+        "date": "03 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Perfil do Avanti tira onda com Neymar após classificação do Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/perfil-do-avanti-tira-onda-com-neymar-apos-classificacao-do-palmeiras/",
+        "summary": "Perfil do programa de sócios-torcedores do Palmeiras brincou com Neymar após a vaga do Alviverde nas quartas da Copa do Brasil. O post Perfil do Avanti tira onda com Neymar após classificação do Palmeiras apareceu primei",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55505317293_3541fb88a9_o.webp",
+        "date": "03 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Abel vê jogo inteligente do Palmeiras e desabafa sobre nova denúncia do STJD: Não matei ninguém",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ve-jogo-inteligente-do-palmeiras-e-desabafa-sobre-nova-denuncia-do-stjd-nao-matei-ninguem/",
-        "summary": "O técnico Abel Ferreira exaltou o que classificou como um jogo inteligente do Palmeiras na classificação às semifinais da Copa do Brasil, alcançada nesta quarta-feira. O Verdão, que construiu o resultado de 3 a 0 na ida,",
+        "summary": "Confira a coletiva de imprensa do técnico Abel Ferreira após a classificação do Palmeiras sobre o Santos às semifinais da Copa do Brasil, nesta quarta-feira, na Vila Belmiro. O post Abel vê jogo inteligente do Palmeiras ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/09/02092026_cg_palmeiras_destaque_7553_11.webp",
         "date": "03 de set. de 2026",
         "source": "Gazeta Esportiva",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/dugout/melhores-momentos-santos-0-x-0-palmeiras-pela-copa-do-brasil/",
         "summary": "O Palmeiras está classificado para as semifinais da Copa do Brasil. Nesta quarta-feira, o Verdão empatou por 0 a 0 com o Santos, na Vila Belmiro, pelo jogo de volta das quartas de final. Como havia vencido o confronto de",
         "image": "https://static.gazetaesportiva.com/uploads/2026/09/02092026_cg_palmeiras_destaque_7726_28.webp",
-        "date": "03 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Cacá lamenta eliminação do Vitória e pede foco no Brasileirão: “O ano não acabou”",
-        "link": "https://www.gazetaesportiva.com/times/vitoria/caca-lamenta-eliminacao-do-vitoria-e-pede-foco-no-brasileirao-o-ano-nao-acabou/",
-        "summary": "O zagueiro Cacá lamentou a eliminação do Vitória na Copa do Brasil após a derrota por 2 a 0 para o Vasco, nesta quarta-feira, em São Januário. Apesar da frustração pela queda nas quartas de final, o jogador afirmou que “",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55448894193_8f83b6feab_o-2.webp",
-        "date": "03 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Vitória 0 x 2 Vasco pela Copa do Brasil",
-        "link": "https://www.gazetaesportiva.com/dugout/melhores-momentos-vitoria-0-x-2-vasco-pela-copa-do-brasil/",
-        "summary": "O Vasco está classificado para as semifinais da Copa do Brasil. Depois de vencer o Vitória por 1 a 0 no jogo de ida, o Cruzmaltino voltou a superar o adversário ppor 2 a 0 nesta quarta-feira, no Barradão, e garantiu a va",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-03-at-00.09.06.webp",
-        "date": "03 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "CBF define adversários da Seleção Brasileira na Data Fifa de novembro",
-        "link": "https://www.gazetaesportiva.com/times/brasil/cbf-define-adversarios-da-selecao-brasileira-na-data-fifa-de-novembro/",
-        "summary": "A Seleção Brasileira enfrentará Japão e Singapura em dois amistosos durante a Data Fifa de novembro. As partidas serão realizadas no Estádio Nacional de Singapura. O Brasil encara o Japão no dia 14 de novembro, às 7h15 (",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/06/29JUN2026BRASILXJAPAO102-BRUNO-GUIMARAES-ABSURDO.webp",
         "date": "03 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali?",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-mira-200-mil-quais-acoes-podem-pegar-carona-no-rali/",
+        "summary": "Blue chips lideram a entrada do estrangeiro, mas setores sensíveis aos juros também podem ganhar força The post Ibovespa mira 200 mil: quais ações podem pegar carona no rali? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ibovespa-bolsa-acoes-IA-01.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dono do Arsenal é também o maior proprietário privado de terras dos EUA",
+        "link": "https://www.infomoney.com.br/business/global/dono-do-arsenal-e-tambem-o-maior-proprietario-privado-de-terras-dos-eua/",
+        "summary": "Stan Kroenke controla cerca de 1,09 milhão de hectares e transformou fazendas e ranchos em um dos pilares de sua fortuna The post Dono do Arsenal é também o maior proprietário privado de terras dos EUA appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/NEW-LA-ANGELS-OWNER-STAN-KROENKE-IS-QUIETLY-AMERICAS-LARGEST-PRIVATE-LANDOWNER-BOASTING-27-MILLION-ACRES-AND-BESTING-BILL-GATES-AND-JEFF-BEZOS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tim Cook revela ritual das 4h da manhã que repetiu por 15 anos no comando da Apple",
+        "link": "https://www.infomoney.com.br/business/global/tim-cook-revela-ritual-das-4h-da-manha-que-repetiu-por-15-anos-no-comando-da-apple/",
+        "summary": "Antes mesmo do amanhecer, executivo lia centenas de e-mails de clientes para entender o que consumidores pensavam dos produtos da empresa The post Tim Cook revela ritual das 4h da manhã que repetiu por 15 anos no comando",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/AS-APPLE-GETS-A-NEW-CEO-IN-JOHN-TERNUS-TIM-COOK-SHARES-THE-4-AM-MORNING-RITUAL-HE-STUCK-BY-FOR-15-YEARS-IN-THE-TOP-JOB.jpg?fit=300%2C203&amp;quality=70&amp;strip=all",
+        "date": "03 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "As 6 melhores ações de dividendos para a carteira sobreviver às eleições",
+        "link": "https://www.infomoney.com.br/onde-investir/carteira-acoes-dividendos-setembro-2026/",
+        "summary": "Com a disputa eleitoral ditando o humor da bolsa, as carteiras de setembro seguem ancoradas em quem deve ter mais resiliência para seguir pagando - a exemplo de elétricas como a Copel The post As 6 melhores ações de divi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/09/Texto-4-10_2022.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "03 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Cenário de apatia e estabilidade nas pesquisas pode levar minoria a definir eleição",
+        "link": "https://www.infomoney.com.br/politica/cenario-de-apatia-e-estabilidade-nas-pesquisas-pode-levar-minoria-a-definir-eleicao/",
+        "summary": "Analistas destacam importância de campanhas de Lula e Flávio disputarem voto a voto e como eleitor segmentado pode ser decisivo em um segundo turno apertado The post Cenário de apatia e estabilidade nas pesquisas pode le",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-04.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "03 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Motta marca votação de MP das blusinhas para 13h55 desta quinta-feira",
         "link": "https://www.infomoney.com.br/politica/motta-marca-votacao-de-mp-das-blusinhas-para-13h55-desta-quinta-feira/",
         "summary": "Alcolumbre disse que tinha a informação de que Motta pautaria a MP às 9h no plenário da Câmara e que, portanto, o Senado realizaria a votação às 11h The post Motta marca votação de MP das blusinhas para 13h55 desta quint",
@@ -317,109 +367,59 @@
         "cls": "brasil"
       },
       {
-        "title": "Loteria Federal: confira o resultado do concurso 6097 sorteado nesta quarta (2)",
-        "link": "https://www.infomoney.com.br/consumo/loteria-federal-confira-o-resultado-do-concurso-6097-sorteado-nesta-quarta-2/",
-        "summary": "Os sorteios da Loteria Federal acontecem às quartas-feiras, a partir das 20h; e aos domingos, a partir das 11h The post Loteria Federal: confira o resultado do concurso 6097 sorteado nesta quarta (2) appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Loteria-Federal.jpg?fit=300%2C214&amp;quality=70&amp;strip=all",
+        "title": "PMIs globais, emprego e balança comercial dos EUA: o que move os mercados",
+        "link": "https://exame.com/invest/mercados/pmis-globais-emprego-e-balanca-comercial-dos-eua-o-que-move-os-mercados/",
+        "summary": "Além da agenda econômica, estão previstas para esta quinta-feira, 3, as divulgações de pesquisas Datafolha e PoderData sobre a sucessão presidencial",
+        "image": null,
         "date": "03 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Dia de Sorte: confira o resultado do concurso 1288 sorteado nesta quarta-feira (2)",
-        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1288-sorteado-nesta-quarta-feira-2/",
-        "summary": "Veja os números sorteados no concurso do Dia de Sorte, o Mês da Sorte e o valor estimado do prêmio The post Dia de Sorte: confira o resultado do concurso 1288 sorteado nesta quarta-feira (2) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "title": "MrBeast fecha parceria com Google para usar IA do Gemini em vídeos",
+        "link": "https://exame.com/tecnologia/mrbeast-fecha-parceria-com-google-para-usar-ia-do-gemini-em-videos/",
+        "summary": "Maior youtuber do mundo fez acordo de vários anos que inclui uso da IA em desafios de sobrevivência extrema e integração com o Fitbit; primeiro vídeo estreia em 5 de setembro",
+        "image": null,
         "date": "03 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Lotomania: confira o resultado do concurso 2971 sorteado nesta quarta-feira (2)",
-        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2971-sorteado-nesta-quarta-feira-2/",
-        "summary": "Veja as 20 dezenas sorteadas no concurso 2971 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 2971 sorteado nesta quarta-feira (2) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Image-8.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "A fórmula simples do 'prompt': como pedir coisas à IA para obter respostas perfeitas",
+        "link": "https://exame.com/inteligencia-artificial/a-formula-simples-do-prompt-como-pedir-coisas-a-ia-para-obter-respostas-perfeitas/",
+        "summary": "Combinar papel, tarefa, contexto e formato ajuda a deixar os comandos mais claros e aumenta as chances de receber respostas adequadas ao objetivo",
+        "image": null,
         "date": "03 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Lotofácil hoje, concurso 3778: confira o resultado sorteado nesta quarta (2)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3778-confira-o-resultado-sorteado-nesta-quarta-2/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3778: confira o resultado sorteado nesta quarta (2) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "A estratégia da Westwing para não repetir a crise da Tok Stok",
+        "link": "https://exame.com/invest/mercados/a-estrategia-da-westwing-para-nao-repetir-a-crise-da-tokstok/",
+        "summary": "Sem dívida bancária e com caixa de R$ 108 milhões, varejista quer voltar a crescer sem repetir os erros que levaram pares à recuperação judicial",
+        "image": null,
         "date": "03 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Quina hoje, concurso 7108: confira o resultado sorteado nesta quarta-feira (2)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7108-confira-o-resultado-sorteado-nesta-quarta-feira-2/",
-        "summary": "Ganham prêmios os acertadores de 2, 3, 4 ou 5 números The post Quina hoje, concurso 7108: confira o resultado sorteado nesta quarta-feira (2) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "title": "Smart Fit não é mais só academia, e o investidor ainda não entendeu isso, diz CEO",
+        "link": "https://exame.com/invest/mercados/smart-fit-nao-e-mais-so-academia-e-o-investidor-ainda-nao-entendeu-isso-diz-ceo/",
+        "summary": "Diogo Corona acredita que o desconto na ação vem da falta de compreensão",
+        "image": null,
         "date": "03 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Alcolumbre rebate pressão por impeachment de Moraes e cita R$ 130 milhões para filme de Bolsonaro",
         "link": "https://exame.com/brasil/alcolumbre-rebate-pressao-por-impeachment-de-moraes-e-cita-r-130-milhoes-para-filme-de-bolsonaro/",
         "summary": "Presidente do Senado reagiu às cobranças da oposição para abrir processo contra o ministro do STF e mencionou valores prometidos por Vorcaro para um filme sobre Jair Bolsonaro",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ridley Scott culpa Paul Mescal pelo desempenho fraco de ‘Gladiador 2’? Entenda a polêmica",
-        "link": "https://exame.com/pop/ridley-scott-culpa-paul-mescal-pelo-desempenho-fraco-de-gladiador-2-entenda-a-polemica/",
-        "summary": "Paul Mescal era a primeira escolha de Ridley Scott para o protagonista de 'The Dog Stars', mas deixou o projeto antes das filmagens e abriu espaço para Jacob Elordi",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Brasil já teve senados estaduais; saiba por que sistema mudou",
-        "link": "https://exame.com/esferabrasil/brasil-ja-teve-senados-estaduais-saiba-por-que-sistema-mudou/",
-        "summary": "Modelo adotado por parte dos estados após a Proclamação da República durou cerca de 40 anos e foi extinto após a Revolução de 1930, com o fortalecimento do poder central",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PGR pede arquivamento de denúncias de Vorcaro contra 'supostas ameaças'",
-        "link": "https://exame.com/brasil/pgr-pede-arquivamento-de-denuncias-de-vorcaro-contra-supostas-ameacas/",
-        "summary": "Procuradoria afirma que depoimento não apresentou fatos concretos ou elementos suficientes para justificar novas medidas investigativas no STF",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "O que explica o sucesso duradouro de 'Dai Dai', hino da Copa do Mundo 2026 e top 1 da Billboard?",
-        "link": "https://exame.com/pop/o-que-explica-o-sucesso-duradouro-de-dai-dai-hino-da-copa-do-mundo-2026-e-top-1-da-billboard/",
-        "summary": "Música oficial do Mundial 2026 continua entre as faixas mais ouvidas do planeta mais de um mês após a final",
-        "image": null,
-        "date": "02 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "'Star Wars: O Mandaloriano e Grogu' chega hoje ao streaming; veja onde assistir",
-        "link": "https://exame.com/pop/star-wars-o-mandaloriano-e-grogu-chega-hoje-ao-streaming-veja-onde-assistir/",
-        "summary": "Filme dirigido por Jon Favreau chega ao streaming nesta quarta-feira, 2, após estrear nos cinemas em maio",
         "image": null,
         "date": "02 de set. de 2026",
         "source": "Exame",
