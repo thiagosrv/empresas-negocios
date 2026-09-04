@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-04T17:28:48.264Z",
+  "updated": "2026-09-04T20:32:48.453Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "O que é a 'economia prateada' e como o crescimento da população com mais de 50 anos em Campinas tem mudado o mercado",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/economia-prateada-crescimento-populacao-campinas-mudado-mercado.ghtml",
+        "summary": "Campinas registra alta na população 50+ e impulsiona economia prateada O envelhecimento dos habitantes em Campinas (SP) tem impulsionado a chamada \"economia prateada\", que reúne atividades econômicas, produtos e serviços",
+        "image": "https://s2-g1.glbimg.com/LBYnT5gSswXXberR-LWl5UhPb5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/TpXRA9RDAF4f7RSaoSiw/vlcsnap-2026-09-04-14h46m21s292.png",
+        "date": "04 de set. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "VÍDEO: homem se recusa a pagar tarifa e agride motorista de ônibus em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/video-homem-se-recusa-a-pagar-tarifa-e-agride-motorista-de-onibus-em-campinas.ghtml",
@@ -25,7 +35,7 @@
       {
         "title": "Polícia acredita que invasores de condomínio de luxo passaram a noite escondidos em mata de Campinas; um foi preso",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/policia-acredita-que-invasores-de-condominio-de-luxo-passaram-a-noite-escondidos-em-mata-de-campinas-um-foi-preso.ghtml",
-        "summary": "Grupo armado invade condomínio durante tentativa de assalto em Campinas A Polícia Civil acredita que parte dos criminosos envolvidos na invasão a um condomínio de luxo em Joaquim Egídio, distrito de Campinas (SP), passou",
+        "summary": "Polícia continua busca de suspeitos que invadiram condomínio em Campinas A Polícia Civil acredita que parte dos criminosos envolvidos na invasão a um condomínio de luxo em Joaquim Egídio, distrito de Campinas (SP), passo",
         "image": "https://s2-g1.glbimg.com/A9vaYdjEheZhgXSCnGLYTe4lu_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/G/smCLJnT4Om5vKASNkZbw/camera-.png",
         "date": "04 de set. de 2026",
         "source": "G1 Campinas",
@@ -53,14 +63,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Veneno que paralisa e “derrete”: veja como a aranha-de-alçapão caça em esconderijo perfeito",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/04/veneno-que-paralisa-e-derrete-veja-como-a-aranha-de-alcapao-caca-em-esconderijo-perfeito.ghtml",
-        "summary": "Veneno que paralisa e “derrete”: veja como a aranha-de-alçapão caça em esconderijo perfeit Escondida em um túnel no solo, atrás de uma tampa praticamente indistinguível do chão da mata, a aranha-de-alçapão espera silenci",
-        "image": "https://s2-g1.glbimg.com/xU3yZS0jLuczQN0Dh5QfJQ1R5NU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/ts9EGDTwWaRADX7LwcXw/actinopus-sp-img-6018-pemd-rafael-p.-indicatti.jpg",
+        "title": "Pokémon, Disney Lorcana, One Piece e muito mais: Card Station Brasil chega ao Welcome Center e ao Tivoli Shopping",
+        "link": "https://jornalamericanense.com.br/cultura/pokemon-disney-lorcana-one-piece-e-muito-mais-card-station-brasil-chega-ao-welcome-center-e-ao-tivoli-shopping/",
+        "summary": "A @cardstationbrasil inaugurou nesta sexta-feira (4) suas primeiras operações no Welcome Center, em Americana, e no Tivoli Shopping, em Santa Bárbara d’Oeste. A novidade amplia o acesso ao universo dos cards colecionávei",
+        "image": null,
         "date": "04 de set. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Corrida Pela Vida oferece 15% de desconto nas inscrições até 10 de setembro",
+        "link": "https://jornalamericanense.com.br/esportes/corrida-pela-vida-oferece-15-de-desconto-nas-inscricoes-ate-10-de-setembro/",
+        "summary": "Ainda dá tempo de garantir uma vaga na Corrida Pela Vida – Legado Vitor Guimarães Barbosa com desconto. Os participantes que se inscreverem até o dia 10 de setembro poderão utilizar o cupom SBOCORRIDA e garantir 15% de d",
+        "image": null,
+        "date": "04 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Vagas em creche e pré-escola: Prefeitura de Americana recebe inscrições de 21 a 30 de setembro",
@@ -103,24 +123,54 @@
         "cls": "servicos"
       },
       {
-        "title": "Aviso Prévio: Empregado pode recusar a assinatura? Entenda o que a empresa pode fazer",
-        "link": "https://jornalamericanense.com.br/economia/aviso-previo-empregado-pode-recusar-a-assinatura-entenda-o-que-a-empresa-pode-fazer/",
-        "summary": "O aviso prévio é o instrumento utilizado para comunicar formalmente o encerramento de um contrato de trabalho. A iniciativa pode partir tanto do empregador quanto do empregado, e o desligamento pode ocorrer de forma imed",
+        "title": "Governo sanciona leis que criam e reestruturam fundos para a Justiça",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sancionadas-leis-que-criam-fundos-para-justica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sancionadas-leis-que-criam-fundos-para-justica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/",
         "image": null,
-        "date": "03 de set. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
-        "title": "Americana recebe 10ª edição do Festival de Carrinhos de Rolimã e ExpoCarros no dia 19 de setembro",
-        "link": "https://jornalamericanense.com.br/esportes/americana-recebe-10a-edicao-do-festival-de-carrinhos-de-rolima-e-expocarros-no-dia-19-de-setembro/",
-        "summary": "Americana será palco, no dia 19 de setembro (sábado), da 10ª edição do Festival de Carrinhos de Rolimã, evento promovido pelos grupos Kamikaze Rolimã e Lasanha Crew que conta com apoio da Prefeitura de Americana, por mei",
+        "title": "Balança comercial tem superávit de US$ 7,4 bilhões em agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
         "image": null,
-        "date": "03 de set. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasileirão Feminino começa a definir semifinalistas nesta sexta-feira",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileirao-feminino-comeca-definir-semifinalista-nesta-sexta-feira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileirao-feminino-comeca-definir-semifinalista-nesta-sexta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rock in Rio começa hoje com novidades tecnológicas no Palco Mundo",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/rock-rio-comeca-nesta-sexta-com-novidades-tecnologicas-no-palco-mundo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/rock-rio-comeca-nesta-sexta-com-novidades-tecnologicas-no-palco-mundo img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Presidente do STF diz que gravidade dos fatos não autoriza atalhos",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/presidente-do-stf-diz-que-gravidade-dos-fatos-nao-autoriza-atalhos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/presidente-do-stf-diz-que-gravidade-dos-fatos-nao-autoriza-atalhos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Sindicatos prometem pressionar Senado para votar 6x1 antes da eleição",
@@ -131,114 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Inscrições para disputar Conselho de Política Cultural vão até dia 22",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricoes-para-disputar-conselho-de-politica-cultural-vao-ate-dia-22",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/inscricoes-para-disputar-conselho-de-politica-cultural-vao-ate-dia-22 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "PF afirma que Castro recebeu adega, mansão e caviar para ajudar Refit",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-afirma-que-castro-recebeu-adega-mansao-e-caviar-para-ajudar-refit",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-afirma-que-castro-recebeu-adega-mansao-e-caviar-para-ajudar-refit img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "SP: laudo descarta suicídio e diz que policial Gisele foi assassinada",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sp-laudo-descarta-suicidio-e-diz-que-policial-gisele-foi-assassinada",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sp-laudo-descarta-suicidio-e-diz-que-policial-gisele-foi-assassinada img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-5-dias-para-mendonca-e-gonet-responderem-acusacao-de-moraes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-5-dias-para-mendonca-e-gonet-responderem-acusacao-de-moraes img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "O golaço do Al-Kholood de fora da área contra o Al Fayha; veja o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-golaco-do-al-kholood-de-fora-da-area-contra-o-al-fayha-veja-o-lance/",
-        "summary": "O golaço do Al-Kholood de fora da área contra o Al Fayha; veja o lance O post O golaço do Al-Kholood de fora da área contra o Al Fayha; veja o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Al-Kho.webp",
+        "title": "Stuttgart goleia o Côlonia e conquista primeiros pontos no Campeonato Alemão",
+        "link": "https://www.gazetaesportiva.com/stuttgart/stuttgart-goleia-o-colonia-e-conquista-primeiros-pontos-no-campeonato-alemao/",
+        "summary": "O Stuttgart bateu o Côlonia por 3 a 1 na MHP Arena, conquistou sua primeira vitória no Campeonato Alemão e somou os primeiros pontos na competição. El Khannous, Prömel e Demirović marcaram para os donos da casa. O post S",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7E694W__v1__HighRes__FblGerBundesligaStuttgartCologne.webp",
         "date": "04 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians é multado pelo STJD por hostilização a garoto que ganhou camisa de Neymar",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-e-multado-pelo-stjd-por-hostilizacao-a-garoto-que-ganhou-camisa-de-neymar/",
-        "summary": "O Corinthians foi multado em R$ 10 mil pelo STJD após torcedores hostilizarem um garoto de oito anos que recebeu uma camisa de Neymar depois do clássico contra o Santos. O clube também recebeu outras punições em julgamen",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Captura-de-tela-2026-08-31-114529.webp",
+        "title": "Santos assume a liderança do grupo no Paulistão sub-20; São Paulo vence e Corinthians empata",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/santos-assume-lideranca-e-sao-paulo-vence-no-paulistao-sub-20/",
+        "summary": "Santos e São Paulo venceram seus compromissos fora de casa nesta sexta-feira pelo Campeonato Paulista Sub-20, enquanto o Corinthians ficou no empate sem gols diante do São Bento. Com os resultados, o Peixe assumiu a lide",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55479401816_25deba9e7e_o.webp",
         "date": "04 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Gabigol fala sobre respeito com o Santos após entrevista polêmica",
-        "link": "https://www.gazetaesportiva.com/times/santos/gabigol-esclarece-polemica-e-reforca-compromisso-com-o-santos/",
-        "summary": "Gabriel Barbosa se pronunciou nesta sexta-feira após a repercussão de trechos de uma entrevista que levantaram dúvidas sobre seu futuro no Santos. O atacante afirmou que suas declarações foram retiradas de contexto e ref",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55505370509_e42978aa03_o-1.webp",
+        "title": "Arteta rasga elogios a Xabi Alonso antes do clássico londrino",
+        "link": "https://www.gazetaesportiva.com/times/arsenal/arteta-rasga-elogios-a-xabi-alonso-antes-do-classico-londrino/",
+        "summary": "Arteta rasga elogios a Xabi Alonso antes do clássico londrino O post Arteta rasga elogios a Xabi Alonso antes do clássico londrino apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/05/Arteta-ve-retorno.webp",
         "date": "04 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do treino do Palmeiras desta sexta-feira",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-desta-sexta-feira-44/",
-        "summary": "Veja uma galeria de fotos do treino do Palmeiras desta sexta-feira, realizado na Academia de Futebol. O post Veja fotos do treino do Palmeiras desta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/04092026_cg_palmeiras_0522_34.webp",
+        "title": "Proposta quer adoção de Fair Play Social no futebol de base; entenda",
+        "link": "https://www.gazetaesportiva.com/futebol/fair-play-social-futebol-base-cbf-entenda-proposta/",
+        "summary": "Universidade do Futebol entrega à CBF proposta de Fair Play Social para acompanhar proteção, educação e desenvolvimento de atletas das categorias de base. O post Proposta quer adoção de Fair Play Social no futebol de bas",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/54937844057_108a23ca60_b.webp",
         "date": "04 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Campeões olímpicos em Tóquio, Jardine e Malcom duelam pela liderança nos Emirados Árabes",
-        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/jardine-malcom-reencontro-ouro-olimpico-emirados/",
-        "summary": "Cinco anos após conquistarem juntos o ouro olímpico em Tóquio, André Jardine e Malcom estarão em lados opostos neste sábado, pela quarta rodada da UAE Pro League. O treinador comanda o Shabab Al Ahli, enquanto o atacante",
-        "image": "https://static.gazetaesportiva.com/uploads/imagem/2023/05/28/51333963128_e5406ab2d9_k.jpg",
+        "title": "Estádio do Palmeiras é indicado a prêmio de melhor instalação esportiva da América do Sul",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/estadio-do-palmeiras-e-indicado-a-premio-de-melhor-instalacao-esportiva-da-america-do-sul/",
+        "summary": "O estádio do Palmeiras, Nubank Parque, foi indicado ao Prêmio Confut Sudamericana by FutebolCard 2026, que reconhece empresas, projetos e profissionais de destaque na indústria do futebol sul-americano. A arena concorre ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-16.15.31.webp",
         "date": "04 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Hugo Moura pega de primeira de canhota e faz golaço no Sauditão; confira o lance",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/hugo-moura-pega-de-primeira-de-canhota-e-faz-golaco-no-sauditao-confira-o-lance/",
-        "summary": "Hugo Moura pega de primeira de canhota e faz golaço no Sauditão; confira o lance O post Hugo Moura pega de primeira de canhota e faz golaço no Sauditão; confira o lance apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Hugo-Mo.webp",
+        "title": "Confira as fotos de Ipswich x Liverpool pelo Inglês",
+        "link": "https://www.gazetaesportiva.com/times/liverpool/confira-as-fotos-de-ipswich-x-liverpool-pelo-ingles/",
+        "summary": "O post Confira as fotos de Ipswich x Liverpool pelo Inglês apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260904__C7E344N__v1__HighRes__FblEngPrIpswichLiverpool.webp",
         "date": "04 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Balança comercial tem superávit de US$ 7,4 bilhões em agosto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/balanca-comercial-tem-superavit-de-us-74-bilhoes-em-agosto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil",
@@ -297,79 +307,69 @@
         "cls": ""
       },
       {
-        "title": "UE suspende carnes do Brasil; entenda impacto e próximos passos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ue-suspende-carnes-do-brasil-entenda-impacto-e-proximos-passos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ue-suspende-carnes-do-brasil-entenda-impacto-e-proximos-passos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "03 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Maioria das Bolsas da Europa fecha em queda pressionadas por payroll",
-        "link": "https://www.infomoney.com.br/mercados/maioria-das-bolsas-da-europa-fecha-em-queda-pressionadas-por-payroll/",
-        "summary": "Varejo da zona do euro decepciona, mas encomendas à indústria alemã surpreendem positivamente The post Maioria das Bolsas da Europa fecha em queda pressionadas por payroll appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-23T153612Z_1180737804_RC2EMIA3A7KW_RTRMADP_3_EUROPE-STOCKS.jpg?fit=300%2C226&amp;quality=70&amp;strip=all",
+        "title": "Brasil vende mais para EUA apesar de tarifas e tem superávit comercial de US$7,394 bi",
+        "link": "https://www.infomoney.com.br/economia/brasil-vende-mais-para-eua-apesar-de-tarifas-e-tem-superavit-comercial-de-us7394-bi/",
+        "summary": "Exportações em agosto foram de US$33,158 bilhões e as importações somaram US$25,764 bilhões The post Brasil vende mais para EUA apesar de tarifas e tem superávit comercial de US$7,394 bi appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/santos-brasil-conteineres-portos-.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Mansão mais cara do país vira condomínio de luxo (e só tem 3 unidades sobrando)",
-        "link": "https://www.infomoney.com.br/consumo/mansao-mais-cara-do-brasil-luxo-concominio/",
-        "summary": "Casas de até R$ 42 milhões vão ocupar o terreno de uma antiga mansão símbolo do luxo carioca The post Mansão mais cara do país vira condomínio de luxo (e só tem 3 unidades sobrando) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Mansao-mais-cara-do-Brasil.png?fit=300%2C181&amp;quality=70&amp;strip=all",
+        "title": "Com novo tarifaço de Trump, exportações para os EUA caem quase 10% no ano até agosto",
+        "link": "https://www.infomoney.com.br/economia/com-novo-tarifaco-de-trump-exportacoes-para-os-eua-caem-quase-10-no-ano-ate-agosto/",
+        "summary": "Balança comercial teve superávit de US$ 7,4 bi em agosto e de US$ 55,3 bilhões em 2026 The post Com novo tarifaço de Trump, exportações para os EUA caem quase 10% no ano até agosto appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-10T144051Z_1_LYNXNPEK390OM_RTROPTP_4_OMC-COMERCIO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "5 modelos de prompts para resumir textos sem perder informações importantes",
-        "link": "https://www.infomoney.com.br/consumo/prompts-para-resumir-textos-longos/",
-        "summary": "O primeiro passo é definir qual a sua necessidade diante do material The post 5 modelos de prompts para resumir textos sem perder informações importantes appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Prompts-para-resumir-textos-longos.jpg?fit=300%2C237&amp;quality=70&amp;strip=all",
+        "title": "Estou predestinado a transformar este País em um país de classe média alta, diz Lula",
+        "link": "https://www.infomoney.com.br/politica/estou-predestinado-a-transformar-este-pais-em-um-pais-de-classe-media-alta-diz-lula/",
+        "summary": "Presidente também declarou que nunca outro presidente conseguiu fazer mais do que ele em quatro anos de governo The post Estou predestinado a transformar este País em um país de classe média alta, diz Lula appeared first",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-12T181519Z_1874074105_RC2MWMAWH8ZB_RTRMADP_3_BRAZIL-ECONOMY-FISCAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Fundadora do Manas Investem estreia coluna no InfoMoney voltada à mulher investidora",
-        "link": "https://www.infomoney.com.br/onde-investir/fundadora-do-manas-investem-estreia-coluna-no-infomoney-voltada-a-mulher-investidora/",
-        "summary": "Coluna de Flávia Lanat terá versões em texto e vídeo e abordará investimentos, finanças pessoais e independência financeira com linguagem acessível para o público feminino The post Fundadora do Manas Investem estreia col",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-03-190412.png?fit=300%2C173&amp;quality=70&amp;strip=all",
+        "title": "Lula comenta material de campanha de Ciro Gomes com sua imagem: não está comigo",
+        "link": "https://www.infomoney.com.br/politica/lula-comenta-material-de-campanha-de-ciro-gomes-com-sua-imagem-nao-esta-comigo/",
+        "summary": "Presidente reafirmou aliança no estado com o candidato à reeleição, Elmano de Freitas (PT) The post Lula comenta material de campanha de Ciro Gomes com sua imagem: não está comigo appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-lula-pt-campanha-sao-bernardo-04.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Escândalos de Lula e Flávio esbarram em eleitor que “passa pano” para seu campo",
-        "link": "https://www.infomoney.com.br/politica/escandalos-de-lula-e-flavio-esbarram-em-eleitor-que-passa-pano-para-seu-campo/",
-        "summary": "Polarização dificulta migração de votos mesmo diante de denúncias e faz rejeição ao adversário pesar na decisão, diz marqueteiro The post Escândalos de Lula e Flávio esbarram em eleitor que “passa pano” para seu campo ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/imagem-14.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
+        "title": "Anvisa libera medicamento experimental para tratar doença rara de Lito Sousa",
+        "link": "https://www.infomoney.com.br/brasil/anvisa-libera-medicamento-experimental-para-tratar-doenca-rara-de-lito-sousa/",
+        "summary": "Autorização excepcional permite importação de terapia ainda em desenvolvimento para o influenciador, diagnosticado com a doença de Creutzfeldt-Jakob The post Anvisa libera medicamento experimental para tratar doença rara",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Lito-Souza.jpg?fit=300%2C208&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ibovespa sobe e bate os 186 mil com eleição no radar, mesmo após payroll",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-04092026/",
-        "summary": "O dólar comercial sobe a R$ 5,13 e os juros futuros operam de forma mista The post Ibovespa sobe e bate os 186 mil com eleição no radar, mesmo após payroll appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2021/06/stocks-vs-market-md.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta manter os 185 mil; VALE3 sobe",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04092026/",
+        "summary": "Bolsas dos EUA operam em queda após payroll mais alto que o esperado The post Ibovespa Hoje Ao Vivo: Bolsa oscila e tenta manter os 185 mil; VALE3 sobe appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-30.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "10 sets em nove horas: a maratona de Zverev no US Open",
-        "link": "https://exame.com/esporte/10-sets-em-nove-horas-a-maratona-de-zverev-no-us-open/",
-        "summary": "Principal cabeça de chave do torneio, tenista alemão acumula duas vitórias dramáticas seguidas em Nova York.",
+        "title": "A Groenlândia não tem o tamanho que você pensa; veja o novo mapa-múndi da ONU",
+        "link": "https://exame.com/mundo/a-groenlandia-nao-tem-o-tamanho-que-voce-pensa-veja-o-novo-mapa-mundi-da-onu/",
+        "summary": "Proposto por países africanos, a nova representação do planeta Terra para a Organização é o 'Equal Earth Map'",
         "image": null,
         "date": "04 de set. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Copa do Mundo impulsiona transferências de atletas em R$ 51 bilhões",
-        "link": "https://exame.com/esporte/copa-do-mundo-impulsiona-transferencias-de-atletas-em-r-51-bilhoes/",
-        "summary": "Relatório da FIFA detalha o impacto do torneio de seleções no mercado da bola e o aumento de investimentos de clubes.",
+        "title": "Ex-funcionárias denunciam Julio Iglesias por agressão sexual e trabalho forçado",
+        "link": "https://exame.com/pop/ex-funcionarias-denunciam-julio-iglesias-por-agressao-sexual-e-trabalho-forcado/",
+        "summary": "Em nova denúncia, as mulheres relatam supostas \"situações contínuas de assédio e agressões sexuais\", além de \"condições de trabalho forçado e degradantes\"",
         "image": null,
         "date": "04 de set. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "O efeito das canetas emagrecedoras chega à indústria da beleza",
-        "link": "https://exame.com/negocios/canetas-emagrecedoras-industria-beleza/",
-        "summary": "Diante de mudanças nos hábitos de consumo, Haskell Cosméticos desenvolve protocolo para queda, afinamento e perda de densidade dos fios",
+        "title": "Não sabe o que fazer no feriado? 8 experiências na região de São Paulo",
+        "link": "https://exame.com/casual/nao-sabe-o-que-fazer-no-feriado-8-experiencias-na-regiao-de-sao-paulo/",
+        "summary": "Hotéis na capital e em cidades vizinhas preparam pacotes com gastronomia, spa e programação especial para os dias de descanso",
         "image": null,
         "date": "04 de set. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Duas Olivias, vários hits: como as cantoras estão mudando o pop",
-        "link": "https://exame.com/pop/duas-olivias-varios-hits-como-as-cantoras-estao-mudando-o-pop/",
-        "summary": "Olivia Rodrigo, já consolidada como estrela do pop, e Olivia Dean, que vive grande momento na carreira em 2026, transformam sentimentos complexos em sucessos comerciais",
+        "title": "Com Brasil e África maiores, novo mapa-múndi da ONU tem áreas mais realistas",
+        "link": "https://exame.com/mundo/com-brasil-e-africa-maiores-novo-mapa-mundi-da-onu-tem-areas-mais-realistas/",
+        "summary": "A Assembleia Geral da ONU aprovou nesta sexta-feira, 4, um novo modelo para o mapa-múndi oficial; confira",
         "image": null,
         "date": "04 de set. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Acordo de marcas de cinema e basquete gera card 'especial' de R$ 400 mil",
-        "link": "https://exame.com/esporte/acordo-de-marcas-de-cinema-e-basquete-gera-card-especial-de-r-400-mil/",
-        "summary": "Reportagem do The Athletic detalha o acordo de licenciamento de marcas da Topps para produção de cards de basquete.",
+        "title": "Venda consultiva: por que ouvir virou o superpoder do CEO",
+        "link": "https://exame.com/lideres-extraordinarios/venda-consultiva-por-que-ouvir-virou-o-superpoder-do-ceo/",
+        "summary": "A verdadeira influência nasce da capacidade de compreender antes de propor.",
         "image": null,
         "date": "04 de set. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Vai ver o Rock in Rio 2026 de casa? Veja horário e onde assistir aos shows ao vivo",
-        "link": "https://exame.com/pop/vai-ver-o-rock-in-rio-2026-de-casa-veja-horario-e-onde-assistir-aos-shows-ao-vivo/",
-        "summary": "Festival começa nesta sexta-feira, 4, e terá sete dias de programação na Cidade do Rock, no Rio de Janeiro",
+        "title": "Da validação à Bolsa: como startups evoluem para atrair capital",
+        "link": "https://exame.com/bussola/da-validacao-a-bolsa-como-startups-evoluem-para-atrair-capital/",
+        "summary": "Cada rodada de investimento representa uma nova fase de maturidade e redução de riscos para startups",
         "image": null,
         "date": "04 de set. de 2026",
         "source": "Exame",
