@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-05T00:44:44.703Z",
+  "updated": "2026-09-05T05:25:43.059Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Polícia prende ex-cunhado de advogado morto após ser retirado à força de imobiliária em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/policia-prende-ex-cunhado-de-advogado-morto-apos-ser-retirado-a-forca-de-imobiliaria-em-campinas.ghtml",
+        "summary": "Advogado é morto a tiros após ser tirado de imobiliária à força em Campinas A Polícia Civil de Campinas prendeu nesta sexta-feira (4) um homem suspeito do assassinato do advogado Rafael Henrique Silva de Mello, de 45 ano",
+        "image": "https://s2-g1.glbimg.com/WQ7dB_U_rbmdX0dLwkNJqijtIeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/85tCOkSn64RcrOdUAqIQ/design-sem-nome-2026-08-28t190231.577.jpg",
+        "date": "05 de set. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Alvo de contestação do conselho do meio ambiente, data center de IA em Campinas ainda depende de licenças ambientais",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/alvo-contestacao-conselho-meio-ambiente-data-center-ia-campinas-depende-licencas-ambientais.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/vazamento-em-rede-hidraulica-faz-hc-da-unicamp-transferir-pacientes-de-uti-e-reprogramar-cirurgias.ghtml",
         "summary": "Fachada do HC da Unicamp, em Campinas Antoninho Perri/Unicamp Um rompimento em uma tubulação da rede hidráulica do Hospital de Clínicas (HC) da Unicamp provocou a evacuação de pacientes de uma área de tratamentos intensi",
         "image": "https://s2-g1.glbimg.com/Wz_bD-Bwfe600MJ_moFrDzjduDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/Q/ZfVCvVQYKPnuYjVHrAbg/sem-nome-1200-x-700-px-5-.jpg",
-        "date": "04 de set. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Homem é preso suspeito de matar a mulher a facadas em Hortolândia",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/homem-e-preso-suspeito-de-matar-a-mulher-a-facadas-em-hortolandia.ghtml",
-        "summary": "Homem é preso suspeito de matar a mulher a facadas em Hortolândia Um homem de 39 anos foi preso em flagrante por feminicídio no Jardim Minda, em Hortolândia (SP), nesta sexta-feira (4). Segundo a Polícia Militar, Cleonic",
-        "image": "https://s2-g1.glbimg.com/0RZX1TpMpJg4E56nw2KslSMz8Cw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/X/K5775KR8C66eVXQ4vdEg/design-sem-nome-2026-09-04t173842.705.jpg",
         "date": "04 de set. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Confira como foi a sexta-feira (4) dos candidatos a presidente",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-sexta-feira-4-dos-candidatos-presidente",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-sexta-feira-4-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "image": null,
+        "date": "04 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Cabral é condenado por esquema de regalias durante prisão no Rio",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/cabral-e-condenado-por-esquema-de-regalias-durante-prisao-no-rio",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/cabral-e-condenado-por-esquema-de-regalias-durante-prisao-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -171,75 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Senado aprova direito prioritário da criança a meio ambiente saudável",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/senado-aprova-direito-prioritario-da-crianca-meio-ambiente-saudavel",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/senado-aprova-direito-prioritario-da-crianca-meio-ambiente-saudavel img src= https://cdn.jsdelivr.net/gh/sergios",
-        "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Com retorno, São Paulo encerra preparação para enfrentar o Atlético-MG",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/com-retorno-sao-paulo-encerra-preparacao-para-enfrentar-o-atletico-mg/",
-        "summary": "Nesta sexta-feira, com Newton de volta, o São Paulo treinou no SuperCT e encerrou a preparação para enfrentar o Atlético-MG, em confronto válido pela 26ª rodada do Campeonato Brasileiro. A bola rola no sábado, às 18h30 (",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55508493746_8b693f1ff7_o-2.webp",
+        "title": "Palmeiras perde do Bahia nos pênaltis e cai nas quartas do Brasileiro feminino",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-perde-do-bahia-nos-penaltis-e-cai-nas-quartas-do-brasileiro-feminino/",
+        "summary": "O Palmeiras está eliminado do Brasileirão feminino. Na noite desta sexta-feira, o Verdão voltou a empatar com o Bahia em 0 a 0 na Arena Barueri e, na disputa de pênaltis, foi superado por 5 a 4 pelo clube de Salvador. Ra",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-23.48.50.webp",
         "date": "05 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras perde em casa, e Vasco conquista inédito título do Brasileirão sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-final-brasileiro-sub-20-2026/",
-        "summary": "O Palmeiras perdeu por 2 a 0 para o Vasco, no Nubank Parque, e ficou com o vice do Campeonato Brasileiro sub-20. Com dois gols de Andrey Fernandes, a equipe carioca conquistou o título inédito. O post Palmeiras perde em ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-20.02.43-2.webp",
+        "title": "CRB bate o América-MG e vence a segunda consecutiva na Série B",
+        "link": "https://www.gazetaesportiva.com/times/crb/crb-bate-o-america-mg-e-vence-a-segunda-consecutiva-na-serie-b/",
+        "summary": "Nesta sexta-feira, o CRB venceu o América-MG por 3 a 1, no Estádio Rei Pelé, em Maceió (AL), em confronto válido pela 26ª rodada da Série B do Campeonato Brasileiro e chegou ao segundo triunfo consecutivo na competição n",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55508709491_4a83b54628_o.webp",
         "date": "05 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja galeria de fotos do treino do São Paulo nesta sexta-feira",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-galeria-de-fotos-do-treino-do-sao-paulo-nesta-sexta-feira-9/",
-        "summary": "O post Veja galeria de fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55508865955_1dcd28aea8_o.webp",
-        "date": "04 de set. de 2026",
+        "title": "Técnico do Vasco se emociona após título inédito do no Brasileiro sub-20: “Tenho orgulho”",
+        "link": "https://www.gazetaesportiva.com/times/vasco/matheus-curopos-vasco-titulo-brasileiro-sub-20/",
+        "summary": "Matheus Curopos se emocionou após o Vasco vencer o Palmeiras e conquistar pela primeira vez o Campeonato Brasileiro sub-20. O treinador destacou o orgulho de representar o clube e dividiu os méritos da taça. O post Técni",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-22.59.14.webp",
+        "date": "05 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras x Vasco: veja fotos do jogo pela final do Brasileirão sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-fotos-final-brasileiro-sub-20/",
-        "summary": "Palmeiras e Vasco se enfrentam no Nubank Parque pelo jogo de volta da final do Campeonato Brasileiro sub-20. Veja fotos da decisão do título. O post Palmeiras x Vasco: veja fotos do jogo pela final do Brasileirão sub-20 ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-20.02.43.webp",
-        "date": "04 de set. de 2026",
+        "title": "Athletic goleia Vila Nova e se aproxima de G6 na Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/athletic-goleia-vila-nova-e-se-aproxima-de-g6-na-serie-b/",
+        "summary": "O Athletic goleou o Vila Nova por 5 a 0 na noite desta sexta-feira, pela 26ª rodada da Série B do Campeonato Brasileiro. Yago Santos, Carlinhos, Dixon, Otávio e Aponzá foram os autores dos gols na Arena Sicredi. Situação",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55325076043_44cc240e9b_o.webp",
+        "date": "05 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Goiás x Fortaleza pela Série B do Brasileiro: veja prováveis escalações e onde assistir",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-x-fortaleza-onde-assistir-serie-b/",
-        "summary": "Goiás e Fortaleza duelam neste sábado pela 26ª rodada da Série B do Campeonato Brasileiro. O Esmeraldino tenta encostar na zona de acesso, enquanto o Leão do Pici busca se consolidar no G4 e seguir na luta pelo retorno à",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/IMG_0301.webp",
-        "date": "04 de set. de 2026",
+        "title": "União São João perde do Bandeirante, mas vai às quartas da Copa Paulista",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-paulista/uniao-sao-joao-perde-do-bandeirante-mas-vai-as-quartas-da-copa-paulista/",
+        "summary": "Nesta sexta-feira, o União São João perdeu para o Bandeirante por 3 a 1, no Estádio Pedro Marin Berbel, em Birigui (SP), pelo jogo de volta do play-in da Copa Paulista, mas mesmo assim garantiu vaga nas quartas de final ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/snapinsta-1788569459728-2.webp",
+        "date": "05 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fluminense x Vasco pelo Brasileirão: saiba onde assistir, estatísticas e prováveis escalações",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-vasco-onde-assistir-brasileirao-26-rodada/",
-        "summary": "Fluminense e Vasco se enfrentam neste sábado, às 21h (de Brasília), no Maracanã, pela 26ª rodada do Campeonato Brasileiro. O Tricolor chega em melhor momento, ocupando a quarta colocação e defendendo uma sequência de par",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55505927288_289cf11d38_o.webp",
-        "date": "04 de set. de 2026",
+        "title": "Ex-Santos faz contra, Criciúma bate Cuiabá e dorme na liderança da Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-santos-faz-contra-criciuma-bate-cuiaba-e-dorme-na-lideranca-da-serie-b/",
+        "summary": "O Criciúma venceu o Cuiabá por 2 a 0 nesta sexta-feira, no Estádio Heriberto Hülse, pela 26ª rodada da Série B do Campeonato Brasileiro. Willean Lepo abriu o placar com um chute de longa distância ainda no primeiro tempo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-04-at-21.52.47.webp",
+        "date": "05 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Partido Novo pede arquivamento de investigação contra Mendonça",
+        "link": "https://www.infomoney.com.br/politica/partido-novo-pede-arquivamento-de-investigacao-contra-mendonca/",
+        "summary": "Segundo o Partido Novo, haveria ainda evidências de que a redação do relatório foi feita por inteligência artificial The post Partido Novo pede arquivamento de investigação contra Mendonça appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/52441529977_f3565b5d7d_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "05 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Em 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial",
+        "link": "https://www.infomoney.com.br/politica/em-7-de-setembro-lula-mandara-recado-aos-eua-e-citara-petroleo-na-margem-equatorial/",
+        "summary": "Segundo apurou a reportagem, o presidente também fará uma defesa do livre comércio The post Em 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55506583176_2ac84268e8_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "05 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Dia de Sorte: confira o resultado do concurso 1290 sorteado nesta sexta-feira (4)",
         "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1290-sorteado-nesta-sexta-feira-4/",
         "summary": "O prêmio estimado para este concurso era de R$ 450.000,00 The post Dia de Sorte: confira o resultado do concurso 1290 sorteado nesta sexta-feira (4) appeared first on InfoMoney.",
@@ -341,26 +361,6 @@
         "link": "https://www.infomoney.com.br/politica/empresarios-articulam-novo-manifesto-para-cobrar-codigo-de-conduta-no-stf/",
         "summary": "Início de mobilização tem ocorrido em grupos de WhatsApp, motivada por revelação de conversas entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro The post Empresários articulam novo manifesto para cobrar có",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/55270631785_a0b9caed88_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "04 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Aliados de Lula defendem nome de governador interino do Rio para vaga ao STF",
-        "link": "https://www.infomoney.com.br/politica/aliados-de-lula-defendem-nome-de-governador-interino-do-rio-para-vaga-ao-stf/",
-        "summary": "Desembargador Ricardo Couto já teve seu nome cotado para uma vaga no Superior Tribunal de Justiça neste ano The post Aliados de Lula defendem nome de governador interino do Rio para vaga ao STF appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Lula-ricardo-couto.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "04 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "OpenAI reacende discussão sobre AGI; entenda por que ainda não chegamos lá",
-        "link": "https://www.infomoney.com.br/consumo/agi-inteligencia-artificial-geral/",
-        "summary": "GPT-6 Astra chega ao mercado em meio ao avanço das discussões sobre inteligência artificial geral The post OpenAI reacende discussão sobre AGI; entenda por que ainda não chegamos lá appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/AGI-Inteligencia-Artificial-Geral.png?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "04 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
