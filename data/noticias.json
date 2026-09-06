@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:57:04.217Z",
+  "updated": "2026-09-06T21:11:58.774Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "IBGE disponibiliza a partir de amanhã mapas-múndi recentes",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ibge-disponibiliza-partir-de-amanha-mapas-mundi-recentes",
+        "summary": "p strong O Instituto Brasileiro de Geografia e Estatística (IBGE) irá liberar, a partir de amanhã (7), Dia da Independência do Brasil, no a href= https://loja.ibge.gov.br/ target= _blank em site /em /a de sua loja, o ace",
+        "image": null,
+        "date": "06 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "São Paulo tem mais de 58 mil casos de dengue desde o início do ano",
         "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-tem-mais-de-58-mil-casos-de-dengue-desde-o-inicio-do-ano",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sao-paulo-tem-mais-de-58-mil-casos-de-dengue-desde-o-inicio-do-ano img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Maria Clara Pacheco mantém hegemonia no ciclo olímpico do taekwondo",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/maria-clara-pacheco-mantem-hegemonia-no-ciclo-olimpico-do-taekwondo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/maria-clara-pacheco-mantem-hegemonia-no-ciclo-olimpico-do-taekwondo img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "06 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Internacional x Santos: siga o tempo real do jogo pelo Brasileirão",
+        "title": "Cruzeiro vence e encerra série de 10 rodadas sem derrota do Athletico-PR",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/cruzeiro-vence-e-encerra-serie-de-10-rodadas-sem-derrota-do-athletico-pr/",
+        "summary": "Confira os detalhes da vitória do Cruzeiro sobre o Athletico-PR, em duelo válido pela 26ª rodada do Campeonato Brasileiro. O post Cruzeiro vence e encerra série de 10 rodadas sem derrota do Athletico-PR apareceu primeiro",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55512186266_f60831e47e_k.webp",
+        "date": "06 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Com dois de Gabigol, Santos afunda o Inter e se distancia do Z4 do Brasileiro",
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-santos-brasileirao-2026/",
-        "summary": "Internacional e Santos se enfrentam neste domingo, às 16h, no Beira-Rio, pela 26ª rodada do Campeonato Brasileiro. Acompanhe todos os lances da partida em tempo real. O post Internacional x Santos: siga o tempo real do j",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HRitd1rXsAIERYJ.webp",
+        "summary": "O Santos venceu o Internacional por 3 a 2, neste domingo, no Beira-Rio, pela 26ª rodada do Brasileirão. Gabigol marcou duas vezes, Oliva completou o placar e o Peixe chegou aos 32 pontos, aumentando a distância para a zo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HRjs-4HaYAAvY6_-1.webp",
         "date": "06 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Remo x Flamengo: siga o tempo real do jogo pelo Campeonato Brasileiro",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/remo-x-flamengo-siga-o-tempo-real-do-jogo-pelo-campeonato-brasileiro/",
-        "summary": "O Flamengo volta a campo neste domingo para enfrentar o Remo em Belém (PA). O confronto, válido pela 26ª rodada do Campeonato Brasileiro, está marcado para as 16h (de Brasília), no Estádio Mangueirão. O post Remo x Flame",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-06-at-15.30.23.webp",
+        "title": "Botafogo x Palmeiras: siga o tempo real do jogo pelo Brasileiro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-palmeiras-campeonato-brasileiro-06-09-2026/",
+        "summary": "Siga o tempo real do duelo entre Botafogo e Palmeiras, pela 26ª rodada do Campeonato Brasileiro. O post Botafogo x Palmeiras: siga o tempo real do jogo pelo Brasileiro apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/03/55155722654_94f988760a_c.webp",
         "date": "06 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Eintracht Frankfur 1 x 4 Augsburg pelo Alemão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-frankfurt-1-x-4-augsburg-pela-alemao/",
-        "summary": "Melhores momentos: Eintracht Frankfur 1 x 4 Augsburg pela Alemão O post Melhores momentos: Eintracht Frankfur 1 x 4 Augsburg pelo Alemão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/yudyfznk-1920Frankfurt.webp",
+        "title": "Flamengo vence Remo com gol de Lino e pressiona Palmeiras no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/remo-x-flamengo-brasileirao-06-09-2026-2/",
+        "summary": "O Flamengo superou o Remo por 1 a 0 na tarde deste domingo, pela 26ª rodada do Campeonato Brasileiro. Samuel Lino anotou o gol do Rubro-Negro na segunda etapa e garantiu a vitória no Manguerão à equipe carioca, que assum",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/IMG_6124.webp",
         "date": "06 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos tem Arthur no banco e Rollheiser titular para pegar o Internacional; veja escalações",
-        "link": "https://www.gazetaesportiva.com/times/santos/internacional-santos-escalacoes-brasileirao-arthur-banco/",
-        "summary": "Santos e Internacional estão escalados para o confronto direto deste domingo, no Beira-Rio, pela 26ª rodada do Brasileirão. Arthur fica no banco pelo Peixe, enquanto o Colorado tem mudanças na equipe. O post Santos tem A",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HRjQA-4bAAAwLBa.webp",
+        "title": "Com gols nos acréscimos, Juventus busca empate contra o Milan pelo Italiano",
+        "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/com-gols-nos-acrescimos-juventus-busca-empate-contra-o-milan-pelo-italiano/",
+        "summary": "A Juventus buscou um empate dramático por 1 a 1 contra o Milan nos acréscimos, neste domingo, pela 3ª rodada do Campeonato Italiano, no Allianz Stadium, em Turim. O Milan saiu na frente aos 23 minutos do segundo tempo co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260906__C7HF2FT__v1__HighRes__FblItaSerieAJuventusAcMilan.webp",
         "date": "06 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sabalenka elimina Townsend e avança às quartas do US Open",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sabalenka-elimina-townsend-e-avanca-as-quartas-do-us-open/",
-        "summary": "Aryna Sabalenka, número 1 do mundo, avançou às quartas de final do US Open ao vencer a americana Taylor Townsend por 2 sets a 0, com parciais de 6-4 e 6-3, em 1h14 de partida. Mesmo jogando contra uma adversária apoiada ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260906__C7H78HE__v1__HighRes__TennisUsaOpen.webp",
-        "date": "06 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Arsenal busca virada sobre Chelsea e mantém 100% de aproveitamento no Campeonato Inglês",
-        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/arsenal-vence-chelsea-campeonato-ingles/",
-        "summary": "O Arsenal venceu o Chelsea por 2 a 1 neste domingo, no Emirates Stadium, pela 3.ª rodada do Campeonato Inglês. Após sair atrás no placar, os Gunners buscaram a virada com gols de Kai Havertz e Martin Ødegaard e chegaram ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260906__C7H82RT__v1__MidRes__FblEngPrArsenalChelsea.webp",
+        "title": "Kaue fala expectativas para o jogo contra a Chapecoense",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/kaue-fala-expectativas-para-o-jogo-contra-a-chapecoense/",
+        "summary": "Diante do jogo contra a Chapecoense, Kaue fala expectativas para a partida. O post Kaue fala expectativas para o jogo contra a Chapecoense apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/pofw28yy-1920Kaue.webp",
         "date": "06 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "IBGE disponibiliza a partir de amanhã mapas-múndi recentes",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ibge-disponibiliza-partir-de-amanha-mapas-mundi-recentes",
+        "summary": "p strong O Instituto Brasileiro de Geografia e Estatística (IBGE) irá liberar, a partir de amanhã (7), Dia da Independência do Brasil, no a href= https://loja.ibge.gov.br/ target= _blank em site /em /a de sua loja, o ace",
+        "image": null,
+        "date": "06 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Brasil testa plataforma para pesquisas em microgravidade no espaço",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-testa-plataforma-para-pesquisas-em-microgravidade-no-espaco",
@@ -297,74 +307,104 @@
         "cls": ""
       },
       {
-        "title": "Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Nas redes, Augusto Cury critica polarização: Brasil está cansado",
+        "link": "https://www.infomoney.com.br/politica/nas-redes-augusto-cury-critica-polarizacao-brasil-esta-cansado/",
+        "summary": "A postagem foi feita em mensagem de agradecimento ao grupo de apoiadores The post Nas redes, Augusto Cury critica polarização: Brasil está cansado appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Augusto_Cury_escritor_28339139296.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "06 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mansão de dono da Marabraz vai a leilão por mais de R$ 72 milhões",
+        "link": "https://www.infomoney.com.br/brasil/mansao-de-dono-da-marabraz-vai-a-leilao-por-mais-de-r-72-milhoes/",
+        "summary": "Propriedade de 2.640,04 m² fica em condomínio de luxo em São Paulo The post Mansão de dono da Marabraz vai a leilão por mais de R$ 72 milhões appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/mansao-marabraz.jpg?fit=300%2C186&amp;quality=70&amp;strip=all",
+        "date": "06 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Onde assistir à Corinthians x Chapecoense?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-corinthians-chapecoense/",
+        "summary": "O Timão é o mandante do jogo de hoje The post Onde assistir à Corinthians x Chapecoense? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/thumb-corinthians-x-chapecoense.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "06 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Justiça rejeita pedido do Coco Bambu em ação contra Gregório Duvivier e João Vicente",
+        "link": "https://www.infomoney.com.br/brasil/justica-rejeita-pedido-do-coco-bambu-em-acao-contra-gregorio-duvivier-e-joao-vicente/",
+        "summary": "Restaurante teve pedido de remoção de vídeo rejeitado pela Justiça, em primeira derrota no processo The post Justiça rejeita pedido do Coco Bambu em ação contra Gregório Duvivier e João Vicente appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/gregorio-duvivier-joao-vicente.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "06 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Calendário econômico da semana: inflação no Brasil e nos EUA são os destaques",
+        "link": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-no-brasil-e-nos-eua-sao-os-destaques/",
+        "summary": "Tudo o que o investidor precisa saber antes de operar na semana The post Calendário econômico da semana: inflação no Brasil e nos EUA são os destaques appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/inflacion12.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "06 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Avião cargueiro da Amazon sai da pista e pega fogo perto de aeroporto de Miami",
+        "link": "https://www.infomoney.com.br/mundo/aviao-cargueiro-da-amazon-sai-da-pista-e-pega-fogo-perto-de-aeroporto-de-miami/",
+        "summary": "Boeing 767 chegava de Porto Rico; imagens mostram aeronave atravessada na pista e grande coluna de fumaça The post Avião cargueiro da Amazon sai da pista e pega fogo perto de aeroporto de Miami appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/arte-globo-8-.avif?resize=300,169",
+        "date": "06 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Miguel Gandelman, brasileiro, vence Emmy por direção musical de Bad Bunny",
+        "link": "https://exame.com/pop/miguel-gandelman-brasileiro-vence-emmy-por-direcao-musical-de-bad-bunny/",
+        "summary": "Preparação do show levou o brasileiro a acompanhar a banda na Colômbia e no Chile",
         "image": null,
-        "date": "04 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "06 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Um plano de recuperação vai reviver a Volkswagen ou apenas adiar seu fim?",
-        "link": "https://www.infomoney.com.br/business/global/um-plano-de-recuperacao-vai-reviver-a-volkswagen-ou-apenas-adiar-seu-fim/",
-        "summary": "A empresa alemã precisa enfrentar uma série de desafios, desde a crescente concorrência chinesa até as tarifas dos EUA, que corroeram suas margens de lucro e ameaçaram sua sobrevivência The post Um plano de recuperação v",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-13T080500Z_841234124_RC2FU6AFC36E_RTRMADP_3_VOLKSWAGEN-TRINITY-LAUNCH.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "TSE autoriza pronunciamento de Lula sobre 7 de setembro neste domingo",
+        "link": "https://exame.com/brasil/tse-autoriza-pronunciamento-de-lula-sobre-7-de-setembro-neste-domingo/",
+        "summary": "Discurso de 3 minutos e 43 segundos será exibido em alusão ao Dia da Independência; presidente também participará do desfile cívico-militar em Brasília na segunda",
+        "image": null,
         "date": "06 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Senado não pode se omitir diante dos fatos que envolvem STF, diz Tereza Cristina",
-        "link": "https://www.infomoney.com.br/politica/senado-nao-pode-se-omitir-diante-dos-fatos-que-envolvem-stf-diz-tereza-cristina/",
-        "summary": "\"Temos de buscar a verdade. Sempre com independência, transparência e respeito à Constituição\", escreveu a senadora em publicação The post Senado não pode se omitir diante dos fatos que envolvem STF, diz Tereza Cristina ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/TEREZACRISTINA.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "title": "Avião cargueiro da Amazon sai da pista e pega fogo perto do aeroporto de Miami",
+        "link": "https://exame.com/mundo/aviao-cargueiro-da-amazon-sai-da-pista-e-pega-fogo-perto-de-aeroporto-em-miami/",
+        "summary": "Boeing 767-300 operado pela 21 Air havia partido de Porto Rico; todas as pistas do aeroporto foram fechadas após o acidente",
+        "image": null,
         "date": "06 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "A rebelião das IAs: como os agentes da OpenAI invadiram a Hugging Face sozinhos",
-        "link": "https://www.infomoney.com.br/business/global/a-rebeliao-das-ias-como-os-agentes-da-openai-invadiram-a-hugging-face-sozinhos/",
-        "summary": "Em um ataque inédito, IAs da OpenAI escaparam do controle, violaram a Hugging Face e acenderam um alerta global sobre os riscos da autonomia de máquinas. The post A rebelião das IAs: como os agentes da OpenAI invadiram a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/AI-CAPABILITIES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Rock in Rio tem brinquedos suspensos após alerta de chuva e vento; quais e até quando",
+        "link": "https://exame.com/pop/rock-in-rio-tem-brinquedos-suspensos-apos-alerta-de-chuva-e-vento-quais-e-ate-quando/",
+        "summary": "Medida foi anunciada pelo aplicativo oficial após piora das condições climáticas no Rio",
+        "image": null,
         "date": "06 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Apresentadora do Egito é condenada à morte por fabricação de drogas sintéticas",
-        "link": "https://www.infomoney.com.br/mundo/apresentadora-do-egito-e-condenada-a-morte-por-fabricacao-de-drogas-sinteticas/",
-        "summary": "Conhecida pelo programa de televisão Missão Impossível, sobre segurança e criminalidade, Khalifa foi condenada por formação de uma organização criminosa The post Apresentadora do Egito é condenada à morte por fabricação ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/sarah-khalifa.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "06 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pão, queijos e vinho: a crise da França que fez Macron declarar guerra agrícola .",
-        "link": "https://www.infomoney.com.br/business/pao-queijos-e-vinho-a-crise-da-franca-que-fez-macron-declarar-guerra-agricola/",
-        "summary": "Governo francês declara \"guerra\" e aprova lei de emergência para salvar fazendeiros. Mas o problema vai muito além da política The post Pão, queijos e vinho: a crise da França que fez Macron declarar guerra agrícola . ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/460506659-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "06 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Capitão de barco pula na água e resgata mergulhador atacado brutalmente por tubarão",
-        "link": "https://www.infomoney.com.br/mundo/capitao-de-barco-pula-na-agua-e-resgata-mergulhador-atacado-brutalmente-por-tubarao/",
-        "summary": "“Eu estava ajudando um dos outros mergulhadores a tirar o equipamento quando ouvi: ‘Socorro, socorro. Fui mordido’”, relembrou Jacob Johnson The post Capitão de barco pula na água e resgata mergulhador atacado brutalment",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/mergulhador-salva-amigo-tubarao_0239e6.jpg?fit=300%2C227&amp;quality=70&amp;strip=all",
-        "date": "06 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Nude vazado? Boato sobre MC Livinho é ação da Itaipava para o Dia do Sexo",
@@ -380,46 +420,6 @@
         "title": "Extrema direita obtém vitória histórica na Alemanha, aponta pesquisa de boca de urna",
         "link": "https://exame.com/mundo/extrema-direita-obtem-vitoria-historica-na-alemanha-aponta-pesquisa-de-boca-de-urna/",
         "summary": "AfD obtém cerca de 44% dos votos na Saxônia-Anhalt, mas pode ficar sem maioria para governar o estado",
-        "image": null,
-        "date": "06 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Aprovação de Trump cai ao menor nível com insatisfação sobre economia e tarifaço",
-        "link": "https://exame.com/mundo/aprovacao-de-trump-cai-ao-menor-nivel-por-insatisfacao-com-economia-e-tarifaco/",
-        "summary": "Pesquisa publicada pelo Financial Times mostra que 33% dos eleitores aprovam o presidente dos EUA, enquanto custo de vida pesam sobre avaliação",
-        "image": null,
-        "date": "06 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Prêmio para multifranqueados terá caderno na EXAME e viagem a Las Vegas; saiba como se inscrever",
-        "link": "https://exame.com/negocios/premio-para-multifranqueados-tera-caderno-na-exame-e-viagem-a-las-vegas-saiba-como-se-inscrever/",
-        "summary": "Vencedores das 10 categorias serão apresentados na edição de novembro da revista; inscrições são gratuitas e terminam em 10 de setembro",
-        "image": null,
-        "date": "06 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Rock in Rio 2026: veja o provável setlist do show do Elton John",
-        "link": "https://exame.com/pop/rock-in-rio-2026-veja-o-provavel-setlist-do-show-do-elton-john/",
-        "summary": "Entre os sucessos esperados estão \"Your Song\" e \"Rocket Man\", duas das faixas mais cantadas pelo cantor ao longo da carreira",
-        "image": null,
-        "date": "06 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Alfredo Soares ajuda empreendedora que ficou sem salário após perder 70% das vendas",
-        "link": "https://exame.com/negocios/alfredo-soares-ajuda-empreendedora-que-ficou-sem-salario-apos-perder-70-das-vendas/",
-        "summary": "Empório Jaya dependia de um marketplace que encerrou as atividades. No Choque de Gestão, cofundador do G4 traça plano para recuperar o negócio",
         "image": null,
         "date": "06 de set. de 2026",
         "source": "Exame",
