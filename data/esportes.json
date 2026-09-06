@@ -1,29 +1,7 @@
 {
-  "updated": "2026-09-05T22:57:23.158Z",
+  "updated": "2026-09-06T00:57:32.343Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Veja fotos do confronto entre Sporting e Nacional pelo Campeonato Português",
-      "link": "https://www.gazetaesportiva.com/campeonatos/liga-nos/veja-fotos-do-confronto-entre-sporting-e-nacional-pelo-campeonato-portugues/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "05 de set. de 2026",
-      "isoDate": "2026-09-05",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Melhores momentos: Al Ittihad 2 x 1 Al Nassr pelo Saudita",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/elhores-momentos-al-ittihad-2-x-1-al-nassr-pelo-saudita/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "05 de set. de 2026",
-      "isoDate": "2026-09-05",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Ziyech quase acerta com Botafogo; jogador do Corinthians atrasa negociação",
       "link": "https://www.gazetaesportiva.com/times/botafogo/ziyech-reavalia-acordo-com-botafogo-apos-conversa-com-jogador-do-corinthians/",
@@ -33,7 +11,7 @@
       "isoDate": "2026-09-05",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Ex-jogador do Santos, Ângelo Gabriel Borges. Ele marcou pelo Al-Nassr contra o Al-Ittihad; vejo o gol",
@@ -44,7 +22,7 @@
       "isoDate": "2026-09-05",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "De virada, Roma vence Atalanta e retoma liderança do Campeonato Italiano",
@@ -66,7 +44,7 @@
       "isoDate": "2026-09-05",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Prestes a completar 41 anos, Luka Modric seguirá na seleção croata",
@@ -77,7 +55,7 @@
       "isoDate": "2026-09-05",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Sporting vence Nacional e assume vice-liderança do Campeonato Português",
@@ -89,6 +67,28 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Valencia x Barcelona pelo Espanhol: veja prováveis escalações e onde assistir",
+      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/valencia-x-barcelona-onde-assistir-laliga/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "05 de set. de 2026",
+      "isoDate": "2026-09-05",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f604.png"
+    },
+    {
+      "title": "Juventus x Milan: horário, onde assistir e prováveis escalações pelo Italiano",
+      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/juventus-x-milan-horario-onde-assistir-e-provaveis-escalacoes-pelo-italiano/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "05 de set. de 2026",
+      "isoDate": "2026-09-05",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3e1.png"
     },
     {
       "title": "Seleção Brasileira goleia a Tanzânia na estreia da Copa do Mundo feminina sub-20",
