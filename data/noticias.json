@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-08T01:01:27.055Z",
+  "updated": "2026-09-08T07:04:34.558Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Morre suspeito de feminicídio baleado após troca de tiros com a Guarda de Artur Nogueira",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/07/morre-suspeito-de-feminicidio-baleado-apos-troca-de-tiros-com-a-guarda-de-artur-nogueira.ghtml",
+        "summary": "Escondido sob galinheiro, procurado por feminicídio é baleado e preso em Artur Nogueira Suspeito do feminicídio da ex-companheira, Anderson Souza Andrade Ramos, de 42 anos, baleado durante troca de tiros com a Guarda Mun",
+        "image": "https://s2-g1.glbimg.com/fXXngNMRa57k8P9GnZdQ6GslR8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/wP83eaRveY6o9tpVtBAg/design-sem-nome-2026-09-07t191420.075.jpg",
+        "date": "08 de set. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Com assassinato de mãe de três filhos, região de Campinas chega a 15 feminicídios em 2026",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/07/com-assassinato-de-mae-de-tres-filhos-regiao-de-campinas-chega-a-15-feminicidios-em-2026.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/07/achei-que-fosse-bomba-diz-dono-de-carros-atingidos-por-caminhao-desgovernado-no-interior-de-sao-paulo.ghtml",
         "summary": "'Achei que fosse bomba', diz dono de carros atingidos por caminhão no interior de SP A Defesa Civil de Cosmópolis (SP) informou, nesta segunda-feira (7), que existem riscos de desabamento nas casas atingidas pelo caminhã",
         "image": "https://s2-g1.glbimg.com/IYD3PNadfX-WwaP2jXRFqfCFd3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/0/ts9vv4QAiFOOjrIGydLA/gcm-2-.jpeg",
-        "date": "07 de set. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Campineiros enfrentam frio para acompanhar desfile de 7 de Setembro no Centro; FOTOS",
-        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/09/07/campineiros-enfrentam-frio-para-acompanhar-desfile-de-7-de-setembro-no-centro-fotos.ghtml",
-        "summary": "População enfrentou o frio para acompanhar os desfiles de 7 de setembro em Campinas As baixas temperaturas não impediram que milhares de pessoas acompanhassem os desfiles cívico-militares do Dia da Independência, neste f",
-        "image": "https://s2-g1.glbimg.com/fd_Phsv4k_-HN1YUW9r7AnqqGYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/kidWBPQQWtBAzYnEESeA/design-sem-nome-2026-09-07t135758.443.jpg",
         "date": "07 de set. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,61 +185,61 @@
     ],
     "esportes": [
       {
-        "title": "Vitória quebra jejum e deixa o Grêmio perto do Z4 do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/gremio/vitoria-x-gremio-campeonato-brasileiro/",
-        "summary": "Nesta segunda-feira, o Vitória venceu o Grêmio por 1 a 0, no Barracão, em Salvador, pela 26ª rodada do Campeonato Brasileiro, encerrou jejum de quatro jogos sem triunfar e ultrapassou Santos e Corinthians na tabela de cl",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55514749391_860d226a73_o-2.webp",
+        "title": "Luís Castro lamenta derrota do Grêmio e afirma: “Não merecíamos perder”",
+        "link": "https://www.gazetaesportiva.com/times/gremio/luis-castro-lamenta-derrota-do-gremio-e-afirma-nao-mereciamos-perder/",
+        "summary": "O técnico Luís Castro lamentou a derrota do Grêmio por 1 a 0 para o Vitória, nesta segunda-feira, no Barradão, pela 26ª rodada do Campeonato Brasileiro. Para o treinador, a equipe gaúcha conseguiu equilibrar a partida du",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55514825096_e36fb2abbf_o.webp",
         "date": "08 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "SP Open homenageia Niege Dias, uma das pioneiras do tênis brasileiro",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sp-open-homenageia-niege-dias-uma-das-pioneiras-do-tenis-brasileiro/",
-        "summary": "O SP Open, torneio WTA realizado em São Paulo, homenageará uma das grandes pioneiras do tênis feminino brasileiro em sua segunda edição. Niege Dias, ex-tenista que chegou à 31ª posição do ranking mundial, será reverencia",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/4QjZ6MzMilTNipTbvNmLhZXa0J3bwNXZhRXZ6F2ZA52bjNWZjJmOwUTM5IjMxczMzozZlBnauc3bsNGM3EmN2kTY1QWYjhjZjFTYiRjYlVWYlZjMwQWZjVmMGJTJjVmMGJTJ1UTN1IjRyUSN0ADNx8VL1ETLf9VLwITLfpz.webp",
+        "title": "Luís Castro analisa desempenho e diz que Grêmio não merecia perder",
+        "link": "https://www.gazetaesportiva.com/dugout/luis-castro-analisa-desempenho-e-diz-que-gremio-nao-merecia-perder/",
+        "summary": "Treinador do Imortal comenta revés para o Vitória no Barradão pelo returno do Campeonato Brasileiro. O post Luís Castro analisa desempenho e diz que Grêmio não merecia perder apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55514989819_c8327a6367_o.webp",
         "date": "08 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vitória x Grêmio: veja fotos do jogo pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/gremio/vitoria-x-gremio-veja-fotos-do-jogo-pelo-brasileirao/",
-        "summary": "O post Vitória x Grêmio: veja fotos do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55514749421_479a2f179e_o-2.webp",
+        "title": "Sem Cebolinha, Flamengo divulga relacionados para quartas da Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/sem-cebolinha-flamengo-divulga-relacionados-para-quartas-da-libertadores/",
+        "summary": "O Flamengo divulgou nesta segunda-feira a lista de jogadores relacionados para o primeiro jogo das quartas de final da Copa Libertadores. O Rubro-Negro enfrenta o Independiente del Valle na quinta-feira, às 21h30 (de Bra",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/TREINO-EM-BELEM-CT-BAETAO-07-09-2026-77.jpg.webp",
         "date": "08 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Rodinei defende leveza no Santos após chegada e se coloca à disposição de Cuca",
-        "link": "https://www.gazetaesportiva.com/times/santos/rodinei-santos-leveza-estreia-atletico-mg/",
-        "summary": "Rodinei realizou seu primeiro treino pelo Santos e falou sobre a chegada ao clube, o apelido “Rodilindo” e a importância de manter a leveza em meio às cobranças. O lateral-direito também se colocou à disposição de Cuca p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55513931879_7822e4f2d6_3k.webp",
+        "title": "O golaço de Galván em seu doblete contra o Independiente Rivadavia",
+        "link": "https://www.gazetaesportiva.com/times/river-plate/o-golaco-de-galvan-em-seu-doblete-contra-o-independiente-rivadavia/",
+        "summary": "Confira o incrível doblete de Tomás Galván na vitória por 3 a 1 do River Plate sobre o Independiente Rivadavia em setembro de 2026. O post O golaço de Galván em seu doblete contra o Independiente Rivadavia apareceu prime",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/KoSKSwgP-1280.webp",
         "date": "08 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Pré-lista de Ancelotti tem quarteto do Corinthians e meia do Santos; veja nomes",
-        "link": "https://www.gazetaesportiva.com/times/brasil/pre-lista-ancelotti-corinthians-santos-convocacao/",
-        "summary": "Carlo Ancelotti incluiu Hugo Souza, Matheuzinho, André e Breno Bidon, do Corinthians, além de Gabriel Bontempo, do Santos, na pré-lista da Seleção Brasileira. A relação também conta com jogadores de Cruzeiro e Flamengo. ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/30JUL2026CARLOANCELOTTI-6.0.webp",
-        "date": "07 de set. de 2026",
+        "title": "Cruzeiro bate o Athletico-PR no Mineirão; veja bastidores do vestiário",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-bate-o-athletico-pr-no-mineirao-veja-bastidores-do-vestiario/",
+        "summary": "Veja os bastidores do elenco Cabuloso na vitória por 3 a 1 em casa pelo returno do Campeonato Brasileiro. O post Cruzeiro bate o Athletico-PR no Mineirão; veja bastidores do vestiário apareceu primeiro em Gazeta Esportiv",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/mymtxrnh-1280.webp",
+        "date": "08 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Camilla Orlando projeta duelo do Brasil contra o Canadá no Mundial feminino sub-20",
-        "link": "https://www.gazetaesportiva.com/times/brasil/camilla-orlando-projeta-duelo-do-brasil-contra-o-canada-no-mundial-feminino-sub-20/",
-        "summary": "A Seleção Brasileira feminina sub-20 volta a campo nesta terça-feira (8), pela segunda rodada da Copa do Mundo da categoria contra o Canadá, às 10h (de Brasília), no Estádio de Bielsko-Biala, na Polônia. O post Camilla O",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Selecao_Brasileira_FEM_Sub_20_Bielsko_Biala_02_09_26_13_a73361722a.webp",
-        "date": "07 de set. de 2026",
+        "title": "Bastidores da vitória do Santos no Beira-Rio; assista",
+        "link": "https://www.gazetaesportiva.com/times/santos/bastidores-da-vitoria-do-santos-no-beira-rio-assista/",
+        "summary": "Confira o melhor dos bastidores da vitória santista por 3 a 2 sobre o Internacional, em Porto Alegre, pelo Campeonato Brasileiro. O post Bastidores da vitória do Santos no Beira-Rio; assista apareceu primeiro em Gazeta E",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/65oo7kuq-1280.webp",
+        "date": "08 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
