@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-07T22:39:16.911Z",
+  "updated": "2026-09-08T01:01:27.055Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Com assassinato de mãe de três filhos, região de Campinas chega a 15 feminicídios em 2026",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/07/com-assassinato-de-mae-de-tres-filhos-regiao-de-campinas-chega-a-15-feminicidios-em-2026.ghtml",
+        "summary": "Escondido sob galinheiro, procurado por feminicídio é baleado e preso em Artur Nogueira Com o assassinato de Talita Ramos Andrade, de 35 anos, mãe de três filhos encontrada morta em uma estrada rural de Artur Nogueira (S",
+        "image": "https://s2-g1.glbimg.com/B2KUUy40i7CMU543C9nK8W0Grq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/A/QvXnwaRXiPgvj1MmSEVg/design-sem-nome-32-.png",
         "date": "07 de set. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -45,7 +45,7 @@
       {
         "title": "'Achei que fosse bomba', diz dono de carros atingidos por caminhão desgovernado no interior de São Paulo",
         "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/07/achei-que-fosse-bomba-diz-dono-de-carros-atingidos-por-caminhao-desgovernado-no-interior-de-sao-paulo.ghtml",
-        "summary": "Carreta desgovernada: três casas e três carros foram atingidos entre Paulínia e Cosmópolis A Defesa Civil de Cosmópolis (SP) informou, nesta segunda-feira (7), que existem riscos de desabamento nas casas atingidas pelo c",
+        "summary": "'Achei que fosse bomba', diz dono de carros atingidos por caminhão no interior de SP A Defesa Civil de Cosmópolis (SP) informou, nesta segunda-feira (7), que existem riscos de desabamento nas casas atingidas pelo caminhã",
         "image": "https://s2-g1.glbimg.com/IYD3PNadfX-WwaP2jXRFqfCFd3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/0/ts9vv4QAiFOOjrIGydLA/gcm-2-.jpeg",
         "date": "07 de set. de 2026",
         "source": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "07 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja como foi a segunda-feira (7) dos presidenciáveis",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-7-dos-presidenciaveis",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-7-dos-presidenciaveis img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/",
+        "image": null,
+        "date": "07 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasileiro Feminino: Corinthians vai às semifinais e enfrenta o Bahia",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-corinthians-vai-semifinais-e-enfrenta-o-bahia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-corinthians-vai-semifinais-e-enfrenta-o-bahia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "07 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Luisa Stefani vai às quartas de final nas duplas femininas do US Open",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/luisa-stefani-vai-quartas-de-final-nas-duplas-femininas-do-us-open",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/luisa-stefani-vai-quartas-de-final-nas-duplas-femininas-do-us-open img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Grito dos Excluídos tem atos em defesa por moradia e contra violência",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/grito-dos-excluidos-tem-atos-em-defesa-por-moradia-e-contra-violencia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/grito-dos-excluidos-tem-atos-em-defesa-por-moradia-e-contra-violencia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Tradicional desfile cívico-militar é realizado no Rio de Janeiro",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2",
-        "summary": "p strong A a href= https://tvbrasil.ebc.com.br/ target= _blank TV Brasil /a transmite, nesta segunda-feira (7), a partir das 21h15, a partida de volta da semifinal do a href= https://www.cbf.com.br/futebol-brasileiro/tab",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Corinthians elimina Cruzeiro e vai à semi do Brasileiro feminino; veja duelos",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-elimina-cruzeiro-e-vai-a-semi-do-brasileiro-feminino-veja-duelos/",
-        "summary": "O Campeonato Brasileiro Feminino conheceu, nesta segunda-feira, o último semifinalista. O Corinthians venceu o Cruzeiro por 3 a 1, no Canindé, e garantiu sua vaga entre as quatro melhores equipes da competição. Com o res",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/248010.webp",
+        "title": "Vitória quebra jejum e deixa o Grêmio perto do Z4 do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/gremio/vitoria-x-gremio-campeonato-brasileiro/",
+        "summary": "Nesta segunda-feira, o Vitória venceu o Grêmio por 1 a 0, no Barracão, em Salvador, pela 26ª rodada do Campeonato Brasileiro, encerrou jejum de quatro jogos sem triunfar e ultrapassou Santos e Corinthians na tabela de cl",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55514749391_860d226a73_o-2.webp",
+        "date": "08 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "SP Open homenageia Niege Dias, uma das pioneiras do tênis brasileiro",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/sp-open-homenageia-niege-dias-uma-das-pioneiras-do-tenis-brasileiro/",
+        "summary": "O SP Open, torneio WTA realizado em São Paulo, homenageará uma das grandes pioneiras do tênis feminino brasileiro em sua segunda edição. Niege Dias, ex-tenista que chegou à 31ª posição do ranking mundial, será reverencia",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/4QjZ6MzMilTNipTbvNmLhZXa0J3bwNXZhRXZ6F2ZA52bjNWZjJmOwUTM5IjMxczMzozZlBnauc3bsNGM3EmN2kTY1QWYjhjZjFTYiRjYlVWYlZjMwQWZjVmMGJTJjVmMGJTJ1UTN1IjRyUSN0ADNx8VL1ETLf9VLwITLfpz.webp",
+        "date": "08 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Vitória x Grêmio: veja fotos do jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/gremio/vitoria-x-gremio-veja-fotos-do-jogo-pelo-brasileirao/",
+        "summary": "O post Vitória x Grêmio: veja fotos do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55514749421_479a2f179e_o-2.webp",
+        "date": "08 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Rodinei defende leveza no Santos após chegada e se coloca à disposição de Cuca",
+        "link": "https://www.gazetaesportiva.com/times/santos/rodinei-santos-leveza-estreia-atletico-mg/",
+        "summary": "Rodinei realizou seu primeiro treino pelo Santos e falou sobre a chegada ao clube, o apelido “Rodilindo” e a importância de manter a leveza em meio às cobranças. O lateral-direito também se colocou à disposição de Cuca p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55513931879_7822e4f2d6_3k.webp",
+        "date": "08 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Pré-lista de Ancelotti tem quarteto do Corinthians e meia do Santos; veja nomes",
+        "link": "https://www.gazetaesportiva.com/times/brasil/pre-lista-ancelotti-corinthians-santos-convocacao/",
+        "summary": "Carlo Ancelotti incluiu Hugo Souza, Matheuzinho, André e Breno Bidon, do Corinthians, além de Gabriel Bontempo, do Santos, na pré-lista da Seleção Brasileira. A relação também conta com jogadores de Cruzeiro e Flamengo. ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/30JUL2026CARLOANCELOTTI-6.0.webp",
         "date": "07 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vitória e Grêmio definem escalações para duelo pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/gremio/vitoria-e-gremio-definem-escalacoes-para-duelo-pelo-brasileirao/",
-        "summary": "Vitória e Grêmio estão escalados para o jogo de logo mais nesta segunda-feira, válido pela 26ª rodada do Campeonato Brasileiro. A bola rola para o duelo às 20h (de Brasília), no Barradão, em Salvador. O post Vitória e Gr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HRpFqH3a0AAmB_j-2.webp",
-        "date": "07 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Lazio vira sobre a Udinese e amplia campanha 100% no Italiano",
-        "link": "https://www.gazetaesportiva.com/times/lazio/lazio-vira-sobre-a-udinese-e-amplia-campanha-100-no-italiano/",
-        "summary": "A Lazio venceu a Udinese por 2 a 1 de virada nesta segunda-feira, no Bluenergy Stadium, pela terceira rodada do Campeonato Italiano. Após sair atrás no placar com gol de Jesper Karlström, a equipe comandada por Gennaro G",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260907__radoni-udinesev260907_npOQC__v1__MidRes__UdineseCalcioVSsLazioSerieA2.webp",
-        "date": "07 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Com Plata reintegrado, Flamengo libera Cebolinha antes de pegar o Del Valle",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/com-plata-reintegrado-flamengo-libera-cebolinha-antes-de-pegar-o-del-valle/",
-        "summary": "O Flamengo viveu uma segunda-feira movimentada antes do confronto contra o Independiente del Valle, pelas quartas de final da Libertadores. Everton Cebolinha foi liberado pelo clube para resolver questões ligadas a uma p",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-07-at-17.21.15.webp",
-        "date": "07 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Real Sociedad vence Elche em jogo de cinco gols pelo Campeonato Espanhol",
-        "link": "https://www.gazetaesportiva.com/campeonatos/laliga/real-sociedad-vence-elche-em-jogo-de-cinco-gols-pelo-campeonato-espanhol/",
-        "summary": "A Real Sociedad venceu o Elche por 3 a 2, fora de casa, pela quarta rodada do Campeonato Espanhol. Sucic marcou o gol da vitória aos 45 minutos do segundo tempo. O post Real Sociedad vence Elche em jogo de cinco gols pel",
-        "image": "https://static.gazetaesportiva.com/uploads/000_34KC7YD.jpg",
-        "date": "07 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Luisa Stefani avança às quartas do US Open pela sexta vez consecutiva",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/luisa-stefani-avanca-as-quartas-do-us-open-pela-sexta-vez-consecutiva/",
-        "summary": "Luisa Stefani e Gabriela Dabrowski derrotaram Eri Hozumi e Andreja Klepac por 2 sets a 0 e avançaram às quartas de final do US Open. A brasileira chega pela sexta vez consecutiva à fase e busca sua terceira semifinal no ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/WhatsApp-Image-2026-09-07-at-5.57.08-PM.webp",
+        "title": "Camilla Orlando projeta duelo do Brasil contra o Canadá no Mundial feminino sub-20",
+        "link": "https://www.gazetaesportiva.com/times/brasil/camilla-orlando-projeta-duelo-do-brasil-contra-o-canada-no-mundial-feminino-sub-20/",
+        "summary": "A Seleção Brasileira feminina sub-20 volta a campo nesta terça-feira (8), pela segunda rodada da Copa do Mundo da categoria contra o Canadá, às 10h (de Brasília), no Estádio de Bielsko-Biala, na Polônia. O post Camilla O",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Selecao_Brasileira_FEM_Sub_20_Bielsko_Biala_02_09_26_13_a73361722a.webp",
         "date": "07 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Hackers roubam US$ 320 milhões em Bitcoin após invadir rede de exchanges",
+        "link": "https://www.infomoney.com.br/mercados/hackers-roubam-us-320-milhoes-em-bitcoin-apos-invadir-rede-de-exchanges/",
+        "summary": "Ataque retirou cerca de 4 mil Bitcoins da Liquid Network, mas parte dos fundos foi devolvida pelos hackers The post Hackers roubam US$ 320 milhões em Bitcoin após invadir rede de exchanges appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/One_bitcoin_sitting_atop_bundles_of_US_100_notes.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "07 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Novas regras do Campo de Marte ampliam restrições a prédios em SP; o que muda?",
+        "link": "https://www.infomoney.com.br/minhas-financas/novas-regras-do-campo-de-marte-ampliam-restricoes-a-predios-em-sp-o-que-muda/",
+        "summary": "A partir de 15 de setembro, voos serão operados por instrumentos e alteração exigiu restrições para novas construções em um raio de 20 quilômetros; setor imobiliário reclama e Pax e FAB minimizam impacto The post Novas r",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/08/campo-de-marte.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "07 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Ações da Novartis despencam após remédio para colesterol fracassar em estudo",
         "link": "https://www.infomoney.com.br/mercados/acoes-da-novartis-despencam-apos-remedio-para-colesterol-fracassar-em-estudo/",
         "summary": "Revés também gera incerteza sobre o esforço mais amplo do setor para combater a lipoproteína The post Ações da Novartis despencam após remédio para colesterol fracassar em estudo appeared first on InfoMoney.",
@@ -347,24 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Monitor da USP estima 28,5 mil pessoas em ato de Flávio Bolsonaro na Avenida Paulista",
-        "link": "https://www.infomoney.com.br/politica/monitor-da-usp-estima-285-mil-pessoas-em-ato-de-flavio-bolsonaro-na-avenida-paulista/",
-        "summary": "Na Paulista, o público estimado foi 32,5% menor que o registrado no ato de 7 de Setembro de 2025, quando 42,2 mil pessoas estiveram no local The post Monitor da USP estima 28,5 mil pessoas em ato de Flávio Bolsonaro na A",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/IMG_4751.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Trump ameaça proibir venda de jatos da Bombardier nos EUA em meio a guerra comercial com Canadá",
+        "link": "https://exame.com/mundo/trump-ameaca-proibir-venda-de-jatos-da-bombardier-nos-eua-em-meio-a-guerra-comercial-com-canada/",
+        "summary": "Escalada ocorre às vésperas de novas tarifas canadenses sobre produtos americanos",
+        "image": null,
         "date": "07 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Quaest: 79% dizem que opinião política de liderança religiosa não influencia em voto",
-        "link": "https://www.infomoney.com.br/politica/quaest-79-dizem-que-opiniao-politica-de-lideranca-religiosa-nao-influencia-em-voto/",
-        "summary": "O resultado se repete de forma semelhante entre católicos e evangélicos The post Quaest: 79% dizem que opinião política de liderança religiosa não influencia em voto appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/urna-eletronica-eleicoes.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Análise: Crise no STF não lota as ruas, mas ocupará campanhas de Lula e Flávio",
+        "link": "https://exame.com/brasil/analise-crise-no-stf-nao-lota-as-ruas-mas-ocupara-campanhas-de-lula-e-flavio/",
+        "summary": "Ato na Paulista teve público menor que nos últimos 7 de Setembro, enquanto crise envolvendo Moraes avança para o centro das estratégias de Flávio e Lula na reta final da eleição",
+        "image": null,
         "date": "07 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Sheinbaum rebate Trump: 'México não é e não será colônia'",
+        "link": "https://exame.com/mundo/sheinbaum-rebate-trump-mexico-nao-e-e-nao-sera-colonia/",
+        "summary": "Presidente mexicana reagiu horas depois de Trump publicar imagem que retrata países da América do Norte e Central como territórios dos Estados Unidos",
+        "image": null,
+        "date": "07 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Nicolas Cage comenta cancelamento de ‘Spider-Noir’ pela Prime Video",
+        "link": "https://exame.com/pop/nicolas-cage-comenta-cancelamento-de-spider-noir-pela-prime-video/",
+        "summary": "Com 11 indicações ao Emmy 2026, produção conquistou cinco troféus na cerimônia de domingo, 6",
+        "image": null,
+        "date": "07 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Como se organizar no trabalho em um mundo de mudanças constantes",
@@ -380,46 +420,6 @@
         "title": "Não se engane: a pressão está longe de ser o real problema no trabalho",
         "link": "https://exame.com/carreira/nao-se-engane-a-pressao-esta-longe-de-ser-o-real-problema-no-trabalho/",
         "summary": "Muita gente quer saber como eliminar os momentos de tensão, mas a verdade é que eles fazem parte da vida corporativa e da pessoal. A saída? Desenvolver uma estrutura que ajude a administrar a situação desconfortável",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Qual repertório você está construindo para o seu futuro?",
-        "link": "https://exame.com/carreira/qual-repertorio-voce-esta-construindo-para-o-seu-futuro/",
-        "summary": "Saber fazer uma boa curadoria de conhecimento e desenvolver habilidades é mais importante para a sua carreira do que focar apenas no cargo que almeja alcançar",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quaest: Lula lidera entre quem teve ganho de renda, Flávio entre quem perdeu poder de compra",
-        "link": "https://exame.com/brasil/quaest-lula-lidera-entre-quem-teve-ganho-de-renda-flavio-entre-quem-perdeu-poder-de-compra/",
-        "summary": "Pesquisa mostra que a percepção sobre renda e preços separa o eleitorado no segundo turno entre Lula e Flávio Bolsonaro",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Na Era da IA, existe um novo significado para o trabalho híbrido",
-        "link": "https://exame.com/carreira/na-era-da-ia-existe-um-novo-significado-para-o-trabalho-hibrido/",
-        "summary": "No mercado atual de trabalho, o desafio passa a ser equilibrar a colaboração entre humanos e máquinas",
-        "image": null,
-        "date": "07 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Quaest: Reprovação a Lula piora no Nordeste e chega a 50% no país",
-        "link": "https://exame.com/brasil/quaest-reprovacao-a-lula-piora-no-nordeste-e-chega-a-50-no-pais/",
-        "summary": "Para Felipe Nunes, sócio-fundador da Quaest, nesse patamar a chance de reeleição de Lula cai para menos de 50%",
         "image": null,
         "date": "07 de set. de 2026",
         "source": "Exame",
