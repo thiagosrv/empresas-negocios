@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:42:19.571Z",
+  "updated": "2026-09-13T05:47:36.424Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,96 @@
         "cls": "brasil"
       },
       {
+        "title": "Chuva acumulada de 54 milímetros em sete horas provoca pontos de alagamento em Americana",
+        "link": "https://jornalamericanense.com.br/cidades/chuva-acumulada-de-54-milimetros-em-sete-horas-provoca-pontos-de-alagamento-em-americana/",
+        "summary": "Americana registrou acumulado de 54 milímetros de chuva nas últimas sete horas, volume considerado muito elevado para um período tão curto. O cenário ocorre após dois dias também com registro de volumes elevados de chuva",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Franco Sardelli defende menos burocracia e mais oportunidades para quem quer empreender em São Paulo",
+        "link": "https://jornalamericanense.com.br/politica/franco-sardelli-defende-menos-burocracia-e-mais-oportunidades-para-quem-quer-empreender-em-sao-paulo/",
+        "summary": "Empreender, especialmente para quem está começando um pequeno negócio, não deveria significar enfrentar uma série de etapas burocráticas. Com esse objetivo, o candidato a deputado estadual Franco Sardelli (PL) propõe a a",
+        "image": null,
+        "date": "11 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana registra 118 mm de chuva e Defesa Civil alerta para novas pancadas nesta sexta-feira",
+        "link": "https://jornalamericanense.com.br/policia/americana-registra-118-mm-de-chuva-e-defesa-civil-alerta-para-novas-pancadas-nesta-sexta-feira/",
+        "summary": "Americana registrou 118 milímetros de chuva acumulada durante o período de instabilidade que atingiu a cidade entre quinta-feira (10) e a madrugada desta sexta-feira (11). Segundo João Miletta, da Defesa Civil, o volume ",
+        "image": null,
+        "date": "11 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana é a primeira cidade da Região do Polo Têxtil no Índice de Desenvolvimento Sustentável",
+        "link": "https://jornalamericanense.com.br/cidades/americana-e-a-primeira-cidade-da-regiao-do-polo-textil-no-indice-de-desenvolvimento-sustentavel/",
+        "summary": "Americana ocupa o primeiro lugar entre as cidades da Região do Polo Têxtil e a 39ª posição entre os 5.570 municípios brasileiros no Índice de Desenvolvimento Sustentável das Cidades – Brasil (IDSC-BR). O levantamento é u",
+        "image": null,
+        "date": "11 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Banco de Perucas Móvel na Unacon vai oferecer corte gratuito para doação de cabelo",
+        "link": "https://jornalamericanense.com.br/saude/banco-de-perucas-movel-na-unacon-vai-oferecer-corte-gratuito-para-doacao-de-cabelo/",
+        "summary": "A ação do Banco de Perucas Móvel, promovida pela Unacon (Unidade de Assistência de Alta Complexidade em Oncologia) de Americana em parceria com a ONG Cabelegria, terá novidades em sua segunda edição, que será realizada n",
+        "image": null,
+        "date": "11 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Busão do Reitor leva imprensa e influenciadores para experiência no Faculdade Aberta da FAM",
+        "link": "https://jornalamericanense.com.br/cidades/busao-do-reitor-leva-imprensa-e-influenciadores-para-experiencia-no-faculdade-aberta-da-fam/",
+        "summary": "Jornal Americanense participou da visita realizada nesta quarta-feira (9), que apresentou aos convidados a estrutura e as atividades oferecidas a mais de 5 mil estudantes da região Representantes da imprensa, influenciad",
+        "image": null,
+        "date": "10 de set. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "13 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil é hepatcampeão da Copa América de futebol de cegos em SP",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-hepatcampeao-da-copa-america-de-futebol-de-cegos-em-sp",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-hepatcampeao-da-copa-america-de-futebol-de-cegos-em-sp img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "13 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fachin dá 24 horas para PF enviar informações sobre celular de Vorcaro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-24-horas-para-pf-enviar-informacoes-sobre-celular-de-vorcaro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-da-24-horas-para-pf-enviar-informacoes-sobre-celular-de-vorcaro img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ana-satila-e-ouro-em-etapa-da-copa-do-mundo-de-canoagem-slalom",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ana-satila-e-ouro-em-etapa-da-copa-do-mundo-de-canoagem-slalom img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
@@ -91,95 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "PGR repete pedido por acesso integral a dados de Vorcaro",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-repete-pedido-por-acesso-integral-dados-de-vorcaro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-repete-pedido-por-acesso-integral-dados-de-vorcaro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Entidades pedem apoio de candidatos em defesa da agroecologia",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-pedem-apoio-de-candidatos-em-defesa-da-agroecologia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-pedem-apoio-de-candidatos-em-defesa-da-agroecologia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Justiça Eleitoral se aproxima de indígenas na Raposa Serra do Sol",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/justica-eleitoral-se-aproxima-de-indigenas-na-raposa-serra-do-sol",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/justica-eleitoral-se-aproxima-de-indigenas-na-raposa-serra-do-sol img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Santa Cruz bate Maringá com gol no fim e lidera Grupo B da Série C",
-        "link": "https://www.gazetaesportiva.com/futebol/santa-cruz-bate-maringa-com-gol-no-fim-e-lidera-grupo-b-da-serie-c/",
-        "summary": "O Santa Cruz visitou o Maringá neste sábado e venceu por 1 a 0, graças a um gol nos acréscimos do segundo tempo. A partida foi válida pela segunda rodada do Grupo B da segunda fase da Série C do Campeonato Brasileiro. Si",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/santacruz.webp",
+        "title": "Cuca elogia atuação do Santos e confirma que Coutinho já integra o elenco",
+        "link": "https://www.gazetaesportiva.com/times/santos/cuca-elogia-santos-e-confirma-philippe-coutinho/",
+        "summary": "Após a vitória do Santos por 2 a 1 sobre o Cruzeiro, na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro, o técnico Cuca exaltou a atuação da equipe, destacando a versatilidade tática dos jogadores e o pouco tempo ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/5a56302f-aa62-4244-ad7e-c318c89deb911.webp",
         "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tolói minimiza derrota em clássico e vê São Paulo preparado para decisão com Boca",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/toloi-minimiza-derrota-em-classico-e-ve-sao-paulo-preparado-para-decisao-com-boca/",
-        "summary": "O zagueiro Rafael Tolói, um dos jogadores mais experientes do São Paulo na equipe alternativa que foi a campo neste sábado, na derrota para o Palmeiras, minimizou o revés no Choque-Rei. O defensor apontou que o Tricolor ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0657_28.webp",
+        "title": "Messi marca, mas Inter Miami fica só no empate com o Nashville na MLS",
+        "link": "https://www.gazetaesportiva.com/futebol/messi-marca-mas-inter-miami-fica-so-no-empate-com-o-nashville-na-mls/",
+        "summary": "Lionel Messi voltou a marcar, mas o Inter Miami amargou um empate por 2 a 2 em casa neste sábado com o Nashville pela MLS. O destaque do jogo foi Sam Surridge, autor dos dois gols do time visitante. Situação da competiçã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260913__C86J6GT__v2__MidRes__InterMiamiCfVsNashvilleSc.webp",
         "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-palmeiras-2-x-0-sao-paulo-pelo-brasileirao/",
-        "summary": "Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão O post Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0754_36.webp",
-        "date": "12 de set. de 2026",
+        "title": "Cebolinha celebra vitória contra o Cruzeiro em estreia pelo Santos",
+        "link": "https://www.gazetaesportiva.com/times/santos/everton-cebolinha-celebra-vitoria-estreia-santos-cruzeiro/",
+        "summary": "O Santos venceu o Cruzeiro por 2 a 0 na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro, e manteve sua boa fase na competição. Após a partida, Everton Cebolinha comemorou a vitória em sua estreia como titular pelo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSDrs9lWEAA66Zi.webp",
+        "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vitor Roque se vê recuperando confiança após lesões e celebra gol em vitória do Palmeiras",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitor-roque-se-ve-recuperando-confianca-apos-lesoes-e-celebra-gol-em-vitoria-do-palmeiras/",
-        "summary": "Após cinco jogos sem balançar as redes, Vitor Roque enfim voltou a marcar. Na noite deste sábado, o Palmeiras venceu o São Paulo por 2 a 0, e o camisa 9 foi o responsável por marcar o segundo gol alviverde, pela 27ª roda",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0828_41.webp",
-        "date": "12 de set. de 2026",
+        "title": "Pedro Emanuel destaca importância de virada e vitória fora de casa pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/pedro-emanuel-destaca-importancia-de-virada-e-vitoria-fora-de-casa-pelo-brasileirao/",
+        "summary": "Pedro Emanuel destaca importância de virada e vitória fora de casa pelo Brasileirão O post Pedro Emanuel destaca importância de virada e vitória fora de casa pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/08/Pedro-Emanuel-valoriza.webp",
+        "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos x Cruzeiro: acompanhe tempo real do jogo pelo Brasileirão",
+        "title": "Santos bate Cruzeiro na Vila e engata terceira vitória seguida no Brasileiro",
         "link": "https://www.gazetaesportiva.com/times/santos/santos-cruzeiro-brasileirao-2026-rodada-27/",
-        "summary": "Acompanhe em tempo real o confronto entre Santos e Cruzeiro, pela 27ª rodada do Brasileirão, na Vila Belmiro. O post Santos x Cruzeiro: acompanhe tempo real do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSC7CYBaEAACBCh.webp",
-        "date": "12 de set. de 2026",
+        "summary": "O Santos venceu o Cruzeiro por 2 a 1 neste sábado, na Vila Belmiro, pela 27ª rodada do Campeonato Brasileiro. A equipe comandada por Cuca construiu a vitória ainda no primeiro tempo, com gol de Benjamín Rollheiser e um g",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSDr3viXAAUZVDg.webp",
+        "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians encerra preparação em São Paulo antes da viagem ao Rio",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-em-sao-paulo-antes-da-viagem-ao-rio/",
-        "summary": "Corinthians encerra preparação em São Paulo antes da viagem ao Rio O post Corinthians encerra preparação em São Paulo antes da viagem ao Rio apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/248715.webp",
-        "date": "12 de set. de 2026",
+        "title": "Luís Castro avalia trabalho no Grêmio: Sempre assumi o bom e o mau",
+        "link": "https://www.gazetaesportiva.com/times/gremio/luis-castro-avalia-trabalho-no-gremio-sempre-assumi-o-bom-e-o-mau/",
+        "summary": "Luís Castro avalia trabalho no Grêmio: \"Sempre assumi o bom e o mau\" O post Luís Castro avalia trabalho no Grêmio: Sempre assumi o bom e o mau apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/02/Luis-Castro.webp",
+        "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -247,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Fachin assume relatoria de ação sobre conversas entre Moraes e Vorcaro",
+        "link": "https://www.infomoney.com.br/politica/fachin-assume-relatoria-de-acao-sobre-conversas-entre-moraes-e-vorcaro/",
+        "summary": "Presidente do Supremo tirou André Mendonça da relatoria do processo neste sábado The post Fachin assume relatoria de ação sobre conversas entre Moraes e Vorcaro appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55505357682_7d18154f02_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "13 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Mendonça defende decisão de julgar Moraes no plenário e devolve processo a Fachin",
         "link": "https://www.infomoney.com.br/politica/mendonca-defende-decisao-de-julgar-moraes-no-plenario-e-devolve-processo-a-fachin/",
         "summary": "Decisão de devolução tinha sido tomada pelo próprio presidente da Corte, Luiz Edson Fachin The post Mendonça defende decisão de julgar Moraes no plenário e devolve processo a Fachin appeared first on InfoMoney.",
@@ -297,14 +367,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Apocalipse da IA: por dentro das conversas que tomaram a indústria de tecnologia",
-        "link": "https://www.infomoney.com.br/business/global/apocalipse-da-ia-por-dentro-das-conversas-que-tomaram-a-industria-de-tecnologia/",
-        "summary": "Demissão pública de pesquisador da Anthropic levou possíveis riscos do avanço tecnológico à pauta das empresas The post Apocalipse da IA: por dentro das conversas que tomaram a indústria de tecnologia appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/AI-RESEARCHERS-WARNINGS-1_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "\"Transição energética fracassará se não houver legitimidade social\", adverte o PNUD",
+        "link": "https://exame.com/esg/transicao-energetica-fracassara-se-nao-houver-legitimidade-social-adverte-o-pnud/",
+        "summary": "Progresso verde depende de coesão e legitimidade social",
+        "image": null,
+        "date": "13 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Geopolítica exige que América Latina coopere em minerais críticos, dizem especialistas",
+        "link": "https://exame.com/mundo/geopolitica-exige-que-america-latina-coopere-em-minerais-criticos-dizem-especialistas/",
+        "summary": "Enfrentando cenário incerto, analistas acreditam que o melhor caminho para a América Latina é cooperar entre si",
+        "image": null,
         "date": "12 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Fachin assume a relatoria do processo sobre Moraes e determina envio dos casos Master e INSS ao STF",
@@ -340,26 +420,6 @@
         "title": "Quanto ganha o campeão do US Open 2026?",
         "link": "https://exame.com/esporte/quanto-ganha-o-campeao-do-us-open-2026/",
         "summary": "Vencedores das chaves masculina e feminina receberão US$ 5,5 milhões cada; Torneio terá a maior premiação da história do tênis, com R$ 560 milhões distribuídos",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Fachin dá 24 horas para PF informar sobre dados extraídos do celular de Vorcaro",
-        "link": "https://exame.com/brasil/fachin-da-24-horas-para-pf-informar-sobre-dados-extraidos-do-celular-de-vorcaro/",
-        "summary": "Presidente do STF quer saber condições de custódia do material extraído do celular antes de definir próximos passos; Casos envolvendo Moraes e Mendonça serão analisados em datas diferentes",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "A taça de champanhe francesa vai ficar mais forte: por trás disso está o calor extremo",
-        "link": "https://exame.com/esg/a-taca-de-champanhe-francesa-vai-ficar-mais-forte-por-tras-disso-esta-o-calor-extremo/",
-        "summary": "França autoriza pela primeira vez teor alcoólico acima do limite histórico de 13%, um reflexo dos efeitos das mudanças climáticas sobre a produção agrícola europeia",
         "image": null,
         "date": "12 de set. de 2026",
         "source": "Exame",
