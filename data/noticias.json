@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:02:59.023Z",
+  "updated": "2026-09-13T00:42:19.571Z",
   "feeds": {
     "campinas": [
       {
@@ -63,6 +63,36 @@
         "cls": "brasil"
       },
       {
+        "title": "Ana Sátila é ouro em etapa da Copa do Mundo de canoagem slalom",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ana-satila-e-ouro-em-etapa-da-copa-do-mundo-de-canoagem-slalom",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ana-satila-e-ouro-em-etapa-da-copa-do-mundo-de-canoagem-slalom img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Avião da GOL faz pouso de emergência após decolagem em Goiânia",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aviao-da-gol-faz-pouso-de-emergencia-apos-decolagem-em-goiania",
+        "summary": "p strong Um avião da empresa GOL fez um pouso de emergência após decolar do Aeroporto Internacional de Goiânia, em Goiás, com destino ao Aeroporto de Congonhas, na capital paulista, na manhã deste sábado (12). /strong im",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena sorteia prêmio acumulado de R$ 85 milhões neste domingo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-85-milhoes-neste-domingo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-85-milhoes-neste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "PGR repete pedido por acesso integral a dados de Vorcaro",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-repete-pedido-por-acesso-integral-dados-de-vorcaro",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-repete-pedido-por-acesso-integral-dados-de-vorcaro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
@@ -91,94 +121,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Capital paulista já acumula quase 200 mm de chuvas em setembro",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/capital-paulista-ja-acumula-quase-200-mm-de-chuvas-em-setembro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/capital-paulista-ja-acumula-quase-200-mm-de-chuvas-em-setembro img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "SUS vacina mais de 1 milhão de crianças com Pneumo 20",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-vacina-mais-de-1-milhao-de-criancas-com-pneumo-20",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-vacina-mais-de-1-milhao-de-criancas-com-pneumo-20 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Álcool e cigarro podem causar cegueira, alertam especialistas",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/alcool-e-cigarro-podem-causar-cegueira-alertam-especialistas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/alcool-e-cigarro-podem-causar-cegueira-alertam-especialistas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "São Paulo busca virada contra o Flamengo e tem vantagem nas semifinais do Brasileirão feminino",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-busca-virada-contra-o-flamengo-e-tem-vantagem-nas-semifinais-do-brasileirao-feminino/",
-        "summary": "O São Paulo venceu o Flamengo por 3 a 1 neste sábado, no Estádio Luso-Brasileiro, pelo jogo de ida das semifinais do Campeonato Brasileiro Feminino, e abriu vantagem importante na disputa por uma vaga na final. Após sair",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/spfc.jpg.webp",
+        "title": "Santa Cruz bate Maringá com gol no fim e lidera Grupo B da Série C",
+        "link": "https://www.gazetaesportiva.com/futebol/santa-cruz-bate-maringa-com-gol-no-fim-e-lidera-grupo-b-da-serie-c/",
+        "summary": "O Santa Cruz visitou o Maringá neste sábado e venceu por 1 a 0, graças a um gol nos acréscimos do segundo tempo. A partida foi válida pela segunda rodada do Grupo B da segunda fase da Série C do Campeonato Brasileiro. Si",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/santacruz.webp",
+        "date": "13 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Tolói minimiza derrota em clássico e vê São Paulo preparado para decisão com Boca",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/toloi-minimiza-derrota-em-classico-e-ve-sao-paulo-preparado-para-decisao-com-boca/",
+        "summary": "O zagueiro Rafael Tolói, um dos jogadores mais experientes do São Paulo na equipe alternativa que foi a campo neste sábado, na derrota para o Palmeiras, minimizou o revés no Choque-Rei. O defensor apontou que o Tricolor ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0657_28.webp",
+        "date": "13 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-palmeiras-2-x-0-sao-paulo-pelo-brasileirao/",
+        "summary": "Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão O post Melhores momentos: Palmeiras 2 x 0 São Paulo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0754_36.webp",
         "date": "12 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Martinelli desencanta com hat-trick em goleada do Al-Hilal; confira",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/martinelli-desencanta-com-hat-trick-em-goleada-do-al-hilal-confira/",
-        "summary": "Martinelli desencanta com hat-trick em goleada do Al-Hilal; confira O post Martinelli desencanta com hat-trick em goleada do Al-Hilal; confira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/descan.webp",
+        "title": "Vitor Roque se vê recuperando confiança após lesões e celebra gol em vitória do Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/vitor-roque-se-ve-recuperando-confianca-apos-lesoes-e-celebra-gol-em-vitoria-do-palmeiras/",
+        "summary": "Após cinco jogos sem balançar as redes, Vitor Roque enfim voltou a marcar. Na noite deste sábado, o Palmeiras venceu o São Paulo por 2 a 0, e o camisa 9 foi o responsável por marcar o segundo gol alviverde, pela 27ª roda",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/12092026_cg_palmeiras_destaque_0828_41.webp",
         "date": "12 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: FC Köln 1 x 1 Werder Bremen pela Bundesliga",
-        "link": "https://www.gazetaesportiva.com/werder-bremen/melhores-momentos-fc-koln-1-x-1-werder-bremen-pela-bundesliga/",
-        "summary": "Melhores momentos: FC Köln 1 x 1 Werder Bremen pela Bundesliga O post Melhores momentos: FC Köln 1 x 1 Werder Bremen pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/FC-Ko.webp",
+        "title": "Santos x Cruzeiro: acompanhe tempo real do jogo pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-cruzeiro-brasileirao-2026-rodada-27/",
+        "summary": "Acompanhe em tempo real o confronto entre Santos e Cruzeiro, pela 27ª rodada do Brasileirão, na Vila Belmiro. O post Santos x Cruzeiro: acompanhe tempo real do jogo pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HSC7CYBaEAACBCh.webp",
         "date": "12 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Atlético-MG 3 x 1 Fluminense pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atletico-mg-3-x-1-fluminense-pelo-brasileirao/",
-        "summary": "Melhores momentos: Atlético-MG 3 x 1 Fluminense pelo Brasileirão O post Melhores momentos: Atlético-MG 3 x 1 Fluminense pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55523139362_91dfb02159_o.webp",
-        "date": "12 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Com assistência de Vini Jr, Real Madrid bate Rayo Vallecano e segue na cola do Barcelona",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/com-assistencia-de-vini-jr-real-madrid-bate-rayo-vallecano-e-segue-na-cola-do-barcelona/",
-        "summary": "O Real Madrid venceu o Rayo Vallecano por 4 a 1 neste sábado, pela quinta rodada do Campeonato Espanhol. Kylian Mbappé marcou duas vezes, enquanto Álvaro Carreras e Bellingham também balançaram as redes. Titular, Viniciu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260912__C86A273__v2__MidRes__TopshotFblEspLigaRealMadridRayo.webp",
-        "date": "12 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Grêmio 1 x 2 Vasco pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-gremio-1-x-2-vasco-pelo-brasileirao/",
-        "summary": "Melhores momentos: Grêmio 1 x 2 Vasco pelo Brasileirão O post Melhores momentos: Grêmio 1 x 2 Vasco pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55524651555_483006a280_o.webp",
+        "title": "Corinthians encerra preparação em São Paulo antes da viagem ao Rio",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-encerra-preparacao-em-sao-paulo-antes-da-viagem-ao-rio/",
+        "summary": "Corinthians encerra preparação em São Paulo antes da viagem ao Rio O post Corinthians encerra preparação em São Paulo antes da viagem ao Rio apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/248715.webp",
         "date": "12 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,6 +247,36 @@
         "cls": ""
       },
       {
+        "title": "Mendonça defende decisão de julgar Moraes no plenário e devolve processo a Fachin",
+        "link": "https://www.infomoney.com.br/politica/mendonca-defende-decisao-de-julgar-moraes-no-plenario-e-devolve-processo-a-fachin/",
+        "summary": "Decisão de devolução tinha sido tomada pelo próprio presidente da Corte, Luiz Edson Fachin The post Mendonça defende decisão de julgar Moraes no plenário e devolve processo a Fachin appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/53629152127_616de6ba79_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "12 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ataques russos deixam 8 mortos e dezenas de feridos na Ucrânia",
+        "link": "https://www.infomoney.com.br/mundo/ataques-russos-deixam-8-mortos-e-dezenas-de-feridos-na-ucrania/",
+        "summary": "Ação ocorreu depois do presidente da Rússia, Vladimir Putin, advertir que o envio de tropas europeias ao país equivaleria a conflito direto The post Ataques russos deixam 8 mortos e dezenas de feridos na Ucrânia appeared",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-25T104144Z_2134709663_RC2V0MAEKDD3_RTRMADP_3_UKRAINE-CRISIS-ATTACK-RAIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "12 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Tesla dá prévia de evento em 1º de outubro para apresentar o Roadster de nova geração",
+        "link": "https://www.infomoney.com.br/business/tesla-da-previa-de-evento-em-1o-de-outubro-para-apresentar-o-roadster-de-nova-geracao/",
+        "summary": "Empresa anunciou data que deve provocar mais especulações sobre fusão com SpaceX: 'Pronto para lançamento' The post Tesla dá prévia de evento em 1º de outubro para apresentar o Roadster de nova geração appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-04T121543Z_1_LYNXMPEM7310F_RTROPTP_4_TESLA-CHINA-DIVESTITURE_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "12 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "“Woman Unknown” leva prêmio principal do Festival de Veneza",
         "link": "https://www.infomoney.com.br/mundo/woman-unknown-leva-premio-principal-do-festival-de-veneza/",
         "summary": "Drama pós-guerra da cineasta dinamarquesa May el-Toukhy conquistou o Leão de Ouro The post “Woman Unknown” leva prêmio principal do Festival de Veneza appeared first on InfoMoney.",
@@ -277,89 +307,59 @@
         "cls": "brasil"
       },
       {
-        "title": "SpaceX vai ganhar mais peso no Nasdaq 100 após rebalanceamento",
-        "link": "https://www.infomoney.com.br/mercados/spacex-vai-ganhar-mais-peso-no-nasdaq-100-apos-rebalanceamento/",
-        "summary": "Mudança pode gerar bilhões de dólares em compras por parte de fundos passivos atrelados ao índice The post SpaceX vai ganhar mais peso no Nasdaq 100 após rebalanceamento appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/467340692_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Fachin assume a relatoria do processo sobre Moraes e determina envio dos casos Master e INSS ao STF",
+        "link": "https://exame.com/brasil/fachin-assume-a-relatoria-do-processo-sobre-moraes-e-determina-envio-dos-casos-master-e-inss-ao-stf/",
+        "summary": "Decisão ocorre às vésperas de julgamento no plenário do STF sobre relatório da PF que cita relação entre ministro e ex-banqueiro",
+        "image": null,
         "date": "12 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Datafolha: 76% afirmam que há poder excessivo no STF",
-        "link": "https://www.infomoney.com.br/politica/datafolha-76-afirmam-que-ha-poder-excessivo-no-stf/",
-        "summary": "Maioria dos entrevistados disse que não mudou voto após crise no Supremo The post Datafolha: 76% afirmam que há poder excessivo no STF appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-02T192125Z_1831095248_RC25BNAKZ9AJ_RTRMADP_3_BRAZIL-POLITICS-COURT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Alison dos Santos e Matheus Lima na final do Mundial de Atletismo Ultimate: quando e onde assistir",
+        "link": "https://exame.com/esporte/alison-dos-santos-e-matheus-lima-estao-na-final-do-mundial-de-atletismo-ultimate-veja-onde-assistir/",
+        "summary": "Brasileiros avançaram nas semifinais e disputam no domingo, 13, o título dos 400m com barreiras em Budapeste; Piu chega à decisão invicto na temporada",
+        "image": null,
         "date": "12 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Trump diz que “adoraria” ver Irlanda unificada",
-        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-adoraria-ver-irlanda-unificada/",
-        "summary": "Trump diz que “adoraria” ver Irlanda unificada The post Trump diz que “adoraria” ver Irlanda unificada appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Donald-Trump.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Carlos Nobre alerta que El Niño pode ser o mais forte em 100 anos",
+        "link": "https://exame.com/esg/carlos-nobre-alerta-que-el-nino-pode-ser-o-mais-forte-em-100-anos/",
+        "summary": "Fenômeno climático terá intensidade incomum, afetando o clima global e pondo em risco plantações",
+        "image": null,
         "date": "12 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Quanto ganha o campeão do US Open 2026?",
+        "link": "https://exame.com/esporte/quanto-ganha-o-campeao-do-us-open-2026/",
+        "summary": "Vencedores das chaves masculina e feminina receberão US$ 5,5 milhões cada; Torneio terá a maior premiação da história do tênis, com R$ 560 milhões distribuídos",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Fachin dá 24 horas para PF informar sobre dados extraídos do celular de Vorcaro",
+        "link": "https://exame.com/brasil/fachin-da-24-horas-para-pf-informar-sobre-dados-extraidos-do-celular-de-vorcaro/",
+        "summary": "Presidente do STF quer saber condições de custódia do material extraído do celular antes de definir próximos passos; Casos envolvendo Moraes e Mendonça serão analisados em datas diferentes",
+        "image": null,
+        "date": "12 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "A taça de champanhe francesa vai ficar mais forte: por trás disso está o calor extremo",
         "link": "https://exame.com/esg/a-taca-de-champanhe-francesa-vai-ficar-mais-forte-por-tras-disso-esta-o-calor-extremo/",
         "summary": "França autoriza pela primeira vez teor alcoólico acima do limite histórico de 13%, um reflexo dos efeitos das mudanças climáticas sobre a produção agrícola europeia",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo tem setembro mais chuvoso dos últimos 30 anos, afirma prefeitura",
-        "link": "https://exame.com/brasil/sao-paulo-tem-setembro-mais-chuvoso-dos-ultimos-30-anos-afirma-prefeitura/",
-        "summary": "Capital paulista acumula 211,5 mm de chuva em 12 dias, superando recorde histórico de 2015",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Shelton x Zverev: horário e onde assistir à final masculina do US Open 2026",
-        "link": "https://exame.com/esporte/shelton-x-zverev-horario-e-onde-assistir-a-final-masculina-do-us-open-2026/",
-        "summary": "Alemão busca o segundo Grand Slam da carreira, enquanto americano tenta encerrar um jejum de 23 anos dos Estados Unidos",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "VNL 2027: São Paulo é confirmada como sede da Liga das Nações de Vôlei",
-        "link": "https://exame.com/esporte/vnl-2027-sao-paulo-e-confirmada-como-sede-da-liga-das-nacoes-de-volei/",
-        "summary": "Capital paulista receberá jogos das competições masculina e feminina em junho do ano que vem; ginásio e datas ainda não foram divulgados",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Alan Rickman realizava sonho de crianças no set de Harry Potter, revela Gary Oldman",
-        "link": "https://exame.com/pop/alan-rickman-realizava-sonho-de-criancas-no-set-de-harry-potter-revela-gary-oldman/",
-        "summary": "Intérprete de Sirius Black revelou que o ator levava jovens de escolas e hospitais para conhecer os cenários da franquia",
-        "image": null,
-        "date": "12 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Trump diz que unificação da Irlanda seria 'fantástica' e que vai acontecer eventualmente",
-        "link": "https://exame.com/mundo/trump-diz-que-unificacao-da-irlanda-seria-fantastica-e-que-vai-acontecer-eventualmente/",
-        "summary": "Em Dublin, presidente americano defendeu reunificação da ilha, tema sensível que depende de referendos e do aval britânico; Visita ao país foi marcada por protestos neste sábado, 12",
         "image": null,
         "date": "12 de set. de 2026",
         "source": "Exame",
