@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T23:58:15.650Z",
+  "updated": "2026-09-14T04:43:38.152Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Guilherme Schimidt é ouro e país fecha Grand Slam de judô com 3 pódios",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/guilherme-schimidt-e-ouro-e-pais-fecha-grand-slam-de-judo-com-3-podios",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/guilherme-schimidt-e-ouro-e-pais-fecha-grand-slam-de-judo-com-3-podios img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "13 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Veja como foi o fim de semana dos candidatos a presidente",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-o-final-de-semana-dos-candidatos-presidente",
         "summary": "p A agenda dos candidatos à Presidência da República neste fim de semana incluiu atos de campanha, caminhadas, reuniões, entrevistas e gravações para programas de televisão. Entre os temas abordados estiveram as investig",
@@ -171,19 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Dino aponta indícios de liderança de Mário Frias em desvio de emendas",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "13 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Zverev vence Shelton e conquista seu primeiro US Open",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/zverev-vence-shelton-e-conquista-seu-primeiro-us-open/",
+        "summary": "Alexander Zverev derrotou Ben Shelton na final, conquistou seu primeiro título do US Open e o segundo Grand Slam da carreira em 2026. O post Zverev vence Shelton e conquista seu primeiro US Open apareceu primeiro em Gaze",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260913__C88D6HH__v1__HighRes__776489269.webp",
+        "date": "14 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "CONMEBOL não gosta de hegemonia dos brasileiros na Libertadores , diz ex-árbitro",
+        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/conmebol-nao-gosta-de-hegemonia-dos-brasileiros-na-libertadores-diz-ex-arbitro/",
+        "summary": "Ex-árbitro Alfredo Loebeling afirmou que a CONMEBOL não gosta do domínio recente dos clubes brasileiros na Libertadores e criticou critérios de arbitragem. O post CONMEBOL não gosta de hegemonia dos brasileiros na Libert",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/imagem_2026-09-13_222450520.webp",
+        "date": "14 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Melhores momentos: Chicago Fire FC 1 x 2 New England Revolution pela MLS",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-chicago-fire-fc-1-x-2-new-england-revolution-pela-mls/",
+        "summary": "Melhores momentos: Chicago Fire FC 1 x 2 New England Revolution pela MLS O post Melhores momentos: Chicago Fire FC 1 x 2 New England Revolution pela MLS apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Chicag.webp",
+        "date": "14 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "De Zerbi afirma ser o melhor técnico da Itália",
+        "link": "https://www.gazetaesportiva.com/times/tottenham/de-zerbi-afirma-ser-o-melhor-tecnico-da-italia/",
+        "summary": "De Zerbi afirma ser o melhor técnico da Itália O post De Zerbi afirma ser o melhor técnico da Itália apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/9ttq54c4-1920De-Zerbi.webp",
+        "date": "14 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Ferroviária vence o Paysandu e assume ponta do Grupo C da Série C",
         "link": "https://www.gazetaesportiva.com/times/ferroviaria/ferroviaria-vence-o-paysandu-e-assume-ponta-do-grupo-c-da-serie-c/",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-retoma-trabalhos-no-rio-de-olho-em-jogo-decisivo-pela-sul-americana/",
         "summary": "Vasco retoma trabalhos no Rio de olho em jogo decisivo pela Sul-Americana O post Vasco retoma trabalhos no Rio de olho em jogo decisivo pela Sul-Americana apareceu primeiro em Gazeta Esportiva.",
         "image": "https://static.gazetaesportiva.com/uploads/2026/09/etom.webp",
-        "date": "13 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Carrick perplexo com decisão de validar gol polêmico de Haaland",
-        "link": "https://www.gazetaesportiva.com/times/manchester-city/carrick-perplexo-com-decisao-de-validar-gol-polemico-de-haaland/",
-        "summary": "Carrick 'perplexo' com decisão de validar gol polêmico de Haaland O post Carrick perplexo com decisão de validar gol polêmico de Haaland apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Carri.webp",
-        "date": "13 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Diniz lamenta sequência ruim do Corinthians, mas vê cenário otimista no Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/diniz-lamenta-sequencia-ruim-do-corinthians-mas-ve-cenario-otimista-no-brasileirao/",
-        "summary": "Fernando Diniz lamentou a sequência de cinco derrotas consecutivas do Corinthians, mas enxergou aspectos positivos na atuação da equipe diante do Flamengo, neste domingo, no Maracanã. Para o treinador, o comportamento ap",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/248653.webp",
-        "date": "13 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Fortaleza cede empate ao Ceará no fim e perde chance de encostar na liderança da Série B",
-        "link": "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-cede-empate-ao-ceara-no-fim-e-perde-chance-de-encostar-na-lideranca-da-serie-b/",
-        "summary": "Fortaleza saiu na frente com Vitinho, mas sofreu empate do Ceará nos minutos finais e desperdiçou a chance de colar nos líderes da Série B. O post Fortaleza cede empate ao Ceará no fim e perde chance de encostar na lider",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/imagem_2026-09-13_201247762-1.webp",
-        "date": "13 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Juventude é derrotado pelo Athletic em casa e perde liderança da Série B",
-        "link": "https://www.gazetaesportiva.com/times/juventude/juventude-e-derrotado-pelo-athletic-em-casa-e-perde-lideranca-da-serie-b/",
-        "summary": "Juventude é derrotado pelo Athletic por 1 a 0, neste domingo, no Alfredo Jaconi, pela 28ª rodada da Série B do Campeonato Brasileiro. Aponzá marcou, de pênalti, o único gol da partida, e o resultado fez o time gaúcho per",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/SnapDownloader.App_809039498_18621759217051844_1744397050469111284_n.webp",
         "date": "13 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
