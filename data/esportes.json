@@ -1,73 +1,7 @@
 {
-  "updated": "2026-09-15T18:11:39.507Z",
+  "updated": "2026-09-15T21:22:26.896Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "São Paulo está pronto para encarar o Boca no Morumbi",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/sao-paulo-esta-pronto-para-encarar-o-boca-no-morumbi/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de set. de 2026",
-      "isoDate": "2026-09-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Artur projeta duelo contra o Boca Juniors no Morumbi",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/artur-projeta-duelo-contra-o-boca-juniors-no-morumbi/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de set. de 2026",
-      "isoDate": "2026-09-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Corinthians retoma preparação para duelo decisivo contra o Estudiantes",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-retoma-preparacao-para-duelo-decisivo-contra-o-estudiantes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de set. de 2026",
-      "isoDate": "2026-09-15",
-      "category": "Libertadores",
-      "categoryColor": "#f39c12",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Palmeiras desembarca em Quito e treina para encarar LDU",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/palmeiras-desembarca-em-quito-e-treina-para-encarar-ldu/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de set. de 2026",
-      "isoDate": "2026-09-15",
-      "category": "Libertadores",
-      "categoryColor": "#f39c12",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ruben Amorim projeta o Milan na Liga Europa: &#8216;Estamos aqui para vencer&#8217;",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ruben-amorim-projeta-o-milan-na-liga-europa-estamos-aqui-para-vencer/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de set. de 2026",
-      "isoDate": "2026-09-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Gonçalo Ramos diz que não comemora se marcar contra o Benfica: &#8216;É minha casa&#8217;",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/goncalo-ramos-diz-que-nao-comemora-se-marcar-contra-o-benfica-e-minha-casa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "15 de set. de 2026",
-      "isoDate": "2026-09-15",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
     {
       "title": "Ex-Atlético-MG, Guto vive boa fase na Finlândia e sonha com Copa pelos Emirados Árabes",
       "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/ex-atletico-mg-guto-vive-boa-fase-na-finlandia-e-sonha-com-copa-pelos-emirados-arabes/",
@@ -82,6 +16,72 @@
     {
       "title": "Com CR7 apagado, Al-Nassr é goleado por Al-Ain na estreia da Champions asiática",
       "link": "https://www.gazetaesportiva.com/al-nassr/com-cr7-apagado-al-nassr-e-goleado-por-al-ain-na-estreia-da-champions-asiatica/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de set. de 2026",
+      "isoDate": "2026-09-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Argentina anuncia primeiros amistosos após saída de Messi",
+      "link": "https://www.gazetaesportiva.com/times/argentina/argentina-amistosos-bolivia-burkina-faso-benin-messi/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de set. de 2026",
+      "isoDate": "2026-09-15",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/270d.png"
+    },
+    {
+      "title": "James Rodríguez anuncia aposentadoria da seleção da Colômbia",
+      "link": "https://www.gazetaesportiva.com/times/colombia/james-rodriguez-anuncia-aposentadoria-da-selecao-da-colombia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de set. de 2026",
+      "isoDate": "2026-09-15",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja fotos de Elche x Real Madrid pelo Campeonato Espanhol",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-elche-x-real-madrid-pelo-campeonato-espanhol/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de set. de 2026",
+      "isoDate": "2026-09-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Mac Allister brilha, Liverpool bate Tottenham e avança na Copa da Liga Inglesa",
+      "link": "https://www.gazetaesportiva.com/times/liverpool/mac-allister-brilha-liverpool-bate-tottenham-e-avanca-na-copa-da-liga-inglesa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de set. de 2026",
+      "isoDate": "2026-09-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Lens demite técnico Dino Toppmöller após seis jogos",
+      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/lens-demite-tecnico-dino-toppmoller-apos-seis-jogos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de set. de 2026",
+      "isoDate": "2026-09-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "title": "Fiorentina elimina o Pisa e será rival do Napoli nas oitavas da Copa da Itália",
+      "link": "https://www.gazetaesportiva.com/times/fiorentina/fiorentina-elimina-o-pisa-e-sera-rival-do-napoli-nas-oitavas-da-copa-da-italia/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "15 de set. de 2026",
