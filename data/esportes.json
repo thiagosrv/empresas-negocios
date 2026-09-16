@@ -1,62 +1,7 @@
 {
-  "updated": "2026-09-16T20:07:25.087Z",
+  "updated": "2026-09-16T22:56:51.274Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Assista aos melhores gols da semana da Liga Saudita",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/assista-aos-melhores-gols-da-semana-da-liga-saudita-2/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Técnico do Al Nassr bate boca com jornalista após críticas a Cristiano Ronaldo",
-      "link": "https://www.gazetaesportiva.com/al-nassr/tecnico-do-al-nassr-bate-boca-com-jornalista-apos-criticas-a-cristiano-ronaldo/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Assista as melhores defesas da semana da Liga Saudita",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/assista-as-melhores-defesas-da-semana-da-liga-saudita-2/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Iraola exalta golaço de Szoboszlai após vitória do Liverpool sobre o Tottenham",
-      "link": "https://www.gazetaesportiva.com/times/tottenham/iraola-exalta-golaco-de-szoboszlai-apos-vitoria-do-liverpool-sobre-o-tottenham/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "O potente gol de Andrada para abrir o placar para o River Plate contra o Atlético Tucumán; confira",
-      "link": "https://www.gazetaesportiva.com/times/river-plate/o-potente-gol-de-andrada-para-abrir-o-placar-para-o-river-plate-contra-o-atletico-tucuman-confira/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
     {
       "title": "Bastidores: Haaland, Rúben Dias e companhia chegam a Portugal",
       "link": "https://www.gazetaesportiva.com/times/manchester-city/bastidores-haaland-ruben-dias-e-companhia-chegam-a-portugal/",
@@ -71,6 +16,72 @@
     {
       "title": "Presidente de LaLiga critica atitude de Vini Jr e Mbappé com camisa em apoio a Ceuta",
       "link": "https://www.gazetaesportiva.com/campeonatos/laliga/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-em-apoio-a-ceuta/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja fotos de Manchester United x Brighton pela Copa da Liga Inglesa",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-manchester-united-x-brighton-pela-copa-da-liga-inglesa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Com Veríssimo no banco, Cuca muda Santos para pegar o Atlético-MG; veja escalações",
+      "link": "https://www.gazetaesportiva.com/times/santos/atletico-mg-x-santos-escalacoes-sul-americana-2026/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Manchester United toma virada do Brighton e é eliminado da Copa da Liga",
+      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/manchester-united-toma-virada-do-brighton-e-e-eliminado-da-copa-da-liga/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Atlético-MG x Santos: siga o tempo real do jogo pela Copa Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/atletico-mg-x-santos-copa-sul-americana-2026/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1fac0.png"
+    },
+    {
+      "title": "Volante anuncia aposentadoria dois meses após rescindir com o Santos",
+      "link": "https://www.gazetaesportiva.com/times/santos/tomas-rincon-aposentadoria-apos-deixar-santos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Atlétixo-MG x Santos: veja fotos do jogo de volta das quartas da Copa Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/times/santos/atletico-mg-x-santos-fotos-quartas-sul-americana-2026/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "16 de set. de 2026",
