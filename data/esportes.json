@@ -1,40 +1,7 @@
 {
-  "updated": "2026-09-16T16:54:43.269Z",
+  "updated": "2026-09-16T20:07:25.087Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Assista aos melhores gols da semana da MLS",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/assista-aos-melhores-gols-da-semana-da-mls-5/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Barcelona inicia conversas com Raphinha por renovação de contrato",
-      "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-inicia-conversas-renovacao-raphinha/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Assista as melhores defesas da semana da MLS",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/assista-as-melhores-defesas-da-semana-da-mls/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
     {
       "title": "Assista aos melhores gols da semana da Liga Saudita",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/assista-aos-melhores-gols-da-semana-da-liga-saudita-2/",
@@ -44,7 +11,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Técnico do Al Nassr bate boca com jornalista após críticas a Cristiano Ronaldo",
@@ -55,7 +22,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Assista as melhores defesas da semana da Liga Saudita",
@@ -66,7 +33,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Iraola exalta golaço de Szoboszlai após vitória do Liverpool sobre o Tottenham",
@@ -77,7 +44,40 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "O potente gol de Andrada para abrir o placar para o River Plate contra o Atlético Tucumán; confira",
+      "link": "https://www.gazetaesportiva.com/times/river-plate/o-potente-gol-de-andrada-para-abrir-o-placar-para-o-river-plate-contra-o-atletico-tucuman-confira/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Bastidores: Haaland, Rúben Dias e companhia chegam a Portugal",
+      "link": "https://www.gazetaesportiva.com/times/manchester-city/bastidores-haaland-ruben-dias-e-companhia-chegam-a-portugal/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Presidente de LaLiga critica atitude de Vini Jr e Mbappé com camisa em apoio a Ceuta",
+      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/presidente-da-laliga-critica-atitude-de-vini-jr-e-mbappe-com-camisa-em-apoio-a-ceuta/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de set. de 2026",
+      "isoDate": "2026-09-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil estreia com vitória sobre o Chile no Sul-Americano de vôlei",
