@@ -1,60 +1,93 @@
 {
-  "updated": "2026-09-17T13:27:09.047Z",
+  "updated": "2026-09-17T18:13:46.941Z",
   "totalOk": 3,
   "items": [
     {
-      "title": "Santos leva gol no fim, perde nos pênaltis para o Atlético-MG e cai na Sul-Americana",
-      "link": "https://www.gazetaesportiva.com/campeonatos/copa-sulamericana/atletico-mg-x-santos-copa-sul-americana-2026/",
+      "title": "Diniz fala sobre coragem e sentimento de Memphis após pênalti perdido",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/diniz-fala-sobre-coragem-e-sentimento-de-memphis-apos-penalti-perdido/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "17 de set. de 2026",
       "isoDate": "2026-09-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Cuca explica mudanças e admite que Santos &#8220;sentiu&#8221; o jogo contra o Atlético-MG",
-      "link": "https://www.gazetaesportiva.com/times/santos/cuca-santos-atletico-mg-mudancas-eliminacao-sul-americana/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Com 100º gol de Messi, Inter Miami bate Cruz Azul e conquista sua primeira Campeones Cup",
-      "link": "https://www.gazetaesportiva.com/inter-miami/com-100o-gol-de-messi-inter-miami-bate-cruz-azul-e-conquista-sua-primeira-campeones-cup/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png"
-    },
-    {
-      "title": "Klopp faz primeira convocação pela Alemanha e chama 44 jogadores",
-      "link": "https://www.gazetaesportiva.com/times/alemanha/klopp-primeira-convocacao-alemanha-44-jogadores/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Real Madrid está próximo de contratar joia rebelde do Manchester United",
-      "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-avanca-por-jj-gabriel-joia-do-manchester-united/",
+      "title": "Carrick explica por que o Man United está sendo cauteloso com JJ Gabriel",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/carrick-explica-por-que-o-man-united-esta-sendo-cauteloso-com-jj-gabriel/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "17 de set. de 2026",
       "isoDate": "2026-09-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Colombus Crew 2 x 1 Orlando City pela Lamar Hunt US Open Cup",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/colombus-crew-2-x-1-orlando-city-pela-lamar-hunt-us-open-cup/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Colorado Rapids 0 x 3 St Louis City SC pela Lamar Hunt US Open Cup",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/colorado-rapids-0-x-3-st-louis-city-sc-pela-lamar-hunt-us-open-cup/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Trouxemos reforços para Maresca&#8217;, diz diretor do Manchester City",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/trouxemos-reforcos-para-maresca-diz-diretor-do-manchester-city/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Bastidores: River Plate luta muito para vencer o Atlético Tucumán",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-river-plate-luta-muito-para-vencer-o-atletico-tucuman/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Alonso reage à mudança na diretoria do Chelsea",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/alonso-reage-a-mudanca-na-diretoria-do-chelsea/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Confira a pontaria avassaladora dos novos reforços do Manchester City: Anderson, Enzo e Bouaddi",
+      "link": "https://www.gazetaesportiva.com/times/manchester-city/a-pontaria-avassaladora-dos-novos-reforcos-do-manchester-city-anderson-enzo-e-bouaddi/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Mercado",
+      "categoryColor": "#e67e22",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
@@ -78,39 +111,6 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
-    },
-    {
-      "title": "Manchester City x Norwich: onde assistir, horário e prováveis escalações pela Copa da Liga Inglesa",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-x-norwich-copa-da-liga-inglesa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Juventus x NEC Nijmegen: onde assistir, horário e prováveis escalações pela Liga Europa",
-      "link": "https://www.gazetaesportiva.com/times/juventus/juventus-x-nec-nijmegen-liga-europa-onde-assistir/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Flamengo x Independiente del Valle: veja prováveis escalações e onde assistir ao duelo pela Libertadores",
-      "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/flamengo-x-independiente-del-valle-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-libertadores/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Libertadores",
-      "categoryColor": "#f39c12",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
     },
     {
       "title": "Brasil estreia com vitória sobre o Chile no Sul-Americano de vôlei",
