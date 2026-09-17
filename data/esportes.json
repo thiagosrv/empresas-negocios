@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T07:39:13.158Z",
+  "updated": "2026-09-17T13:27:09.047Z",
   "totalOk": 3,
   "items": [
     {
@@ -22,7 +22,7 @@
       "isoDate": "2026-09-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Com 100º gol de Messi, Inter Miami bate Cruz Azul e conquista sua primeira Campeones Cup",
@@ -36,8 +36,19 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png"
     },
     {
-      "title": "Brasil vence a Bolívia e segue 100% no Sul-Americano masculino de vôlei",
-      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-vence-a-bolivia-e-segue-100-no-sul-americano-masculino-de-volei/",
+      "title": "Klopp faz primeira convocação pela Alemanha e chama 44 jogadores",
+      "link": "https://www.gazetaesportiva.com/times/alemanha/klopp-primeira-convocacao-alemanha-44-jogadores/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Real Madrid está próximo de contratar joia rebelde do Manchester United",
+      "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-avanca-por-jj-gabriel-joia-do-manchester-united/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "17 de set. de 2026",
@@ -47,26 +58,26 @@
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
-      "title": "Volante anuncia aposentadoria dois meses após rescindir com o Santos",
-      "link": "https://www.gazetaesportiva.com/times/santos/tomas-rincon-aposentadoria-apos-deixar-santos/",
+      "title": "Brasil vence a Bolívia e segue 100% no Sul-Americano masculino de vôlei",
+      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-vence-a-bolivia-e-segue-100-no-sul-americano-masculino-de-volei/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Atlético-MG x Santos: veja fotos do jogo de volta das quartas da Copa Sul-Americana",
-      "link": "https://www.gazetaesportiva.com/times/santos/atletico-mg-x-santos-fotos-quartas-sul-americana-2026/",
+      "title": "Brasil x Colômbia pelo Sul-Americano de vôlei: veja onde assistir ao duelo",
+      "link": "https://www.gazetaesportiva.com/mais-esportes/volei/brasil-x-colombia-pelo-sul-americano-de-volei-veja-onde-assistir-ao-duelo/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
     },
     {
       "title": "Manchester City x Norwich: onde assistir, horário e prováveis escalações pela Copa da Liga Inglesa",
@@ -77,7 +88,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Juventus x NEC Nijmegen: onde assistir, horário e prováveis escalações pela Liga Europa",
@@ -88,7 +99,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Flamengo x Independiente del Valle: veja prováveis escalações e onde assistir ao duelo pela Libertadores",
@@ -143,7 +154,7 @@
       "isoDate": "2026-09-16",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Morre Coronel Antônio Carlos Nunes, ex-presidente da CBF",
@@ -154,7 +165,7 @@
       "isoDate": "2026-09-13",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil vence a Argentina, conquista o Sul-Americano de Vôlei e garante vaga em Los Angeles 2028",
@@ -166,17 +177,6 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
-    },
-    {
-      "title": "Paulo Victor convoca Seleção Brasileira Sub-20 para amistosos na Espanha",
-      "link": "https://www.gazetaesportiva.com/times/brasil/paulo-victor-convoca-selecao-brasileira-sub-20-para-amistosos-na-espanha/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "11 de set. de 2026",
-      "isoDate": "2026-09-11",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
