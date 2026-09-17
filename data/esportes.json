@@ -1,73 +1,7 @@
 {
-  "updated": "2026-09-17T18:13:46.941Z",
+  "updated": "2026-09-17T21:26:17.715Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Diniz fala sobre coragem e sentimento de Memphis após pênalti perdido",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/diniz-fala-sobre-coragem-e-sentimento-de-memphis-apos-penalti-perdido/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Carrick explica por que o Man United está sendo cauteloso com JJ Gabriel",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/carrick-explica-por-que-o-man-united-esta-sendo-cauteloso-com-jj-gabriel/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Colombus Crew 2 x 1 Orlando City pela Lamar Hunt US Open Cup",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/colombus-crew-2-x-1-orlando-city-pela-lamar-hunt-us-open-cup/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Colorado Rapids 0 x 3 St Louis City SC pela Lamar Hunt US Open Cup",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/colorado-rapids-0-x-3-st-louis-city-sc-pela-lamar-hunt-us-open-cup/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Trouxemos reforços para Maresca&#8217;, diz diretor do Manchester City",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/trouxemos-reforcos-para-maresca-diz-diretor-do-manchester-city/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Mercado",
-      "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Bastidores: River Plate luta muito para vencer o Atlético Tucumán",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bastidores-river-plate-luta-muito-para-vencer-o-atletico-tucuman/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "17 de set. de 2026",
-      "isoDate": "2026-09-17",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
     {
       "title": "Alonso reage à mudança na diretoria do Chelsea",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/alonso-reage-a-mudanca-na-diretoria-do-chelsea/",
@@ -91,6 +25,72 @@
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
+      "title": "Maresca sobre o VAR no clássico: &#8220;Faz parte do futebol&#8221;",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/maresca-sobre-o-var-no-classico-faz-parte-do-futebol/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Real Betis vence Getafe e chega à terceira vitória consecutiva no Espanhol",
+      "link": "https://www.gazetaesportiva.com/campeonatos/laliga/real-betis-vence-getafe-laliga/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Manchester City x Norwich pela Copa da Liga Inglesa: veja fotos da estreia de Allan",
+      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/manchester-city-x-norwich-pela-copa-da-liga-inglesa-veja-fotos-da-estreia-de-allan/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja fotos de Real Sociedad x Bournemouth pela Liga Europa",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-real-sociedad-x-bournemouth-pela-liga-europa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Allan estreia com gol, City bate Norwich e avança na Copa da Liga",
+      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/allan-estreia-com-gol-city-bate-norwich-e-avanca-na-copa-da-liga/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Federação inglesa pede divulgação de documentos sobre projeto fracassado de Infantino",
+      "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/federacao-inglesa-pede-divulgacao-de-documentos-sobre-projeto-fracassado-de-infantino/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
       "title": "Brasil vence a Bolívia e segue 100% no Sul-Americano masculino de vôlei",
       "link": "https://www.gazetaesportiva.com/times/brasil/brasil-vence-a-bolivia-e-segue-100-no-sul-americano-masculino-de-volei/",
       "source": "Gazeta Esportiva",
@@ -99,7 +99,7 @@
       "isoDate": "2026-09-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil x Colômbia pelo Sul-Americano de vôlei: veja onde assistir ao duelo",
@@ -111,6 +111,17 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
+    },
+    {
+      "title": "Brasil define logística para Super Data Fifa com jogos na Austrália e Índia",
+      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-preparacao-australia-india-data-fifa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
     },
     {
       "title": "Brasil estreia com vitória sobre o Chile no Sul-Americano de vôlei",
@@ -154,18 +165,7 @@
       "isoDate": "2026-09-16",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Morre Coronel Antônio Carlos Nunes, ex-presidente da CBF",
-      "link": "https://www.gazetaesportiva.com/times/brasil/coronel-nunes-morre-ex-presidente-cbf/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "13 de set. de 2026",
-      "isoDate": "2026-09-13",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil vence a Argentina, conquista o Sul-Americano de Vôlei e garante vaga em Los Angeles 2028",
