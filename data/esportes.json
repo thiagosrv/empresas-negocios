@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:25:03.852Z",
+  "updated": "2026-09-17T07:39:13.158Z",
   "totalOk": 3,
   "items": [
     {
@@ -22,7 +22,18 @@
       "isoDate": "2026-09-17",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Com 100º gol de Messi, Inter Miami bate Cruz Azul e conquista sua primeira Campeones Cup",
+      "link": "https://www.gazetaesportiva.com/inter-miami/com-100o-gol-de-messi-inter-miami-bate-cruz-azul-e-conquista-sua-primeira-campeones-cup/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "17 de set. de 2026",
+      "isoDate": "2026-09-17",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png"
     },
     {
       "title": "Brasil vence a Bolívia e segue 100% no Sul-Americano masculino de vôlei",
@@ -36,17 +47,6 @@
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
-      "title": "Manchester United toma virada do Brighton e é eliminado da Copa da Liga",
-      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/manchester-united-toma-virada-do-brighton-e-e-eliminado-da-copa-da-liga/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de set. de 2026",
-      "isoDate": "2026-09-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
       "title": "Volante anuncia aposentadoria dois meses após rescindir com o Santos",
       "link": "https://www.gazetaesportiva.com/times/santos/tomas-rincon-aposentadoria-apos-deixar-santos/",
       "source": "Gazeta Esportiva",
@@ -55,7 +55,7 @@
       "isoDate": "2026-09-16",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Atlético-MG x Santos: veja fotos do jogo de volta das quartas da Copa Sul-Americana",
@@ -66,7 +66,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Manchester City x Norwich: onde assistir, horário e prováveis escalações pela Copa da Liga Inglesa",
@@ -77,7 +77,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Juventus x NEC Nijmegen: onde assistir, horário e prováveis escalações pela Liga Europa",
@@ -88,7 +88,7 @@
       "isoDate": "2026-09-16",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Flamengo x Independiente del Valle: veja prováveis escalações e onde assistir ao duelo pela Libertadores",
