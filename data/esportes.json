@@ -1,29 +1,7 @@
 {
-  "updated": "2026-09-20T16:47:37.545Z",
+  "updated": "2026-09-20T19:26:48.901Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Cesar Garza marca um golaço logo no início contra o Cruz Azul pela Liga MX",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/cesar-garza-marca-um-golaco-logo-no-inicio-contra-o-cruz-azul-pela-liga-mx/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "20 de set. de 2026",
-      "isoDate": "2026-09-20",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Melhores momentos: Portland Timbers 0 x 1 Atlanta United pela MLS",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-portland-timbers-0-x-1-atlanta-united-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "20 de set. de 2026",
-      "isoDate": "2026-09-20",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Melhores momentos: Colorado Rapids 3 x 3 Seattle Sounders FC pela MLS",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-colorado-rapids-3-x-3-seattle-sounders-fc-pela-mls/",
@@ -33,7 +11,7 @@
       "isoDate": "2026-09-20",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Müller finaliza grande jogada coletiva do Vancouver com um chute potente",
@@ -44,7 +22,7 @@
       "isoDate": "2026-09-20",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Real Salt Lake 0 x 3 Vancouver pela MLS",
@@ -55,7 +33,7 @@
       "isoDate": "2026-09-20",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Nashville SC 3 x 0 Chicago Fire FC pela MLS",
@@ -66,7 +44,7 @@
       "isoDate": "2026-09-20",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Gol de Reus de perto garante vitória do LA Galaxy sobre o Minnesota United pela MLS",
@@ -77,7 +55,7 @@
       "isoDate": "2026-09-20",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Leverkusen 2 x 0 Leipzig pelo Alemão",
@@ -88,7 +66,29 @@
       "isoDate": "2026-09-20",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Lille perde para Nice e liderança do Francês fica com o Monaco de Filipe Luís",
+      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/lille-perde-para-nice-e-lideranca-do-frances-fica-com-o-monaco-de-filipe-luis/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "20 de set. de 2026",
+      "isoDate": "2026-09-20",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Matheus Cunha marca no fim, e Manchester United empata com Fulham no Inglês",
+      "link": "https://www.gazetaesportiva.com/times/manchester-united/fulham-empata-manchester-united-campeonato-ingles/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "20 de set. de 2026",
+      "isoDate": "2026-09-20",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
       "title": "Vanderson, do Monaco, é convocado para a Seleção Brasileira após novo corte de Wesley",
@@ -99,7 +99,7 @@
       "isoDate": "2026-09-20",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Douglas Santos projeta início de novo ciclo da Seleção e quer ajudar estreantes",
@@ -110,7 +110,7 @@
       "isoDate": "2026-09-20",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil bate Argentina, conquista Sul-Americano de vôlei e garante vaga nas Olímpiadas de 2028",
@@ -124,6 +124,17 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png"
     },
     {
+      "title": "Douglas Santos destaca importância de primeiros amistosos da Seleção: &#8220;Começar o ciclo com pé direito&#8221;",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/douglas-santos-destaca-importancia-de-primeiros-amistosos-da-selecao-comecar-o-ciclo-com-pe-direito/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "20 de set. de 2026",
+      "isoDate": "2026-09-20",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
       "title": "Estêvão perde espaço no Chelsea de Xabi Alonso e tem só 25 minutos na Premier League",
       "link": "https://www.gazetaesportiva.com/times/chelsea/estevao-perde-espaco-no-chelsea-de-xabi-alonso-e-tem-so-25-minutos-na-premier-league/",
       "source": "Gazeta Esportiva",
@@ -132,7 +143,7 @@
       "isoDate": "2026-09-19",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil perde da Espanha e se despede nas quartas da Copa do Mundo feminina sub-20",
@@ -154,18 +165,7 @@
       "isoDate": "2026-09-19",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Brasil x Venezuela pelo Sul-Americano de vôlei: saiba onde assistir ao duelo",
-      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-x-venezuela-pelo-sul-americano-de-volei-saiba-onde-assistir-ao-duelo/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "18 de set. de 2026",
-      "isoDate": "2026-09-18",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3d0.png"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil x Espanha: veja onde assistir às quartas de final da Copa do Mundo Feminina Sub-20",
