@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-23T00:09:53.756Z",
+  "updated": "2026-09-23T05:40:44.370Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Após falha em GPS da Embraer, Azul anuncia ajustes na malha e alerta para impactos em voos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/22/apos-falha-em-gps-da-embraer-azul-anuncia-ajustes-na-malha-e-alerta-para-impactos-em-voos.ghtml",
+        "summary": "Instabilidade no GPS cancela voos A instabilidade global no sistema de GPS que impacta os aviões da linha E2, fabricados pela Embraer, afeta as operações da Azul nesta terça-feira (22). Com 50 jatos E195-E2 na frota, a c",
+        "image": "https://s2-g1.glbimg.com/XPH03xdQoxtAAwD5P-Z_Hu4Vgis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/s/mtTDa2Rau9paskKMJKrA/azul-embraer-2000-fotos-guilherme-ramos-gui6485.jpg",
+        "date": "23 de set. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Estudantes da Mandic participam de expedição de saúde na Amazônia",
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/sao-leopoldo-mandic/noticia/2026/09/22/estudantes-da-mandic-participam-de-expedicao-de-saude-na-amazonia.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/22/homem-morre-e-outro-e-preso-apos-perseguicao-policial-em-campinas.ghtml",
         "summary": "A área da 2ª Delegacia Seccional, em Campinas Giuliano Tamura/EPTV Um homem morreu e outro foi preso após uma perseguição policial na noite de segunda-feira (21), em Campinas (SP). O caso aconteceu na Avenida Anton Von Z",
         "image": "https://s2-g1.glbimg.com/WuKW7i0mj0dq-HxjuJnrwncORyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/B/uSBA7VRlm0Hlh7KELBag/whatsapp-image-2023-01-14-at-13.29.47.jpeg",
-        "date": "22 de set. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Aplicativo reúne mais de 900 aves do Sudeste e ajuda na observação em campo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/22/aplicativo-reune-mais-de-900-aves-do-sudeste-e-ajuda-na-observacao-em-campo.ghtml",
-        "summary": "Aves do Sudeste do Brasil são tema de aplicativo que auxilia observação em campo Divulgação Fotos, vocalizações e informações sobre centenas de espécies de aves da região Sudeste estão reunidas em um novo aplicativo dese",
-        "image": "https://s2-g1.glbimg.com/1wDLgjaWNlgcXUqND15-0cqrAuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/yvYW0URdGgQdL8AWFEUg/a-2026-09-22t123321.207.jpg",
         "date": "22 de set. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,56 @@
         "cls": "servicos"
       },
       {
+        "title": "Casos de violência política de gênero crescem 11 vezes em 4 anos",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/casos-de-violencia-politica-de-genero-crescem-11-vezes-em-4-anos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/casos-de-violencia-politica-de-genero-crescem-11-vezes-em-4-anos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "23 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena acumula para R$ 38 milhões; confira os números sorteados",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-38-milhoes-confira-os-numeros-sorteados",
+        "summary": "p Nenhum apostador acertou as seis dezenas do Concurso 3.061 da Mega-Sena, realizado nesta terça-feira (22). strong O prêmio acumulou e está estimado em R$ 38 milhões para o próximo sorteio. /strong img src= https://agen",
+        "image": null,
+        "date": "23 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Defesa Civil emite alerta de tempestade e rajadas de vento no DF",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-emite-alerta-de-tempestade-e-rajadas-de-vento-no-df",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-emite-alerta-de-tempestade-e-rajadas-de-vento-no-df img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "23 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja como foi a terça-feira (22) dos candidatos a presidente",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-22-dos-candidatos-presidente",
+        "summary": "p A agenda dos presidenciáveis nesta terça-feira (22) incluiu caminhadas, carreatas e atos de campanha, além de entrevistas e participação em podcasts e sabatina. img src= https://agenciabrasil.ebc.com.br/ebc.png?id=1703",
+        "image": null,
+        "date": "23 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "IA e vídeos falsos superam fake news como maior ameaça à democracia",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ia-e-videos-falsos-superam-fake-news-como-maior-ameaca-democracia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ia-e-videos-falsos-superam-fake-news-como-maior-ameaca-democracia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "22 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Afetados pelo El Niño terão crédito extraordinário de R$ 64 milhões",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/afetados-pelo-el-nino-terao-credito-extraordinario-de-r-64-milhoes",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/afetados-pelo-el-nino-terao-credito-extraordinario-de-r-64-milhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
@@ -131,59 +181,39 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Temporais no RS deixam mais de 700 pessoas desabrigadas",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-no-rs-deixam-mais-de-700-pessoas-desabrigadas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-no-rs-deixam-mais-de-700-pessoas-desabrigadas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "22 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Instalação no Sesc Pompeia denuncia marcas do tráfico de escravizados",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/instalacao-no-sesc-pompeia-denuncia-marcas-do-trafico-de-escravizados",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/instalacao-no-sesc-pompeia-denuncia-marcas-do-trafico-de-escravizados img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "22 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/olimpiada-de-astronomia-no-vietna-tem-cinco-estudantes-brasileiros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/olimpiada-de-astronomia-no-vietna-tem-cinco-estudantes-brasileiros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "22 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Plano Nacional de Promoção da Igualdade Racial recebe contribuições",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plano-nacional-de-promocao-da-igualdade-racial-recebe-contribuicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plano-nacional-de-promocao-da-igualdade-racial-recebe-contribuicoes img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "22 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lei que amplia cargos da diretoria da OAB é sancionada",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lei-que-amplia-cargos-da-diretoria-da-oab-e-sancionada",
-        "summary": "p strong O presidente da República em exercício, Geraldo Alckmin, sancionou nesta terça-feira (22) a lei que amplia a composição da Diretoria do Conselho Federal da Ordem dos Advogados do Brasil (OAB), modifica a nomencl",
-        "image": null,
-        "date": "22 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Santos é condenado a pagar R$ 18,6 milhões ao Cuiabá por negócio de Joaquim",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-e-condenado-a-pagar-r-186-milhoes-ao-cuiaba-por-negocio-de-joaquim/",
+        "summary": "A CNRD condenou o Santos a pagar R$ 18,6 milhões ao Cuiabá por valores ligados à contratação e à venda do zagueiro Joaquim. Peixe ainda pode recorrer. O post Santos é condenado a pagar R$ 18,6 milhões ao Cuiabá por negóc",
+        "image": "https://static.gazetaesportiva.com/uploads/2024/12/joaquim.webp",
+        "date": "23 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "São Paulo derrota o Palmeiras e segue vivo na briga por uma vaga nas quartas do Brasileiro sub-17",
+        "link": "https://www.gazetaesportiva.com/futebol/sao-paulo-x-palmeiras-brasileirao-sub-17-22-09-2026/",
+        "summary": "O São Paulo venceu o Palmeiras por 2 a 1 na noite desta terça-feira, pela 18ª rodada do Campeonato Brasileiro sub-17, em duelo disputado no Estádio Marcelo Portugal, em Cotia (SP). Brenno e Gabriel anotaram os gols do Tr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55545629765_3fedc1d610_c.webp",
+        "date": "23 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Operário bate o Criciúma fora de casa e entra no G6 da Série B",
+        "link": "https://www.gazetaesportiva.com/times/operario-pr/operario-bate-o-criciuma-fora-de-casa-e-entra-no-g6-da-serie-b/",
+        "summary": "O Operário venceu o Criciúma por 2 a 0 no Heriberto Hulse, chegou aos 47 pontos e assumiu uma vaga no G6 da Série B do Campeonato Brasileiro. O post Operário bate o Criciúma fora de casa e entra no G6 da Série B apareceu",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/797646359_18630563572008279_8316374585448906673_n-1.webp",
+        "date": "23 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Ex-Corinthians e Santos, meia Giuliano anuncia aposentadoria",
         "link": "https://www.gazetaesportiva.com/times/corinthians/ex-corinthians-e-santos-meia-giuliano-anuncia-aposentadoria/",
@@ -209,36 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/argentina/perito-contradiz-acusacao-morte-diego-maradona/",
         "summary": "O julgamento sobre a morte de Diego Maradona ganhou um novo capítulo com o depoimento do perito oficial Pablo Ferrari. Convocado pela defesa, o médico legista afirmou que a morte do ex-jogador foi \"súbita\" e \"fulminante\"",
         "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260920__C8U83LX__v3__HighRes__TopshotMarathonArgBuenosAires.webp",
-        "date": "22 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Time da NFL treinará no CT do Flamengo para jogo no Brasil",
-        "link": "https://www.gazetaesportiva.com/campeonatos/nfl/dallas-cowboys-treino-ninho-do-urubu-jogo-nfl-maracana/",
-        "summary": "O Dallas Cowboys utilizará o Ninho do Urubu, CT do Flamengo, para se preparar para o duelo contra o Baltimore Ravens, válido pela terceira semana da temporada 2026 da NFL. Enquanto os Cowboys treinarão nas instalações de",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260922__2296585231__v1__HighRes__WashingtonCommandersVDallasCowboys.webp",
-        "date": "22 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Scaloni tem negociações avançadas para renovar com a Argentina, diz jornal",
-        "link": "https://www.gazetaesportiva.com/times/argentina/scaloni-tem-negociacoes-avancadas-para-renovar-com-a-argentina-diz-jornal/",
-        "summary": "Campeão do mundo em 2022, Lionel Scaloni está próximo de renovar seu contrato com a seleção argentina até 2028, com opção de extensão até 2030. O post Scaloni tem negociações avançadas para renovar com a Argentina, diz j",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/03/000_37H69P6.webp",
-        "date": "22 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo não chega a acordo com Uberlândia para disputa de amistoso",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-sem-acordo-uberlandia-amistoso/",
-        "summary": "O amistoso entre São Paulo e Uberlândia seria realizado durante a pausa da data Fifa, mas os clubes não chegaram a um acordo para tal. O post São Paulo não chega a acordo com Uberlândia para disputa de amistoso apareceu ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55538708734_38fa8b1e95_k-1.webp",
         "date": "22 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Reino Unido se manterá firme em relação às Malvinas, diz primeiro-ministro britânico",
+        "link": "https://www.infomoney.com.br/mundo/reino-unido-se-mantera-firme-em-relacao-as-malvinas-diz-primeiro-ministro-britanico/",
+        "summary": "Presidente Donald Trump afirmou que os EUA estão revisando posição neutra em relação ao arquipélago The post Reino Unido se manterá firme em relação às Malvinas, diz primeiro-ministro britânico appeared first on InfoMone",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-19T023615Z_428721278_RC2QWLA1AYVK_RTRMADP_3_BRITAIN-POLITICS-MAKERFIELD.jpg?fit=300%2C208&amp;quality=70&amp;strip=all",
+        "date": "23 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Senador republicano pede investigação sobre negócios da família Trump",
+        "link": "https://www.infomoney.com.br/mundo/senador-republicano-pede-investigacao-sobre-negocios-da-familia-trump/",
+        "summary": "Senador John Curtis escreveu uma carta ao Comitê Judiciário do Senado solicitando uma investigação sobre as empresas de propriedade do filho mais velho de Trump The post Senador republicano pede investigação sobre negóci",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/TRUMP-CASH-REBATES-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "23 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Zelensky diz que Rússia planeja novo ataque em grande escala contra Ucrânia",
+        "link": "https://www.infomoney.com.br/mundo/zelensky-diz-que-russia-planeja-novo-ataque-em-grande-escala-contra-ucrania/",
+        "summary": "Presidente ucraniano disse que a país mantém comunicação ⁠constante com seus aliados para garantir novos sistemas de defesa antiaérea The post Zelensky diz que Rússia planeja novo ataque em grande escala contra Ucrânia a",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-22T211210Z_1825748956_RC2L9IAWKCQY_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "23 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dia de Sorte: confira o resultado do concurso 1304 sorteado nesta terça-feira (22)",
+        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1304-sorteado-nesta-terca-feira-22/",
+        "summary": "O prêmio estimado para este concurso era de R$ 850 mil The post Dia de Sorte: confira o resultado do concurso 1304 sorteado nesta terça-feira (22) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "23 de set. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Quina hoje, concurso 7124: confira o resultado sorteado nesta terça (22)",
         "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7124-confira-o-resultado-sorteado-nesta-terca-22/",
         "summary": "Ganham prêmios os acertadores de 2, 3, 4 ou 5 números The post Quina hoje, concurso 7124: confira o resultado sorteado nesta terça (22) appeared first on InfoMoney.",
@@ -322,46 +362,6 @@
         "summary": "Para apostar na Lotofácil é preciso marcar entre 15 e 20 números, dentre os 25 disponíveis no bilhete The post Lotofácil hoje: confira o resultado do concurso 3786 sorteado nesta terça (22) appeared first on InfoMoney.",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
         "date": "23 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mega-Sena hoje, concurso 3061: Confira o resultado sorteado nesta terça (22)",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3061-confira-o-resultado-sorteado-nesta-terca-22/",
-        "summary": "A aposta mínima, de 6 números, custa R$ 6,00 The post Mega-Sena hoje, concurso 3061: Confira o resultado sorteado nesta terça (22) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/20230622_182547.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "23 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Argentina convoca embaixador britânico por exploração de petróleo nas Malvinas",
-        "link": "https://www.infomoney.com.br/mundo/argentina-convoca-embaixador-britanico-por-exploracao-de-petroleo-nas-malvinas/",
-        "summary": "Governo de Javier Milei protestou contra prorrogação das licenças para a realização de atividades petrolíferas nas Ilhas Malvinas The post Argentina convoca embaixador britânico por exploração de petróleo nas Malvinas ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/ilhas-malvinas.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-        "date": "22 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Leilão da Caixa: 596 imóveis, descontos de até 67% e lances a partir de R$ 51 mil",
-        "link": "https://www.infomoney.com.br/minhas-financas/leilao-da-caixa-596-imoveis-descontos-de-ate-67-e-lances-a-partir-de-r-51-mil/",
-        "summary": "Certame será feito em duas etapas no mês de outubro The post Leilão da Caixa: 596 imóveis, descontos de até 67% e lances a partir de R$ 51 mil appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2151925493.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
-        "date": "22 de set. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Localiza (RENT3) aprova R$ 614,9 milhões em proventos; veja quem tem direito",
-        "link": "https://www.infomoney.com.br/mercados/localiza-rent3-aprova-r-6149-milhoes-em-proventos-veja-quem-tem-direito/",
-        "summary": "O valor bruto por ação é de R$0,556580414 por ação ordinária The post Localiza (RENT3) aprova R$ 614,9 milhões em proventos; veja quem tem direito appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Localiza-Meoo-oferece-mobilidade-economica-para-micro-e-pequenos-empreendedores.webp?fit=300%2C218&amp;quality=70&amp;strip=all",
-        "date": "22 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
