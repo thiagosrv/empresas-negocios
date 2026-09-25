@@ -1,39 +1,83 @@
 {
-  "updated": "2026-09-25T07:48:08.993Z",
+  "updated": "2026-09-25T13:47:05.616Z",
   "totalOk": 3,
   "items": [
     {
-      "title": "Estudo coloca trio do Palmeiras entre os jogadores mais valiosos do futebol brasileiro",
-      "link": "https://www.gazetaesportiva.com/times/palmeiras/estudo-coloca-trio-do-palmeiras-entre-os-jogadores-mais-valiosos-do-futebol-brasileiro/",
+      "title": "Grandes ligas europeias exigem reforma na governança da Fifa",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/grandes-ligas-europeias-exigem-reforma-na-governanca-da-fifa/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Campeão da Copa 2006 com a Itália rechaça vínculos da família com a máfia",
-      "link": "https://www.gazetaesportiva.com/times/italia/campeao-da-copa-2006-com-a-italia-rechaca-vinculos-da-familia-com-a-mafia/",
+      "title": "Brasil está escalado com dois estreantes para enfrentar a Austrália; veja times",
+      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-esta-escalado-com-dois-estreantes-para-enfrentar-a-australia-veja-times/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
     },
     {
-      "title": "Veja fotos da partida entre Portugal e País de Gales pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/veja-fotos-da-partida-entre-portugal-e-pais-de-gales-pela-liga-das-nacoes/",
+      "title": "Veja fotos do amistoso da Seleção Brasileira contra a Austrália",
+      "link": "https://www.gazetaesportiva.com/times/brasil/veja-fotos-do-amistoso-da-selecao-brasileira-contra-a-australia/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Brasil empata no último lance e evita derrota para a Austrália no primeiro teste após a Copa",
+      "link": "https://www.gazetaesportiva.com/times/brasil/australia-brasil-amistoso-25-09-2026/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Marquinhos admite frustração após empate do Brasil: &#8220;Expectativa era melhor&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/marquinhos-admite-frustracao-apos-empate-do-brasil-expectativa-era-melhor/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Quem é Nestory Irankunda, autor do gol da Austrália contra a Seleção Brasileira",
+      "link": "https://www.gazetaesportiva.com/times/australia/nestory-irankunda-autor-australia-gol-brasil/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ancelotti valoriza testes em empate da Seleção e pede paciência",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-valoriza-testes-em-empate-da-selecao-e-pede-paciencia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de set. de 2026",
+      "isoDate": "2026-09-25",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Com gol de João Félix, Portugal vence País de Gales na estreia da Liga das Nações",
@@ -66,7 +110,7 @@
       "isoDate": "2026-09-24",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Itália x Bélgica: veja onde assistir e as escalações pela Liga das Nações",
@@ -78,72 +122,6 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png"
-    },
-    {
-      "title": "Ancelotti confirma escalação do Brasil com Endrick e Estêvão de titulares",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-confirma-escalacao-do-brasil-e-projeta-sequencia-de-amistosos/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Matheuzinho vive expectativa de estreia pela Seleção e revela emoção com convocação",
-      "link": "https://www.gazetaesportiva.com/times/brasil/matheuzinho-estreia-selecao-brasileira-australia/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Marquinhos fala sobre renovação da Seleção e início do ciclo para 2030",
-      "link": "https://www.gazetaesportiva.com/times/brasil/marquinhos-destaca-renovacao-e-inicio-tranquilo-de-ciclo-na-selecao-brasileira/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ancelotti escala o Brasil contra a Austrália e avalia Vini Jr. e Raphinha",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ancelotti-escala-o-brasil-contra-a-australia-e-avalia-vini-jr-e-raphinha/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Matheuzinho quer ‘demonstrar ser merecedor’ de estar na Seleção",
-      "link": "https://www.gazetaesportiva.com/times/brasil/matheuzinho-quer-demonstrar-ser-merecedor-de-estar-na-selecao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Júlio César revela problemas financeiros: “Devo ao banco por causa de um empresário”",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/julio-cesar-relembra-problema-financeiro-e-defende-educacao-financeira-para-atletas/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "24 de set. de 2026",
-      "isoDate": "2026-09-24",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil: Quem voltou após a eliminação na Copa do Mundo de 2026?",
