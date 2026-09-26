@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-26T01:18:55.565Z",
+  "updated": "2026-09-26T07:19:09.105Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Jovem manteve trabalho, viagens e encontros com amigos durante luta contra câncer raro: 'Nunca deixou de viver'",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/26/jovem-manteve-trabalho-viagens-e-encontros-com-amigos-durante-luta-contra-cancer-raro-nunca-deixou-de-viver.ghtml",
+        "summary": "Mãe e filha morrem de câncer em intervalo de 10h: 'Nenhuma queria ver a outra morrer' \"Ela nunca deixou de trabalhar. Ela nunca deixou de viver. Ela nunca deixou de fazer as coisas que tinha que fazer.\" Foi assim que Bár",
+        "image": "https://s2-g1.glbimg.com/jvU7ViB-0YbOtw8TRoPPTSb8XPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/G/JbPgDVRcqbdwzAXnG1RQ/design-sem-nome-2026-09-25t203042.379.jpg",
+        "date": "26 de set. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Justiça vê ilegalidade em prisões e solta pais suspeitos de maus-tratos a filhos em Americana",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/25/justica-ve-ilegalidade-prisao-solta-pais-suspeitos-maus-tratos-filhos-americana.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/25/audio-piloto-relata-colisao-com-passaro-e-problema-no-motor-antes-de-pouso-de-emergencia-em-viracopos.ghtml",
         "summary": "Piloto relata colisão com pássaro e problema no motor antes de pouso de emergência em Vira O piloto de um avião de carga da FedEx comunicou à torre de controle do Aeroporto Internacional de Viracopos, em Campinas (SP), q",
         "image": "https://s2-g1.glbimg.com/oJbVgrIyTiyp-26bMjec_z_LiuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/X/gR34FAQvegI3Eh5TeUUA/fotos.png",
-        "date": "25 de set. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Polícia de Campinas investiga se 33 pessoas em situação de rua foram trazidas de outras cidades à força",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/25/policia-de-campinas-investiga-se-pessoas-em-situacao-de-rua-foram-trazidas-de-outras-cidades-a-forca.ghtml",
-        "summary": "Polícia apura em Campinas envio forçado de 33 pessoas de rua de 22 cidades A Polícia Civil abriu um inquérito para apurar a suspeita de que pessoas em situação de rua de outras cidades tenham sido levadas para Campinas (",
-        "image": "https://s2-g1.glbimg.com/XMlitQMOvyFRKXbbSxmRrOeKFFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/q/DnBkG9S0Kuj70MOfJ9hg/eptv1-2509-imas-morador-cp004hwe-2026-09-25-12-03-19.mxf-snapshot-00.32.854.jpg",
         "date": "25 de set. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Bets que continuarem no ar após prazo serão bloqueadas, diz Durigan",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bets-que-continuarem-no-ar-apos-prazo-serao-bloqueadas-diz-durigan",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bets-que-continuarem-no-ar-apos-prazo-serao-bloqueadas-diz-durigan img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Líder do PCC é preso na Bolívia e transferido para São Paulo",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/lider-do-pcc-e-preso-na-bolivia-e-transferido-para-sao-paulo",
+        "summary": "p strong Apontado como um dos líderes da facção criminosa Primeiro Comando da Capital (PCC), Roberto Prieto Filho, o Betinho da Baixada, está detido desde a última quarta-feira (23) em unidade prisional de SP, onde segue",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Confira como foi a sexta-feira (25) dos presidenciáveis",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-sexta-feira-25-dos-presidenciaveis",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-sexta-feira-25-dos-presidenciaveis img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.",
@@ -161,29 +181,19 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Zanin manda investigar uso de IA para burlar sistema do STF",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "25 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fachin cobra manifestação da PGR sobre casos do INSS e Master",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-cobra-manifestacao-da-pgr-sobre-casos-do-inss-e-master",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-cobra-manifestacao-da-pgr-sobre-casos-do-inss-e-master img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "25 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Vila Nova vence Londrina e abre vantagem na liderança da Série B",
+        "link": "https://www.gazetaesportiva.com/times/vila-nova-go/vila-nova-vence-londrina-e-abre-vantagem-na-lideranca-da-serie-b/",
+        "summary": "Nesta sexta-feira, o Vila Nova venceu o Londrina por 2 a 0, no Estádio Onésio Brasileiro Alvarenga (OBA), em Goiânia, pela 30ª rodada da Série B do Campeonato Brasileiro e abriu vantagem na liderança. Situação da tabela ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55535790767_c17a94bfa5_o.webp",
+        "date": "26 de set. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Argentina inicia conversas para renovar contrato de Lionel Scaloni",
         "link": "https://www.gazetaesportiva.com/times/argentina/argentina-inicia-conversas-para-renovar-contrato-de-lionel-scaloni/",
@@ -229,16 +239,6 @@
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-x-atletico-go-veja-provaveis-escalacoes-e-onde-assistir-ao-classico-pela-serie-b/",
         "summary": "Goiás e Atlético-GO fazem neste sábado (26), às 18h30, no Estádio da Serrinha, em Goiânia, um clássico válido pela 30ª rodada da Série B do Campeonato Brasileiro. A partida terá transmissão da ESPN e do Disney+. O Goiás ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/09/55547312069_0b67ab8363_o.webp",
-        "date": "25 de set. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Corinthians x São Paulo: veja onde assistir ao jogo de ida da final do Brasileiro feminino",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-sao-paulo-final-brasileirao-feminino-26-09-2026/",
-        "summary": "Veja tudo sobre o jogo entre Corinthians e São Paulo hoje, pelo Brasileirão feminino: onde assistir, arbitragem, e prováveis escalações. O post Corinthians x São Paulo: veja onde assistir ao jogo de ida da final do Brasi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/244311.webp",
         "date": "25 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -367,6 +367,36 @@
         "cls": "brasil"
       },
       {
+        "title": "Estudo identifica 8 aditivos comuns associados à hipertensão; veja quais",
+        "link": "https://exame.com/ciencia/estudo-identifica-8-aditivos-comuns-associados-a-hipertensao-veja-quais/",
+        "summary": "Estudo com mais de 112 mil pessoas encontrou associação entre maior consumo de determinados conservantes e risco elevado de pressão alta",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Como manter o cérebro ativo na era da IA? Ciência aponta estratégias",
+        "link": "https://exame.com/ciencia/como-manter-o-cerebro-ativo-na-era-da-ia-ciencia-aponta-estrategias/",
+        "summary": "Pesquisadores explicam como evitar a terceirização do raciocínio e preservar habilidades como memória, aprendizagem e pensamento crítico",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Vamos fazer uma reforma política e no Judiciário, diz Lula a empresários em jantar",
+        "link": "https://exame.com/brasil/vamos-fazer-uma-reforma-politica-e-no-judiciario-diz-lula-a-empresarios-em-jantar/",
+        "summary": "Durante os quase 40 minutos em que falou sem parar, Lula tentou manter um tom bem-humorado e mostrar energia ao pedir o voto ao setor produtivo, mas afirmou estar \"cansado\" após longa agenda de campanha",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Bets lembram começo do crack no Brasil, diz Lula ao anunciar proibição",
         "link": "https://exame.com/brasil/bets-lembram-comeco-do-crack-no-brasil-diz-lula-ao-anunciar-proibicao/",
         "summary": "Lula afirmou ainda que a medida foi \"dura e drástica\", mas necessária para eliminar o que ele chamou de \"câncer\" na sociedade\"",
@@ -390,36 +420,6 @@
         "title": "Análise: fim das bets é aposta eleitoral arriscada de Lula a nove dias do 1º turno",
         "link": "https://exame.com/brasil/analise-fim-das-bets-e-aposta-eleitoral-arriscada-de-lula-a-nove-dias-do-1o-turno/",
         "summary": "Medida busca converter rejeição às casas de apostas em votos, mas mobilizará resistências imediatas e disputas na Justiça",
-        "image": null,
-        "date": "25 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Deputados estaduais e federais: entenda as atribuições dos parlamentares",
-        "link": "https://exame.com/esferabrasil/deputados-estaduais-e-federais-entenda-as-atribuicoes-dos-parlamentares/",
-        "summary": "Eleitores escolherão representantes para as assembleias legislativas e para a Câmara dos Deputados; parlamentares têm funções como legislar e fiscalizar o Executivo",
-        "image": null,
-        "date": "25 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Japonês de 17 anos 'choca' mundo da natação com recorde nos 200m peito",
-        "link": "https://exame.com/esporte/japones-de-17-anos-choca-mundo-da-natacao-com-recorde-nos-200m-peito/",
-        "summary": "Realizada no Tokyo Aquatics Centre, a marca histórica fez dele o primeiro homem na história a romper a barreira dos 2 minutos e 5 segundos na distância, superando o recorde anterior pertencente ao chinês Qin Haiyang.",
-        "image": null,
-        "date": "25 de set. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Bet vai ser crime? O que diz a proposta do governo",
-        "link": "https://exame.com/brasil/bet-vai-ser-crime-o-que-diz-a-proposta-do-governo/",
-        "summary": "Além da MP que proíbe as bets no Brasil, foi enviado ao Congresso Nacional um projeto de lei que criminaliza a atividade no país",
         "image": null,
         "date": "25 de set. de 2026",
         "source": "Exame",
