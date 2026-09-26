@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:10:25.677Z",
+  "updated": "2026-09-26T19:51:42.960Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,7 +11,7 @@
       "isoDate": "2026-09-26",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Espanha chega a Londres antes do duelo com a Inglaterra",
@@ -22,7 +22,7 @@
       "isoDate": "2026-09-26",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo",
@@ -33,7 +33,7 @@
       "isoDate": "2026-09-26",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Portugal chega a Oslo para duelo com a Noruega",
@@ -44,11 +44,44 @@
       "isoDate": "2026-09-26",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Ex-meia da Alemanha, Michael Ballack completa 50 anos; relembre gols pelo Chelsea",
       "link": "https://www.gazetaesportiva.com/times/chelsea/ex-meia-da-alemanha-michael-ballack-completa-50-anos-relembre-gols-pelo-chelsea/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de set. de 2026",
+      "isoDate": "2026-09-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Zidane satisfeito com atuação da França após vitória por 1 a 0 na Turquia",
+      "link": "https://www.gazetaesportiva.com/times/franca/zidane-satisfeito-com-atuacao-da-franca-apos-vitoria-por-1-a-0-na-turquia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de set. de 2026",
+      "isoDate": "2026-09-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Mbappé sofre hiperextensão do joelho e deve ficar afastado por duas semanas",
+      "link": "https://www.gazetaesportiva.com/times/franca/mbappe-sofre-hiperextensao-do-joelho-e-deve-ficar-afastado-por-duas-semanas/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de set. de 2026",
+      "isoDate": "2026-09-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Jorge Jesus critica redução de estrangeiros no Brasileirão e problematiza formação de jogadores",
+      "link": "https://www.gazetaesportiva.com/times/portugal/jorge-jesus-critica-reducao-de-estrangeiros-no-brasileirao-e-problematiza-formacao-de-jogadores/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "26 de set. de 2026",
@@ -66,7 +99,7 @@
       "isoDate": "2026-09-26",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Veja quem pode ganhar espaço com as mudanças prometidas por Ancelotti na Seleção",
@@ -77,7 +110,7 @@
       "isoDate": "2026-09-26",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Análise: Seleção pós-Copa é mais do mesmo e Ancelotti precisa ser cobrado",
@@ -88,7 +121,7 @@
       "isoDate": "2026-09-26",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Convocado pela primeira vez, Pedro Morisco admite surpresa ao ser chamado para a Seleção",
@@ -99,51 +132,18 @@
       "isoDate": "2026-09-26",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Pedro Morisco admite surpresa com chamada e quer deixar boa impressão",
+      "link": "https://www.gazetaesportiva.com/times/brasil/pedro-morisco-admite-surpresa-com-chamada-e-quer-deixar-boa-impressao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "26 de set. de 2026",
+      "isoDate": "2026-09-26",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Chapecoense retorna ao local da tragédia aérea dez anos depois",
-      "link": "https://www.gazetaesportiva.com/times/chapecoense/chapecoense-retorna-ao-local-da-tragedia-aerea-dez-anos-depois/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de set. de 2026",
-      "isoDate": "2026-09-25",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1f3-1f1ec.png"
-    },
-    {
-      "title": "Tchéquia x Croácia: veja as prováveis escalações e onde assistir ao duelo pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/times/croacia/tchequia-x-croacia-veja-as-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de set. de 2026",
-      "isoDate": "2026-09-25",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
-    },
-    {
-      "title": "Inglaterra x Espanha: veja prováveis escalações e onde assistir ao jogo pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/inglaterra-x-espanha-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de set. de 2026",
-      "isoDate": "2026-09-25",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Danilo admite dificuldade do Brasil no meio-campo e pede paciência para novo ciclo",
-      "link": "https://www.gazetaesportiva.com/times/brasil/danilo-dificuldades-brasil-australia-novo-ciclo/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de set. de 2026",
-      "isoDate": "2026-09-25",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e6-1f1fa.png"
     },
     {
       "title": "Imprensa internacional repercute empate do Brasil com a Austrália e destaca atuação ruim",
@@ -165,7 +165,7 @@
       "isoDate": "2026-09-25",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti elogia Rayan, mas prioriza espaço para Estêvão e Endrick na Seleção",
@@ -176,7 +176,7 @@
       "isoDate": "2026-09-25",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
