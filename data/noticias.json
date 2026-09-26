@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-26T16:57:35.884Z",
+  "updated": "2026-09-26T19:41:35.148Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Patativa-tropeira é ave migratória que percorre mais de 3 mil km por ano em busca da sobrevivência",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/26/patativa-tropeira-e-ave-migratoria-que-percorre-mais-de-3-mil-km-por-ano-em-busca-da-sobrevivencia.ghtml",
+        "summary": "Conheça a Patativa-tropeira; ave ‘viajante’ rara com nome conectado à história do Brasil De porte pequeno e coloração discreta, a patativa-tropeira (Sporophila beltoni) é uma das aves consideradas ainda hoje misteriosas ",
+        "image": "https://s2-g1.glbimg.com/WXIK0h1y8fL3pBmYgxFJRgdG3qY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/S/e67PovTNmONbhMuGlaSw/imagens-para-materia.png",
+        "date": "26 de set. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Maiores cidades da região de Campinas têm 486 mulheres que podem se beneficiar com decisão que igualou licença-maternidade",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/26/maiores-cidades-da-regiao-de-campinas-tem-486-mulheres-que-podem-se-beneficiar-com-decisao-que-igualou-licenca-maternidade.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/26/jaguariuna-afasta-guardas-apos-agressoes-em-abordagem.ghtml",
         "summary": "Guarda Municipal afasta agentes após abordagem violenta em Jaguariúna A Secretaria de Segurança Pública de Jaguariúna (SP) determinou o afastamento cautelar de quatro agentes da Guarda Municipal suspeitos de envolvimento",
         "image": "https://s2-g1.glbimg.com/fEbCpREdzziz2VK0yhfCgreeGWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/U/XL0PByQjeUEdtukaSu5g/design-sem-nome-19-.png",
-        "date": "26 de set. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Caminhão tomba na Rodovia Adhemar de Barros, em Campinas, e gera congestionamento",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/26/caminhao-tomba-na-rodovia-adhemar-de-barros-em-campinas-e-gera-congestionamento.ghtml",
-        "summary": "Caminhão tomba na Rodovia Adhemar de Barros, em Campinas Renata Lamas/Arquivo Pessoal Um caminhão tombou na Rodovia Governador Doutor Adhemar Pereira de Barros (SP-340), em Campinas (SP), na manhã deste sábado (26). O ac",
-        "image": "https://s2-g1.glbimg.com/_BeGx5oV1UZh_J9XE4rzwlpTOmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/K/RhMyyFSEAcgY3Qy3oIAg/design-sem-nome-18-.png",
         "date": "26 de set. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,36 @@
         "cls": "servicos"
       },
       {
+        "title": "BH: Aeroporto de Confins suspende operações por problema na pista",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Caderno de Música aborda relação entre Beethoven e Napoleão",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-aborda-relacao-entre-beethoven-e-napoleao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-aborda-relacao-entre-beethoven-e-napoleao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Internet grátis pode derrubar rede móvel na eleição, diz Anatel ao STF",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/internet-gratis-pode-derrubar-rede-movel-na-eleicao-diz-anatel-ao-stf",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/internet-gratis-pode-derrubar-rede-movel-na-eleicao-diz-anatel-ao-stf img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "26 de set. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Fazenda mantém subsídio de R$ 2,12 ao óleo diesel",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab",
@@ -151,94 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Inmet: calor acima da média e chuvas irregulares devem marcar outubro",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-calor-acima-da-media-e-chuvas-irregulares-devem-marcar-outubro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-calor-acima-da-media-e-chuvas-irregulares-devem-marcar-outubro img src= https://cdn.jsdelivr.net/gh/sergio",
-        "image": null,
-        "date": "26 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Fórmula 1: Russell supera Verstappen por 0.1s e vence GP do Azerbaijão",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/f1-russell-supera-verstappen-por-01s-e-vence-gp-do-azerbaijao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/f1-russell-supera-verstappen-por-01s-e-vence-gp-do-azerbaijao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "26 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Saiba como funcionará compra de dívidas pela União",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/saiba-como-funcionara-compra-de-dividas-pela-uniao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/saiba-como-funcionara-compra-de-dividas-pela-uniao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0",
-        "image": null,
-        "date": "26 de set. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Há 19 anos, morria Roberto Dias, um dos maiores zagueiros da história do São Paulo; relembre sua carreira",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/ha-19-anos-morria-roberto-dias-um-dos-maiores-zagueiros-da-historia-do-sao-paulo-relembre-sua-carreira/",
-        "summary": "Há 19 anos, morria Roberto Dias, um dos maiores zagueiros do São Paulo; relembre em fotos sua carreira O post Há 19 anos, morria Roberto Dias, um dos maiores zagueiros da história do São Paulo; relembre sua carreira apar",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/20260926T163321600Z-000000000321.webp",
+        "title": "Jorge Jesus critica redução de estrangeiros no Brasileirão e problematiza formação de jogadores",
+        "link": "https://www.gazetaesportiva.com/times/portugal/jorge-jesus-critica-reducao-de-estrangeiros-no-brasileirao-e-problematiza-formacao-de-jogadores/",
+        "summary": "Jorge Jesus criticou a decisão da CBF de reduzir o limite de jogadores estrangeiros no futebol brasileiro, afirmando que a medida não ajudará no desenvolvimento dos atletas nacionais. Segundo o técnico da seleção de Port",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260924__C9BE8UM__v1__HighRes__FblEurNationsPorWal.webp",
         "date": "26 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Ex-meia da Alemanha, Michael Ballack completa 50 anos; relembre gols pelo Chelsea",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/ex-meia-da-alemanha-michael-ballack-completa-50-anos-relembre-gols-pelo-chelsea/",
-        "summary": "Michael Ballack completa 50 anos; relembre gols do meia pelo Chelsea O post Ex-meia da Alemanha, Michael Ballack completa 50 anos; relembre gols pelo Chelsea apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/allac.webp",
+        "title": "Corinthians x São Paulo: acompanhe o tempo real do jogo de ida da final do Brasileirão feminino",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/corinthians-x-sao-paulo-ida-final-brasileirao-feminino-26-09-2026/",
+        "summary": "Corinthians e São Paulo abrem a grande final do Campeonato Brasileiro feminino na tarde deste sábado. A bola rola a partir das 16h30 (de Brasília), na Neo Química Arena, no jogo de ida da decisão. Acompanhe o placar em t",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HTJ_y3QXwAEt4PZ.webp",
         "date": "26 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Portugal chega a Oslo para duelo com a Noruega",
-        "link": "https://www.gazetaesportiva.com/times/portugal/portugal-chega-a-oslo-para-duelo-com-a-noruega/",
-        "summary": "Portugal chega a Oslo para duelo com a Noruega O post Portugal chega a Oslo para duelo com a Noruega apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/tuga.webp",
+        "title": "Pedro Morisco admite surpresa com chamada e quer deixar boa impressão",
+        "link": "https://www.gazetaesportiva.com/times/brasil/pedro-morisco-admite-surpresa-com-chamada-e-quer-deixar-boa-impressao/",
+        "summary": "Pedro Morisco admite surpresa com chamada e quer deixar boa impressão O post Pedro Morisco admite surpresa com chamada e quer deixar boa impressão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Pedro-Morisc.webp",
         "date": "26 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Tiba, autor do gol do título Paulista do Bragantino em 1990, completa 58 anos; veja fotos do ex-atacante",
-        "link": "https://www.gazetaesportiva.com/red-bull-bragantino/tiba-autor-do-gol-do-titulo-paulista-do-bragantino-em-1990-completa-58-anos-veja-fotos-do-ex-atacante/",
-        "summary": "Tiba, autor do gol do título Paulista do Bragantino em 1990, completa 58 anos; veja fotos do ex-atacante O post Tiba, autor do gol do título Paulista do Bragantino em 1990, completa 58 anos; veja fotos do ex-atacante apa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/20260926T155219390Z-000000000303.webp",
+        "title": "Complexo esportivo de R$ 18 milhões é inaugurado em São Paulo com atletas olímpicos",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/complexo-esportivo-de-r-18-milhoes-e-inaugurado-em-sao-paulo-com-atletas-olimpicos/",
+        "summary": "São Paulo ganhou um novo espaço voltado à prática esportiva neste sábado. A Arena RZK, localizada no Reserva Raposo, na zona oeste da capital, foi inaugurada com um complexo de mais de 11 mil m² e recebeu atletas de dest",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/0cb67728-55c7-41a8-bc0e-0ee9b5a05c3222.webp",
         "date": "26 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/espanha-exibe-orgulhosamente-suas-duas-estrelas-de-campea-do-mundo/",
-        "summary": "Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo O post Espanha exibe orgulhosamente suas duas estrelas de campeã do mundo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/spanha.webp",
+        "title": "Palmeiras se reapresenta na Academia de Futebol",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-se-reapresenta-na-academia-de-futebol/",
+        "summary": "Palmeiras se reapresenta na Academia de Futebol O post Palmeiras se reapresenta na Academia de Futebol apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/26092026_cg_palmeiras_9846_24.webp",
         "date": "26 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Espanha chega a Londres antes do duelo com a Inglaterra",
-        "link": "https://www.gazetaesportiva.com/times/espanha/espanha-chega-a-londres-antes-do-duelo-com-a-inglaterra/",
-        "summary": "Espanha chega a Londres antes do duelo com a Inglaterra O post Espanha chega a Londres antes do duelo com a Inglaterra apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/Espan.webp",
+        "title": "Corinthians e São Paulo definem escalações para ida da final do Brasileirão feminino; confira",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileirao-feminino/escalacoes-corinthians-sao-paulo-brasileirao-feminino-final-ida/",
+        "summary": "Corinthians e São Paulo estão prontos para iniciar a disputa pelo título do Campeonato Brasileiro feminino. Emilly Lima e Thiago Viana definiram as escalações das equipes para o jogo que acontece neste sábado, a partir d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/HTKAWb8WEAAOPaL.webp",
         "date": "26 de set. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Pressão do custo de vida desafia projeto de reeleição de Lula",
-        "link": "https://www.infomoney.com.br/politica/pressao-do-custo-de-vida-desafia-projeto-de-reeleicao-de-lula/",
-        "summary": "Presidente encontra desafio em convencer eleitores que indicadores econômicos importam, mesmo quando se sentem pressionados por custos The post Pressão do custo de vida desafia projeto de reeleição de Lula appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Lula_Santa-Catarina.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Governo envia WhatsApp a apostadores pedindo saque do dinheiro até 5 de outubro",
+        "link": "https://www.infomoney.com.br/mercados/governo-envia-whatsapp-a-apostadores-pedindo-saque-do-dinheiro-ate-5-de-outubro/",
+        "summary": "Mensagem é enviada pelo canal oficial do Gov.br no aplicativo de mensagens com orientação aos cidadãos sobre banimento das bets The post Governo envia WhatsApp a apostadores pedindo saque do dinheiro até 5 de outubro app",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-25-184257.png?fit=300%2C198&amp;quality=70&amp;strip=all",
         "date": "26 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Planos de saúde terão que cobrir DIU hormonal em casos de endometriose",
-        "link": "https://www.infomoney.com.br/saude/planos-de-saude-terao-que-cobrir-diu-hormonal-em-casos-de-endometriose/",
-        "summary": "Mudança altera o Rol de Procedimentos e Eventos em Saúde The post Planos de saúde terão que cobrir DIU hormonal em casos de endometriose appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/trbr2414.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Em agenda de governo, Lula encerra visita ao IFSP sem discursar",
+        "link": "https://www.infomoney.com.br/politica/em-agenda-de-governo-lula-encerra-visita-ao-ifsp-sem-discursar/",
+        "summary": "Presidente não esteve acompanhado de Haddad, candidato ao governo de São Paulo, Tebet e Marina, candidatas ao Senado The post Em agenda de governo, Lula encerra visita ao IFSP sem discursar appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Captura-de-tela-2026-09-25-184312.png?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "26 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Skyfit mira R$ 1 bilhão em 2027 e vai usar o hyrox para chegar lá",
-        "link": "https://www.infomoney.com.br/business/skyfit-mira-r-1-bilhao-em-2027-e-vai-usar-o-hyrox-para-chegar-la/",
-        "summary": "Rede de academias low cost deve chegar a quase 400 unidades no próximo mês e quer usar sua estrutura de franquias para expandir a NXT House, voltada ao segmento premium e à tendência do HYROX The post Skyfit mira R$ 1 bi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-26-at-12.04.27.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Em Jaguariúna (SP), Flávio Bolsonaro promete Jair Bolsonaro de volta no rodeio",
+        "link": "https://www.infomoney.com.br/politica/em-jaguariuna-sp-flavio-bolsonaro-promete-jair-bolsonaro-de-volta-no-rodeio/",
+        "summary": "Senador falou em breve discurso de 1 minuto ao público The post Em Jaguariúna (SP), Flávio Bolsonaro promete Jair Bolsonaro de volta no rodeio appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/convencao-pl-partido-liberal-eleicoes-2026-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "26 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "O que muda, quem fiscaliza e para onde vai o dinheiro? Entenda a MP das bets",
-        "link": "https://www.infomoney.com.br/politica/o-que-muda-quem-fiscaliza-e-para-onde-vai-o-dinheiro-entenda-a-mp-das-bets/",
-        "summary": "Presidente Luiz Inácio Lula da Silva assinou na sexta-feira (25) medida provisória sobre casas de apostas The post O que muda, quem fiscaliza e para onde vai o dinheiro? Entenda a MP das bets appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/20260121200144_1746e8d4ccfa91d6a6464d5ca54b4e6de8f5294fad9fbe53b45b655587a568c1.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Tinder, confiança e Pix: a fórmula do estelionato sentimental que já tem 7 vítimas",
+        "link": "https://www.infomoney.com.br/minhas-financas/tinder-confianca-e-pix-a-formula-do-estelionato-sentimental-que-ja-tem-7-vitimas/",
+        "summary": "Assunto é abordado na novela 'Quem ama cuida', com a trama da personagem Carmita (Deborah Evelyn) The post Tinder, confiança e Pix: a fórmula do estelionato sentimental que já tem 7 vítimas appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/09/cropped-Contrato-de-convivencia-e-contrato-de-namoro-e1727276888286.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
         "date": "26 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Munique é candidata alemã para sediar Jogos Olímpicos de 2036, 2040 ou 2044",
-        "link": "https://www.infomoney.com.br/mundo/munique-e-candidata-alema-para-sediar-jogos-olimpicos-de-2036-2040-ou-2044/",
-        "summary": "Confederação Alemã de Esportes Olímpicos anunciou candidatura da cidade para Jogos de Verão The post Munique é candidata alemã para sediar Jogos Olímpicos de 2036, 2040 ou 2044 appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/07/2024-07-30T193939Z_1_LYNXMPEK6T100_RTROPTP_4_OLYMPICS-2024-OPENING-CEREMONY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Gilmar diz que decisão do CNMP confirma lisura de Gonet e volta a criticar Mendonça",
+        "link": "https://www.infomoney.com.br/politica/gilmar-diz-que-decisao-do-cnmp-confirma-lisura-de-gonet-e-volta-a-criticar-mendonca/",
+        "summary": "Ministro fez declaração na rede social X neste sábado The post Gilmar diz que decisão do CNMP confirma lisura de Gonet e volta a criticar Mendonça appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55530341958_3504b593b4_c.jpg?fit=300%2C170&amp;quality=70&amp;strip=all",
         "date": "26 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Boato sobre Nossa Senhora Aparecida gera 181 mil comentários em 20 horas",
-        "link": "https://www.infomoney.com.br/politica/boato-sobre-nossa-senhora-aparecida-gera-181-mil-comentarios-em-20-horas/",
-        "summary": "Menções ao rumor de que candidato teria apoiado proposta para retirar Nossa Senhora Aparecida da condição de padroeira do Brasil movimentou 139 mil perfis The post Boato sobre Nossa Senhora Aparecida gera 181 mil comentá",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-flavio-bolsonaro-pl-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "MP das Bets: veja o que muda e saiba datas para devolução de valores",
+        "link": "https://www.infomoney.com.br/minhas-financas/mp-das-bets-veja-o-que-muda-e-saiba-datas-para-devolucao-de-valores/",
+        "summary": "Medida anunciada pelo governo atinge apostas esportivas e jogos online The post MP das Bets: veja o que muda e saiba datas para devolução de valores appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/bets-apostas-eletronicas-foto-bruno-peres-agencia-brasil.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de set. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nubank mira Europa e negocia compra do banco digital Monzo, diz Bloomberg",
-        "link": "https://exame.com/invest/mercados/nubank-mira-europa-e-negocia-compra-do-banco-digital-monzo-diz-bloomberg/",
-        "summary": "Fintech brasileira tem 135 milhões de clientes na América Latina, mas ainda não opera no Reino Unido ou na Europa",
+        "title": "Além do futebol: como as bets ocupam TV, festivais, Carnaval e ruas",
+        "link": "https://exame.com/marketing/alem-do-futebol-como-as-bets-ocupam-tv-festivais-carnaval-e-ruas/",
+        "summary": "Casas de apostas ampliaram presença em diferentes plataformas e movimentaram bilhões de reais em publicidade",
         "image": null,
         "date": "26 de set. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Agentes da OpenAI acessaram sites do governo dos EUA sem autorização",
-        "link": "https://exame.com/inteligencia-artificial/agentes-da-openai-acessaram-sites-do-governo-dos-eua-sem-autorizacao/",
-        "summary": "Pesquisadores identificaram comportamento inesperado de sistemas de IA; OpenAI confirmou parte dos acessos e abriu investigação",
+        "title": "Mirassol, Cuiabá e mais: veja clubes sem patrocínio master de bets",
+        "link": "https://exame.com/esporte/mirassol-cuiaba-e-mais-veja-clubes-sem-patrocinio-master-de-bets/",
+        "summary": "Levantamento mapeia a presença de casas de aposta nas camisas das quatro divisões do futebol brasileiro em 2026",
         "image": null,
         "date": "26 de set. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Inter lança fundo para investir em ETFs — enquanto não tem um para chamar de seu",
-        "link": "https://exame.com/invest/mercados/inter-lanca-fundo-para-investir-em-etfs-enquanto-nao-tem-um-para-chamar-de-seu/",
-        "summary": "Gestora do banco transforma antigo FoF de ações em carteira de ETFs e avalia lançar fundo de índice próprio",
+        "title": "Real Time: Gomes, Guimarães e Gaguim lideram corrida ao Senado em Tocantins",
+        "link": "https://exame.com/brasil/real-time-gomes-guimaraes-e-gaguim-lideram-corrida-ao-senado-em-tocantins/",
+        "summary": "Levantamento no Tocantins consolida liderança de Eduardo Gomes nas duas opções de voto para o Senado",
         "image": null,
         "date": "26 de set. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Mulheres podem definir quem vence em 2026; Senado caminha para recorde de eleitas",
-        "link": "https://exame.com/brasil/mulheres-podem-definir-quem-vence-em-2026-e-o-senado-pode-ter-recorde-de-eleitas/",
-        "summary": "Peça-chave para Lula e Flávio, elas são maioria de quem vota, mas só 35% dos candidatos. Pesquisas indicam, porém, que mais de oito senadoras podem vencer",
+        "title": "Agregador Inteligov/EXAME: Ferraço tem 34,81% e Pazolini, 30,84%, no Espírito Santo",
+        "link": "https://exame.com/brasil/agregador-inteligov-exame-ferraco-tem-3481-e-pazolini-3084-no-espirito-santo/",
+        "summary": "Ex-governador aparece 3,97 pontos percentuais à frente de Pazolini; Rafael Demuner teve a maior alta da última rodada, com avanço de 2 pontos",
         "image": null,
         "date": "26 de set. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Breaking Bad' é eleita melhor série do século 21 pelo NYT; confira o ranking",
-        "link": "https://exame.com/pop/breaking-bad-e-eleita-melhor-serie-do-seculo-21-pelo-nyt-confira-o-ranking/",
-        "summary": "Mais de 500 atores, produtores e executivos da TV participaram da votação",
+        "title": "Real Time Big Data: Dorinha tem 40% e Vicentinho, 33%, no 1º turno no Tocantins",
+        "link": "https://exame.com/brasil/real-time-big-data-dorinha-tem-40-e-vicentinho-33-no-1o-turno-no-tocantins/",
+        "summary": "Candidata do União Brasil e do PSDB polarizam a disputa e configuram empate técnico em eventual segundo turno",
         "image": null,
         "date": "26 de set. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Governo mantém subsídio de R$ 2,12 ao diesel por mais 30 dias",
-        "link": "https://exame.com/brasil/governo-mantem-subsidio-de-r-212-ao-diesel-por-mais-30-dias/",
-        "summary": "Medida evita que benefício caia para R$ 1 por litro a partir deste domingo em meio à volatilidade dos preços internacionais dos combustíveis",
+        "title": "Real Time Big Data: Lula e Flávio Bolsonaro empatam no 1º turno em Tocantins",
+        "link": "https://exame.com/brasil/real-time-big-data-lula-e-flavio-bolsonaro-empatam-no-1o-turno-em-tocantins/",
+        "summary": "Presidente e senador dividem a preferência do eleitorado em Tocantins, enquanto rejeição de ambos atinge 48%",
         "image": null,
         "date": "26 de set. de 2026",
         "source": "Exame",
