@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-30T06:42:48.970Z",
+  "updated": "2026-09-30T13:43:05.562Z",
   "totalOk": 3,
   "items": [
+    {
+      "title": "Frank Rijkaard completa 64 anos; relembre melhores momentos do holandês pelo Ajax",
+      "link": "https://www.gazetaesportiva.com/times/ajax/frank-rijkaard-completa-64-anos-relembre-melhores-momentos-do-atacante-pelo-ajax/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Roma impede Dybala e Molina de participarem da despedida de Messi pela Argentina",
+      "link": "https://www.gazetaesportiva.com/times/roma/roma-impede-dybala-e-molina-de-participarem-da-despedida-de-messi-pela-argentina/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Copa do Mundo",
+      "categoryColor": "#2980b9",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png"
+    },
+    {
+      "title": "Giroud completa 40 anos; relembre melhores do atacante pelo Milan",
+      "link": "https://www.gazetaesportiva.com/times/franca/giroud-completa-40-anos-relembre-melhores-do-atacante-pelo-milan/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Cristiano Ronaldo se reúne com Jorge Jesus após ficar no banco contra a Noruega",
+      "link": "https://www.gazetaesportiva.com/times/portugal/cristiano-ronaldo-jorge-jesus-reuniao-portugal/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "De la Fuente vê Yamal como “um jogador muito altruísta” após vitória sobre a Croácia",
+      "link": "https://www.gazetaesportiva.com/times/espanha/de-la-fuente-ve-yamal-como-um-jogador-muito-altruista-apos-vitoria-sobre-a-croacia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Há 66 anos, nascia Maradona; relembre fatos marcantes do ex-jogador",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ha-65-anos-nascia-maradona-relembre-fatos-marcantes-do-ex-jogador/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Klopp exalta união da Alemanha antes de encarar a Sérvia",
+      "link": "https://www.gazetaesportiva.com/times/alemanha/klopp-exalta-uniao-da-alemanha-antes-de-encarar-a-servia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Zagueiro do Real Madrid vai passar por cirurgia após sofrer fratura na tíbia",
+      "link": "https://www.gazetaesportiva.com/times/real-madrid/raul-asencio-cirurgia-real-madrid-fratura-tibia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
     {
       "title": "Com edema muscular, Raphinha é cortado de amistoso contra a Índia",
       "link": "https://www.gazetaesportiva.com/times/brasil/raphinha-cortado-selecao-brasileira/",
@@ -11,128 +99,40 @@
       "isoDate": "2026-09-30",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Diouf projeta duelo da França contra a Itália e reencontro com companheiros de Inter",
-      "link": "https://www.gazetaesportiva.com/times/franca/diouf-projeta-duelo-da-franca-contra-a-italia-e-reencontro-com-companheiros-de-inter/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Manchester City é condenado por quebra de regras financeiras da Premier League",
-      "link": "https://www.gazetaesportiva.com/times/manchester-city/manchester-city-e-condenado-por-quebra-de-regras-financeiras-da-premier-league/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f517.png"
-    },
-    {
-      "title": "&#8216;O futebol não precisa de imperadores&#8217;, diz presidente da Uefa sobre Infantino",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/o-futebol-nao-precisa-de-imperadores-diz-presidente-da-uefa-sobre-infantino/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Portugal treina na Suécia antes de duelo com a Dinamarca",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/portugal-treina-na-suecia-antes-de-duelo-com-a-dinamarca/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Veja fotos de Escócia x Suíça pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-escocia-x-suica-pela-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
-      "title": "Veja fotos de Espanha x Croácia pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/times/espanha/veja-fotos-de-espanha-x-croacia-pela-liga-das-nacoes/",
+      "title": "Análise: Seleção dá resposta com mudança de esquema e precisa achar as peças",
+      "link": "https://www.gazetaesportiva.com/times/brasil/analise-selecao-da-resposta-com-mudanca-de-esquema-e-precisa-achar-as-pecas/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Espanha goleia Croácia com dois de Yamal e é líder isolada da Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/times/espanha/espanha-goleia-croacia-com-dois-de-yamal-e-e-lider-isolada-da-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
-    },
-    {
-      "title": "Suíça supera Escócia e vence a segunda pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/suica-supera-escocia-e-vence-a-segunda-pela-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Carlo Ancelotti analisa esquema tático e produção de meio-campistas",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/carlo-ancelotti-analisa-esquema-tatico-e-producao-de-meio-campistas/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Ancelotti explica por que Vini Jr bateu pênalti contra Austrália",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ancelotti-explica-por-que-vini-jr-bateu-penalti-contra-australia/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Imprensa internacional repercute vitória do Brasil sobre a Austrália",
-      "link": "https://www.gazetaesportiva.com/times/brasil/imprensa-internacional-destaca-vitoria-do-brasil-sobre-australia/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "29 de set. de 2026",
-      "isoDate": "2026-09-29",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
+    },
+    {
+      "title": "Ancelotti avalia atuação de Otávio na Seleção e revela goleiro titular contra a Índia",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-avalia-atuacao-de-otavio-na-selecao-e-revela-goleiro-titular-contra-a-india/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
+    },
+    {
+      "title": "Ancelotti manda recado a jovens da Seleção antes de amistoso contra a Índia",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-manda-recado-a-jovens-da-selecao-antes-de-amistoso-contra-a-india/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "30 de set. de 2026",
+      "isoDate": "2026-09-30",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
     },
     {
       "title": "Ancelotti pede paciência com Vini Jr.: &#8220;Fundamental para o futuro do Brasil&#8221;",
@@ -143,7 +143,7 @@
       "isoDate": "2026-09-29",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Lula sanciona lei que torna futebol feminino &#8220;prioridade&#8221; no Brasil",
@@ -154,7 +154,7 @@
       "isoDate": "2026-09-29",
       "category": "Copa do Mundo",
       "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti sai em defesa de Vinicius Júnior: &#8220;Ele merece paciência&#8221;",
