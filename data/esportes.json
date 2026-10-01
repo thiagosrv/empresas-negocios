@@ -1,51 +1,7 @@
 {
-  "updated": "2026-10-01T18:54:54.295Z",
+  "updated": "2026-10-01T23:12:09.729Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Torcida faz festa para Zidane e seleção francesa em Clairefontaine",
-      "link": "https://www.gazetaesportiva.com/times/franca/torcida-faz-festa-para-zidane-e-selecao-francesa-em-clairefontaine/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de out. de 2026",
-      "isoDate": "2026-10-01",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Bastidores do primeiro dia de Neto na volta à Juventus",
-      "link": "https://www.gazetaesportiva.com/times/juventus/bastidores-do-primeiro-dia-de-neto-na-volta-a-juventus/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de out. de 2026",
-      "isoDate": "2026-10-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Newcastle apresenta novo escudo escolhido pelos torcedores após votação popular",
-      "link": "https://www.gazetaesportiva.com/newcastle/newcastle-united-novo-escudo-escolhido-torcedores/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de out. de 2026",
-      "isoDate": "2026-10-01",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Futebol brasileiro enfrenta desafio de romper o ciclo de violência contra as mulheres",
-      "link": "https://www.gazetaesportiva.com/futebol-feminino/futebol-brasileiro-enfrenta-desafio-de-romper-o-ciclo-de-violencia-contra-as-mulheres/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "01 de out. de 2026",
-      "isoDate": "2026-10-01",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
     {
       "title": "Haaland processa companhia aérea por uso indevido de seu rabo de cavalo",
       "link": "https://www.gazetaesportiva.com/noruega/haaland-processa-companhia-aerea-por-uso-indevido-de-seu-rabo-de-cavalo/",
@@ -55,7 +11,7 @@
       "isoDate": "2026-10-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Messi se torna proprietário de time da Segunda Divisão da Espanha",
@@ -66,7 +22,7 @@
       "isoDate": "2026-10-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "&#8216;Felizmente não fiz só isso&#8217;, diz Zidane sobre cabeçada em Materazzi",
@@ -77,7 +33,51 @@
       "isoDate": "2026-10-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Scaloni elogia Flaco López, do Palmeiras, após primeiro gol pela Argentina: &#8220;Jogador completo&#8221;",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/scaloni-elogia-flaco-lopez-palmeiras-gol-argentina/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de out. de 2026",
+      "isoDate": "2026-10-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c5.png"
+    },
+    {
+      "title": "Veja fotos de País de Gales x Noruega pela Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-pais-de-gales-x-noruega-pela-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de out. de 2026",
+      "isoDate": "2026-10-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Com um a menos, Noruega toma virada do País de Gales na Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/com-um-a-menos-noruega-toma-virada-do-pais-de-gales-na-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de out. de 2026",
+      "isoDate": "2026-10-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Bélgica x Turquia: onde assistir, escalações e horário pela Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/belgica-x-turquia-onde-assistir-liga-das-nacoes-3-rodada/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de out. de 2026",
+      "isoDate": "2026-10-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
     },
     {
       "title": "Antes de viajar à Índia, Seleção Brasileira faz treino aberto na Austrália",
@@ -88,7 +88,7 @@
       "isoDate": "2026-10-01",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Gabriel Magalhães faz balanço da Seleção e destaca apoio aos mais jovens",
@@ -99,7 +99,7 @@
       "isoDate": "2026-10-01",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Seleção Brasileira sub-20 começa mal, mas reage e vence EUA em amistoso",
@@ -113,15 +113,15 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
     },
     {
-      "title": "Ancelotti avalia atuação de Otávio na Seleção e revela goleiro titular contra a Índia",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-avalia-atuacao-de-otavio-na-selecao-e-revela-goleiro-titular-contra-a-india/",
+      "title": "Seleção Brasileira desembarca em Calcutá para amistoso contra a Índia",
+      "link": "https://www.gazetaesportiva.com/times/brasil/selecao-brasileira-desembarca-em-calcuta-para-amistoso-contra-a-india/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "30 de set. de 2026",
-      "isoDate": "2026-09-30",
+      "date": "01 de out. de 2026",
+      "isoDate": "2026-10-01",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f1e7-1f1f7.svg"
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ee-1f1f3.png"
     },
     {
       "title": "Ancelotti manda recado a jovens da Seleção antes de amistoso contra a Índia",
@@ -154,7 +154,7 @@
       "isoDate": "2026-09-30",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores da vitória do Brasil sobre a Austrália em Brisbane",
@@ -165,7 +165,7 @@
       "isoDate": "2026-09-30",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
