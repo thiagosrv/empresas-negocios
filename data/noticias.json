@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-03T06:14:02.094Z",
+  "updated": "2026-10-03T12:21:20.420Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Eleições 2026: penitenciária de Mogi Guaçu tem maior seção entre presídios femininos do estado com 246 eleitores",
+        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-penitenciaria-mogi-guacu-maior-secao-presidios-femininos-estado.ghtml",
+        "summary": "Penitenciária Feminina de Mogi Guaçu (SP) Yasmin Castro/g1 A Penitenciária Feminina de Mogi Guaçu (SP) tem a maior seção eleitoral entre os presídios destinados a mulheres no estado de São Paulo. Segundo levantamento do ",
+        "image": "https://s2-g1.glbimg.com/OOlQDVT4Dnms3fN8o1upvpC6QCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/F/ejvGbxRsuvF0t5Z8ABhg/copia-de-area-1-2026-10-02t210831.363.png",
+        "date": "03 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Eleições 2026: presídios do estado de SP têm 3,5 mil eleitores aptos a votar; entenda as regras",
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/03/presidios-estado-sp-eleitores-aptos-votar-entenda-as-regras.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/02/mulher-relata-prejuizo-de-r-24-mil-apos-falsa-audiencia-virtual-para-liberar-indenizacao-em-campinas.ghtml",
         "summary": "Golpe do falso advogado usa videochamada para enganar vítimas na região de Campinas Uma moradora de Campinas (SP) relatou que perdeu R$ 24 mil após ser enganada por criminosos que, segundo ela, usaram uma videochamada pa",
         "image": "https://s2-g1.glbimg.com/ujPMYirmNLquVh8H-KKn7TmfNoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Y/Nak72ATpyrgPBhi9E4Hg/golpe-adv.png",
-        "date": "02 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Medicina por um Dia leva estudantes do Ensino Médio a rotina médica na Mandic",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/sao-leopoldo-mandic/noticia/2026/10/02/medicina-por-um-dia-leva-estudantes-do-ensino-medio-a-rotina-medica-na-mandic.ghtml",
-        "summary": "Medicina por um Dia aproxima estudantes do Ensino Médio da rotina médica na Mandic Crédito: Divulgação. Escolher uma carreira envolve pesquisa, planejamento e, sempre que possível, contato com a rotina da profissão. Na F",
-        "image": "https://s2-g1.glbimg.com/xGzqAWdlw2MwrC9P0Kgl9easj-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/z/0as09zQyev4y44hPM8xg/foto-1-3-.jpg",
         "date": "02 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Mudanças climáticas preocupam mais que perda de emprego, diz estudo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mudancas-climaticas-preocupam-mais-que-perda-de-emprego-diz-estudo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mudancas-climaticas-preocupam-mais-que-perda-de-emprego-diz-estudo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "03 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Veja como foi a sexta-feira (2) dos candidatos a presidente",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-como-foi-sexta-feira-2-dos-candidatos-presidente",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-como-foi-sexta-feira-2-dos-candidatos-presidente img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
@@ -171,74 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Fim de semana de eleições será de chuva em grande parte do país",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/fim-de-semana-de-eleicoes-sera-de-chuva-em-grande-parte-do-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/fim-de-semana-de-eleicoes-sera-de-chuva-em-grande-parte-do-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "02 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Dorival vê derrota difícil de explicar e pede união no São Paulo: Voltar a ser tudo que sempre foi",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-ve-derrota-dificil-de-explicar-e-pede-uniao-no-sao-paulo-voltar-a-ser-tudo-que-sempre-foi/",
-        "summary": "O técnico Dorival Júnior não irá digerir a derrota para o Santos tão cedo. O São Paulo saiu na frente no Morumbis, mas sofreu a virada e perdeu por 2 a 1 em clássico atrasado da 21ª rodada do Campeonato Brasileiro. O tre",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55565778571_1e94c569d2_o.webp",
+        "title": "Atuações do Santos: Gabigol decide, Diógenes salva e Coutinho estreia bem",
+        "link": "https://www.gazetaesportiva.com/times/santos/atuacoes-santos-gabigol-diogenes-coutinho-sao-paulo/",
+        "summary": "O Santos contou com atuações decisivas de Gabigol e Diógenes para vencer o São Paulo por 2 a 1, de virada, nesta sexta-feira, no Morumbis, pelo Campeonato Brasileiro. Enquanto o camisa 9 marcou os dois gols do Peixe, o g",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55566101198_db080bba87_3k.webp",
         "date": "03 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Presidente do Santos evita falar sobre renovação de Gabigol e atualiza dívida com elenco",
-        "link": "https://www.gazetaesportiva.com/times/santos/presidente-santos-renovacao-gabigol-divida-elenco/",
-        "summary": "Marcelo Teixeira evitou antecipar conversas pela renovação de Gabigol e confirmou que o Santos pagou uma parcela dos direitos de imagem atrasados do elenco. O post Presidente do Santos evita falar sobre renovação de Gabi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/01/55020378357_104516c373_o.webp",
+        "title": "Entenda por que Ryan Francisco foi titular do São Paulo contra o Santos",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/entenda-por-que-ryan-francisco-foi-titular-do-sao-paulo-no-classico/",
+        "summary": "O técnico Dorival Júnior surpreendeu e escalou Ryan Francisco como titular na derrota de virada do São Paulo para o Santos na noite da última sexta-feira, por 2 a 1, no Morumbis, em clássico atrasado da 21ª rodada do Cam",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55565936909_8222b9043a_k.webp",
         "date": "03 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fortaleza busca empate com o Náutico, mas desperdiça chance de entrar no G2 da Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-busca-empate-com-o-nautico-serie-b/",
-        "summary": "Fortaleza e Náutico empataram por 1 a 1 nesta sexta-feira, na Arena Castelão, pela 31ª rodada da Série B do Campeonato Brasileiro. Vinícius abriu o placar para o Timbu, mas Luiz Fernando deixou tudo igual ainda no primei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HTqzw0vXoAAKzTh.webp",
+        "title": "Campeão mundial sub-20, Alessandro Borges mira Olimpíadas e revela inspiração em Darlan Romani",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/atletismo/alessandro-borges-titulo-mundial-olimpiadas-darlan-romani/",
+        "summary": "Aos 19 anos, Alessandro Borges Soares já conquistou o título mundial sub-20 no arremesso de peso e agora projeta desafios ainda maiores. Após alcançar 20,35 metros para ficar com o ouro em Eugene, o brasileiro revelou à ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/SnapDownloader.App_830540572_18621526465065493_2708540300032625412_n.webp",
         "date": "03 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Luciano sente dores na virilha, termina clássico no sacríficio e preocupa São Paulo",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/luciano-sente-dores-na-virilha-termina-classico-no-sacrificio-e-preocupa-sao-paulo/",
-        "summary": "Luciano pode virar uma dor de cabeça para a sequência da temporada do São Paulo. O atacante sentiu dores na virilha da perna direita no segundo tempo e precisou terminar a partida no sacrifício. O camisa 10 do São Paulo ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55565936944_c93c93067b_k.webp",
+        "title": "Palmeiras mantém força como mandante apesar de recorde longe do Nubank Parque",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-mantem-forca-como-mandante-apesar-de-recorde-longe-do-nubank-parque/",
+        "summary": "O Palmeiras vem enfrentando problemas com a utilização do Nubank Parque nesta temporada, que obrigaram o Verdão a deixar sua casa em diversas oportunidades. No início do ano, a troca do gramado manteve o estádio fechado ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/12092026_cg_palmeiras_4578_8.webp",
         "date": "03 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Cuca mira Libertadores, elogia Coutinho e aumenta expectativa por volta de Neymar no Santos",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-libertadores-neymar-santos/",
-        "summary": "Após a vitória sobre o São Paulo, Cuca falou sobre a briga do Santos por uma vaga na Libertadores, elogiou Coutinho e indicou grande chance de Neymar voltar contra o Flamengo. O post Cuca mira Libertadores, elogia Coutin",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55566252795_0d625d0883_3k.webp",
+        "title": "Em fim de contrato, Lingard vive momento de pouco prestígio no Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/em-fim-de-contrato-lingard-vive-momento-de-pouco-prestigio-no-corinthians/",
+        "summary": "Com contrato perto do fim, Jesse Lingard vive momento de pouco prestígio no Corinthians. O atacante inglês não vem recebendo muitos minutos em campo no time do técnico Fernando Diniz e, desde sua chegada, pouco contribui",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/249379-1.webp",
         "date": "03 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja os melhores momentos de São Paulo 1 x 2 Santos pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/santos/veja-os-melhores-momentos-de-sao-paulo-1-x-2-santos-pelo-brasileirao/",
-        "summary": "Confira os melhores momentos da vitória do Santos por 2 a 1 sobre o São Paulo, no Morumbis, em jogo atrasado da 21ª rodada do Campeonato Brasileiro. O post Veja os melhores momentos de São Paulo 1 x 2 Santos pelo Brasile",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HTqoM27WcAA3SfC.webp",
+        "title": "Atuações do São Paulo: Coronel mostra insegurança, e Tolói vai mal em derrota",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/atuacoes-do-sao-paulo-coronel-mostra-inseguranca-e-toloi-vai-mal-em-derrota/",
+        "summary": "Veja quem foi bem e quem decepcionou no São Paulo na derrota para o Santos na última sexta-feira, no Morumbis, em duelo atrasado da 21ª rodada do Brasileirão. O post Atuações do São Paulo: Coronel mostra insegurança, e T",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55565883448_a0e3a85c46_k.webp",
         "date": "03 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,16 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Preço do limão está acima da média, mesmo na entressafra",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/preco-do-limao-esta-acima-da-media-mesmo-na-entressafra",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/preco-do-limao-esta-acima-da-media-mesmo-na-entressafra img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "image": null,
+        "date": "03 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Nova descoberta aumenta expectativa da Petrobras na Foz do Amazonas",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
@@ -297,131 +307,121 @@
         "cls": ""
       },
       {
-        "title": "Petrobras faz 2ª descoberta de petróleo em poço da Margem Equatorial",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-faz-2a-descoberta-de-petroleo-em-poco-da-margem-equatorial",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-faz-2a-descoberta-de-petroleo-em-poco-da-margem-equatorial img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "AGU muda posição e pede ao STF que declare inconstitucional marco legal das bets",
+        "link": "https://www.infomoney.com.br/politica/agu-muda-posicao-e-pede-ao-stf-que-declare-inconstitucional-marco-legal-das-bets/",
+        "summary": "Objetivo da manifestação é garantir validade da medida provisória (MP) que proibiu apostas on-line The post AGU muda posição e pede ao STF que declare inconstitucional marco legal das bets appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Colunistas-IM-26.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Empresas de tecnologia para clima querem nova modelagem nos financiamentos",
+        "link": "https://www.infomoney.com.br/business/empresas-de-tecnologia-para-clima-querem-nova-modelagem-nos-financiamentos/",
+        "summary": "Climatechs querem atrair parte dos quase US$ 3 trilhões que serão investidos globalmente na transição climática até 20250; nos Brasil, empresas levaram demandas para candidatos a presidente The post Empresas de tecnologi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-14-185346.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "03 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Homem que atacou voo da FlyDubai já era proibido de voar em Omã devido a radicalismo",
+        "link": "https://www.infomoney.com.br/mundo/homem-que-atacou-voo-da-flydubai-ja-era-proibido-de-voar-em-oma-devido-a-radicalismo/",
+        "summary": "Segundo reportagem do The Wall Street Journal, WSJ, o autor do atentado é um cidadão omanense chamado Hamam al-Hammami The post Homem que atacou voo da FlyDubai já era proibido de voar em Omã devido a radicalismo appeare",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Aviao-da-Flydubai.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Clientes do Bradesco e BB toma susto com crédito zerado e cancelamento de cartões",
+        "link": "https://www.infomoney.com.br/minhas-financas/clientes-do-bradesco-e-bb-toma-susto-com-credito-zerado-e-cancelamento-de-cartoes/",
+        "summary": "Empresas negam descontinuidade de produtos e alegam normalidade na gestão de relacionamento com clientes The post Clientes do Bradesco e BB toma susto com crédito zerado e cancelamento de cartões appeared first on InfoMo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/03/1054770-df_img_4709.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "03 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Campanha em SP: Tarcísio mirou Região Metropolitana e Haddad focou no interior",
+        "link": "https://www.infomoney.com.br/mercados/campanha-em-sp-tarcisio-mirou-regiao-metropolitana-e-haddad-focou-no-interior/",
+        "summary": "Candidatos ao governo do Estado de São Paulo estiveram em 46 dos 645 municípios paulistas nos primeiros 40 dias de campanha eleitoral, iniciada em 16 de agosto The post Campanha em SP: Tarcísio mirou Região Metropolitana",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate-sp.png?fit=300%2C150&amp;quality=70&amp;strip=all",
+        "date": "03 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fundos de crédito privado: o que olhar na carteira em tempos de juros altos",
+        "link": "https://www.infomoney.com.br/onde-investir/fundos-de-credito-privado-o-que-olhar-na-carteira-em-tempos-de-juros-altos/",
+        "summary": "Concentração da carteira, histórico do gestor e prazo de resgate merecem atenção, de acordo com a SulAmérica Investimentos The post Fundos de crédito privado: o que olhar na carteira em tempos de juros altos appeared fir",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Daniela-Gamboa-SulAmerica-Investimentos-Divulgacao.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "03 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "O hotel de Dolly Parton que transforma Nashville em um museu da música",
+        "link": "https://exame.com/casual/o-hotel-de-dolly-parton-que-transforma-nashville-em-um-museu-da-musica/",
+        "summary": "Com 245 quartos, dois palcos e um museu de 1,9 mil metros quadrados, o SongTeller Hotel homenageia a trajetória de compositora da artista, que morreu em agosto, aos 80 anos",
         "image": null,
-        "date": "02 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Trump diz que EUA estão ‘monitorando de perto’ eleição no Brasil",
-        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-eua-estao-monitorando-de-perto-eleicao-no-brasil/",
-        "summary": "Presidente também afirmou que nunca esteve em discussão um veto às exportações americanas de diesel The post Trump diz que EUA estão ‘monitorando de perto’ eleição no Brasil appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Donald-Trump.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "03 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Gel, antitranspirante e produto de limpeza: veja produtos proibidos pela Anvisa na 6ª",
-        "link": "https://www.infomoney.com.br/saude/gel-antitranspirante-e-produto-de-limpeza-veja-produtos-proibidos-pela-anvisa-na-6a/",
-        "summary": "Agência determinou recolhimento de lote falsificado e suspendeu fabricação, venda e uso de itens sem regularização sanitária The post Gel, antitranspirante e produto de limpeza: veja produtos proibidos pela Anvisa na 6ª ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Anvisa.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
-        "date": "03 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "O grito de uma mãe mobilizou passageiros no voo da Flydubai; veja o que aconteceu",
-        "link": "https://www.infomoney.com.br/business/global/como-o-grito-de-uma-mae-levou-passageiros-ao-resgate-no-voo-da-flydubai/",
-        "summary": "Um piloto indiano gravemente ferido conseguiu destrancar a porta da cabine de comando. Quatro homens israelenses se uniram para dominar um agressor e evitar uma tragédia The post O grito de uma mãe mobilizou passageiros ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-30T161652Z_1417517481_RC2RTNAX6V87_RTRMADP_3_ISRAEL-GULF-FLIGHT.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
-        "date": "03 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "TSE revoga liminar e torna votos de Anthony Garotinho nulos no RJ",
-        "link": "https://www.infomoney.com.br/politica/tse-revoga-liminar-e-torna-votos-de-anthony-garotinho-nulos-no-rj/",
-        "summary": "Decisão de Floriano de Azevedo Marques ocorre a menos de dois dias da eleição; candidato teve registro indeferido pelo TRE-RJ por condenação por improbidade administrativa The post TSE revoga liminar e torna votos de Ant",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ANTHONY-GAROTINHO.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "03 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Bets: associação rebate governo e diz que apostas migraram para mercado clandestino",
-        "link": "https://www.infomoney.com.br/brasil/bets-associacao-rebate-governo-e-diz-que-apostas-migraram-para-mercado-clandestino/",
-        "summary": "Segundo a ANJL, houve um \"aumento significativo\" dos sites ilegais de apostas The post Bets: associação rebate governo e diz que apostas migraram para mercado clandestino appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Colunistas-IM-69.png?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "03 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Alguns países do G20 rejeitam posição dos EUA sobre excesso de capacidade industrial",
-        "link": "https://www.infomoney.com.br/mundo/alguns-paises-do-g20-rejeitam-posicao-dos-eua-sobre-excesso-de-capacidade-industrial/",
-        "summary": "Rejeição ocorre após a imposição, pelo governo Trump, de tarifas de 10% ou 12,5% sobre produtos provenientes de 59 países e da União Europeia The post Alguns países do G20 rejeitam posição dos EUA sobre excesso de capaci",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/g20-south-africa.avif",
-        "date": "03 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "O plano do Corinthians para recuperar R$ 27 milhões bloqueados e resolver o financiamento do estádio",
-        "link": "https://exame.com/esporte/o-plano-do-corinthians-para-recuperar-r-27-milhoes-bloqueados-e-resolver-o-financiamento-do-estadio/",
-        "summary": "Liderada pelo presidente Osmar Stábile, a cúpula alvinegra esteve em Brasília para discutir alternativas que incluem mudanças no financiamento e até a possibilidade de o banco assumir os naming rights do estádio.",
-        "image": null,
-        "date": "02 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Como negociar aumento de salário usando o ChatGPT? Veja dicas e estratégias",
-        "link": "https://exame.com/tecnologia/examelab/como-negociar-aumento-de-salario-usando-o-chatgpt-veja-dicas-e-estrategias/",
-        "summary": "Prompts e estratégias mostram como usar a IA para negociar aumento de salário com base em resultados, sem expor dados da empresa no chatbot",
+        "title": "Eleições 2026: A empresa é obrigada a liberar o empregado para votar? Veja regra",
+        "link": "https://exame.com/brasil/eleicoes-2026-a-empresa-e-obrigada-a-liberar-o-empregado-para-votar-veja-regra/",
+        "summary": "Regra vale para o primeiro turno, em 4 de outubro, e para um eventual segundo turno, no dia 25; mesários têm direito a dois dias de folga por dia de serviço",
         "image": null,
-        "date": "02 de out. de 2026",
+        "date": "03 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Empresário gasta R$ 11 mil em cartaz para defender CR7 e criticar Jorge Jesus",
-        "link": "https://exame.com/esporte/empresario-gasta-r-11-mil-em-cartaz-para-defender-cr7-e-criticar-jorge-jesus/",
-        "summary": "Fernando Maia gastou cerca de 1.900 euros (mais de R$ 11 mil) para estampar críticas ao treinador e homenagear a trajetória de 20 anos do camisa 7, prometendo novas ações nas ruas de Portugal dentro da legalidade.",
+        "title": "Pesquisa para presidente PoderData/Aya: Lula tem 45% e Flávio Bolsonaro, 43%, dos votos válidos",
+        "link": "https://exame.com/brasil/pesquisa-para-presidente-poderdata-aya-lula-tem-45-e-flavio-bolsonaro-43-dos-votos-validos/",
+        "summary": "Levantamento ouviu 4.000 eleitores em 786 municípios; margem de erro é de 1,5 ponto percentual e cenário aponta empate técnico entre os dois",
         "image": null,
-        "date": "02 de out. de 2026",
+        "date": "03 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Lula tem mais seguidores, mas Flávio Bolsonaro cresce mais nas redes sociais, diz análise",
-        "link": "https://exame.com/marketing/lula-tem-mais-seguidores-mas-flavio-bolsonaro-cresce-mais-nas-redes-sociais-diz-analise/",
-        "summary": "Levantamento da HypeAuditor analisou Instagram e TikTok dos candidatos à Presidência entre agosto e setembro e comparou audiência, crescimento e circulação de conteúdos",
+        "title": "Pode beber no dia da eleição? Veja como e onde funciona a Lei Seca neste domingo",
+        "link": "https://exame.com/brasil/pode-beber-no-dia-da-eleicao-veja-como-e-onde-funciona-a-lei-seca-neste-domingo-5/",
+        "summary": "Regras para venda e consumo de bebidas alcoólicas variam por estado e zona eleitoral; algumas restrições começam já no sábado, 3",
         "image": null,
-        "date": "02 de out. de 2026",
+        "date": "03 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Circuito feminino de tênis atinge igualdade na premiação e reduz calendário obrigatório",
-        "link": "https://exame.com/esporte/circuito-feminino-de-tenis-atinge-igualdade-na-premiacao-e-reduz-calendario-obrigatorio/",
-        "summary": "Torneios tradicionais como o Aberto da Itália, Cincinnati e Canadá se unem a Indian Wells, Miami e Pequim na paridade financeira, num pacote de mudanças no calendário que também realoca o encerramento da temporada devido",
+        "title": "Dono de império de motos de R$ 1,6 bilhão em Mato Grosso agora vai abrir o 1º free shop do Pantanal",
+        "link": "https://exame.com/negocios/dono-de-imperio-de-motos-de-r-16-bilhao-em-mato-grosso-agora-vai-abrir-o-1o-free-shop-do-pantanal/",
+        "summary": "Grupo Cometa nasceu com uma pequena loja de autopeças, avançou pelo interior do Norte e Centro-Oeste e agora investe mais de 10 milhões de reais no primeiro free shop de Mato Grosso",
         "image": null,
-        "date": "02 de out. de 2026",
+        "date": "03 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "TSE determina que votos destinados para Anthony Garotinho não sejam contados",
-        "link": "https://exame.com/brasil/tse-determina-que-votos-destinados-para-anthony-garotinho-sejam-anulados/",
-        "summary": "Com a nova decisão, os votos recebidos pelo candidato serão registrados como anulados sub judice",
+        "title": "Ex-técnico da NFL revela cidade criada no Minecraft ao longo de 12 anos",
+        "link": "https://exame.com/esporte/ex-tecnico-da-nfl-revela-cidade-criada-no-minecraft-ao-longo-de-12-anos/",
+        "summary": "A exibição atraiu mais de 20 mil espectadores simultâneos na noite de quarta-feira, 30, revelando arranha-céus, hotéis minimalistas, spas e complexos urbanos meticulosamente planejados pelo ex-comandante de Pittsburgh.",
         "image": null,
-        "date": "02 de out. de 2026",
+        "date": "03 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
