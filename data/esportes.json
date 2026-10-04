@@ -1,17 +1,50 @@
 {
-  "updated": "2026-10-04T05:52:06.789Z",
+  "updated": "2026-10-04T12:21:21.178Z",
   "totalOk": 3,
   "items": [
     {
-      "title": "Veja as fotos do confronto entre Canadá e Peru neste sábado",
-      "link": "https://www.gazetaesportiva.com/futebol/veja-as-fotos-do-confronto-entre-canada-e-peru-neste-sabado/",
+      "title": "Atuações do Brasil: Samuel Lino entra bem e se destaca ao lado de Pedro e Estêvão",
+      "link": "https://www.gazetaesportiva.com/times/brasil/atuacoes-do-brasil-samuel-lino-entra-bem-e-destoa-junto-a-pedro-e-estevao/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "03 de out. de 2026",
-      "isoDate": "2026-10-03",
+      "date": "04 de out. de 2026",
+      "isoDate": "2026-10-04",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Análise: Brasil encerra data Fifa com nova atuação decepcionante",
+      "link": "https://www.gazetaesportiva.com/times/brasil/analise-brasil-fecha-data-fifa-com-nova-atuacao-decepcionante-contra-india/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "04 de out. de 2026",
+      "isoDate": "2026-10-04",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja como foi a data Fifa do trio do Corinthians com a Seleção Brasileira",
+      "link": "https://www.gazetaesportiva.com/times/corinthians/trio-corinthians-selecao-brasileira-data-fifa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "04 de out. de 2026",
+      "isoDate": "2026-10-04",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ee-1f1f3.png"
+    },
+    {
+      "title": "Ancelotti revela planos para próxima convocação do Brasil: “Quero ver outros jovens”",
+      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-revela-planos-para-proxima-convocacao-do-brasil-quero-ver-outros-jovens/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "04 de out. de 2026",
+      "isoDate": "2026-10-04",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ee-1f1f3.png"
     },
     {
       "title": "Espanha x Tchéquia: veja fotos do duelo pela Liga das Nações",
@@ -22,7 +55,7 @@
       "isoDate": "2026-10-03",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Canadá bate Peru, e Mano Menezes segue sem vencer na seleção",
@@ -55,7 +88,7 @@
       "isoDate": "2026-10-03",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Holanda x Sérvia: onde assistir, escalações e horário pela Liga das Nações",
@@ -80,50 +113,6 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png"
     },
     {
-      "title": "Brasil tem Pedro no ataque e mais sete trocas para enfrentar a Índia",
-      "link": "https://www.gazetaesportiva.com/times/brasil/brasil-tem-pedro-no-ataque-e-mais-sete-trocas-para-enfrentar-a-india/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de out. de 2026",
-      "isoDate": "2026-10-03",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e7-1f1f7.png"
-    },
-    {
-      "title": "Brasil não joga bem, mas goleia Índia com brilho de dupla do Flamengo",
-      "link": "https://www.gazetaesportiva.com/times/brasil/india-x-brasil-amistoso-internacional/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de out. de 2026",
-      "isoDate": "2026-10-03",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Samuel Lino comenta concorrência na Seleção e explica ritmo lento contra a Índia: “O calor atrapalha”",
-      "link": "https://www.gazetaesportiva.com/times/brasil/samuel-lino-comenta-concorrencia-na-selecao-e-explica-ritmo-lento-contra-a-india-o-calor-atrapalha/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de out. de 2026",
-      "isoDate": "2026-10-03",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Índia x Brasil: veja galeria de fotos do amistoso",
-      "link": "https://www.gazetaesportiva.com/times/brasil/india-x-brasil-veja-galeria-de-fotos-do-amistoso/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "03 de out. de 2026",
-      "isoDate": "2026-10-03",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
       "title": "Ancelotti avalia vitória do Brasil e destaca evolução dos jovens na Data Fifa",
       "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-avalia-vitoria-do-brasil-e-destaca-evolucao-dos-jovens-na-data-fifa/",
       "source": "Gazeta Esportiva",
@@ -132,7 +121,7 @@
       "isoDate": "2026-10-03",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti elogia estreantes e promete mais jovens na próxima lista",
@@ -143,7 +132,7 @@
       "isoDate": "2026-10-03",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Carlo Ancelotti sai satisfeito de amistosos: &#8220;Não importa que nível de jogo vamos ter&#8221;",
@@ -154,7 +143,7 @@
       "isoDate": "2026-10-03",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Rival do Brasil na Copa, Escócia bate Macedônia do Norte e vence a primeira na Liga das Nações",
