@@ -1,8 +1,7 @@
 User-agent: *
 Allow: /
 
-# Bloquear arquivos de dados e scripts internos
-Disallow: /data/
+# Bloquear scripts internos e config do CI
 Disallow: /scripts/
 Disallow: /.github/
 

@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Empresas &amp; Negócios | Notícias de Economia, Startups e Tecnologia</title>
+  <title>Empresas &amp; Negócios | Economia, Startups e Tecnologia</title>
   <meta name="description" content="Portal de notícias sobre empresas, negócios, startups, tecnologia e economia do Brasil e do mundo." />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
   <meta name="author" content="Redação Empresas &amp; Negócios" />
@@ -282,6 +282,12 @@
     .footer-bottom-links a { font-size: 12px; color: rgba(255,255,255,.3); }
     .footer-bottom-links a:hover { color: rgba(255,255,255,.7); }
 
+    /* ── Skip link ── */
+    .skip-link { position: absolute; top: -100%; left: 16px; background: #000; color: #fff; padding: 8px 16px; font-size: 14px; font-weight: 700; z-index: 9999; text-decoration: none; }
+    .skip-link:focus { top: 8px; }
+    /* ── Visually hidden (H1 semântico) ── */
+    .visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+
     /* ── Back to top (acima do botão flutuante do WhatsApp) ── */
     .back-to-top { position: fixed; bottom: 90px; right: 24px; width: 44px; height: 44px; background: #000; color: #fff; border: none; font-size: 18px; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity .3s; z-index: 90; }
     .back-to-top.visible { opacity: 1; pointer-events: auto; }
@@ -311,6 +317,9 @@
   </style>
 </head>
 <body>
+
+<a href="#main-content" class="skip-link">Pular para o conteúdo</a>
+<h1 class="visually-hidden">Empresas &amp; Negócios — Portal de notícias sobre economia, startups e tecnologia no Brasil</h1>
 
 <!-- ═══ HEADER (ticker + nav — substituído pelo layout.js) ══════════════════ -->
 <div id="site-header">
@@ -345,7 +354,7 @@
     </a>
 
     <ul class="nav-links">
-      <li><a href="index.html" class="active">Início</a></li>
+      <li><a href="index.html" class="active" aria-current="page">Início</a></li>
       <li><a href="pages/startups.html">Startups</a></li>
       <li><a href="pages/tecnologia.html">Tecnologia</a></li>
       <li><a href="pages/brasil.html">Brasil</a></li>
@@ -400,7 +409,7 @@
 </div>
 
 <!-- ═══ MAIN ═════════════════════════════════════════════ -->
-<main>
+<main id="main-content">
   <div class="container main-wrap">
 
     <!-- CONTENT + SIDEBAR -->
@@ -517,7 +526,8 @@
           <div class="widget-head">📧 Newsletter</div>
           <p style="font-size:13px;line-height:1.6;color:#4c4546;margin-bottom:14px;">As melhores notícias de negócios e economia no seu e-mail toda manhã.</p>
           <form onsubmit="handleNewsletter(event)" style="display:flex;flex-direction:column;gap:8px;">
-            <input type="email" placeholder="seu@email.com" required style="border:1px solid #cfc4c5;padding:10px 12px;font-size:13px;font-family:'Work Sans',sans-serif;outline:none;width:100%;" />
+            <label for="nl-email-sidebar" class="visually-hidden">Seu e-mail para a newsletter</label>
+            <input id="nl-email-sidebar" type="email" placeholder="seu@email.com" required autocomplete="email" style="border:1px solid #cfc4c5;padding:10px 12px;font-size:13px;font-family:'Work Sans',sans-serif;outline:none;width:100%;" />
             <button type="submit" style="background:#000;color:#fff;padding:10px;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border:none;cursor:pointer;">Assinar grátis</button>
           </form>
           <p style="font-size:11px;color:#7e7576;margin-top:8px;text-align:center;">Sem spam. Cancele quando quiser.</p>
@@ -585,7 +595,8 @@
   <h2>Fique por dentro do que importa</h2>
   <p>Receba as principais notícias de negócios, economia e inovação toda manhã.</p>
   <form class="nl-form" onsubmit="handleNewsletter(event)">
-    <input type="email" placeholder="seu@email.com" required />
+    <label for="nl-email-footer" class="visually-hidden">Seu e-mail para a newsletter</label>
+    <input id="nl-email-footer" type="email" placeholder="seu@email.com" required autocomplete="email" />
     <button type="submit">Assinar grátis</button>
   </form>
 </section>
