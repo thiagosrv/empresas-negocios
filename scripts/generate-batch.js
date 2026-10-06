@@ -381,7 +381,7 @@ function buildHtml(article, date, imageUrl, fileName, entry) {
     <div class="sidebar-widget ad-sidebar">
       <div class="widget-header">Publicidade</div>
       <div class="widget-body" style="padding:0;">
-        <a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
+        <a href="https://psprotecao.com.br" target="_blank" rel="sponsored noopener noreferrer" style="display:block;">
           <img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;" />
         </a>
       </div>

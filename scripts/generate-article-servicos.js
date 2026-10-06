@@ -1,4 +1,4 @@
-/**
+﻿/**
  * generate-article-servicos.js
  * Gera 1 artigo diário de SEO focado em:
  *   portaria especializada · facilities · controle de acesso ·
@@ -24,7 +24,7 @@ const client    = new OpenAI();
 
 // ─── SITES PARCEIROS ─────────────────────────────────────────────────────────
 const PARCEIROS = [
-  { name: 'Proteção e Vigilância', url: 'protecaoevigilancia.com.br',  desc: 'portaria e facilities em Americana'    },
+  { name: 'Proteção e Vigilância', url: 'psprotecao.com.br',  desc: 'portaria e facilities em Americana'    },
   { name: 'PS Proteção',           url: 'psprotecao.com.br',           desc: 'facilities integrados'                 },
   { name: 'Proteção Americana',    url: 'protecaoamericana.com.br',     desc: 'portaria em Americana'                 },
   { name: 'CT Segurança',          url: 'ctseguranca.com.br',           desc: 'controle de acesso em Campinas'        },
@@ -199,7 +199,7 @@ function buildHtml(article, date, imageUrl, fileName) {
       <h3 style="color:#fff;font-size:20px;margin-bottom:10px;">Precisa de portaria ou facilities para sua empresa?</h3>
       <p style="color:#aaa;font-size:14px;margin-bottom:20px;">Empresas especializadas atendem Americana, Campinas e toda a região metropolitana.</p>
       <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
-        <a href="https://protecaoevigilancia.com.br" target="_blank" rel="noopener" style="background:var(--accent);color:#fff;font-weight:700;padding:12px 20px;border-radius:8px;text-decoration:none;font-size:14px;">Proteção e Vigilância</a>
+        <a href="https://psprotecao.com.br" target="_blank" rel="noopener" style="background:var(--accent);color:#fff;font-weight:700;padding:12px 20px;border-radius:8px;text-decoration:none;font-size:14px;">Proteção e Vigilância</a>
         <a href="https://psprotecao.com.br" target="_blank" rel="noopener" style="background:#1a1a1a;border:1px solid #444;color:#fff;font-weight:700;padding:12px 20px;border-radius:8px;text-decoration:none;font-size:14px;">PS Proteção</a>
         <a href="https://protecaoamericana.com.br" target="_blank" rel="noopener" style="background:#1a1a1a;border:1px solid #444;color:#fff;font-weight:700;padding:12px 20px;border-radius:8px;text-decoration:none;font-size:14px;">Proteção Americana</a>
         <a href="https://ctseguranca.com.br" target="_blank" rel="noopener" style="background:#1a1a1a;border:1px solid #444;color:#fff;font-weight:700;padding:12px 20px;border-radius:8px;text-decoration:none;font-size:14px;">CT Segurança</a>
@@ -225,7 +225,7 @@ function buildHtml(article, date, imageUrl, fileName) {
       <div class="widget-body" style="padding:16px;">
         <ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:10px;">
           <li><a href="https://protecaovigilancia.com.br"   target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--accent);">Proteção Vigilância</a><br><span style="font-size:11px;color:var(--gray);">Portaria corporativa</span></li>
-          <li><a href="https://protecaoevigilancia.com.br"  target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--accent);">Proteção e Vigilância</a><br><span style="font-size:11px;color:var(--gray);">Portaria e facilities</span></li>
+          <li><a href="https://psprotecao.com.br"  target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--accent);">Proteção e Vigilância</a><br><span style="font-size:11px;color:var(--gray);">Portaria e facilities</span></li>
           <li><a href="https://psprotecao.com.br"           target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--accent);">PS Proteção</a><br><span style="font-size:11px;color:var(--gray);">Facilities integrados</span></li>
           <li><a href="https://protecaoamericana.com.br"    target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--accent);">Proteção Americana</a><br><span style="font-size:11px;color:var(--gray);">Portaria especializada</span></li>
           <li><a href="https://ctseguranca.com.br"          target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--accent);">CT Segurança</a><br><span style="font-size:11px;color:var(--gray);">Controle de acesso</span></li>
@@ -236,7 +236,7 @@ function buildHtml(article, date, imageUrl, fileName) {
     </div>
     <div class="sidebar-widget ad-sidebar">
       <div class="widget-header">Publicidade</div>
-      <div class="widget-body" style="padding:0;"><a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener" style="display:block;"><img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;"/></a></div>
+      <div class="widget-body" style="padding:0;"><a href="https://psprotecao.com.br" target="_blank" rel="sponsored noopener" style="display:block;"><img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;"/></a></div>
     </div>
     <div class="sidebar-widget"><div class="widget-header">💼 Vagas em facilities</div>
       <div class="widget-body"><p style="font-size:13px;color:var(--gray);margin-bottom:12px;">Oportunidades em portaria e serviços na região.</p>
@@ -250,7 +250,7 @@ function buildHtml(article, date, imageUrl, fileName) {
   <div class="footer-col"><h4>Editorias</h4><ul><li><a href="../pages/servicos.html">Serviços</a></li><li><a href="../pages/campinas.html">Campinas</a></li><li><a href="../pages/industrias.html">Indústrias</a></li><li><a href="../pages/vagas.html">Vagas</a></li></ul></div>
   <div class="footer-col"><h4>Facilities Americana</h4><ul>
     <li><a href="https://protecaovigilancia.com.br"   target="_blank" rel="noopener">Proteção Vigilância</a></li>
-    <li><a href="https://protecaoevigilancia.com.br"  target="_blank" rel="noopener">Proteção e Vigilância</a></li>
+    <li><a href="https://psprotecao.com.br"  target="_blank" rel="noopener">Proteção e Vigilância</a></li>
     <li><a href="https://psprotecao.com.br"           target="_blank" rel="noopener">PS Proteção</a></li>
     <li><a href="https://protecaoamericana.com.br"    target="_blank" rel="noopener">Proteção Americana</a></li>
     <li><a href="https://ctseguranca.com.br"          target="_blank" rel="noopener">CT Segurança</a></li>

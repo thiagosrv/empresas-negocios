@@ -1,4 +1,4 @@
-/**
+﻿/**
  * generate-article.js
  * Gera 1 artigo diário de tema GERAL (editorial sortido) via GPT-4o.
  * O tópico é escolhido por rotação determinística (dia do ano % total de tópicos).
@@ -204,7 +204,7 @@ function buildHtml(article, date, imageUrl, fileName, entry) {
     </div>
     <div class="sidebar-widget ad-sidebar">
       <div class="widget-header">Publicidade</div>
-      <div class="widget-body" style="padding:0;"><a href="https://protecaoevigilancia.com.br" target="_blank" rel="sponsored noopener" style="display:block;"><img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;"/></a></div>
+      <div class="widget-body" style="padding:0;"><a href="https://psprotecao.com.br" target="_blank" rel="sponsored noopener" style="display:block;"><img src="../banner2.png" alt="Proteção e Vigilância" width="300" height="250" loading="lazy" style="width:100%;height:auto;display:block;border-radius:0 0 8px 8px;"/></a></div>
     </div>
     <div class="sidebar-widget"><div class="widget-header">📂 Editorias</div>
       <div class="widget-body"><ul style="list-style:none;padding:0;display:flex;flex-direction:column;gap:6px;">
