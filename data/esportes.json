@@ -1,51 +1,7 @@
 {
-  "updated": "2026-10-06T17:10:53.201Z",
+  "updated": "2026-10-06T21:37:35.780Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Há 24 anos, Ronaldo fazia sua estreia no Real Madrid; relembre melhores momentos do Fenômeno",
-      "link": "https://www.gazetaesportiva.com/times/real-madrid/ha-24-anos-ronaldo-fazia-sua-estreia-no-real-madrid-relembre-melhores-momentos-do-fenomeno/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "06 de out. de 2026",
-      "isoDate": "2026-10-06",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Messi treina pela última vez antes do jogo de despedida pela Argentina",
-      "link": "https://www.gazetaesportiva.com/times/argentina/messi-treina-pela-ultima-vez-antes-do-jogo-de-despedida-pela-argentina/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "06 de out. de 2026",
-      "isoDate": "2026-10-06",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Clubes ingleses sondam, mas Real Madrid quer manter Endrick",
-      "link": "https://www.gazetaesportiva.com/times/real-madrid/real-madrid-descarta-venda-de-endrick-mas-avalia-novo-emprestimo/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "06 de out. de 2026",
-      "isoDate": "2026-10-06",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Fifa teria permitido RD Congo na Copa mesmo com goleiro sem documentação, diz jornal",
-      "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-mundo/fifa-rd-congo-copa-lionel-mpasi-documentacao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "06 de out. de 2026",
-      "isoDate": "2026-10-06",
-      "category": "Copa do Mundo",
-      "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
     {
       "title": "Zidane satisfeito e otimista após quatro jogos da França na Liga das Nações",
       "link": "https://www.gazetaesportiva.com/times/franca/zidane-satisfeito-e-otimista-apos-quatro-jogos-da-franca-na-liga-das-nacoes/",
@@ -55,6 +11,83 @@
       "isoDate": "2026-10-06",
       "category": "Futebol",
       "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Uruguai goleia Índia em seu último amistoso nesta data Fifa",
+      "link": "https://www.gazetaesportiva.com/times/uruguai/uruguai-goleia-india-em-seu-ultimo-amistoso-nesta-data-fifa/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Da primeira cavadinha à Copa do Mundo: 10 momentos marcantes da carreira de Messi",
+      "link": "https://www.gazetaesportiva.com/times/argentina/messi-despedida-selecao-argentina-10-momentos-carreira/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f410.png"
+    },
+    {
+      "title": "Veja fotos de Croácia x Espanha pela Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-croacia-x-espanha-pela-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja fotos de Inglaterra x Tchéquia pela quarta rodada da Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/times/inglaterra/veja-fotos-de-inglaterra-x-tchequia-pela-quarta-rodada-da-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Inglaterra bate Tchéquia com dois de Kane e encaminha vaga na Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/times/inglaterra/inglaterra-bate-tchequia-com-dois-de-kane-e-encaminha-vaga-na-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Espanha vira contra a Croácia e garante classificação na Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/espanha-vira-contra-a-croacia-e-garante-classificacao-na-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "CR7 vê &#8220;quebra de confiança de Jesus&#8221;, mas se diz à disposição para voltar à seleção",
+      "link": "https://www.gazetaesportiva.com/times/portugal/cr7-ve-quebra-de-confianca-de-jesus-mas-se-diz-a-disposicao-para-voltar-a-selecao/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "06 de out. de 2026",
+      "isoDate": "2026-10-06",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
@@ -67,39 +100,6 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "França vira em menos de cinco minutos sobre a Bélgica e se isola na liderança do grupo na Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/times/franca/franca-vira-em-menos-de-cinco-minutos-sobre-a-belgica-e-se-isola-na-lideranca-do-grupo-na-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "05 de out. de 2026",
-      "isoDate": "2026-10-05",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
-    },
-    {
-      "title": "Inglaterra x Repúplica Tcheca: veja prováveis escalações e onde assistir ao jogo pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/inglaterra-x-republica-tcheca-onde-assistir-liga-das-nacoes-4-rodada/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "05 de out. de 2026",
-      "isoDate": "2026-10-05",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26aa.png"
-    },
-    {
-      "title": "Croácia x Espanha: veja as prováveis escalações e onde assistir ao duelo pela Liga das Nações",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/croacia-x-espanha-veja-as-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-liga-das-nacoes/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "05 de out. de 2026",
-      "isoDate": "2026-10-05",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ed-1f1f7.png"
     },
     {
       "title": "Portugal ganha posições com Jorge Jesus e ultrapassa Brasil no ranking da Fifa",
