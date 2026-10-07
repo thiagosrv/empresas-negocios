@@ -1,66 +1,96 @@
 {
-  "updated": "2026-10-07T16:12:26.215Z",
+  "updated": "2026-10-07T21:49:37.952Z",
   "feeds": {
     "campinas": [
       {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "07 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Azul abre inscrições para 72 vagas de estágio em Campinas, Barueri e Jundiaí; veja como participar",
+        "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/10/07/azul-abre-inscricoes-para-72-vagas-de-estagio-em-campinas-barueri-e-jundiai-veja-como-participar.ghtml",
+        "summary": "Azul Viracopos Campinas Estevão Mamédio/g1 A Azul está com inscrições abertas para 72 vagas de estágio para início em janeiro de 2027. As oportunidades são para diferentes áreas da companhia e para as unidades Azul Logís",
+        "image": "https://s2-g1.glbimg.com/Okt5oW881HVkMGDyCSvvSHl-q48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/K/UHdN6oSSOb3Eg5cJiEww/img-4057.jpg",
+        "date": "07 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Feirão de Empregos de Hortolândia terá 2 mil vagas em 60 empresas; veja como participar",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/07/feirao-de-empregos-de-hortolandia-tera-2-mil-vagas-em-60-empresas-veja-como-participar.ghtml",
+        "summary": "Prefeitura promove 4ª edição do evento, no dia 27/10, das 9h às 16h, na Câmara Municipal; feirão terá 60 empresas participantes Reprodução/Prefeitura de Hortolândia O 4º Feirão de Empregos de Hortolândia (SP) vai oferece",
+        "image": "https://s2-g1.glbimg.com/wDPfJbe1by0h6WQL43q15OHlT-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/V2fh5RSEyuvIcj1esJTA/design-sem-nome-24-.jpg",
+        "date": "07 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Drone térmico revela mais de 60 muriquis escondidos na floresta em MG",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/07/drone-termico-revela-mais-de-60-muriquis-escondidos-na-floresta-em-mg.ghtml",
+        "summary": "Drone térmico revela mais de 60 muriquis escondidos na floresta em MG O uso de um drone térmico permitiu identificar mais de 60 muriquis-do-norte (Brachyteles hypoxanthus), divididos em pelo menos três grupos, no Parque ",
+        "image": "https://s2-g1.glbimg.com/TIZ8bOuKaUSGsJkzmL8YUbh0pGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/K/ceoOonQVOaUvD63Kh6fQ/imagens-para-materia-7-.png",
+        "date": "07 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Maior coruja do Brasil aparece em apartamento e surpreende moradores de Indaiatuba (SP)",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/07/maior-coruja-do-brasil-aparece-em-apartamento-e-surpreende-moradores-de-indaiatuba-sp.ghtml",
+        "summary": "Maior coruja do Brasil aparece em apartamento e surpreende moradores de Indaiatuba (SP) Essa poderia ser uma cena de um filme fictício, mas o registro é real. Uma jacurutu (Bubo virginianus), maior coruja que ocorre no B",
+        "image": "https://s2-g1.glbimg.com/TjvSAJdCwzbVRX_ZJ-HEbx_KBLM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/bniR5AS7iifxH4gdqDyw/imagens-para-materia-6-.png",
+        "date": "07 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
         "title": "Comissária viaja por estados para estocar remédio de epilepsia do filho; medicamento deixará de ser vendido",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/07/comissaria-viaja-por-estados-para-estocar-remedio-de-epilepsia-do-filho-medicamento-deixara-de-ser-vendido.ghtml",
-        "summary": "Vinhedo (SP): mãe comissária viaja por estados para estocar remédio de epilepsia do filho que deixará de ser vendido Reprodução/EPTV A comissária de bordo Thais Jucá, de Vinhedo (SP), aproveita as viagens de trabalho par",
-        "image": "https://s2-g1.glbimg.com/_kUXWqbP2Fse6uqp_URkiiDAxg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/2/lBNwxcQfyQUkaH5sqhhQ/design-sem-nome-20-.png",
+        "summary": "Comissária viaja por estados para estocar remédio de epilepsia do filho A comissária de bordo Thais Jucá, de Vinhedo (SP), aproveita as viagens de trabalho para visitar farmácias em outros estados e comprar um remédio pa",
+        "image": "https://s2-g1.glbimg.com/kKb_5OpCHVIEA-F66bMzxzkobQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/8/zTXzXKRHaz6lRu9z7NfQ/eptv1-0710-falta-remedi-cp004izb-2026-10-07-12-15-20.mxf-snapshot-00.49.812.jpg",
         "date": "07 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
       },
       {
-        "title": "Gato perde visão de um olho após ser encontrado ferido em rua de Campinas; polícia investiga",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/07/gato-perde-visao-de-um-olho-apos-ser-encontrado-ferido-em-rua-de-campinas-policia-investiga.ghtml",
-        "summary": "Gato perde visão de um olho após ser encontrado ferido em rua de Campinas; polícia investiga Lílian Lima/Arquivo pessoal A Polícia Civil investiga uma suspeita de maus-tratos contra um gato em Campinas (SP). O caso foi r",
-        "image": "https://s2-g1.glbimg.com/-vJpI5nzTP1W_oKZF7PbbNjruow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/I/d79fFXTGAiWaBUH32ElA/whatsapp-image-2026-10-07-at-11.44.06.jpeg",
+        "title": "Caminhão atinge estrutura de viaduto e provoca interdição em Americana",
+        "link": "https://jornalamericanense.com.br/policia/caminhao-atinge-estrutura-de-viaduto-e-provoca-interdicao-em-americana/",
+        "summary": "GAMA bloqueou os acessos na manhã desta quarta-feira; Defesa Civil e Secretaria de Obras foram acionadas para avaliar os danos Um caminhão atingiu a parte superior da estrutura de um viaduto enquanto trafegava pela Aveni",
+        "image": null,
         "date": "07 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
-        "title": "Fornecedor de caça-níqueis alvo de operação em Campinas usava pendrives para disfarçar máquinas de apostas, diz PM",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/07/fornecedor-de-caca-niqueis-alvo-de-operacao-em-campinas-usava-pendrives-para-disfarcar-maquinas-de-apostas-diz-pm.ghtml",
-        "summary": "Fornecedor de caça-níqueis alvo de operação em Campinas usava pendrives para disfarçar máquinas de apostas, diz PM Baep Pendrives usados para transformar computadores em máquinas caça-níqueis foram apreendidos nesta quar",
-        "image": "https://s2-g1.glbimg.com/1iF-7PAxKfoN3zghLzmLTG4NovU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/w/2bHQ3WQ2ue2JfTVEBHPQ/operacao-infortunio.png",
+        "title": "Secretário de Saúde de Nova Odessa é alvo de operação contra fraude e lavagem de dinheiro",
+        "link": "https://jornalamericanense.com.br/policia/secretario-de-saude-de-nova-odessa-e-alvo-de-operacao-contra-fraude-e-lavagem-de-dinheiro/",
+        "summary": "Operação Sangria cumpre nove mandados em quatro cidades e investiga suspeitas de irregularidades em contrato da saúde; Lucas Bento da Silva Isepon é investigado. A Polícia Civil deflagrou nesta quarta-feira (7) a Operaçã",
+        "image": null,
         "date": "07 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
-        "title": "VÍDEO: motociclista 'voa' após ser atingido por carro em avenida de Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/10/07/video-motociclista-voa-apos-ser-atingido-por-carro-em-avenida-de-campinas.ghtml",
-        "summary": "Acidente entre carro e moto deixa motociclista ferido em Campinas Um jovem de 19 anos ficou ferido após ser atingido por um carro, na manhã desta quarta-feira (7), em Campinas (SP). O acidente aconteceu no cruzamento da ",
-        "image": "https://s2-g1.glbimg.com/M_BI9nWiya-1ICBPaWh-DPBG01w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/ftyygrTNuahGe9IGqPLA/voa-moto.png",
+        "title": "Justiça mantém presidente da Câmara de Sumaré preso por mais 30 dias em investigação sobre tráfico",
+        "link": "https://jornalamericanense.com.br/policia/justica-mantem-presidente-da-camara-de-sumare-preso-por-mais-30-dias-em-investigacao-sobre-trafico/",
+        "summary": "Hélio Silva é investigado por suspeita de financiar compra e distribuição de drogas; decisão também prorroga prisão de outro suspeito A Justiça prorrogou por mais 30 dias a prisão temporária do presidente da Câmara Munic",
+        "image": null,
         "date": "07 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mesmo preso, presidente da Câmara de Sumaré recebe 1,9 mil votos e fica suplente de deputado federal",
-        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/07/mesmo-preso-presidente-da-camara-de-sumare-recebe-19-mil-votos-e-fica-suplente-de-deputado-federal.ghtml",
-        "summary": "Prisão de vereador e presidente da Câmara de Sumaré é prorrogada por mais 30 dias Hélio Silva (Cidadania), presidente da Câmara Municipal de Sumaré (SP), recebeu 1.981 votos na disputa por uma vaga na Câmara dos Deputado",
-        "image": "https://s2-g1.glbimg.com/0CzpN1aVR9c80DXsiRyMKn3Yf0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/g/6UlBVaQSu3fMfL6SOKPw/helio.png",
-        "date": "07 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "EPTV 1 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-1-ao-vivo.ghtml",
-        "summary": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
-        "date": "07 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "URGENTE: DISE estoura laboratório de drogas em Campinas durante operação em três cidades",
@@ -93,39 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Exame de sangue capaz de detectar sinais de mais de 50 tipos de câncer chega ao Brasil",
-        "link": "https://jornalamericanense.com.br/saude/exame-de-sangue-capaz-de-detectar-sinais-de-mais-de-50-tipos-de-cancer-chega-ao-brasil/",
-        "summary": "Um novo exame de sangue capaz de identificar sinais associados a mais de 50 tipos de câncer passou a ser oferecido no Brasil. O teste, chamado Galleri, é considerado o primeiro exame comercial de detecção precoce multicâ",
-        "image": null,
-        "date": "07 de out. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "PF descobre esquema de PMs e ex-PMs que vendia fuzis para facções e prende envolvidos",
-        "link": "https://jornalamericanense.com.br/policia/pf-descobre-esquema-de-pms-e-ex-pms-que-vendia-fuzis-para-faccoes-e-prende-envolvidos/",
-        "summary": "A Polícia Federal deflagrou, na manhã desta quarta-feira (7), a Operação Magen, contra um grupo criminoso suspeito de atuar na venda ilegal de armas, lavagem de dinheiro e vazamento de informações sigilosas da segurança ",
-        "image": null,
-        "date": "07 de out. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Macaco-prego invade casas, bebe álcool, toma remédios e agride moradores em Salvador",
-        "link": "https://jornalamericanense.com.br/policia/macaco-prego-invade-casas-bebe-alcool-toma-remedios-e-agride-moradores-em-salvador/",
-        "summary": "Um macaco-prego invadiu diversas casas de um condomínio na região da Avenida Paralela, em Salvador (BA), na segunda-feira (5), e deixou cinco pessoas feridas durante uma sequência de ataques. O animal também teria ingeri",
-        "image": null,
-        "date": "07 de out. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Congresso terá sete em cada dez parlamentares contra agenda ambiental",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/congresso-tera-sete-em-cada-dez-parlamentares-contra-agenda-ambiental",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/congresso-tera-sete-em-cada-dez-parlamentares-contra-agenda-ambiental img src= https://cdn.jsdelivr.net/gh/sergi",
+        "title": "5º leilão do Eco Invest atrai quase R$ 50 bi para investimentos verdes",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/5o-leilao-do-eco-invest-atrai-quase-r-50-bi-para-investimentos-verdes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/5o-leilao-do-eco-invest-atrai-quase-r-50-bi-para-investimentos-verdes img src= https://cdn.jsdelivr.net/gh/sergi",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Goiás passa a ter mosaico de áreas protegidas na Serra dos Pireneus",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/goias-passa-ter-mosaico-de-areas-protegidas-na-serra-dos-pireneus",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/goias-passa-ter-mosaico-de-areas-protegidas-na-serra-dos-pireneus img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "title": "Produção de veículos tem melhor setembro desde 2014, diz Anfavea",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/producao-de-veiculos-tem-melhor-setembro-desde-2014-diz-anfavea",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/producao-de-veiculos-tem-melhor-setembro-desde-2014-diz-anfavea img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Confira a agenda dos presidenciáveis nesta quarta-feira (7)",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-7",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-7 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "title": "Após 2 vitórias, Calderano encara alemão nesta quinta no China Smash",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/apos-2-vitorias-calderano-encara-alemao-nesta-quinta-no-china-smash",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/apos-2-vitorias-calderano-encara-alemao-nesta-quinta-no-china-smash img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "OMS lança guia para enfrentar obesidade em crianças e adolescentes",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/oms-lanca-guia-para-enfrentar-obesidade-em-criancas-e-adolescentes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/oms-lanca-guia-para-enfrentar-obesidade-em-criancas-e-adolescentes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "title": "PCCE indicia namorado de Isabelle Caracristi por violência psicológica",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/pcce-indicia-namorado-de-isabelle-caracristi-por-violencia-psicologica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/pcce-indicia-namorado-de-isabelle-caracristi-por-violencia-psicologica img src= https://cdn.jsdelivr.net/gh/s",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Festival de Cinema Colombiano começa nesta quarta em São Paulo",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-de-cinema-colombiano-comeca-nesta-quarta-em-sao-paulo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-de-cinema-colombiano-comeca-nesta-quarta-em-sao-paulo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/melhor-investimento-em-saude-pode-evitar-739-mil-mortes-no-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/melhor-investimento-em-saude-pode-evitar-739-mil-mortes-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "MPRJ recomenda que partida entre Vasco e Boca Juniors seja no Maracanã",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mprj-recomenda-que-partida-entre-vasco-e-boca-juniors-seja-no-maracana",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mprj-recomenda-que-partida-entre-vasco-e-boca-juniors-seja-no-maracana img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "STF deve julgar revisão da condenação de Bolsonaro após eleições",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-deve-julgar-revisao-da-condenacao-de-bolsonaro-apos-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-deve-julgar-revisao-da-condenacao-de-bolsonaro-apos-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Santos fecha patrocínio com programa de benefícios ao torcedor que pode render R$ 50 milhões",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-patrocinio-torcedor-premiado-50-milhoes/",
-        "summary": "Santos acertou patrocínio com o Torcedor Premiado até o fim de 2027. Programa oferece benefícios aos torcedores e pode gerar cerca de R$ 50 milhões ao clube, dependendo da adesão dos santistas. O post Santos fecha patroc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55564817137_0a29149864_3k.webp",
+        "title": "Com Neymar e Bontempo, Santos divulga relacionados para enfrentar o Flamengo",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-flamengo-relacionados-neymar-bontempo/",
+        "summary": "Santos divulgou os relacionados para enfrentar o Flamengo pelo Brasileirão. Neymar volta após lesão, enquanto Bontempo e Luan Peres também retornam ao time. O post Com Neymar e Bontempo, Santos divulga relacionados para ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55574971161_d6560b52c5_3k.webp",
         "date": "07 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Russell receberá punição no grid do GP de Singapura após troca de motor",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/russell-punicao-grid-gp-singapura-mercedes/",
-        "summary": "A Mercedes confirmou que George Russell receberá uma punição no grid do GP de Singapura após a equipe precisar trocar componentes da unidade de potência de seu carro. A mudança foi antecipada depois do problema que provo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261003__D24W9NN__v1__HighRes__AutoPrixF1BrnMas.webp",
+        "title": "Corinthians terá mudança tática e volta de Yuri Alberto contra o Inter; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-escalacao-internacional-yuri-alberto/",
+        "summary": "O Corinthians está escalado para enfrentar o Internacional pela 29ª rodada do Campeonato Brasileiro, em confronto direto na luta contra o rebaixamento. A principal novidade é o retorno de Yuri Alberto, recuperado de lesã",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HUDhMr2XcAAzFLI.webp",
         "date": "07 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Torcida do Santos esgota ingressos para o jogo contra o Flamengo na Vila Belmiro",
-        "link": "https://www.gazetaesportiva.com/times/santos/ingressos-santos-flamengo-esgotados-vila-belmiro/",
-        "summary": "A torcida do Santos esgotou os ingressos para o confronto contra o Flamengo, nesta quinta-feira, na Vila Belmiro. Clube explicou a alta procura e admite liberar nova carga em caso de desistências. O post Torcida do Santo",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55525067403_c8790467ad_3k.webp",
+        "title": "Sem Léo Ortiz, Flamengo terá Pedro e Lino contra o Santos; veja relacionados",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/sem-leo-ortiz-flamengo-tera-pedro-e-lino-contra-o-santos-veja-relacionados/",
+        "summary": "O Flamengo divulgou a lista de relacionados para o duelo contra o Santos, nesta quinta-feira, às 19h30, na Vila Belmiro, pela 29ª rodada do Campeonato Brasileiro. A principal novidade é o retorno de Pedro e Samuel Lino, ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HUCqss6WMAET2ga.webp",
         "date": "07 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Após proibição das bets, Inter define nova patrocinadora máster para jogos contra Corinthians e Grêmio",
-        "link": "https://www.gazetaesportiva.com/times/internacional/apos-proibicao-das-bets-inter-define-nova-patrocinadora-master-para-jogos-contra-corinthians-e-gremio/",
-        "summary": "O Internacional anunciou a Shopee como patrocinadora máster para os jogos contra Corinthians e Grêmio, pelo Campeonato Brasileiro. O acordo acontece após o clube passar meses sem uma marca fixa no espaço nobre da camisa ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55447671138_02af3d6471_k.webp",
+        "title": "Messi e o dia seguinte: Já sinto falta de vestir a celeste e branca",
+        "link": "https://www.gazetaesportiva.com/messi/messi-e-o-dia-seguinte-ja-sinto-falta-de-vestir-a-celeste-e-branca/",
+        "summary": "Um dia após sua emocionante despedida da seleção argentina, Lionel Messi revelou que já sente falta de vestir a camisa da Albiceleste. O craque de 39 anos encerrou sua trajetória pela seleção com um gol na vitória por 3 ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261007__D2FM34G__v4__HighRes__TopshotFblFriendlyArgBen.webp",
         "date": "07 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Gustavo Silva valoriza sequência invicta do Mirassol antes de reta final do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/mirassol/mirassol-invicto-reta-final-brasileirao/",
-        "summary": "O Mirassol chega embalado para a reta final do Campeonato Brasileiro. Invicto há três partidas, com duas vitórias e um empate, o Leão aproveitou o período sem jogos para intensificar os trabalhos com a comissão técnica. ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/WhatsApp-Image-2026-10-07-at-10.21.39.webp",
+        "title": "Com um a menos, Palmeiras toma três do Atlético-MG e se complica nas quartas do Brasileiro sub-17",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-atletico-mg-3x0-quartas-brasileirao-sub17/",
+        "summary": "O Palmeiras foi derrotado por 3 a 0 pelo Atlético-MG nesta quarta-feira (7), na Arena MRV, em Belo Horizonte, pelo jogo de ida das quartas de final do Brasileirão Sub-17. O Verdão teve Lucas Silva expulso logo aos quatro",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55575503663_cb587859e1_o.webp",
         "date": "07 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Arsenal confirma a renovação do contrato com o técnico Mikel Arteta; veja detalhes",
-        "link": "https://www.gazetaesportiva.com/times/arsenal/arsenal-renova-mikel-arteta-2030/",
-        "summary": "O Arsenal anunciou nesta quarta-feira a renovação de contrato do técnico Mikel Arteta até junho de 2030. No comando dos Gunners desde dezembro de 2019, o espanhol teve seu trabalho valorizado após levar a equipe ao títul",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/1100096298f8-dsc2430wjm48ygs-2.webp",
+        "title": "Lucas avança em recuperação e participa de coletivo com sub-17 do São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/lucas-avanca-em-recuperacao-e-participa-de-coletivo-com-sub-17-do-sao-paulo/",
+        "summary": "Lucas Moura deu mais um passo em sua recuperação nesta quarta-feira ao participar de um coletivo com a equipe sub-17 do São Paulo, em Cotia. Enquanto o elenco principal enfrenta o Cruzeiro pelo Brasileirão, o atacante pe",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HUC_RWtWcAANdoA222.webp",
         "date": "07 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -246,6 +246,46 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Produção de veículos tem melhor setembro desde 2014, diz Anfavea",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/producao-de-veiculos-tem-melhor-setembro-desde-2014-diz-anfavea",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/producao-de-veiculos-tem-melhor-setembro-desde-2014-diz-anfavea img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "07 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Bets começam a informar bancos sobre R$ 1,3 bilhão a devolver",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bets-comecam-informar-bancos-sobre-r-13-bilhao-devolver",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bets-comecam-informar-bancos-sobre-r-13-bilhao-devolver img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
+        "image": null,
+        "date": "07 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Receita envia cartas a 498 mil que estão na malha fina até o dia 20",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-envia-cartas-498-mil-que-estao-na-malha-fina-ate-o-dia-20",
+        "summary": "p Os contribuintes que tiveram a Declaração do Imposto de Renda da Pessoa Física (DIRPF) 2026 retida na malha fina começaram a ser avisados pelo Fisco. A strong Receita Federal está encaminhando os avisos em lotes semana",
+        "image": null,
+        "date": "07 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Maior leilão do pré-sal termina com sete dos 13 blocos arrematados",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/maior-leilao-do-pre-sal-termina-com-sete-dos-13-blocos-arrematados",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/maior-leilao-do-pre-sal-termina-com-sete-dos-13-blocos-arrematados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "07 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Aneel adia discussão sobre fim de contrato com a Enel em São Paulo",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aneel-adia-discussao-sobre-fim-de-contrato-com-enel-em-sao-paulo",
@@ -267,109 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Previsão de superávit comercial de 2026 cai para US$ 84,4 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-comercial-de-2026-cai-para-us-844-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-comercial-de-2026-cai-para-us-844-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "06 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Cerca de 13,2 mil sites de bets ilegais são bloqueados",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cerca-de-132-mil-sites-de-bets-ilegais-sao-bloqueados",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cerca-de-132-mil-sites-de-bets-ilegais-sao-bloqueados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "06 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Dólar fecha abaixo de R$ 5 pela primeira vez desde maio",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-pela-primeira-vez-desde-maio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-pela-primeira-vez-desde-maio img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
-        "image": null,
-        "date": "06 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Balança comercial tem superávit de US$ 7,74 bilhões em setembro",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "06 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "GPA (PCAR3) tem plano de recuperação extrajudicial homologado pela Justiça",
-        "link": "https://www.infomoney.com.br/business/gpa-pcar3-tem-plano-de-recuperacao-extrajudicial-homologado-pela-justica/",
-        "summary": "Plano recebeu adesão de credores que representam 57,49% dos créditos e prevê alongamento do passivo, novas debêntures e captação de R$ 200 milhões The post GPA (PCAR3) tem plano de recuperação extrajudicial homologado pe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/Imagem-divulgação_Pão-de-Açúcar-2-1170x750.jpg?fit=300%2C192&amp;quality=70&amp;strip=all",
+        "title": "Renda fixa e FIDCs lideram aplicações de fundos no ano",
+        "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-e-fidcs-lideram-aplicacoes-de-fundos-no-ano/",
+        "summary": "Fundos de recebíveis são destaque de crescimento no ano e Anbima vai colocar em audiência regras para aumentar a transparência das carteiras The post Renda fixa e FIDCs lideram aplicações de fundos no ano appeared first ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/previdencia-privada-aposentadoria-dinheiro-cofrinho-Gerd-Altmann-Pixabay.jpg?fit=300%2C129&amp;quality=70&amp;strip=all",
         "date": "07 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Flávio rebate Lula sobre 6 1 e diz que folga não adianta com trabalhador desempregado",
-        "link": "https://www.infomoney.com.br/politica/flavio-rebate-lula-sobre-6x1-e-diz-que-folga-nao-adianta-com-trabalhador-desempregado/",
-        "summary": "Presidente tem dito que candidato do PL era contra proposta e discussão no Senado The post Flávio rebate Lula sobre 6 1 e diz que folga não adianta com trabalhador desempregado appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-05T010929Z_141282366_RC2OWNAD5M3S_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
+        "title": "Onde assistir Botafogo x Vasco pelo Brasileirão?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-botafogo-vasco-brasileirao/",
+        "summary": "O confronto clássico fluminense é válido pela 29ª rodada do campeonato The post Onde assistir Botafogo x Vasco pelo Brasileirão? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-botafogo-x-vasco-da-gama.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "07 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Integrantes do PP e União se reúnem com Flávio e dizem que apoio é incondicional",
-        "link": "https://www.infomoney.com.br/politica/integrantes-do-pp-e-uniao-se-reunem-com-flavio-e-dizem-que-apoio-e-incondicional/",
-        "summary": "Aliados de Flávio prometeram mobilizar seus partidos em torno de apoio para o 2º turno The post Integrantes do PP e União se reúnem com Flávio e dizem que apoio é incondicional appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-06T154720Z_2077252859_RC2RXNAR0SDC_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Taxas longas têm leves altas puxadas pelo exterior, mas eleição segue no foco",
+        "link": "https://www.infomoney.com.br/mercados/taxas-longas-tem-leves-altas-puxadas-pelo-exterior-mas-eleicao-segue-no-foco/",
+        "summary": "Curva foi influenciada pelos rendimentos dos Treasuries de longo prazo, que subiram, e pelos preços do petróleo The post Taxas longas têm leves altas puxadas pelo exterior, mas eleição segue no foco appeared first on Inf",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/daniel-dan-e9Wg7U04Nl0-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Tarcísio, sobre Flávio mudar Constituição: existem algumas mudanças necessárias",
-        "link": "https://www.infomoney.com.br/politica/tarcisio-sobre-flavio-mudar-constituicao-existem-algumas-mudancas-necessarias/",
-        "summary": "Governador disse que o Congresso eleito deve ser um 'facilitador' para isso The post Tarcísio, sobre Flávio mudar Constituição: existem algumas mudanças necessárias appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/438750200.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa fecha em queda de 0,74%, a 204 mil pontos, com exterior e eleições no foco",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-de-074-a-204-mil-pontos-com-exterior-e-eleicoes-no-foco/",
+        "summary": "A bolsa brasileira acompanhou a tendência das principais praças acionárias globais, que fecharam no campo negativo The post Ibovespa fecha em queda de 0,74%, a 204 mil pontos, com exterior e eleições no foco appeared fir",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/acoes-mercado-bolsa-baixa-queda-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como é feita a apuração dos votos nas eleições?",
-        "link": "https://www.infomoney.com.br/politica/como-e-feita-a-apuracao-dos-votos-nas-eleicoes/",
-        "summary": "Resultado do 1º turno já está disponível para conferência no aplicativo oficial do TSE The post Como é feita a apuração dos votos nas eleições? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "GPA (PCAR3): ação sobe 4% após tribunal homologar plano de recuperação extrajudicial",
+        "link": "https://www.infomoney.com.br/mercados/gpa-pcar3-acao-salta-apos-tribunal-homologar-plano-de-recuperacao-extrajudicial/",
+        "summary": "O GPA teve a adesão de credores titulares de 57,49% dos ‌Créditos Sujeitos, percentual ​superior à maioria exigida, segundo o documento The post GPA (PCAR3): ação sobe 4% após tribunal homologar plano de recuperação extr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2023/07/Sede-GPA.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "07 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Goldman: Flávio é favorito, mas mercado agora cobrará fiscal e equipe econômica",
-        "link": "https://www.infomoney.com.br/mercados/goldman-ve-flavio-favorito-mas-ve-mercado-agora-cobrando-fiscal-e-equipe-economica/",
-        "summary": "Banco destaca avanço da direita no Congresso e condições de governabilidade mais favoráveis; pesquisas do 2º turno, Ministério da Fazenda e plano fiscal entram no radar The post Goldman: Flávio é favorito, mas mercado ag",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-11T200624Z_1_LYNXMPEM7A1GS_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Bolsas de NY fecham em queda afetadas por mercado de títulos, petróleo e ata do Fed",
+        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-queda-afetadas-por-mercado-de-titulos-petroleo-e-ata-do-fed/",
+        "summary": "O Dow Jones caiu 0,66%, em 51.179,87 pontos; o S P teve baixa de 0,22%, a 7.801,77 pontos, e o Nasdaq recuou 0,22%, encerrando em 27.538,69 pontos The post Bolsas de NY fecham em queda afetadas por mercado de títulos, pe",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/wall-street-IA-3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "07 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Apoio do Republicanos a Flávio tem aval da maioria dos diretórios da sigla",
-        "link": "https://exame.com/brasil/apoio-do-republicanos-a-flavio-tem-aval-da-maioria-dos-diretorios-da-sigla/",
-        "summary": "A sigla confirmou que Marcos Pereira, presidente do partido, fará um pronunciamento às 18h em Brasília. Aliados confirmaram que \"a maioria\" apoiou a decisão",
+        "title": "'A Fazenda 18': Ariela é a mais votada e deixa sede sem água; veja como foi a formação da Roça",
+        "link": "https://exame.com/pop/a-fazenda-18-ariela-e-a-mais-votada-e-deixa-sede-sem-agua-veja-como-foi-a-formacao-da-roca/",
+        "summary": "Influenciadora foi o principal alvo da sede na formação da terceira Roça e, após a votação, provocou uma nova punição para os peões.",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "78% dos fãs de séries e games seguem engajados após o pico de audiência",
-        "link": "https://exame.com/bussola/78-dos-fas-de-series-e-games-seguem-engajados-apos-o-pico-de-audiencia/",
-        "summary": "Nestlé e Netflix já testam estratégias que transformam comunidades de fãs em espaços de conteúdo, produtos e ativações",
+        "title": "'Run BTS! 2.0': veja quando estreia o segundo episódio da série sobre BTS",
+        "link": "https://exame.com/pop/run-bts-2-0-veja-quando-estreia-o-segundo-episodio-da-serie-sobre-bts/",
+        "summary": "Segundo episódio da nova fase foi gravado em Toronto e terá os sete integrantes do BTS em novas brincadeiras e desafios",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fundos imobiliários subiram com a eleição. Vale a pena investir antes do 2º turno?",
-        "link": "https://exame.com/invest/mercados/fundos-imobiliarios-subiram-com-a-eleicao-vale-a-pena-investir-antes-do-2o-turno/",
-        "summary": "Só entre o dia 5 e 6 de outubro, o IFIX subiu 3,63%, reflexo do primeiro turno, com Flávio Bolsonaro (PL) à frente",
+        "title": "Banana escurece após o corte? Cientistas criam versão que fica amarela por mais tempo",
+        "link": "https://exame.com/ciencia/banana-escurece-apos-o-corte-cientistas-criam-versao-que-fica-amarela-por-mais-tempo/",
+        "summary": "Variedade criada com edição genética pode levar até dois dias a mais para escurecer e já recebeu autorização para comercialização no Brasil",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ciclone Extratropical: Por que o Sul do Brasil terá sequência de temporais e quais serão os riscos?",
-        "link": "https://exame.com/ciencia/ciclone-extratropical-por-que-o-sul-do-brasil-tera-sequencia-de-temporais-e-quais-serao-os-riscos/",
-        "summary": "Chuva forte, granizo e rajadas acima de 90 km/h estão previstas nos próximos dias; ciclone deve se formar entre o Rio Grande do Sul e o Uruguai no sábado, 10",
+        "title": "Quem é Ariela Carasso, ex-'Casamento às Cegas' e alvo de 11 votos em 'A Fazenda 18'?",
+        "link": "https://exame.com/pop/quem-e-ariela-carasso-ex-casamento-as-cegas-e-alvo-de-11-votos-em-a-fazenda-18/",
+        "summary": "Participante foi a mais votada da casa e puxou Thaíde para a berlinda após a formação da terceira Roça da temporada",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "No Pré-COP, países insulares pressionam por proteção de territórios ameaçados pelo avanço do mar",
-        "link": "https://exame.com/esg/no-pre-cop-paises-insulares-pressionam-por-protecao-de-territorios-ameacados-pelo-avanco-do-mar/",
-        "summary": "Encontro que acontece em Fiji e Tuvalu antecede a COP31, em Antália, e lançou a declaração Taku Pakasoa com foco em soberania, direitos marítimos e financiamento climático",
+        "title": "Crânios de 5 mil anos revelam pistas de 'ritual macabro' entre servos de reis do Egito",
+        "link": "https://exame.com/ciencia/cranios-de-5-mil-anos-revelam-pistas-de-ritual-macabro-entre-servos-de-reis-do-egito/",
+        "summary": "Pesquisadora encontrou traumas potencialmente fatais em 18 dos 46 indivíduos analisados e reforçou uma hipótese debatida há mais de um século",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "GTA 6 no Xbox Cloud Gaming? Microsoft esclarece se o jogo funcionará ou não neste serviço",
-        "link": "https://exame.com/pop/gta-6-no-xbox-cloud-gaming-microsoft-esclarece-se-o-jogo-funcionara-ou-nao-neste-servico/",
-        "summary": "Novo jogo da Rockstar chegará aos consoles em novembro de 2026",
+        "title": "Coins.xyz se prepara para pedir licença ao BC enquanto vê demanda por real em cripto",
+        "link": "https://exame.com/future-of-money/coins-xyz-se-prepara-para-pedir-licenca-ao-bc-enquanto-ve-demanda-por-real-em-cripto/",
+        "summary": "Empresa filipina foca em pagamentos internacionais com stablecoins para empresas que possuem negócios no Brasil",
         "image": null,
         "date": "07 de out. de 2026",
         "source": "Exame",
