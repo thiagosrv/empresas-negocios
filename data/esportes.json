@@ -1,51 +1,7 @@
 {
-  "updated": "2026-10-07T16:28:07.095Z",
+  "updated": "2026-10-07T21:58:26.362Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Jornais argentinos reverenciam Messi após despedida da Seleção",
-      "link": "https://www.gazetaesportiva.com/times/argentina/despedida-messi-imprensa-argentina-capitao/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "07 de out. de 2026",
-      "isoDate": "2026-10-07",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Bellingham chama Kane de cara incrível e fala sobre suas chances na Bola de Ouro",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/bellingham-chama-kane-de-cara-incrivel-e-fala-sobre-suas-chances-na-bola-de-ouro/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "07 de out. de 2026",
-      "isoDate": "2026-10-07",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Melhores momentos: Chicago Fire FC 3 x 1 Vancouver pela MLS",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-chicago-fire-fc-3-x-1-vancouver-pela-mls/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "07 de out. de 2026",
-      "isoDate": "2026-10-07",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
-    },
-    {
-      "title": "Kane fala sobre recorde de jogos pela Inglaterra e marca de 90 gols",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/kane-fala-sobre-recorde-de-jogos-pela-inglaterra-e-marca-de-90-gols/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "07 de out. de 2026",
-      "isoDate": "2026-10-07",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
-    },
     {
       "title": "De la Fuente acredita que Merino é mais valorizado no exterior",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/de-la-fuente-acredita-que-merino-e-mais-valorizado-no-exterior/",
@@ -55,7 +11,7 @@
       "isoDate": "2026-10-07",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Beraldo fala sobre renovação de contrato com o PSG",
@@ -66,7 +22,7 @@
       "isoDate": "2026-10-07",
       "category": "Mercado",
       "categoryColor": "#e67e22",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Pedro, ex-Barcelona e Chelsea, anuncia aposentadoria do futebol aos 39 anos",
@@ -91,6 +47,72 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/270d.png"
     },
     {
+      "title": "Diego Costa completa 36 anos: relembre alguns gols do ex-atacante pelo Chelsea",
+      "link": "https://www.gazetaesportiva.com/times/chelsea/diego-costa-completa-36-anos-relembre-alguns-gols-do-ex-atacante-pelo-chelsea/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "07 de out. de 2026",
+      "isoDate": "2026-10-07",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Ídolo do Manchester City deixa aposentadoria e volta ao futebol aos 40 anos",
+      "link": "https://www.gazetaesportiva.com/times/manchester-city/idolo-do-manchester-city-deixa-aposentadoria-e-volta-ao-futebol-aos-40-anos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "07 de out. de 2026",
+      "isoDate": "2026-10-07",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Messi celebra Maradona em despedida, e Cristiano manda recado: “Todo meu respeito”",
+      "link": "https://www.gazetaesportiva.com/times/argentina/messi-maradona-despedida-argentina-cristiano-ronaldo/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "07 de out. de 2026",
+      "isoDate": "2026-10-07",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_5296.webp"
+    },
+    {
+      "title": "Messi e o dia seguinte: &#8216;Já sinto falta de vestir a celeste e branca&#8217;",
+      "link": "https://www.gazetaesportiva.com/messi/messi-e-o-dia-seguinte-ja-sinto-falta-de-vestir-a-celeste-e-branca/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "07 de out. de 2026",
+      "isoDate": "2026-10-07",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Dida completa 53 anos: relembre a carreira do ex-goleiro em fotos",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/dida-completa-53-anos-relembre-a-carreira-do-goleiro-em-fotos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "07 de out. de 2026",
+      "isoDate": "2026-10-07",
+      "category": "Brasileirão",
+      "categoryColor": "#27ae60",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Seleções de base visitam clubes durante intercâmbio na Europa",
+      "link": "https://www.gazetaesportiva.com/times/brasil/cbf-intercambio-europa-observacao-atletas-base/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "07 de out. de 2026",
+      "isoDate": "2026-10-07",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+    },
+    {
       "title": "Ex-goleiro da Seleção Brasileira critica Hugo Souza e valoriza Otávio",
       "link": "https://www.gazetaesportiva.com/times/brasil/ex-goleiro-da-selecao-brasileira-critica-hugo-souza-e-valoriza-otavio/",
       "source": "Gazeta Esportiva",
@@ -99,7 +121,7 @@
       "isoDate": "2026-10-06",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Portugal ganha posições com Jorge Jesus e ultrapassa Brasil no ranking da Fifa",
@@ -110,7 +132,7 @@
       "isoDate": "2026-10-05",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Bastidores da goleada do Brasil contra a Índia",
@@ -121,7 +143,7 @@
       "isoDate": "2026-10-05",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Caras novas e velhos problemas para o Brasil de Ancelotti",
@@ -133,28 +155,6 @@
       "category": "Seleção",
       "categoryColor": "#f1c40f",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f49a.png"
-    },
-    {
-      "title": "Veja como foi a data Fifa do trio do Corinthians com a Seleção Brasileira",
-      "link": "https://www.gazetaesportiva.com/times/corinthians/trio-corinthians-selecao-brasileira-data-fifa/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "04 de out. de 2026",
-      "isoDate": "2026-10-04",
-      "category": "Seleção",
-      "categoryColor": "#f1c40f",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ee-1f1f3.png"
-    },
-    {
-      "title": "Ancelotti revela planos para próxima convocação do Brasil: “Quero ver outros jovens”",
-      "link": "https://www.gazetaesportiva.com/times/brasil/ancelotti-revela-planos-para-proxima-convocacao-do-brasil-quero-ver-outros-jovens/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "04 de out. de 2026",
-      "isoDate": "2026-10-04",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ee-1f1f3.png"
     },
     {
       "title": "Com brilho de joias de Santos e Palmeiras, Seleção sub-20 goleia o México",
@@ -176,7 +176,7 @@
       "isoDate": "2026-10-04",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
