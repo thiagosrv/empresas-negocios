@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-15T05:42:02.191Z",
+  "updated": "2026-10-15T11:07:02.088Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Assista ao Bom Dia Cidade Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "date": "15 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Com alta de tomate, batata, arroz e carne, cesta básica volta a subir em Campinas e fica perto do recorde histórico",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/15/com-alta-de-tomate-batata-arroz-e-carne-cesta-basica-volta-a-subir-em-campinas-e-fica-perto-do-recorde-historico.ghtml",
+        "summary": "Interior de São Paulo teve papel vital no desenvolvimento da indústria do tomate no Brasil Eduardo Ribeiro Jr./g1 Com tomate, batata, arroz e carne mais caros, o valor da cesta básica voltou a subir em Campinas (SP) e ch",
+        "image": "https://s2-g1.glbimg.com/aGn90gfrUXFT3UBp_W4cM2Mfwn8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/j/ysRoigTSm8qwVGvBlFmw/tomate-sorocaba.jpg",
+        "date": "15 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Unicamp 2027: veja como foi o plantão tira-dúvidas",
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/unicamp-2027-g1-tira-duvidas-vestibular.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/14/primeiro-carro-100percent-eletrico-da-volkswagen-comeca-a-ser-vendido-no-brasil-nesta-quinta.ghtml",
         "summary": "ID.4, primeiro carro 100% elétrico da Volkswagen a ser vendido no Brasil Volkswagen/Divulgação A Volkswagen lança nesta quinta-feira (15) o ID.4, primeiro carro 100% elétrico da marca a ser vendido no Brasil. O president",
         "image": "https://s2-g1.glbimg.com/XEPpnvd2BO9sZFJxw7HifYXy2yo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/MsMBptT9WFAILiMB0hEA/4af2bbf9-9ca0-4548-9bf7-bec03be26ac6.jpeg",
-        "date": "14 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Carro cai em ribanceira e para 400 metros distante de rodovia no interior de SP",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/14/carro-cai-em-ribanceira-e-para-400-metros-distante-de-rodovia-no-interior-de-sp.ghtml",
-        "summary": "Carro cai em ribanceira e para 400 metros distante de rodovia no interior de SP Um carro caiu em uma ribanceira às margens da Rodovia Enzo Perondini, que liga Monte Alegre do Sul (SP) a Serra Negra (SP), na tarde desta q",
-        "image": "https://s2-g1.glbimg.com/qWRLUPVDeT4NQS_CUFJx-XjjiqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/2YpRcuTFiAzBJGoWGdAg/design-sem-nome-2026-10-14t173224.592.jpg",
-        "date": "14 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "De virologia a gramática: saiba como diferentes temas podem cair na 1ª fase do vestibular da Unicamp",
-        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/14/vestibulou-g1-faz-plantao-tira-duvidas-antes-da-1a-fase-do-vestibular-da-unicamp.ghtml",
-        "summary": "De virologia a gramática: saiba como diferentes temas podem cair na 1ª fase do vestibular da Unicamp Reprodução/g1 A poucos dias da primeira fase do Vestibular 2027 da Unicamp, o g1 Campinas realizou, nesta quarta-feira ",
-        "image": "https://s2-g1.glbimg.com/cv_xxhHa9xOGZ8CW7-79Y_Eiiak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/f/xJBW3bSbmSxDB8R9I83g/tira-duvidas.png",
         "date": "14 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Rádio Nacional transmite Estudiantes x Flamengo pela Libertadores",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/radio-nacional-transmite-estudiantes-x-flamengo-pela-libertadores",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/radio-nacional-transmite-estudiantes-x-flamengo-pela-libertadores img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "15 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Canal Exército do Lula volta ao ar após registro no TSE",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/canal-exercito-do-lula-volta-ao-ar-apos-registro-no-tse",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/canal-exercito-do-lula-volta-ao-ar-apos-registro-no-tse img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
@@ -171,19 +181,70 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Senado aprova fim da escala 6x1 e redução da jornada de trabalho",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "15 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
-    "esportes": [],
+    "esportes": [
+      {
+        "title": "Melhores momentos: Flamengo 4 x 1 Criciúma pela Copa do Brasil sub-20",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-flamengo-4-x-1-criciuma-pela-copa-do-brasil-sub-20/",
+        "summary": "Melhores momentos: Flamengo 4 x 1 Criciúma pela Copa do Brasil sub-20 O post Melhores momentos: Flamengo 4 x 1 Criciúma pela Copa do Brasil sub-20 apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/fote.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Auxiliar de Abel evitar cravar data para retorno de Vitor Roque no Palmeiras: Avaliar dia a dia",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/auxiliar-de-abel-evitar-cravar-data-para-retorno-de-vitor-roque-no-palmeiras-avaliar-dia-a-dia/",
+        "summary": "Vitor Roque virou desfalque do Palmeiras para o jogo de ida da semifinal da Copa Libertadores após sofrer uma entorse no tornozelo esquerdo durante a vitória sobre o Corinthians, no último domingo, pelo Campeonato Brasil",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/11102026_cg_palmeiras_4487_95.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Mourinho detona suspensão de Vinicius Jr. e critica futebol espanhol",
+        "link": "https://www.gazetaesportiva.com/times/real-madrid/mourinho-detona-suspensao-de-vinicius-jr-e-critica-futebol-espanhol/",
+        "summary": "osé Mourinho criticou o anúncio da suspensão de quatro jogos de Vinicius Jr. horas antes da vitória do Real Madrid sobre a Roma pela Champions League. O post Mourinho detona suspensão de Vinicius Jr. e critica futebol es",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BG932__v1__HighRes__FblEurC1RomaRealMadrid.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Análise: eficaz, Palmeiras mostra casca para sair na frente por vaga na final da Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/analise-eficaz-palmeiras-mostra-casca-para-sair-na-frente-por-vaga-na-final-da-libertadores/",
+        "summary": "O Palmeiras soube suportar a pressão do Fluminense no Maracanã para sair com a vitória por 2 a 1, em duelo de ida da semifinal da Copa Libertadores, na última quarta-feira. Mesmo sem apresentar seu melhor futebol, o time",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261015__D3BW62Q__v1__MidRes__FblLibertadoresFluminensePalmeiras-1.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Cauly será comprado? Veja como estão as metas do meia do São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/cauly-metas-sao-paulo-compra/",
+        "summary": "O São Paulo vive situação indefinida em relação a alguns atletas cujos contratos se encerram no final deste ano. Um destes jogadores é Cauly, que está emprestado pelo Bahia até 31 de dezembro de 2026. O contrato firmado ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55458505409_cfd91e176a_o.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Rodinei domina posição desde chegada ao Santos e busca primeira participação em gol",
+        "link": "https://www.gazetaesportiva.com/times/santos/rodinei-santos-titular-sem-gols-assistencias/",
+        "summary": "Titular nas sete partidas que disputou pelo Santos desde sua contratação, Rodinei conquistou a confiança de Cuca e assumiu a lateral direita. Apesar da sequência, o jogador de 34 anos ainda não participou diretamente de ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55589875455_158abcd214_3k.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      }
+    ],
     "negocios": [
       {
         "title": "Corte amplo de gastos públicos afetaria área social, dizem economistas",
@@ -246,121 +307,121 @@
         "cls": ""
       },
       {
-        "title": "Flávio vota pelo fim da escala 6 1, mas não participa de debates sobre a PEC",
-        "link": "https://www.infomoney.com.br/politica/flavio-vota-pelo-fim-da-escala-6x1-mas-nao-participa-de-debates-sobre-a-pec/",
-        "summary": "Candidato do PL esteve ausente das cinco sessões de discussão no Senado e declarou apoio à proposta após meses de críticas à redução da jornada The post Flávio vota pelo fim da escala 6 1, mas não participa de debates so",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-11T154637Z_539585948_RC231OAR2A7N_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Plano Plano (PLPL3) tem queda de 24% nas vendas líquidas de R$ 775,3 no 3º tri",
+        "link": "https://www.infomoney.com.br/mercados/planoplano-plpl3-tem-queda-de-24-nas-vendas-liquidas-de-r-7753-no-3o-tri/",
+        "summary": "Plano Plano lançou 5 novos empreendimentos, somando 3.819 unidades, alcançando um VGV de R$ 1,069,9 bilhão The post Plano Plano (PLPL3) tem queda de 24% nas vendas líquidas de R$ 775,3 no 3º tri appeared first on InfoMon",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/PlanoPlano-divulgacao.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "15 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Quem é o único senador que votou contra o fim da escala 6 1 no Senado",
-        "link": "https://www.infomoney.com.br/politica/quem-e-o-unico-senador-que-votou-contra-o-fim-da-escala-6x1-no-senado/",
-        "summary": "Ex-vice-presidente Hamilton Mourão foi o único a rejeitar a PEC, aprovada por 75 votos favoráveis nesta quarta-feira (14) The post Quem é o único senador que votou contra o fim da escala 6 1 no Senado appeared first on I",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55506572338_3b797c556b_z.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "TSMC tem lucro recorde e receita sobe 51% com demanda por IA; guidance é conservador",
+        "link": "https://www.infomoney.com.br/mercados/tsmc-tem-lucro-recorde-e-receita-sobe-51-com-demanda-por-ia-guidance-e-conservador/",
+        "summary": "A maior fabricante de chips sob contrato do mundo informou que o lucro líquido saltou 69%, para 763,06 bilhões de dólares taiwaneses (cerca de US$ 23,71 bilhões) The post TSMC tem lucro recorde e receita sobe 51% com dem",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/01/406490035.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Senado aprova fim da escala de trabalho 6 1; veja o que muda e quando começa a valer",
-        "link": "https://www.infomoney.com.br/politica/senado-aprova-em-1o-turno-pec-que-acaba-com-escala-6x1-veja-o-que-muda/",
-        "summary": "Proposta reduz jornada semanal de 44 para 40 horas e garante dois dias de descanso sem corte salarial The post Senado aprova fim da escala de trabalho 6 1; veja o que muda e quando começa a valer appeared first on InfoMo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado-federal.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "C A (CEAB3) aprova debêntures simples no montante de R$ 500 milhões",
+        "link": "https://www.infomoney.com.br/mercados/ca-ceab3-aprova-debentures-simples-no-montante-de-r-500-milhoes/",
+        "summary": "Os recursos serão integralmente destinados ao resgate antecipado facultativo total das debêntures da 3ª emissão da companhia The post C A (CEAB3) aprova debêntures simples no montante de R$ 500 milhões appeared first on ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/CA.png?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Dia de Sorte: confira o resultado do concurso 1322 sorteado nesta quarta-feira (14)",
-        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1322-sorteado-nesta-quarta-feira-14/",
-        "summary": "O prêmio estimado para este concurso era de R$ 350 mil The post Dia de Sorte: confira o resultado do concurso 1322 sorteado nesta quarta-feira (14) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "title": "TotalEnergies destaca aumento acentuado no lucro, guerra no Irã puxa preços",
+        "link": "https://www.infomoney.com.br/mercados/totalenergies-destaca-aumento-acentuado-no-lucro-guerra-no-ira-puxa-precos/",
+        "summary": "A TotalEnergies espera registrar uma margem de refino de US$33,2 por barril no trimestre de julho a setembro, acima dos US$13,5 por ‌barril registrados nos três ​meses anteriores e quase quatro vezes os US$8,4 por barril",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454188813.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lotomania: confira o resultado do concurso 2987 sorteado nesta quarta-feira (14)",
-        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2987-sorteado-nesta-quarta-feira-14/",
-        "summary": "Veja as 20 dezenas sorteadas no concurso 2987 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 2987 sorteado nesta quarta-feira (14) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15102026/",
+        "summary": "Índices futuros dos EUA operam mistos antes de novos dados The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-6.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "15 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lotofácil hoje, concurso 3804: confira o resultado sorteado nesta quarta-feira (14)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3804-confira-o-resultado-sorteado-nesta-quarta-feira-14/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3804: confira o resultado sorteado nesta quarta-feira (14) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Melnick (MELK3) vende e lança menos no 3º trimestre",
+        "link": "https://www.infomoney.com.br/mercados/melnick-melk3-vende-e-lanca-menos-no-3o-trimestre/",
+        "summary": "Lançamentos (%Melnick) da companhia ​somaram R$23 milhões em valor geral de vendas (VGV) ‌ante R$119 ​milhões no terceiro trimestre de 2025 The post Melnick (MELK3) vende e lança menos no 3º trimestre appeared first on I",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2020/09/Melnick.jpeg?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "15 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Fim da escala 6x1: entenda como ficou a proposta após aprovação no Senado",
-        "link": "https://exame.com/brasil/fim-da-escala-6x1-entenda-como-ficou-a-proposta-apos-aprovacao-no-senado/",
-        "summary": "Proposta recebeu 75 votos favoráveis e apenas um contrário nos dois turnos de votação",
+        "title": "Apple entra no clube dos US$ 5 trilhões — mas o próximo desafio está dentro de casa",
+        "link": "https://exame.com/tecnologia/apple-entra-no-clube-dos-us-5-trilhoes-mas-o-proximo-desafio-esta-dentro-de-casa/",
+        "summary": "Sob o comando de John Ternus, gigante de Cupertino atinge patamar histórico de valor de mercado enquanto aposta em novos formatos e expansão de inteligência artificial",
         "image": null,
-        "date": "14 de out. de 2026",
+        "date": "15 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Fim da escala 6x1 aprovada no Senado: o que acontece agora e quando começa",
-        "link": "https://exame.com/brasil/fim-da-escala-6x1-aprovada-no-senado-o-que-acontece-agora-e-quando-comeca/",
-        "summary": "Proposta recebeu 75 votos favoráveis e apenas um contrário nos dois turnos de votação",
+        "title": "Aos 60 anos, ele voltou à faculdade, virou estagiário e já planeja uma nova carreira",
+        "link": "https://exame.com/carreira/aos-60-anos-ele-voltou-a-faculdade-virou-estagiario-e-ja-planeja-uma-nova-carreira/",
+        "summary": "Após mais de 30 anos na indústria, Fernando Gaia voltou à faculdade aos 60 anos e hoje faz estágio em logística na TSEA, em Minas Gerais, com planos de seguir estudando em pós-graduação ou mestrado",
         "image": null,
-        "date": "14 de out. de 2026",
+        "date": "15 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Veja como votou cada senador sobre a PEC do fim da escala 6x1",
-        "link": "https://exame.com/brasil/veja-como-votou-cada-senador-sobre-a-pec-do-fim-da-escala-6x1/",
-        "summary": "Texto foi aprovada em primeiro turno por 75 votos a 1",
+        "title": "'Victoria’s Secret Fashion Show 2026': que horas começa e onde assistir ao vivo?",
+        "link": "https://exame.com/pop/victorias-secret-fashion-show-2026-que-horas-comeca-e-onde-assistir-ao-vivo/",
+        "summary": "Evento será realizado em Los Angeles, nos Estados Unidos, com apresentações musicais de Megan Thee Stallion, Tate McRae, Megan Moroney e Katseye",
         "image": null,
-        "date": "14 de out. de 2026",
+        "date": "15 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Senado aprova fim da escala 6x1",
-        "link": "https://exame.com/brasil/senado-aprova-fim-da-escala-6x1/",
-        "summary": "Dois meses após a publicação da emenda, a jornada máxima cairá de 44 para 42 horas semanais, e os trabalhadores passarão a ter direito a dois dias de repouso remunerado por semana",
+        "title": "Pesquisa que acertou tendência do 1º turno mostra Flávio Bolsonaro com 50% e Lula com 49% no 2º",
+        "link": "https://exame.com/brasil/pesquisa-que-acertou-tendencia-do-1o-turno-mostra-flavio-bolsonaro-com-50-e-lula-com-49-no-2o/",
+        "summary": "Levantamento Palver divulgado nesta quinta-feira, 15, aponta disputa equilibrada no segundo turno e mostra que 81% dos eleitores não mudariam de voto",
         "image": null,
-        "date": "14 de out. de 2026",
+        "date": "15 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Senado aprova em 1º turno o fim da escala 6x1",
-        "link": "https://exame.com/brasil/senado-aprova-em-1o-turno-o-fim-da-escala-6x1/",
-        "summary": "Proposta reduz jornada de trabalho de 44 para 40 horas semanais e estipula dois dias obrigatórios de descanso semanal",
+        "title": "Como Flávio Bolsonaro votou sobre o fim da escala 6x1 no Senado?",
+        "link": "https://exame.com/brasil/como-flavio-bolsonaro-votou-sobre-o-fim-da-escala-6x1-no-senado/",
+        "summary": "Candidato do PL votou remotamente enquanto cumpria agenda em Porto Alegre e não participou das cinco sessões de discussão da proposta",
         "image": null,
-        "date": "14 de out. de 2026",
+        "date": "15 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Aumento do teto do MEI para R$ 140 mil começa neste ano? Entenda o que acontece agora",
-        "link": "https://exame.com/brasil/aumento-do-teto-do-mei-para-r-140-mil-comeca-neste-ano-entenda-o-que-acontece-agora/",
-        "summary": "Proposta também prevê o perdão de dívidas tributárias e o aumento do número de funcionários permitidos",
+        "title": "Qual foi o resultado do jogo do Palmeiras ontem?",
+        "link": "https://exame.com/esporte/qual-foi-o-resultado-do-jogo-do-palmeiras-ontem/",
+        "summary": "Palmeiras venceu o Fluminense por 2 a 1 no Maracanã, pelo jogo de ida da semifinal da Libertadores; veja quem marcou os gols e o placar",
         "image": null,
-        "date": "14 de out. de 2026",
+        "date": "15 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
