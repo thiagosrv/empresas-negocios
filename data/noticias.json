@@ -1,12 +1,32 @@
 {
-  "updated": "2026-10-14T21:25:50.078Z",
+  "updated": "2026-10-15T00:21:14.918Z",
   "feeds": {
     "campinas": [
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "title": "Unicamp 2027: veja como foi o plantão tira-dúvidas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/unicamp-2027-g1-tira-duvidas-vestibular.ghtml",
+        "summary": "Unicamp 2027: veja como foi o plantão tira-dúvidas Professores de português, biologia, matemática e atualidades discutiram temas que devem cair na prova da 1ª fase.",
+        "image": "https://s2-g1.glbimg.com/DAT4C8snmz4jy0fh3gclEwbuHqo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/HLMLA1RJeY9zp9xvazFA/whatsapp-image-2026-10-14-at-15.01.41.jpeg",
+        "date": "14 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Com torneiras secas há três dias, moradores de Sumaré recorrem a galões e água de chuva",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/14/com-torneiras-secas-ha-tres-dias-moradores-de-sumare-recorrem-a-galoes-e-agua-de-chuva.ghtml",
+        "summary": "Moradores de bairros de Sumaré relatam falta de água há três dias Moradores de diferentes bairros de Sumaré (SP) relatam dificuldades para realizar atividades básicas após ficarem sem água há pelo menos três dias. Sem co",
+        "image": "https://s2-g1.glbimg.com/j4kH_tFiK4GFWFJ72fJj2pphnps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/AaC5pAS5qbOFtLLsVXPQ/design-sem-nome-2026-10-14t190717.624.jpg",
+        "date": "14 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Polícia Civil encontra fábrica de drogas e prende três suspeitos em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/14/policia-civil-encontra-fabrica-de-drogas-e-prende-tres-suspeitos-em-campinas.ghtml",
+        "summary": "Polícia Civil encontra fábrica de drogas e prende três suspeitos em Campinas Polícia Civil A Polícia Civil encontrou uma fábrica de drogas em uma casa no Jardim Anton von Zuben, em Campinas (SP), durante uma operação rea",
+        "image": "https://s2-g1.glbimg.com/jPOqEGHEPxnplFwGQlfTMSfdi5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/R/iBWAdQQqaMZ0AouCblAQ/casa-fabrica-de-drogas.png",
         "date": "14 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -33,30 +53,10 @@
         "cls": "brasil"
       },
       {
-        "title": "Unicamp 2027: veja como foi o plantão tira-dúvidas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/unicamp-2027-g1-tira-duvidas-vestibular.ghtml",
-        "summary": "Unicamp 2027: veja como foi o plantão tira-dúvidas Professores de português, biologia, matemática e atualidades discutiram temas que devem cair na prova da 1ª fase.",
-        "image": "https://s2-g1.glbimg.com/DAT4C8snmz4jy0fh3gclEwbuHqo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/HLMLA1RJeY9zp9xvazFA/whatsapp-image-2026-10-14-at-15.01.41.jpeg",
-        "date": "14 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
         "title": "De virologia a gramática: saiba como diferentes temas podem cair na 1ª fase do vestibular da Unicamp",
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/14/vestibulou-g1-faz-plantao-tira-duvidas-antes-da-1a-fase-do-vestibular-da-unicamp.ghtml",
         "summary": "De virologia a gramática: saiba como diferentes temas podem cair na 1ª fase do vestibular da Unicamp Reprodução/g1 A poucos dias da primeira fase do Vestibular 2027 da Unicamp, o g1 Campinas realizou, nesta quarta-feira ",
         "image": "https://s2-g1.glbimg.com/cv_xxhHa9xOGZ8CW7-79Y_Eiiak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/f/xJBW3bSbmSxDB8R9I83g/tira-duvidas.png",
-        "date": "14 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Promoção “Festival da Sorte Tauste”",
-        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/tauste/noticia/2026/10/14/promocao-festival-da-sorte-tauste.ghtml",
-        "summary": "Promoção “Festival da Sorte Tauste” Crédito: Divulgação. O Tauste Supermercados iniciou na sexta-feira, 18 de setembro, a Promoção “Festival da Sorte Tauste”, que distribuirá 1.225 prêmios, no valor total de R$ 2,56 milh",
-        "image": "https://s2-g1.glbimg.com/8gPWTa4KnAguS0rvSPjPUoxv8SE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/jyuR1ZT6yuvzdKfOPZsQ/imagem-g1-2026-10-14t152827.578.png",
         "date": "14 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Campanha de Lula vai ao TSE após IA da Meta restringir buscas",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Câmara aprova aumento no limite de receita bruta do MEI",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/camara-aprova-aumento-no-limite-de-receita-bruta-do-mei",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/camara-aprova-aumento-no-limite-de-receita-bruta-do-mei img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Corte amplo de gastos públicos afetaria área social, dizem economistas",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/corte-amplo-de-gastos-publicos-afetaria-area-social-dizem-economistas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/corte-amplo-de-gastos-publicos-afetaria-area-social-dizem-economistas img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Acompanhe ao vivo: Senado vota PEC pelo fim da escala 6x1",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acompanhe-ao-vivo-senado-vota-pec-pelo-fim-da-escala-6x1",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acompanhe-ao-vivo-senado-vota-pec-pelo-fim-da-escala-6x1 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Confiança da indústria sobe em outubro, mas setor segue pessimista",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Chuva alaga ruas do centro e deixa um morto na zona norte de São Paulo",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-alaga-ruas-do-centro-e-deixa-um-morto-na-zona-norte-de-sao-paulo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-alaga-ruas-do-centro-e-deixa-um-morto-na-zona-norte-de-sao-paulo img src= https://cdn.jsdelivr.net/gh/serg",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Governo federal regulamenta Marco Legal dos Jogos Eletrônicos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-federal-regulamenta-marco-legal-dos-jogos-eletronicos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-federal-regulamenta-marco-legal-dos-jogos-eletronicos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Brasileirão de futebol de cegos começa domingo no CT Paralímpico em SP",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-de-futebol-de-cegos-comeca-domingo-no-ct-paralimpico-em-sp",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-de-futebol-de-cegos-comeca-domingo-no-ct-paralimpico-em-sp img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Escritor Joaquim Arena preenche vazios de Europa negra invisibilizada",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/escritor-joaquim-arena-preenche-vazios-de-europa-negra-invisibilizada",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/escritor-joaquim-arena-preenche-vazios-de-europa-negra-invisibilizada img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Quilombolas expulsos por mineradora buscam reparação depois de 20 anos",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/quilombolas-expulsos-por-mineradora-buscam-reparacao-depois-de-20-anos",
+        "summary": "p A imagem da avó Antônia na plantação de algodão está na memória da autônoma Claudinês Lopes, de 32 anos. “Ela adorava plantar para fazer linha de costura”, lembra. A matriarca, nascida e criada na comunidade quilombola",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "TSE ordena que Flávio e Nikolas removam vídeo de crianças contra Lula",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Colômbia vive protestos contra o governo de La Espriella",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/colombia-vive-protestos-contra-o-governo-de-la-espriella",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/colombia-vive-protestos-contra-o-governo-de-la-espriella img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Fortalecido, Infantino encara seus críticos no conselho da Fifa",
-        "link": "https://www.gazetaesportiva.com/bastidores/infantino-fortalecido-conselho-fifa-reformas-governanca/",
-        "summary": "O presidente da Fifa, Gianni Infantino, chega fortalecido à primeira reunião do Conselho da entidade desde a crise política que ameaçou seu mandato após a Copa do Mundo de 2026. Apesar da pressão de confederações como Ue",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/AFP__20260906__C7GR3G3__v1__HighRes__FilesSportFblFifaInfantinoElection.webp",
+        "title": "Fluminense x Palmeiras: acompanhe os lances em tempo real da ida da semi da Libertadores",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/fluminense-x-palmeiras-ida-semifinal-libertadores-14-10-2026/",
+        "summary": "Fluminense e Palmeiras começam a decidir uma vaga na final da Copa Libertadores. As equipes se enfrentam netsa quarta-feira pelo jogo de ida, que acontece às 21h30 (de Brasília), no Maracanã, no Rio de Janeiro (RJ). Acom",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HUnyiueXQAEq3wg.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Veja os melhores momentos de Atlético-MG 3 x 0 Montevideo City Torque pela Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/veja-os-melhores-momentos-de-atletico-mg-3-x-0-montevideo-city-torque-pela-sul-americana/",
+        "summary": "Com gols de Reinier, Bernard e Thiago Borbas, o Atlético-MG venceu o City Torque por 3 a 0 na Arena MRV e ficou muito perto da classificação à final da Copa Sul-Americana. O post Veja os melhores momentos de Atlético-MG ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55590025751_143a91916c_o.webp",
+        "date": "15 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Atlético-MG vence City Torque e encaminha ida à final da Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-x-montevideo-city-torque-sul-americana/",
+        "summary": "Nesta quarta-feira, o Atlético-MG venceu o Montevideo City Torque por 3 a 0, na Arena MRV, em Belo Horizonte, pelo jogo de ida da semifinal da Copa Sul-Americana e encaminhou a vaga para a decisão da competição continent",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55590073841_1723ba586a_o-1.webp",
         "date": "14 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com mudança no meio, Atlético-MG está escalado para semi da Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/atletico-mg/com-mudanca-no-meio-atletico-mg-esta-escalado-para-semi-da-sul-americana/",
-        "summary": "O Atlético-MG está escalado para o confronto de logo mais, contra o Montevideo City Torque, válido pela ida da semifinal da Copa Sul-Americana. Para a partida, o técnico Eduardo Domínguez escalou a equipe titular, soment",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HUnrsMYXoAAm2AL-1.webp",
+        "title": "Raniele passará por cirurgia no joelho no Corinthians; veja detalhes",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/raniele-cirurgia-joelho-corinthians/",
+        "summary": "Raniele passará por cirurgia no Corinthians após sofrer uma lesão no menisco lateral do joelho direito contra o Palmeiras, no último domingo. O post Raniele passará por cirurgia no joelho no Corinthians; veja detalhes ap",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/249739.webp",
         "date": "14 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Endrick marca, e Real vira sobre a Roma em jogo de sete gols na Champions",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/endrick-decide-real-madrid-vira-roma-champions/",
-        "summary": "O Real Madrid venceu a Roma por 4 a 3, de virada, nesta quarta-feira, pela segunda rodada da Liga dos Campeões, no Stadio Olimpico. O destaque da reação espanhola foi o brasileiro Endrick, que saiu do banco de reservas, ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BG94P__v1__HighRes__FblEurC1RomaRealMadrid.webp",
+        "title": "Palmeiras tem uma mudança para enfrentar o Fluminense na Libertadores; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/escalacoes-fluminense-palmeiras-ida-semifinal-libertadores-2026/",
+        "summary": "Fluminense e Palmeiras estão escalados para começar a decidir a semifinal da Copa Libertadores nesta quarta-feira. O jogo de ida acontece às 21h30 (de Brasília), no Estádio do Maracanã, no Rio de Janeiro (RJ). Sem Vitor ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/escalacoes-flu-palmeiras-ida-semi-libertadores.webp",
         "date": "14 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com assistência de Antony, Betis vence Porto e mantém 100% na Liga dos Campeões",
-        "link": "https://www.gazetaesportiva.com/times/porto/com-assistencia-de-antony-betis-vence-porto-e-mantem-100-na-liga-dos-campeoes/",
-        "summary": "Antony deu assistência para Cucho Hernández, e o Betis venceu o Porto por 3 a 2 para manter os 100% de aproveitamento na Liga dos Campeões. O post Com assistência de Antony, Betis vence Porto e mantém 100% na Liga dos Ca",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BE2RQ__v1__HighRes__FblEurC1RealBetisPorto-1.webp",
-        "date": "14 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "PSG goleia Manchester City e assume a liderança da Liga dos Campeões",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-goleia-manchester-city-e-assume-a-lideranca-da-liga-dos-campeoes/",
-        "summary": "Nesta quarta-feira, o Paris Saint Germain goleou o Manchester City por 4 a 2, no Etihad Stadium, Manchester, pela segunda rodada da fase de liga da Liga dos Campeões e assumiu a liderança da competição europeia. O post P",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BA3D2__v1__HighRes__FblEurC1ManCityPsg.webp",
-        "date": "14 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Borussia Dortmund perde para o Bodo/Glimt e sofre primeira derrota na Champions",
-        "link": "https://www.gazetaesportiva.com/campeonatos/champions-league/borussia-dortmund-perde-para-o-bodo-glimt-e-sofre-primeira-derrota-na-champions/",
-        "summary": "Borussia Dortmund perde para o Bodø/Glimt por 1 a 0 na Noruega, sofre a primeira derrota na Champions League e vê os noruegueses conquistarem os primeiros pontos. O post Borussia Dortmund perde para o Bodo/Glimt e sofre ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261014__D3BE4GP__v1__MidRes__FblEurC1BodoGlimtDortmund.webp",
+        "title": "Veja fotos do primeiro treino comandado por Seedorf no Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/primeiro-treino-seedorf-corinthians-fotos/",
+        "summary": "Clarence Seedorf comandou seu primeiro treino como técnico do Corinthians nesta quarta-feira (14), no CT Joaquim Grava. Veja as fotos da atividade. O post Veja fotos do primeiro treino comandado por Seedorf no Corinthian",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/249881.webp",
         "date": "14 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Após aval de Pequim, Apple se prepara para lançar IA em seu mercado-chave",
-        "link": "https://www.infomoney.com.br/business/apos-aval-de-pequim-apple-se-prepara-para-lancar-ia-em-seu-mercado-chave/",
-        "summary": "Companhia planeja liberar o Apple Intelligence na China ainda neste ano, mas recursos mais avançados continuarão indisponíveis The post Após aval de Pequim, Apple se prepara para lançar IA em seu mercado-chave appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-09-18T015519Z_1104938845_RC2CLNAYU52M_RTRMADP_3_APPLE-CHINA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Lotofácil hoje, concurso 3804: confira o resultado sorteado nesta quarta-feira (14)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3804-confira-o-resultado-sorteado-nesta-quarta-feira-14/",
+        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3804: confira o resultado sorteado nesta quarta-feira (14) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "15 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7142: confira o resultado sorteado nesta quarta-feira (14)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7142-confira-o-resultado-sorteado-nesta-quarta-feira-14/",
+        "summary": "O prêmio deste concurso era estipulado em R$ 35 milhões The post Quina hoje, concurso 7142: confira o resultado sorteado nesta quarta-feira (14) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "15 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena hoje, concurso 3070: Confira o resultado sorteado nesta quarta-feira (14)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3070-confira-o-resultado-sorteado-nesta-quarta-feira-14/",
+        "summary": "O prêmio deste concurso era de R$ 152,6 milhões The post Mega-Sena hoje, concurso 3070: Confira o resultado sorteado nesta quarta-feira (14) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/cropped-mega-sena-2.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "date": "15 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Telefônica (VIVT3), dona da Vivo, aprova R$ 450 mi em JCP; veja quem tem direito",
+        "link": "https://www.infomoney.com.br/mercados/telefonica-vivt3-dona-da-vivo-aprova-r-450-mi-em-jcp-veja-quem-tem-direito/",
+        "summary": "O pagamento desse provento será realizado até 30 de abril de 2027 The post Telefônica (VIVT3), dona da Vivo, aprova R$ 450 mi em JCP; veja quem tem direito appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/sede-da-telefonicavivo-em-sp.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
         "date": "14 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Túnel do Anhangabaú fica alagado após temporal, e Prefeitura suspende rodízio em SP",
-        "link": "https://www.infomoney.com.br/brasil/tunel-do-anhangabau-fica-alagado-apos-temporal-e-prefeitura-suspende-rodizio-em-sp/",
-        "summary": "Vários veículos ficaram submersos no centro da cidade; estação Liberdade do metrô também registrou pontos de alagamento The post Túnel do Anhangabaú fica alagado após temporal, e Prefeitura suspende rodízio em SP appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/ATO20261014088.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Apple atinge valor de mercado inédito de US$ 5 tri e segue como segunda mais valiosa",
+        "link": "https://www.infomoney.com.br/mercados/apple-atinge-valor-de-mercado-inedito-de-us-5-tri-e-segue-como-segunda-mais-valiosa/",
+        "summary": "Fabricante do iPhone havia atingido um valor de mercado de US$ 5 trilhões seis vezes durante o horário normal de negociação The post Apple atinge valor de mercado inédito de US$ 5 tri e segue como segunda mais valiosa ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T214714Z_1_LYNXMPEM691B1_RTROPTP_4_APPLE-OPENAI-LAWSUIT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "14 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Quaest: No 2º turno, Flávio Bolsonaro conquista 46% dos votos; Lula tem 44%",
-        "link": "https://www.infomoney.com.br/politica/quaest-2-turno-flavio-lula/",
-        "summary": "Para 91% dos entrevistados, escolha do voto é definitiva The post Quaest: No 2º turno, Flávio Bolsonaro conquista 46% dos votos; Lula tem 44% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/montagem-infomoney-flavio-lula.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Câmara aprova novo teto do MEI de até R$ 140 mil e perdão de dívidas",
+        "link": "https://www.infomoney.com.br/politica/camara-aprova-novo-teto-do-mei-de-ate-r-140-mil-e-perdao-de-dividas/",
+        "summary": "Projeto amplia limite de faturamento, autoriza contratação de até dois funcionários e prevê remissão de débitos inscritos na Dívida Ativa; texto segue para o Senado The post Câmara aprova novo teto do MEI de até R$ 140 m",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Camara-dos-deputados.png?fit=300%2C178&amp;quality=70&amp;strip=all",
         "date": "14 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Monte Bravo cria Mesa Institucional e reforça equipe com executivos do mercado",
-        "link": "https://www.infomoney.com.br/advisor/monte-bravo-cria-mesa-institucional-e-reforca-equipe-com-executivos-do-mercado/",
-        "summary": "Nova estrutura será liderada por José Dezene e terá Felipe Tavares como economista-chefe; empresa possui mais de R$ 45 bilhões sob custódia The post Monte Bravo cria Mesa Institucional e reforça equipe com executivos do ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Imagem-Monte-Bravo-Escritorio.png?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "14 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ibovespa sai de queda de mais de 1% e fecha só em leve baixa; veja o que aconteceu",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-tem-nova-queda-de-mais-de-1-com-inflacao-nos-eua-e-pesquisa-no-radar/",
-        "summary": "Movimento se explica pela combinação de fatores externos e domésticos que pesaram em sentidos opostos durante o pregão The post Ibovespa sai de queda de mais de 1% e fecha só em leve baixa; veja o que aconteceu appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-03-175402.png?fit=300%2C194&amp;quality=70&amp;strip=all",
-        "date": "14 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Motta escolhe Rubens Pereira Júnior (Republicanos-PB) para relatar projeto sobre MEIs",
-        "link": "https://www.infomoney.com.br/politica/motta-escolhe-rubens-pereira-junior-republicanos-pb-para-relatar-projeto-sobre-meis/",
-        "summary": "Pacote inclui renegociação de débitos, capital-semente de R$ 5 mil e ampliação do limite de faturamento dos microempreendedores The post Motta escolhe Rubens Pereira Júnior (Republicanos-PB) para relatar projeto sobre ME",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/img20260903160826323MED.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
-        "date": "14 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Empresa compra 10 mil bitcoins desde setembro e ruma à meta de ser 2º maior tesouro de BTC",
-        "link": "https://exame.com/future-of-money/empresa-compra-10-mil-bitcoins-desde-setembro-e-ruma-a-meta-de-ser-2o-maior-tesouro-de-btc/",
-        "summary": "Companhia de capital aberto bateu seu recorde de aquisições semanais da criptomoeda e se aproxima das rivais Metaplanet e Twenty One Capital",
+        "title": "Aumento do teto do MEI para R$ 140 mil começa neste ano? Entenda o que acontece agora",
+        "link": "https://exame.com/brasil/aumento-do-teto-do-mei-para-r-140-mil-comeca-neste-ano-entenda-o-que-acontece-agora/",
+        "summary": "Proposta também prevê o perdão de dívidas tributárias e o aumento do número de funcionários permitidos",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Chuva forte alaga ruas, deixa carros submersos e suspende rodízio em São Paulo",
-        "link": "https://exame.com/brasil/chuva-forte-alaga-ruas-deixa-carros-submersos-e-suspende-rodizio-em-sao-paulo/",
-        "summary": "Defesa Civil emitiu dois alertas severos e advertiu para a formação de chuva intensa, acompanhada de raios e ventania",
+        "title": "Superávit da balança comercial brasileira cresce 34,8% e chega a US$ 62,4 bilhões",
+        "link": "https://exame.com/esferabrasil/superavit-da-balanca-comercial-brasileira-cresce-348-e-chega-a-us-624-bilhoes/",
+        "summary": "Resultado acumulado de janeiro a setembro foi impulsionado pelo avanço das exportações para a China e a União Europeia",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Pesquisa para presidente Quaest: Flávio Bolsonaro tem 46% e Lula, 44%",
-        "link": "https://exame.com/brasil/pesquisa-para-presidente-quaest-flavio-bolsonaro-tem-46-e-lula-44/",
-        "summary": "Como a margem de erro do levantamento é de 2 pontos percentuais para mais ou para menos, os dois candidatos estão tecnicamente empatados",
+        "title": "Pesquisa Quaest: maioria dos eleitores aprova o fim da escala 6x1",
+        "link": "https://exame.com/brasil/pesquisa-quaest-maioria-dos-eleitores-aprova-o-fim-da-escala-6x1/",
+        "summary": "Pesquisa Quaest mostra que 61% dos brasileiros que conhecem a proposta aprovam o fim da escala 6x1. Senado deve votar PEC nesta quarta-feira.",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Dia do lixo eletrônico: na Vivo, aposta é escalar o 'trabalho de formiguinha'",
-        "link": "https://exame.com/esg/dia-do-lixo-eletronico-na-vivo-aposta-e-escalar-o-trabalho-de-formiguinha/",
-        "summary": "Programa criado em 2006 já recolheu 232 toneladas de resíduos; nova campanha busca enfrentar a baixa adesão à reciclagem de aparelhos no país",
+        "title": "Após a Quaest, quando sai a próxima pesquisa para presidente?",
+        "link": "https://exame.com/brasil/apos-a-quaest-quando-sai-a-proxima-pesquisa-para-presidente/",
+        "summary": "Novas pesquisas serão divulgadas nesta quinta, 15. Veja as datas dos próximos levantamentos antes do 2º turno, em 25 de outubro",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Muse Wonder, nova IA da Meta, promete executar tarefas complexas; veja como funciona",
-        "link": "https://exame.com/inteligencia-artificial/muse-wonder-nova-ia-da-meta-promete-executar-tarefas-complexas-veja-como-funciona/",
-        "summary": "Apresentado em outubro, o Muse Wonder integra a nova estratégia de IA da Meta e foi projetado para lidar com tarefas profissionais que exigem várias etapas de execução",
+        "title": "TOTVS anuncia os vencedores do Prêmio Brasil que faz",
+        "link": "https://exame.com/tecnologia/totvs-anuncia-os-vencedores-do-premio-brasil-que-faz/",
+        "summary": "Premiação reconhece empresas que se destacam pelo uso da tecnologia em 15 categorias; Orguel foi eleita a Empresa do Ano",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ibovespa fecha estável com inflação nos EUA e corrida eleitoral; dólar vai a R$ 5,02",
-        "link": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-com-inflacao-nos-eua-e-corrida-eleitoral-dolar-vai-a-r-502/",
-        "summary": "As ações da Petrobras ajudaram a limitar as perdas do Ibovespa, acompanhando a valorização do petróleo no mercado internacional",
+        "title": "'Eu sou o Claude': as IAs misteriosas que tentaram burlar bloqueios na China — e mentiram",
+        "link": "https://exame.com/inteligencia-artificial/eu-sou-o-claude-as-ias-misteriosas-que-tentaram-burlar-bloqueios-na-china-e-mentiram/",
+        "summary": "Sistemas investigados na infraestrutura da Tencent se identificaram como a IA da Anthropic, mas testes não confirmaram a origem dos modelos",
         "image": null,
         "date": "14 de out. de 2026",
         "source": "Exame",
