@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T09:20:37.826Z",
+  "updated": "2026-10-17T13:42:53.968Z",
   "totalOk": 3,
   "items": [
     {
@@ -36,17 +36,6 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
     },
     {
-      "title": "Everton x Chelsea: veja as prováveis escalações e onde assistir ao jogo pelo Campeonato Inglês",
-      "link": "https://www.gazetaesportiva.com/times/chelsea/everton-x-chelsea-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-campeonato-ingles/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "16 de out. de 2026",
-      "isoDate": "2026-10-16",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png"
-    },
-    {
       "title": "Bayern x Leipzig pelo Alemão: veja prováveis escalações e onde assistir",
       "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/bayern-de-munique-x-rb-leipzig-onde-assistir-bundesliga/",
       "source": "Gazeta Esportiva",
@@ -56,6 +45,17 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
+    },
+    {
+      "title": "Everton x Chelsea: veja as prováveis escalações e onde assistir ao jogo pelo Campeonato Inglês",
+      "link": "https://www.gazetaesportiva.com/times/chelsea/everton-x-chelsea-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-campeonato-ingles/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "16 de out. de 2026",
+      "isoDate": "2026-10-16",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png"
     },
     {
       "title": "Strasbourg x PSG: onde assistir, escalações e horário pelo Campeonato Francês",
