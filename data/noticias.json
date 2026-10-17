@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-17T19:07:01.373Z",
+  "updated": "2026-10-17T22:03:50.348Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "EPTV 2 Campinas ao vivo",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
+        "date": "17 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "VÍDEO: homem oferece ajuda com carrinho de compras e rouba celular em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/17/video-homem-oferece-ajuda-com-carrinho-de-compras-e-rouba-celular-em-campinas.ghtml",
+        "summary": "Homem oferece ajuda com carrinho de compras e rouba celular em Campinas Um homem foi preso por roubar o celular de uma mulher após oferecer ajuda para guardar um carrinho de compras, na noite de sexta-feira (16), em Camp",
+        "image": "https://s2-g1.glbimg.com/5CUBb1fS9qWHIgJibk1iYyrwwgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/u/A0A6rdRMWkn1Jss2t7uA/design-sem-nome-28-.png",
+        "date": "17 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Manifestantes fazem ato de apoio à reeleição de Lula em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/17/manifestantes-fazem-ato-de-apoio-a-reeleicao-de-lula-em-campinas.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/17/coruja-aparece-sobre-imagem-de-santo-e-surpreende-padre-que-coleciona-300-pecas-da-ave.ghtml",
         "summary": "Coruja aparece sobre imagem de santo e surpreende padre que coleciona 300 peças da ave Mauro Bombo Uma corujinha-do-mato (Megascops choliba) surpreendeu o pároco de uma igreja em São Pedro, no interior de São Paulo, ao a",
         "image": "https://s2-g1.glbimg.com/75xs1O3P5WMJzNB4ujDMdXmTpcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/E/YMHhC8Q8iWFpXzUK1tjA/a-21-.png",
-        "date": "17 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Motorista fica gravemente ferido após bater na traseira de caminhão estacionado em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/17/motorista-fica-ferido-apos-bater-carro-na-traseira-de-caminhao-estacionado-em-americana.ghtml",
-        "summary": "Motorista fica gravemente ferido após bater na traseira de caminhão em Americana Um motorista ficou gravemente ferido após bater o carro que dirigia contra a traseira de um caminhão estacionado na madrugada deste sábado ",
-        "image": "https://s2-g1.glbimg.com/jeUcLUd7E-veiU4Tkhkos6ld4SQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/fKgAigQH2kEp0lz1PtbQ/gcm-americana-1-.jpeg",
-        "date": "17 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Médica, sim! Aprovada de primeira na Unicamp, jovem celebra apoio da mãe para vencer pressão religiosa",
-        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/17/medica-sim-aprovada-de-primeira-na-unicamp-jovem-celebra-apoio-da-mae-para-vencer-pressao-religiosa.ghtml",
-        "summary": "Jovem que passou 'de primeira' na Unicamp celebra ajuda da mãe em meio à pressão religiosa Aos 18 anos, Kelly Cristina Almeida Souza foi aprovada em medicina na Unicamp direto do terceirão, após apenas um ano de preparaç",
-        "image": "https://s2-g1.glbimg.com/lS-Uqds7ekQiHLIN-9bBgAodIXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/5d87oWQG2Ib3HiNwWxQQ/design-sem-nome-11-.png",
         "date": "17 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Mais de 4 mil eleitores tiveram locais de votação alterados",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-eleitores-tiveram-locais-de-votacao-alterados",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-eleitores-tiveram-locais-de-votacao-alterados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "title": "Partido Novo entra com ação no TSE contra atos musicais por democracia",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/partido-novo-entra-com-acao-no-tse-contra-atos-musicais-por-democracia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/partido-novo-entra-com-acao-no-tse-contra-atos-musicais-por-democracia img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Rio: reserva marinha alia proteção ambiental com atividades econômicas",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-reserva-marinha-alia-protecao-ambiental-com-atividades-economicas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-reserva-marinha-alia-protecao-ambiental-com-atividades-economicas img src= https://cdn.jsdelivr.net/gh/sergi",
+        "title": "Cortes em auxílios sociais podem gerar retração em cidades do interior",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cortes-em-auxilios-sociais-podem-gerar-retracao-em-cidades-do-interior",
+        "summary": "p São Paulo – A estagnação ou cortes no valor dos benefícios sociais e previdenciários poderão causar uma retração severa à atividade econômica em municípios do interior do Brasil, mostra levantamento do Centro de Pesqui",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "José Sarney recebe alta hospitalar após nove dias de internação",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "title": "Justiça Federal manda Meta restabelecer contas estudantis do RS",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-federal-manda-meta-restabelecer-contas-estudantis-do-rs",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-federal-manda-meta-restabelecer-contas-estudantis-do-rs img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Recife vai sediar maior festival de animação do Brasil, o Animage",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/recife-vai-sediar-maior-festival-de-animacao-do-brasil-o-animage",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/recife-vai-sediar-maior-festival-de-animacao-do-brasil-o-animage img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "title": "Festival de Cinema valoriza produções de crianças e adolescentes",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-de-cinema-valoriza-producoes-de-criancas-e-adolescentes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-de-cinema-valoriza-producoes-de-criancas-e-adolescentes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Chuvas provocam alagamentos e deslizamentos pelo interior paulista",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-provocam-alagamentos-e-deslizamentos-pelo-interior-paulista",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-provocam-alagamentos-e-deslizamentos-pelo-interior-paulista img src= https://cdn.jsdelivr.net/gh/sergiosd",
+        "title": "Organizações promovem ação de empregabilidade para refugiados",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/organizacoes-promovem-acao-de-empregabilidade-para-refugiados",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/organizacoes-promovem-acao-de-empregabilidade-para-refugiados img src= https://cdn.jsdelivr.net/gh/sergiosdli",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Estudantes desenvolvem plataformas para combater a desinformação",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-desenvolvem-plataformas-para-combater-desinformacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-desenvolvem-plataformas-para-combater-desinformacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Mais de 4 mil seções eleitorais tiveram locais de votação alterados",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Melhores momentos: Bayern 6 x 1 Leipzig pelo Alemão",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-bayern-6-x-1-leipzig-pelo-alemao/",
-        "summary": "Melhores momentos: Bayern 6 x 1 Leipzig pelo Alemão O post Melhores momentos: Bayern 6 x 1 Leipzig pelo Alemão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/7kai5i6q-1920Bayern.webp",
+        "title": "Com estreia adiada, Seedorf visita arena antes de jogo entre Corinthians e Vitória",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/com-estreia-adiada-seedorf-visita-arena-antes-de-jogo-entre-corinthians-e-vitoria/",
+        "summary": "Clarence Seedorf pisou no gramado da Neo Química Arena pela primeira vez como técnico do Corinthians neste sábado. O holandês visitou a casa corinthiana acompanhado de seu auxiliar técnico, Pablo Vidal, do executivo de f",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_6453.webp",
         "date": "17 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com gol de Jesus e brilho de Yamal, Barcelona goleia Betis e mantém 100% na temporada",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/barcelona-goleia-real-betis-e-mantem-campanha-perfeita-no-campeonato-espanhol/",
-        "summary": "O Barcelona manteve sua campanha perfeita no Campeonato Espanhol ao vencer o Real Betis por 5 a 2 neste sábado, no Estádio de La Cartuja, pela nona rodada da competição. Com mais uma atuação decisiva de Lamine Yamal e pa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261017__D3LE8ER__v2__HighRes__TopshotFblEspLigaBetisBarcelona.webp",
+        "title": "Com pênalti polêmico, Juventude empata contra o Ceará e perde chance de liderar",
+        "link": "https://www.gazetaesportiva.com/times/juventude/juventude-vence-ceara-fora-de-casa-e-assume-lideranca-provisoria-da-serie-b/",
+        "summary": "O Juventude venceu o Ceará por 2 a 1 neste sábado, na Arena Castelão, pela 34ª rodada da Série B do Campeonato Brasileiro, e assumiu provisoriamente a liderança da competição. Após um segundo tempo movimentado, Raí Silva",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/SaveClip.App_768433114_18609570865051844_363685219265305073_n-1.webp",
         "date": "17 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com hat-trick de Luís Díaz, Bayern goleia Leipzig e assume liderança do Alemão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/bundesliga/bayern-de-munique-x-rb-leipzig-bundesliga-luis-diaz/",
-        "summary": "O Bayern de Munique não tomou conhecimento do RB Leipzig e goleou por 6 a 0 neste sábado, pela sexta rodada da Bundesliga. Com um hat-trick de Luis Díaz, além de gols de Aleksandar Pavlović, Michael Olise e Harry Kane, a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261017__D3LC6MV__v2__HighRes__TopshotFblGerBundesligaBayernMunichLeipzig.webp",
+        "title": "Palmeiras tem quatro mudanças para enfrentar o Athletico-PR; veja escalações",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-escalacao-athletico-pr-brasileirao-2026/",
+        "summary": "O Palmeiras enfrenta o Athletico-PR neste sábado (17), pela 31ª rodada do Brasileirão, com duas alterações na defesa. Sem Gustavo Gómez e Giay, suspensos, Abel Ferreira escala Bruno Fuchs e Khellven como titulares. O pos",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HU29bNTXsAIYB9a.webp",
         "date": "17 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Davidovich ou Jódar: Xangai terá, pela primeira vez, um espanhol campeão",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/davidovich-ou-jodar-xangai-tera-pela-primeira-vez-um-espanhol-campeao/",
-        "summary": "Rafael Jódar e Alejandro Davidovich se enfrentam na final do Masters 1000 de Xangai, garantindo um título inédito para o tênis espanhol no torneio. Jódar eliminou Daniil Medvedev, enquanto Davidovich venceu Alexander Zve",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261017__D3KR8WF__v1__HighRes__TennisAtpChn.webp",
+        "title": "Artur Jorge projeta duelo com o Grêmio: “É mais uma final”",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/artur-jorge-projeta-duelo-com-o-gremio-e-mais-uma-final/",
+        "summary": "Treinador falou antes de importante partida pelo Campeonato Brasileiro O post Artur Jorge projeta duelo com o Grêmio: “É mais uma final” apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/z0ikbjgm-1920Artur.webp",
         "date": "17 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: NEOM 0 x 1 Al Ettifaq pelo Saudita",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-neom-0-x-1-al-ettifaq-pelo-saudita/",
-        "summary": "Melhores momentos: NEOM 0 x 1 Al Ettifaq pelo Saudita O post Melhores momentos: NEOM 0 x 1 Al Ettifaq pelo Saudita apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/vdvr41sb-1920NEOM.webp",
+        "title": "Com Neymar, Santos desembarca no Rio de Janeiro para enfrentar o Fluminense",
+        "link": "https://www.gazetaesportiva.com/times/santos/santos-desembarca-no-rio-de-janeiro-para-confonto-contra-o-fluminense/",
+        "summary": "O Santos desembarcou no Rio de Janeiro na tarde deste sábado para enfrentar o Fluminense, neste domingo, pela 31ª rodada do Campeonato Brasileiro. Após o último treino no CT Rei Pelé, a delegação viajou com Neymar, que d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/santos-desem.webp",
         "date": "17 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Brasileiro brilha, Inter de Milão vira sobre o Bologna e abre vantagem na ponta do Italiano",
-        "link": "https://www.gazetaesportiva.com/times/internazionale/brasileiro-brilha-inter-de-milao-vira-sobre-o-bologna-e-abre-vantagem-na-ponta-do-italiano/",
-        "summary": "Neste sábado, a Inter de Milão venceu o Bologna de virada por 3 a 1, no Estádio Renato Dall’Ara, em Bolonha, pela sétima rodada do Campeonato Italiano e abriu vantagem na liderança da competição nacional. O post Brasilei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261017__D3LF2EX__v1__HighRes__FblItaSerieABolognaInter.webp",
+        "title": "Corinthians treina visando confronto direto contra Vitória",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/corinthians-treina-visando-confronto-direto-contra-vitoria/",
+        "summary": "Aos olhos de Seedorf, clube paulista treina antes de jogo na Neo Química Arena O post Corinthians treina visando confronto direto contra Vitória apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/249902.webp",
         "date": "17 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -247,9 +247,9 @@
     ],
     "negocios": [
       {
-        "title": "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/anac-estabelece-regras-mais-restritivas-para-aviacao-em-congonhas-sp",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/anac-estabelece-regras-mais-restritivas-para-aviacao-em-congonhas-sp img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Cortes em auxílios sociais podem gerar retração em cidades do interior",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cortes-em-auxilios-sociais-podem-gerar-retracao-em-cidades-do-interior",
+        "summary": "p São Paulo – A estagnação ou cortes no valor dos benefícios sociais e previdenciários poderão causar uma retração severa à atividade econômica em municípios do interior do Brasil, mostra levantamento do Centro de Pesqui",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Agência Brasil",
@@ -257,11 +257,11 @@
         "cls": ""
       },
       {
-        "title": "USP: estagnação de auxílios sociais pode gerar retração em municípios",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/usp-estagnacao-de-auxilios-sociais-pode-gerar-retracao-em-municipios",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/usp-estagnacao-de-auxilios-sociais-pode-gerar-retracao-em-municipios img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/anac-estabelece-regras-mais-restritivas-para-aviacao-em-congonhas-sp",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/anac-estabelece-regras-mais-restritivas-para-aviacao-em-congonhas-sp img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
-        "date": "16 de out. de 2026",
+        "date": "17 de out. de 2026",
         "source": "Agência Brasil",
         "tag": "Economia",
         "cls": ""
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição",
-        "link": "https://www.infomoney.com.br/politica/psdb-do-piaui-declara-apoio-a-flavio-bolsonaro-e-defende-uniao-da-oposicao/",
-        "summary": "Segundo a sigla, o posicionamento foi definido após conversas com representantes do PL, Novo, Podemos e Democracia Cristã The post PSDB do Piauí declara apoio a Flávio Bolsonaro e defende união da oposição appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/55588375339_2862b0f9ec_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "São Paulo x Vasco: Onde assistir?",
+        "link": "https://www.infomoney.com.br/esportes/sao-paulo-vasco-onde-assistir-2/",
+        "summary": "O São Paulo joga em casa pela 31ª rodada do Brasileirão The post São Paulo x Vasco: Onde assistir? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-sao-paulo-x-vasco-da-gama.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "17 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a Lula",
-        "link": "https://www.infomoney.com.br/politica/com-ricupero-e-reale-intelectuais-e-ex-ministros-entregam-manifesto-de-apoio-a-lula/",
-        "summary": "Os signatários também afirmam que a candidatura de Flávio ameaça conquistas sociais consolidadas e a atuação diplomática brasileira The post Com Ricupero e Reale, intelectuais e ex-ministros entregam manifesto de apoio a",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/02/1280px-Ambassador_Rubens_Ricupero.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "title": "Equador retoma transporte de petróleo colombiano após meses de suspensão",
+        "link": "https://www.infomoney.com.br/mundo/equador-retoma-transporte-de-petroleo-colombiano-apos-meses-de-suspensao/",
+        "summary": "A medida ocorre após meses de suspensão do bombeamento de petróleo em meio a tensões comerciais com o governo do ex-presidente Gustavo Petro, na Colômbia The post Equador retoma transporte de petróleo colombiano após mes",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/bandeira-equador-e1571764217117.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
         "date": "17 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais",
-        "link": "https://www.infomoney.com.br/economia/presidente-do-banco-central-da-china-apoia-supervisao-do-fmi-sobre-riscos-fiscais/",
-        "summary": "Presidente do Banco Central da China diz que apoia supervisão mais rigorosa do FMI sobre riscos fiscais The post Presidente do Banco Central da China apoia supervisão do FMI sobre riscos fiscais appeared first on InfoMon",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/CHINA-SUFFERS-ANOTHER-SETBACK-IN-EFFORT-TO-DE-DOLLARIZE-GLOBAL-FINANCE-AS-ANCHOR-IN-THE-GREENBACKS-DOMINANCE-QUIETLY-EXITS-BEIJINGS-PAYMENT-SCHEME.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Trump promete poderes inacreditáveis e se coloca no centro de eleições nos EUA",
+        "link": "https://www.infomoney.com.br/mundo/trump-promete-poderes-inacreditaveis-e-se-coloca-no-centro-de-eleicoes-nos-eua/",
+        "summary": "Trump discursou na cidade de Highland Heights para apoiar candidatos republicanos The post Trump promete poderes inacreditáveis e se coloca no centro de eleições nos EUA appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-17T200123Z_1_LYNXMPEM5G1P2_RTROPTP_4_G7-SUMMIT-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "José Sarney recebe alta hospitalar em São Luís após nove dias internado",
-        "link": "https://www.infomoney.com.br/politica/jose-sarney-recebe-alta-hospitalar-em-sao-luis-apos-nove-dias-internado/",
-        "summary": "Sarney foi internado em 9 de outubro, com dores abdominais, e passou por uma cirurgia para reverter uma obstrução intestinal The post José Sarney recebe alta hospitalar em São Luís após nove dias internado appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/sarney.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Focos de calor mais que triplicam no Amazonas e chegam a 705 registros em 24h",
+        "link": "https://www.infomoney.com.br/brasil/focos-de-calor-mais-que-triplicam-no-amazonas-e-chegam-a-705-registros-em-24h/",
+        "summary": "Diante da piora da qualidade do ar, autoridades orientam crianças, idosos e gestantes a evitar a exposição à fumaça e informam que as unidades básicas de saúde estão abertas para atendimento The post Focos de calor mais ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/luis-graterol-uAROvYw9WDs-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Trump culpa assessores por estratégia vacilante antes das eleições de meio de mandato",
-        "link": "https://www.infomoney.com.br/mundo/trump-culpa-assessores-por-estrategia-vacilante-antes-das-eleicoes-de-meio-de-mandato/",
-        "summary": "Grande parte do atrito tem se concentrado em James Blair, o assessor de longa data que dirige o super PAC de Trump, o MAGA Inc., e na chefe de gabinete da Casa Branca, Susie Wiles The post Trump culpa assessores por estr",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-08T134942Z_1189005047_RC2NYNAPCKRJ_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Brasileirão 2026: Onde assistir a Athletico-PR x Palmeiras?",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-athletico-pr-palmeiras-brasileirao/",
+        "summary": "Os times estão colados na classificação do campeonato The post Brasileirão 2026: Onde assistir a Athletico-PR x Palmeiras? appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-athletico-pr-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "17 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lagarde diz que choque de energia é grande demais para ser ignorado",
-        "link": "https://www.infomoney.com.br/economia/lagarde-diz-que-choque-de-energia-e-grande-demais-para-ser-ignorado/",
-        "summary": "Lagarde defendeu que o futuro da política monetária será guiado por uma avaliação abrangente dos dados, seguindo a função de reação da instituição The post Lagarde diz que choque de energia é grande demais para ser ignor",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Chistine-Lagarde-1.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "title": "Esquerda espanhola não consegue se unir e reduz chances de seguir no poder",
+        "link": "https://www.infomoney.com.br/mundo/esquerda-espanhola-nao-consegue-se-unir-e-reduz-chances-de-seguir-no-poder/",
+        "summary": "O sistema eleitoral espanhol desfavorece os partidos menores que concorrem separadamente The post Esquerda espanhola não consegue se unir e reduz chances de seguir no poder appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-28T162558Z_1_LYNXMPEL3R0SB_RTROPTP_4_CHINA-SPAIN-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "17 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "A fortuna desses nove bilionários da tecnologia supera a economia da Itália",
-        "link": "https://exame.com/negocios/a-fortuna-desses-nove-bilionarios-da-tecnologia-supera-a-economia-da-italia/",
-        "summary": "Fortunas estimadas em 16 de outubro superam em 11,4% a produção italiana de 2025; comparação mostra escala, mas reúne medidas diferentes",
+        "title": "Só tem Coca-Cola? Por que o KFC abandonou a Pepsi nos EUA",
+        "link": "https://exame.com/negocios/so-tem-coca-cola-por-que-o-kfc-abandonou-a-pepsi-nos-eua/",
+        "summary": "Mudança começa em janeiro de 2027 e integra plano para atrair mais clientes; PepsiCo já foi dona da rede de frango frito",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "9 dos 10 mais ricos do mundo são da tecnologia; veja quem são",
-        "link": "https://exame.com/tecnologia/9-dos-10-mais-ricos-do-mundo-sao-da-tecnologia-veja-quem-sao/",
-        "summary": "De Musk a Huang, ranking da Bloomberg reúne fundadores e um ex-CEO de gigantes digitais; Warren Buffett é a única exceção",
+        "title": "Adeus, código júnior? Na criadora do Claude, IA transforma funcionários em gestores",
+        "link": "https://exame.com/inteligencia-artificial/adeus-codigo-junior-na-criadora-do-claude-ia-transforma-funcionarios-em-gestores/",
+        "summary": "Estudo interno da Anthropic mostra mudanças nas contratações, na rotina e nas habilidades exigidas enquanto a empresa amplia sua equipe",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Filme sobre Elizabeth Holmes pode ter maior estreia de um documentário não musical em 10 anos",
-        "link": "https://exame.com/pop/filme-sobre-elizabeth-holmes-pode-ter-maior-estreia-de-um-documentario-nao-musical-em-10-anos/",
-        "summary": "Produção da A24 acompanha a fundadora da Theranos antes da prisão e tem projeção de US$ 12 milhões no primeiro fim de semana",
+        "title": "Uma nova teoria pode ajudar a decifrar o ‘pensamento’ da IA — e controlar seus riscos",
+        "link": "https://exame.com/tecnologia/uma-nova-teoria-pode-ajudar-a-decifrar-o-pensamento-da-ia-e-controlar-seus-riscos/",
+        "summary": "Nick Cammarata propõe outra leitura sobre os neurônios artificiais, mas hipótese ainda não demonstra controle completo de modelos",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Berkshire atinge maior valor na bolsa desde anúncio da sucessão de Buffett",
-        "link": "https://exame.com/invest/mercados/berkshire-atinge-maior-valor-na-bolsa-desde-anuncio-da-sucessao-de-buffett/",
-        "summary": "Sob Greg Abel, companhia retoma recompras e amplia investimentos, incluindo uma aposta na dona do Evernote e do Vimeo",
+        "title": "IAs ameaçaram humanos e sabotaram tarefas em testes; entenda os casos",
+        "link": "https://exame.com/inteligencia-artificial/ias-ameacaram-humanos-e-sabotaram-tarefas-em-testes-entenda-os-casos/",
+        "summary": "Pesquisas de 2026 mostram avanços contra falhas antigas e novos problemas; em outubro, Anthropic relatou ações indevidas em sites reais",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Nasa monitora El Niño que pode ser o mais forte desde 1950; veja efeitos no Brasil",
-        "link": "https://exame.com/esg/nasa-monitora-el-nino-que-pode-ser-o-mais-forte-desde-1950-veja-efeitos-no-brasil/",
-        "summary": "Previsão aponta 83% de chance de intensidade histórica entre outubro e dezembro; no Brasil, efeitos esperados variam entre as regiões",
+        "title": "iPhone Duo custa até R$ 31 mil; veja o que muda entre as versões",
+        "link": "https://exame.com/tecnologia/examelab/iphone-duo-custa-ate-r-31-mil-veja-o-que-muda-entre-as-versoes/",
+        "summary": "Primeiro iPhone dobrável da Apple chega ao Brasil em quatro opções de armazenamento, com preços a partir de R$ 21.999 e a mesma ficha técnica em todas as configurações",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Netflix, Tesla, WEG e IPCA-15 movimentam a semana antes do 2º turno",
-        "link": "https://exame.com/invest/mercados/netflix-tesla-weg-e-ipca-15-movimentam-a-semana-antes-do-2o-turno/",
-        "summary": "Balanços de empresas brasileiras e americanas dividem atenção com a inflação e o debate presidencial previsto para sexta-feira, 23",
+        "title": "Lula x Flávio: onde assistir e o que esperar do debate de domingo",
+        "link": "https://exame.com/brasil/lula-x-flavio-onde-assistir-e-o-que-esperar-do-debate-de-domingo/",
+        "summary": "Primeiro encontro do segundo turno acontece neste domingo, 18, às 20h, com transmissão pela TV, pelo rádio e pela internet",
         "image": null,
         "date": "17 de out. de 2026",
         "source": "Exame",
