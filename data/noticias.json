@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:57:33.422Z",
+  "updated": "2026-10-19T05:59:21.657Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Ícone da MPB, Benito di Paula morre em São Paulo aos 84 anos",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/icone-da-mpb-benito-di-paula-morre-em-sao-paulo-aos-84-anos",
+        "summary": "p strong Morreu neste domingo (18), aos 84 anos, o cantor, compositor e pianista Benito di Paula. Um dos grandes nomes da música popular brasileira (MPB), o artista estava internado no Hospital 9 de Julho, em São Paulo, ",
+        "image": null,
+        "date": "19 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Ato em apoio à democracia e a Lula reúne milhares no Rio e Brasília",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-apoio-democracia-e-lula-reune-milhares-em-copacabana",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-apoio-democracia-e-lula-reune-milhares-em-copacabana img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "19 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Campanha de Flávio Bolsonaro realiza manifestação na Paulista",
         "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Eleitor sem biometria pode votar no segundo turno das eleições",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Confira as fotos de Corinthians x Caracas pela Libertadores feminina",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/confira-as-fotos-de-corinthians-x-caracas-pela-libertadores-feminina/",
+        "summary": "O post Confira as fotos de Corinthians x Caracas pela Libertadores feminina apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250054.webp",
+        "date": "19 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Alison Cerutti relembra conselho do pai após homenagem no Hall da Fama do Vôlei",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/volei-de-praia/alison-cerutti-relembra-conselho-do-pai-apos-homenagem-no-hall-da-fama-do-volei/",
+        "summary": "Alison Cerutti foi homenageado com a inclusão no Hall da Fama Internacional do Vôlei durante cerimônia que também celebrou Fabi Alvim e Ary Graça. Campeão olímpico no Rio-2016 e medalhista de prata em Londres-2012, o cap",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/IVHF.webp",
+        "date": "19 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Corinthians faz sete no Caracas e avança às quartas da Libertadores feminina",
+        "link": "https://www.gazetaesportiva.com/futebol/corinthians-faz-sete-no-caracas-e-avanca-as-quartas-da-libertadores-feminina/",
+        "summary": "Com show ofensivo, o Corinthians goleou o Caracas por 7 a 0, garantiu vaga nas quartas de final da Libertadores feminina e segue com 100% de aproveitamento. O post Corinthians faz sete no Caracas e avança às quartas da L",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250057.webp",
+        "date": "19 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Após derrota, Renato dispara contra montagem de elenco do Grêmio: Traz sem analisar",
+        "link": "https://www.gazetaesportiva.com/times/gremio/renato-gaucho-critica-montagem-elenco-gremio-cruzeiro/",
+        "summary": "Após a derrota do Grêmio por 4 a 2 para o Cruzeiro, Renato Gaúcho fez duras críticas à montagem do elenco, revelou que um reforço chegou nove quilos acima do peso e admitiu sua parcela de responsabilidade pela crise. O t",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55597740036_78c1b9a44a_o.webp",
+        "date": "19 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Kaio César cobra mudança de postura e mira reação do Corinthians no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-cobra-mudanca-de-postura-e-mira-reacao-do-corinthians-no-brasileirao/",
+        "summary": "Kaio César pediu reação do Corinthians no Brasileirão e cobrou mais concentração da equipe para o duelo contra o Vitória. O post Kaio César cobra mudança de postura e mira reação do Corinthians no Brasileirão apareceu pr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250018.webp",
+        "date": "19 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Veja os melhores momentos de Remo 1 x 1 Bragantino pelo Brasileirão",
         "link": "https://www.gazetaesportiva.com/times/bragantino/veja-os-melhores-momentos-de-remo-1-x-1-bragantino-pelo-brasileirao/",
         "summary": "Remo e Red Bull Bragantino empataram por 1 a 1 no Mangueirão. Resultado manteve o Massa Bruta atrás do São Paulo na tabela do Brasileirão. O post Veja os melhores momentos de Remo 1 x 1 Bragantino pelo Brasileirão aparec",
         "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598118938_d46a27f2a7_k.webp",
-        "date": "19 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Bragantino cede empate ao Remo, e São Paulo mantém nono lugar do Brasileiro",
-        "link": "https://www.gazetaesportiva.com/times/bragantino/bragantino-cede-empate-ao-remo-e-sao-paulo-mantem-nono-lugar-do-brasileiro/",
-        "summary": "O Bragantino saiu na frente, mas ficou no empate por 1 a 1 com o Remo e perdeu a chance de ultrapassar o São Paulo na tabela do Campeonato Brasileiro. O post Bragantino cede empate ao Remo, e São Paulo mantém nono lugar ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598150643_568109b96d_k.webp",
-        "date": "19 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Seedorf fecha preparação do Corinthians para pegar o Vitória; veja time provável",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-vitoria-brasileirao-seedorf/",
-        "summary": "O Corinthians encerrou neste domingo a preparação para enfrentar o Vitória pela Série A do Campeonato Brasileiro. Sob o comando de Clarence Seedorf, que ainda não poderá estrear oficialmente devido à pendência de registr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250043.webp",
-        "date": "19 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Confira as fotos de Remo x Bragantino pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/remo-pa/confira-as-fotos-de-remo-x-bragantino-pelo-brasileirao/",
-        "summary": "O post Confira as fotos de Remo x Bragantino pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598030781_6a99b7dbeb_h.webp",
-        "date": "19 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Flamengo sofre cesta no último segundo e estreia com derrota para o Bauru no NBB",
-        "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/flamengo-sofre-cesta-no-ultimo-segundo-e-estreia-com-derrota-para-o-bauru-no-nbb/",
-        "summary": "O Flamengo vencia por um ponto até os instantes finais, mas levou a cesta decisiva no último segundo e perdeu para o Bauru por 82 a 81 na estreia do NBB. O post Flamengo sofre cesta no último segundo e estreia com derrot",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-18_211223740.webp",
-        "date": "19 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Veja fotos do treino do Corinthians neste domingo",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-domingo-2/",
-        "summary": "Veja uma galeria de fotos do último treino do Corinthians antes de encarar o Vitória. O Timão fechou a preparação neste domingo. O post Veja fotos do treino do Corinthians neste domingo apareceu primeiro em Gazeta Esport",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250041.webp",
         "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,36 @@
         "cls": ""
       },
       {
+        "title": "Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio",
+        "link": "https://www.infomoney.com.br/politica/suspeita-de-bomba-mobiliza-esquadrao-antibomba-apos-debate-entre-lula-e-flavio/",
+        "summary": "Polícia Militar foi acionada para verificar objeto suspeito nas proximidades da emissora; candidatos já haviam deixado o local The post Suspeita de bomba mobiliza esquadrão antibomba após debate entre Lula e Flávio appea",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-19T004729Z_594983746_RC206OAPA9BK_RTRMADP_3_BRAZIL-ELECTION-DEBATE.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula x Flávio: veja as principais frases do primeiro debate do 2º turno",
+        "link": "https://www.infomoney.com.br/politica/lula-x-flavio-veja-as-principais-frases-do-primeiro-debate-do-2o-turno/",
+        "summary": "Candidatos trocaram declarações sobre segurança pública, economia, saúde, jornada de trabalho e política externa no primeiro encontro direto da campanha The post Lula x Flávio: veja as principais frases do primeiro debat",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/montagem-infomoney-1-1.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "19 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo",
+        "link": "https://www.infomoney.com.br/politica/debate-entre-lula-e-flavio-tem-ataques-acusacoes-e-propostas-economicas-veja-resumo/",
+        "summary": "Candidatos discutiram investigações do Banco Master e do INSS, divergiram sobre segurança pública e apresentaram propostas para reduzir dívidas e juros The post Debate entre Lula e Flávio tem ataques, acusações e propost",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-19T001809Z_810304029_RC2Z5OA485UA_RTRMADP_3_BRAZIL-ELECTION-DEBATE.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas",
         "link": "https://www.infomoney.com.br/politica/flavio-e-lula-se-enfrentam-no-primeiro-debate-apos-apoiadores-ocuparem-as-ruas/",
         "summary": "O debate em São Paulo está marcado para começar às 20h e será transmitido pela emissora Band The post Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas appeared first on InfoMoney.",
@@ -337,37 +367,47 @@
         "cls": "brasil"
       },
       {
-        "title": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
-        "link": "https://www.infomoney.com.br/economia/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil/",
-        "summary": "Portal da ANM mostra dados da indústria extrativa The post Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/Isa_Carajas.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "Análise: Debate entre Lula e Flávio é dominado por baixaria e termina sem vencedor",
+        "link": "https://exame.com/brasil/analise-debate-entre-lula-e-flavio-e-dominado-por-baixaria-e-termina-sem-vencedor/",
+        "summary": "Senador adotou táticas do influenciador Pablo Marçal, presidente entrou no jogo e confronto virou bate-boca; debate público é o grande perdedor da noite",
+        "image": null,
         "date": "18 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "McLaren vai vender cinco carros de F1 pilotados por campeões – e um por Brad Pitt",
-        "link": "https://www.infomoney.com.br/consumo/mclaren-vai-vender-cinco-carros-de-f1-pilotados-por-campeoes-e-um-por-brad-pitt/",
-        "summary": "“Esses carros foram construídos para serem dirigidos e competir, e queremos ⁠vê-los sendo usados e apreciados\", disse o presidente-executivo da McLaren Racing, ⁠Zak ‌Brown The post McLaren vai vender cinco carros de F1 p",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T182501Z_1_LYNXMPEM9H0H8_RTROPTP_4_MOTOR-F1-TESTING.jpg?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "title": "PM descarta suspeita de bomba na sede da Band após debate presidencial",
+        "link": "https://exame.com/brasil/pm-descarta-suspeita-de-bomba-na-sede-da-band-apos-debate-presidencial/",
+        "summary": "A Polícia Militar do Estado de São Paulo descartou na noite deste domingo, 18, a hipótese de bomba na sede da TV Bandeirantes, em São Paulo",
+        "image": null,
         "date": "18 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Papa Leão promete retorno gradual às funções em 1º evento desde cirurgia de câncer",
-        "link": "https://www.infomoney.com.br/mundo/papa-leao-promete-retorno-gradual-as-funcoes-em-1o-evento-desde-cirurgia-de-cancer/",
-        "summary": "Papa sorriu de uma janela do Palácio Apostólico do Vaticano enquanto falava aos peregrinos abaixo com voz firme e clara neste domingo The post Papa Leão promete retorno gradual às funções em 1º evento desde cirurgia de c",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-18T103048Z_1097097405_RC2M5OAHB8KG_RTRMADP_3_POPE-HEALTH-PRAYER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "PM investiga suspeita de bomba no estacionamento da Band após debate",
+        "link": "https://exame.com/brasil/pm-investiga-suspeita-de-bomba-no-estacionamento-da-band-apos-debate/",
+        "summary": "Os dois candidatos já deixaram os estúdios da emissora paulista após debate neste domingo, 18",
+        "image": null,
         "date": "18 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Debate na Band: Lula e Flávio Bolsonaro trocam acusações sobre INSS e Master no 1º bloco",
+        "title": "Morre o cantor Benito di Paula, vítima de câncer, aos 84 anos",
+        "link": "https://exame.com/pop/morre-o-cantor-benito-di-paula-vitima-de-cancer-aos-84-anos/",
+        "summary": "Artista estava internado em São Paulo e tratava um câncer de próstata havia cerca de um ano; informações sobre velório e sepultamento ainda não foram divulgadas",
+        "image": null,
+        "date": "18 de out. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Lula e Flávio Bolsonaro fazem debate tenso no 2º turno; veja como foi o confronto na Band",
         "link": "https://exame.com/brasil/debate-na-band-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-inss-e-master-no-1o-bloco/",
         "summary": "Primeiro bloco do encontro entre os candidatos no segundo turno foi marcado por ataques envolvendo familiares, suspeitas de corrupção e provocações sobre o voto de presos",
         "image": null,
@@ -380,46 +420,6 @@
         "title": "Ruído branco, rosa ou marrom: qual é melhor para dormir e se concentrar?",
         "link": "https://exame.com/ciencia/ruido-branco-rosa-ou-marrom-qual-e-melhor-para-dormir-e-se-concentrar/",
         "summary": "Sons podem mascarar barulhos e favorecer o foco em algumas pessoas, mas evidências de benefícios para o sono ainda são limitadas",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Santos vira sobre o Fluminense no Maracanã e entra na briga por vaga na Libertadores",
-        "link": "https://exame.com/esporte/santos-vira-sobre-o-fluminense-no-maracana-e-entra-na-briga-por-vaga-na-libertadores/",
-        "summary": "Com gols de Gabigol e Philippe Coutinho em apenas quatro minutos, Peixe vence por 2 a 1, chega aos 45 pontos e sobe para a oitava colocação; derrota tira o Tricolor do G4 do Brasileirão",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Após sete meses afastado, Felca anuncia retorno às redes sociais",
-        "link": "https://exame.com/pop/apos-sete-meses-afastado-felca-anuncia-retorno-as-redes-sociais/",
-        "summary": "Influenciador publicou mensagem enigmática com data e horário para uma novidade; repercussão reacende expectativas sobre possíveis desdobramentos de sua denúncia contra a adultização de crianças e adolescentes na interne",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "De 'clanker' a 'brainrot': o novo dicionário da internet criado pela IA",
-        "link": "https://exame.com/tecnologia/examelab/de-clanker-a-brainrot-o-novo-dicionario-da-internet-criado-pela-ia/",
-        "summary": "Gírias que nasceram no TikTok e em fóruns de programação chegaram aos dicionários de língua inglesa e traduzem o incômodo dos usuários com a inteligência artificial",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eleição no Brasil pode mudar o destino da Amazônia, diz The New York Times",
-        "link": "https://exame.com/brasil/eleicao-no-brasil-pode-mudar-o-destino-da-amazonia-diz-the-new-york-times/",
-        "summary": "Jornal dos EUA analisa como as propostas de Flávio para explorar recursos naturais e flexibilizar licenças podem afetar o desmatamento e a preservação da floresta",
         "image": null,
         "date": "18 de out. de 2026",
         "source": "Exame",
