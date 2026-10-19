@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:53:22.233Z",
+  "updated": "2026-10-19T00:57:33.422Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Campanha de Flávio Bolsonaro realiza manifestação na Paulista",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "18 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
@@ -171,75 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Estudantes retomam protagonismo em momento decisivo no país, diz UNE",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-retomam-protagonismo-em-momento-decisivo-no-pais-diz-une",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-retomam-protagonismo-em-momento-decisivo-no-pais-diz-une img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Cuca elogia Neymar, explica quarteto ofensivo no Santos e mira Libertadores",
-        "link": "https://www.gazetaesportiva.com/times/santos/cuca-elogia-neymar-quarteto-ofensivo-santos-libertadores/",
-        "summary": "Após a vitória do Santos por 2 a 1 sobre o Fluminense, Cuca destacou a atuação de Neymar, explicou a estratégia com o quarteto ofensivo e valorizou a recuperação da equipe no Brasileirão. O treinador também projetou a bu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598243845_8e9b095cff_3k.webp",
-        "date": "18 de out. de 2026",
+        "title": "Veja os melhores momentos de Remo 1 x 1 Bragantino pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/bragantino/veja-os-melhores-momentos-de-remo-1-x-1-bragantino-pelo-brasileirao/",
+        "summary": "Remo e Red Bull Bragantino empataram por 1 a 1 no Mangueirão. Resultado manteve o Massa Bruta atrás do São Paulo na tabela do Brasileirão. O post Veja os melhores momentos de Remo 1 x 1 Bragantino pelo Brasileirão aparec",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598118938_d46a27f2a7_k.webp",
+        "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com virada épica, Davidovich vence Jódar e conquista Masters 1000 de Xangai",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/com-virada-epica-davidovich-vence-jodar-e-conquista-masters-1000-de-xangai/",
-        "summary": "Alejandro Davidovich venceu Rafael Jódar de virada e conquistou em Xangai o primeiro título de Masters 1000 da carreira, o maior de sua trajetória. O post Com virada épica, Davidovich vence Jódar e conquista Masters 1000",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261018__D3MN6CQ__v4__HighRes__TopshotTennisAtpChn.webp",
-        "date": "18 de out. de 2026",
+        "title": "Bragantino cede empate ao Remo, e São Paulo mantém nono lugar do Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/bragantino/bragantino-cede-empate-ao-remo-e-sao-paulo-mantem-nono-lugar-do-brasileiro/",
+        "summary": "O Bragantino saiu na frente, mas ficou no empate por 1 a 1 com o Remo e perdeu a chance de ultrapassar o São Paulo na tabela do Campeonato Brasileiro. O post Bragantino cede empate ao Remo, e São Paulo mantém nono lugar ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598150643_568109b96d_k.webp",
+        "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Renato Portaluppi analisa momento do Grêmio e fala sobre planejamento do elenco",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/renato-portaluppi-analisa-momento-do-gremio-e-fala-sobre-planejamento-do-elenco/",
-        "summary": "Após a derrota para o Cruzeiro, Renato Portaluppi comentou a situação do Grêmio no Brasileirão e destacou a importância de avaliar criteriosamente as contratações e o planejamento do elenco para as próximas temporadas. O",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/stiu1wbz-1920Portaluppi.webp",
-        "date": "18 de out. de 2026",
+        "title": "Seedorf fecha preparação do Corinthians para pegar o Vitória; veja time provável",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-preparacao-vitoria-brasileirao-seedorf/",
+        "summary": "O Corinthians encerrou neste domingo a preparação para enfrentar o Vitória pela Série A do Campeonato Brasileiro. Sob o comando de Clarence Seedorf, que ainda não poderá estrear oficialmente devido à pendência de registr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250043.webp",
+        "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Bahia x Flamengo: confira fotos do jogo pela 31ª rodada do Brasileiro",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bahia-x-flamengo-confira-fotos-do-jogo-pela-31a-rodada-do-brasileiro/",
-        "summary": "O post Bahia x Flamengo: confira fotos do jogo pela 31ª rodada do Brasileiro apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598043239_01e88aead0_k.webp",
-        "date": "18 de out. de 2026",
+        "title": "Confira as fotos de Remo x Bragantino pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/remo-pa/confira-as-fotos-de-remo-x-bragantino-pelo-brasileirao/",
+        "summary": "O post Confira as fotos de Remo x Bragantino pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55598030781_6a99b7dbeb_h.webp",
+        "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras inicia preparação para decisão contra o Fluminense pela Libertadores",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-inicia-preparacao-para-decisao-contra-o-fluminense-pela-libertadores/",
-        "summary": "Após vencer o Athletico-PR pelo Brasileirão, o Palmeiras se reapresentou e começou a preparação para o duelo decisivo contra o Fluminense pela semifinal da Libertadores. O post Palmeiras inicia preparação para decisão co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-18_190830974.webp",
-        "date": "18 de out. de 2026",
+        "title": "Flamengo sofre cesta no último segundo e estreia com derrota para o Bauru no NBB",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/flamengo-sofre-cesta-no-ultimo-segundo-e-estreia-com-derrota-para-o-bauru-no-nbb/",
+        "summary": "O Flamengo vencia por um ponto até os instantes finais, mas levou a cesta decisiva no último segundo e perdeu para o Bauru por 82 a 81 na estreia do NBB. O post Flamengo sofre cesta no último segundo e estreia com derrot",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-18_211223740.webp",
+        "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja as fotos do treino do Palmeiras deste domingo",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-as-fotos-do-treino-do-palmeiras-deste-domingo-2/",
-        "summary": "O post Veja as fotos do treino do Palmeiras deste domingo apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/imagem_2026-10-18_190955885.webp",
-        "date": "18 de out. de 2026",
+        "title": "Veja fotos do treino do Corinthians neste domingo",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-neste-domingo-2/",
+        "summary": "Veja uma galeria de fotos do último treino do Corinthians antes de encarar o Vitória. O Timão fechou a preparação neste domingo. O post Veja fotos do treino do Corinthians neste domingo apareceu primeiro em Gazeta Esport",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250041.webp",
+        "date": "19 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -367,6 +367,26 @@
         "cls": "brasil"
       },
       {
+        "title": "Debate na Band: Lula e Flávio Bolsonaro trocam acusações sobre INSS e Master no 1º bloco",
+        "link": "https://exame.com/brasil/debate-na-band-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-inss-e-master-no-1o-bloco/",
+        "summary": "Primeiro bloco do encontro entre os candidatos no segundo turno foi marcado por ataques envolvendo familiares, suspeitas de corrupção e provocações sobre o voto de presos",
+        "image": null,
+        "date": "18 de out. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Ruído branco, rosa ou marrom: qual é melhor para dormir e se concentrar?",
+        "link": "https://exame.com/ciencia/ruido-branco-rosa-ou-marrom-qual-e-melhor-para-dormir-e-se-concentrar/",
+        "summary": "Sons podem mascarar barulhos e favorecer o foco em algumas pessoas, mas evidências de benefícios para o sono ainda são limitadas",
+        "image": null,
+        "date": "18 de out. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Santos vira sobre o Fluminense no Maracanã e entra na briga por vaga na Libertadores",
         "link": "https://exame.com/esporte/santos-vira-sobre-o-fluminense-no-maracana-e-entra-na-briga-por-vaga-na-libertadores/",
         "summary": "Com gols de Gabigol e Philippe Coutinho em apenas quatro minutos, Peixe vence por 2 a 1, chega aos 45 pontos e sobe para a oitava colocação; derrota tira o Tricolor do G4 do Brasileirão",
@@ -400,26 +420,6 @@
         "title": "Eleição no Brasil pode mudar o destino da Amazônia, diz The New York Times",
         "link": "https://exame.com/brasil/eleicao-no-brasil-pode-mudar-o-destino-da-amazonia-diz-the-new-york-times/",
         "summary": "Jornal dos EUA analisa como as propostas de Flávio para explorar recursos naturais e flexibilizar licenças podem afetar o desmatamento e a preservação da floresta",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Mega-Sena acumula e prêmio estimado sobe para R$ 185 milhões; veja as dezenas",
-        "link": "https://exame.com/invest/minhas-financas/mega-sena-acumula-e-premio-estimado-sobe-para-r-185-milhoes-veja-as-dezenas/",
-        "summary": "Nenhuma aposta acertou os seis números do concurso 3.071; próximo sorteio será realizado nesta terça-feira, 20",
-        "image": null,
-        "date": "18 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Canetas emagrecedoras podem agir no cérebro? GLP-1 são testados contra vício e depressão",
-        "link": "https://exame.com/ciencia/canetas-emagrecedoras-podem-agir-no-cerebro-glp-1-sao-testados-contra-vicio-e-depressao/",
-        "summary": "Remédios da classe GLP-1 ganham nova abordagem e avançam em testes clínicos para tratar dependência química, depressão e Parkinson",
         "image": null,
         "date": "18 de out. de 2026",
         "source": "Exame",
