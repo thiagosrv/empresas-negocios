@@ -1,29 +1,7 @@
 {
-  "updated": "2026-10-18T23:12:01.583Z",
+  "updated": "2026-10-19T01:17:56.765Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Milan vence Atalanta e volta ao G4 do Campeonato Italiano",
-      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/milan-vence-atalanta-e-volta-ao-g4-do-campeonato-italiano/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "18 de out. de 2026",
-      "isoDate": "2026-10-18",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
-    },
-    {
-      "title": "Veja fotos de Real Madrid x Sevilla pelo Campeonato Espanhol",
-      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-real-madrid-x-sevilla-pelo-campeonato-espanhol/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "18 de out. de 2026",
-      "isoDate": "2026-10-18",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
-    },
     {
       "title": "Melhores momentos: Lorient 1 x 0 Monaco pelo Francês",
       "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/melhores-momentos-lorient-1-x-0-monaco-pelo-frances/",
@@ -33,7 +11,7 @@
       "isoDate": "2026-10-18",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Pintou o Puskás? Martín Ojeda marca &#8220;gol escorpião&#8221; em goleada na MLS",
@@ -44,7 +22,7 @@
       "isoDate": "2026-10-18",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Al Fateh 2 x 3 Al Khaleej pelo Saudita",
@@ -55,7 +33,7 @@
       "isoDate": "2026-10-18",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Com dois de Mbappé, Real Madrid goleia o Sevilha pelo Espanhol",
@@ -77,7 +55,7 @@
       "isoDate": "2026-10-18",
       "category": "Libertadores",
       "categoryColor": "#f39c12",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Goiás x Náutico: veja onde assistir e as prováveis escalações pela Série B",
@@ -88,6 +66,28 @@
       "isoDate": "2026-10-18",
       "category": "Brasileirão",
       "categoryColor": "#27ae60",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: FC Cincinnati 0 x 2 Columbus Crew pela MLS",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-fc-cincinnati-0-x-2-columbus-crew-pela-mls/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "18 de out. de 2026",
+      "isoDate": "2026-10-18",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Vasco se prepara para duelo decisivo contra o Boca Juniors pela Sul-Americana",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/vasco-se-prepara-para-duelo-decisivo-contra-o-boca-juniors-pela-sul-americana/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "18 de out. de 2026",
+      "isoDate": "2026-10-18",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
