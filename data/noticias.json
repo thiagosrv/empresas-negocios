@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-26T04:30:41.722Z",
+  "updated": "2026-10-26T10:51:24.195Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Assista ao Bom Dia Cidade Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+        "summary": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
+        "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+        "date": "26 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Eleições 2026: confira o resultado do seu local de votação em Campinas e Sumaré",
+        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-confira-o-resultado-do-seu-local-de-votacao-em-campinas-e-sumare.ghtml",
+        "summary": "Abstenção cai em todas as 31 cidades da região de Campinas no 2º turno O g1 reuniu os resultados de todos os locais de votação de Campinas (SP) e Sumaré (SP) no segundo turno das eleições 2026. Os dados foram divulgados ",
+        "image": "https://s2-g1.glbimg.com/4BRvN4S67YdapuhtMeC9GQ5WVUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/Z/eBicszTmK78B9lK82AOQ/whatsapp-image-2026-10-25-at-13.43.01.jpeg",
+        "date": "26 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Primeiro voto, lágrimas e festa em família: eleitores de Lula celebram vitória no Centro de Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/26/primeiro-voto-lagrimas-e-festa-em-familia-eleitores-de-lula-celebram-vitoria-no-centro-de-campinas.ghtml",
@@ -37,26 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/25/entre-alivio-e-vigilancia-eleitores-de-lula-em-campinas-celebram-vitoria-mas-prometem-cobranca.ghtml",
         "summary": "Eleitores de Lula em Campinas celebram vitória, mas prometem cobrança A comemoração pela reeleição de Luiz Inácio Lula da Silva à presidência do Brasil entre eleitores reunidos em Campinas (SP) foi marcada por um sentime",
         "image": "https://s2-g1.glbimg.com/MgWCd71epg7yOT85Vr_sNZ-Bd9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/y/tLgJMPT12BgrAbjqF0lg/whatsapp-image-2026-10-25-at-21.29.12-1-.jpeg",
-        "date": "26 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Abstenção cai e votos brancos e nulos recuam no 2º turno em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/25/abstencao-cai-e-votos-brancos-e-nulos-recuam-no-2o-turno-em-campinas.ghtml",
-        "summary": "Abstenção cai e votos brancos e nulos recuam no 2º turno em Campinas O segundo turno das eleições, neste domingo (25), teve aumento da participação dos eleitores em Campinas (SP): as abstenções e os votos nulos e em bran",
-        "image": "https://s2-g1.glbimg.com/5LcLesRE_xNLZ5aO4kzM4VJi8sg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/jlXmCgQauEaaUjyIhQlA/whatsapp-image-2026-10-25-at-09.33.21.jpeg",
-        "date": "26 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Apoiadores de Lula em Campinas comemoram reeleição do presidente nas ruas do Centro; FOTOS",
-        "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/25/fotos-acompanhe-a-festa-da-vitoria-de-lula-nas-ruas-de-campinas.ghtml",
-        "summary": "Apoiadores de Lula comemoram reeleição do petista em Campinas Pedro Amatuzzi/g1 Assim que o Tribunal Superior Eleitoral (TSE) confirmou a reeleição de Luiz Inácio Lula da Silva (PT) à presidência da República, apoiadores",
-        "image": "https://s2-g1.glbimg.com/OT2KdfAN1rT93wx3JDTt-2SOyYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/1/qb4lPLQ2uRg16upj3jvg/whatsapp-image-2026-10-25-at-21.29.14.jpeg",
         "date": "26 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,6 +185,46 @@
     ],
     "esportes": [
       {
+        "title": "São Paulo tem semana com duelo contra Bahia e preparação para clássico; veja agenda",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-semana-preparacao-bahia-corinthians/",
+        "summary": "O São Paulo inicia nesta segunda-feira a preparação para o confronto com o Bahia, pela 33ª rodada do Campeonato Brasileiro. Após o compromisso em Salvador, a equipe de Dorival Júnior terá uma sequência de treinos no CT d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55609702861_93cefb40b6_o.webp",
+        "date": "26 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras tem semana com clássico e virada de chave para decisão na Copa do Brasil; veja agenda",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-classico-e-virada-de-chave-semifinal-copa-do-brasil/",
+        "summary": "A sequência decisiva do Palmeiras na temporada continua nesta semana, com clássico pelo Campeonato Brasileiro e decisão da semifinal da Copa do Brasil. Após vencer o Red Bull Bragantino na noite do último sábado, a equip",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/24102026_cg_palmeiras_8194_99.webp",
+        "date": "26 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Após amarelo e expulsão contra o Bahia, Neymar tem temporada com mais cartões em dez anos",
+        "link": "https://www.gazetaesportiva.com/times/santos/apos-amarelo-e-expulsao-contra-o-bahia-neymar-tem-temporada-com-mais-cartoes-em-dez-anos/",
+        "summary": "Neymar chegou a 13 cartões em 2026 pelo Santos, entre amarelos e vermelhos, após ser expulso contra o Bahia pela 32ª rodada do Campeonato Brasileiro. O número é o maior do atacante desde a temporada 2016/17, pelo Barcelo",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55609392902_7439c914ad_k.webp",
+        "date": "26 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Corinthians terá semana livre para tentar reação e deixar zona de rebaixamento",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-semana-livre-para-tentar-reacao-e-deixar-zona-de-rebaixamento/",
+        "summary": "Após entrar no Z4, o Corinthians terá quatro dias de treinamentos com Seedorf para preparar o confronto direto contra o Mirassol pelo Brasileirão. O post Corinthians terá semana livre para tentar reação e deixar zona de ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/250265.webp",
+        "date": "26 de out. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
         "title": "Flamengo x Atlético-MG pelo Brasileirão: onde assistir, estatísticas, histórico e prováveis escalações",
         "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-atletico-mg-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
         "summary": "Flamengo e Atlético-MG se enfrentam nesta segunda-feira, às 20h, no Maracanã, pela 32ª rodada do Campeonato Brasileiro. O Rubro-Negro busca retomar a liderança, enquanto o Galo tenta se aproximar dos primeiros colocados.",
@@ -199,46 +239,6 @@
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-gremio-onde-assistir-brasileirao-32-rodada/",
         "summary": "Coritiba e Grêmio se enfrentam nesta segunda-feira, às 19h30 (de Brasília), no Couto Pereira, pela 32ª rodada do Campeonato Brasileiro. O confronto reúne duas equipes que buscam se afastar da zona de rebaixamento. Enquan",
         "image": "https://static.gazetaesportiva.com/uploads/2026/10/55611219961_bec5419159_o.webp",
-        "date": "25 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "América-MG x Cuiabá pela Série B: veja prováveis escalações e onde assistir",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/america-mg-x-cuiaba-pela-serie-b-veja-provaveis-escalacoes-e-onde-assistir/",
-        "summary": "América-MG e Cuiabá se enfrentam pela 35ª rodada da Série B. Confira onde assistir, horário, escalações e situação das equipes. O post América-MG x Cuiabá pela Série B: veja prováveis escalações e onde assistir apareceu ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55595855219_989776aa64_k.webp",
-        "date": "25 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "São Paulo x Palmeiras: saiba onde assistir ao jogo de ida das quartas do Paulista sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/sao-paulo-x-palmeiras-onde-assistir-quartas-de-final-ida-paulista-sub-20-26-10-2026/",
-        "summary": "São Paulo e Palmeiras se enfrentam nesta segunda-feira, às 15h (de Brasília), no Estádio Marcelo Portugal, em Cotia, pela partida de ida das quartas do Campeonato Paulista sub-20. Com campanha superior à do São Paulo no ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/fm_5825.webp",
-        "date": "25 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "PSG x Lyon: veja onde assistir e prováveis escalações do jogo pelo Campeonato Francês",
-        "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/psg-x-lyon-onde-assistir-campeonato-frances-8-rodada-adiado/",
-        "summary": "PSG e Lyon se enfrentam nesta segunda-feira, às 16h30 (de Brasília), no Parc des Princes, pela oitava rodada do Campeonato Francês. O confronto, que reúne os dois primeiros colocados da Ligue 1, foi adiado em um dia devi",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261020__D3WG3D8__v1__HighRes__FblEurC1PsgBarcelona.webp",
-        "date": "25 de out. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Juventude x Náutico: onde assistir, escalações e horário pela Série B do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-x-nautico-onde-assistir-serie-b-35-rodada/",
-        "summary": "Juventude e Náutico se enfrentam nesta segunda-feira, às 20h30 (de Brasília), no Estádio Alfredo Jaconi, pela 35ª rodada da Série B do Campeonato Brasileiro. O time gaúcho segue firme na disputa pelo acesso e tenta conso",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/SaveClip.App_861506645_18636074788051844_7688979063325619147_n.webp",
         "date": "25 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Alcolumbre e Motta pedem conciliação e dizem que Lula deve governar para todos",
-        "link": "https://www.infomoney.com.br/politica/alcolumbre-e-motta-oferecem-apoio-a-lula-e-pedem-uniao-do-pais-apos-eleicao/",
-        "summary": "Presidentes do Senado e da Câmara parabenizam o petista pela reeleição, defendem a redução da polarização e cobram diálogo com os 215 milhões de brasileiros The post Alcolumbre e Motta pedem conciliação e dizem que Lula ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/img20260305110919828.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+        "title": "JPMorgan vê taxa de papéis do Tesouro em até 15,5% após reeleição de Lula",
+        "link": "https://www.infomoney.com.br/onde-investir/jpmorgan-ve-taxa-de-papeis-do-tesouro-em-ate-155-apos-reeleicao-de-lula/",
+        "summary": "Banco também reduz recomendação para títulos da dívida brasileira em dólar e para papéis de empresas de maior risco, mas mantém compra em companhias com grau de investimento The post JPMorgan vê taxa de papéis do Tesouro",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T051251Z_1230801891_RC2RAOAO3M2Z_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "26 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Renan Santos fala sobre falta de humildade no bolsonarismo e novas derrotas",
-        "link": "https://www.infomoney.com.br/politica/renan-santos-fala-sobre-falta-de-humildade-no-bolsonarismo-e-novas-derrotas/",
-        "summary": "O cofundador do Movimento Brasil Livre (MBL) fala sobre novas derrotas nas próximas eleições, caso não haja mudança de postura entre a base apoiadora da família Bolsonaro The post Renan Santos fala sobre falta de humilda",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-08-23T235336Z_1318307283_RC2N4NAB6AOX_RTRMADP_3_BRAZIL-ELECTION-DEBATE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Oncoclínicas (ONCO3) apresenta novo plano de recuperação extrajudicial",
+        "link": "https://www.infomoney.com.br/mercados/oncoclinicas-onco3-apresenta-novo-plano-de-recuperacao-extrajudicial/",
+        "summary": "O plano abrange cerca de R$ 5,7 bilhões em créditos quirografários The post Oncoclínicas (ONCO3) apresenta novo plano de recuperação extrajudicial appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Oncoclinicas-2.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "26 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF",
-        "link": "https://www.infomoney.com.br/politica/nunes-marques-nao-houve-nenhuma-alteracao-advinda-de-decisao-do-stf/",
-        "summary": "Em declaração na noite deste domingo, Nunes Marques, afirmou que as eleições brasileiras experimentaram \"um grau elevado de judicialização\" The post Nunes Marques: Não houve nenhuma alteração advinda de decisão do STF ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/0d7a3465.jpg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Após eleição de Lula, até onde podem cair as ações de PETR4, ITUB4, BBAS3 e VALE3?",
+        "link": "https://www.infomoney.com.br/mercados/apos-eleicao-de-lula-ate-onde-podem-cair-as-acoes-petr4-itub4-bbas3-e-vale3/",
+        "summary": "Reeleição de Lula pressiona Petrobras (PETR4), Itaú (ITUB4), BB (BBAS3) e Vale (VALE3) e coloca suportes importantes no radar The post Após eleição de Lula, até onde podem cair as ações de PETR4, ITUB4, BBAS3 e VALE3? ap",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Queda-do-Mercado-Brasileiro.png?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "26 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Em discurso de vitória, Lula agradece à juventude e critica big techs e Flávio",
-        "link": "https://www.infomoney.com.br/politica/em-discurso-de-vitoria-lula-agradece-a-juventude-e-critica-big-techs-e-flavio/",
-        "summary": "Em seu primeiro discurso após o resultado, o petista também reafirmou o compromisso de “governar para todos” e declarou que pretende dialogar com diferentes setores da sociedade The post Em discurso de vitória, Lula agra",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T011508Z_1042795906_RC2PAOA16TYJ_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "JPMorgan: Ibovespa deve cair 20% e dólar ir a R$ 5,50 nos próximos dias após eleição",
+        "link": "https://www.infomoney.com.br/mercados/jpmorgan-ibovespa-deve-cair-20-e-dolar-ir-a-r-550-nos-proximos-dias-apos-eleicao-lula/",
+        "summary": "Nesse contexto, ações domésticas mais sensíveis ao ciclo econômico brasileiro tendem a sofrer mais, enquanto exportadoras devem apresentar desempenho relativo superior, beneficiadas pela expectativa de desvalorização do ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Bolsa-Queda-Ibovespa-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "26 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Eleições 2026: Lula é eleito presidente do Brasil; veja o resultado nos estados",
-        "link": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/",
-        "summary": "Confira o resultado das eleições 2026 no 2º turno, como ficou a votação para presidente e a apuração nos estados e Distrito Federal The post Eleições 2026: Lula é eleito presidente do Brasil; veja o resultado nos estados",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/1200x800-2.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Primeiro pregão após as eleições terá Pam e Kyn ao vivo na Casa Clear",
+        "link": "https://www.infomoney.com.br/mercados/primeiro-pregao-apos-as-eleicoes-tera-pam-kyn-ao-vivo-na-casa-clear/",
+        "summary": "Pam Semezzato e Kyn estarão à frente da sala “A única certeza, a vol” nesta segunda-feira (26) The post Primeiro pregão após as eleições terá Pam e Kyn ao vivo na Casa Clear appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Aliakyn-e-Pam-Semezzato-Casa-Clear-2026-1.jpeg?fit=300%2C167&amp;quality=70&amp;strip=all",
         "date": "26 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Como a imprensa internacional reagiu à reeleição de Lula",
-        "link": "https://www.infomoney.com.br/politica/como-a-imprensa-internacional-reagiu-a-reeleicao-de-lula/",
-        "summary": "Veículos estrangeiros destacam virada histórica do petista, que garante quarto mandato The post Como a imprensa internacional reagiu à reeleição de Lula appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-25-230004.png?fit=300%2C268&amp;quality=70&amp;strip=all",
+        "title": "Minidólar (WDOX26): reeleição de Lula eleva risco de disparada do dólar nesta segunda",
+        "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-26102026/",
+        "summary": "Saiba o que esperar para o minidólar nesta segunda (26) The post Minidólar (WDOX26): reeleição de Lula eleva risco de disparada do dólar nesta segunda appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/WDOX26-15-MINUTOS-23.10.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all",
         "date": "26 de out. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "MAPA: veja como ficou a votação para presidente em cada estado no 2º turno",
-        "link": "https://exame.com/brasil/mapa-veja-como-ficou-a-votacao-para-presidente-em-cada-estado-no-2o-turno/",
-        "summary": "Lula venceu nos nove estados do Nordeste, além de Amazonas, Amapá, Pará e Minas Gerais. Já Flávio teve mais votos nos três estados do Sul, nos três do Centro-Oeste e no Distrito Federal",
+        "title": "Flamengo x Atlético-MG: onde assistir ao vivo e horário",
+        "link": "https://exame.com/esporte/flamengo-x-atletico-mg-onde-assistir-ao-vivo-e-horario/",
+        "summary": "Líder do Brasileirão, Flamengo recebe o Atlético-MG nesta segunda-feira, 26, pela 32ª rodada; equipe mineira busca se aproximar do G-4",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Líderes internacionais parabenizam Lula por vitória no 2º turno",
-        "link": "https://exame.com/mundo/lideres-internacionais-parabenizam-lula-por-vitoria-no-2o-turno/",
-        "summary": "Presidente foi reeleito e derrotou Flávio Bolsonaro, do PL, nas urnas",
+        "title": "Após vitória de Lula, líderes mundiais defendem ampliar parcerias com o Brasil",
+        "link": "https://exame.com/mundo/apos-vitoria-de-lula-lideres-mundiais-defendem-ampliar-parcerias-com-o-brasil/",
+        "summary": "Líderes da Europa, Ásia, África e Américas parabenizaram Lula e defenderam ampliar a cooperação com o Brasil em comércio, clima, investimentos e diplomacia",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Fato histórico que devo ao povo brasileiro', diz Lula em discurso na Paulista",
-        "link": "https://exame.com/brasil/fato-historico-que-devo-ao-povo-brasileiro-diz-lula-em-discurso-na-paulista/",
-        "summary": "“Eu devo essa vitória à juventude rebelde que se levantou em defesa da democracia. Eu devo essa vitória às mulheres que se rebelaram contra o feminicídio”, disse",
+        "title": "Como a Gerdau vai fortalecer operação nos EUA enquanto busca competitividade no Brasil",
+        "link": "https://exame.com/exame-in/gerdau-quer-fortalecer-operacao-nos-eua-enquanto-busca-competitividade-no-brasil/",
+        "summary": "“É fundamental que a gente siga implantando a reforma tributária\", diz Gustavo Werneck, CEO da Gerdau",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Após derrota nas eleições, Flávio Bolsonaro ficará sem cargo público pela primeira vez desde 2003",
-        "link": "https://exame.com/brasil/apos-derrota-nas-eleicoes-flavio-bolsonaro-ficara-sem-cargo-publico-pela-primeira-vez-desde-2003/",
-        "summary": "Mandato do senador termina no fim do ano; trajetória inclui quatro mandatos na Alerj e eleição ao Senado em 2018",
+        "title": "Como esta startup de impacto social conquistou um lugar no Web Summit Lisboa 2026",
+        "link": "https://exame.com/bussola/como-esta-startup-de-impacto-social-conquistou-um-lugar-no-web-summit-lisboa-2026/",
+        "summary": "Selecionada para o Web Summit Lisboa 2026, startup do Rio aposta em tecnologia, parcerias e um marketplace de produtos perto do vencimento",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Exame",
@@ -407,21 +407,21 @@
         "cls": "startups"
       },
       {
-        "title": "'O respeito à vontade nas urnas fortalece as instituições democráticas', diz Gonet",
-        "link": "https://exame.com/brasil/o-respeito-a-vontade-nas-urnas-fortalece-as-instituicoes-democraticas-diz-gonet/",
-        "summary": "No encerramento do segundo turno, PGR apresentou balanço da atuação do Ministério Público no combate a irregularidades e na defesa da liberdade de voto",
+        "title": "Quais profissões estão surgindo com a inteligência artificial? Conheça 7 funções em alta",
+        "link": "https://exame.com/inteligencia-artificial/quais-profissoes-estao-surgindo-com-a-inteligencia-artificial-conheca-7-funcoes-em-alta/",
+        "summary": "Da engenharia ao desenvolvimento de produtos e à governança tecnológica, novas especializações acompanham a adoção da IA nas empresas e ampliam as possibilidades de carreira",
         "image": null,
-        "date": "25 de out. de 2026",
+        "date": "26 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Fachin pede respeito às urnas e diz que Brasil precisa de paz após eleições",
-        "link": "https://exame.com/brasil/fachin-pede-respeito-as-urnas-e-diz-que-brasil-precisa-de-paz-apos-eleicoes/",
-        "summary": "Presidente do STF defende serenidade após a disputa eleitoral e diálogo entre os Poderes dentro dos limites da Constituição",
+        "title": "Lula venceu em quais países no 2º turno das eleições 2026? Veja o mapa do mundo",
+        "link": "https://exame.com/mundo/lula-venceu-em-quais-paises-no-2o-turno-das-eleicoes-2026-veja-o-mapa-do-mundo/",
+        "summary": "Presidente foi o mais votado em 62 países, enquanto Flávio Bolsonaro venceu em 39; Europa concentrou algumas das maiores vantagens do petista",
         "image": null,
-        "date": "25 de out. de 2026",
+        "date": "26 de out. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
