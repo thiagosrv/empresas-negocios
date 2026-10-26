@@ -1,18 +1,7 @@
 {
-  "updated": "2026-10-25T22:32:48.472Z",
+  "updated": "2026-10-26T01:09:33.640Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Com gols brasileiros, Bournemouth bate o United fora de casa pelo Inglês",
-      "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/bournemouth-goleia-manchester-united-em-old-trafford-e-aprofunda-crise/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "25 de out. de 2026",
-      "isoDate": "2026-10-25",
-      "category": "Brasileirão",
-      "categoryColor": "#27ae60",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
-    },
     {
       "title": "Liverpool vence o Brighton e entra no G4 do Campeonato Inglês",
       "link": "https://www.gazetaesportiva.com/times/liverpool/liverpool-vence-brighton-em-anfield-e-encosta-no-g4-da-premier-league/",
@@ -33,7 +22,7 @@
       "isoDate": "2026-10-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Monaco e Lille empatam e mantêm disputa acirrada pela liderança do Francês",
@@ -77,7 +66,7 @@
       "isoDate": "2026-10-25",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Milan bate a Udinese, volta ao G4 e segue invicto no Campeonato Italiano",
@@ -89,6 +78,17 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "PSG x Lyon: veja onde assistir e prováveis escalações do jogo pelo Campeonato Francês",
+      "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/psg-x-lyon-onde-assistir-campeonato-frances-8-rodada-adiado/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "25 de out. de 2026",
+      "isoDate": "2026-10-25",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f535.png"
     },
     {
       "title": "Ronaldinho jogará pelo Ravenna na Serie C italiana no dia 15 de novembro",
