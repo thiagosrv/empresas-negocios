@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:27:39.083Z",
+  "updated": "2026-10-27T01:53:42.462Z",
   "feeds": {
     "campinas": [
       {
@@ -33,16 +33,6 @@
         "cls": "brasil"
       },
       {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-        "date": "26 de out. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
         "title": "VI Fórum Vitalità incentiva experiências e descobertas ao longo da maturidade",
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/puc-campinas/puc-campinas/noticia/2026/10/26/vi-forum-vitalita-incentiva-experiencias-e-descobertas-ao-longo-da-maturidade.ghtml",
         "summary": "VI Fórum Vitalità incentiva experiências e descobertas ao longo do envelhecimento Crédito: Divulgação. Experimentar novas atividades, descobrir outros interesses, aprender, conhecer pessoas e se permitir explorar possibi",
@@ -57,6 +47,16 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/puc-campinas/puc-campinas/noticia/2026/10/26/puc-campinas-recebe-encontro-da-rede-de-ambientes-paulistas-de-inovacao-api.ghtml",
         "summary": "PUC Campinas Recebe Encontro Da Rede De Ambientes Paulistas De Inovação (API) Crédito: Divulgação. O Mescla, da PUC-Campinas, recebeu, na quinta-feira (08), o encontro da Rede API (Ambientes Paulistas de Inovação), que c",
         "image": "https://s2-g1.glbimg.com/EJMeQCwv1XvVlc9xcYvON7fHTWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/0zliBhSMqfEghPtfBSFg/1-capa.png",
+        "date": "26 de out. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Pesquisadoras do PPG em Ciências da Saúde vão à conferência de epidemiologia",
+        "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/puc-campinas/puc-campinas/noticia/2026/10/26/pesquisadoras-do-ppg-em-ciencias-da-saude-vao-a-conferencia-de-epidemiologia.ghtml",
+        "summary": "Pesquisadoras do PPG em Ciências da Saúde vão à conferência de epidemiologia Crédito: Divulgação. O Programa de Pós-Graduação em Ciências da Saúde da PUC-Campinas marcou presença na Global Virtual Conference on Epidemiol",
+        "image": "https://s2-g1.glbimg.com/M5hd0Ihl3iahJ0PMeiX-p-wi9lo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/qoyXtbTp2TuZh6A5IVsQ/1.png",
         "date": "26 de out. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,29 @@
         "cls": "servicos"
       },
       {
-        "title": "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "title": "PL, partido de Flávio, reconhece vitória de Lula nas eleições",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "image": null,
+        "date": "27 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Harry Kane e Alexia Putellas vencem prêmio Bola de Ouro de 2026",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/harry-kane-e-alexia-putellas-vencem-premio-bola-de-ouro-de-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/harry-kane-e-alexia-putellas-vencem-premio-bola-de-ouro-de-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "27 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "CNBB parabeniza Lula e pede atenção aos mais pobres",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cnbb-parabeniza-lula-e-pede-atencao-aos-mais-pobres",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cnbb-parabeniza-lula-e-pede-atencao-aos-mais-pobres img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/dengue-3-milhoes-de-adolescentes-estao-com-vacinacao-incompleta",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/dengue-3-milhoes-de-adolescentes-estao-com-vacinacao-incompleta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Trump questiona eleição brasileira e Alckmin rebate: “equivocado”",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trump-questiona-eleicao-brasileira-e-alckmin-rebate-equivocado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trump-questiona-eleicao-brasileira-e-alckmin-rebate-equivocado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Líderes estrangeiros reconhecem vitória e parabenizam Lula",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lideres-estrangeiros-reconhecem-vitoria-e-parabenizam-lula",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lideres-estrangeiros-reconhecem-vitoria-e-parabenizam-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
+        "title": "Lucas Pinheiro abre temporada com ouro em slalom gigante na Áustria",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/lucas-pinheiro-abre-temporada-com-ouro-em-slalom-gigante-na-austria",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/lucas-pinheiro-abre-temporada-com-ouro-em-slalom-gigante-na-austria img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Agência Brasil",
@@ -153,29 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Dia do Servidor Público: ponto facultativo será na sexta-feira",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TRE-BA revoga ordem de prisão de secretário de Mobilidade de Salvador",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-ba-revoga-ordem-de-prisao-de-secretario-de-mobilidade-de-salvador",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-ba-revoga-ordem-de-prisao-de-secretario-de-mobilidade-de-salvador img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Moraes manda Flávio entregar passaporte e o proíbe de deixar o país",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Agência Brasil",
@@ -185,67 +185,77 @@
     ],
     "esportes": [
       {
-        "title": "Com mudanças, Flamengo está escalado para enfrentar o Atlético-MG",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/com-mudancas-flamengo-esta-escalado-para-enfrentar-o-atletico-mg/",
-        "summary": "O Flamengo está escalado para enfrentar o Atlético-MG nesta segunda-feira, em confronto válido pela 32ª rodada do Campeonato Brasileiro. A bola rola às 20h (de Brasília), no Maracanã, no Rio de Janeiro (RJ). O post Com m",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVllz8DWkAAueT0-2.webp",
-        "date": "26 de out. de 2026",
+        "title": "Juventude goleia Náutico e empata com Novorizontino na ponta da Série B",
+        "link": "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
+        "summary": "O Juventude venceu o Náutico nesta segunda-feira por 4 a 0, pela 35ª rodada da Série B do Campeonato Brasileiro. Fábio Lima, Raí, Aderlan e Amarilla anotaram os gols dos mandantes no Alfredo Jaconi, que garantem ao clube",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/IMG_6507.webp",
+        "date": "27 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Paris Saint-Germain 2 x 0 Lyon pelo Francês",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-paris-saint-germain-2-x-0-lyon-pelo-frances/",
-        "summary": "Melhores momentos: Paris Saint-Germain 2 x 0 Lyon pelo Francês O post Melhores momentos: Paris Saint-Germain 2 x 0 Lyon pelo Francês apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/ja9yxevq-1920Lyon.webp",
-        "date": "26 de out. de 2026",
+        "title": "Melhores momentos: Flamengo 3 x 2 Atlético-MG pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/melhores-momentos-flamengo-3-x-2-atletico-mg-pelo-brasileirao/",
+        "summary": "Confira os melhores momentos de Flamengo 3 x 2 Atlético-MG, duelo válido pela 32ª rodada do Campeonato Brasileiro, disputado na noite desta segunda-feira, no Maracanã, no Rio de Janeiro. Situação da tabela Com o resultad",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55614529548_cbf92e6726_o.webp",
+        "date": "27 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Depois de Guto Miguel, Felipe Meligeni ganha 2º Wild Card para o Costa do Sauípe Open",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/felipe-meligeni-wild-card-costa-do-sauipe-open/",
-        "summary": "Felipe Meligeni Alves foi confirmado na chave principal do Costa do Sauípe Open após receber o segundo wild card para o ATP Challenger 125, que acontece entre 1º e 8 de novembro, na Bahia. Em fase de recuperação após les",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/472170_1225857_54095304401_5e1865677a_k_web_.webp",
-        "date": "26 de out. de 2026",
+        "title": "Braithwaite comemora vitória do Grêmio e convoca torcida: É quinta-feira",
+        "link": "https://www.gazetaesportiva.com/times/gremio/braithwaite-comemora-vitoria-do-gremio-e-convoca-torcida-e-quinta-feira/",
+        "summary": "Autor do gol decisivo nos acréscimos, que garantiu ao Grêmio a vitória sobre o Coritiba por 1 a 0 nesta segunda-feira, Braithwaite exaltou o grupo após o triunfo. O atacante destacou a importância do resultado e convocou",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55613510642_e2a663701d_o.webp",
+        "date": "27 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Dorival Jr. e diretoria do São Paulo acompanham clássico do sub-20 contra o Palmeiras",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-jr-e-diretoria-do-sao-paulo-acompanham-classico-do-sub-20-contra-o-palmeiras/",
-        "summary": "Dorival Jr., Harry Massis e Rafinha estiveram em Cotia (SP) e observaram os jovens do São Paulo sub-20 no clássico contra o Palmeiras nesta segunda-feira. O post Dorival Jr. e diretoria do São Paulo acompanham clássico d",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55614323824_5a76181d73_k.webp",
-        "date": "26 de out. de 2026",
+        "title": "Arrascaeta valoriza vitória do Flamengo e evita comentar disputa com Palmeiras: “Não interessa",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/arrascaeta-valoriza-vitoria-do-flamengo-e-evita-comentar-disputa-com-palmeiras-nao-interessa/",
+        "summary": "O Flamengo venceu o Atlético-MG por 3 a 2, nesta segunda-feira, no Maracanã, pela 32ª rodada do Campeonato Brasileiro. Com o gol de Carrascal nos acréscimos, o Rubro-Negro reassumiu a liderança da competição. Após a part",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HVmGYi5WYAAQ2Bq-2.webp",
+        "date": "27 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sevilla bate Osasuna em casa e sobe na tabela do Espanhol",
-        "link": "https://www.gazetaesportiva.com/times/sevilla/sevilla-bate-osasuna-em-casa-e-sobe-na-tabela-do-espanhol/",
-        "summary": "Com gols de Isaac Romero e Felix Correia, o Sevilha FC venceu o CA Osasuna por 2 a 0 e subiu na tabela do Campeonato Espanhol. O post Sevilla bate Osasuna em casa e sobe na tabela do Espanhol apareceu primeiro em Gazeta ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261018__D3NP97V__v1__MidRes__FblEspLigaRealMadridSevilla.webp",
-        "date": "26 de out. de 2026",
+        "title": "Renan Lodi admite pênalti para o Flamengo e cobra reação do Atlético-MG",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/renan-lodi-admite-penalti-para-o-flamengo-e-cobra-reacao-do-atletico-mg/",
+        "summary": "Renan Lodi admitiu cometer pênalti no terceiro gol do Flamengo, que derrotou o Atlético-MG por 3 a 2 nesta segunda-feira. O lateral ainda criticou a postura da equipe na primeira etapa, mas destacou a melhora no segundo ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55614861755_8d75acfe33_o.webp",
+        "date": "27 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Liderado por Renato Moicano, Brasil terá cinco representantes no UFC",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/lutas/liderado-por-renato-moicano-brasil-tera-cinco-representantes-no-ufc/",
-        "summary": "Renato Moicano será o responsável por liderar a presença brasileira no UFC Vegas 123, que acontece neste sábado, dia 31 de outubro, no Meta Apex, em Las Vegas, nos Estados Unidos. O veterano do peso-leve enfrenta o austr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/brandbird-2.webp",
-        "date": "26 de out. de 2026",
+        "title": "Flamengo bate Atlético-MG com gol no fim e tira Palmeiras da liderança",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-bate-atletico-mg-com-gol-no-fim-e-tira-palmeiras-da-lideranca/",
+        "summary": "Nesta segunda-feira, com gol nos acréscimos, o Flamengo venceu o Atlético-MG por 3 a 2, no Maracanã, no Rio de Janeiro, pela 32ª rodada do Campeonato Brasileiro, tirou o rival Palmeiras da ponta e reassumiu a liderança d",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55614388381_81b778be3f_o.webp",
+        "date": "27 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-ganhador-premio-acumula-para-r-305-milhoes",
+        "summary": "p strong Ninguém acertou acertou as seis dezenas do Concurso 3.075 da Mega-Sena, sorteado nesta segunda-feira (26). O prêmio acumulou novamente e está estimado em R$ 305 milhões para a nova rodada. /strong img src= https",
+        "image": null,
+        "date": "27 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula",
@@ -297,129 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Prévia da inflação oficial cai pela metade e fecha outubro em 0,32%",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previa-da-inflacao-oficial-cai-pela-metade-e-fecha-outubro-em-032",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previa-da-inflacao-oficial-cai-pela-metade-e-fecha-outubro-em-032 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Trump oferece US$ 1 milhão por denúncias que levem a condenações por fraude eleitoral",
+        "link": "https://www.infomoney.com.br/mundo/trump-oferece-us-1-milhao-por-denuncias-que-levem-a-condenacoes-por-fraude-eleitoral/",
+        "summary": "Governo Trump tem adotado uma abordagem cada vez mais agressiva em relação à ⁠fiscalização ‌eleitoral The post Trump oferece US$ 1 milhão por denúncias que levem a condenações por fraude eleitoral appeared first on InfoM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/02/2024-02-29T011258Z_2_LYNXNPEK1S00F_RTROPTP_4_USA-TRUMP-SUBVERSION.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
+        "date": "27 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dia de Sorte: confira o resultado do concurso 1332 sorteado nesta segunda-feira (26)",
+        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1332-sorteado-nesta-segunda-feira-26/",
+        "summary": "O prêmio estimado para este concurso era de R$ 400 mil The post Dia de Sorte: confira o resultado do concurso 1332 sorteado nesta segunda-feira (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "27 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotomania: confira o resultado do concurso 2992 sorteado nesta segunda-feira (26)",
+        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2992-sorteado-nesta-segunda-feira-26/",
+        "summary": "Veja as 20 dezenas sorteadas no concurso 2992 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 2992 sorteado nesta segunda-feira (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "27 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7152: confira o resultado sorteado nesta segunda (26)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7152-confira-o-resultado-sorteado-nesta-segunda-26/",
+        "summary": "O prêmio deste concurso era estimado em mais de R$ 1,2 milhões The post Quina hoje, concurso 7152: confira o resultado sorteado nesta segunda (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "27 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil hoje, concurso 3814: confira o resultado sorteado nesta segunda (26)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3814-confira-o-resultado-sorteado-nesta-segunda-26/",
+        "summary": "O prêmio estimado para este concurso era de R$ 5 milhões The post Lotofácil hoje, concurso 3814: confira o resultado sorteado nesta segunda (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-5.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "27 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena hoje, concurso 3075: confira o resultado sorteado nesta segunda (26)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3075-confira-o-resultado-sorteado-nesta-segunda-26/",
+        "summary": "O prêmio deste concurso era de mais de R$ 294 milhões The post Mega-Sena hoje, concurso 3075: confira o resultado sorteado nesta segunda (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/mega_sena_mcajr_abr_2904223679.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "27 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Renner anuncia primeiro show após morte de Rick; veja data e preços",
+        "link": "https://exame.com/pop/renner-anuncia-primeiro-show-apos-morte-de-rick-veja-data-e-precos/",
+        "summary": "Projeto foi criado para homenagear o parceiro musical Rick Sollo, que morreu em setembro, aos 59 anos, após um acidente de helicóptero",
         "image": null,
-        "date": "23 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "26 de out. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Morgan Stanley rebaixa ações do Brasil após eleição e reforça aposta em exportadoras",
-        "link": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-acoes-do-brasil-apos-eleicao-e-reforca-aposta-em-exportadoras/",
-        "summary": "Banco vê riscos fiscais maiores para os ativos brasileiros e migra para empresas com receitas em dólar e menor dependência da economia doméstica The post Morgan Stanley rebaixa ações do Brasil após eleição e reforça apos",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-30-153647.png?fit=300%2C211&amp;quality=70&amp;strip=all",
+        "title": "Quarto frio ou quente? Como a temperatura pode afetar a qualidade do sono",
+        "link": "https://exame.com/ciencia/quarto-frio-ou-quente-como-a-temperatura-pode-afetar-a-qualidade-do-sono/",
+        "summary": "Pesquisa indica que mudanças térmicas durante a noite podem influenciar a melatonina e o relógio biológico, além da sensação de descanso ao acordar",
+        "image": null,
         "date": "26 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "CNI defende união do país após eleições: “Chega de nós contra eles”, diz presidente",
-        "link": "https://www.infomoney.com.br/economia/cni-defende-uniao-do-pais-apos-eleicoes-chega-de-nos-contra-eles-diz-presidente/",
-        "summary": "Ricardo Alban disse que essa construção exige a participação da sociedade civil, dos poderes constituídos, dos trabalhadores e dos empregadores The post CNI defende união do país após eleições: “Chega de nós contra eles”",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/CNI.png?fit=300%2C218&amp;quality=70&amp;strip=all",
+        "title": "PL reconhece vitória de Lula, mas cobra esclarecimentos sobre medidas eleitorais",
+        "link": "https://exame.com/brasil/pl-reconhece-vitoria-de-lula-mas-cobra-esclarecimentos-sobre-medidas-eleitorais/",
+        "summary": "Sigla questionou o aumento dos gastos públicos com benefícios sociais antes da votação, defendendo que essas medidas levantam dúvidas sobre a igualdade na disputa e que podem ter consequências econômicas para o país",
+        "image": null,
         "date": "26 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Flávio Bolsonaro diz que vai pedir cassação de chapa de Lula",
-        "link": "https://www.infomoney.com.br/politica/flavio-bolsonaro-diz-que-vai-pedir-cassacao-de-chapa-de-lula/",
-        "summary": "Senador afirma que buscará na Justiça a cassação da chapa vencedora por supostos abusos eleitorais The post Flávio Bolsonaro diz que vai pedir cassação de chapa de Lula appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T022137Z_995936666_RC2PAOAXW1YT_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C187&amp;quality=70&amp;strip=all",
+        "title": "Harry Kane e Alexia Putellas ganham Bola de Ouro 2026; veja todos os premiados",
+        "link": "https://exame.com/esporte/harry-kane-e-alexia-putellas-ganham-bola-de-ouro-2026-veja-todos-os-premiados/",
+        "summary": "Cerimônia organizada pela France Football também reconhece os melhores clubes, técnicos e jogadores por categoria",
+        "image": null,
         "date": "26 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Quantas vezes a Bolsa brasileira já acionou o circuit breaker? Veja histórico",
-        "link": "https://www.infomoney.com.br/mercados/quantas-vezes-a-bolsa-brasileira-ja-acionou-o-circuit-breaker-veja-historico/",
-        "summary": "Nesta segunda-feira, 26, o dispositivo foi acionado depois da vitória do presidente Luiz Inácio Lula da Silva (PT), reeleito para o quarto mandato The post Quantas vezes a Bolsa brasileira já acionou o circuit breaker? V",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/B3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Bolsa perde R$ 734 bi com reeleição de Lula, quase o valor de uma Petrobras",
+        "link": "https://exame.com/invest/mercados/bolsa-perde-r-734-bi-com-reeleicao-de-lula-quase-o-valor-de-uma-petrobras/",
+        "summary": "Levantamento da Elos Ayta mostra que a queda de 12,91% no valor de mercado das empresas listadas na B3 eliminou 75,5% dos ganhos acumulados no ano",
+        "image": null,
         "date": "26 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Gerdau (GGBR4) tem lucro de R$ 1,52 bilhão no 3º tri, alta anual de 39,7%",
-        "link": "https://www.infomoney.com.br/mercados/gerdau-ggbr4-resultados-terceiro-trimestre-2026/",
-        "summary": "A companhia teve ​vendas de aço de 2,91 milhões de toneladas de julho ao final de setembro, 5,6% menos que um ano antes The post Gerdau (GGBR4) tem lucro de R$ 1,52 bilhão no 3º tri, alta anual de 39,7% appeared first on",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-28T230505Z_1_LYNXMPEL3R122_RTROPTP_4_SIDERURGIA-GERDAU-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "26 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Taxas do Tesouro fecham em forte alta após vitória de Lula, mas aliviam após recorde",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/",
-        "summary": "Tesouro Prefixado 2032 abriu a 15,78%, superando o salto de março de 2020, e fechou a 15,50%; IPCA+ longo fecha perto do nível de antes do 1º turno, em dia com duas recompras do Tesouro The post Taxas do Tesouro fecham e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/daniel-dan-wQRGG_RTsLI-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "26 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Corinthians vê risco de rebaixamento subir após derrota para o Vasco; veja cenários do Z-4",
         "link": "https://exame.com/esporte/corinthians-ve-risco-de-rebaixamento-subir-apos-derrota-para-o-vasco-veja-cenarios-do-z-4/",
         "summary": "Timão chega a 62,3% de probabilidade de queda, enquanto vitória do Cruz-maltino e resultado do Internacional alteram disputa na parte debaixo da tabela do Brasileirão",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Fungo gigante de até 50 cm pode ter ligação com extinção dos dinossauros",
-        "link": "https://exame.com/ciencia/fungo-gigante-de-ate-50-cm-pode-ter-ligacao-com-extincao-dos-dinossauros/",
-        "summary": "Apelidado de D-rex, exemplar descoberto na China pode pesar 2,2 kg e pertence a uma nova família identificada por pesquisadores",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Disputa societária em corretora cripto brasileira põe pedido de licença em xeque",
-        "link": "https://exame.com/future-of-money/disputa-societaria-em-corretora-cripto-brasileira-poe-pedido-de-licenca-em-xeque/",
-        "summary": "Uma das maiores exchanges do país está com sua mudança de estrutura na mira do Tribunal de Justiça de São Paulo",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Trump promete US$ 1 milhão por denúncias de fraude eleitoral nos EUA",
-        "link": "https://exame.com/mundo/trump-promete-us-1-milhao-por-denuncias-de-fraude-eleitoral-nos-eua/",
-        "summary": "A poucos dias das eleições de meio de mandato, presidente reforça discurso contra o pleito de 2020 e levanta suspeitas sobre a disputa no Alasca",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eclipse solar de 2.700 anos revela mudança na rotação da Terra",
-        "link": "https://exame.com/ciencia/eclipse-solar-de-2-700-anos-revela-mudanca-na-rotacao-da-terra/",
-        "summary": "Correção de apenas 8 km na localização de uma antiga capital chinesa permitiu aos cientistas reconstruir com mais precisão o fenômeno de 709 a.C.",
-        "image": null,
-        "date": "26 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eles apostaram nos 'escritórios por assinatura' e já miram R$ 35 milhões",
-        "link": "https://exame.com/negocios/eles-apostaram-nos-escritorios-por-assinatura-e-ja-miram-r-35-milhoes/",
-        "summary": "Com cinco unidades e mais de 10 mil m² administrados, Flowork atende 600 clientes e planeja três novos endereços em 2027, incluindo a chegada ao interior paulista.",
         "image": null,
         "date": "26 de out. de 2026",
         "source": "Exame",
