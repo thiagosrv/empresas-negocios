@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:08:41.880Z",
+  "updated": "2026-10-30T05:04:27.418Z",
   "feeds": {
     "campinas": [
       {
@@ -123,9 +123,29 @@
         "cls": "servicos"
       },
       {
-        "title": "CMN amplia em R$ 2 bi limite de crédito a estados e municípios",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-amplia-em-r-2-bi-limite-de-credito-estados-e-municipios",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-amplia-em-r-2-bi-limite-de-credito-estados-e-municipios img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "title": "Mega-Sena não tem ganhador e prêmio sobe para R$ 6 milhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-ganhador-e-premio-sobe-para-r-6-milhoes",
+        "summary": "p strong Nenhum apostador acertou as seis dezenas do Concurso 3.078 da Mega-Sena, sorteado nesta quinta-feira (29). O prêmio acumulou novamente e está estimado em R$ 6 milhões para a nova rodada. /strong img src= https:/",
+        "image": null,
+        "date": "30 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Fachin devolve relatoria do caso do INSS a Mendonça e mantém Master",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-devolve-relatoria-do-caso-do-inss-mendonca-e-mantem-master",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-devolve-relatoria-do-caso-do-inss-mendonca-e-mantem-master img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "30 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Defesa diz que 657 arquivos do celular de Vorcaro foram modificados",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defesa-diz-que-arquivos-do-celular-de-vorcaro-foram-modificados",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defesa-diz-que-arquivos-do-celular-de-vorcaro-foram-modificados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "29 de out. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "EBC conquista mais R$ 23 milhões para investimento na TV 3.0 no Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ebc-conquista-mais-r-23-milhoes-para-investimento-na-tv-30-no-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ebc-conquista-mais-r-23-milhoes-para-investimento-na-tv-30-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Petrobras anuncia 3ª descoberta de petróleo em poço na Foz do Amazonas",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
         "date": "29 de out. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Republicação de conteúdos após período de defeso eleitoral é concluída",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ebc-conclui-republicacao-de-conteudos-apos-periodo-de-defeso-eleitoral",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ebc-conclui-republicacao-de-conteudos-apos-periodo-de-defeso-eleitoral img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "title": "Prêmio TV Brasil Petrobras Para Elas vai reconhecer melhor gestão",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/premio-tv-brasil-petrobras-para-elas-vai-reconhecer-melhor-gestao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/premio-tv-brasil-petrobras-para-elas-vai-reconhecer-melhor-gestao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "29 de out. de 2026",
         "source": "Agência Brasil",
@@ -153,29 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Vorcaro diz que não fez nada errado e pede voto de confiança",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/vorcaro-diz-que-nao-fez-nada-errado-e-pede-voto-de-confianca",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/vorcaro-diz-que-nao-fez-nada-errado-e-pede-voto-de-confianca img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
-        "image": null,
-        "date": "29 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Temporada de cruzeiros começa na sexta com projeção de mais empregos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "29 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Operação Contenção: DPRJ pede R$ 50 milhões em reparação a moradores",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/operacao-contencao-dprj-pede-r-50-milhoes-em-reparacao-moradores",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/operacao-contencao-dprj-pede-r-50-milhoes-em-reparacao-moradores img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "title": "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "29 de out. de 2026",
         "source": "Agência Brasil",
@@ -185,67 +185,87 @@
     ],
     "esportes": [
       {
-        "title": "Djokovic cai nas oitavas de final do ATP 500 da Basileia",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/djokovic-cai-nas-oitavas-de-final-do-atp-500-da-basileia/",
-        "summary": "O tenista sérvio Novak Djokovic, atual número 12 do mundo, foi eliminado nesta quinta-feira (29) nas oitavas de final do ATP 500 da Basileia, derrotado pelo alemão Jan-Lennard Struff (N.47). O post Djokovic cai nas oitav",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261005__D29X2BU__v1__HighRes__TennisChnOpen.webp",
-        "date": "29 de out. de 2026",
+        "title": "Cruzeiro vence Monte Carmelo e segue 100% na Superliga masculina",
+        "link": "https://www.gazetaesportiva.com/campeonatos/superliga-masculina-de-volei/cruzeiro-vence-monte-carmelo-e-segue-100-na-superliga-masculina/",
+        "summary": "O Sada Cruzeiro venceu o Monte Carmelo por 3 sets a 0 (25/21, 25/22 e 25/18) em partida adiantada da 10ª rodada da Superliga Masculina, realizada no Ginásio do Riacho, em Contagem (MG). Com destaque para Oppenkoski, maio",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/a4aa4141-0214-4a46-a17e-0df7e26b396f.webp",
+        "date": "30 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Santos x Santo André: saiba onde assistir ao jogo de volta das quatas do Paulista sub-20",
-        "link": "https://www.gazetaesportiva.com/campeonatos/paulista/santos-x-santo-andre-onde-assistir-paulista-sub-20-quartas-de-final-volta/",
-        "summary": "Santos e Santo André se enfrentam nesta sexta-feira, às 15h (de Brasília), pelo jogo de volta das quartas de final do Campeonato Paulista Sub-20. Após vencer a partida de ida por 4 a 1, o Peixe chega com ampla vantagem e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55596505222_4b27cff510_o-1.webp",
-        "date": "29 de out. de 2026",
+        "title": "Melhores momentos: Grêmio 2 x 0 Athletico-PR pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/gremio/melhores-momentos-gremio-2-x-0-athletico-pr-pelo-brasileirao/",
+        "summary": "Acompanhe os melhores momentos do jogo Grêmio 2 x o Athletico-PR, pela 33ª rodada do Campeonato Brasileiro, disputado nesta quinta-feira, na Arena do Grêmio, em Porto Alegre. Situação da tabela Com o resultado, o Grêmio ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55620965595_2d3da0a09f_o.webp",
+        "date": "30 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Corinthians x Mirassol pelo Brasileirão: onde assistir, estatísticas, histórico e escalações",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-mirassol-brasileirao-30-11-2026/",
-        "summary": "Veja tudo sobre o jogo entre Corinthians e Mirassol: onde assistir, estatísticas, arbitragem, escalações e histórico de confrontos. O post Corinthians x Mirassol pelo Brasileirão: onde assistir, estatísticas, histórico e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/Foto-Jhony-InacioAg.-Paulistao-arena.webp",
-        "date": "29 de out. de 2026",
+        "title": "Minas vence Brasília, segue 100% e mantém o primeiro lugar do NBB",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/minas-vence-brasilia-e-segue-100-na-lideranca-do-nbb/",
+        "summary": "O Minas venceu o Brasília por 100 a 61, na noite desta quinta-feira, na Arena MTC, em Belo Horizonte, pela quarta rodada do Novo Basquete Brasil (NBB). Com o resultado, a equipe mineira chegou à quarta vitória consecutiv",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55619504252_e3b0188062_o-2048x1365-1.webp",
+        "date": "30 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Le Havre x PSG: veja prováveis escalações e onde assistir ao jogo pelo Francês",
-        "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/le-havre-x-psg-veja-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-frances-2/",
-        "summary": "Le Havre e PSG se enfrentam nesta sexta-feira (30), às 15h (de Brasília), pela 9ª rodada do Campeonato Francês, no Stade Océane, com transmissão da CazéTV. O PSG chega embalado por cinco vitórias consecutivas e assumiu a",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/AFP__20261026__D4HF7EG__v1__HighRes__FblFraLigue1PsgLyon.webp",
-        "date": "29 de out. de 2026",
+        "title": "Flamengo goleia o Vasco no Nilton Santos; veja lances",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-goleia-o-vasco-no-nilton-santos-veja-lances/",
+        "summary": "Acompanhe os melhores momentos do jogo Vasco 1 x 4 Flamengo, pela 33ª rodada do Campeonato Brasileiro, disputado na noite desta quinta-feira, no Estádio Nilton Santos, no Rio de Janeiro. Situação da tabela Com o resultad",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/HV1jqmdWwAMKQ3j.webp",
+        "date": "30 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Criciúma x Ponte Preta: onde assistir, horário e prováveis escalações pela Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-ponte-preta-onde-assistir-serie-b/",
-        "summary": "Criciúma e Ponte Preta se enfrentam nesta sexta-feira, às 19h30, no Estádio Heriberto Hülse, pela 36ª rodada da Série B do Campeonato Brasileiro. O Tigre busca uma vitória para se aproximar da classificação aos playoffs ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/55403056345_4e08555aee_o.webp",
-        "date": "29 de out. de 2026",
+        "title": "Melhores momentos: Atlético-MG 0 x 1 Cruzeiro pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/melhores-momentos-atletico-mg-0-x-1-cruzeiro-pelo-brasileirao/",
+        "summary": "Acompanhe os melhores momento do jogo Atlético-MG 0 x 1 Cruzeiro, pela 33ª rodada do Campeonato Brasileiro, disputado na noite desta quinta-feira, na Arena MRV, em Belo Horizonte. Situação da tabela Com o resultado, o Cr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55619322707_f59af6826a_o.webp",
+        "date": "30 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Nubank Parque supera 2 milhões de pessoas em 2026 com jogos e shows",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/nubank-parque-supera-2-milhoes-visitantes-2026/",
-        "summary": "O Nubank Parque, estádio do Palmeiras, ultrapassou a marca de 2 milhões de visitantes em 2026 durante o segundo show da banda Iron Maiden. O número reúne o público de partidas de futebol, apresentações musicais e eventos",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/10/Nubank-Parque-Staff-Images-2.JPG.webp",
-        "date": "29 de out. de 2026",
+        "title": "Grêmio vence Athletico-PR, põe Inter no Z4 e complica o Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/gremio/gremio-vence-athletico-pr-poe-inter-no-z4-e-complica-o-corinthians/",
+        "summary": "Nesta quinta-feira, o Grêmio venceu o Athletico-PR por 2 a 0, na Arena, em Porto Alegre, pela 33ª rodada do Campeonato Brasileiro. O triunfo garantiu a saída do time do Z4, colocou o rival Internacional na zona de rebaix",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/55620545286_deb8f992c9_o.webp",
+        "date": "30 de out. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Mega-Sena não tem ganhador e prêmio sobe para R$ 6 milhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-ganhador-e-premio-sobe-para-r-6-milhoes",
+        "summary": "p strong Nenhum apostador acertou as seis dezenas do Concurso 3.078 da Mega-Sena, sorteado nesta quinta-feira (29). O prêmio acumulou novamente e está estimado em R$ 6 milhões para a nova rodada. /strong img src= https:/",
+        "image": null,
+        "date": "30 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Petrobras anuncia 3ª descoberta de petróleo em poço na Foz do Amazonas",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "image": null,
+        "date": "29 de out. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027",
@@ -287,84 +307,94 @@
         "cls": ""
       },
       {
-        "title": "Dívida Pública sobe 0,97% em setembro e encosta em R$ 9,4 trilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-sobe-097-em-setembro-e-encosta-em-r-94-trilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-sobe-097-em-setembro-e-encosta-em-r-94-trilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Dia de Sorte: confira o resultado do concurso 1335 sorteado nesta quinta-feira (29)",
+        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1335-sorteado-nesta-quinta-feira-29/",
+        "summary": "O prêmio estimado para este concurso era de R$ 900 mil The post Dia de Sorte: confira o resultado do concurso 1335 sorteado nesta quinta-feira (29) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "30 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7155: confira o resultado sorteado nesta quinta-feira (29)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7155-confira-o-resultado-sorteado-nesta-quinta-feira-29/",
+        "summary": "O prêmio deste concurso era estipulado em R$ 7.316.267,38 The post Quina hoje, concurso 7155: confira o resultado sorteado nesta quinta-feira (29) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "30 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil hoje, concurso 3817: confira o resultado sorteado nesta quinta-feira (29)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3817-confira-o-resultado-sorteado-nesta-quinta-feira-29/",
+        "summary": "O prêmio estimado para este concurso era de R$ 5 milhões The post Lotofácil hoje, concurso 3817: confira o resultado sorteado nesta quinta-feira (29) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "30 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mega-Sena hoje, concurso 3078: Confira o resultado sorteado nesta quinta-feira (29)",
+        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3078-confira-o-resultado-sorteado-nesta-quinta-feira-29/",
+        "summary": "O prêmio deste concurso era de R$ 2.575.537,64. The post Mega-Sena hoje, concurso 3078: Confira o resultado sorteado nesta quinta-feira (29) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2024/06/20230622_182751.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "30 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "TSE torna inelegíveis condenados por violência contra a mulher",
+        "link": "https://www.infomoney.com.br/politica/tse-torna-inelegiveis-condenados-por-violencia-contra-a-mulher/",
+        "summary": "Decisão teve como base julgamento sobre candidatura de João Neto (Solidariedade-AL) The post TSE torna inelegíveis condenados por violência contra a mulher appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/tse.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "date": "29 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rafael Fonteles: Nunca tratei com Lula ou qualquer outra pessoa sobre cargos",
+        "link": "https://www.infomoney.com.br/politica/rafael-fonteles-nunca-tratei-com-lula-ou-qualquer-outra-pessoa-sobre-cargos/",
+        "summary": "Após participação na campanha de Lula durante o segundo turno, o governador do Piauí tem sido cotado para assumir o Ministério da Fazenda The post Rafael Fonteles: Nunca tratei com Lula ou qualquer outra pessoa sobre car",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/09/rafael-fonteles.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "29 de out. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Caso Binance: corretora diz que ataque hacker atingiu US$ 6,3 bilhões",
+        "link": "https://exame.com/future-of-money/caso-binance-corretora-diz-que-ataque-hacker-atingiu-us-63-bilhoes/",
+        "summary": "Empresa declarou que o incidente de segurança começou com o comprometimento de um notebook de um engenheiro",
+        "image": null,
+        "date": "30 de out. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Caso Binance: corretora diz que US$ 3 bilhões do roubo foram congelados",
+        "link": "https://exame.com/future-of-money/caso-binance-corretora-diz-que-us-3-bilhoes-do-roubo-foram-congelados/",
+        "summary": "Exchange sofreu o maior ataque de cibercriminosos da história, com US$ 5,8 bilhões desviados",
         "image": null,
         "date": "29 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "title": "Binance, Bitget e Polymarket: ataques hackers expõem vulnerabilidade do mercado cripto em 2026",
+        "link": "https://exame.com/future-of-money/binance-bitget-e-polymarket-ataques-hackers-expoem-vulnerabilidade-do-mercado-cripto-em-2026/",
+        "summary": "Sequência de ataques a corretoras e projetos descentralizados preocupa o setor, em ano que já é recordista de roubos",
         "image": null,
         "date": "29 de out. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Braskem tem queda de 18% nas vendas de principais químicos no Brasil no 3º tri",
-        "link": "https://www.infomoney.com.br/mercados/braskem-tem-queda-de-18-nas-vendas-de-principais-quimicos-no-brasil-no-3o-tri/",
-        "summary": "Nos ​Estados Unidos, as vendas da ​Braskem ⁠caíram 1% no terceiro ⁠trimestre, enquanto, no México, subiram 9% The post Braskem tem queda de 18% nas vendas de principais químicos no Brasil no 3º tri appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2022/10/unnamed-3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "29 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vale (VALE3) produz 88,4 mi de toneladas de minério de ferro no 3T, queda anual de 6%",
-        "link": "https://www.infomoney.com.br/mercados/vale-vale3-produz-884-mi-de-toneladas-de-minerio-de-ferro-no-3o-tri-queda-de-6/",
-        "summary": "Apesar da queda anual, a produção avançou 5% em relação ao segundo trimestre The post Vale (VALE3) produz 88,4 mi de toneladas de minério de ferro no 3T, queda anual de 6% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/vale-mina-gongo-soco.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "29 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Microsoft quer levantar US$25 bi na venda de títulos dos EUA para investir em IA",
-        "link": "https://www.infomoney.com.br/business/microsoft-quer-levantar-us25-bi-na-venda-de-titulos-dos-eua-para-investir-em-ia/",
-        "summary": "A venda de títulos tornaria a Microsoft a ‌mais recente gigante da tecnologia a recorrer aos mercados de dívida para financiar suas ambições em inteligência artificial The post Microsoft quer levantar US$25 bi na venda d",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-23T162046Z_2061006196_RC2MHDA4GDBK_RTRMADP_3_MICROSOFT-MANAGEMENT-BUYOUTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "29 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Vale (VALE3) tem lucro líquido de US$ 1,25 bi no 3º tri, queda anual de 53%",
-        "link": "https://www.infomoney.com.br/mercados/vale-vale3-balanco-3t26/",
-        "summary": "Balanço foi apresentado na noite desta quinta (29) The post Vale (VALE3) tem lucro líquido de US$ 1,25 bi no 3º tri, queda anual de 53% appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-06T221839Z_1_LYNXMPEM651L4_RTROPTP_4_LATAM-SUMMIT-VALE.jpg?fit=300%2C194&amp;quality=70&amp;strip=all",
-        "date": "29 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs",
-        "link": "https://www.infomoney.com.br/politica/pt-novo-mandato-de-lula-tratara-reformas-do-judiciario-e-regulacao-das-big-techs/",
-        "summary": "Partido destacou que quarto mandato de Lula deve \"abrir um ciclo de transformações\" na política brasileira The post PT: novo mandato de Lula tratará reformas do Judiciário e regulação das big techs appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T054432Z_137283973_RC2RAOAPBZM3_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C209&amp;quality=70&amp;strip=all",
-        "date": "29 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "MPT pede indenização de R$ 50 mi para a Meta por conteúdos de assédio eleitoral",
-        "link": "https://www.infomoney.com.br/politica/mpt-pede-indenizacao-de-r-50-mi-para-a-meta-por-conteudos-de-assedio-eleitoral/",
-        "summary": "Ministério Público também pede que detentora das redes sociais apague os conteúdos The post MPT pede indenização de R$ 50 mi para a Meta por conteúdos de assédio eleitoral appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-20T172543Z_1434439757_RC2JHMAW47W6_RTRMADP_3_BRAZIL-ELECTION-META-PLATFORMS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "29 de out. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "50ª Mostra de Cinema de São Paulo anuncia vencedores de 2026; veja os filmes",
@@ -390,36 +420,6 @@
         "title": "Lucro da Vale encolhe 53% com minério mais barato; cobre evita 'estrago' maior",
         "link": "https://exame.com/invest/mercados/lucro-da-vale-encolhe-53-com-minerio-mais-barato-cobre-evita-estrago-maior/",
         "summary": "Mineradora lucra US$ 1,26 bi no 3º tri; cobre e níquel já geram 1/3 do caixa",
-        "image": null,
-        "date": "29 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "BTS no Brasil: Senacon notifica Live Nation e Ticketmaster após fãs relatarem superlotação",
-        "link": "https://exame.com/pop/bts-no-brasil-senacon-notifica-live-nation-e-ticketmaster-apos-fas-relatarem-superlotacao/",
-        "summary": "Entre os relatos também estão filas extensas e desorganizadas, sinalização insuficiente, dificuldades de orientação e falhas na disponibilização e validação de ingressos digitais",
-        "image": null,
-        "date": "29 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Vasco x Flamengo: veja quem ganhou mais no retrospecto do clássico",
-        "link": "https://exame.com/esporte/vasco-x-flamengo-veja-quem-ganhou-mais-no-retrospecto-do-classico/",
-        "summary": "Rubro-Negro leva vantagem no histórico geral e também no Campeonato Brasileiro; equipes se enfrentam nesta quinta-feira, 29, pela Série A",
-        "image": null,
-        "date": "29 de out. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Por que Cristiano Ronaldo foi eleito o melhor Bola de Ouro de todos os tempos?",
-        "link": "https://exame.com/esporte/por-que-cristiano-ronaldo-foi-eleito-o-melhor-bola-de-ouro-de-todos-os-tempos/",
-        "summary": "Português venceu votação popular da revista France Football com sua temporada de 2008, superando Lionel Messi em 2012; enquete tinha votos pagos e não vale como prêmio oficial",
         "image": null,
         "date": "29 de out. de 2026",
         "source": "Exame",
