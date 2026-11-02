@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T23:34:58.022Z",
+  "updated": "2026-11-02T06:01:09.329Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,7 +11,7 @@
       "isoDate": "2026-11-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Lyon e Paris FC vencem e acompanham ritmo do PSG; Monaco de Filipe Luís fica para trás",
@@ -22,7 +22,7 @@
       "isoDate": "2026-11-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Saibari, do Bayern, passa por cirurgia bem-sucedida no tornozelo direito",
@@ -33,7 +33,7 @@
       "isoDate": "2026-11-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Juventus bate Napoli com golaços e celebra aniversário com vitória no Italiano",
@@ -55,7 +55,7 @@
       "isoDate": "2026-11-01",
       "category": "Copa do Brasil",
       "categoryColor": "#8e44ad",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Athletic Bilbao 2 x 1 Real Sociedad pelo Espanhol",
@@ -66,11 +66,22 @@
       "isoDate": "2026-11-01",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Melhores momentos: Vancouver Whitecaps FC 5 x 1 Seattle Sounders FC pela MLS",
       "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-vancouver-whitecaps-fc-5-x-1-seattle-sounders-fc-pela-mls/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "01 de nov. de 2026",
+      "isoDate": "2026-11-01",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Melhores momentos: Atlanta United 3 x 1 Toronto FC pela MLS",
+      "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-atlanta-united-3-x-1-toronto-fc-pela-mls/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "01 de nov. de 2026",
