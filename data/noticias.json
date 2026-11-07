@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T00:44:36.067Z",
+  "updated": "2026-11-07T06:54:59.783Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático",
+        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/lula-vai-filipinas-buscando-estreitar-vinculo-com-bloco-asiatico",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/lula-vai-filipinas-buscando-estreitar-vinculo-com-bloco-asiatico img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Teto de loja de roupas desaba no Brás, em São Paulo",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
+        "summary": "p strong O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). /strong O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombei",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Justiça suspende decisão que liberou o funcionamento de três bets",
         "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
@@ -161,29 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lula sanciona exame que irá avaliar qualidade de alunos de medicina",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Renato Kayzer lamenta má fase do Vitória e opina sobre demissão de Jair Ventura: Temos culpa",
+        "link": "https://www.gazetaesportiva.com/times/vitoria/renato-kayzer-lamenta-ma-fase-do-vitoria-e-opina-sobre-demissao-de-jair-ventura-temos-culpa/",
+        "summary": "O Vitória vive um momento crítico no Brasileirão após perder por 3 a 0 para o Fluminense no Barradão. A equipe chegou a cinco jogos sem vitória e está apenas um ponto acima da zona de rebaixamento, com quatro rodadas res",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55623248042_c0684961d5_o.webp",
+        "date": "07 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Fluminense vence no Barradão, e Vitória se aproxima do Z4 do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-vence-no-barradao-e-vitoria-se-aproxima-do-z4-do-brasileirao/",
+        "summary": "O Fluminense venceu o Vitória por 3 a 0 no Barradão, pela 34ª rodada do Campeonato Brasileiro, e se manteve firme no G4 da Série A. Os gols da partida foram marcados por Savarino, Canobbio e Castillo. Com a vitória, o Tr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55637121536_cf621058fd_o.webp",
+        "date": "07 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Sport perde do Operário-PR e se complica na briga pelo acesso à Série A",
         "link": "https://www.gazetaesportiva.com/times/sport/sport-perde-do-operario-pr-e-se-complica-na-briga-pelo-acesso-a-serie-a/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/times/colo-colo/vozinha-vive-fase-complicada-em-sua-aventura-no-chile/",
         "summary": "Vozinha, goleiro da seleção de Cabo Verde e protagonista da Copa do Mundo de 2026, chegou como estrela ao Colo-Colo, do Chile. Mas, três meses após sua contratação, o veterano pouco atuou e sente na pele o peso da fama. ",
         "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261106__D6P37WE__v1__HighRes__FilesFblChiCpvColocolo.webp",
-        "date": "06 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Palmeiras x Estudiantes: Conmebol anuncia data para nova venda de ingressos para final da Libertadores",
-        "link": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/palmeiras-estudiantes-conmebol-venda-ingressos-final-libertadores/",
-        "summary": "Os torcedores de Estudiantes e Palmeiras que quiserem assistir à final da Copa Libertadores ainda terão mais uma chance de adquirir ingressos para o duelo que acontece no dia 28 de novembro, no Estádio Centenário, em Mon",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/FE-C-dKXMAICB9W.webp",
-        "date": "06 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Alcaraz vence Fritz e avança às semifinais do Masters 1000 de Paris",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/alcaraz-vence-fritz-e-avanca-as-semifinais-do-masters-1000-de-paris/",
-        "summary": "Carlos Alcaraz, número 3 do mundo, venceu nesta sexta-feira (6), em uma partida emocionante, o americano Taylor Fritz (12º) nas quartas de final do Masters 1000 de Paris, torneio que o espanhol busca conquistar pela prim",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261106__D6Q22EJ__v1__HighRes__TennisFraAtpMasters.webp",
         "date": "06 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,26 @@
         "cls": ""
       },
       {
+        "title": "Lotomania: confira o resultado do concurso 2996 sorteado nesta sexta-feira (6)",
+        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2996-sorteado-nesta-sexta-feira-6/",
+        "summary": "Veja as 20 dezenas sorteadas no concurso 2996 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 2996 sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dia de Sorte: confira o resultado do concurso 1341 sorteado nesta sexta-feira (6)",
+        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1341-sorteado-nesta-sexta-feira-6/",
+        "summary": "O prêmio estimado para este concurso era de R$ 2.300.000,00. The post Dia de Sorte: confira o resultado do concurso 1341 sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Quina hoje, concurso 7161: confira o resultado sorteado nesta sexta-feira (6)",
         "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7161-confira-o-resultado-sorteado-nesta-sexta-feira-6/",
         "summary": "O prêmio deste concurso era estipulado em R$ 1.296.841,90 The post Quina hoje, concurso 7161: confira o resultado sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
@@ -347,24 +367,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Alliana, do Paraguai, toma posse como presidente após impeachment de Peña",
-        "link": "https://www.infomoney.com.br/mundo/alliana-do-paraguai-toma-posse-como-presidente-apos-impeachment-de-pena/",
-        "summary": "Ex-vice-presidente substitui o presidente após impeachment The post Alliana, do Paraguai, toma posse como presidente após impeachment de Peña appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/InfoMoney-Imagem-de-destaque-34.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "Justiça suspende decisão que liberava operação de três bets no Brasil",
+        "link": "https://exame.com/brasil/justica-suspende-decisao-que-liberava-operacao-de-tres-bets-no-brasil/",
+        "summary": "Com a decisão, voltam a valer os efeitos da MP que proíbe o funcinamento de casas de apostas de quota fixa no país",
+        "image": null,
         "date": "06 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mineração fica livre do Imposto Seletivo em 2027, mas medida é temporária",
-        "link": "https://www.infomoney.com.br/mercados/mineracao-fica-livre-do-imposto-seletivo-em-2027-mas-medida-e-temporaria/",
-        "summary": "Alíquota zero para bens minerais extraídos vale até o fim do próximo ano; setor vinha alertando para possíveis impactos do novo tributo sobre custos e competitividade The post Mineração fica livre do Imposto Seletivo em ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/radar14.png?fit=300%2C175&amp;quality=70&amp;strip=all",
-        "date": "06 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Entenda o que acontece agora com Santiago Peña após a ordem de prisão no Paraguai",
@@ -410,16 +420,6 @@
         "title": "Santiago Peña, ex-presidente do Paraguai, é preso após impeachment",
         "link": "https://exame.com/mundo/santiago-pena-ex-presidente-do-paraguai-e-preso-apos-impeachment/",
         "summary": "Detenção acontece no mesmo dia em que o Senado aprovou seu impeachment, motivado pela crise financeira do Ueno Bank",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Bets foram liberadas no Brasil? Entenda decisão da Justiça e a reação do governo Lula",
-        "link": "https://exame.com/brasil/bets-foram-liberadas-no-brasil-entenda-decisao-da-justica-e-a-reacao-do-governo-lula/",
-        "summary": "Justiça autorizou três casas de apostas a retomar as operações no Brasil após medida provisória que proibiu o setor. Governo vai recorrer da decisão",
         "image": null,
         "date": "06 de nov. de 2026",
         "source": "Exame",
