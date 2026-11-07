@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-07T06:54:59.783Z",
+  "updated": "2026-11-07T13:48:47.873Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Aves surpreendem ao recolher folhas secas e exibi-las umas às outras; entenda o significado",
+        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/07/aves-surpreendem-ao-recolher-folhas-secas-e-exibi-las-umas-as-outras-entenda-o-significado.ghtml",
+        "summary": "Aves surpreendem ao recolher folhas secas e exibi-las umas às outras; entenda Um grupo de aves recolhendo folhas secas e exibindo-as umas às outras chamou a atenção da bióloga e observadora de aves Fernanda Brich dos San",
+        "image": "https://s2-g1.glbimg.com/o8yJ5c0YZJ3eNskv7pZztAc5FbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/jJATEeSnyvtLHNoCT8gA/whatsapp-image-2026-10-19-at-10.52.07-1-.jpeg",
+        "date": "07 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Esquema de agiotagem com 41 envolvidos movimentou R$ 13 milhões apenas com empréstimos",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/esquema-agiotagem-envolvidos-movimentou-milhoes-apenas-emprestimos.ghtml",
+        "summary": "Operação mira grupo investigado por agiotagem e tomada de imóveis em Campinas O esquema de agiotagem que deixou pelo menos 18 vítimas sem imóveis em Campinas (SP) teve 41 envolvidos entre pessoas físicas e jurídicas, sen",
+        "image": "https://s2-g1.glbimg.com/luZjB4-VzPLU1WKBtYML2pM6obs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/dsgPn1SAuLjeF0vUH8hw/whatsapp-image-2026-11-06-at-06.48.48.jpeg",
+        "date": "07 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Mulher relata fuga de cárcere privado após agressor achar que ela estava fraca: 'Pensei: vou morrer'",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/mulher-relata-fuga-de-carcere-privado-apos-agressor-achar-que-ela-estava-fraca-pensei-vou-morrer.ghtml",
@@ -43,24 +63,14 @@
         "cls": "brasil"
       },
       {
-        "title": "Aranha-armadeira é encontrada com bolsa de ovos dentro de tronco de árvore; VÍDEO",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/06/aranha-armadeira-e-encontrada-com-bolsa-de-ovos-dentro-de-tronco-de-arvore-video.ghtml",
-        "summary": "Aranha-armadeira é encontrada com bolsa de ovos dentro de tronco de árvore Você já ouviu falar em ooteca? Imagine uma cápsula tecida em fios brancos guardando em seu interior diversas \"bolinhas\". Essa cápsula estava send",
-        "image": "https://s2-g1.glbimg.com/5Igf3Mn4wikkmGyNHK4lIyFLijk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/ioIvAMQCWcTc1j9Bq4hA/imagens-para-materia-35-.png",
-        "date": "06 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Festival em Paulínia terá shows de Jota Quest, Paralamas e Marcelo Falcão em 2027; veja como comprar ingressos",
-        "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/06/festival-em-paulinia-tera-shows-de-jota-quest-paralamas-e-marcelo-falcao-em-2027-veja-como-comprar-ingressos.ghtml",
-        "summary": "Jota Quest, Paralamas do Sucesso e Marcelo Falcão Divulgação/Divulgação/Igor do Vale/g1 A 5ª edição do Um Baita Festival será realizada em 22 de maio de 2027, no Parque Brasil 500, em Paulínia (SP), com shows de Jota Que",
-        "image": "https://s2-g1.glbimg.com/RDGe5Y6l99i25TYK2iqA5rseqp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/F/DsIPWlRg6obph1FFvHyA/divulgacao-divulgacao-igor-do-vale-g1.png",
-        "date": "06 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "title": "GAMA identifica furto de cerca de 105 metros de cabos na região da Praia Azul",
+        "link": "https://jornalamericanense.com.br/politica/gama-identifica-furto-de-cerca-de-105-metros-de-cabos-na-regiao-da-praia-azul/",
+        "summary": "Ocorrência foi registrada no Parque Dom Pedro II, em Americana. Dois suspeitos foram levados à Central de Polícia Judiciária. A Guarda Municipal de Americana (GAMA) identificou o furto de aproximadamente 105 metros de ca",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "Homem é preso após furto de fios em residência no Jardim Ipiranga, em Americana",
@@ -113,14 +123,54 @@
         "cls": "servicos"
       },
       {
-        "title": "Polícia Militar de SP abre concurso com 2 mil vagas para aluno-soldado",
-        "link": "https://jornalamericanense.com.br/brasil/policia-militar-de-sp-abre-concurso-com-2-mil-vagas-para-aluno-soldado/",
-        "summary": "Inscrições começam no dia 9 de novembro e seguem até 22 de dezembro; salário inicial é de R$ 5,4 mil A Polícia Militar de São Paulo abriu concurso público para preencher 2 mil vagas de aluno-soldado. A seleção é destinad",
+        "title": "Não há necessidade de vacinação da população contra mpox",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
         "image": null,
-        "date": "05 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Enem 2026: candidatos vivem expectativa sobre o tema da redação",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-vivem-expectativa-sobre-o-tema-da-redacao",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-vivem-expectativa-sobre-o-tema-da-redacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "VR e VA podem ser aceitos em mais maquininhas a partir deste sábado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-partir-deste-sabado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-partir-deste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Cartórios fazem mutirão para prevenir golpes na compra de imóveis",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Enem: confira as regras da redação e dicas para um texto nota 1.000",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-da-redacao-e-dicas-para-um-texto-nota-1000",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-da-redacao-e-dicas-para-um-texto-nota-1000 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
       },
       {
         "title": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático",
@@ -131,121 +181,91 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Teto de loja de roupas desaba no Brás, em São Paulo",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
-        "summary": "p strong O teto de uma loja de roupas desabou no Brás, na capital paulista, na noite desta sexta-feira (6). /strong O estabelecimento fica na Rua Maria Joaquina, número 192. Equipes da Polícia Militar, do Corpo de Bombei",
-        "image": null,
-        "date": "07 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Justiça suspende decisão que liberou o funcionamento de três bets",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-decisao-que-liberou-o-funcionamento-de-tres-bets img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Enem: candidato pode saber local de prova por telefone",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-candidato-pode-saber-local-de-prova-por-telefone",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-candidato-pode-saber-local-de-prova-por-telefone img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Alunos de escola pública em Goiás contam com aulões para o Enem",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/alunos-de-escola-publica-em-goias-contam-com-auloes-para-o-enem",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/alunos-de-escola-publica-em-goias-contam-com-auloes-para-o-enem img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lula apresentará avanços ambientais na COP31, na Turquia",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Renato Kayzer lamenta má fase do Vitória e opina sobre demissão de Jair Ventura: Temos culpa",
-        "link": "https://www.gazetaesportiva.com/times/vitoria/renato-kayzer-lamenta-ma-fase-do-vitoria-e-opina-sobre-demissao-de-jair-ventura-temos-culpa/",
-        "summary": "O Vitória vive um momento crítico no Brasileirão após perder por 3 a 0 para o Fluminense no Barradão. A equipe chegou a cinco jogos sem vitória e está apenas um ponto acima da zona de rebaixamento, com quatro rodadas res",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55623248042_c0684961d5_o.webp",
+        "title": "Justiça nega novo pedido de Tiffany para voltar à Superliga feminina de Vôlei",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/justica-nega-liminar-tiffany-superliga-feminina/",
+        "summary": "A Justiça do Rio de Janeiro negou um novo pedido de liminar apresentado por Tiffany Abreu, jogadora do Osasco, para voltar a atuar na Superliga Feminina de Vôlei. A decisão da 14ª Vara Cível mantém os efeitos do julgamen",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/SnapDownloader.App_788154036_18631769854000878_8255738581696960774_n.webp",
         "date": "07 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Fluminense vence no Barradão, e Vitória se aproxima do Z4 do Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-vence-no-barradao-e-vitoria-se-aproxima-do-z4-do-brasileirao/",
-        "summary": "O Fluminense venceu o Vitória por 3 a 0 no Barradão, pela 34ª rodada do Campeonato Brasileiro, e se manteve firme no G4 da Série A. Os gols da partida foram marcados por Savarino, Canobbio e Castillo. Com a vitória, o Tr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55637121536_cf621058fd_o.webp",
+        "title": "Vasco x Palmeiras: saiba onde assistir ao jogo de volta da semifinal da Copa do Brasil",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/vasco-x-palmeiras-saiba-onde-assistir-ao-jogo-de-volta-da-semifinal-da-copa-do-brasil/",
+        "summary": "O Palmeiras entra em campo neste domingo para enfrentar o Vasco e tentar confirmar a vaga na final da Copa do Brasil. A partida de volta da semifinal da competição acontece no Estádio São Januário, no Rio de Janeiro (RJ)",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/10/onde-assistir-palmeiras.webp",
         "date": "07 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Sport perde do Operário-PR e se complica na briga pelo acesso à Série A",
-        "link": "https://www.gazetaesportiva.com/times/sport/sport-perde-do-operario-pr-e-se-complica-na-briga-pelo-acesso-a-serie-a/",
-        "summary": "Nesta sexta-feira, o Sport perdeu de virada para o Operário-PR por 3 a 2, Estádio Germano Krüger, em Ponta Grossa, pela 36ª rodada da Série B do Campeonato Brasileiro e desperdiçou a oportunidade de entrar no G6 da compe",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55637245613_e13b2780a1_o.webp",
+        "title": "Dorival estuda opções para suprir desfalques no São Paulo após data Fifa",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-estuda-opcoes-para-suprir-desfalques-no-sao-paulo-apos-data-fifa/",
+        "summary": "O São Paulo terá três desfalques por suspensão para o confronto contra o Fluminense, pela 35ª rodada do Campeonato Brasileiro. Após a pausa no calendário nacional para a data Fifa de novembro, o técnico Dorival Júnior pr",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55633220693_a7d81871e6_o-1.webp",
         "date": "07 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo enfrenta o Noroeste em amistoso durante Data Fifa",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-enfrenta-o-noroeste-em-amistoso-durante-data-fifa/",
-        "summary": "O São Paulo terá um compromisso fora do calendário oficial durante a pausa do Campeonatgo Brasileiro para a Data Fifa deste mês. O Tricolor enfrenta o Noroeste em um amistoso marcado para sexta-feira, 13 de novembro, às ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55633220429_fb0aea3f7a_o.webp",
+        "title": "O que muda no Santos com Neymar Pai como CEO? Entenda os impactos",
+        "link": "https://www.gazetaesportiva.com/times/santos/neymar-pai-ceo-santos-o-que-muda/",
+        "summary": "Neymar Pai foi anunciado como novo CEO do Santos, com contrato até dezembro de 2026. O empresário terá atuação nas áreas de futebol, marketing e novos negócios, mas seguirá subordinado à presidência e ao Comitê de Gestão",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HWdH-ofWEAAOST0-1.webp",
         "date": "07 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos de Vitória x Fluminense pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-vitoria-x-fluminense-pelo-brasileirao/",
-        "summary": "O post Veja fotos de Vitória x Fluminense pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55637116081_5188ea8a6c_o.webp",
+        "title": "Seedorf estuda opções para suprir desfalques do Corinthians contra o Botafogo",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/seedorf-estuda-opcoes-para-suprir-desfalques-do-corinthians-contra-o-botafogo/",
+        "summary": "O Corinthians deve ter até quatro desfalques entre os titulares para o confronto direto com o Botafogo na luta contra o rebaixamento no Campeonato Brasileiro. Diante das ausências, o técnico Clarence Seedorf estuda alter",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/250642.webp",
         "date": "07 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vozinha vive fase complicada em sua aventura no Chile",
-        "link": "https://www.gazetaesportiva.com/times/colo-colo/vozinha-vive-fase-complicada-em-sua-aventura-no-chile/",
-        "summary": "Vozinha, goleiro da seleção de Cabo Verde e protagonista da Copa do Mundo de 2026, chegou como estrela ao Colo-Colo, do Chile. Mas, três meses após sua contratação, o veterano pouco atuou e sente na pele o peso da fama. ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261106__D6P37WE__v1__HighRes__FilesFblChiCpvColocolo.webp",
-        "date": "06 de nov. de 2026",
+        "title": "Felipe Massa revela conselhos a Bortoleto e Rafa Câmara para GP em Interlagos",
+        "link": "https://www.gazetaesportiva.com/motor/formula-1/felipe-massa-revela-conselhos-a-bortoleto-e-rafa-camara-para-gp-em-interlagos/",
+        "summary": "Felipe Massa exaltou a presença de Gabriel Bortoleto e Rafael Câmara na Fórmula 1 e destacou a importância de ter dois brasileiros na categoria. O ex-piloto deu conselhos sobre acerto de carro e gestão da pressão em Inte",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.52.36.webp",
+        "date": "07 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "VR e VA podem ser aceitos em mais maquininhas a partir deste sábado",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-partir-deste-sabado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-partir-deste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Cartórios fazem mutirão para prevenir golpes na compra de imóveis",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cartorios-fazem-mutirao-para-prevenir-golpes-na-compra-de-imoveis img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Dólar sobe para R$ 5,51, com dados de emprego nos EUA",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-551-com-dados-de-emprego-nos-eua",
@@ -287,141 +307,121 @@
         "cls": ""
       },
       {
-        "title": "IBGE confirma crescimento de 3,4% da economia em 2024",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-confirma-crescimento-de-34-da-economia-em-2024",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-confirma-crescimento-de-34-da-economia-em-2024 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.",
+        "title": "EUA reconhecem Alliana após queda de Peña e reafirmam aliança com Paraguai",
+        "link": "https://www.infomoney.com.br/mundo/eua-reconhecem-alliana-presidente-paraguai-impeachment-pena/",
+        "summary": "Embaixada americana sinaliza continuidade da parceria com novo governo após impeachment e pede respeito às instituições democráticas do país The post EUA reconhecem Alliana após queda de Peña e reafirmam aliança com Para",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/presidente-paraguai.png?fit=300%2C195&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lula sanciona Enamed: veja quem terá de passar na prova para exercer medicina",
+        "link": "https://www.infomoney.com.br/brasil/lula-sanciona-enamed-obrigatorio-exercer-medicina/",
+        "summary": "Nova lei exige desempenho mínimo no exame para obtenção do registro profissional; regra vale para estudantes que ingressaram no curso a partir de 19 de junho de 2026 The post Lula sanciona Enamed: veja quem terá de passa",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/enamed.jpeg?fit=300%2C138&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Prédio desaba no Brás sem certificado dos bombeiros; excesso de peso é suspeita",
+        "link": "https://www.infomoney.com.br/mercados/predio-desabou-bras-avcb-excesso-peso/",
+        "summary": "Excesso de peso é a principal suspeita para o desabamento; 35 pessoas estavam no imóvel e quatro ficaram feridas. The post Prédio desaba no Brás sem certificado dos bombeiros; excesso de peso é suspeita appeared first on",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-14T125005Z_1_LYNXMPEL7D0KK_RTROPTP_4_BRAZIL-DAILYLIFE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Diretor da PRIO critica imposto sobre petróleo, mas ainda vê oportunidades no Brasil",
+        "link": "https://www.infomoney.com.br/mercados/diretor-da-prio-critica-imposto-sobre-petroleo-mas-ainda-ve-oportunidades-no-brasil/",
+        "summary": "Bruno Menezes, diretor de novos negócios e comercialização da PRIO, disse que previsibilidade jurídica é importante para o setor de energia The post Diretor da PRIO critica imposto sobre petróleo, mas ainda vê oportunida",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ChatGPT-Image-25-de-set.-de-2026-09_58_24.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Rússia lança 36 mísseis e 172 drones contra Ucrânia antes de negociações de paz",
+        "link": "https://www.infomoney.com.br/mundo/russia-ataques-ucrania-misseis-drones-negociacoes-paz/",
+        "summary": "Ofensiva deixou ao menos nove feridos e provocou danos à infraestrutura energética; Rússia, Ucrânia e EUA devem retomar conversas na terça-feira (10), em Abu Dhabi The post Rússia lança 36 mísseis e 172 drones contra Ucr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-27T124419Z_1739585098_RC2B2MACC48A_RTRMADP_3_UKRAINE-CRISIS-ATTACK-POLTAVA-REGION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Paraguai troca presidente: Alliana assume e Peña é preso após crise bancária",
+        "link": "https://www.infomoney.com.br/mundo/paraguai-alliana-presidente-pena-preso-impeachment-ueno-bank/",
+        "summary": "Senado destituiu Santiago Peña por 44 votos após escândalo do Ueno Bank; ex-presidente ficou sob custódia em casa e Pedro Alliana assumiu o comando do país The post Paraguai troca presidente: Alliana assume e Peña é pres",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Bandeira-Paraguai.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Beleza no 11.11: como comparar Natura, O Boticário, kits e refis",
+        "link": "https://exame.com/tecnologia/examelab/11-11-beleza-comparar-natura-boticario-kits-refis/",
+        "summary": "Preço por volume, fragrância e quantidade realmente utilizada ajudam a avaliar a compra; veja valores consultados e como não confundir cashback com desconto imediato",
         "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Governo define minerais críticos prioritários para investimentos",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-define-minerais-criticos-prioritarios-para-investimentos",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-define-minerais-criticos-prioritarios-para-investimentos img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "05 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Lotomania: confira o resultado do concurso 2996 sorteado nesta sexta-feira (6)",
-        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2996-sorteado-nesta-sexta-feira-6/",
-        "summary": "Veja as 20 dezenas sorteadas no concurso 2996 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 2996 sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&amp;quality=70&amp;strip=all",
         "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Dia de Sorte: confira o resultado do concurso 1341 sorteado nesta sexta-feira (6)",
-        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1341-sorteado-nesta-sexta-feira-6/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2.300.000,00. The post Dia de Sorte: confira o resultado do concurso 1341 sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quina hoje, concurso 7161: confira o resultado sorteado nesta sexta-feira (6)",
-        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7161-confira-o-resultado-sorteado-nesta-sexta-feira-6/",
-        "summary": "O prêmio deste concurso era estipulado em R$ 1.296.841,90 The post Quina hoje, concurso 7161: confira o resultado sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Lotofácil hoje, concurso 3823: confira o resultado sorteado nesta sexta-feira (6)",
-        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3823-confira-o-resultado-sorteado-nesta-sexta-feira-6/",
-        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3823: confira o resultado sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Mega-Sena hoje, concurso 3082: Confira o resultado sorteado nesta sexta-feira (6)",
-        "link": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3082-confira-o-resultado-sorteado-nesta-sexta-feira-6/",
-        "summary": "Prêmio estava estimado em mais de R$ 53 milhões The post Mega-Sena hoje, concurso 3082: Confira o resultado sorteado nesta sexta-feira (6) appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/09/mega-sena.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Peña é preso em sua casa após impeachment no Paraguai",
-        "link": "https://www.infomoney.com.br/mundo/pena-e-preso-em-sua-casa-apos-impeachment-no-paraguai/",
-        "summary": "Ministério Público do Paraguai pediu nesta sexta-feira a prisão de Peña e do ex-presidente do Banco Central do Paraguai (BCP), Carlos Carvallo The post Peña é preso em sua casa após impeachment no Paraguai appeared first",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/santiago-pena.png?fit=300%2C197&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Justiça suspende decisão que liberava operação de três bets no Brasil",
-        "link": "https://exame.com/brasil/justica-suspende-decisao-que-liberava-operacao-de-tres-bets-no-brasil/",
-        "summary": "Com a decisão, voltam a valer os efeitos da MP que proíbe o funcinamento de casas de apostas de quota fixa no país",
-        "image": null,
-        "date": "06 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Entenda o que acontece agora com Santiago Peña após a ordem de prisão no Paraguai",
-        "link": "https://exame.com/mundo/entenda-o-que-acontece-agora-com-santiago-pena-apos-a-ordem-de-prisao-no-paraguai/",
-        "summary": "Ex-presidente foi imputado por \"lesão de confiança\", crime com pena de até 10 anos em casos graves; lei paraguaia dá 24 horas para que um juiz decida se ele fica preso",
+        "title": "Rússia lança 36 mísseis e 172 drones contra Ucrânia e deixa cinco regiões sem energia",
+        "link": "https://exame.com/mundo/russia-lanca-36-misseis-e-172-drones-contra-ucrania-e-deixa-cinco-regioes-sem-energia/",
+        "summary": "Ataques atingiram cerca de dez regiões, deixaram ao menos nove feridos e danificaram uma ponte em Kiev; bombardeios ocorrem às vésperas de nova rodada de negociações de paz",
         "image": null,
-        "date": "06 de nov. de 2026",
+        "date": "07 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Pedro Alliana assume a presidência do Paraguai após impeachment e prisão de Santiago Peña",
-        "link": "https://exame.com/mundo/pedro-alliana-assume-a-presidencia-do-paraguai-apos-impeachment-e-prisao-de-santiago-pena/",
-        "summary": "Durante a cerimônia de posse, presidente afirmou que o governo vai garantir a indenização dos clientes afetados pela crise do Ueno Bank",
+        "title": "Tênis no 11.11: como escolher entre Olympikus, Nike, Adidas e Mizuno",
+        "link": "https://exame.com/tecnologia/examelab/11-11-tenis-comparar-olympikus-nike-adidas-mizuno/",
+        "summary": "Veja o que comparar em modelos de corrida e caminhada, uma referência de preço do Corre 4 e os cuidados com numeração, vendedor e troca",
         "image": null,
-        "date": "06 de nov. de 2026",
+        "date": "07 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "11.11 de 2026: onde encontrar ofertas e como comparar antes de comprar",
-        "link": "https://exame.com/tecnologia/examelab/11-11-2026-onde-encontrar-ofertas-como-comparar/",
-        "summary": "Shopee, Mercado Livre, AliExpress e Magalu têm ações para novembro; veja por onde começar a pesquisa e quais condições podem mudar o valor do carrinho",
+        "title": "Gucci transforma hotel em festa de Natal para Mariah Carey",
+        "link": "https://exame.com/casual/gucci-transforma-hotel-em-festa-de-natal-para-mariah-carey/",
+        "summary": "Dirigida por Harmony Korine, a campanha de fim de ano da grife italiana coloca a cantora no centro de uma celebração extravagante, com peças da coleção Butterfly e a trilha de \"All I Want for Christmas Is You\"",
         "image": null,
-        "date": "06 de nov. de 2026",
+        "date": "07 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "11.11 no Magalu: como comparar ofertas, cupons e entrega para sua casa",
-        "link": "https://exame.com/tecnologia/examelab/11-11-magalu-comparar-ofertas-cupons-entrega/",
-        "summary": "Na compra de eletrodomésticos, móveis e tecnologia, confira quem vende, simule o frete e compare o pagamento antes de fechar a sacola",
+        "title": "CEO da Mastercard explica por que levou a parceria com a McLaren para o Brás",
+        "link": "https://exame.com/exame-in/ceo-da-mastercard-explica-por-que-levou-a-parceria-com-a-mclaren-para-o-bras/",
+        "summary": "Marcelo Tangioni aproveita a ativação de F1 para destacar o foco em 24 milhões de negócios e reforça estratégia B2B com IA e proteção cibernética para empreendedores",
         "image": null,
-        "date": "06 de nov. de 2026",
+        "date": "07 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Santiago Peña, ex-presidente do Paraguai, é preso após impeachment",
-        "link": "https://exame.com/mundo/santiago-pena-ex-presidente-do-paraguai-e-preso-apos-impeachment/",
-        "summary": "Detenção acontece no mesmo dia em que o Senado aprovou seu impeachment, motivado pela crise financeira do Ueno Bank",
+        "title": "Eletrodomésticos no 11.11: como comparar Electrolux, Brastemp e o preço final",
+        "link": "https://exame.com/tecnologia/examelab/11-11-eletrodomesticos-comparar-electrolux-brastemp/",
+        "summary": "Capacidade, consumo de energia e custo de instalação ajudam a escolher geladeiras e lavadoras; veja uma referência de preço e o que conferir antes de usar cupons",
         "image": null,
-        "date": "06 de nov. de 2026",
+        "date": "07 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
