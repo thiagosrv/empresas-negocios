@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T02:09:35.450Z",
+  "updated": "2026-11-08T09:59:01.553Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Grêmio avança à final da Copa do Brasil após empate com Atlético-MG",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/gremio-avanca-final-da-copa-do-brasil-apos-empate-com-atletico-mg",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/gremio-avanca-final-da-copa-do-brasil-apos-empate-com-atletico-mg img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Frente fria provoca queda de temperatura e risco de tempestades",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
@@ -171,19 +181,29 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
-        "image": null,
-        "date": "07 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "CRB vence Náutico no Recife e vai para última rodada da Série B no G-6",
+        "link": "https://www.gazetaesportiva.com/times/crb/crb-vence-nautico-no-recife-e-vai-para-ultima-rodada-da-serie-b-no-g-6/",
+        "summary": "Neste sábado, o CRB visitou o Náutico no Recife e venceu por 3 a 0. A partida foi válida pela 37ª rodada da Série B do Brasileirão, no Estádio dos Aflitos, e manteve as chances do time alagoano na competição. Veja também",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HWkcRVOWQAAgciW.webp",
+        "date": "08 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Flamengo vence Bahia e garante vaga nas finais da Copa do Brasil feminina",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-bahia-e-garante-vaga-nas-finais-da-copa-do-brasil-feminina/",
+        "summary": "O Flamengo garantiu neste sábado sua vaga para as finais da Copa do Brasil feminina 2026. Em jogo no Rio de Janeiro pelas semifinais da competição, as Meninas da Gávea venceram o Bahia por 3 a 2 e carimbaram o passaporte",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55639465618_7185b09db4_o-1.webp",
+        "date": "08 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Praia Clube vence Brasília de virada e segue invicto na Superliga feminina",
         "link": "https://www.gazetaesportiva.com/campeonatos/superliga-feminina-de-volei/praia-clube-vence-brasilia-superliga-feminina/",
@@ -219,26 +239,6 @@
         "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-vence-criciuma-e-disputa-acesso-direto-na-rodada-final-da-serie-b/",
         "summary": "Pela 37ª e penúltima rodada da Série B do Brasileirão, o Vila Nova venceu o Criciúma por 1 a 0 em duelo direto da parte de cima neste sábado. No Estádio Onésio Brasileiro Alvarenga, Marquinhos Gabriel anotou o gol da vit",
         "image": "https://static.gazetaesportiva.com/uploads/2026/11/55624644945_de0f92e74d_o-1.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Paulo Bracks cita desgaste e lesões após eliminação do Atlético-MG na Copa do Brasil e mira Sul-Americana",
-        "link": "https://www.gazetaesportiva.com/times/atletico-mg/paulo-bracks-eliminacao-atletico-mg-copa-do-brasil/",
-        "summary": "Antes da entrevista coletiva do técnico Eduardo Domínguez, do Atlético-MG, o vice-presidente Paulo Bracks tomou a palavra e fez um pronunciamento após a eliminação do Galo da Copa do Brasil. O time mineiro deu adeus à co",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55066788007_ccaf10c23d_4k-scaled-e1771807675674.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "GP São Paulo terá Carnaval, IZA e Ana Castela no grid antes da largada",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/gp-sao-paulo-tera-carnaval-iza-e-ana-castela-no-grid-antes-da-largada/",
-        "summary": "O GP São Paulo de Fórmula 1 terá uma cerimônia especial antes da largada neste domingo (8). A apresentação reunirá 260 integrantes das escolas de samba do Grupo Especial de São Paulo, além de IZA e Andreas Kisser, em um ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/IMG_3307.webp",
         "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,56 @@
         "cls": ""
       },
       {
+        "title": "Inventário, testamento ou doação em vida? Saiba como evitar custos e brigas",
+        "link": "https://www.infomoney.com.br/minhas-financas/inventario-testamento-ou-doacao-em-vida-saiba-como-evitar-custos-e-brigas/",
+        "summary": "Planejamento da herança pode reduzir despesas e conflitos familiares, mas especialistas alertam para riscos de antecipar a transferência de bens The post Inventário, testamento ou doação em vida? Saiba como evitar custos",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/heranca-testamento-balanca.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "O que um Congresso democrata poderia significar para a ciência nos EUA?",
+        "link": "https://www.infomoney.com.br/business/global/o-que-um-congresso-democrata-poderia-significar-para-a-ciencia-nos-eua/",
+        "summary": "Política de Trump de cancelar estudos, reduzir o número de profissionais científicos e impor maior supervisão política à concessão de recursos pode ser colocada em xeque pela nova bancada The post O que um Congresso demo",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Satelite-ExoMars.jpg?fit=300%2C217&amp;quality=70&amp;strip=all",
+        "date": "08 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Uma cúpula Trump-Putin-Xi? Isso pode ser constrangedor para um deles",
+        "link": "https://www.infomoney.com.br/business/global/uma-cupula-trump-putin-xi-isso-pode-ser-constrangedor-para-um-deles/",
+        "summary": "China mantém conversas com a Rússia e os Estados Unidos sobre uma reunião entre os líderes dos países no final do mês em Shenzhen; Jinping não quer discutir sobre Ucrânia e armas nucleares The post Uma cúpula Trump-Putin",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-05T125959Z_1_LYNXNPEL540MU_RTROPTP_4_CHINA-EUA-XI-TRUMP.jpg?fit=300%2C184&amp;quality=70&amp;strip=all",
+        "date": "08 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Por que até seus melhores funcionários contornam sistemas de IA que funcionam?",
+        "link": "https://www.infomoney.com.br/business/global/por-que-ate-seus-melhores-funcionarios-contornam-sistemas-de-ia-que-funcionam/",
+        "summary": "Professor da Harvard Business School discute o dilema de organizações que adotam sistemas capazes de tomar decisões melhores, mas preservam estruturas de autoridade humana que bloqueiam essas decisões The post Por que at",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Agentes-de-IA.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+        "date": "08 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "MBA Brasil seleciona seis brasileiros para bolsas de US$ 10 mil em MBAs no exterior",
+        "link": "https://www.infomoney.com.br/carreira/mba-brasil-seleciona-seis-brasileiros-para-bolsas-de-us-10-mil-em-mbas-no-exterior/",
+        "summary": "Estudantes cursam programas em Harvard, Stanford, MIT, Duke e Chicago Booth; quatro dos selecionados são os primeiros da família a chegar à universidade The post MBA Brasil seleciona seis brasileiros para bolsas de US$ 1",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/mba-brasil-bolsistas.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "08 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
         "link": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
         "summary": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appear",
@@ -317,111 +367,61 @@
         "cls": "brasil"
       },
       {
-        "title": "Reação contra a IA se espalha pela Europa com protestos contra data centers",
-        "link": "https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/",
-        "summary": "Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque The post Reação contra a IA se espalha pela Europa com protestos contra data centers appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/474217330_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º",
-        "link": "https://www.infomoney.com.br/esportes/veja-o-grid-de-largada-do-gp-de-sp-norris-na-pole-camara-em-11o-e-bortoleto-em-19o/",
-        "summary": "Piloto da McLaren dominou o fim de semana do Grande Prêmio de São Paulo de Fórmula 1 The post Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/lando-norris-abu-dhabi.jpg?fit=300%2C170&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Relações Exteriores do Paraguai diz que país sai fortalecido de crise do Ueno Bank",
-        "link": "https://www.infomoney.com.br/mundo/relacoes-exteriores-do-paraguai-diz-que-pais-sai-fortalecido-de-crise-do-ueno-bank/",
-        "summary": "Manifestação ocorre enquanto governos estrangeiros começam a se pronunciar sobre a mudança na Presidência The post Relações Exteriores do Paraguai diz que país sai fortalecido de crise do Ueno Bank appeared first on Info",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/santiago-pena.png?fit=300%2C197&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Trump diz que ordenou investigação contra democratas e os acusa de extorsão",
-        "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
-        "summary": "Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado The post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMone",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-20T210407Z_1_LYNXMPEM9J1U5_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Anvisa selecionará até 8 IFAs fabricados no Brasil para certificação",
-        "link": "https://www.infomoney.com.br/brasil/anvisa-selecionara-ate-8-ifas-fabricados-no-brasil-para-certificacao/",
-        "summary": "Agência abriu chamamento público para seleção dos Insumos Farmacêuticos Ativos The post Anvisa selecionará até 8 IFAs fabricados no Brasil para certificação appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/07/anvisa_2.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-        "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "'Brasil perdeu chance de ajuste gradual. Vai ter que ser no choque', diz Rodrigo Azevedo",
-        "link": "https://exame.com/invest/mercados/brasil-perdeu-chance-de-ajuste-gradual-vai-ter-que-ser-no-choque-diz-rodrigo-azevedo/",
-        "summary": "Co-fundador da Ibiúna e ex-diretor do BC acredita que ajuste fiscal virá pela dor",
+        "title": "Hamilton chega à 400ª largada na F1 em Interlagos; veja números e retrospecto do piloto",
+        "link": "https://exame.com/esporte/hamilton-chega-a-400a-largada-na-f1-em-interlagos-veja-numeros-e-retrospecto-do-piloto/",
+        "summary": "Heptacampeão alcança marca histórica no GP de São Paulo, onde conquistou três vitórias e garantiu seu primeiro título mundial, em 2008",
         "image": null,
-        "date": "07 de nov. de 2026",
+        "date": "08 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Justiça do Paraguai decreta prisão preventiva de Santiago Peña",
-        "link": "https://exame.com/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena/",
-        "summary": "Ex-presidente é investigado por irregularidades no Ueno Bank e ficará sob custódia no Regimento de Escolta Presidencial, em Assunção",
+        "title": "Xícara cheia: 6 novidades para quem gosta de café",
+        "link": "https://exame.com/casual/xicara-cheia-6-novidades-para-quem-gosta-de-cafe/",
+        "summary": "Eventos, microlotes, workshops e novos endereços mostram diferentes maneiras de explorar o universo do café",
         "image": null,
-        "date": "07 de nov. de 2026",
+        "date": "08 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Chuva forte alaga ruas, derruba árvore e leva Rio ao estágio 2 de alerta",
-        "link": "https://exame.com/brasil/chuva-forte-alaga-ruas-derruba-arvore-e-leva-rio-ao-estagio-2-de-alerta/",
-        "summary": "Prefeitura registrou seis pontos de alagamento na capital, e Duque de Caxias e Niterói também tiveram ruas alagadas",
+        "title": "11 momentos que fizeram de Interlagos um palco histórico do automobilismo",
+        "link": "https://exame.com/esporte/11-momentos-que-fizeram-de-interlagos-um-palco-historico-do-automobilismo/",
+        "summary": "De Emerson Fittipaldi a Max Verstappen, autódromo paulistano reúne vitórias brasileiras, decisões de título e corridas que entraram para a história da Fórmula 1",
         "image": null,
-        "date": "07 de nov. de 2026",
+        "date": "08 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Além das porcelanas, a aposta que gera 45% da receita da Tania Bulhões",
-        "link": "https://exame.com/casual/alem-das-porcelanas-a-aposta-que-gera-45-da-receita-da-tania-bulhoes/",
-        "summary": "Marca transfere fabricação para complexo de R$ 70 milhões em Uberaba e prevê produzir toda a linha de fragrâncias no local em 2027",
+        "title": "GP de São Paulo: onde assistir à Fórmula 1 na TV e no streaming",
+        "link": "https://exame.com/esporte/gp-de-sao-paulo-onde-assistir-a-formula-1-na-tv-e-no-streaming/",
+        "summary": "Etapa em Interlagos acontece entre 6 e 8 de novembro, com transmissão na televisão aberta e por assinatura e em plataformas digitais; corrida será disputada no domingo, às 14h",
         "image": null,
-        "date": "07 de nov. de 2026",
+        "date": "08 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Votos não contabilizados em cartão de memória mudam eleição na Geórgia",
-        "link": "https://exame.com/mundo/votos-nao-contabilizados-em-cartao-de-memoria-mudam-eleicao-na-georgia/",
-        "summary": "Gerald Greene, que estava atrás por menos de 100 votos, passou a liderar por 262 votos; funcionários do condado têm até segunda-feira para certificar o resultado",
+        "title": "O que a IA não faz por você: habilidades de liderança que seguem insubstituíveis",
+        "link": "https://exame.com/inteligencia-artificial/o-que-a-ia-nao-faz-por-voce-habilidades-de-lideranca-que-seguem-insubstituiveis/",
+        "summary": "Pesquisas mostram que pensamento crítico, comunicação e gestão de pessoas continuam entre as competências mais valorizadas pelas empresas",
         "image": null,
-        "date": "07 de nov. de 2026",
+        "date": "08 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
       },
       {
-        "title": "Por que o Brasil atrai US$ 85 bi de estrangeiros e ainda assim deixa dinheiro na mesa",
-        "link": "https://exame.com/invest/mercados/por-que-o-brasil-atrai-us-85-bi-de-estrangeiros-e-ainda-assim-deixa-dinheiro-na-mesa/",
-        "summary": "Itaú, Votorantim e BR Partners apontam o que trava o capital externo no país",
+        "title": "Acabou assim? 6 finais de séries que deixaram o público de queixo caído",
+        "link": "https://exame.com/pop/acabou-assim-6-finais-de-series-que-deixaram-o-publico-de-queixo-caido/",
+        "summary": "De revelações sobre protagonistas a despedidas que atravessam décadas, esses desfechos mudam a forma de olhar para toda a história",
         "image": null,
-        "date": "07 de nov. de 2026",
+        "date": "08 de nov. de 2026",
         "source": "Exame",
         "tag": "Exame",
         "cls": "startups"
