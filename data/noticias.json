@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-07T22:34:09.769Z",
+  "updated": "2026-11-08T02:09:35.450Z",
   "feeds": {
     "campinas": [
-      {
-        "title": "EPTV 2 Campinas ao vivo",
-        "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
-        "summary": "EPTV 2 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-        "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-        "date": "07 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
       {
         "title": "Quedas de árvores, alagamentos e falta de energia elétrica: temporal provoca estragos em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/quedas-de-arvores-alagamentos-e-falta-de-energia-eletrica-temporal-provoca-estragos-em-campinas.ghtml",
@@ -35,7 +25,7 @@
       {
         "title": "Incêndio atinge casa no Jardim Itatiaia em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/incendio-atinge-casa-no-jardim-itatiaia-em-campinas.ghtml",
-        "summary": "Incêndio atinge casa no Jardim Itatiaia em Campinas Um incêndio atingiu uma residência na tarde deste sábado (7), na Rua Serra do Pilar, no Jardim Itatiaia, em Campinas (SP). ✅ Clique aqui para seguir o canal do g1 Campi",
+        "summary": "Incêndio atinge casa no Jardim Itatiaia em Campinas Um incêndio atingiu uma residência na tarde deste sábado (7), na Rua Serra do Pilar, no Jardim Itatiaia, em Campinas (SP). Dois adultos e três crianças estavam no imóve",
         "image": "https://s2-g1.glbimg.com/iWDgNnAsE04Jo3mEkqazf0iz09Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/K/6aHcAgQuKoUP4lW8mn1w/design-sem-nome-26-.jpg",
         "date": "07 de nov. de 2026",
         "source": "G1 Campinas",
@@ -57,6 +47,16 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/artesa-tem-whatsapp-clonado-apos-clicar-em-link-de-falso-convite-para-palestra.ghtml",
         "summary": "Governo cria cadastro para identificar empresas que enviam SMS e combater golpes A artesã Renata Aparecida Pires, de Campinas (SP), teve o aplicativo WhatsApp clonado após clicar em um link enviado por SMS com um falso c",
         "image": "https://s2-g1.glbimg.com/vMQHh4I9SUy24f494QgHhSbqwP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/9/T/MzrGOqRACghj15vq9kNQ/5g-sao-paulo-foto-celso-tavares-g1-16-de-22-.jpg",
+        "date": "07 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Vídeo flagra homens saqueando trem em movimento em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/video-flagra-homens-saqueando-trem-em-movimento-em-campinas.ghtml",
+        "summary": "Vídeo flagra saque a trem em movimento em Campinas Um vídeo flagrou pelo menos dois homens saqueando um trem em movimento em Campinas (SP). O registro feito por um morador próximo à linha férrea na região do Techno Park ",
+        "image": "https://s2-g1.glbimg.com/fe0PqZZkYCetnTYmP_krHuXaGIg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/j/uAUZylQ4e76VTM5Fjs9A/design-sem-nome-7-.jpg",
         "date": "07 de nov. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,6 +123,16 @@
         "cls": "servicos"
       },
       {
+        "title": "Frente fria provoca queda de temperatura e risco de tempestades",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Rio de Janeiro registra chuva intensa e rajadas de vento",
         "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
@@ -171,75 +181,65 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Enem: confira as regras, os horários e os itens proibidos na prova",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
-        "image": null,
-        "date": "07 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Melhores momentos: Stuttgart 1 x 0 Werder Bremen pela Bundesliga",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-stuttgart-1-x-0-werder-bremen-pela-bundesliga/",
-        "summary": "Melhores momentos: Stuttgart 1 x 0 Werder Bremen pela Bundesliga O post Melhores momentos: Stuttgart 1 x 0 Werder Bremen pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/VfB-St.webp",
-        "date": "07 de nov. de 2026",
+        "title": "Praia Clube vence Brasília de virada e segue invicto na Superliga feminina",
+        "link": "https://www.gazetaesportiva.com/campeonatos/superliga-feminina-de-volei/praia-clube-vence-brasilia-superliga-feminina/",
+        "summary": "O Praia Clube venceu o Brasília por 3 sets a 1 neste sábado, pela quarta rodada da Superliga Feminina, no Ginásio FVDF, em Brasília. Após perder o primeiro set por 25/23, a equipe mineira reagiu e dominou as três parciai",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/SaveClip.App_891043190_18643018288001620_4353907079940992188_n.webp",
+        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Mainz 1 x 2 Bayern pela Bundesliga",
-        "link": "https://www.gazetaesportiva.com/times/bayern/melhores-momentos-mainz-1-x-2-bayern-pela-bundesliga/",
-        "summary": "Melhores momentos: Mainz 1 x 2 Bayern pela Bundesliga O post Melhores momentos: Mainz 1 x 2 Bayern pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261107__D6R93XT__v1__MidRes__FblGerBundesligaMainzBayernMunich.webp",
-        "date": "07 de nov. de 2026",
+        "title": "Flamengo bate Pato fora de casa e vence a quinta seguida no NBB",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/flamengo-vence-pato-fora-de-casa-e-vence-a-quinta-seguida-no-nbb/",
+        "summary": "O Flamengo venceu por 90 a 66 o Pato Basquete neste sábado, pelo NBB, no Ginásio do Sesi, em Pato Branco (PR). Com o resultado, o Rubro-Negro chega à quinta vitória consecutiva na competição. Situação na tabela Com cinco",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-07-at-22.15.07.webp",
+        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Real Madrid vence com gol de Mbappé e encosta no líder Barcelona no Espanhol",
-        "link": "https://www.gazetaesportiva.com/campeonatos/laliga/real-madrid-vence-com-gol-de-mbappe-e-encosta-no-lider-barcelona-no-espanhol/",
-        "summary": "O Real Madrid venceu o Valencia por 3 a 0 neste sábado, no Mestalla, e alcançou os 30 pontos na vice-liderança do Campeonato Espanhol, mesma pontuação do líder Barcelona, que ainda joga na rodada. Valverde, Arda Güler e ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261107__D6RY29H__v1__HighRes__FblEspLigaValenciaRealMadrid.webp",
-        "date": "07 de nov. de 2026",
+        "title": "Juventude vence Cuiabá, se mantém no G2 da Série B e fica perto do acesso",
+        "link": "https://www.gazetaesportiva.com/times/juventude/juventude-vence-cuiaba-se-mantem-no-g2-da-serie-b-e-fica-perto-do-acesso/",
+        "summary": "O Juventude venceu o Cuiabá por 2 a 1 na Arena Pantanal, pela 37ª rodada da Série B do Campeonato Brasileiro, e manteve a vice-liderança da competição com 68 pontos. Gabriel Pires abriu o placar para os gaúchos, Fábio Li",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HWj59qTXMAEx2Cd.webp",
+        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Melhores momentos: Borussia Dortmund 2 x 1 Elversberg pela Bundesliga",
-        "link": "https://www.gazetaesportiva.com/times/borussia-dortmund/melhores-momentos-borussia-dortmund-2-x-1-elversberg-pela-bundesliga/",
-        "summary": "Melhores momentos: Borussia Dortmund 2 x 1 Elversberg pela Bundesliga O post Melhores momentos: Borussia Dortmund 2 x 1 Elversberg pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Borus.webp",
-        "date": "07 de nov. de 2026",
+        "title": "Vila Nova vence Criciúma e disputa acesso direto na rodada final da Série B",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-vence-criciuma-e-disputa-acesso-direto-na-rodada-final-da-serie-b/",
+        "summary": "Pela 37ª e penúltima rodada da Série B do Brasileirão, o Vila Nova venceu o Criciúma por 1 a 0 em duelo direto da parte de cima neste sábado. No Estádio Onésio Brasileiro Alvarenga, Marquinhos Gabriel anotou o gol da vit",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55624644945_de0f92e74d_o-1.webp",
+        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "PSG bate Troyes, segue na liderança e chega à sétima vitória seguida no Francês",
-        "link": "https://www.gazetaesportiva.com/times/paris-saint-germain/psg-bate-troyes-segue-na-lideranca-e-chega-a-setima-vitoria-seguida-no-frances/",
-        "summary": "O PSG derrotou o Troyes por 1 a 0 neste sábado, pela 10ª rodada da Ligue 1. O zagueiro Illia Zabarnyi marcou o único gol do confronto, garantindo a sétima vitória consecutiva da equipe de Luis Enrique no Campeonato Franc",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261107__D6RZ39C__v1__MidRes__FblFraLigue1PsgTroyes.webp",
-        "date": "07 de nov. de 2026",
+        "title": "Paulo Bracks cita desgaste e lesões após eliminação do Atlético-MG na Copa do Brasil e mira Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/paulo-bracks-eliminacao-atletico-mg-copa-do-brasil/",
+        "summary": "Antes da entrevista coletiva do técnico Eduardo Domínguez, do Atlético-MG, o vice-presidente Paulo Bracks tomou a palavra e fez um pronunciamento após a eliminação do Galo da Copa do Brasil. O time mineiro deu adeus à co",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55066788007_ccaf10c23d_4k-scaled-e1771807675674.webp",
+        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos de Valencia x Real Madrid pelo Campeonato Espanhol",
-        "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-valencia-x-real-madrid-pelo-campeonato-espanhol/",
-        "summary": "O post Veja fotos de Valencia x Real Madrid pelo Campeonato Espanhol apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261107__D6RX9YU__v1__HighRes__FblEspLigaValenciaRealMadrid.webp",
-        "date": "07 de nov. de 2026",
+        "title": "GP São Paulo terá Carnaval, IZA e Ana Castela no grid antes da largada",
+        "link": "https://www.gazetaesportiva.com/motor/formula-1/gp-sao-paulo-tera-carnaval-iza-e-ana-castela-no-grid-antes-da-largada/",
+        "summary": "O GP São Paulo de Fórmula 1 terá uma cerimônia especial antes da largada neste domingo (8). A apresentação reunirá 260 integrantes das escolas de samba do Grupo Especial de São Paulo, além de IZA e Andreas Kisser, em um ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/IMG_3307.webp",
+        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -307,6 +307,16 @@
         "cls": ""
       },
       {
+        "title": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
+        "link": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
+        "summary": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai The post Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno appear",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-01T191238Z_1_LYNXNPEL3025K_RTROPTP_4_PARAGUAY-BRASIL-ITAIPU.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "date": "07 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Reação contra a IA se espalha pela Europa com protestos contra data centers",
         "link": "https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/",
         "summary": "Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque The post Reação contra a IA se espalha pela Europa com protestos contra data centers appeared first on InfoMoney.",
@@ -357,14 +367,24 @@
         "cls": "brasil"
       },
       {
-        "title": "Lula pede prontidão ao Exército de Janones e confirma live na Turquia",
-        "link": "https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/",
-        "summary": "Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes The post Lula pede prontidão ao Exército de Janones e confirma live na Turquia appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T015909Z_1846543588_RC2PAOAC0NJ8_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "'Brasil perdeu chance de ajuste gradual. Vai ter que ser no choque', diz Rodrigo Azevedo",
+        "link": "https://exame.com/invest/mercados/brasil-perdeu-chance-de-ajuste-gradual-vai-ter-que-ser-no-choque-diz-rodrigo-azevedo/",
+        "summary": "Co-fundador da Ibiúna e ex-diretor do BC acredita que ajuste fiscal virá pela dor",
+        "image": null,
         "date": "07 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Justiça do Paraguai decreta prisão preventiva de Santiago Peña",
+        "link": "https://exame.com/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena/",
+        "summary": "Ex-presidente é investigado por irregularidades no Ueno Bank e ficará sob custódia no Regimento de Escolta Presidencial, em Assunção",
+        "image": null,
+        "date": "07 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Chuva forte alaga ruas, derruba árvore e leva Rio ao estágio 2 de alerta",
@@ -400,26 +420,6 @@
         "title": "Por que o Brasil atrai US$ 85 bi de estrangeiros e ainda assim deixa dinheiro na mesa",
         "link": "https://exame.com/invest/mercados/por-que-o-brasil-atrai-us-85-bi-de-estrangeiros-e-ainda-assim-deixa-dinheiro-na-mesa/",
         "summary": "Itaú, Votorantim e BR Partners apontam o que trava o capital externo no país",
-        "image": null,
-        "date": "07 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Norris faz pole do GP do Brasil de F1 após atraso pela chuva",
-        "link": "https://exame.com/esporte/norris-faz-pole-do-gp-do-brasil-de-f1-apos-atraso-pela-chuva/",
-        "summary": "Piloto da McLaren larga à frente de Russell e Antonelli; Rafael Câmara será o 11º, e Gabriel Bortoleto, o 19º",
-        "image": null,
-        "date": "07 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "PIB de São Paulo cresce 1,5% até agosto, impulsionado por agropecuária e serviços",
-        "link": "https://exame.com/economia/pib-de-sao-paulo-cresce-15-ate-agosto-impulsionado-por-agropecuaria-e-servicos/",
-        "summary": "Economia paulista avançou 0,9% em agosto, na comparação anual, segundo a Fundação Seade; setor de serviços do estado cresceu acima da média nacional",
         "image": null,
         "date": "07 de nov. de 2026",
         "source": "Exame",
