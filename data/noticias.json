@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-09T00:45:06.104Z",
+  "updated": "2026-11-09T07:45:58.340Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Briga de família termina com uma pessoa morta e duas feridas a facadas no interior de SP",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/08/briga-de-familia-termina-com-uma-pessoa-morta-e-duas-feridas-a-facadas-no-interior-de-sp.ghtml",
+        "summary": "Briga familiar termina com um homem e dois feridos a facadas em Artur Nogueira Wagner Luan/Portal ON Uma briga de família que envolveu ataques a faca e enxada terminou com uma pessoa morta e duas feridas em Artur Nogueir",
+        "image": "https://s2-g1.glbimg.com/6LMDaYGWKxTuh-RDpFDj1uzCL98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/O/7emxJtQD6F5XqlYLLPZg/design-sem-nome-19-.png",
+        "date": "09 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Enem 2026: candidatos de Campinas relatam surpresa com tema da redação sobre SUS e avaliam questões",
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/08/enem-2026-estudantes-de-campinas-percepcao-prova-primeiro-dia.ghtml",
@@ -48,16 +58,6 @@
         "summary": "Local de prova do Enem 2026 é divulgado A prova do primeiro dia do Exame Nacional do Ensino Médio (Enem) será aplicada neste domingo (8) para 62,1 mil candidatos em 19 cidades da região de Campinas (SP), de acordo com da",
         "image": "https://s2-g1.glbimg.com/bH_vg5CqexYUYBZh58Q2NA7X2Qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/HIA0tyRemH3D25eEGUwQ/imagens-g1-2026-11-03t114925.084.png",
         "date": "08 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Quedas de árvores, alagamentos e falta de energia elétrica: temporal provoca estragos em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/quedas-de-arvores-alagamentos-e-falta-de-energia-eletrica-temporal-provoca-estragos-em-campinas.ghtml",
-        "summary": "Temporal provoca pontos de alagamento na região de Campinas O temporal que atingiu Campinas (SP) na tarde deste sábado (7) provocou quedas de árvores, pontos de alagamento e falta de energia elétrica em diferentes bairro",
-        "image": "https://s2-g1.glbimg.com/twJEusKoDrHe-cpATzq1QD5sJ28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/c/EeItlUQliEK6ewzhTIHw/design-sem-nome-32-.jpg",
-        "date": "07 de nov. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
         "cls": "brasil"
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Lula se compromete com responsabilidade fiscal e busca conciliação",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-busca-conciliacao-e-se-compromete-com-responsabilidade-fiscal",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-busca-conciliacao-e-se-compromete-com-responsabilidade-fiscal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
+        "image": null,
+        "date": "09 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Enem registra aumento na participação de alunos da rede pública",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
+        "image": null,
+        "date": "09 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Palmeiras bate Vasco nos pênaltis e vai à final da Copa do Brasil",
         "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-bate-vasco-nos-penaltis-e-vai-final-da-copa-do-brasil",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-bate-vasco-nos-penaltis-e-vai-final-da-copa-do-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
@@ -161,29 +181,49 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "PM atira em van e mata uma mulher em Brasília",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-atira-em-van-e-mata-uma-mulher-em-brasilia",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-atira-em-van-e-mata-uma-mulher-em-brasilia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/ass",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ao vivo: professores comentam prova na live Resenha do Enem, às 19h30",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
+      {
+        "title": "Palmeiras x Santos: saiba onde assistir à partida de ida das semifinais do Paulista sub-20",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-santos-saiba-onde-assistir-a-partida-de-ida-das-semifinais-do-paulista-sub-20/",
+        "summary": "Palmeiras e Santos se enfrentam pelo jogo de ida da semifinal do Campeonato Paulista sub-20. Veja onde assistir, horário e como chegam as equipes. O post Palmeiras x Santos: saiba onde assistir à partida de ida das semif",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/imagem_2026-11-08_230546078.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Fortaleza e Ceará anunciam saídas de treinadores após penúltima rodada da Série B",
+        "link": "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-e-ceara-anunciam-saidas-de-treinadores-apos-penultima-rodada-da-serie-b/",
+        "summary": "Tanto Fortaleza quanto Ceará anunciaram na noite deste domingo as saídas dos respectivos treinadores, a uma rodada do fim da fase regular da Série B do Campeonato Brasileiro. No Fortaleza, Paulo Autuori foi desligado do ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/03/HCWy2YxXgAASNBT.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Finazzi sugere que queda do Corinthians em 2007 foi influenciada por bastidores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/finazzi-sugere-que-queda-do-corinthians-em-2007-foi-influenciada-por-bastidores/",
+        "summary": "Ídolo da campanha de 2007, Finazzi relembrou o rebaixamento do Corinthians e levantou suspeitas sobre arbitragens e episódios extracampo na reta final do Brasileirão. O post Finazzi sugere que queda do Corinthians em 200",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/imagem_2026-11-08_225345591.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Palmeiras x Grêmio: saiba data e local da final da Copa do Brasil de 2026",
+        "link": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-x-gremio-data-e-local-da-final-da-copa-do-brasil-de-2026/",
+        "summary": "Palmeiras e Grêmio se enfrentam na final da Copa do Brasil de 2026. Veja data e local da decisão, que acontece em jogo único. O post Palmeiras x Grêmio: saiba data e local da final da Copa do Brasil de 2026 apareceu prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/copa-do-brasil.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
       {
         "title": "Abel faz revelação sobre pênaltis do Palmeiras e exalta Carlos Miguel: Extremamente competente",
         "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-exalta-carlos-miguel-revelacao-cobranca-penaltis-palmeiras/",
@@ -200,46 +240,6 @@
         "summary": "Com gol de Nicolas nos acréscimos, o Goiás venceu a Ponte Preta por 1 a 0 e manteve chances de classificação aos playoffs da Série B. O post Goiás vence a Ponte com gol no fim e segue na briga pelos playoffs da Série B a",
         "image": "https://static.gazetaesportiva.com/uploads/2026/11/894460979_18634498267061695_4522770237587279380_n-1.webp",
         "date": "09 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Ceará perde do América-MG e desperdiça chance de evitar rebaixamento à Série C",
-        "link": "https://www.gazetaesportiva.com/times/ceara/ceara-perde-do-america-mg-e-desperdica-chance-de-evitar-rebaixamento-a-serie-c/",
-        "summary": "Neste domingo, o Ceará perdeu para o América-MG por 1 a 0, na Arena Castelão, em Fortaleza, pela penúltima rodada da Série B do Campeonato Brasileiro e agora definirá a permanência ou o rebaixamento somente na última rod",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HWo1-FRX0AAVNQ9-2.webp",
-        "date": "09 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Presidente brinca com torcida do Palmeiras após classificação e diz: Confiem na Tia Leila",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-presidente-palmeiras-torcida-classificacao-copa-do-brasil/",
-        "summary": "A presidente do Palmeiras foi às redes sociais para celebrar a classificação da equipe para a final da Copa do Brasil. Leila Pereira brincou com os torcedores após a equipe eliminar o Vasco nos pênaltis, em São Januário,",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-08-at-21.08.32.webp",
-        "date": "09 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Porto vence Vitória de Guimarães e segue com campanha perfeita no Português",
-        "link": "https://www.gazetaesportiva.com/times/porto/porto-vence-vitoria-de-guimaraes-e-mantem-100-por-cento-no-campeonato-portugues/",
-        "summary": "O Porto venceu o Vitória de Guimarães por 2 a 1 neste domingo, no Estádio D. Afonso Henriques, pela 11ª rodada do Campeonato Português. Em uma partida equilibrada, o Dragão abriu o placar com Borja Sainz, viu os donos da",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UX6ET__v1__HighRes__FblPorLigaVitoriaGuimaraesPorto.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Perdi uma Libertadores em lance semelhante , diz Abel sobre não expulsão no Vasco contra o Palmeiras",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/perdi-uma-libertadores-em-lance-semelhante-diz-abel-sobre-nao-expulsao-no-vasco-contra-o-palmeiras/",
-        "summary": "Abel Ferreira evitou fazer muitas críticas à arbitragem de Bráulio da Silva Machado, responsável pelo apito na classificação do Palmeiras sobre o Vasco, na Copa do Brasil, que acontce neste domingo, em São Januário, no R",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/08112026_cg_palmeiras_destaque_1271_20.webp",
-        "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
@@ -367,6 +367,36 @@
         "cls": "brasil"
       },
       {
+        "title": "Ruínas submersas são encontradas perto de suposto local da Arca de Noé",
+        "link": "https://exame.com/ciencia/ruinas-submersas-sao-encontradas-perto-de-suposto-local-da-arca-de-noe/",
+        "summary": "Imagens feitas no Lago Van revelam estruturas de pedra a mais de 23 metros de profundidade e levantam dúvidas sobre sua origem",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Guerra de drones no espaço? Startup quer criar 'exército' de satélites controlados por IA",
+        "link": "https://exame.com/ciencia/guerra-de-drones-no-espaco-startup-quer-criar-exercito-de-satelites-controlados-por-ia/",
+        "summary": "Projeto prevê até 100 pequenos satélites capazes de agir em conjunto para proteger equipamentos estratégicos em órbita",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Como descartar canetas emagrecedoras corretamente?",
+        "link": "https://exame.com/ciencia/como-descartar-canetas-emagrecedoras-corretamente/",
+        "summary": "Agulhas e dispositivos usados no tratamento da obesidade e diabetes exigem cuidados específicos para evitar acidentes e contaminação ambiental",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
         "title": "Em pronunciamento, Lula promete criar condições para reduzir taxa de juros",
         "link": "https://exame.com/brasil/em-pronunciamento-lula-promete-criar-condicoes-para-reduzir-taxa-de-juros/",
         "summary": "Em primeira fala em rede nacional desde a reeleição, presidente reafirma compromisso com a responsabilidade fiscal, mas não detalha medidas de ajuste; ele também anunciou a criação do Ministério da Segurança Pública",
@@ -390,36 +420,6 @@
         "title": "Partido de Mandela registra 'pior resultado da história' em eleições na Africa do Sul",
         "link": "https://exame.com/mundo/partido-de-mandela-registra-pior-resultado-da-historia-em-eleicoes-na-africa-do-sul/",
         "summary": "ANC teve queda exponencial nas urnas em disputa municipal; escândalos, desemprego e crise energética minam popularidade da sigla",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "CSN assina contrato de venda da CSN Cimentos à chinesa Huaxin em negócio de R$ 12,7 bi",
-        "link": "https://exame.com/invest/mercados/csn-assina-contrato-de-venda-da-csn-cimentos-a-chinesa-huaxin-em-negocio-de-r-127-bi/",
-        "summary": "A Huaxin vai pagar cerca de R$ 9 bilhões pelas ações. A operação ainda precisa do aval do Cade, da Aneel e de órgãos reguladores chineses",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Trump admite que deportação em massa de imigrantes foi 'dura demais'",
-        "link": "https://exame.com/mundo/trump-admite-que-deportacao-em-massa-de-imigrantes-foi-dura-demais/",
-        "summary": "Apesar da fala do presidente dos EUA, a Casa Branca disse à BBC que o governo não vai diminuir o ritmo",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Conselho da Nvidia investiga espionagem chinesa após CEO admitir caso extraconjugal",
-        "link": "https://exame.com/mundo/conselho-da-nvidia-investiga-espionagem-chinesa-apos-ceo-admitir-caso-extraconjugal/",
-        "summary": "Jensen Huang confessou infidelidade com ex-executiva suspeita de atuar para Pequim; líder permanecerá no cargo, mas crise levanta dúvidas sobre sucessão na gigante de IA.",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Exame",
