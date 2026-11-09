@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-08T20:59:30.273Z",
+  "updated": "2026-11-09T00:45:06.104Z",
   "feeds": {
     "campinas": [
       {
-        "title": "Mãe com 30 anos de trabalho na educação se emociona ao levar filho para o primeiro Enem: 'Chorei não só com o meu, mas com todos'",
+        "title": "Enem 2026: candidatos de Campinas relatam surpresa com tema da redação sobre SUS e avaliam questões",
+        "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/08/enem-2026-estudantes-de-campinas-percepcao-prova-primeiro-dia.ghtml",
+        "summary": "Atualidades, redação e questões repetitivas: candidatos avaliam 1º dia do Enem Estudantes de Campinas (SP) ouvidos pelo g1 relataram surpresa com o tema da redação proposta pelo Enem 2026, que teve a primeira prova aplic",
+        "image": "https://s2-g1.glbimg.com/jn8HuuEBOkZykdZUcBxCd_zUtNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/1/JlcRoiTd6178l07aFBLw/eptv-cp-bdc-2409-flagra-faixa-exclusiva-2-.png",
+        "date": "08 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mulher que trabalha há 30 anos com educação se emociona ao levar filho para 1º Enem: 'Sensação muito diferente'",
         "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/08/mae-com-30-anos-de-trabalho-na-educacao-se-emociona-ao-levar-filho-para-o-primeiro-enem-chorei-nao-so-com-o-meu-mas-com-todos.ghtml",
         "summary": "'Dever cumprido': mãe se emociona ao levar filho para fazer o Enem pela 1ª vez A coordenadora de projetos Karina Ramos, que trabalha na área da educação há cerca de 30 anos, vivenciou uma emoção diferente ao levar o próp",
         "image": "https://s2-g1.glbimg.com/gUv5I53liDRywQpe_Bcbu6H18B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/z/R9OM6MTTGXyV1pzBdkMA/eptv-cp-bdc-2409-flagra-faixa-exclusiva-3-.jpg",
@@ -53,14 +63,54 @@
         "cls": "brasil"
       },
       {
-        "title": "Coberto por 'nuvem prateleira', Viracopos recebe voos de outros aeroportos por conta de temporal",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/coberto-por-nuvem-prateleira-viracopos-recebe-voos-de-outros-aeroportos-por-conta-de-temporal.ghtml",
-        "summary": "‘Nuvem prateleira’ encobre Aeroporto de Viracopos em Campinas A chegada do temporal à região de Campinas (SP) trouxe a formação de uma \"nuvem prateleira\", que cobriu o Aeroporto de Viracopos na tarde deste sábado (7). Du",
-        "image": "https://s2-g1.glbimg.com/2XnILB1aZZh_1mFkilq3y06mjGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/FAAf33TL2eHFFQyg6IdA/design-sem-nome-2026-11-07t165909.634.jpg",
-        "date": "07 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "title": "Falta de energia suspende aulas em três escolas de Santa Bárbara d’Oeste nesta segunda-feira",
+        "link": "https://jornalamericanense.com.br/cidades/falta-de-energia-suspende-aulas-em-tres-escolas-de-santa-barbara-doeste-nesta-segunda-feira/",
+        "summary": "Unidades do Cidade Nova, 31 de Março e Jardim Mariana estão sem energia após a chuva e os ventos fortes de sábado (7). As demais escolas municipais terão aulas normalmente. Três escolas da rede municipal de Santa Bárbara",
+        "image": null,
+        "date": "09 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Defesa Civil de SP desmente boato sobre desastre iminente ligado ao El Niño",
+        "link": "https://jornalamericanense.com.br/brasil/defesa-civil-de-sp-desmente-boato-sobre-desastre-iminente-ligado-ao-el-nino/",
+        "summary": "Órgão orienta a população a verificar a origem de mensagens antes de compartilhá-las e a acompanhar os comunicados oficiais sobre chuvas fortes na sua região. A Defesa Civil do Estado de São Paulo desmentiu a informação ",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Vídeo mostra helicóptero girando no ar antes de cair em fazenda em Minas Gerais",
+        "link": "https://jornalamericanense.com.br/brasil/video-mostra-helicoptero-girando-no-ar-antes-de-cair-em-fazenda-em-minas-gerais/",
+        "summary": "Aeronave sobrevoava um milharal em Passos quando perdeu estabilidade. O piloto morreu após ser internado, e quatro passageiros seguem hospitalizados. Vídeo mostra os instantes que antecederam a queda de um helicóptero na",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Briga entre vizinhos termina com um homem morto e dois feridos em Artur Nogueira",
+        "link": "https://jornalamericanense.com.br/policia/briga-entre-vizinhos-termina-com-um-homem-morto-e-dois-feridos-em-artur-nogueira/",
+        "summary": "Ocorrência foi registrada na tarde deste domingo (8), no Parque das Palmeiras. A esposa da vítima e outro homem ficaram feridos por golpes de faca. Um homem morreu e outras duas pessoas ficaram feridas após uma briga ent",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Enem 2026 tem SUS na redação e aborda terras raras, Irã e Lei Rouanet no primeiro dia",
+        "link": "https://jornalamericanense.com.br/brasil/enem-2026-tem-sus-na-redacao-e-aborda-terras-raras-ira-e-lei-rouanet-no-primeiro-dia/",
+        "summary": "Inep confirmou o tema da redação neste domingo (8). Professores que fizeram o exame também relataram questões sobre o ECA Digital, inteligência artificial e mudanças climáticas. O Sistema Único de Saúde (SUS) foi o tema ",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "GAMA identifica furto de cerca de 105 metros de cabos na região da Praia Azul",
@@ -73,59 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Homem é preso após furto de fios em residência no Jardim Ipiranga, em Americana",
-        "link": "https://jornalamericanense.com.br/policia/homem-e-preso-apos-furto-de-fios-em-residencia-no-jardim-ipiranga-em-americana/",
-        "summary": "Suspeito de 28 anos foi detido pelo proprietário e por populares após fugir do imóvel; ferramentas e fios foram encontrados na mochila A Guarda Municipal de Americana (GAMA) prendeu um homem de 28 anos na noite desta qui",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Motorista bate contra poste ao tentar desviar de capivara em Americana",
-        "link": "https://jornalamericanense.com.br/policia/motorista-bate-contra-poste-ao-tentar-desviar-de-capivara-em-americana/",
-        "summary": "Acidente ocorreu na Avenida Bandeirantes, no Jardim Recanto; condutor de 44 anos não sofreu ferimentos Um motorista de 44 anos perdeu o controle do carro e colidiu contra um poste após tentar desviar de uma capivara, na ",
-        "image": null,
-        "date": "06 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Feira das Nações de Santa Bárbara acontece neste final de semana com shows de Gustavo Mioto e Dilsinho",
-        "link": "https://jornalamericanense.com.br/cultura/feira-das-nacoes-de-santa-barbara-acontece-neste-final-de-semana-com-shows-de-gustavo-mioto-e-dilsinho/",
-        "summary": "A 34ª Feira das Nações de Santa Bárbara d’Oeste, que será realizada nos dias 7 e 8 de novembro, no Complexo Usina Santa Bárbara, já está com toda a programação definida. O evento reunirá apresentações de música, teatro, ",
-        "image": null,
-        "date": "05 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Defesa Civil de SP renova alerta de temporais e ativa gabinete de crise",
-        "link": "https://jornalamericanense.com.br/cidades/defesa-civil-de-sp-renova-alerta-de-temporais-e-ativa-gabinete-de-crise/",
-        "summary": "O Gabinete Especial da Operação El Niño terá mobilização remota por meio do Centro de Gerenciamento de Emergências para intensificar o monitoramento e a articulação das ações de preparação e resposta; população deve adot",
-        "image": null,
-        "date": "05 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Americana recebe reunião do Parlamento da RMC sobre prevenção de enchentes nesta sexta-feira (6)",
-        "link": "https://jornalamericanense.com.br/politica/americana-recebe-reuniao-do-parlamento-da-rmc-sobre-prevencao-de-enchentes-nesta-sexta-feira-6/",
-        "summary": "Encontro nesta sexta-feira (6), na Câmara Municipal, reunirá vereadores da região para discutir drenagem urbana e manejo das águas da chuva A Câmara Municipal de Americana sedia nesta sexta-feira (6), às 10h, a sétima re",
-        "image": null,
-        "date": "05 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Pescador morre após embarcações virarem no interior paulista",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pescador-morre-apos-embarcacoes-virarem-no-interior-paulista",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pescador-morre-apos-embarcacoes-virarem-no-interior-paulista img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb",
+        "title": "Palmeiras bate Vasco nos pênaltis e vai à final da Copa do Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-bate-vasco-nos-penaltis-e-vai-final-da-copa-do-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-bate-vasco-nos-penaltis-e-vai-final-da-copa-do-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Professores avaliam tema da redação do Enem como relevante e acessível",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-avaliam-tema-da-redacao-do-enem-como-relevante-e-acessivel",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-avaliam-tema-da-redacao-do-enem-como-relevante-e-acessivel img src= https://cdn.jsdelivr.net/gh/sergiosdl",
+        "title": "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/movimentacoes-no-senado-antecipam-disputa-pelo-comando-da-casa-em-2027",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/movimentacoes-no-senado-antecipam-disputa-pelo-comando-da-casa-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdl",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Seleção masculina inicia apresentação para últimos amistosos do ano",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/selecao-masculina-inicia-apresentacao-para-ultimos-amistosos-do-ano",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/selecao-masculina-inicia-apresentacao-para-ultimos-amistosos-do-ano img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "Justiça do RJ mantém prisão de lutador que agrediu vizinhas",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-do-rj-mantem-prisao-de-lutador-que-agrediu-vizinhas",
+        "summary": "p strong A Justiça do Rio transformou em preventiva a prisão temporária do lutador de jiu-jitsu Lucas Portela Fontana Gomes, 32 anos, acusado de tentar matar duas vizinhas após invadir apartamentos e agredir moradores de",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Tema da redação do Enem é “Valorização do SUS como direito universal”",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "PF investiga ameaças recebidas pela deputada eleita Ana Elisa",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/pf-investiga-ameacas-recebidas-pela-deputada-eleita-ana-elisa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Portões se abrem e candidatos seguem para fazer o Enem 2026",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/portoes-se-abrem-e-candidatos-seguem-para-fazer-o-enem-2026",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/portoes-se-abrem-e-candidatos-seguem-para-fazer-o-enem-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-",
+        "title": "PM atira em van e mata uma mulher em Brasília",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-atira-em-van-e-mata-uma-mulher-em-brasilia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-atira-em-van-e-mata-uma-mulher-em-brasilia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/ass",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aplicacao-do-enem-e-operacao-de-guerra-contra-o-retrocesso-diz-lula",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aplicacao-do-enem-e-operacao-de-guerra-contra-o-retrocesso-diz-lula img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "title": "Ao vivo: professores comentam prova na live Resenha do Enem, às 19h30",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Melhores momentos: Magdeburg 4 x 1 St. Pauli pela Segunda Divisão da Bundesliga",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-magdeburg-4-x-1-st-pauli-pela-segunda-divisao-da-bundesliga/",
-        "summary": "Melhores momentos: Magdeburg 4 x 1 St. Pauli pela Segunda Divisão da Bundesliga O post Melhores momentos: Magdeburg 4 x 1 St. Pauli pela Segunda Divisão da Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Magd.webp",
+        "title": "Abel faz revelação sobre pênaltis do Palmeiras e exalta Carlos Miguel: Extremamente competente",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-exalta-carlos-miguel-revelacao-cobranca-penaltis-palmeiras/",
+        "summary": "O Palmeiras sofreu, mas garantiu a vaga na final da Copa do Brasil neste domingo após eliminar o Vasco nos pênaltis, no jogo de volta da semifinal no gramado \"pesado\" de São Januário, no Rio de Janeiro (RJ), como classif",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/08112026_cg_palmeiras_1629_78.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Goiás vence a Ponte com gol no fim e segue na briga pelos playoffs da Série B",
+        "link": "https://www.gazetaesportiva.com/times/goias/goias-vence-a-ponte-com-gol-no-fim-e-segue-na-briga-pelos-playoffs-da-serie-b/",
+        "summary": "Com gol de Nicolas nos acréscimos, o Goiás venceu a Ponte Preta por 1 a 0 e manteve chances de classificação aos playoffs da Série B. O post Goiás vence a Ponte com gol no fim e segue na briga pelos playoffs da Série B a",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/894460979_18634498267061695_4522770237587279380_n-1.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Ceará perde do América-MG e desperdiça chance de evitar rebaixamento à Série C",
+        "link": "https://www.gazetaesportiva.com/times/ceara/ceara-perde-do-america-mg-e-desperdica-chance-de-evitar-rebaixamento-a-serie-c/",
+        "summary": "Neste domingo, o Ceará perdeu para o América-MG por 1 a 0, na Arena Castelão, em Fortaleza, pela penúltima rodada da Série B do Campeonato Brasileiro e agora definirá a permanência ou o rebaixamento somente na última rod",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HWo1-FRX0AAVNQ9-2.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Presidente brinca com torcida do Palmeiras após classificação e diz: Confiem na Tia Leila",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/leila-presidente-palmeiras-torcida-classificacao-copa-do-brasil/",
+        "summary": "A presidente do Palmeiras foi às redes sociais para celebrar a classificação da equipe para a final da Copa do Brasil. Leila Pereira brincou com os torcedores após a equipe eliminar o Vasco nos pênaltis, em São Januário,",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-08-at-21.08.32.webp",
+        "date": "09 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Porto vence Vitória de Guimarães e segue com campanha perfeita no Português",
+        "link": "https://www.gazetaesportiva.com/times/porto/porto-vence-vitoria-de-guimaraes-e-mantem-100-por-cento-no-campeonato-portugues/",
+        "summary": "O Porto venceu o Vitória de Guimarães por 2 a 1 neste domingo, no Estádio D. Afonso Henriques, pela 11ª rodada do Campeonato Português. Em uma partida equilibrada, o Dragão abriu o placar com Borja Sainz, viu os donos da",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UX6ET__v1__HighRes__FblPorLigaVitoriaGuimaraesPorto.webp",
         "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Atlético de Madrid x Barcelona: veja fotos do jogo pelo Espanhol",
-        "link": "https://www.gazetaesportiva.com/times/barcelona/atletico-de-madrid-x-barcelona-veja-fotos-do-jogo-pelo-espanhol/",
-        "summary": "O post Atlético de Madrid x Barcelona: veja fotos do jogo pelo Espanhol apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UW3PM__v1__HighRes__FblEspLigaAtleticoBarcelona.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Caras novas da Seleção: André Luiz, Morisco, Jonathan Jesus, Bontempo e Arthur Dias se apresentam",
-        "link": "https://www.gazetaesportiva.com/times/brasil/caras-novas-da-selecao-andre-luiz-morisco-jonathan-jesus-bontempo-e-arthur-dias-se-apresentam/",
-        "summary": "Caras novas da Seleção: André Luiz, Morisco, Jonathan Jesus, Bontempo e Arthur Dias se apresentam O post Caras novas da Seleção: André Luiz, Morisco, Jonathan Jesus, Bontempo e Arthur Dias se apresentam apareceu primeiro",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Pedro.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Petrolina e FácilNet empatam pelo Grupo A do Pernambucano; Central vence no Grupo B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/pernambucano/rodada-do-pernambucano-define-classificados-e-mantem-disputa-pela-lideranca/",
-        "summary": "A quinta rodada do Campeonato Pernambucano definiu os classificados para a próxima fase em ambos os grupos. No Grupo A, Petrolina e FácilNet empataram sem gols em confronto direto pela liderança, enquanto o Salgueiro con",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Captura-de-tela-2026-11-08-173613.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Bortoleto lamenta resultado no GP de São Paulo e comenta disputa com Rafa Câmara",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/bortoleto-lamenta-resultado-no-gp-de-sao-paulo-e-comenta-disputa-com-rafa-camara/",
-        "summary": "Gabriel Bortoleto completou pela primeira vez o GP de São Paulo, mas terminou apenas em 16º após largar em 19º. O piloto da Audi lamentou a classificação ruim, destacou o bom ritmo de corrida e valorizou a experiência ad",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261108__D6UM2VQ__v1__MidRes__AutoPrixF1BraRace.webp",
-        "date": "08 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Melhores momentos: Hamburg 3 x 1 M gladbach pela Bundesliga",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/melhores-momentos-hamburg-3-x-1-mgladbach-pela-bundesliga/",
-        "summary": "Melhores momentos: Hamburg 3 x 1 M'gladbach pela Bundesliga O post Melhores momentos: Hamburg 3 x 1 M gladbach pela Bundesliga apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Hamb.webp",
+        "title": "Perdi uma Libertadores em lance semelhante , diz Abel sobre não expulsão no Vasco contra o Palmeiras",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/perdi-uma-libertadores-em-lance-semelhante-diz-abel-sobre-nao-expulsao-no-vasco-contra-o-palmeiras/",
+        "summary": "Abel Ferreira evitou fazer muitas críticas à arbitragem de Bráulio da Silva Machado, responsável pelo apito na classificação do Palmeiras sobre o Vasco, na Copa do Brasil, que acontce neste domingo, em São Januário, no R",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/08112026_cg_palmeiras_destaque_1271_20.webp",
         "date": "08 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,119 +307,119 @@
         "cls": ""
       },
       {
-        "title": "Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4",
-        "link": "https://www.infomoney.com.br/politica/kassab-espera-corte-nas-contas-publicas-para-balizar-apoio-do-psd-a-lula-4/",
-        "summary": "Kassab quer manter participação de seus correligionários na administração federal e acredita na legitimidade de Lula para entregar os programas sociais, mas quer compromisso com os cortes de gastos The post Kassab espera",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/6168801321_dfe93c7fdb_b.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros",
+        "link": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/",
+        "summary": "Presidente afirmou que a atuação do governo terá foco no crescimento e que um dos principais objetivos ⁠será ‌elevar a taxa de investimento para mais de ⁠20% do PIB The post Lula reafirma compromisso fiscal, mas evita de",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-08-213027.png?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "date": "09 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia",
+        "link": "https://www.infomoney.com.br/mercados/mercados-asiaticos-podem-sofrer-pressao-apos-investigacao-sobre-a-nvidia/",
+        "summary": "A surpreendente revelação ocorre após uma série de reportagens apontar que o executivo da Nvidia foi alvo de Alice Huang, ex-executiva da Megaspeed International The post Mercados asiáticos podem sofrer pressão após inve",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-03T203908Z_1083261173_RC2SVIAHEADT_RTRMADP_3_NVIDIA-OPENAI.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
         "date": "08 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs",
-        "link": "https://www.infomoney.com.br/business/com-ataques-acelerados-por-ia-seguro-cibernetico-ganha-importancia-para-pmes/",
-        "summary": "Seguro cibernético deve se tornar padrão para pequenas empresas, afirma líder nacional da área de segurança ‌cibernética da RPS The post Com ataques acelerados por IA, seguro cibernético ganha importância para PMEs appea",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/hackers.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Palmeiras bate Vasco e decide Copa do Brasil contra Grêmio; veja quanto vale o título",
+        "link": "https://www.infomoney.com.br/esportes/palmeiras-bate-vasco-e-decide-copa-do-brasil-contra-gremio-veja-quanto-vale-o-titulo/",
+        "summary": "Neste ano, a decisão será disputada em jogo único, no Mané Garrincha, marcado para o dia 6 de dezembro The post Palmeiras bate Vasco e decide Copa do Brasil contra Grêmio; veja quanto vale o título appeared first on Info",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-08-194823.png?fit=300%2C188&amp;quality=70&amp;strip=all",
         "date": "08 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Parlamentares denunciam saques privilegiados no Ueno Bank antes de intervenção",
-        "link": "https://www.infomoney.com.br/mundo/parlamentares-denunciam-saques-privilegiados-no-ueno-bank-antes-de-intervencao/",
-        "summary": "Denúncia será apresentada ao Ministério Público para apurar transferências milionárias realizadas antes do bloqueio das operações, enquanto correntistas comuns ficaram sem acesso a salários e aposentadorias The post Parl",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-03T212637Z_305952984_RC2GGOAFMQC0_RTRMADP_3_PARAGUAY-FINANCE.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Sob pressão do clima, setor financeiro vai à COP31 para avançar em transição verde",
+        "link": "https://www.infomoney.com.br/mundo/sob-pressao-do-clima-setor-financeiro-vai-a-cop31-para-avancar-em-transicao-verde/",
+        "summary": "Bancos e seguradoras levam propostas para financiar projetos de baixo carbono, ampliar o seguro rural e incorporar riscos climáticos às operações de crédito, em meio à pressão crescente dos eventos extremos The post Sob ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/carro-eletrico-economia-verde.jpg?fit=300%2C190&amp;quality=70&amp;strip=all",
         "date": "08 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Terras raras, Lei Rouanet, Guerra no Irã: professores comentam o que caiu no Enem",
-        "link": "https://www.infomoney.com.br/brasil/terras-raras-lei-rouanet-guerra-no-ira-professores-comentam-o-que-caiu-no-enem/",
-        "summary": "Exame a principal porta de entrada para universidades públicas e privadas do País e contou com mais de 5 milhões de inscritos neste ano The post Terras raras, Lei Rouanet, Guerra no Irã: professores comentam o que caiu n",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/04/sp_enem23.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "title": "F-1: GP de São Paulo de 2026 quebra novo recorde de público em Interlagos",
+        "link": "https://www.infomoney.com.br/esportes/f-1-gp-de-sao-paulo-de-2026-quebra-novo-recorde-de-publico-em-interlagos/",
+        "summary": "Para a corrida deste ano, a organização teve como uma das principais novidades uma arquibancada fixa no S do Senna The post F-1: GP de São Paulo de 2026 quebra novo recorde de público em Interlagos appeared first on Info",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-09T192738Z_400669359_UP1ELB91I21CI_RTRMADP_3_MOTOR-F1-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "08 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "EUA pedem ao Iraque que feche maioria de postos de fronteira com o Irã, diz ministro",
-        "link": "https://www.infomoney.com.br/mercados/eua-pedem-ao-iraque-que-feche-maioria-de-postos-de-fronteira-com-o-ira-diz-ministro/",
-        "summary": "EUA pedem ao Iraque que feche maioria de postos de fronteira com o Irã, diz ministro iraquiano The post EUA pedem ao Iraque que feche maioria de postos de fronteira com o Irã, diz ministro appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-01-18T114308Z_1737493370_RC2N3JA5DJD1_RTRMADP_3_IRAN-IRAQ.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Câmara lamenta resultado no GP de SP de F-1: Não estou satisfeito",
+        "link": "https://www.infomoney.com.br/esportes/camara-lamenta-resultado-no-gp-de-sp-de-f-1-nao-estou-satisfeito/",
+        "summary": "O brasileiro perdeu posições durante a corrida e saiu da pista em três ocasiões, chegando em 20º The post Câmara lamenta resultado no GP de SP de F-1: Não estou satisfeito appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-06T121844Z_419816441_UP1EMB60Y773N_RTRMADP_3_MOTOR-F1-BRAZIL.jpg?fit=300%2C213&amp;quality=70&amp;strip=all",
         "date": "08 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Em pronunciamento, quero falar sobre conquistas, soberania e futuro , diz Lula",
-        "link": "https://www.infomoney.com.br/politica/em-pronunciamento-quero-falar-sobre-conquistas-soberania-e-futuro-diz-lula/",
-        "summary": "O presidente pretende fazer acenos de compromisso com responsabilidade fiscal, apesar de não anunciar nenhuma medida concreta The post Em pronunciamento, quero falar sobre conquistas, soberania e futuro , diz Lula appear",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Lula-telefone-2.webp?fit=300%2C182&amp;quality=70&amp;strip=all",
+        "title": "Em pronunciamento, Lula promete criar condições para reduzir taxa de juros",
+        "link": "https://exame.com/brasil/em-pronunciamento-lula-promete-criar-condicoes-para-reduzir-taxa-de-juros/",
+        "summary": "Em primeira fala em rede nacional desde a reeleição, presidente reafirma compromisso com a responsabilidade fiscal, mas não detalha medidas de ajuste; ele também anunciou a criação do Ministério da Segurança Pública",
+        "image": null,
         "date": "08 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Ex-presidente da Colômbia, Gustavo Petro, é investigado por 'escândalo sexual'",
+        "link": "https://exame.com/mundo/ex-presidente-da-colombia-gustavo-petro-e-investigado-por-escandalo-sexual/",
+        "summary": "Mulher denuncia que dezenas de pessoas ganharam contratos do Estado em troca de vínculos íntimos; ex-líder nega e acusa 'complô' político",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Partido de Mandela registra 'pior resultado da história' em eleições na Africa do Sul",
+        "link": "https://exame.com/mundo/partido-de-mandela-registra-pior-resultado-da-historia-em-eleicoes-na-africa-do-sul/",
+        "summary": "ANC teve queda exponencial nas urnas em disputa municipal; escândalos, desemprego e crise energética minam popularidade da sigla",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "CSN assina contrato de venda da CSN Cimentos à chinesa Huaxin em negócio de R$ 12,7 bi",
+        "link": "https://exame.com/invest/mercados/csn-assina-contrato-de-venda-da-csn-cimentos-a-chinesa-huaxin-em-negocio-de-r-127-bi/",
+        "summary": "A Huaxin vai pagar cerca de R$ 9 bilhões pelas ações. A operação ainda precisa do aval do Cade, da Aneel e de órgãos reguladores chineses",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
+      },
+      {
+        "title": "Trump admite que deportação em massa de imigrantes foi 'dura demais'",
+        "link": "https://exame.com/mundo/trump-admite-que-deportacao-em-massa-de-imigrantes-foi-dura-demais/",
+        "summary": "Apesar da fala do presidente dos EUA, a Casa Branca disse à BBC que o governo não vai diminuir o ritmo",
+        "image": null,
+        "date": "08 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "Conselho da Nvidia investiga espionagem chinesa após CEO admitir caso extraconjugal",
         "link": "https://exame.com/mundo/conselho-da-nvidia-investiga-espionagem-chinesa-apos-ceo-admitir-caso-extraconjugal/",
         "summary": "Jensen Huang confessou infidelidade com ex-executiva suspeita de atuar para Pequim; líder permanecerá no cargo, mas crise levanta dúvidas sobre sucessão na gigante de IA.",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Novo filme de Kleber Mendonça Filho vai retratar propaganda nazista no Recife",
-        "link": "https://exame.com/pop/novo-filme-de-kleber-mendonca-filho-vai-retratar-propaganda-nazista-no-recife/",
-        "summary": "Diretor revelou o título 'O Correspondente Estrangeiro' em coletiva de imprensa no Cine Ceará 2026",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Trump diz que novos ataques contra Irã são 'altamente improváveis'",
-        "link": "https://exame.com/mundo/trump-diz-que-novos-ataques-contra-ira-sao-altamente-improvaveis/",
-        "summary": "Presidente americano cita inflação recorde no país persa e condiciona trégua a um acordo 'muito forte' sobre programa nuclear e tráfego marítimo",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Mercedes é campeã mundial de construtores da Fórmula 1 em 2026",
-        "link": "https://exame.com/esporte/mercedes-e-campea-mundial-de-construtores-da-formula-1-em-2026/",
-        "summary": "Com o quarto lugar de Russell e o quinto de Antonelli no GP de São Paulo, a equipe alemã fechou a dobradinha de títulos a três etapas do fim e conquistou o nono troféu de construtores da sua história",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Lando Norris vence GP de São Paulo de F1; confira pódio",
-        "link": "https://exame.com/esporte/lando-norris-vence-gp-de-sao-paulo-de-f1-confira-podio/",
-        "summary": "Britânico da McLaren venceu corrida em Interlagos, com Verstappen e Hadjar no pódio; Antonelli terminou em quinto e garantiu título da Mercedes",
-        "image": null,
-        "date": "08 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Eisenkot alerta para 'crise histórica' em Israel e cobra coalizão ampla contra Netanyahu",
-        "link": "https://exame.com/mundo/eisenkot-alerta-para-crise-historica-em-israel-e-cobra-coalizao-ampla-contra-netanyahu/",
-        "summary": "Encarregado de formar o novo governo, líder da oposição acusa atual premiê de aprofundar turbulência e acena para partidos árabes e direita rival em meio a pressões diplomáticas dos EUA",
         "image": null,
         "date": "08 de nov. de 2026",
         "source": "Exame",
