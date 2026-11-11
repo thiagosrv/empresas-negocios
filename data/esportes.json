@@ -1,18 +1,7 @@
 {
-  "updated": "2026-11-10T23:20:47.665Z",
+  "updated": "2026-11-11T06:18:13.972Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Carrick deve ser demitido do Manchester United após início ruim de temporada",
-      "link": "https://www.gazetaesportiva.com/times/manchester-united/carrick-deve-ser-demitido-do-manchester-united-apos-inicio-ruim-de-temporada/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "10 de nov. de 2026",
-      "isoDate": "2026-11-10",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
-    },
     {
       "title": "Kompany retorna ao centro de treinamento do Bayern de Munique",
       "link": "https://www.gazetaesportiva.com/times/bayern/kompany-retorna-ao-centro-de-treinamento-do-bayern-de-munique/",
@@ -22,7 +11,7 @@
       "isoDate": "2026-11-10",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "McTominay revela que enfrentou problema cardíaco antes da Copa do Mundo",
@@ -33,7 +22,7 @@
       "isoDate": "2026-11-10",
       "category": "Copa do Mundo",
       "categoryColor": "#2980b9",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Jobe Bellingham diz que estar na seleção inglesa ao lado de seu irmão Jude é &#8216;uma sensação incrível&#8217;",
@@ -44,7 +33,7 @@
       "isoDate": "2026-11-10",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "Valência goleia time da sexta divisão e avança na Copa do Rei",
@@ -56,6 +45,17 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/svg/1f4cb.svg"
+    },
+    {
+      "title": "Lesionado, Tchouaméni vai desfalcar França contra Itália e Turquia na Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/times/franca/lesionado-tchouameni-vai-desfalcar-franca-contra-italia-e-turquia-na-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "10 de nov. de 2026",
+      "isoDate": "2026-11-10",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Endrick reforça compromisso com a Seleção e projeta amistoso contra o Japão",
