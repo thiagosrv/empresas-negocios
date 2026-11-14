@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:07:01.129Z",
+  "updated": "2026-11-14T21:29:23.699Z",
   "totalOk": 3,
   "items": [
     {
@@ -25,15 +25,70 @@
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
-      "title": "Japão x Brasil: veja galeria de fotos do amistoso em Singapura",
-      "link": "https://www.gazetaesportiva.com/times/brasil/japao-brasil-galeria-fotos-amistoso-singapura-2026/",
+      "title": "Portugal anuncia novo modelo da camisa 7 em homenagem a Cristiano Ronaldo",
+      "link": "https://www.gazetaesportiva.com/times/portugal/portugal-homenageia-cristiano-ronaldo-com-novo-design-da-camisa-7/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "14 de nov. de 2026",
       "isoDate": "2026-11-14",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Confira as fotos do confronto entre Noruega e País de Gales",
+      "link": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/confira-as-fotos-do-confronto-entre-noruega-e-pais-de-gales/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de nov. de 2026",
+      "isoDate": "2026-11-14",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Com gol de Haaland, Noruega bate País de Gales e mantém sonho de classificação",
+      "link": "https://www.gazetaesportiva.com/noruega/noruega-vence-pais-de-gales-e-segue-viva-na-liga-das-nacoes/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de nov. de 2026",
+      "isoDate": "2026-11-14",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png"
+    },
+    {
+      "title": "Após 11 anos aposentado, Ronaldinho celebra retorno ao futebol: &#8220;Estou feliz&#8221;",
+      "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/apos-11-anos-aposentado-ronaldinho-celebra-retorno-ao-futebol-estou-feliz/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de nov. de 2026",
+      "isoDate": "2026-11-14",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Zidane confirma que Mbappé jogará no domingo contra a Turquia",
+      "link": "https://www.gazetaesportiva.com/times/franca/zidane-confirma-que-mbappe-jogara-no-domingo-contra-a-turquia/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de nov. de 2026",
+      "isoDate": "2026-11-14",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
       "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "De la Fuente afirma que Espanha já marcou época com sequência invicta de 44 jogos",
+      "link": "https://www.gazetaesportiva.com/times/espanha/de-la-fuente-espanha-44-jogos-invicta-inglaterra/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de nov. de 2026",
+      "isoDate": "2026-11-14",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Brasil busca empate, mas leva gol polêmico no fim e perde do Japão",
@@ -99,7 +154,7 @@
       "isoDate": "2026-11-14",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti explica expulsão em amistoso do Brasil contra o Japão",
@@ -110,6 +165,17 @@
       "isoDate": "2026-11-14",
       "category": "Futebol",
       "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Romário pede saída de Ancelotti e critica trabalho na Seleção: &#8220;Já deu!&#8221;",
+      "link": "https://www.gazetaesportiva.com/times/brasil/romario-pede-demissao-de-ancelotti-e-cobra-atitude-da-cbf/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "14 de nov. de 2026",
+      "isoDate": "2026-11-14",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
       "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
