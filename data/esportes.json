@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:09:54.754Z",
+  "updated": "2026-11-15T21:48:54.174Z",
   "totalOk": 3,
   "items": [
     {
@@ -11,7 +11,7 @@
       "isoDate": "2026-11-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Portugal muda design do 7 na camisa e faz homenagem a Cristiano Ronaldo",
@@ -22,7 +22,7 @@
       "isoDate": "2026-11-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Mbappé, Cherki e estrelas da França se preparam para receber a Turquia",
@@ -33,7 +33,7 @@
       "isoDate": "2026-11-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Rice se sente &#8220;muito sortudo&#8221; por jogar no Arsenal",
@@ -44,7 +44,7 @@
       "isoDate": "2026-11-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
     },
     {
       "title": "De la Fuente comenta o retorno de Lamine Yamal antes do confronto com a Inglaterra",
@@ -55,11 +55,22 @@
       "isoDate": "2026-11-15",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=340&fit=crop"
     },
     {
       "title": "Ronaldinho Gaúcho reestreia pelo Ravenna após 11 anos aposentado; veja fotos!",
       "link": "https://www.gazetaesportiva.com/futebol/ronaldinho-gaucho-reestreia-pelo-ravenna-apos-11-anos-aposentado-veja-fotos/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "15 de nov. de 2026",
+      "isoDate": "2026-11-15",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+    },
+    {
+      "title": "Veja fotos de Croácia x Tchéquia pela Liga das Nações",
+      "link": "https://www.gazetaesportiva.com/fotos/veja-fotos-de-croacia-x-tchequia-pela-liga-das-nacoes/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
       "date": "15 de nov. de 2026",
@@ -77,7 +88,7 @@
       "isoDate": "2026-11-15",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti elogia jovens da Seleção e revela planejamento para data Fifa de março",
@@ -121,18 +132,18 @@
       "isoDate": "2026-11-15",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
-      "title": "Ancelotti foca em pontos positivos após derrota e questiona árbitro",
-      "link": "https://www.gazetaesportiva.com/todas-as-noticias/ancelotti-foca-em-pontos-positivos-apos-derrota-e-questiona-arbitro/",
+      "title": "Seleção se reapresenta e deve ter reforço de Rayan para amistoso contra Singapura",
+      "link": "https://www.gazetaesportiva.com/times/brasil/selecao-rayan-reforco-amistoso-singapura/",
       "source": "Gazeta Esportiva",
       "sourceLogo": "gazeta",
-      "date": "14 de nov. de 2026",
-      "isoDate": "2026-11-14",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
+      "date": "15 de nov. de 2026",
+      "isoDate": "2026-11-15",
+      "category": "Seleção",
+      "categoryColor": "#f1c40f",
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Ancelotti explica expulsão em amistoso do Brasil contra o Japão",
@@ -143,7 +154,7 @@
       "isoDate": "2026-11-14",
       "category": "Futebol",
       "categoryColor": "#c0392b",
-      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=600&h=340&fit=crop"
     },
     {
       "title": "Romário pede saída de Ancelotti e critica trabalho na Seleção: &#8220;Já deu!&#8221;",
@@ -154,7 +165,7 @@
       "isoDate": "2026-11-14",
       "category": "Seleção",
       "categoryColor": "#f1c40f",
-      "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&h=340&fit=crop"
+      "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=340&fit=crop"
     },
     {
       "title": "Avaí faz três na Chapecoense e se aproxima de título da Copa Sul-Sudeste",
