@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:12:50.176Z",
+  "updated": "2026-11-15T01:36:20.386Z",
   "feeds": {
     "campinas": [
       {
@@ -123,6 +123,26 @@
         "cls": "servicos"
       },
       {
+        "title": "Circuito Cultural começa no Rio com celebração da Consciência Negra",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/circuito-cultural-comeca-no-rio-com-celebracao-da-consciencia-negra",
+        "summary": "p strong A relação entre arte, meio ambiente, sociedade e cidade vai ser o foco dos artistas que participarão das exposições incluídas na programação do em Circuito Cultural Instituto 12 – Conexões Criativas. /em /strong",
+        "image": null,
+        "date": "14 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "REC n Play: rede social sem território não vira voto, diz deputado",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/recnplay-rede-social-sem-territorio-nao-vira-voto-diz-deputado",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/recnplay-rede-social-sem-territorio-nao-vira-voto-diz-deputado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "14 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
         "title": "Lula cita herói anticolonial das Filipinas ao comentar sua reeleição",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-cita-heroi-anticolonial-das-filipinas-ao-comentar-sua-reeleicao",
         "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-cita-heroi-anticolonial-das-filipinas-ao-comentar-sua-reeleicao img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
@@ -161,84 +181,64 @@
         "source": "Agência Brasil",
         "tag": "Agência Brasil",
         "cls": "brasil"
-      },
-      {
-        "title": "Governo abre consulta pública sobre enfrentamento ao calor extremo",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/governo-abre-consulta-publica-sobre-enfrentamento-ao-calor-extremo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/governo-abre-consulta-publica-sobre-enfrentamento-ao-calor-extremo img src= https://cdn.jsdelivr.net/gh/sergiosd",
-        "image": null,
-        "date": "14 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-apresenta-show-do-bossacucanova-no-cena-musical-deste-sabado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-apresenta-show-do-bossacucanova-no-cena-musical-deste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdli",
-        "image": null,
-        "date": "14 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
       }
     ],
     "esportes": [
       {
-        "title": "Corinthians bate Osasco e volta a vencer no NBB",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-bate-osasco-e-volta-a-vencer-no-nbb/",
-        "summary": "Neste sábado, o Corinthians bateu o Osasco por 84 a 74, no Ginásio Wlamir Marques, em São Paulo, pela oitava rodada do Novo Basquete Brasil (NBB) e voltou a vencer na competição. O post Corinthians bate Osasco e volta a ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/snapinsta-1794688971350-1.webp",
-        "date": "14 de nov. de 2026",
+        "title": "Com dois de Bruno Duarte, Vasco vence a Chape e se afasta do Z4 do Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/vasco/com-dois-de-bruno-duarte-vasco-vence-a-chape-e-se-afasta-do-z4-do-brasileirao/",
+        "summary": "Com gol de Bruno Duarte, o Vasco bateu a Chapecoense por 2 a 0 na Arena Condá, chegou aos 44 pontos e ganhou tranquilidade na reta final do Brasileirão. O post Com dois de Bruno Duarte, Vasco vence a Chape e se afasta do",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXIAMmpXEAAE4OA-1.webp",
+        "date": "15 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Romário pede saída de Ancelotti e critica trabalho na Seleção: Já deu!",
-        "link": "https://www.gazetaesportiva.com/times/brasil/romario-pede-demissao-de-ancelotti-e-cobra-atitude-da-cbf/",
-        "summary": "Romário fez duras críticas ao trabalho de Carlo Ancelotti no comando da Seleção Brasileira após a derrota para o Japão em amistoso disputado neste sábado. Em publicação nas redes sociais, o ex-atacante pediu a saída do t",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/GettyImages-2284226067-scaled-e1794684458788-1536x866-1.webp",
-        "date": "14 de nov. de 2026",
+        "title": "EUA goleiam Haiti com show de Pulisic e encaminham vaga na Liga das Nações da Concacaf",
+        "link": "https://www.gazetaesportiva.com/times/estados-unidos/eua-goleiam-haiti-com-show-de-pulisic-e-encaminham-vaga-na-liga-das-nacoes-da-concacaf/",
+        "summary": "Com dois gols de Christian Pulisic, os Estados Unidos venceram o Haiti por 6 a 0 e encaminharam a classificação às semifinais da Liga das Nações da Concacaf. O post EUA goleiam Haiti com show de Pulisic e encaminham vaga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__2305143454__v1__HighRes__HaitiVUnitedStatesConcacafNationsLeagueQuart.webp",
+        "date": "15 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "De la Fuente afirma que Espanha já marcou época com sequência invicta de 44 jogos",
-        "link": "https://www.gazetaesportiva.com/times/espanha/de-la-fuente-espanha-44-jogos-invicta-inglaterra/",
-        "summary": "Luis de la Fuente afirmou que a Espanha já marcou época com 44 jogos oficiais sem derrota e projetou o duelo contra a Inglaterra pela Liga das Nações. O post De la Fuente afirma que Espanha já marcou época com sequência ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261111__D77P6HL__v1__HighRes__FootballUefaNationsLeagueLeagueADay5Group3Czech.webp",
-        "date": "14 de nov. de 2026",
+        "title": "Svitolina atropela Noskova e vai lutar, contra Andreeva, por seu 2º título do WTA Finals",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/svitolina-atropela-noskova-e-vai-lutar-contra-andreeva-por-seu-2o-titulo-do-wta-finals/",
+        "summary": "Svitolina, sexta colocada no ranking mundial, precisou de apenas 65 minutos para derrotar Noskova (8ª) por 6-2 e 6-1 na quadra central de Indian Wells, na Califórnia. O post Svitolina atropela Noskova e vai lutar, contra",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__2305142149__v1__HighRes__FageWtaFinalsIndianWells2026Day7.webp",
+        "date": "15 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Zidane confirma que Mbappé jogará no domingo contra a Turquia",
-        "link": "https://www.gazetaesportiva.com/times/franca/zidane-confirma-que-mbappe-jogara-no-domingo-contra-a-turquia/",
-        "summary": "Zinedine Zidane indicou que Kylian Mbappé estará à disposição da seleção francesa para o confronto contra a Turquia, neste domingo, pela Liga das Nações. Ausente das últimas quatro partidas por problemas físicos, o ataca",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__D7GX68B__v1__HighRes__FblEurNationsFraTraining.webp",
-        "date": "14 de nov. de 2026",
+        "title": "Jorge Jesus responde se sentiu falta de Cristiano Ronaldo após derrota de Portugal: Ele já decidiu",
+        "link": "https://www.gazetaesportiva.com/times/portugal/jorge-jesus-ausencia-cristiano-ronaldo-derrota-portugal/",
+        "summary": "Jorge Jesus foi questionado se Portugal sentiu falta de Cristiano Ronaldo na goleada por 4 a 1 sofrida para a Dinamarca, neste sábado, em Braga, e minimizou a ausência do craque. O post Jorge Jesus responde se sentiu fal",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__D7H44KQ__v1__HighRes__FblEurNationsPorDen.webp",
+        "date": "15 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Após 11 anos aposentado, Ronaldinho celebra retorno ao futebol: Estou feliz",
-        "link": "https://www.gazetaesportiva.com/campeonatos/serie-a/apos-11-anos-aposentado-ronaldinho-celebra-retorno-ao-futebol-estou-feliz/",
-        "summary": "Após 11 anos aposentado, Ronaldinho Gaúcho voltará a disputar uma partida profissional neste domingo, aos 46 anos. O brasileiro fará sua estreia pelo Ravenna, da terceira divisão italiana, como titular no clássico contra",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/SnapDownloader.App_905237874_18648136642057780_7271733330573626032_n.webp",
-        "date": "14 de nov. de 2026",
+        "title": "Após empate com Mirassol, Natanael vira a chave e foca em final da Sul-Americana contra o Boca Juniors",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/apos-empate-com-mirassol-natanael-vira-a-chave-e-foca-em-final-da-sul-americana-contra-o-boca-juniors/",
+        "summary": "Após o empate sem gols com o Mirassol, Natanael criticou a arbitragem de Sávio Pereira Sampaio e projetou a final da Copa Sul-Americana entre Atlético-MG e Boca Juniors. O post Após empate com Mirassol, Natanael vira a c",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55653153264_b1c5fdc185_k.webp",
+        "date": "15 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Com gol de Haaland, Noruega bate País de Gales e mantém sonho de classificação",
-        "link": "https://www.gazetaesportiva.com/noruega/noruega-vence-pais-de-gales-e-segue-viva-na-liga-das-nacoes/",
-        "summary": "A Noruega venceu o País de Gales por 3 a 1 neste sábado, no Ullevaal Stadion, pela quinta rodada da Liga das Nações. Após um primeiro tempo equilibrado, os noruegueses resolveram a partida na etapa final com gols de Anto",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261114__D7GX68Z__v1__HighRes__FblEurNationsNorWal.webp",
+        "title": "São José bate o Norde Vôlei e vence a segunda seguida na Superliga masculina",
+        "link": "https://www.gazetaesportiva.com/campeonatos/superliga-masculina-de-volei/sao-jose-bate-o-norde-volei-e-vence-a-segunda-seguida-na-superliga-masculina/",
+        "summary": "São José derrotou o Norde Vôlei por 3 sets a 1 fora de casa, chegou aos sete pontos e entrou no G4 da Superliga Masculina. O post São José bate o Norde Vôlei e vence a segunda seguida na Superliga masculina apareceu prim",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/SaveClip.App_901689896_18470274025189007_3514339570752859080_n-1.webp",
         "date": "14 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,6 +307,46 @@
         "cls": ""
       },
       {
+        "title": "Goldie: copo raro da Starbucks vira destaque de nova coleção de Natal; entenda",
+        "link": "https://www.infomoney.com.br/consumo/goldie-copo-raro-da-starbucks-vira-destaque-de-nova-colecao-de-natal-entenda/",
+        "summary": "Batizada de Bearista Glass Cold Cup – Surprise Box Edition, a coleção conta com cinco personagens diferentes The post Goldie: copo raro da Starbucks vira destaque de nova coleção de Natal; entenda appeared first on InfoM",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/montagem-infomoney-reproducao-starbucks-1.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "date": "14 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "SpaceX avança em foguete reutilizável com primeira captura da Starship; entenda",
+        "link": "https://www.infomoney.com.br/mundo/spacex-avanca-em-foguete-reutilizavel-com-primeira-captura-da-starship-entenda/",
+        "summary": "Nave retornou à base no Texas após 22 horas no espaço e foi presa pelos braços mecânicos da torre; tentativa de recuperar também o propulsor Super Heavy fracassou The post SpaceX avança em foguete reutilizável com primei",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/spacex-starbase-texas-EUA-USA-Starship-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "14 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Emprego dos sonhos? Vaga paga até US$ 120 mil para jogar GTA 6",
+        "link": "https://www.infomoney.com.br/carreira/emprego-dos-sonhos-vaga-paga-ate-us-120-mil-para-jogar-gta-6/",
+        "summary": "Profissional terá de fazer transmissões ao vivo e analisar a economia virtual do game The post Emprego dos sonhos? Vaga paga até US$ 120 mil para jogar GTA 6 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Reproducao-Amazon.jpg?fit=300%2C192&amp;quality=70&amp;strip=all",
+        "date": "14 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja onde assistir à Argentina x Uruguai",
+        "link": "https://www.infomoney.com.br/esportes/onde-assistir-argentina-uruguai/",
+        "summary": "Esse é o primeiro jogo da Argentina sem Messi na seleção The post Veja onde assistir à Argentina x Uruguai appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/argentina-onde-assistir-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "14 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "EUA sondam Ucrânia sobre saída de Donbass em troca de adesão à Otan, diz Zelenski",
         "link": "https://www.infomoney.com.br/mundo/eua-sondam-ucrania-sobre-saida-de-donbass-em-troca-de-adesao-a-otan-diz-zelenski/",
         "summary": "O líder ucraniano reiterou que não abrirá mão de seu território The post EUA sondam Ucrânia sobre saída de Donbass em troca de adesão à Otan, diz Zelenski appeared first on InfoMoney.",
@@ -327,44 +367,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Fim da 6 1: Fux interrompe julgamento e análise de decisão de Dino vai para o plenário físico",
-        "link": "https://www.infomoney.com.br/mercados/fim-da-6x1-fux-interrompe-julgamento-e-analise-de-dino-vai-para-o-plenario-fisico/",
-        "summary": "Nova data será definida pelo presidente do STF, ministro Edson Fachin The post Fim da 6 1: Fux interrompe julgamento e análise de decisão de Dino vai para o plenário físico appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/fux-home.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+        "title": "Mpox ultrapassa mil casos e registra primeira morte no Brasil em 2026",
+        "link": "https://exame.com/brasil/mpox-ultrapassa-mil-casos-e-registra-primeira-morte-no-brasil-em-2026/",
+        "summary": "São Paulo e Rio de Janeiro concentram a maioria das infecções; governo compra 25 mil doses de vacina",
+        "image": null,
         "date": "14 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Romário pede saída de Ancelotti da seleção: Pega tuas coisas e mete o pé!",
-        "link": "https://www.infomoney.com.br/esportes/romario-pede-saida-de-ancelotti-da-selecao-apos-brasil-japao/",
-        "summary": "Em uma manifestação contundente pelas redes sociais, o ex-atleta criticou o trabalho do treinador italiano e cobrou uma atitude do presidente da CBF, Samir Xaud The post Romário pede saída de Ancelotti da seleção: Pega t",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/romario-1.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
+        "title": "Spotify toca na caixa errada? Como conferir o aparelho selecionado no Spotify Connect",
+        "link": "https://exame.com/tecnologia/examelab/spotify-toca-caixa-errada-spotify-connect/",
+        "summary": "Spotify tocando na caixa de som errada? Veja como conferir o aparelho no Spotify Connect, trocar de dispositivo e remover caixas e TVs desconhecidas",
+        "image": null,
         "date": "14 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Fortes chuvas atingem São Paulo nos próximos dias; veja quando",
-        "link": "https://www.infomoney.com.br/brasil/fortes-chuvas-atingem-sao-paulo-nos-proximos-dias-veja-quando/",
-        "summary": "A expectativa é de que a condição climática ganhe força entre a tarde e o início da noite. Para este sábado, 14, não há expectativa de intensas precipitações The post Fortes chuvas atingem São Paulo nos próximos dias; ve",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/alex-dukhanov-ZxZQk7777R4-unsplash-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "COP31: Marcha pelo Clima leva 10 mil às ruas em protesto contra líderes mundiais e inação climática",
+        "link": "https://exame.com/esg/cop31-marcha-pelo-clima-leva-10-mil-as-ruas-em-protesto-contra-lideres-mundiais-e-inacao-climatica/",
+        "summary": "Com cartazes de críticas a Trump, Musk e Netanyahu e uma Estátua da Liberdade como simbolismo da poluição, manifestantes caminharam pelo centro de Antalya por cerca de duas horas",
+        "image": null,
         "date": "14 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Federação Portuguesa de Futebol muda grafia de número 7 e eterniza Cristiano Ronaldo",
-        "link": "https://www.infomoney.com.br/mercados/federacao-portuguesa-de-futebol-muda-grafia-de-numero-7-e-eterniza-cristiano-ronaldo/",
-        "summary": "O novo uniforme será utilizado a partir deste sábado (14), no jogo diante da Dinamarca, às 16h45 pela Nations League The post Federação Portuguesa de Futebol muda grafia de número 7 e eterniza Cristiano Ronaldo appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T201441Z_1684057156_UP1EM6N1HFQHY_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
+        "title": "Caos aéreo continua nos EUA após pane, com 5 mil voos cancelados neste sábado",
+        "link": "https://exame.com/mundo/caos-aereo-continua-nos-eua-apos-pane-com-5-mil-voos-cancelados-neste-sabado/",
+        "summary": "Falha durante modernização do controle de tráfego aéreo deixou passageiros presos e expôs problemas na infraestrutura americana",
+        "image": null,
         "date": "14 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
         "title": "'Faça as malas e vá embora': Romário pede saída de Ancelotti após derrota para o Japão",
@@ -380,46 +420,6 @@
         "title": "Simple Plan e outras bandas fazem show improvisado em avião durante caos aéreo nos EUA",
         "link": "https://exame.com/mundo/simple-plan-e-outras-bandas-fazem-show-improvisado-em-aviao-durante-caos-aereo-nos-eua/",
         "summary": "Músicos transformaram a espera por autorização para pousar em uma apresentação para passageiros; artistas viajavam para Orlando, onde participariam do festival Vans Warped Tour",
-        "image": null,
-        "date": "14 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Como criar códigos de backup do Google antes de perder acesso ao celular",
-        "link": "https://exame.com/tecnologia/examelab/como-criar-codigos-backup-google/",
-        "summary": "Códigos de backup do Google liberam o login quando o SMS e o Google Authenticator param de funcionar após roubo ou troca do celular. Veja como criar",
-        "image": null,
-        "date": "14 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Ronaldinho Gaúcho volta a jogar aos 46 anos por clube da terceira divisão da Itália",
-        "link": "https://exame.com/esporte/ronaldinho-gaucho-volta-a-jogar-aos-46-anos-por-clube-da-terceira-divisao-da-italia/",
-        "summary": "Ex-jogador será titular pelo Ravenna neste domingo, 15, em clássico contra o Forlì; clube sonha com a Serie A",
-        "image": null,
-        "date": "14 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Argentina prepara medidas para reduzir filas na fronteira com o Brasil",
-        "link": "https://exame.com/mundo/argentina-prepara-medidas-para-reduzir-filas-na-fronteira-com-o-brasil/",
-        "summary": "Secretário de Turismo, Daniel Scioli, anunciou ações para agilizar a circulação de turistas sem comprometer a fiscalização",
-        "image": null,
-        "date": "14 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "EUA se preparam para 90 dias sem energia elétrica após alerta sobre ataques do Irã",
-        "link": "https://exame.com/mundo/general-dos-eua-alerta-para-riscos-de-apagao-prolongado/",
-        "summary": "General americano alerta para risco de colapso em serviços essenciais e cobra planos de emergência diante de possíveis ataques cibernéticos",
         "image": null,
         "date": "14 de nov. de 2026",
         "source": "Exame",
