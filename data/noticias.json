@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-18T21:12:46.758Z",
+  "updated": "2026-11-19T03:00:09.550Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Homem faz vídeo com facas e motosserra para ameaçar ex-namorada e tenta invadir trabalho",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/homem-faz-video-facas-motosserra-ameacar-ex-namorada-tenta-invadir-trabalho.ghtml",
+        "summary": "Ocorrências de ameaça contra mulher aumentam 8,5% nas regiões de Campinas e Piracicaba Um homem gravou vídeos exibindo facas e uma motosserra para ameaçar de morte a ex-namorada, de 51 anos. Na tarde desta terça-feira (1",
+        "image": "https://s2-g1.glbimg.com/QsRAGr0z0wXRWCXImWLM7sgkEPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/RhETzgSaWIzZ0YS4L3Lw/area-1-23-.png",
+        "date": "19 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Temporal em Campinas: entenda por que chuva causou alagamentos e enxurradas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/temporal-em-campinas-entenda-por-que-chuva-causou-alagamentos-e-enxurradas.ghtml",
+        "summary": "Temporal em Campinas tem carros submersos e ruas e avenidas alagadas O temporal registrado em Campinas (SP) nesta quarta-feira (18), que deixou ruas e avenidas intransitáveis, provocou enxurradas, deixou carros submersos",
+        "image": "https://s2-g1.glbimg.com/6PcM5T048W3m-T5dOM_mRjFPai0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/O/Zk7IlPScGGa7KJ5ydUSA/design-sem-nome-2026-11-18t164647.217.jpg",
+        "date": "18 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Homens são detidos por suspeita de drogar e estuprar mulher em motel de Valinhos",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/homens-detidos-suspeita-estupro-mulher-motel-valinhos.ghtml",
@@ -43,26 +63,6 @@
         "cls": "brasil"
       },
       {
-        "title": "Campinas tem 3ª morte por febre maculosa em 2026; vítima é trabalhadora da Unicamp e teria sido infectada na universidade",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/campinas-terceira-morte-febre-maculosa-vitima-infectada-unicamp.ghtml",
-        "summary": "O carrapato-estrela — também conhecido cientificamente como Amblyomma — pode carregar uma das doenças mais letais do país: a febre maculosa Adobe Stock Campinas (SP) confirmou nesta quarta-feira (18) a terceira morte por",
-        "image": "https://s2-g1.glbimg.com/GV7FXLMzPZohAuq2jSyFu_daDAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/L/xzCG84Q9OWOHrvBhqOdA/adobestock-464609443.jpeg",
-        "date": "18 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO: motorista do transporte público é flagrado usando celular enquanto dirige em Campinas",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/motorista-transporte-publico-flagrado-usando-celular-dirige.ghtml",
-        "summary": "Motorista do transporte público é flagrado usando celular enquanto dirige em Campinas Um motorista da linha 192 do transporte público de Campinas (SP) foi flagrado, nesta terça-feira (17), usando o celular enquanto dirig",
-        "image": "https://s2-g1.glbimg.com/gPCFb4wghXEWczcp3SxN88aJQf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/g/MmpG4nTBisiifHp5Whzg/copia-de-area-1-2026-11-18t142043.302.png",
-        "date": "18 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
         "title": "Americana Shopping prepara grande festa para receber o Papai Noel neste sábado, dia 21 de novembro",
         "link": "https://jornalamericanense.com.br/cidades/americana-shopping-prepara-grande-festa-para-receber-o-papai-noel-neste-sabado-dia-21-de-novembro/",
         "summary": "Bom Velhinho chegará ao empreendimento acompanhado por uma animada Paradinha de Natal, com personagens temáticos, música e muita magia para encantar crianças e adultos. O clima natalino vai tomar conta do Americana Shopp",
@@ -93,6 +93,16 @@
         "cls": "servicos"
       },
       {
+        "title": "INSS: Novas regras do Atestmed permitem reanálise de pedidos de auxílio-doença",
+        "link": "https://jornalamericanense.com.br/economia/inss-novas-regras-do-atestmed-permitem-reanalise-de-pedidos-de-auxilio-doenca/",
+        "summary": "O Ministério da Previdência Social (MPS) e o Instituto Nacional do Seguro Social (INSS) anunciaram mudanças nas regras do Atestmed, sistema utilizado para conceder o benefício por incapacidade temporária, antigo auxílio-",
+        "image": null,
+        "date": "18 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
         "title": "Comandante do CPI-9 e vereador de Americana trocam declarações após divergência sobre participação da PM em eventos da Câmara",
         "link": "https://jornalamericanense.com.br/politica/comandante-do-cpi-9-e-vereador-de-americana-trocam-declaracoes-apos-divergencia-sobre-participacao-da-pm-em-eventos-da-camara/",
         "summary": "Coronel Cleotheos Sabino divulgou carta aberta em resposta às críticas de Thiago Brochi. Parlamentar questionou supostas restrições à presença de policiais, do BAEP e do helicóptero Águia em solenidades do Legislativo. U",
@@ -113,19 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Governo de SP abre concurso público para contratação de 5 mil professores",
-        "link": "https://jornalamericanense.com.br/educacao/governo-de-sp-abre-concurso-publico-para-contratacao-de-5-mil-professores/",
-        "summary": "Edital será publicado nesta quinta-feira (19); oportunidades contemplam jornadas de 25 e 40 horas semanais, com prioridade para disciplinas como Língua Portuguesa e Matemática. A Secretaria da Educação do Estado de São P",
-        "image": null,
-        "date": "18 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "PRF inicia operação para garantir a segurança nas estradas no feriadão",
-        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/prf-inicia-operacao-para-garantir-seguranca-nas-estradas-no-feriadao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/prf-inicia-operacao-para-garantir-seguranca-nas-estradas-no-feriadao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc",
+        "title": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Caso Master: PF entregará ao STF relatórios sobre citações a ministros",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-pf-entregara-ao-stf-relatorios-sobre-citacoes-a-ministros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-pf-entregara-ao-stf-relatorios-sobre-citacoes-a-ministros img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Guia orienta passageiros a agirem em casos de racismo em aeroportos",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/guia-orienta-passageiros-agirem-em-casos-de-racismo-em-aeroportos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/guia-orienta-passageiros-agirem-em-casos-de-racismo-em-aeroportos img src= https://cdn.jsdelivr.net/gh/sergio",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Estados Unidos entram em alerta após sucessivas panes tecnológicas",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/estados-unidos-entram-em-alerta-apos-sucessivas-panes-tecnologicas",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/estados-unidos-entram-em-alerta-apos-sucessivas-panes-tecnologicas img src= https://cdn.jsdelivr.net/gh/sergiosd",
+        "title": "Festival Animage reúne mais de 280 filmes de animação no Recife",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-animage-reune-mais-de-280-filmes-de-animacao-no-recife",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-animage-reune-mais-de-280-filmes-de-animacao-no-recife img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Na FAO, Wellington Dias celebra avanços no combate à fome",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "title": "Agência Brasil e Rádio Nacional ganham prêmio de direitos humanos",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/agencia-brasil-e-radio-nacional-ganham-premio-de-direitos-humanos",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/agencia-brasil-e-radio-nacional-ganham-premio-de-direitos-humanos img src= https://cdn.jsdelivr.net/gh/sergio",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Usinas solares avançam sobre a vegetação nativa da Caatinga",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/usinas-solares-avancam-sobre-vegetacao-nativa-da-caatinga",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/usinas-solares-avancam-sobre-vegetacao-nativa-da-caatinga img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Encontro dos Tambores valoriza tradições negras da Amazônia em Macapá",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/encontro-dos-tambores-valoriza-tradicoes-negras-da-amazonia-em-macapa",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/encontro-dos-tambores-valoriza-tradicoes-negras-da-amazonia-em-macapa img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Agência Brasil",
@@ -185,127 +185,137 @@
     ],
     "esportes": [
       {
-        "title": "Santos avança em conversas e se aproxima de renovação com Cebolinha; saiba detalhes",
-        "link": "https://www.gazetaesportiva.com/times/santos/santos-avanca-renovacao-everton-cebolinha-2027/",
-        "summary": "Santos se aproxima de renovação com Cebolinha; saiba os detalhes O post Santos avança em conversas e se aproxima de renovação com Cebolinha; saiba detalhes apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55657254892_0fe190e067_o-1.webp",
-        "date": "18 de nov. de 2026",
+        "title": "Kaio César celebra 1ª hat-trick da carreira pelo Corinthians e exalta Seedorf",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-celebra-primeiro-hat-trick-carreira-corinthians/",
+        "summary": "Kaio César foi o grande nome da goleada do Corinthians sobre o Botafogo por 4 a 0, na Neo Química Arena. Autor de três gols, o atacante comemorou o primeiro hat-trick da carreira, agradeceu a confiança do técnico Clarenc",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261119__AGIF871824__v1__HighRes__BrazilianChampionship2026CorinthiansVsBotafo.webp",
+        "date": "19 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "São Paulo é condenado a pagar indenização a auxiliar de Roger Machado por recisão",
-        "link": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-condenado-pagar-adailton-bolzan-justica-trabalho/",
-        "summary": "O São Paulo foi condenado pela 63ª Vara do Trabalho de São Paulo a pagar R$ 142.388,89 ao auxiliar técnico Adailton Bolzan Martins, ex-integrante da comissão técnica de Roger Machado. A Justiça considerou nula uma cláusu",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55161167419_d0750b0aaa_h.jpg.webp",
-        "date": "18 de nov. de 2026",
+        "title": "Abel questiona arbitragem após derrota do Palmeiras no Brasileiro e diz: Esse título está entregue",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-questiona-arbitragem-apos-derrota-do-palmeiras-no-brasileiro-e-diz-esse-titulo-esta-entregue/",
+        "summary": "Abel diz que \"título está entregue\" ao Flamengo após derrota do Palmeiras no Brasileirão O post Abel questiona arbitragem após derrota do Palmeiras no Brasileiro e diz: Esse título está entregue apareceu primeiro em Gaze",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/18112026_cg_palmeiras_destaque_2345_24.webp",
+        "date": "19 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Coritiba não terá Pedro Morisco contra o Santos; veja relacionados",
-        "link": "https://www.gazetaesportiva.com/times/coritiba/coritiba-nao-tera-pedro-morisco-contra-o-santos-veja-relacionados/",
-        "summary": "O Coritiba divulgou a lista de relacionados para o duelo contra o Santos pela 35ª rodada do Campeonato Brasileiro. A principal ausência é o goleiro Pedro Morisco, que esteve com a Seleção Brasileira durante a Data Fifa e",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55623614126_1b225b2b29_o.webp",
-        "date": "18 de nov. de 2026",
+        "title": "Praia Clube bate Londrina, e Barueri vence a primeira na Superliga feminina de vôlei",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/volei/praia-clube-bate-londrina-e-barueri-vence-a-primeira-na-superliga-feminina-de-volei/",
+        "summary": "Praia Clube bate Londrina, e Barueri vence a primeira na Superliga feminina de vôlei O post Praia Clube bate Londrina, e Barueri vence a primeira na Superliga feminina de vôlei apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/snapinsta-1795056980057-2.webp",
+        "date": "19 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Piastri terá punição de dez posições no grid do GP de Las Vegas de F1",
-        "link": "https://www.gazetaesportiva.com/motor/formula-1/piastri-punicao-gp-las-vegas-f1/",
-        "summary": "Piastri terá punição de dez posições no grid do GP de Las Vegas de F1 O post Piastri terá punição de dez posições no grid do GP de Las Vegas de F1 apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/03/piastri_060326.webp",
-        "date": "18 de nov. de 2026",
+        "title": "Krovinovic lamenta chances perdidas do Grêmio no empate com o Bahia",
+        "link": "https://www.gazetaesportiva.com/times/gremio/krovinovic-lamenta-chances-perdidas-do-gremio-no-empate-com-o-bahia/",
+        "summary": "Krovinovic lamenta chances perdidas do Grêmio no empate com o Bahia O post Krovinovic lamenta chances perdidas do Grêmio no empate com o Bahia apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/09/55506824496_9364f15137_o-1.webp",
+        "date": "19 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Messi rompe com dirigentes da AFA e prepara ação judicial por uso de imagem",
-        "link": "https://www.gazetaesportiva.com/times/argentina/messi-afa-uso-imagem/",
-        "summary": "Messi rompe com dirigentes da AFA e prepara ação judicial; entenda O post Messi rompe com dirigentes da AFA e prepara ação judicial por uso de imagem apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/08/AFP__20260831__C6X879E__v1__HighRes__FilesFblArgMessi.webp",
-        "date": "18 de nov. de 2026",
+        "title": "Mendoza critica arbitragem do Brasileirão e aponta favorecimento ao Flamengo após derrota do Athletico-PR",
+        "link": "https://www.gazetaesportiva.com/times/athletico-paranaense/mendoza-critica-arbitragem-do-brasileirao-e-aponta-favorecimento-ao-flamengo-apos-derrota/",
+        "summary": "Mendoza critica arbitragem do Brasileirão e aponta favorecimento ao Flamengo após derrota O post Mendoza critica arbitragem do Brasileirão e aponta favorecimento ao Flamengo após derrota do Athletico-PR apareceu primeiro",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXc3MGWWcAAuaaU-2.webp",
+        "date": "19 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Pochettino projeta futuro dos Estados Unidos: Estamos em muito boas mãos",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/pochettino-projeta-futuro-dos-estados-unidos-estamos-em-muito-boas-maos/",
-        "summary": "O técnico Mauricio Pochettino exalta a mescla entre jogadores experientes e jovens talentos na seleção norte-americana e destaca o monitoramento de quase 100 atletas. O post Pochettino projeta futuro dos Estados Unidos: ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/7qxppqqu-1920Pochettino.webp",
-        "date": "18 de nov. de 2026",
+        "title": "Carrillo toma terceiro amarelo e desfalca Corinthians contra o Atlético-MG",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-carrillo-suspenso-reforcos-atletico-mg/",
+        "summary": "O Corinthians ganhou um desfalque para o próximo compromisso no Campeonato Brasileiro, contra o Atlético-MG. O volante André Carrillo recebeu o terceiro cartão amarelo na vitória sobre o Botafogo, nesta quarta-feira, na ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261119__AGIF871603__v1__HighRes__BrazilianChampionship2026CorinthiansVsBotafo.webp",
+        "date": "19 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Como Fla e Palmeiras mudaram sarrafo por título e devem bater recorde",
-        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17526389/como-flamengo-palmeiras-mudaram-sarrafo-titulo-brasileirao-devem-bater-marca-historica",
-        "summary": "null",
+        "title": "Flamengo leva golaço, vira sobre o Athletico-PR e pode ser campeão brasileiro contra o Palmeiras no sábado",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17532239/flamengo-leva-golaco-vira-athletico-pr-pode-ser-campeao-brasileiro-contra-palmeiras-sabado",
+        "summary": "Rubro-Negro precisa de apenas um empate em Sao Paulo para ficar com a taça pela décima vez em sua história",
         "image": null,
-        "date": "18 de nov. de 2026",
+        "date": "19 de nov. de 2026",
         "source": "ESPN Brasil",
         "tag": "ESPN",
         "cls": "startups"
       },
       {
-        "title": "Petkovic reprova 2026 do Flamengo e aponta erros de Jardim: 'Não ganhar o Brasileiro seria um vexame'",
-        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/17526208/petkovic-reprova-flamengo-erros-jardim-brasileiro-vexame",
-        "summary": "null",
+        "title": "A conta do Flamengo para ser campeão brasileiro na próxima rodada",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17531460/flamengo-conta-para-ser-campeao-palmeiras-brasileirao-nubank-parque",
+        "summary": "Clube carioca pode confirmar o título na casa do seu principal concorrente, neste sábado (21)",
         "image": null,
-        "date": "18 de nov. de 2026",
+        "date": "19 de nov. de 2026",
         "source": "ESPN Brasil",
         "tag": "ESPN",
         "cls": "startups"
       },
       {
-        "title": "Leila explica contato frustrado para evitar convocações no Palmeiras, cita lesão de Piquerez e dispara: 'Ninguém se sensibilizou'",
-        "link": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/17527910/leila-explica-contato-frustrado-evitar-convocacoes-palmeiras-cita-lesao-piquerez-dispara-ninguem-sensibilizou",
-        "summary": "null",
+        "title": "Cruzeiro vira em dois minutos, garante vaga na Libertadores e complica Palmeiras na briga pelo título do Brasileirão",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17532396/cruzeiro-vira-dois-minutos-garante-vaga-na-libertadores-e-complica-palmeiras-briga-titulo-brasileirao",
+        "summary": "Cruzeiro ganhou do Palmeiras e garantiu vaga na Libertadores de 2027",
         "image": null,
-        "date": "18 de nov. de 2026",
+        "date": "19 de nov. de 2026",
         "source": "ESPN Brasil",
         "tag": "ESPN",
         "cls": "startups"
       },
       {
-        "title": "Milan prepara investida por Endrick em janeiro; Real avalia astro em quase meio bilhão e cogita até cláusula de recompra",
-        "link": "https://www.espn.com.br/futebol/real-madrid/artigo/_/id/17529575/milan-prepara-investida-por-endrick-em-janeiro-real-avalia-quase-meio-bilhao-e-cogita-ate-clausula-de-recompra-para-evitar-novo-caso-etoo",
-        "summary": "null",
+        "title": "Corinthians goleia o Botafogo e ganha moral na luta contra o rebaixamento no Brasileirão",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17531945/corinthians-goleia-botafogo-ganha-moral-luta-contra-rebaixamento-brasileirao",
+        "summary": "Duelo foi válido pela 35ª rodada",
         "image": null,
-        "date": "18 de nov. de 2026",
+        "date": "19 de nov. de 2026",
         "source": "ESPN Brasil",
         "tag": "ESPN",
         "cls": "startups"
       },
       {
-        "title": "Cruzeiro prevê ajustes na folha, e Gerson é visto como 'negociável'",
-        "link": "https://www.espn.com.br/futebol/cruzeiro/artigo/_/id/17529871/cruzeiro-ajustes-folha-salarial-2027-gerson-visto-negociavel",
-        "summary": "null",
+        "title": "Grêmio tem gol anulado, só empata com Bahia e se complica na luta contra o rebaixamento no Brasileirão",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17532582/gremio-tem-gol-anulado-empata-com-bahia-e-se-complica-luta-contra-rebaixamento-brasileirao",
+        "summary": "Grêmio empatou com Bahia, foi vaiado pela torcida e não deixou a zona de rebaixamento do Brasileirão",
         "image": null,
-        "date": "18 de nov. de 2026",
+        "date": "19 de nov. de 2026",
         "source": "ESPN Brasil",
         "tag": "ESPN",
         "cls": "startups"
       },
       {
-        "title": "Pitaco no hino, troca no cardápio e até 'veto' a ar-condicionado: as sugestões polêmicas de Seedorf no Botafogo",
-        "link": "https://www.espn.com.br/futebol/corinthians/artigo/_/id/17526403/hino-cardapio-veto-ar-condicionado-sugestoes-polemicas-seedorf-botafogo",
-        "summary": "null",
+        "title": "Neymar e Gabigol decidem, Santos vence Coritiba com gol nos acréscimos e segue busca por vaga na Libertadores",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17531937/neymar-gabigol-decidem-santos-vence-coritiba-gol-acrescimos-segue-busca-vaga-libertadores",
+        "summary": "Confronto foi válido pela 35ª rodada da competição",
         "image": null,
-        "date": "18 de nov. de 2026",
+        "date": "19 de nov. de 2026",
         "source": "ESPN Brasil",
         "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "image": null,
+        "date": "18 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
@@ -357,79 +367,69 @@
         "cls": ""
       },
       {
-        "title": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
-        "image": null,
-        "date": "17 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "title": "Dia de Sorte: confira o resultado do concurso 1351 sorteado nesta quarta (18)",
+        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1351-sorteado-nesta-quarta-18/",
+        "summary": "O prêmio estimado para este concurso era de R$ 1,5 milhão The post Dia de Sorte: confira o resultado do concurso 1351 sorteado nesta quarta (18) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "19 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
       },
       {
-        "title": "Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal",
-        "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-em-meio-a-preocupacoes-com-o-ajuste-fiscal/",
-        "summary": "Presidente do Senado, Davi ⁠Alcolumbre (União-AP), adiou para esta quarta-feira a votação do projeto fiscal The post Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/juros.png?fit=300%2C180&amp;quality=70&amp;strip=all",
+        "title": "Lotomania: confira o resultado do concurso 3001 sorteado nesta quarta-feira (18)",
+        "link": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-3001-sorteado-nesta-quarta-feira-18/",
+        "summary": "Veja as 20 dezenas sorteadas no concurso 3001 da Lotomania e confira o valor estimado do prêmio The post Lotomania: confira o resultado do concurso 3001 sorteado nesta quarta-feira (18) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "19 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Saúde: Planos de saúde ficam mistos e hospitais têm bons resultados no 3º tri",
+        "link": "https://www.infomoney.com.br/mercados/saude-planos-de-saude-ficam-mistos-e-hospitais-tem-bons-resultados-no-3o-tri/",
+        "summary": "Para as farmácias e farmacêuticas, a demanda pelos GLP-1 seguem sustentando visão positiva The post Saúde: Planos de saúde ficam mistos e hospitais têm bons resultados no 3º tri appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-02-170330.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "19 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Quina hoje, concurso 7171: confira o resultado sorteado nesta quarta (18)",
+        "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7171-confira-o-resultado-sorteado-nesta-quarta-18/",
+        "summary": "O prêmio deste concurso era estimado em mais de R$ 503 mil The post Quina hoje, concurso 7171: confira o resultado sorteado nesta quarta (18) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
+        "date": "19 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil hoje, concurso 3833: confira o resultado sorteado nesta quarta (18)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3833-confira-o-resultado-sorteado-nesta-quarta-18/",
+        "summary": "O prêmio estimado para este concurso era de R$ 5 milhões The post Lotofácil hoje, concurso 3833: confira o resultado sorteado nesta quarta (18) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/cropped-sorteio-lotofacil.webp?fit=225%2C300&amp;quality=70&amp;strip=all",
+        "date": "19 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Corinthians x Botafogo: Veja onde assistir ao Brasileirão",
+        "link": "https://www.infomoney.com.br/esportes/corinthians-botafogo-onde-assistir-brasileirao-2/",
+        "summary": "O Corinthians luta contra o rebaixamento na reta final do Brasileirão The post Corinthians x Botafogo: Veja onde assistir ao Brasileirão appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-corinthians-x-botafogo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "18 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Petróleo fecha em queda com perspectiva de excesso de oferta",
-        "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-com-perspectiva-de-excesso-de-oferta/",
-        "summary": "Brent caiu mais de US$ 2 por barril durante o pregão, enquanto o WTI perdeu mais de US$ 4 The post Petróleo fecha em queda com perspectiva de excesso de oferta appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T145228Z_1941725695_RC217KA1781F_RTRMADP_3_USA-OIL-EIA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
-        "date": "18 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "CEO interina da Nvidia busca tranquilizar funcionários após crise: Vamos conseguir",
-        "link": "https://www.infomoney.com.br/business/global/ceo-interina-da-nvidia-busca-tranquilizar-funcionarios-apos-crise-vamos-conseguir/",
-        "summary": "Em uma reunião geral com os funcionários, Colette Kress buscou deixar para trás os escândalos envolvendo Jensen Huang, cofundador da Nvidia The post CEO interina da Nvidia busca tranquilizar funcionários após crise: Vamo",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/NVIDIA-MEETING-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "18 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Brasileirão 2026: Onde assistir à Cruzeiro x Palmeiras?",
-        "link": "https://www.infomoney.com.br/esportes/cruzeiro-palmeiras-brasileirao-onde-assistir/",
-        "summary": "O 3º colocado do Campeonato Brasileiro recebe o atual vice-líder na reta final da competição nacional The post Brasileirão 2026: Onde assistir à Cruzeiro x Palmeiras? appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-cruzeiro-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "18 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Klabin evacua fábrica após explosão de caldeira que deixa feridos em SC",
-        "link": "https://www.infomoney.com.br/brasil/klabin-evacua-fabrica-apos-explosao-de-caldeira-que-deixa-feridos-em-sc/",
-        "summary": "Ao menos 10 trabalhadores foram hospitalizados após acidente na unidade de Otacílio Costa; empresa isolou a área e apura as causas da ocorrência The post Klabin evacua fábrica após explosão de caldeira que deixa feridos ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-18-174623.png?fit=300%2C198&amp;quality=70&amp;strip=all",
-        "date": "18 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Toyota inaugura fábrica no Brasil e lança Corolla Deck, sua picape híbrida",
-        "link": "https://www.infomoney.com.br/business/toyota-inaugura-fabrica-no-brasil-e-lanca-corolla-deck-sua-picape-hibrida/",
-        "summary": "Modelo tem previsão para chegar ao mercado em meados do ano que vem; produção local também vai abastecer América Latina e Caribe The post Toyota inaugura fábrica no Brasil e lança Corolla Deck, sua picape híbrida appeare",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/17950181856afdcdc96825e_1795018185_3x2_md.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "18 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Candidato à Presidência da França, Édouard Philippe propõe fim da semana de 35 horas",
-        "link": "https://exame.com/mundo/candidato-a-presidencia-da-franca-edouard-philippe-propoe-fim-da-semana-de-35-horas/",
-        "summary": "Ex-primeiro-ministro de Macron defende corte maciço de gastos, critica \"fascinação\" de rivais por Putin e recusa prévias na centro-direita",
+        "title": "GTA quase foi um jogo de corrida: conheça a história por trás da franquia milionária",
+        "link": "https://exame.com/pop/gta-quase-foi-um-jogo-de-corrida-conheca-a-historia-por-tras-da-franquia-que-chegou-a-gta-6/",
+        "summary": "Antes de receber o nome Grand Theft Auto, o projeto era conhecido como Race'n'Chase e estava sendo desenvolvido pela DMA Design",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Exame",
@@ -437,9 +437,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fed endurece tom sobre impacto da IA na estabilidade financeira dos EUA",
-        "link": "https://exame.com/invest/mercados/fed-endurece-tom-sobre-impacto-da-ia-na-estabilidade-financeira-dos-eua/",
-        "summary": "Em dez meses, o tema saiu de uma nota de rodapé da discussão sobre estabilidade para o centro dela",
+        "title": "Prefeituras comandadas por mulheres dobram em 24 anos, mas seguem sendo minoria",
+        "link": "https://exame.com/esferabrasil/prefeituras-comandadas-por-mulheres-dobram-em-24-anos-mas-seguem-sendo-minoria/",
+        "summary": "Participação feminina corresponde a 13,4% dos cargos de prefeita no País, segundo IBGE",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Exame",
@@ -447,9 +447,9 @@
         "cls": "startups"
       },
       {
-        "title": "Dólar dispara 1,46%, a R$ 5,86, e renova máxima em 19 meses",
-        "link": "https://exame.com/invest/mercados/dolar-dispara-146-a-r-586-e-renova-maxima-em-19-meses/",
-        "summary": "Juros mais altos nos EUA sustentam o dólar e reduzem o apetite por risco em mercados emergentes",
+        "title": "PF entrega ao STF relatórios sobre menções a ministros encontradas em investigação do Banco Master",
+        "link": "https://exame.com/brasil/pf-entrega-ao-stf-relatorios-sobre-mencoes-a-ministros-encontradas-em-investigacao-do-banco-master/",
+        "summary": "A discussão sobre o tratamento de informações envolvendo magistrados do STF já havia provocado divergências entre ministros da Corte",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Exame",
@@ -457,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "O recrutador pode não ver seu nervosismo como você imagina. E saber disso melhora a entrevista",
-        "link": "https://exame.com/carreira/o-recrutador-pode-nao-ver-seu-nervosismo-como-voce-imagina-e-saber-disso-melhora-a-entrevista/",
-        "summary": "Psicólogos de Cornell mostraram que quem conhece a “ilusão de transparência” fala melhor sob pressão",
+        "title": "GTA 6: veja as diferenças entre as edições e os bônus de compra",
+        "link": "https://exame.com/pop/gta-6-veja-as-diferencas-entre-as-edicoes-e-os-bonus-de-compra/",
+        "summary": "O que separa as duas versões são os conteúdos adicionais da mais cara, que reúne veículos, armas, estabelecimentos e missões secundárias exclusivas",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Exame",
@@ -467,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem vai pôr ordem no emaranhado de cabos?",
-        "link": "https://exame.com/esg/emaranhado-de-cabos/",
-        "summary": "Entenda o que decreto, agências e Congresso propõem para a gestão dos postes e para a figura do ‘posteiro’",
+        "title": "Por que o jornal local ainda importa, segundo os atores de 'The Paper'",
+        "link": "https://exame.com/casual/por-que-o-jornal-local-ainda-importa-segundo-os-atores-de-the-paper/",
+        "summary": "Duane Shepard Sr. e Eric Rahill, estrelas da série na HBO Max, falaram à EXAME sobre IA, TikTok e os dilemas da redação na nova temporada",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Exame",
@@ -477,9 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "'Voltamos à lei da selva', diz analista sobre cúpula entre Trump, Putin e Xi Jinping",
-        "link": "https://exame.com/mundo/voltamos-a-lei-da-selva-diz-analista-sobre-cupula-entre-trump-putin-e-xi-jinping/",
-        "summary": "Presidentes terão encontro inédito nesta quinta-feira, 19, em Shenzhen, na China; pautas incluem armamentos nucleares, Taiwan e guerra na Ucrânia",
+        "title": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula após publicação nas redes sociais",
+        "link": "https://exame.com/brasil/pgr-denuncia-flavio-bolsonaro-por-suposta-calunia-contra-lula-apos-publicacao-nas-redes-sociais/",
+        "summary": "Segundo o Ministério Público Federal, o senador teria atribuído falsamente a Lula a prática de crimes ao comentar uma montagem envolvendo o presidente da Venezuela, Nicolás Maduro",
         "image": null,
         "date": "18 de nov. de 2026",
         "source": "Exame",
