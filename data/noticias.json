@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-21T17:13:00.296Z",
+  "updated": "2026-11-21T22:55:23.479Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "VÍDEO: carro atinge motociclista, que bate em poste em Mogi Guaçu",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/video-carro-atinge-motociclista-que-bate-em-poste-em-mogi-guacu.ghtml",
+        "summary": "Carro atinge motociclista, que bate em poste, em Mogi Guaçu Um motociclista ficou ferido após ser atingido por um carro na Avenida Bandeirantes, em Mogi Guaçu (SP), na noite de sexta-feira (20). O motorista teria feito u",
+        "image": "https://s2-g1.glbimg.com/PsdH9WgKbZVPkqG_hdHlyILbSxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/N/VjIX5nRSeNzpHT57WkTw/design-sem-nome-59-.jpg",
+        "date": "21 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Incêndio atinge funilaria em Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/incendio-atinge-funilaria-em-campinas.ghtml",
+        "summary": "Incêndio atinge funilaria em Campinas Um incêndio atingiu em estabelecimento de funilaria e pintura veicular no início da noite deste sábado (21), em Campinas (SP). O estabelecimento fica na Rua Abolição, na Vila Joaquim",
+        "image": "https://s2-g1.glbimg.com/7SBb7oIYy-AQ1pjmtoaVEsQnOTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/B/SzzZu5QKOBxnbubtyMlg/captura-de-tela-2026-11-21-191742.png",
+        "date": "21 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "13° Salário deve movimentar R$ 2,4 bilhões na economia de Campinas, aponta levantamento",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/13-salario-deve-movimentar-r-24-bilhoes-na-economia-de-campinas-aponta-levantamento.ghtml",
+        "summary": "Décimo terceiro deve injetar R$ 2,41 bilhões na economia de Campinas O pagamento do 13° Salário deve movimentar cerca de R$ 2,41 bilhões na economia de Campinas (SP) em 2026, segundo projeção divulgada pelo Sindicato do ",
+        "image": "https://s2-g1.glbimg.com/86Tj1DJQjhW0zmAmkzAGu8jzlUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/G/vkpDRCQL2iJHFsoG5Nhw/design-sem-nome-33-.jpg",
+        "date": "21 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Homem é preso por agredir mãe de 75 anos e descumprir medida protetiva em Campinas",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/homem-e-preso-por-agredir-mae-de-75-anos-e-descumprir-medida-protetiva-em-campinas.ghtml",
@@ -23,40 +53,10 @@
         "cls": "brasil"
       },
       {
-        "title": "Corpo de influenciador Gabriel Félix, que morreu aos 29 anos, será velado em Uberaba (MG) neste sábado",
+        "title": "Corpo de influenciador Gabriel Félix, que morreu aos 29 anos, foi velado em Uberaba (MG) neste sábado",
         "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/21/corpo-de-influenciador-gabriel-felix-que-morreu-aos-29-anos-sera-velado-em-uberaba-mg-neste-sabado.ghtml",
-        "summary": "Influenciador Gabriel Félix morreu antes de jogar futebol em encontro com amigos, diz prim O corpo do influenciador Gabriel Augusto Mateus Félix, que morreu aos 29 anos na quinta-feira (19), será velado neste sábado (21)",
+        "summary": "Influenciador Gabriel Félix morreu antes de jogar futebol em encontro com amigos, diz prim O corpo do influenciador Gabriel Augusto Mateus Félix, que morreu aos 29 anos na quinta-feira (19), foi velado neste sábado (21),",
         "image": "https://s2-g1.glbimg.com/rmTgAJTTBX1y-G5qyY_FtJEnvkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/NCmN09Q0KBFrzfYxrHTg/design-sem-nome-8-1-.png",
-        "date": "21 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "VÍDEO: pitbull ataca mulher e criança de 5 anos em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/mulher-e-crianca-ficam-feridas-apos-ataque-de-pitbull-em-americana.ghtml",
-        "summary": "VÍDEO: pitbull ataca mulher e criança de 5 anos em Americana Uma mulher de 45 anos e uma criança de 5 ficaram feridas após serem atacadas por um cão da raça pitbull na tarde de sexta-feira (20), no Jardim Ipiranga, em Am",
-        "image": "https://s2-g1.glbimg.com/Q1SbCZvAE05VW4W8rJ-m8CvMZPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/w/l9BK2vQB68QxyHjEZjFw/design-sem-nome-2026-11-21t102455.827.jpg",
-        "date": "21 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ciclista morre após ser atingido por carro ao cruzar rodovia em Jaguariúna",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/ciclista-morre-apos-ser-atingido-por-carro-ao-cruzar-rodovia-em-jaguariuna.ghtml",
-        "summary": "Ciclista morreu após ser atingido quando atravessava a Rodovia SP-340, em Jaguariúna (SP), na madrugada deste sábado (21) CCO Rota Mogiana/Artesp Um ciclista morreu após ser atingido por um carro na Rodovia Governador Do",
-        "image": "https://s2-g1.glbimg.com/dkPffNb6VGwzQQidEO1r2lGXUpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/a/QdIp8hSBAC7stXgd3bDw/aretesp-2-.jpg",
-        "date": "21 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pitangueira guarda memórias da infância de pesquisador e ajuda a manter a floresta viva",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/21/pitangueira-guarda-memorias-da-infancia-de-pesquisador-e-ajuda-a-manter-a-floresta-viva.ghtml",
-        "summary": "Pitangueiras centenárias guardam memórias de infância na Serra da Mantiqueira Thiago Comenale A pitangueira (Eugenia uniflora) tem um papel importante na alimentação de aves, mamíferos e insetos e contribui para a regene",
-        "image": "https://s2-g1.glbimg.com/wikTMm6r9JCy-D1N3a6nxZYGWC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/mb3uq6TTmnz3H8IjvoNg/imagens-para-materia-54-.png",
         "date": "21 de nov. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "Países vão negociar regulamentação de “robôs assassinos” até 2028",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/paises-vao-negociar-regulamentacao-de-robos-assassinos-ate-2028",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/paises-vao-negociar-regulamentacao-de-robos-assassinos-ate-2028 img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual img src= https://cdn.jsdelivr.net/gh/sergiosd",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "TV Brasil exibe show do trio Pietá no Cena Musical deste sábado",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-exibe-show-do-trio-pieta-no-cena-musical-deste-sabado",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-exibe-show-do-trio-pieta-no-cena-musical-deste-sabado img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Flamengo empata com Palmeiras e é campeão brasileiro de 2026",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Arthur Elias chama Taina Maranhão para Data FIFA da Seleção Feminina",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/arthur-elias-chama-taina-maranhao-para-data-fifa-da-selecao-feminina",
-        "summary": "p A atacante Taina Maranhão, do Palmeiras, foi chamada pelo técnico Arthur Elias para a Seleção Brasileira de futebol feminino na manhã deste sábado (21). strong A atleta se junta ao time para a última Data FIFA de 2026.",
+        "title": "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Ernesto Xavier é o convidado do Conversa com o Autor deste domingo",
-        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/ernesto-xavier-e-o-convidado-do-conversa-com-o-autor-deste-domingo",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/ernesto-xavier-e-o-convidado-do-conversa-com-o-autor-deste-domingo img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Mostra apresenta legado de Milton Santos para pensar o Brasil",
+        "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
-        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "title": "Brasil vence Irlanda por 2 a 1 em estreia na Copa do Mundo Sub-17",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-vence-irlanda-por-2-1-em-estreia-na-copa-do-mundo-sub-17",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-vence-irlanda-por-2-1-em-estreia-na-copa-do-mundo-sub-17 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/ass",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Governo terá novas ações para combater casamento infantil",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/governo-tera-novas-acoes-para-combater-casamento-infantil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/governo-tera-novas-acoes-para-combater-casamento-infantil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
+        "title": "Cocal dos Alves: como a matemática mudou destino de município do Piauí",
+        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/cocal-dos-alves-como-matematica-mudou-destino-de-municipio-do-piaui",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/cocal-dos-alves-como-matematica-mudou-destino-de-municipio-do-piaui img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Gabriel Paulista inicia tratamento, e Corinthians faz treino técnico antes de enfrentar o Atlético-MG",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-treino-atletico-mg-gabriel-paulista-lesao/",
-        "summary": "Corinthians faz trabalhos técnicos antes de enfrentar Atlético-MG; Gabriel Paulista trata lesão O post Gabriel Paulista inicia tratamento, e Corinthians faz treino técnico antes de enfrentar o Atlético-MG apareceu primei",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/251090.webp",
+        "title": "Melhores momentos: Bahia 0 x 1 Coritiba pelo Brasileirão",
+        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/melhores-momentos-bahia-0-x-1-coritiba-pelo-brasileirao/",
+        "summary": "Melhores momentos: Bahia 0 x 1 Coritiba pelo Brasileirão O post Melhores momentos: Bahia 0 x 1 Coritiba pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXrbqYtWAAAe-tU.webp",
         "date": "21 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do treino do Corinthians deste sábado",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/veja-fotos-do-treino-do-corinthians-deste-sabado-20/",
-        "summary": "Veja fotos do treino do Corinthians deste sábado O post Veja fotos do treino do Corinthians deste sábado apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/251100.webp",
+        "title": "Central vence o Íbis em casa e assume liderança do Quadrangular Final do Pernambucano",
+        "link": "https://www.gazetaesportiva.com/campeonatos/pernambucano/central-vence-o-ibis-em-casa-e-assume-lideranca-do-quadrangular-final-do-pernambucano/",
+        "summary": "Central vence o Íbis em casa e assume liderança do Quadrangular Final do Pernambucano O post Central vence o Íbis em casa e assume liderança do Quadrangular Final do Pernambucano apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55608999407_c3f21cf3a3_k.webp",
         "date": "21 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Chelsea é goleado em casa pelo Leeds e se afasta do G4 do Campeonato Inglês",
-        "link": "https://www.gazetaesportiva.com/campeonatos/premier-league/chelsea-e-goleado-em-casa-pelo-leeds-e-se-afasta-do-g4-do-campeonato-ingles/",
-        "summary": "Chelsea é goleado pelo Leeds e se afasta do G4 do Campeonato Inglês O post Chelsea é goleado em casa pelo Leeds e se afasta do G4 do Campeonato Inglês apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261121__D88X88P__v1__HighRes__FblEngPrChelseaLeeds.webp",
+        "title": "Abel aponta motivos para vice do Palmeiras no Brasileirão e reconhece: O Flamengo foi melhor",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-reconhece-superioridade-flamengo-apos-vice-brasileirao/",
+        "summary": "Abel aponta motivos do vice do Palmeiras no Brasileiro e reconhece: \"O Flamengo foi melhor\" O post Abel aponta motivos para vice do Palmeiras no Brasileirão e reconhece: O Flamengo foi melhor apareceu primeiro em Gazeta ",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/21112026_cg_palmeiras_destaque_3080_5.webp",
         "date": "21 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras anuncia parceria com Petlove para os mascotes do clube",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-anuncia-parceria-com-petlove-para-os-mascotes-do-clube/",
-        "summary": "O Palmeiras anunciou uma parceria inédita com a Petlove, que passará a patrocinar exclusivamente os mascotes Periquito e Porco Gobbato. A marca estará estampada nas camisas dos personagens e também promoverá ativações no",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Captura-de-tela-2026-11-21-125450.webp",
+        "title": "Abel Ferreira reconhece superioridade do Flamengo no Brasileirão: “Foi melhor que o Palmeiras”",
+        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-reconhece-superioridade-do-flamengo-no-brasileirao-foi-melhor-que-o-palmeiras/",
+        "summary": "Abel Ferreira reconhece superioridade do Flamengo no Brasileirão: “Foi melhor que o Palmeiras” O post Abel Ferreira reconhece superioridade do Flamengo no Brasileirão: “Foi melhor que o Palmeiras” apareceu primeiro em Ga",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Abel-Ferrei.webp",
         "date": "21 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Mike Tyson e Popó anunciam projeto em evento de MMA e boxe neste sábado",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/lutas/mike-tyson-brasil-evento-boxe-sao-paulo/",
-        "summary": "Mike Tyson está no Brasil para prestigiar o Kings Championship, evento de boxe e MMA organizado por seu treinador Rafael Cordeiro, em São Paulo. A programação também contará com a presença de Popó, e os dois ídolos devem",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/1000114919.webp",
+        "title": "Leonardo Jardim celebra título do Flamengo e fala sobre futuro: “Hoje é dia de festa”",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/leonardo-jardim-celebra-titulo-do-flamengo-e-fala-sobre-futuro-hoje-e-dia-de-festa/",
+        "summary": "Leonardo Jardim celebra título do Flamengo e fala sobre futuro: “Hoje é dia de festa” O post Leonardo Jardim celebra título do Flamengo e fala sobre futuro: “Hoje é dia de festa” apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Leonardo-Jard.webp",
         "date": "21 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Rafael Nadal é nomeado membro da diretoria do Real Madrid",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/rafael-nadal-e-nomeado-membro-da-diretoria-do-real-madrid/",
-        "summary": "Rafael Nadal foi oficialmente nomeado para a diretoria do Real Madrid após aprovação em assembleia geral do clube. Ídolo do tênis com 22 títulos de Grand Slam e sócio de honra do clube desde 2011, o espanhol afirmou que ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/09/nadal-roland-garros-2025-wave.webp",
+        "title": "Coritiba vence Bahia fora de casa e abre sete pontos do Z4 no Brasileirão",
+        "link": "https://www.gazetaesportiva.com/times/coritiba/coritiba-vence-bahia-fora-de-casa-e-abre-sete-pontos-do-z4-no-brasileirao/",
+        "summary": "Coritiba vence Bahia fora de casa e abre sete pontos do Z4 no Brasileirão O post Coritiba vence Bahia fora de casa e abre sete pontos do Z4 no Brasileirão apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXrbqYtWAAAe-tU.webp",
         "date": "21 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Infantino recebe apoio da Confederação Africana para reeleição à presidência da Fifa",
-        "link": "https://www.infomoney.com.br/esportes/infantino-recebe-apoio-da-confederacao-africana-para-reeleicao-a-presidencia-da-fifa/",
-        "summary": "Anúncio acontece um dia após o apoio oficial da Conmebol a Infantino; em outubro a Confederação Asiática de Futebol também aprovou a continuidade do presidente da Fifa The post Infantino recebe apoio da Confederação Afri",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Giani-Infantino-e-Patrice-Motsepe.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
+        "title": "Trump disse a líderes europeus que estavam gastando muito com Ucrânia, diz Zelensky",
+        "link": "https://www.infomoney.com.br/mundo/trump-disse-a-lideres-europeus-que-estavam-gastando-muito-com-ucrania-diz-zelensky/",
+        "summary": "Trump participou por teleconferência de uma reunião da “Coalizão dos Dispostos” da Ucrânia, em Berlim The post Trump disse a líderes europeus que estavam gastando muito com Ucrânia, diz Zelensky appeared first on InfoMon",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-06-16T120842Z_39792891_RC2ZULAZM9S0_RTRMADP_3_G7-SUMMIT.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "TCU aponta falhas do governo para enfrentar secas e enchentes no Brasil",
-        "link": "https://www.infomoney.com.br/brasil/tcu-aponta-falhas-do-governo-para-enfrentar-secas-e-enchentes-no-brasil/",
-        "summary": "Auditoria identifica atrasos na revisão de planos, falta de coordenação entre ministérios e risco de desperdício de recursos em obras de segurança hídrica The post TCU aponta falhas do governo para enfrentar secas e ench",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Rio-seco_El-Nino.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026",
+        "link": "https://www.infomoney.com.br/brasil/parana-registra-dois-tornados-em-um-dia-e-chega-a-15-ocorrencias-em-2026/",
+        "summary": "Fenômenos atingiram Foz do Iguaçu e Manoel Ribas, com ventos de até 180 km/h; milhares de imóveis ficaram sem energia elétrica The post Paraná registra dois tornados em um dia e chega a 15 ocorrências em 2026 appeared fi",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/tornado.webp?fit=300%2C169&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Palmeiras x Flamengo: Veja onde assistir e horário",
-        "link": "https://www.infomoney.com.br/esportes/palmeiras-flamengo-onde-assistir-brasileirao/",
-        "summary": "Os líderes do Campeonato Brasileiro entram em campo em mais uma disputa apertada The post Palmeiras x Flamengo: Veja onde assistir e horário appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-palmeiras-x-flamengo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "title": "Filme de Brad Pitt na Netflix gera críticas por imagens supostamente feitas com IA",
+        "link": "https://www.infomoney.com.br/consumo/filme-de-brad-pitt-na-netflix-gera-criticas-por-imagens-supostamente-feitas-com-ia/",
+        "summary": "David Fincher defendeu o uso de novas tecnologias no cinema após críticas às imagens de produção da Netflix, que também enfrenta boicote de grandes redes exibidoras The post Filme de Brad Pitt na Netflix gera críticas po",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/15654034925d4e29643df08_1565403492_3x2_xl.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Moraes autoriza visita de filhos a Bolsonaro durante internação hospitalar",
-        "link": "https://www.infomoney.com.br/politica/moraes-autoriza-visita-de-filhos-a-bolsonaro-durante-internacao-hospitalar/",
-        "summary": "Ex-presidente está internado desde sexta-feira (20), em Brasília, com obstrução intestinal; médicos avaliam necessidade de cirurgia The post Moraes autoriza visita de filhos a Bolsonaro durante internação hospitalar appe",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-23T152216Z_613812178_RC2V1HAEN3OD_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Quem era Paolo Bulgari, o “rei” das joias de luxo que morreu aos 89 anos",
+        "link": "https://www.infomoney.com.br/mundo/quem-era-paolo-bulgari-o-rei-das-joias-de-luxo-que-morreu-aos-89-anos/",
+        "summary": "Neto do fundador da Bulgari, empresário ajudou a transformar a joalheria italiana em uma marca global, conquistou estrelas de Hollywood e participou da expansão da grife The post Quem era Paolo Bulgari, o “rei” das joias",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-21-as-18.06.06.png?fit=300%2C251&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País",
-        "link": "https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/",
-        "summary": "O plano tem recebido críticas do mercado, que vê um corte pequeno de gastos, e de parte do campo progressista, que fala em risco de queda de gastos sociais The post Lula defende pacote fiscal: sistema financeiro não me e",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/55636836030_528f3c9572_k.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+        "title": "FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia",
+        "link": "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/",
+        "summary": "Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips The post FT: Amazon negocia compr",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/amazon-empresa-business-entrega-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram",
-        "link": "https://www.infomoney.com.br/politica/lula-falei-para-putin-trump-e-xi-para-se-reunirem-por-coincidencia-se-reuniram/",
-        "summary": "Lula disse que realizou ligações para os mandatários em 26 de julho e nos dias 4 e 21 de agosto The post Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/475236747.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Cúpula climática COP31 corre risco de fracassar, conforme negociações se estendem",
+        "link": "https://www.infomoney.com.br/mundo/cupula-climatica-cop31-corre-risco-de-fracassar-conforme-negociacoes-se-estendem/",
+        "summary": "Negociadores de quase 200 países estão tendo dificuldades para superar as divergências sobre combustíveis fósseis e financiamento climático The post Cúpula climática COP31 corre risco de fracassar, conforme negociações s",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/cop31.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Temporal no RS: sobe para quatro o número de mortos em Tupanciretã",
-        "link": "https://exame.com/brasil/temporal-no-rs-sobe-para-quatro-o-numero-de-mortos-em-tupancireta/",
-        "summary": "Tempestade com ventos de até 114 km/h deixou 162 feridos, danificou cerca de 8 mil casas e afetou quase 20 mil moradores no município gaúcho",
+        "title": "Desfecho da COP31 fica para domingo, com cadeiras vazias e sauditas contra 130 países",
+        "link": "https://exame.com/esg/desfecho-da-cop31-fica-para-domingo-com-cadeiras-vazias-e-sauditas-contra-130-paises/",
+        "summary": "Plenária emperra em itens de rotina, Europa ameaça sair sem acordo e versão final do texto deve ser apresentada às 9h em Antália",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Oscar Freire perde posto de rua mais cara do Brasil para avenida no Rio; veja ranking",
-        "link": "https://exame.com/mercado-imobiliario/oscar-freire-perde-posto-de-rua-mais-cara-do-brasil-para-avenida-no-rio-veja-ranking/",
-        "summary": "Aluguel na rua dos Jardins caiu 26% em um ano, a maior queda das Américas, e a Avenida Ataulfo de Paiva, no Leblon, assumiu a liderança nacional",
+        "title": "Campeão brasileiro, Flamengo fatura R$ 2 bilhões e é o clube mais rico do país",
+        "link": "https://exame.com/esporte/campeao-brasileiro-flamengo-fatura-r-2-bilhoes-e-e-o-clube-mais-rico-do-pais/",
+        "summary": "Rubro-Negro lidera os rankings de faturamento da Sports Value e da EY, mas entra em 2027 com orçamento no vermelho após perder a Betano",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Antonelli é o mais rápido, mas Verstappen larga na frente em Las Vegas",
-        "link": "https://exame.com/esporte/antonelli-e-o-mais-rapido-mas-verstappen-larga-na-frente-em-las-vegas/",
-        "summary": "Italiano fez a melhor volta na classificação de sexta-feira, 20, mas perderá cinco posições no grid por troca do motor de combustão interna",
+        "title": "Prisão de 'El Chapo Isidro' mata quatro militares e leva pânico a cinco cidades do México",
+        "link": "https://exame.com/mundo/prisao-de-el-chapo-isidro-mata-quatro-militares-e-leva-panico-a-cinco-cidades-do-mexico/",
+        "summary": "O mexicano é acusado de comandar uma rede que envia fentanil, cocaína, heroína e outras drogas aos Estados Unidos",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Moraes libera visitas diárias dos filhos a Bolsonaro durante internação em Brasília",
-        "link": "https://exame.com/brasil/moraes-libera-visitas-diarias-dos-filhos-a-bolsonaro-durante-internacao-em-brasilia/",
-        "summary": "Decisão atende a pedido urgente da defesa, vale também para a enteada e proíbe celulares no quarto; equipe médica avalia nova cirurgia",
+        "title": "Flamengo empata com Palmeiras e é campeão do Brasileirão",
+        "link": "https://exame.com/esporte/flamengo-empata-com-palmeiras-e-e-campeao-do-brasileirao/",
+        "summary": "Rubro-Negro empatou por 1 a 1 com o Palmeiras no Nubank Parque e garantiu o título neste sábado, 21",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Muçulmanos devem superar cristãos e se tornar o maior grupo religioso do mundo, aponta pesquisa",
-        "link": "https://exame.com/mundo/muculmanos-devem-superar-cristaos-e-se-tornar-o-maior-grupo-religioso-do-mundo-aponta-pesquisa/",
-        "summary": "Projeção indica que, em 2070, serão mais de 3,6 bilhões de islâmicos contra pouco menos de 3 bilhões de cristãos",
+        "title": "GTA 6 vira fenômeno de audiência e soma mais de 200 milhões de horas em lives",
+        "link": "https://exame.com/pop/gta-6-vira-fenomeno-de-audiencia-e-soma-mais-de-200-milhoes-de-horas-em-lives/",
+        "summary": "Brasil é o segundo país com mais espectadores, com 11,3%, atrás apenas dos EUA, que concentram 18,4%",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Agronegócio: como enfrentar os ciclos de alta e baixa do setor",
-        "link": "https://exame.com/bussola/como-navegar-as-altas-e-baixas-do-agronegocio/",
-        "summary": "Após a expansão, o setor enfrenta um ciclo de ajuste e reforça a gestão financeira, a manutenção de equipamentos e o investimento em inovação",
+        "title": "Ambev vai revitalizar 15 botecos tradicionais pelo Brasil em 2027",
+        "link": "https://exame.com/marketing/ambev-vai-revitalizar-15-botecos-tradicionais-pelo-brasil-em-2027/",
+        "summary": "Iniciativa estreou no Beco do Rato, no Rio de Janeiro, e prevê apoiar outros estabelecimentos tradicionais em diferentes estados ao longo do próximo ano",
         "image": null,
         "date": "21 de nov. de 2026",
         "source": "Exame",
