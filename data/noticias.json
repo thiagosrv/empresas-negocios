@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-20T19:48:23.367Z",
+  "updated": "2026-11-21T01:13:18.398Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Como música de Anitta virou ferramenta de educação antirracista em escola de Campinas",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/como-musica-de-anitta-virou-ferramenta-de-educacao-antirracista-em-escola-de-campinas.ghtml",
+        "summary": "Música de Anitta virou ferramenta de educação antirracista em escola de Campinas Uma música da cantora Anitta foi usada como ferramenta de educação antirracista na Escola Estadual Vitor Meirelles, em Campinas (SP). Duran",
+        "image": "https://s2-g1.glbimg.com/8gDJcpgk6Z4fbr8ts2Z8kttCUqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/u/MltMtVSiiQvprzjcbHuQ/anitta-.png",
+        "date": "20 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
+      {
+        "title": "Brasil reconhece parte das violações contra mulher trans em julgamento internacional e promete ampliar ações no SUS",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/brasil-reconhece-parte-das-violacoes-contra-mulher-trans-em-julgamento-internacional-e-promete-ampliar-acoes-no-sus.ghtml",
+        "summary": "'O Estado reconhece': Brasil admite à Corte IDH parte das violações contra mulher trans Após dois dias de audiência pública na Corte Interamericana de Direitos Humanos (Corte IDH), o Brasil reconheceu parte das violações",
+        "image": "https://s2-g1.glbimg.com/2TgiD2ScKJ8xErenKCrRTNkWo_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/8/sqT2gGSMqHMiMNecIBhg/design-sem-nome-2026-11-19t184643.903.jpg",
+        "date": "20 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Influenciador Gabriel Félix morreu aos 29 anos em Campinas; corpo será levado a Uberaba",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/influenciador-gabriel-felix-morreu-aos-29-anos-em-campinas-corpo-sera-levado-a-uberaba.ghtml",
@@ -15,7 +35,7 @@
       {
         "title": "Justiça absolve ex-chefe da Dise de Campinas e ex-policial em caso de extorsão e associação criminosa",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/justica-absolve-ex-chefe-da-dise-de-campinas-e-ex-policial-em-caso-de-extorsao-e-associacao-criminosa.ghtml",
-        "summary": "Ex-chefe dos investigadores da Delegacia de Investigações Sobre Entorpecentes (Dise) de Campinas (SP), Maurício Aparecido de Oliveira Arquivo pessoal A 1ª Vara Criminal de Campinas (SP) absolveu o ex-chefe dos investigad",
+        "summary": "Justiça absolve ex-chefe da Dise de Campinas e ex-policial em caso de extorsão A 1ª Vara Criminal de Campinas (SP) absolveu o ex-chefe dos investigadores da Delegacia de Investigações Sobre Entorpecentes (Dise), Maurício",
         "image": "https://s2-g1.glbimg.com/lKW50f3ULMPnIWIUPS-nIWiH5iY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/f/BJdJmCTJO2gqqADCtWBA/design-sem-nome-12-.png",
         "date": "20 de nov. de 2026",
         "source": "G1 Campinas",
@@ -43,24 +63,44 @@
         "cls": "brasil"
       },
       {
-        "title": "Carro capota na Avenida Heitor Penteado, em Campinas, e deixa homem de 60 anos ferido",
-        "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/20/carro-capota-na-avenida-heitor-penteado-em-campinas-e-deixa-homem-de-60-anos-ferido.ghtml",
-        "summary": "Carro capota na Avenida Heitor Penteado, em Campinas, e deixa homem ferido Um homem de 60 anos ficou ferido após o carro que dirigia capotar na Avenida Heitor Penteado, perto do portão 6 da Lagoa do Taquaral, em Campinas",
-        "image": "https://s2-g1.glbimg.com/ieuKyvpN7Nm6ONBVfGHl_zcU1s0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/z/3MNNNFRZKCBTJdwOTh5g/acidente-lagoa-vale.jpg",
-        "date": "20 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "title": "Defesa Civil confirma tornado em três municípios do Rio Grande do Sul; mais de 120 casas foram atingidas",
+        "link": "https://jornalamericanense.com.br/brasil/defesa-civil-confirma-tornado-em-tres-municipios-do-rio-grande-do-sul-mais-de-120-casas-foram-atingidas/",
+        "summary": "Fenômeno ocorreu durante a passagem de uma linha de tempestades no Norte gaúcho. Erval Grande, Itatiba do Sul e Barra do Rio Azul registraram destelhamentos, queda de árvores e interrupções no fornecimento de energia elé",
+        "image": null,
+        "date": "21 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
-        "title": "Uma das aves mais ameaçadas do Brasil é registrada durante expedição no interior de SP",
-        "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/20/uma-das-aves-mais-ameacadas-do-brasil-e-registrada-durante-expedicao-no-interior-de-sp.ghtml",
-        "summary": "Uma das aves mais ameaçadas do Brasil é registrada durante expedição no interior de SP Divulgação Uma das aves mais raras e ameaçadas de extinção do Brasil foi registrada durante uma expedição de observação de aves em Ja",
-        "image": "https://s2-g1.glbimg.com/sViWIAoiNllO0PeV6D_Jf88_2No=/s.glbimg.com/jo/g1/f/original/2017/05/13/bicudinho-do-brejo-paulista-macho-.jpg",
+        "title": "Polícia Civil investiga morte de menino de 9 anos em Santa Bárbara d’Oeste",
+        "link": "https://jornalamericanense.com.br/policia/policia-civil-investiga-morte-de-menino-de-9-anos-em-santa-barbara-doeste/",
+        "summary": "Criança foi levada sem sinais vitais ao Pronto-Socorro Dr. Afonso Ramos na noite de quarta-feira (18); produto encontrado com o menino foi apreendido e será analisado no decorrer da investigação. A Polícia Civil investig",
+        "image": null,
         "date": "20 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Bolsonaro é internado em Brasília após dores abdominais; exames apontam obstrução intestinal",
+        "link": "https://jornalamericanense.com.br/politica/bolsonaro-e-internado-em-brasilia-apos-dores-abdominais-exames-apontam-obstrucao-intestinal/",
+        "summary": "Ex-presidente passou por tomografia, que identificou obstrução parcial do intestino delgado associada a aderências na parede abdominal. Ele está estável, ficará em observação e equipe médica não descarta a possibilidade ",
+        "image": null,
+        "date": "20 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
+      },
+      {
+        "title": "Americana realiza novo mutirão gratuito de Implanon com 600 implantes disponíveis em novembro",
+        "link": "https://jornalamericanense.com.br/cidades/americana-realiza-novo-mutirao-gratuito-de-implanon-com-600-implantes-disponiveis-em-novembro/",
+        "summary": "Ação será realizada no dia 28, em quatro unidades de saúde; atendimento é destinado a mulheres de 14 a 49 anos, residentes no município, com distribuição de senhas por ordem de chegada. A Prefeitura de Americana, por mei",
+        "image": null,
+        "date": "20 de nov. de 2026",
+        "source": "Americanense",
+        "tag": "Americanense",
+        "cls": "servicos"
       },
       {
         "title": "DIG e Guarda Municipal prendem seis suspeitos em operação contra furto de cabos em Americana",
@@ -83,49 +123,9 @@
         "cls": "servicos"
       },
       {
-        "title": "WhatsApp começa a liberar agendamento de mensagens no Brasil; veja como usar a novidade",
-        "link": "https://jornalamericanense.com.br/brasil/whatsapp-comeca-a-liberar-agendamento-de-mensagens-no-brasil-veja-como-usar-a-novidade/",
-        "summary": "Recurso permite programar o envio de textos e imagens para uma data e horário específicos, mas ainda está disponível apenas para parte dos usuários O WhatsApp começou a liberar gradualmente um recurso que permite agendar",
-        "image": null,
-        "date": "19 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Lula assina decreto que regulamenta escala 5 2 e prevê fim da jornada 6 1",
-        "link": "https://jornalamericanense.com.br/brasil/lula-assina-decreto-que-regulamenta-escala-5x2-e-preve-fim-da-jornada-6x1/",
-        "summary": "Transição começa em 16 de dezembro, com redução da carga horária semanal de 44 para 42 horas, manutenção dos salários e garantia de dois dias de descanso; jornada de 40 horas está prevista para dezembro de 2027. O presid",
-        "image": null,
-        "date": "19 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Do Instagram para Vice City: trend transforma fotos em personagens de GTA 6",
-        "link": "https://jornalamericanense.com.br/brasil/do-instagram-para-vice-city-trend-transforma-fotos-em-personagens-de-gta-6/",
-        "summary": "Febre nas redes sociais utiliza o ChatGPT para criar ilustrações inspiradas no universo do aguardado jogo; veja como participar, confira o passo a passo e copie o comando para fazer sua própria versão. Já imaginou trocar",
-        "image": null,
-        "date": "19 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Americana anuncia pacote de R$ 140 milhões em obras de infraestrutura, incluindo duplicação do Viaduto Amadeu Elias",
-        "link": "https://jornalamericanense.com.br/cidades/americana-anuncia-pacote-de-r-140-milhoes-em-obras-de-infraestrutura-incluindo-duplicacao-do-viaduto-amadeu-elias/",
-        "summary": "Programa Vias do Futuro prevê intervenções para melhorar a mobilidade urbana, reestruturar acessos viários, ampliar a drenagem e recuperar ruas e avenidas; projeto de financiamento será encaminhado à Câmara Municipal O p",
-        "image": null,
-        "date": "19 de nov. de 2026",
-        "source": "Americanense",
-        "tag": "Americanense",
-        "cls": "servicos"
-      },
-      {
-        "title": "Protestos estudantis eclodem em toda a Europa com diversos temas",
-        "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/protestos-estudantis-eclodem-em-toda-europa",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/protestos-estudantis-eclodem-em-toda-europa img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a",
+        "title": "PF diz que não há conversas de Mendonça com Vorcaro",
+        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +133,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Estragos no RS atingem mais cidades além de Tupanciretã",
-        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/estragos-no-rs-atingem-mais-cidades-alem-de-tupancireta",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/estragos-no-rs-atingem-mais-cidades-alem-de-tupancireta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "RS: ex-vereador está entre as vítimas da tempestade em Tupanciretã",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Agência Brasil",
@@ -143,9 +143,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Em lados opostos: Stefani e Dabrowski duelarão na Billie Jean King Cup",
-        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/em-lados-opostos-stefani-e-dabrowski-duelarao-na-billie-jean-king-cup",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/em-lados-opostos-stefani-e-dabrowski-duelarao-na-billie-jean-king-cup img src= https://cdn.jsdelivr.net/gh/sergiosdli",
+        "title": "Renda de 73% de negras vítimas de violência é de até 2 salários mínimo",
+        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/renda-de-73-de-negras-vitimas-de-violencia-e-de-ate-2-salarios-minimo",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/renda-de-73-de-negras-vitimas-de-violencia-e-de-ate-2-salarios-minimo img src= https://cdn.jsdelivr.net/gh/se",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Agência Brasil",
@@ -153,9 +153,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Presidente do Supremo mantém prisão de Vorcaro",
-        "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/",
+        "title": "Filme Camisas Negras retrata luta do Vasco contra o racismo em 1923",
+        "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923 img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Agência Brasil",
@@ -163,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Maranhão: professores usam filmes e comida para educação antirracista",
-        "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/maranhao-professores-usam-filmes-e-comida-para-educacao-antirracista",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/maranhao-professores-usam-filmes-e-comida-para-educacao-antirracista img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
+        "title": "Sociedade civil diz que COP31 poderá ser a pior da história",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sociedade-civil-diz-que-cop31-podera-ser-pior-da-historia",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sociedade-civil-diz-que-cop31-podera-ser-pior-da-historia img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Agência Brasil",
@@ -173,9 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Total de pacientes canábicos passa de 1 milhão no Brasil",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/total-de-pacientes-canabicos-passa-de-1-milhao-no-brasil",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/total-de-pacientes-canabicos-passa-de-1-milhao-no-brasil img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.",
+        "title": "Bolsonaro é internado com quadro de dor e distensão abdominal",
+        "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal img src= https://cdn.jsdelivr.net/gh/sergiosdlima/",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Agência Brasil",
@@ -185,60 +185,60 @@
     ],
     "esportes": [
       {
-        "title": "Tom Brady negocia compra de parte do Chelsea, diz imprensa britânica",
-        "link": "https://www.gazetaesportiva.com/times/chelsea/tom-brady-negocia-compra-de-parte-do-chelsea-diz-imprensa-britanica/",
-        "summary": "Tom Brady está negociando a compra de uma participação no Chelsea, segundo a imprensa britânica. A informação surge após o ex-quarterback da NFL decidir vender suas ações no Birmingham City, movimento que pode estar liga",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261113__2304965749__v1__MidRes__GreenBayPackersVNewEnglandPatriots.webp",
+        "title": "Sesi Franca reage, vence o União Corinthians de virada e sobe para quinto no NBB",
+        "link": "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/sesi-franca-reage-vence-o-uniao-corinthians-de-virada-e-sobe-para-quinto-no-nbb/",
+        "summary": "Sesi Franca reage, vence o União Corinthians de virada e sobe para quinto no NBB O post Sesi Franca reage, vence o União Corinthians de virada e sobe para quinto no NBB apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-20-at-21.30.27.webp",
+        "date": "21 de nov. de 2026",
+        "source": "Gazeta Esportiva",
+        "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Barba Domínguez destaca talento puro do elenco para vencer Boca na final da Sul-Americana",
+        "link": "https://www.gazetaesportiva.com/times/atletico-mg/barba-dominguez-destaca-talento-puro-do-elenco-para-vencer-boca-na-final-da-sul-americana/",
+        "summary": "Barba Domínguez destaca \"talento puro\" do elenco para vencer Boca na final da Sul-Americana O post Barba Domínguez destaca talento puro do elenco para vencer Boca na final da Sul-Americana apareceu primeiro em Gazeta Esp",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261119__D7T96WE__v1__MidRes__FilesFblSudamericanaMineiro.webp",
         "date": "20 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Guardiola visita CT do Bahia e acompanhará jogo contra Coritiba na Fonte Nova",
-        "link": "https://www.gazetaesportiva.com/times/bahia/guardiola-visita-ct-bahia-acompanha-jogo-coritiba/",
-        "summary": "Guardiola vai ao CT do Bahia e assistirá jogo na Fonte Nova O post Guardiola visita CT do Bahia e acompanhará jogo contra Coritiba na Fonte Nova apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXlHMt5WMAAy30a.webp",
+        "title": "Veja fotos do treino do São Paulo nesta sexta-feira",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-do-treino-do-sao-paulo-nesta-sexta-feira-21/",
+        "summary": "Veja fotos do treino do São Paulo nesta sexta-feira O post Veja fotos do treino do São Paulo nesta sexta-feira apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55664615043_3130677dc1_o.webp",
         "date": "20 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "ATP vai distribuir mais de US$ 350 milhões em premiações e bônus a partir de 2028",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/atp-vai-distribuir-mais-de-us-350-milhoes-em-premiacoes-e-bonus-a-partir-de-2028/",
-        "summary": "A ATP anunciou uma ampla reforma financeira para 2028, elevando a distribuição de prêmios e bônus para mais de US$ 350 milhões no circuito masculino, valor que chega a US$ 500 milhões ao incluir os Grand Slams. Os jogado",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261120__D84H8HF__v1__HighRes__TennisItalyAtpFinals.webp",
+        "title": "Com baixa, São Paulo se reapresenta e abre preparação para enfrentar o Botafogo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/com-baixa-sao-paulo-se-reapresenta-e-abre-preparacao-para-enfrentar-o-botafogo/",
+        "summary": "São Paulo se reapresenta e abre preparação para enfrentar o Botafogo O post Com baixa, São Paulo se reapresenta e abre preparação para enfrentar o Botafogo apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55664676989_dcf9995565_o-2.webp",
         "date": "20 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Alcaraz vence Cobolli e fecha fase de grupos do ATP Finals com campanha 100%",
-        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/alcaraz-vence-cobolli-e-fecha-fase-de-grupos-do-atp-finals-com-campanha-100/",
-        "summary": "Carlos Alcaraz confirmou a boa fase ao vencer Flavio Cobolli por 6/4 e 6/1 na última rodada da fase de grupos do ATP Finals. O espanhol, número 3 do mundo, conquistou sua terceira vitória seguida sem perder sets em Turim",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261120__D86D7D9__v1__HighRes__TennisItalyAtpFinals.webp",
+        "title": "Paredes projeta final especial da Sul-Americana do Boca Juniors contra o Atlético-MG",
+        "link": "https://www.gazetaesportiva.com/times/boca-juniors/paredes-projeta-final-especial-da-sul-americana-do-boca-juniors-contra-o-atletico-mg/",
+        "summary": "Paredes projeta final \"especial\" da Sul-Americana do Boca Juniors contra o Atlético-MG O post Paredes projeta final especial da Sul-Americana do Boca Juniors contra o Atlético-MG apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261119__D8394MQ__v1__MidRes__FblSudamericanaMineiroBocaTraining.webp",
         "date": "20 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Mourinho comenta titularidade de Vini Jr. e futuro de Endrick no Real Madrid",
-        "link": "https://www.gazetaesportiva.com/times/real-madrid/mourinho-vini-jr-endrick-real-madrid/",
-        "summary": "Os brasileiros Vinicius Júnior e Endrick foram assuntos importantes na entrevista coletiva do técnico José Mourinho, do Real Madrid, nesta sexta-feira. Na véspera do confronto contra o Celta de Vigo, pelo Campeonato Espa",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/807284835_122138215101355009_6381090438951960390_n.webp",
-        "date": "20 de nov. de 2026",
-        "source": "Gazeta Esportiva",
-        "tag": "Esportes",
-        "cls": "startups"
-      },
-      {
-        "title": "Corinthians lança plataforma de combate ao racismo no dia da Consciência Negra",
-        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-lanca-plataforma-de-combate-ao-racismo-no-mes-da-consciencia-negra/",
-        "summary": "Corinthians lança plataforma de combate ao racismo no Mês da Consciência Negra O post Corinthians lança plataforma de combate ao racismo no dia da Consciência Negra apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2025/04/54378030004_dd868f8bd0_k-1.webp",
+        "title": "Nice x PSG: veja prováveis escalações e onde assistir ao duelo pelo Francês",
+        "link": "https://www.gazetaesportiva.com/campeonatos/ligue-1/nice-x-psg-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pelo-frances/",
+        "summary": "Nice e PSG se enfrentam neste sábado (21), às 13h15 (de Brasília), no Allianz Riviera, pela 11ª rodada do Campeonato Francês. A partida terá transmissão ao vivo e gratuita pela CazéTV, no YouTube. O Nice chega embalado p",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261107__D6RZ397__v1__Mockup__FblFraLigue1PsgTroyes.webp",
         "date": "20 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
@@ -307,69 +307,69 @@
         "cls": ""
       },
       {
-        "title": "Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo",
-        "link": "https://www.infomoney.com.br/economia/lisa-cook-ia-deve-provocar-perda-de-empregos-mas-impacto-de-longo-prazo-e-positivo/",
-        "summary": "A dirigente destacou que a tecnologia está avançando rapidamente e, por isso, \"permanece no radar do Fed\" The post Lisa Cook: IA deve provocar perda de empregos, mas impacto de longo prazo é positivo appeared first on In",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-21T172829Z_1_LYNXMPEM0K19T_RTROPTP_4_USA-FED-COOK.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+        "title": "Tempestades que causaram estragos no RS podem chegar até São Paulo? Veja previsão",
+        "link": "https://www.infomoney.com.br/brasil/tempestades-que-causaram-estragos-no-rs-podem-chegar-ate-sao-paulo-veja-previsao/",
+        "summary": "SP deve ter chuva ao longo do fim de semana The post Tempestades que causaram estragos no RS podem chegar até São Paulo? Veja previsão appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/chuva_mudanca_tempo_02.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "20 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Ouro fecha no menor nível em ano, com commodities pressionadas por juros mais altos",
-        "link": "https://www.infomoney.com.br/mercados/ouro-fecha-no-menor-nivel-em-ano-com-commodities-pressionadas-por-juros-mais-altos/",
-        "summary": "Na Comex, divisão de metais da bolsa de Nova York (Nymex), o ouro para dezembro encerrou em queda de 4,62%, a US$ 3.515,4 por onça-troy The post Ouro fecha no menor nível em ano, com commodities pressionadas por juros ma",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-14-152255.png?fit=300%2C197&amp;quality=70&amp;strip=all",
+        "title": "Nova caravana com cerca de 300 migrantes entra no sul do México rumo aos EUA",
+        "link": "https://www.infomoney.com.br/mundo/nova-caravana-com-cerca-de-300-migrantes-entra-no-sul-do-mexico-rumo-aos-eua/",
+        "summary": "Ação acontece uma semana ‌após o presidente dos Estados Unidos, Donald Trump, ameaçar impor novas tarifas ao México caso o país não impeça o movimento The post Nova caravana com cerca de 300 migrantes entra no sul do Méx",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-20T222821Z_1_LYNXNPEMAJ22Z_RTROPTP_4_MIGRATION-USA-MEXICO-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "20 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Supercélula de tempestade: entenda o que é fenômeno que devastou Tupanciretã, no RS",
-        "link": "https://www.infomoney.com.br/brasil/supercelula-de-tempestade-entenda-o-que-e-fenomeno-que-devastou-tupancireta-no-rs/",
-        "summary": "O pior cenário aconteceu em Tupanciretã, onde a formação de uma supercélula com micro explosão causou rajadas de vento de até 114 km/h The post Supercélula de tempestade: entenda o que é fenômeno que devastou Tupanciretã",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/tupancireta-rs-chuvas.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Novo ataque israelense no centro de Gaza mata quatro palestinos",
+        "link": "https://www.infomoney.com.br/mundo/novo-ataque-israelense-no-centro-de-gaza-mata-quatro-palestinos/",
+        "summary": "As forças armadas israelenses afirmam que esses \"terroristas do Hamas\" estavam se reunindo para planejar ataques contra as forças do Exército israelense The post Novo ataque israelense no centro de Gaza mata quatro pales",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/soldado-israel-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "20 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Governo federal envia equipe a Tupanciretã (RS) após temporal destruir 8 mil casas",
-        "link": "https://www.infomoney.com.br/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas/",
-        "summary": "O grupo vai auxiliar as autoridades locais no atendimento às vítimas The post Governo federal envia equipe a Tupanciretã (RS) após temporal destruir 8 mil casas appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-20-163611.png?fit=300%2C269&amp;quality=70&amp;strip=all",
+        "title": "Patrick Stewart: causa da morte do astro de Star Trek e X-Men é revelada",
+        "link": "https://www.infomoney.com.br/mundo/patrick-stewart-causa-da-morte-do-astro-de-star-trek-e-x-men-e-revelada/",
+        "summary": "Ator marcou a história do cinema em Star Trek e X-Men The post Patrick Stewart: causa da morte do astro de Star Trek e X-Men é revelada appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-10-29T201738Z_1990082430_RC28DOAN8HA3_RTRMADP_3_PEOPLE-PATRICK-STEWART-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
         "date": "20 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Trump defende volta de Huang à Nvidia: Tomou decisões erradas, mas é brilhante",
-        "link": "https://www.infomoney.com.br/mundo/trump-defende-volta-de-huang-a-nvidia-tomou-decisoes-erradas-mas-e-brilhante/",
-        "summary": "\"Adoraria ver Huang de volta à Nvidia\", disse The post Trump defende volta de Huang à Nvidia: Tomou decisões erradas, mas é brilhante appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-20T192528Z_130355272_RC2UROA3K99Q_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "title": "Criança morre na Virgínia, EUA, em 1º óbito associado ao sarampo no Estado em 2026",
+        "link": "https://www.infomoney.com.br/mundo/crianca-morre-na-virginia-eua-em-1o-obito-associado-ao-sarampo-no-estado-em-2026/",
+        "summary": "O departamento informou que a criança tinha entre 0 e ​4 anos de idade The post Criança morre na Virgínia, EUA, em 1º óbito associado ao sarampo no Estado em 2026 appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-14T005404Z_241976091_RC20DDA4CUCW_RTRMADP_3_HEALTH-MEASLES-USA-ELIMINATION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
         "date": "20 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "Defesa Civil: Tempestades causam danos em 25 cidades e afetam 3,4 mil pessoas no RS",
-        "link": "https://www.infomoney.com.br/brasil/defesa-civil-tempestades-causam-danos-em-25-cidades-e-afetam-34-mil-pessoas-no-rs/",
-        "summary": "Até o momento, os eventos climáticos deixaram ao menos 3 mortos e 60 feridos, 3.422 pessoas afetadas e 74 desalojadas The post Defesa Civil: Tempestades causam danos em 25 cidades e afetam 3,4 mil pessoas no RS appeared ",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/tempestade-rs.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+        "title": "Chuvas fortes atingem litoral norte e cidades do interior de SP; veja previsão",
+        "link": "https://www.infomoney.com.br/brasil/chuvas-fortes-atingem-litoral-norte-e-cidades-do-interior-de-sp-veja-previsao/",
+        "summary": "A previsão é de que partes do Estado registrem temporais ao longo do final semana The post Chuvas fortes atingem litoral norte e cidades do interior de SP; veja previsão appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/12/chuva_sp_tarde_05.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
         "date": "20 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
         "cls": "brasil"
       },
       {
-        "title": "COP31: 'Rússia deve pagar por emissões e danos ambientais da guerra', diz vice-ministro da Ucrânia",
-        "link": "https://exame.com/esg/cop31-russia-deve-pagar-por-emissoes-e-danos-ambientais-da-guerra-diz-vice-ministro-da-ucrania/",
-        "summary": "Em entrevista exclusiva à EXAME na conferência climática, Oleksandr Krasnolutskyi afirma que o clima segue como prioridade do país e cobra reparações em meio aos ataques russos e às negociações de paz sem acordo",
+        "title": "GTA 6 fatura US$ 3,8 bilhões em 24 horas e bate recorde histórico do entretenimento",
+        "link": "https://exame.com/pop/gta-vi-fatura-us-38-bilhoes-em-24-horas-e-bate-recorde-historico-do-entretenimento/",
+        "summary": "Novo jogo da Rockstar Games supera grandes bilheterias do cinema e registra 32,5 milhões de cópias vendidas antecipadamente",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Exame",
@@ -377,9 +377,9 @@
         "cls": "startups"
       },
       {
-        "title": "Trump pede 'segunda chance' para Jensen Huang e defende volta do executivo à Nvidia",
-        "link": "https://exame.com/mundo/trump-pede-segunda-chance-para-jensen-huang-e-defende-volta-do-executivo-a-nvidia/",
-        "summary": "Após renúncia do cofundador da gigante de chips em meio a escândalo pessoal e suspeitas de espionagem chinesa, presidente dos EUA sugere pedido de desculpas e diz que empresa \"seria inteligente\" se o reintegrasse",
+        "title": "Os últimos cinco anos foram os mais difíceis da minha vida, diz Caito Maia, da Chilli Beans",
+        "link": "https://exame.com/carreira/caito-maia-chilli-beans-entrevista-temos-vagas/",
+        "summary": "No Temos Vagas, fundador da Chilli Beans tem 30 segundos para vender um par de óculos e conta qual investimento faria diferente",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Exame",
@@ -387,9 +387,9 @@
         "cls": "startups"
       },
       {
-        "title": "Trump diz que Filipinas trocarão agro do Brasil pelo dos EUA",
-        "link": "https://exame.com/agro/trump-diz-que-filipinas-trocarao-agro-do-brasil-pelo-dos-eua/",
-        "summary": "Presidente americano afirma ter fechado acordo para que Manila passe a adquirir toda a sua demanda agrícola de produtores norte-americanos a partir de janeiro e usa ameaça de conflito com a China para pressionar o país a",
+        "title": "Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street",
+        "link": "https://exame.com/invest/mercados/tombo-das-acoes-de-ia-derruba-nasdaq-em-528-e-provoca-onda-de-perdas-em-wall-street/",
+        "summary": "Nvidia despenca 14%, setor de semicondutores lidera perdas e investidores buscam proteção diante das incertezas do mercado",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Exame",
@@ -397,9 +397,9 @@
         "cls": "startups"
       },
       {
-        "title": "Trump ameaça proibir empresas dos EUA de construírem data centers no exterior",
-        "link": "https://exame.com/mundo/trump-ameaca-proibir-empresas-dos-eua-de-construirem-data-centers-no-exterior/",
-        "summary": "Sob o argumento de conter o avanço tecnológico de Pequim, republicano mira investimentos de big techs no exterior dias após Washington impor barreiras à exportação de chips avançados para o Brasil",
+        "title": "Arquivar ou trancar fotos no Google Fotos? Entenda a diferença",
+        "link": "https://exame.com/tecnologia/examelab/arquivar-ou-trancar-fotos-no-google-fotos-entenda-a-diferenca/",
+        "summary": "Comparativo mostra onde a imagem continua visível depois de arquivada ou trancada no Google Fotos e como ativar o backup da Pasta Trancada antes de mover arquivos sensíveis",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Exame",
@@ -407,9 +407,9 @@
         "cls": "startups"
       },
       {
-        "title": "Tom Brady negocia compra de participação no Chelsea, diz imprensa britânica",
-        "link": "https://exame.com/esporte/tom-brady-negocia-compra-de-participacao-no-chelsea-diz-imprensa-britanica/",
-        "summary": "Ex-astro da NFL avalia investimento no clube inglês e mantém ligação com empresário responsável pelo fundo Clearlake",
+        "title": "Arábia Saudita lidera ataques contra houthis no Iêmen e aumenta tensão no Mar Vermelho",
+        "link": "https://exame.com/mundo/arabia-saudita-lidera-ataques-contra-houthis-no-iemen-e-aumenta-tensao-no-mar-vermelho/",
+        "summary": "Bombardeios atingiram o porto de Hodeida e outras regiões; grupo apoiado pelo Irã ameaça retaliar contra cidades sauditas",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Exame",
@@ -417,9 +417,9 @@
         "cls": "startups"
       },
       {
-        "title": "Fim da escala 6x1: agronegócio terá de adotar jornada 5x2 sem regras específicas",
-        "link": "https://exame.com/agro/fim-da-escala-6x1-agronegocio-tera-de-adotar-jornada-5x2-sem-regras-especificas/",
-        "summary": "Decreto não contempla pedidos do setor, que defende condições diferenciadas para atividades de funcionamento contínua",
+        "title": "Bolsonaro é levado ao hospital com fortes dores abdominais e deve passar a noite internado",
+        "link": "https://exame.com/brasil/bolsonaro-e-levado-ao-hospital-com-fortes-dores-abdominais-e-deve-passar-a-noite-internado/",
+        "summary": "Ex-presidente enfrenta problemas abdominais desde 2018, quando sofreu um ataque a faca durante a campanha presidencial",
         "image": null,
         "date": "20 de nov. de 2026",
         "source": "Exame",
