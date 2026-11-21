@@ -1,18 +1,7 @@
 {
-  "updated": "2026-11-21T02:13:20.186Z",
+  "updated": "2026-11-21T09:53:57.401Z",
   "totalOk": 3,
   "items": [
-    {
-      "title": "Inter Miami x Columbus Crew: veja prováveis escalações e onde assistir",
-      "link": "https://www.gazetaesportiva.com/mls/inter-miami-x-columbus-crew-veja-provaveis-escalacoes-e-onde-assistir/",
-      "source": "Gazeta Esportiva",
-      "sourceLogo": "gazeta",
-      "date": "20 de nov. de 2026",
-      "isoDate": "2026-11-20",
-      "category": "Futebol",
-      "categoryColor": "#c0392b",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26ab.png"
-    },
     {
       "title": "Monaco x Auxerre: veja as prováveis escalações e onde assistir ao jogo pelo Campeonato Francês",
       "link": "https://www.gazetaesportiva.com/times/monaco/monaco-x-auxerre-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-pelo-campeonato-frances/",
@@ -23,6 +12,17 @@
       "category": "Futebol",
       "categoryColor": "#c0392b",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png"
+    },
+    {
+      "title": "Inter Miami x Columbus Crew: veja prováveis escalações e onde assistir",
+      "link": "https://www.gazetaesportiva.com/mls/inter-miami-x-columbus-crew-veja-provaveis-escalacoes-e-onde-assistir/",
+      "source": "Gazeta Esportiva",
+      "sourceLogo": "gazeta",
+      "date": "20 de nov. de 2026",
+      "isoDate": "2026-11-20",
+      "category": "Futebol",
+      "categoryColor": "#c0392b",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26ab.png"
     },
     {
       "title": "Real Madrid x Celta de Vigo pelo Espanhol: veja prováveis escalações e onde assistir",
