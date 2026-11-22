@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-21T22:55:23.479Z",
+  "updated": "2026-11-22T02:54:53.643Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "Black Friday e Natal devem movimentar R$ 9 bilhões no comércio de Campinas e região",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-comercio-de-campinas-e-regiao.ghtml",
+        "summary": "Black Friday deve movimentar R$ 1 bilhão no comércio de Campinas A Black Friday e o Natal devem movimentar R$ 9,04 bilhões no varejo de Campinas e região neste fim de ano. A projeção é do Departamento de Economia da Asso",
+        "image": "https://s2-g1.glbimg.com/cBXJGs5KKe9ZJrJv4h_SOFK3O5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/1/JJjx0oSoW0UOA3BtoOxA/design-sem-nome-60-.jpg",
+        "date": "21 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "VÍDEO: carro atinge motociclista, que bate em poste em Mogi Guaçu",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/video-carro-atinge-motociclista-que-bate-em-poste-em-mogi-guacu.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/tres-cavalos-soltos-causam-acidente-e-morrem-atropelados-em-rodovia-no-interior-de-sp.ghtml",
         "summary": "Carro ficou destruído após atropela cavalo solto na pista na Rodovia Santos Dumont (SP-075), em Indaiatuba (SP), na madrugada deste sábado (21) Comando Notícia Três cavalos soltos causaram um acidente na Rodovia Santos D",
         "image": "https://s2-g1.glbimg.com/_MG9SaSTY7MFNC00-HNYFFNfskc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/K/mG1SzXSnq1ceB2ZzQNDg/comando-noticia-4-.jpeg",
-        "date": "21 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Corpo de influenciador Gabriel Félix, que morreu aos 29 anos, foi velado em Uberaba (MG) neste sábado",
-        "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/21/corpo-de-influenciador-gabriel-felix-que-morreu-aos-29-anos-sera-velado-em-uberaba-mg-neste-sabado.ghtml",
-        "summary": "Influenciador Gabriel Félix morreu antes de jogar futebol em encontro com amigos, diz prim O corpo do influenciador Gabriel Augusto Mateus Félix, que morreu aos 29 anos na quinta-feira (19), foi velado neste sábado (21),",
-        "image": "https://s2-g1.glbimg.com/rmTgAJTTBX1y-G5qyY_FtJEnvkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/NCmN09Q0KBFrzfYxrHTg/design-sem-nome-8-1-.png",
         "date": "21 de nov. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -185,63 +185,123 @@
     ],
     "esportes": [
       {
-        "title": "Melhores momentos: Bahia 0 x 1 Coritiba pelo Brasileirão",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/melhores-momentos-bahia-0-x-1-coritiba-pelo-brasileirao/",
-        "summary": "Melhores momentos: Bahia 0 x 1 Coritiba pelo Brasileirão O post Melhores momentos: Bahia 0 x 1 Coritiba pelo Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXrbqYtWAAAe-tU.webp",
-        "date": "21 de nov. de 2026",
+        "title": "Brasil vence Canadá por 3 a 2 e vai aos qualifiers da Billie Jean King Cup de 2027",
+        "link": "https://www.gazetaesportiva.com/mais-esportes/tenis/brasil-vence-canada-por-3-a-2-e-vai-aos-qualifiers-da-billie-jean-king-cup-de-2027/",
+        "summary": "O Brasil garantiu neste sábado uma vaga nos qualifiers intercontinentais da Billie Jean King Cup de 2027. Nos duelos da repescagem contra o Canadá, disputados em Vitória (ES), a delegação brasileira venceu por 3 a 2 e se",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/id14582_261121194745705033.webp",
+        "date": "22 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Central vence o Íbis em casa e assume liderança do Quadrangular Final do Pernambucano",
-        "link": "https://www.gazetaesportiva.com/campeonatos/pernambucano/central-vence-o-ibis-em-casa-e-assume-lideranca-do-quadrangular-final-do-pernambucano/",
-        "summary": "Central vence o Íbis em casa e assume liderança do Quadrangular Final do Pernambucano O post Central vence o Íbis em casa e assume liderança do Quadrangular Final do Pernambucano apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55608999407_c3f21cf3a3_k.webp",
-        "date": "21 de nov. de 2026",
+        "title": "Flamengo provoca Palmeiras após título: Primeiro Deca no campo",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-provoca-palmeiras-deca-no-campo-brasileirao-2026/",
+        "summary": "Flamengo provoca Palmeiras após título: \"Primeiro Deca no campo\" O post Flamengo provoca Palmeiras após título: Primeiro Deca no campo apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Captura-de-tela-2026-11-21-230531.webp",
+        "date": "22 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Abel aponta motivos para vice do Palmeiras no Brasileirão e reconhece: O Flamengo foi melhor",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-reconhece-superioridade-flamengo-apos-vice-brasileirao/",
-        "summary": "Abel aponta motivos do vice do Palmeiras no Brasileiro e reconhece: \"O Flamengo foi melhor\" O post Abel aponta motivos para vice do Palmeiras no Brasileirão e reconhece: O Flamengo foi melhor apareceu primeiro em Gazeta ",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/21112026_cg_palmeiras_destaque_3080_5.webp",
-        "date": "21 de nov. de 2026",
+        "title": "Cruzeiro bate rebaixada Chapecoense e chega à sexta vitória consecutiva no Brasileiro",
+        "link": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-chapecoense-sexta-vitoria-seguida-brasileirao/",
+        "summary": "Cruzeiro bate Chapecoense e chega à sexta vitória seguida no Brasileiro O post Cruzeiro bate rebaixada Chapecoense e chega à sexta vitória consecutiva no Brasileiro apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55666871155_3671354ac0_o.webp",
+        "date": "22 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Abel Ferreira reconhece superioridade do Flamengo no Brasileirão: “Foi melhor que o Palmeiras”",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/abel-ferreira-reconhece-superioridade-do-flamengo-no-brasileirao-foi-melhor-que-o-palmeiras/",
-        "summary": "Abel Ferreira reconhece superioridade do Flamengo no Brasileirão: “Foi melhor que o Palmeiras” O post Abel Ferreira reconhece superioridade do Flamengo no Brasileirão: “Foi melhor que o Palmeiras” apareceu primeiro em Ga",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Abel-Ferrei.webp",
-        "date": "21 de nov. de 2026",
+        "title": "Flamengo agradece Palmeiras por recepção e diz que rivalidade deve ficar restrita às quatro linhas",
+        "link": "https://www.gazetaesportiva.com/times/flamengo/flamengo-agradece-palmeiras-por-recepcao-nubank-parque/",
+        "summary": "Flamengo agradece Palmeiras por recepção e \"cordialidade\" no Nubank Parque O post Flamengo agradece Palmeiras por recepção e diz que rivalidade deve ficar restrita às quatro linhas apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2026-11-21-at-6.48.29-PM.webp",
+        "date": "22 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Leonardo Jardim celebra título do Flamengo e fala sobre futuro: “Hoje é dia de festa”",
-        "link": "https://www.gazetaesportiva.com/times/flamengo/leonardo-jardim-celebra-titulo-do-flamengo-e-fala-sobre-futuro-hoje-e-dia-de-festa/",
-        "summary": "Leonardo Jardim celebra título do Flamengo e fala sobre futuro: “Hoje é dia de festa” O post Leonardo Jardim celebra título do Flamengo e fala sobre futuro: “Hoje é dia de festa” apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Leonardo-Jard.webp",
-        "date": "21 de nov. de 2026",
+        "title": "Cruzeiro é superado pelo São José e perde invencibilidade na Superliga Masculina",
+        "link": "https://www.gazetaesportiva.com/campeonatos/superliga-masculina-de-volei/cruzeiro-e-superado-pelo-sao-jose-e-perde-invencibilidade-na-superliga-masculina/",
+        "summary": "Cruzeiro é superado pelo São José e perde invencibilidade na Superliga Masculina O post Cruzeiro é superado pelo São José e perde invencibilidade na Superliga Masculina apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Jogo-VVSJ-x-Sada-Cruzeiro-Superliga-2026-27-6.webp",
+        "date": "22 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Coritiba vence Bahia fora de casa e abre sete pontos do Z4 no Brasileirão",
-        "link": "https://www.gazetaesportiva.com/times/coritiba/coritiba-vence-bahia-fora-de-casa-e-abre-sete-pontos-do-z4-no-brasileirao/",
-        "summary": "Coritiba vence Bahia fora de casa e abre sete pontos do Z4 no Brasileirão O post Coritiba vence Bahia fora de casa e abre sete pontos do Z4 no Brasileirão apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXrbqYtWAAAe-tU.webp",
-        "date": "21 de nov. de 2026",
+        "title": "Com dois de Gonzalo Tapia, Columbus Crew vence fora de casa e pressiona Inter Miami na MLS",
+        "link": "https://www.gazetaesportiva.com/futebol/futebol-internacional/com-dois-de-gonzalo-tapia-columbus-crew-vence-fora-de-casa-e-pressiona-inter-miami-na-mls/",
+        "summary": "O Columbus Crew surpreendeu o Inter Miami neste sábado e venceu por 3 a 0 o confronto entre as duas equipes no Nu Stadium, em Miami, pelos playoffs da MLS. O atacante chileno Gonzalo Tapia, emprestado pelo São Paulo, foi",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/HXr6ZT2XAAAnNkc.webp",
+        "date": "22 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Bap provoca Palmeiras, diz que títulos do Flamengo 'não têm fax' e quer permanência de Boto e Jardim: 'Espero que fiquem'",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/17545793/bap-provoca-palmeiras-diz-que-titulos-flamengo-nao-tem-fax-quer-permanencia-boto-jardim-espero-fiquem",
+        "summary": "Dirigente cutucou o rival e falou sobre manutenção do trabalho",
+        "image": null,
+        "date": "22 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Flamengo empata com Palmeiras e se sagra campeão brasileiro no Nubank Parque",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque",
+        "summary": "null",
+        "image": null,
+        "date": "22 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Arrascaeta usa bordão de Leila para provocar: 'Estão mais calmos?'",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/17545125/arrascaeta-usa-bordao-leila-provocar-palmeiras-estao-mais-calmos-vice-novo",
+        "summary": "Uruguaio fez postagem no Instagram com indiretas aos palmeirenses",
+        "image": null,
+        "date": "22 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Danilo rebate quem chama Brasileirão de 'prêmio de consolação'",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/17544825/flamengo-danilo-rebate-quem-chama-brasileirao-premio-consolacao-loucura-falar-isso",
+        "summary": "Flamengo garantiu título nacional neste sábado (21)",
+        "image": null,
+        "date": "22 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Paquetá realiza sonho com título: 'Ano que vem vamos buscar mais'",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/17544559/flamengo-paqueta-realiza-sonho-titulo-brasileiro-promete-ano-que-vem-vamos-buscar-mais",
+        "summary": "Flamengo garantiu título nacional após empate contra o Palmeiras neste sábado (21)",
+        "image": null,
+        "date": "22 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Jardim cita orgulho por levar Flamengo a título: 'Fomos o melhor'",
+        "link": "https://www.espn.com.br/futebol/flamengo/artigo/_/id/17544595/flamengo-leonardo-jardim-cita-orgulho-titulo-brasileiro-fomos-melhor-equipe-pais",
+        "summary": "Leonardo Jardim lembrou que o Flamengo ficou sete pontos atrás do Palmeiras no Brasileirão",
+        "image": null,
+        "date": "22 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
@@ -307,6 +367,16 @@
         "cls": ""
       },
       {
+        "title": "Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair",
+        "link": "https://www.infomoney.com.br/business/inteligencia-artificial-omie-marcelo-lombardo-sucessao/",
+        "summary": "A inteligência artificial levou Marcelo Lombardo a suspender a sucessão e centralizar as vendas da Omie. Franquias respondiam por 70% delas The post Ele preparou a sucessão da Omie por 4 anos. A IA o fez desistir de sair",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/marcelo-lombardo-ceo-da-omie-low.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "21 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
         "title": "Trump disse a líderes europeus que estavam gastando muito com Ucrânia, diz Zelensky",
         "link": "https://www.infomoney.com.br/mundo/trump-disse-a-lideres-europeus-que-estavam-gastando-muito-com-ucrania-diz-zelensky/",
         "summary": "Trump participou por teleconferência de uma reunião da “Coalizão dos Dispostos” da Ucrânia, em Berlim The post Trump disse a líderes europeus que estavam gastando muito com Ucrânia, diz Zelensky appeared first on InfoMon",
@@ -351,16 +421,6 @@
         "link": "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/",
         "summary": "Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips The post FT: Amazon negocia compr",
         "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/amazon-empresa-business-entrega-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-        "date": "21 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Cúpula climática COP31 corre risco de fracassar, conforme negociações se estendem",
-        "link": "https://www.infomoney.com.br/mundo/cupula-climatica-cop31-corre-risco-de-fracassar-conforme-negociacoes-se-estendem/",
-        "summary": "Negociadores de quase 200 países estão tendo dificuldades para superar as divergências sobre combustíveis fósseis e financiamento climático The post Cúpula climática COP31 corre risco de fracassar, conforme negociações s",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/cop31.png?fit=300%2C199&amp;quality=70&amp;strip=all",
         "date": "21 de nov. de 2026",
         "source": "InfoMoney",
         "tag": "InfoMoney",
