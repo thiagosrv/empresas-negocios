@@ -7,8 +7,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const FEEDS = [
   // Campinas & Região
-  { group: 'campinas', name: 'G1 Campinas',    url: 'https://g1.globo.com/rss/g1/sp/campinas-regiao/', tag: 'G1 Campinas',   cls: 'brasil'   },
-  { group: 'campinas', name: 'Americanense',   url: 'https://jornalamericanense.com.br/feed/',          tag: 'Americanense',  cls: 'servicos' },
+  { group: 'campinas', name: 'G1 Campinas',    url: 'https://g1.globo.com/rss/g1/sp/campinas-regiao/', tag: 'G1 Campinas',    cls: 'brasil'   },
+  { group: 'campinas', name: 'G1 Piracicaba',  url: 'https://g1.globo.com/rss/g1/sp/piracicaba-regiao/', tag: 'G1 Piracicaba', cls: 'brasil'   },
+  { group: 'campinas', name: 'Americanense',   url: 'https://jornalamericanense.com.br/feed/',            tag: 'Americanense',  cls: 'servicos' },
   { group: 'campinas', name: 'Agência Brasil', url: 'https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml', tag: 'Agência Brasil', cls: 'brasil' },
   // Esportes
   { group: 'esportes', name: 'Gazeta Esportiva', url: 'https://www.gazetaesportiva.com/feed/',         tag: 'Esportes',      cls: 'startups' },

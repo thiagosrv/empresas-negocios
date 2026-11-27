@@ -1,0 +1,46 @@
+name: 📍 Artigo Regional de Qualidade
+
+on:
+  schedule:
+    - cron: '0 15 * * *'    # Todo dia às 12h BRT (UTC-3 = 15h UTC)
+  workflow_dispatch:          # disparo manual pelo painel do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Atualizar feeds regionais
+        run: node scripts/fetch-rss.js
+
+      - name: Gerar artigo de qualidade
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/quality-news.js
+
+      - name: Commit e push
+        run: |
+          git config user.name  "quality-news-bot"
+          git config user.email "bot@empresasenegocios.com.br"
+          git pull --no-rebase origin main
+          git add -A
+          git diff --staged --quiet \
+            || git commit -m "feat: artigo regional de qualidade $(date +'%Y-%m-%d') [skip ci]"
+          git push

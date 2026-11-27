@@ -14,7 +14,8 @@
     "fetch-esportes": "node scripts/fetch-esportes.js",
     "generate-article-servicos": "node scripts/generate-article-servicos.js",
     "generate-batch-futebol": "node scripts/generate-batch-futebol.js",
-    "publish-markdown": "node scripts/publish-markdown.js"
+    "publish-markdown": "node scripts/publish-markdown.js",
+    "quality-news": "node scripts/quality-news.js"
   },
   "dependencies": {
     "openai": "^4.52.0",
