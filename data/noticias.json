@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-26T23:35:10.973Z",
+  "updated": "2026-11-27T07:36:56.524Z",
   "feeds": {
     "campinas": [
+      {
+        "title": "De calor extremo a temporais: Campinas cria comissão para preparar escolas municipais para emergências",
+        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/26/de-calor-extremo-a-temporais-campinas-cria-comissao-para-preparar-escolas-municipais-para-emergencias.ghtml",
+        "summary": "Imagem de arquivo mostra árvore caída em refeitório e salas de aula de escola em Campinas. Imagens cedidas Campinas (SP) criou uma comissão que será responsável por coordenar ações de prevenção e resposta a emergências n",
+        "image": "https://s2-g1.glbimg.com/LugJusFUdiAFfzNcagy6a6vHD4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/wlFbBWSBAfH2gcJ7Wong/cai-st-genebra.png",
+        "date": "26 de nov. de 2026",
+        "source": "G1 Campinas",
+        "tag": "G1 Campinas",
+        "cls": "brasil"
+      },
       {
         "title": "Quatro são detidos após tentativa de roubo à casa de policial militar em Sumaré",
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/26/detidos-tentativa-roubo-casa-policial-militar-sumare.ghtml",
@@ -47,16 +57,6 @@
         "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/26/hospital-puc-campinas-tem-52-pacientes-em-macas-nos-corredores-e-pede-que-populacao-procure-outras-unidades.ghtml",
         "summary": "Adolescente atropelado está internado no Hospital PUC-Campinas Reprodução/EPTV O Hospital PUC-Campinas informou, na tarde desta quinta-feira (26), que enfrenta um cenário de superlotação, pacientes acomodados em macas no",
         "image": "https://s2-g1.glbimg.com/bx7vmlXVXzcLJfLLEKChCbmapcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/V/SVMAhAQGAghCQrKJJp2w/hospital-puc-campinas.jpg",
-        "date": "26 de nov. de 2026",
-        "source": "G1 Campinas",
-        "tag": "G1 Campinas",
-        "cls": "brasil"
-      },
-      {
-        "title": "Número de desalojados em Sumaré sobe para 58 após enchentes; moradores relatam prejuízos em Americana",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/26/numero-de-desalojados-em-sumare-sobe-para-58-apos-enchentes-moradores-relatam-prejuizos-em-americana.ghtml",
-        "summary": "Bombeiros realizam resgates de moradores com botes em áreas alagadas de Americana (SP), após o transbordamento do Ribeirão Quilombo Reprodução/EPTV As fortes chuvas que atingiram a região de Campinas (SP) nesta semana de",
-        "image": "https://s2-g1.glbimg.com/TiJkGt5NIQnYYE_ZnD3-QJBlRdI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Z/qOfKBARjeevROSAbXBDQ/eptv1-2611-alagamentos-cp004nit-2026-11-26-12-19-11.mxf-snapshot-01.23.291.jpg",
         "date": "26 de nov. de 2026",
         "source": "G1 Campinas",
         "tag": "G1 Campinas",
@@ -123,9 +123,39 @@
         "cls": "servicos"
       },
       {
-        "title": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Mega-Sena não tem ganhador e prêmio acumula para R$ 82 milhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-nao-tem-ganhador-e-premio-acumula-para-r-82-milhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-nao-tem-ganhador-e-premio-acumula-para-r-82-milhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Veja a repercussão da escolha de Trabuco para o Ministério da Fazenda",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Governo e produtores repudiam crítica de Macron à carne brasileira",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Agência Brasil",
+        "cls": "brasil"
+      },
+      {
+        "title": "Amazonas, Pará e Roraima passam por apagão de energia nesta quinta",
+        "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/amazonas-para-e-roraima-passam-por-apagao-de-energia-nesta-quinta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/amazonas-para-e-roraima-passam-por-apagao-de-energia-nesta-quinta img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Agência Brasil",
@@ -133,9 +163,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Inca lança atlas sobre características do câncer em brasileiros",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/inca-lanca-atlas-sobre-caracteristicas-do-cancer-em-brasileiros",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/inca-lanca-atlas-sobre-caracteristicas-do-cancer-em-brasileiros img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets",
+        "title": "Angra dos Reis registra maior volume de chuva no estado nesta quinta",
+        "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/angra-dos-reis-registra-maior-volume-de-chuva-no-estado-nesta-quinta",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/angra-dos-reis-registra-maior-volume-de-chuva-no-estado-nesta-quinta img src= https://cdn.jsdelivr.net/gh/sergio",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Agência Brasil",
@@ -143,39 +173,9 @@
         "cls": "brasil"
       },
       {
-        "title": "Casal trans denuncia agressão por dois homens em supermercado no DF",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/casal-trans-denuncia-agressao-por-dois-homens-em-supermercado-no-df",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/casal-trans-denuncia-agressao-por-dois-homens-em-supermercado-no-df img src= https://cdn.jsdelivr.net/gh/serg",
-        "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Raio atinge plataforma da Petrobras a 200 quilômetros da costa do Rio",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/raio-atinge-plataforma-da-petrobras-200-quilometros-da-costa-do-rio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/raio-atinge-plataforma-da-petrobras-200-quilometros-da-costa-do-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Iphan aprova tombamento do antigo prédio do DOI-Codi no Rio",
-        "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/iphan-aprova-tombamento-do-antigo-predio-do-doi-codi-no-rio",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/iphan-aprova-tombamento-do-antigo-predio-do-doi-codi-no-rio img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
-        "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Agência Brasil",
-        "cls": "brasil"
-      },
-      {
-        "title": "Pix terá novas regras de segurança e melhorias em 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "title": "Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto img src= https://cdn.jsdelivr.net/gh/sergiosdlima/a",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Agência Brasil",
@@ -185,67 +185,157 @@
     ],
     "esportes": [
       {
-        "title": "Kaio Pantaleão projeta duelo contra o Bahia: Estamos bastante motivados",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/kaio-pantaleao-projeta-duelo-contra-o-bahia-estamos-bastante-motivados/",
-        "summary": "Zagueiro pode começar a partida no Nilton Santos, a última do Botafogo em casa neste Campeonato Brasileiro. O post Kaio Pantaleão projeta duelo contra o Bahia: Estamos bastante motivados apareceu primeiro em Gazeta Espor",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/apsi241u-1920Kaio.webp",
-        "date": "26 de nov. de 2026",
+        "title": "André Castro mantém proposta de aporte financeiro no Corinthians, mas não promete valores",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/andre-castro-aporte-us-1-bilhao-plano-corinthians/",
+        "summary": "André Castro mantém proposta de aporte financeiro, mas não promete valores O post André Castro mantém proposta de aporte financeiro no Corinthians, mas não promete valores apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/Tratada.jpg.webp",
+        "date": "27 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Timão volta aos trabalhos e já foca no jogo contra o Grêmio",
-        "link": "https://www.gazetaesportiva.com/todas-as-noticias/timao-volta-aos-trabalhos-e-ja-foca-no-jogo-contra-o-gremio/",
-        "summary": "Elenco do Corinthians iniciou o trabalho de olho na partida contra o time gaúcho, em casa, pela penúltima rodada do Brasileirão. O post Timão volta aos trabalhos e já foca no jogo contra o Grêmio apareceu primeiro em Gaz",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/q31qfg6o-1920timao.webp",
-        "date": "26 de nov. de 2026",
+        "title": "Justiça rejeita pedido de intervenção judicial e afastamento do presidente do Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/corinthians/corinthians-intervencao-judicial-eleicoes/",
+        "summary": "Justiça nega intervenção judicial e afastamento da diretoria do Corinthians O post Justiça rejeita pedido de intervenção judicial e afastamento do presidente do Corinthians apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/WhatsApp-Image-2025-10-30-at-17.24.15.webp",
+        "date": "27 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Veja fotos do treino do Palmeiras em Montevidéu nesta quinta-feira",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/veja-fotos-do-treino-do-palmeiras-em-montevideu-nesta-quinta-feira/",
-        "summary": "O post Veja fotos do treino do Palmeiras em Montevidéu nesta quinta-feira apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/26112026_cg_palmeiras_4611_37.webp",
-        "date": "26 de nov. de 2026",
+        "title": "Carpini vê gols do São Paulo como bizarros e projeta duelo contra Corinthians",
+        "link": "https://www.gazetaesportiva.com/times/remo-pa/carpini-ve-gols-do-sao-paulo-como-bizarros-e-projeta-duelo-contra-corinthians/",
+        "summary": "Carpini vê gols do São Paulo como \"bizarros\" e projeta duelo contra Corinthians O post Carpini vê gols do São Paulo como bizarros e projeta duelo contra Corinthians apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/IMG_6654.webp",
+        "date": "27 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Murilo e Piquerez evoluem e devem ficar à disposição do Palmeiras para final",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/murilo-e-piquerez-evoluem-e-devem-ficar-a-disposicao-do-palmeiras-para-final/",
-        "summary": "Murilo e Piquerez evoluem e devem ficar à disposição do Palmeiras para final O post Murilo e Piquerez evoluem e devem ficar à disposição do Palmeiras para final apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/26112026_cg_palmeiras_4752_56-2.webp",
-        "date": "26 de nov. de 2026",
+        "title": "Dorival comunica saída e faz autocrítica sobre trabalho no São Paulo",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-comunica-saida-e-faz-autocritica-sobre-trabalho-no-sao-paulo/",
+        "summary": "Dorival comunica saída e faz autocrítica sobre trabalho no São Paulo O post Dorival comunica saída e faz autocrítica sobre trabalho no São Paulo apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55670538769_f887c6361f_o.webp",
+        "date": "27 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Palmeiras x Operário-PR: Siga ao vivo o duelo pela semifinal da Copa do Brasil sub-20",
-        "link": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-operario-pr-copa-do-brasil-sub-20/",
-        "summary": "Palmeiras e Operário-PR disputam vaga na final da Copa do Brasil sub-20 O post Palmeiras x Operário-PR: Siga ao vivo o duelo pela semifinal da Copa do Brasil sub-20 apareceu primeiro em Gazeta Esportiva.",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/f3e40db2-905c-4289-b1b2-b0b6081f7aa2.webp",
-        "date": "26 de nov. de 2026",
+        "title": "Dorival e Rafinha comunicam saída do São Paulo ao fim da temporada",
+        "link": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-rafinha-saida-sao-paulo/",
+        "summary": "Dorival e Rafinha comunicam saída do São Paulo ao fim da temporada O post Dorival e Rafinha comunicam saída do São Paulo ao fim da temporada apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261127__marina_uezima_brazil_photo_press_22750__v1__MidRes__SaoPauloAndRemoIn.webp",
+        "date": "27 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
         "cls": "startups"
       },
       {
-        "title": "Vila Nova x Atlético-GO: onde assistir ao vivo e escalações do jogo de volta dos playoffs da Série B",
-        "link": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-x-atletico-go-onde-assistir-ao-vivo-e-escalacoes-do-jogo-de-volta-dos-playoffs-da-serie-b/",
-        "summary": "Vila Nova x Atlético-GO: onde assistir ao vivo e escalações do jogo de volta dos playoffs da Série B O post Vila Nova x Atlético-GO: onde assistir ao vivo e escalações do jogo de volta dos playoffs da Série B apareceu pr",
-        "image": "https://static.gazetaesportiva.com/uploads/2026/11/55668536241_392b095d35_k.webp",
-        "date": "26 de nov. de 2026",
+        "title": "Incidentes violentos com torcedores mancham rodada da Liga Europa",
+        "link": "https://www.gazetaesportiva.com/campeonatos/liga-europa/incidentes-violentos-com-torcedores-mancham-rodada-da-liga-europa/",
+        "summary": "Incidentes violentos com torcedores mancham rodada da Liga Europa O post Incidentes violentos com torcedores mancham rodada da Liga Europa apareceu primeiro em Gazeta Esportiva.",
+        "image": "https://static.gazetaesportiva.com/uploads/2026/11/AFP__20261126__D8RC79F__v1__MidRes__FblEurC3BesiktasHapoelBeer.webp",
+        "date": "27 de nov. de 2026",
         "source": "Gazeta Esportiva",
         "tag": "Esportes",
+        "cls": "startups"
+      },
+      {
+        "title": "Dorival Júnior e Rafinha anunciam que não ficam no São Paulo para 2027",
+        "link": "https://www.espn.com.br/futebol/sao-paulo/artigo/_/id/17567433/dorival-comunica-rafinha-nao-ficara-sao-paulo-2027",
+        "summary": "Treinador, com contrato até o fim da temporada, vai se despedir na partida contra o Athletico-PR",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Por que sair do São Paulo? Dorival e Rafinha justificam decisão e apontam erros",
+        "link": "https://www.espn.com.br/futebol/sao-paulo/artigo/_/id/17567870/dorival-junior-rafinha-explicam-saida-sao-paulo-imaginava-que-o-cenario-seria-complicado-mas-nao-tanto-quanto-encontramos",
+        "summary": "Dorival Júnior e Rafinha comunicaram que não permanecem no São Paulo para 2027",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Leila Pereira diz que Palmeiras não terá 'ano perdido' mesmo se for vice da Libertadores: 'Impossível ganhar tudo'",
+        "link": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/17566540/leila-pereira-palmeiras-ano-perdido-vice-libertadores-impossivel-ganhar-tudo",
+        "summary": "null",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "Leila diz que Palmeiras tinha aval dos médicos para contratar Paulinho: 'Todos queriam'",
+        "link": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/17566623/leila-pereira-diz-que-palmeiras-tinha-aval-dos-medicos-para-contratar-paulinho-e-afirma-que-ninguem-sabe-do-futuro-todos-queriam",
+        "summary": "Leila Pereira, presidente do Palmeiras, concedeu entrevista coletiva nesta quinta-feira em Montevidéu (URU)",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "As contas de Corinthians, Botafogo, Grêmio, Inter e Mirassol para evitar rebaixamento no Brasileirão",
+        "link": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17565824/contas-corinthians-botafogo-gremio-inter-mirassol-rebaixamento-brasileirao",
+        "summary": "Cinco equipes lutam para escapar do rebaixamento, restando duas vagas; Chapecoense e Remo já caíram",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
+        "cls": "startups"
+      },
+      {
+        "title": "David, do Vasco, é preso no clube pela Polícia Civil em operação contra o tráfico",
+        "link": "https://www.espn.com.br/futebol/vasco/artigo/_/id/17565173/david-vasco-preso-clube-policia-civil-operacao-trafico",
+        "summary": "null",
+        "image": null,
+        "date": "26 de nov. de 2026",
+        "source": "ESPN Brasil",
+        "tag": "ESPN",
         "cls": "startups"
       }
     ],
     "negocios": [
+      {
+        "title": "Mega-Sena não tem ganhador e prêmio acumula para R$ 82 milhões",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-nao-tem-ganhador-e-premio-acumula-para-r-82-milhoes",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-nao-tem-ganhador-e-premio-acumula-para-r-82-milhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asset",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Veja a repercussão da escolha de Trabuco para o Ministério da Fazenda",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda img src= https://cdn.jsdelivr.net/gh/sergiosdlima",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
+      {
+        "title": "Governo e produtores repudiam crítica de Macron à carne brasileira",
+        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira",
+        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-e-produtores-repudiam-critica-de-macron-carne-brasileira img src= https://cdn.jsdelivr.net/gh/sergiosdlima/as",
+        "image": null,
+        "date": "27 de nov. de 2026",
+        "source": "Agência Brasil",
+        "tag": "Economia",
+        "cls": ""
+      },
       {
         "title": "Trabuco aceita convite de Lula para comandar a Fazenda, diz Planalto",
         "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto",
@@ -277,99 +367,89 @@
         "cls": ""
       },
       {
-        "title": "Pix terá novas regras de segurança e melhorias em 2027",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027 img src= https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1",
+        "title": "Alcolumbre elogia Trabuco e promete diálogo do Congresso com a Fazenda",
+        "link": "https://www.infomoney.com.br/politica/alcolumbre-diz-receber-com-otimismo-escolha-de-trabuco-para-a-fazenda/",
+        "summary": "Presidente do Congresso cita a capacidade técnica e a habilidade de diálogo do banqueiro, num momento em que o governo precisa aprovar a pauta econômica na Câmara e no Senado The post Alcolumbre elogia Trabuco e promete ",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado.png?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "27 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Durigan cita Haddad e deseja bom trabalho a Trabuco na Fazenda",
+        "link": "https://www.infomoney.com.br/politica/durigan-cita-haddad-e-deseja-bom-trabalho-a-trabuco-na-fazenda/",
+        "summary": "Ministro diz que a pasta foi conduzida com \"seriedade e ética\" com Haddad e com ele, e oferece apoio da equipe ao presidente do conselho do Bradesco na transição The post Durigan cita Haddad e deseja bom trabalho a Trabu",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-26T214044Z_1_LYNXMPEM4P28Z_RTROPTP_4_BRAZIL-ECONOMY-DEBT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+        "date": "27 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Anbima diz receber com satisfação escolha de Trabuco para a Fazenda",
+        "link": "https://www.infomoney.com.br/mercados/anbima-diz-receber-com-satisfacao-escolha-de-trabuco-para-a-fazenda/",
+        "summary": "Para a associação, indicação de um nome com trajetória no mercado financeiro mostra compromisso do governo com a estabilidade e a gestão da política econômica The post Anbima diz receber com satisfação escolha de Trabuco",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/luiz-carlos-trabuco-bradesco-02-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+        "date": "27 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital",
+        "link": "https://www.infomoney.com.br/politica/jair-bolsonaro-tem-melhora-mas-ainda-sem-previsao-de-sair-da-uti-informa-hospital/",
+        "summary": "Ex-presidente está internado deste a última sexta-feira (20) The post Jair Bolsonaro tem melhora, mas ainda sem previsão de sair da UTI, informa hospital appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-14T013128Z_1_LYNXMPEL7D00Z_RTROPTP_4_BRAZIL-BOLSONARO.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+        "date": "27 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Dia de Sorte: confira o resultado do concurso 1357 sorteado nesta quinta-feira (26)",
+        "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1357-sorteado-nesta-quinta-feira-26/",
+        "summary": "O prêmio estimado para este concurso era de R$ 100 mil The post Dia de Sorte: confira o resultado do concurso 1357 sorteado nesta quinta-feira (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+        "date": "27 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Lotofácil hoje, concurso 3839: confira o resultado sorteado nesta quinta-feira (26)",
+        "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3839-confira-o-resultado-sorteado-nesta-quinta-feira-26/",
+        "summary": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3839: confira o resultado sorteado nesta quinta-feira (26) appeared first on InfoMoney.",
+        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorteio-lotofacil.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+        "date": "27 de nov. de 2026",
+        "source": "InfoMoney",
+        "tag": "InfoMoney",
+        "cls": "brasil"
+      },
+      {
+        "title": "Black Friday fake? Apenas 16% das promoções têm desconto real, diz levantamento",
+        "link": "https://exame.com/invest/minhas-financas/black-friday-fake-apenas-16-das-promocoes-tem-desconto-real-diz-levantamento/",
+        "summary": "Descontos costumam variar de 20% a 25%, mas a economia real típica para os consumidores é de até 5%",
         "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "27 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "Receita apreende 58 toneladas de roupas e tênis não declarados",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-apreende-58-toneladas-de-roupas-e-tenis-nao-declarados",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-apreende-58-toneladas-de-roupas-e-tenis-nao-declarados img src= https://cdn.jsdelivr.net/gh/sergiosdlima/asse",
+        "title": "Black Friday com Selic a 13,75%: como não cair em ciladas e evitar dívidas",
+        "link": "https://exame.com/invest/minhas-financas/black-friday-com-selic-a-1375-como-nao-cair-em-ciladas-e-evitar-dividas/",
+        "summary": "Com crédito caro e investimentos mais rentáveis, consumidores precisam comparar descontos, juros e parcelas antes de comprar; especialistas alertam para o risco de comprometer a renda dos próximos meses em busca de ofert",
         "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
+        "date": "27 de nov. de 2026",
+        "source": "Exame",
+        "tag": "Exame",
+        "cls": "startups"
       },
       {
-        "title": "CMO aprova relatório do Orçamento de 2027 com corte de R$ 2,09 bilhões",
-        "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmo-aprova-relatorio-do-orcamento-de-2027-com-corte-de-r-209-bilhoes",
-        "summary": "p p style= text-align:center; a class= href= https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmo-aprova-relatorio-do-orcamento-de-2027-com-corte-de-r-209-bilhoes img src= https://cdn.jsdelivr.net/gh/sergiosdlim",
-        "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Agência Brasil",
-        "tag": "Economia",
-        "cls": ""
-      },
-      {
-        "title": "Trabuco muda jogo e BBI eleva Brasil para overweight, vendo alta de 30% para ações",
-        "link": "https://www.infomoney.com.br/mercados/trabuco-muda-jogo-e-bbi-eleva-brasil-para-overweight-vendo-alta-de-30-para-acoes/",
-        "summary": "Após nomeação de Luiz Carlos Trabuco, banco vê catalisador que faltava para destravar a reprecificação dos ativos brasileiros The post Trabuco muda jogo e BBI eleva Brasil para overweight, vendo alta de 30% para ações ap",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-04-172035.png?fit=300%2C197&amp;quality=70&amp;strip=all",
-        "date": "26 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda",
-        "link": "https://www.infomoney.com.br/politica/ajuste-fiscal-endividamento-e-estatais-sao-desafios-de-novo-ministro-da-fazenda/",
-        "summary": "Escolhido por Lula vai enfrentar um cenário macroeconômico desfavorável, de crescimento mais baixo da economia, inflação ainda longe da meta e juros nas alturas The post Ajuste fiscal, endividamento e estatais são desafi",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/img20261125134951199.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
-        "date": "26 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda?",
-        "link": "https://www.infomoney.com.br/mercados/ibovespa-e-real-ainda-podem-subir-mais-com-trabuco-confirmado-na-fazenda/",
-        "summary": "Mercado comemora nomeação de Luiz Carlos Trabuco para a Fazenda e vê espaço para nova rodada de alta da Bolsa e queda do dólar The post Ibovespa e real ainda podem subir mais com Trabuco confirmado na Fazenda? appeared f",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-26T122730Z_363785437_RC2RHBAXBSIB_RTRMADP_3_BRAZIL-POLITICS-FINANCE-MINISTRY.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "26 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Governo Lula anuncia Luiz Carlos Trabuco para Ministério da Fazenda",
-        "link": "https://www.infomoney.com.br/politica/governo-lula-anuncia-luiz-carlos-trabuco-para-ministerio-da-fazenda/",
-        "summary": "Presidente do Conselho de Administração do Bradesco assumirá a equipe econômica em 2027 The post Governo Lula anuncia Luiz Carlos Trabuco para Ministério da Fazenda appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-26T113831Z_1_LYNXNPEMAP0ZU_RTROPTP_4_BRAZIL-POLITICS.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-        "date": "26 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Efeito Trabuco : Bolsa brasileira ganha R$ 232 bilhões em valor de mercado em um dia",
-        "link": "https://www.infomoney.com.br/mercados/efeito-trabuco-bolsa-brasileira-ganha-r-232-bilhoes-em-valor-de-mercado-em-um-dia/",
-        "summary": "Movimento ocorreu em meio a especulações sobre Luiz Carlos Trabuco no Ministério da Fazenda The post Efeito Trabuco : Bolsa brasileira ganha R$ 232 bilhões em valor de mercado em um dia appeared first on InfoMoney.",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_574117576.jpg?fit=300%2C204&amp;quality=70&amp;strip=all",
-        "date": "26 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Exportadores rebatem Macron e denunciam protecionismo após ataque à carne brasileira",
-        "link": "https://www.infomoney.com.br/economia/exportadores-rebatem-macron-e-denunciam-protecionismo-apos-ataque-a-carne-brasileira/",
-        "summary": "Presidente da França chamou produto nacional de \"dopado\"; entidades afirmam que não há evidências técnicas para restrições ao Brasil The post Exportadores rebatem Macron e denunciam protecionismo após ataque à carne bras",
-        "image": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Carne-bovina.jpg?fit=300%2C212&amp;quality=70&amp;strip=all",
-        "date": "26 de nov. de 2026",
-        "source": "InfoMoney",
-        "tag": "InfoMoney",
-        "cls": "brasil"
-      },
-      {
-        "title": "Otimismo e respeito: as reações à escolha de Luiz Carlos Trabuco para o Ministério da Fazenda",
-        "link": "https://exame.com/economia/otimismo-e-confianca-as-reacoes-a-escolha-de-luiz-carlos-trabuco-para-o-ministerio-da-fazenda/",
-        "summary": "Paulo Skaf, Eduardo Braga e Davi Alcolumbre destacaram a trajetória do executivo no setor financeiro e manifestaram apoio à sua chegada ao comando da equipe econômica",
+        "title": "Essa farmacêutica dá folga no Dia da Saúde Mental, transporte na porta de casa e premia com viagens",
+        "link": "https://exame.com/carreira/essa-farmaceutica-da-folga-no-dia-da-saude-mental-transporte-na-porta-de-casa-e-premia-com-viagens/",
+        "summary": "No Rio de Janeiro, onde está localizada a operação administrativa, a Lundbeck disponibiliza quatro veículos de transporte corporativo, com horários definidos de chegada e saída",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Exame",
@@ -377,9 +457,9 @@
         "cls": "startups"
       },
       {
-        "title": "Ajuste fiscal, crescimento e programas sociais: o que pensa Trabuco sobre a economia",
-        "link": "https://exame.com/brasil/ajuste-fiscal-crescimento-e-programas-sociais-o-que-pensa-trabuco-sobre-a-economia/",
-        "summary": "Escolhido por Lula para comandar a Fazenda, banqueiro defende o cumprimento do arcabouço fiscal e a revisão dos programas sociais, mas faz ressalvas ao ajuste dissociado do crescimento econômico",
+        "title": "Grupo Protege desliga computador de funcionários após expediente e paga 100% da faculdade",
+        "link": "https://exame.com/carreira/grupo-protege-desliga-computador-de-funcionarios-apos-expediente-e-paga-100-da-faculdade/",
+        "summary": "Com quase 14 mil funcionários, empresa de segurança aposta em educação, home office e qualidade de vida para atrair e reter talentos",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Exame",
@@ -387,9 +467,9 @@
         "cls": "startups"
       },
       {
-        "title": "Assaltos no Itaim Bibi dão origem a startup que quer proteger o app do banco de quem vai à rua",
-        "link": "https://exame.com/negocios/assaltos-no-itaim-bibi-dao-origem-a-startup-que-quer-proteger-o-app-do-banco-de-quem-vai-a-rua/",
-        "summary": "DayMoon cobra R$ 9,90 por mês e quer chegar a 10 mil assinantes em seis meses. O aplicativo começou a ser distribuído por convite",
+        "title": "Farmacêutica paga até 2 salários extras, dá 60 dias de licença-paternidade e 3 dias de home office",
+        "link": "https://exame.com/carreira/farmaceutica-paga-ate-2-salarios-extras-da-60-dias-de-licenca-paternidade-e-3-dias-de-home-office/",
+        "summary": "Na Daiichi Sankyo Brasil, a flexibilidade também faz parte da estratégia de gestão de pessoas",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Exame",
@@ -397,29 +477,9 @@
         "cls": "startups"
       },
       {
-        "title": "Quem é Luiz Carlos Trabuco, escolhido por Lula para comandar o ministério da Fazenda",
-        "link": "https://exame.com/brasil/quem-e-luiz-carlos-trabuco-escolhido-por-lula-para-comandar-o-ministerio-da-fazenda/",
-        "summary": "Executivo do Bradesco iniciou a carreira como escriturário aos 17 anos e chegou a recusar um convite de Dilma Rousseff para comandar a pasta em 2014",
-        "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "De médico a economista: quem foram os ministros da Fazenda dos governos Lula",
-        "link": "https://exame.com/brasil/de-medico-a-economista-quem-foram-os-ministros-da-fazenda-dos-governos-lula/",
-        "summary": "O petista mudou o perfil de ministros da pasta ao longo dos anos em que comandou o país",
-        "image": null,
-        "date": "26 de nov. de 2026",
-        "source": "Exame",
-        "tag": "Exame",
-        "cls": "startups"
-      },
-      {
-        "title": "Luiz Carlos Trabuco aceita convite para ser ministro da Fazenda de Lula",
-        "link": "https://exame.com/brasil/luiz-carlos-trabuco-aceita-convite-para-ser-ministro-da-fazenda-de-lula/",
-        "summary": "Banqueiro se reuniu com o presidente da República nesta quinta-feira, 26, em Brasília",
+        "title": "Construtora de 90 anos aposta em saúde mental e até massagem para atrair engenheiros",
+        "link": "https://exame.com/carreira/construtora-de-90-anos-aposta-em-saude-mental-e-ate-massagem-para-atrair-engenheiros/",
+        "summary": "O desafio é atender também uma população com realidades bastante diferentes, que reúne desde profissionais com mestrado e pós-graduação até trabalhadores que não foram alfabetizados",
         "image": null,
         "date": "26 de nov. de 2026",
         "source": "Exame",
